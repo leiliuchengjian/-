@@ -3692,25 +3692,3 @@ if __name__ == "__main__":
     main()
 
 
-# ======================================================
-# 自动保存爬虫结果（追加功能，不影响原逻辑）
-# ======================================================
-
-import os, json
-from datetime import datetime
-
-def save_results(data):
-    timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
-    base_dir = "data"
-    latest_dir = os.path.join(base_dir, "latest")
-    archive_dir = os.path.join(base_dir, "archive")
-    os.makedirs(latest_dir, exist_ok=True)
-    os.makedirs(archive_dir, exist_ok=True)
-    filename = f"result_{timestamp}.json"
-    for d in [latest_dir, archive_dir]:
-        with open(os.path.join(d, filename), "w", encoding="utf-8") as f:
-            json.dump(data, f, ensure_ascii=False, indent=2)
-    print(f"✅ 已保存结果：{filename}")
-
-# 如果爬虫结果保存在变量 results 中：
-# save_results(results)
