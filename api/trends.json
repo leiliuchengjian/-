@@ -1,33 +1,35 @@
 {
-  "generated_at": "2025-10-14T07:10:19.954317+08:00",
-  "total_titles_processed": 671,
+  "generated_at": "2025-10-14T08:49:47.439225+08:00",
+  "total_titles_processed": 822,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 30,
+      "match_count": 35,
       "titles": [
         {
           "title": "还有反转？上周五“精准做空”引发全市场关注，神秘交易员再度开出1.6亿美元空单",
           "url": "https://wallstreetcn.com/articles/3757052",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 07时10分]"
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 08时49分]"
         },
         {
           "title": "超预期！中国9月以美元计价出口同比增长8.3%，进口同比增7.4% 工业机器人和风电出口增长强劲",
           "url": "https://wallstreetcn.com/articles/3757056",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 07时10分]"
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 08时49分]"
         },
         {
           "title": "聚焦稀土、机器人等27个领域 摩根大通启动1.5万亿美元投融资项目",
@@ -38,8 +40,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 07时10分]"
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 08时49分]"
+        },
+        {
+          "title": "纽元兑美元NZD/USD跌至6个月低点，报0.5716。",
+          "url": "https://flash.jin10.com/detail/20251014080658440800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时49分"
         },
         {
           "title": "LME期铜收涨302美元，报10820美元/吨。 LME期铝收涨15美元，报2763美元/吨。 LME期锌收涨20美元，报3021美元/吨。 LME期铅收跌32美元，报1989美元/吨。 LME期镍收跌74美元，报15206美元/吨。 LME期锡收跌447美元，报35726美元/吨。 LME期钴收平，报42725美元/吨。",
@@ -305,13 +318,24 @@
           "time_info": "05时12分"
         },
         {
+          "title": "新加坡金管局：维持新加坡元汇率区间的宽度和中点不变。",
+          "url": "https://flash.jin10.com/detail/20251014080355236800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时49分"
+        },
+        {
           "title": "现货白银涨破52.5美元/盎司，再创历史新高。",
           "url": "https://flash.jin10.com/detail/20251014060353532800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         },
@@ -349,6 +373,17 @@
           "time_info": "00时15分"
         },
         {
+          "title": "新加坡金管局维持新加坡元汇率区间的斜率、宽度和中点不变。",
+          "url": "https://wallstreetcn.com/livenews/2987048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时49分"
+        },
+        {
           "title": "纽约期银涨超6%，现货白银历史新高，美银预计明年可达到65美元",
           "url": "https://wallstreetcn.com/livenews/2986882",
           "source": "华尔街见闻-快讯",
@@ -360,6 +395,17 @@
           "time_info": "00时15分"
         },
         {
+          "title": "纽约期银日内涨幅达2.00%，现报51.44美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251014074453268800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时49分"
+        },
+        {
           "title": "在即期交易中，巴西雷亚尔兑美元汇率上涨1%。",
           "url": "https://flash.jin10.com/detail/20251014011056880800",
           "source": "金十数据",
@@ -369,12 +415,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时00分"
+        },
+        {
+          "title": "纽约期金触及4150美元/盎司，创下新高。",
+          "url": "https://flash.jin10.com/detail/20251014073833016800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时49分"
         }
       ]
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
         {
           "title": "OpenAI或将成为最大的无人公司",
@@ -398,9 +455,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
+        },
+        {
+          "title": "英伟达个人AI超级计算机本周开售",
+          "url": "https://flash.jin10.com/detail/20251014081613240800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时49分"
         },
         {
           "title": "IMF总裁格奥尔基耶娃：人工智能的监管和伦理基础“仍待建立”。",
@@ -510,9 +578,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
+        },
+        {
+          "title": "OpenAI再签重磅协议：计划未来四年与博通合作部署10千兆瓦定制化芯片和网络设备",
+          "url": "https://wallstreetcn.com/articles/3757107",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时49分"
+        },
+        {
+          "title": "OpenAI下订博通10GW定制芯片 AI巨头放言“这才是九牛一毛”",
+          "url": "https://www.cls.cn/detail/2168170",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时49分"
         },
         {
           "title": "市场消息：OpenAI正为了博通AI芯片研发而与软银集团旗下Arm控股合作。",
@@ -521,9 +611,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
+        },
+        {
+          "title": "新加坡金管局：持续开展与人工智能相关的全球投资，为新加坡制造业提供一定支持。",
+          "url": "https://flash.jin10.com/detail/20251014080304805800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时49分"
         },
         {
           "title": "三星季度利润创2022年以来最大，抓住全球AI繁荣机会",
@@ -532,7 +633,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         },
@@ -543,7 +644,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         },
@@ -554,7 +655,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         },
@@ -565,15 +666,177 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
+        },
+        {
+          "title": "市场消息：英伟达(NVDA.O)DGX Spark人工智能计算机面向全球人工智能开发者推出。",
+          "url": "https://flash.jin10.com/detail/20251014074140430800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 中概股 港股",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "美股三大股指集体高开，博通涨超8%，科技股集体反弹，热门中概股普涨，黄金续创新高",
+          "url": "https://wallstreetcn.com/articles/3757049",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 06时12分]"
+        },
+        {
+          "title": "高盛交易员：上周五的美股表现更像是“保护”，而非“退出”",
+          "url": "https://wallstreetcn.com/articles/3757057",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 08时49分]"
+        },
+        {
+          "title": "美股三大指数高开 稀土概念股大涨",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80+%E7%A8%80%E5%9C%9F%E6%A6%82%E5%BF%B5%E8%82%A1%E5%A4%A7%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            17,
+            15,
+            10,
+            16,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 07时10分]"
+        },
+        {
+          "title": "美股收盘：三大指数强势反弹 中国金龙指数涨超3%",
+          "url": "https://www.cls.cn/detail/2168249",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时10分 ~ 08时49分]"
+        },
+        {
+          "title": "科技股力撑美股反弹，博通涨近10%，黄金突破4100关口，历史性逼空助白银新高",
+          "url": "https://wallstreetcn.com/articles/3757049",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时49分"
+        },
+        {
+          "title": "【早报】美联储发声，美股全线反弹、国际金银价格飙升；中方对美船舶收取特别港务费，今起正式施行",
+          "url": "https://www.cls.cn/detail/2168275",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时49分"
+        },
+        {
+          "title": "金十图示：2025年10月13日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251014040517860800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时15分 ~ 06时12分]"
+        },
+        {
+          "title": "美股收盘：三大股指齐升 金龙指数涨超3%",
+          "url": "https://flash.jin10.com/detail/20251014040056817800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时15分 ~ 05时12分]"
+        },
+        {
+          "title": "新兴市场ETF收涨2.9%，和小盘股指ETF领跑美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/2986970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时12分 ~ 06时12分]"
+        },
+        {
+          "title": "金十图示：2025年10月13日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251014040523215800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时12分 ~ 06时12分]"
+        },
+        {
+          "title": "金十图示：2025年10月13日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251014004632914800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        },
+        {
+          "title": "金十图示：2025年10月13日（周一）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251014004622331800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时12分"
         }
       ]
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美联储保尔森：尚不清楚中性利率水平究竟是什么，但主张在降息速度上保持谨慎。",
@@ -672,13 +935,24 @@
           "time_info": "01时12分"
         },
         {
+          "title": "澳洲联储9月货币政策会议纪要：委员会同意不需要立即降低现金利率，未来的政策决定要谨慎并依赖数据。 重要的是看第三季度的经济数据和供给能力。 政策可能仍有一些限制性，但程度很难确定。 数据显示第二季度家庭消费的复苏可能会持续。 住房和服务业月度CPI数据显示第三季度通胀可能高于预期。 劳动力市场仍然有点紧张，前瞻性指标稳定。 私营部门薪资增长可能有比预期更快缓和的风险。 在给定贸易条件、收益率差异的情况下，澳元汇率接近均衡水平。 全球经济前景仍存在极大不确定性。",
+          "url": "https://wallstreetcn.com/livenews/2987068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时49分"
+        },
+        {
           "title": "美联储10月降息25个基点的概率为98.3%",
           "url": "https://flash.jin10.com/detail/20251014060751373800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         },
@@ -707,136 +981,8 @@
       ]
     },
     {
-      "keyword_group": "美股 中概股 港股",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "美股三大股指集体高开，博通涨超8%，科技股集体反弹，热门中概股普涨，黄金续创新高",
-          "url": "https://wallstreetcn.com/articles/3757049",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 06时12分]"
-        },
-        {
-          "title": "高盛交易员：上周五的美股表现更像是“保护”，而非“退出”",
-          "url": "https://wallstreetcn.com/articles/3757057",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 07时10分]"
-        },
-        {
-          "title": "美股三大指数高开 稀土概念股大涨",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80+%E7%A8%80%E5%9C%9F%E6%A6%82%E5%BF%B5%E8%82%A1%E5%A4%A7%E6%B6%A8",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            17,
-            15,
-            10,
-            16,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 07时10分]"
-        },
-        {
-          "title": "美股收盘：三大指数强势反弹 中国金龙指数涨超3%",
-          "url": "https://www.cls.cn/detail/2168249",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时10分"
-        },
-        {
-          "title": "金十图示：2025年10月13日（周一）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251014040517860800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            17,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时15分 ~ 06时12分]"
-        },
-        {
-          "title": "美股收盘：三大股指齐升 金龙指数涨超3%",
-          "url": "https://flash.jin10.com/detail/20251014040056817800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时15分 ~ 05时12分]"
-        },
-        {
-          "title": "新兴市场ETF收涨2.9%，和小盘股指ETF领跑美股大类资产类ETF",
-          "url": "https://wallstreetcn.com/livenews/2986970",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时12分 ~ 06时12分]"
-        },
-        {
-          "title": "金十图示：2025年10月13日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251014040523215800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时12分 ~ 06时12分]"
-        },
-        {
-          "title": "金十图示：2025年10月13日（周一）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251014004632914800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "金十图示：2025年10月13日（周一）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251014004622331800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        }
-      ]
-    },
-    {
       "keyword_group": "华为 小米 荣耀",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "成都一辆小米SU7超速失控自燃：路人施救未果，原因在调查",
@@ -848,8 +994,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 07时10分]"
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 08时49分]"
         },
         {
           "title": "《沉默的荣耀》历史真实度达80%以上",
@@ -877,8 +1023,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 07时10分]"
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 08时49分]"
         },
         {
           "title": "成都一小米汽车高速行驶发生车祸后起火，多人合力施救无果",
@@ -890,8 +1036,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 07时10分]"
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 08时49分]"
         },
         {
           "title": "谍战剧《沉默的荣耀》火到台湾",
@@ -940,11 +1086,23 @@
           "source": "抖音",
           "ranks": [
             26,
-            30
+            30,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时12分 ~ 07时10分]"
+          "appearance_count": 3,
+          "time_info": "[05时12分 ~ 08时49分]"
+        },
+        {
+          "title": "成都小米SU7碰撞起火，救援者：隐藏式门把手已打开，但拉不动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31770743",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时49分"
         }
       ]
     },
@@ -971,11 +1129,12 @@
             5,
             6,
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 07时10分]"
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 08时49分]"
         },
         {
           "title": "【焦点复盘】科技、资源股携手做多，沪指近百点反攻坚守3800点，科创芯片龙头时隔1年多再获涨停",
@@ -1011,7 +1170,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         },
@@ -1053,6 +1212,183 @@
       ]
     },
     {
+      "keyword_group": "黄金 金价",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "张瑜：黄金需要打开想象力",
+          "url": "https://wallstreetcn.com/articles/3757058",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 07时10分]"
+        },
+        {
+          "title": "目前的金价，你还敢追吗？",
+          "url": "https://www.zhihu.com/question/1960053472419378672",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时00分 ~ 07时10分]"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加1.72吨，当前持仓量为1018.88吨。",
+          "url": "https://flash.jin10.com/detail/20251014064411959800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时10分"
+        },
+        {
+          "title": "民警识破“黄金快递”洗钱套路",
+          "url": "https://www.baidu.com/s?wd=%E6%B0%91%E8%AD%A6%E8%AF%86%E7%A0%B4%E2%80%9C%E9%BB%84%E9%87%91%E5%BF%AB%E9%80%92%E2%80%9D%E6%B4%97%E9%92%B1%E5%A5%97%E8%B7%AF",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            27,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时12分 ~ 07时10分]"
+        },
+        {
+          "title": "现货黄金突破4100美元/盎司关口，刷新历史高位至4103.90美元，日内涨幅超过2.0%。 2025年迄今，金价累计上涨1479美元，累计涨幅超过56%。",
+          "url": "https://wallstreetcn.com/livenews/2986893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时00分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 10月13日（周一）晚盘收盘上涨1.8%报933.67元/克；<br/>上海黄金交易所白银T+D 10月13日（周一）晚盘收盘上涨2.55%报11669.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251014023042488800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时11分 ~ 04时15分]"
+        },
+        {
+          "title": "金银一路狂飙！现货黄金突破4100美元大关 银价年内涨幅逼近80%",
+          "url": "https://www.cls.cn/detail/2168202",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时49分"
+        },
+        {
+          "title": "法国兴业银行将2026年底的黄金价格目标上调至每盎司5000美元，因ETF资金流动强劲和央行买入。",
+          "url": "https://wallstreetcn.com/livenews/2987056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 iPhone",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "库克抖音官宣iPhone Air中国发售",
+          "url": "https://www.douyin.com/hot/2268904",
+          "source": "抖音",
+          "ranks": [
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 08时49分]"
+        },
+        {
+          "title": "苹果或迎特努斯时代",
+          "url": "https://www.douyin.com/hot/2267982",
+          "source": "抖音",
+          "ranks": [
+            23,
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时12分 ~ 03时11分]"
+        },
+        {
+          "title": "国行iPhone Air于10月17日开启预购",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E8%A1%8CiPhone+Air%E4%BA%8E10%E6%9C%8817%E6%97%A5%E5%BC%80%E5%90%AF%E9%A2%84%E8%B4%AD",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时11分 ~ 07时10分]"
+        },
+        {
+          "title": "苹果宣布向清华大学提供新一笔捐赠",
+          "url": "https://wallstreetcn.com/livenews/2987055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时49分"
+        },
+        {
+          "title": "vivo高管称新品对标苹果17",
+          "url": "https://www.toutiao.com/trending/7560128392352481319/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时49分"
+        },
+        {
+          "title": "库克宣布iPhoneAir上市时间",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%BA%93%E5%85%8B%E5%AE%A3%E5%B8%83iPhoneAir%E4%B8%8A%E5%B8%82%E6%97%B6%E9%97%B4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26realpos%3D29%26flag%3D1%26c_type%3D31%26lcate%3D5001%26pos%3D29%26band_rank%3D29%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26q%3D%2523%25E5%25BA%2593%25E5%2585%258B%25E5%25AE%25A3%25E5%25B8%2583iPhoneAir%25E4%25B8%258A%25E5%25B8%2582%25E6%2597%25B6%25E9%2597%25B4%2523%26dgr%3D0%26display_time%3D1760402968%26pre_seqid%3D17604029680510372924142",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时49分"
+        }
+      ]
+    },
+    {
       "keyword_group": "OPPO vivo",
       "match_count": 6,
       "titles": [
@@ -1065,11 +1401,12 @@
             7,
             12,
             10,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 07时10分]"
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 08时49分]"
         },
         {
           "title": "vivo X300价格",
@@ -1148,7 +1485,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         },
@@ -1215,87 +1552,8 @@
       ]
     },
     {
-      "keyword_group": "黄金 金价",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "张瑜：黄金需要打开想象力",
-          "url": "https://wallstreetcn.com/articles/3757058",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 07时10分]"
-        },
-        {
-          "title": "目前的金价，你还敢追吗？",
-          "url": "https://www.zhihu.com/question/1960053472419378672",
-          "source": "知乎",
-          "ranks": [
-            7,
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时00分 ~ 07时10分]"
-        },
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加1.72吨，当前持仓量为1018.88吨。",
-          "url": "https://flash.jin10.com/detail/20251014064411959800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时10分"
-        },
-        {
-          "title": "民警识破“黄金快递”洗钱套路",
-          "url": "https://www.baidu.com/s?wd=%E6%B0%91%E8%AD%A6%E8%AF%86%E7%A0%B4%E2%80%9C%E9%BB%84%E9%87%91%E5%BF%AB%E9%80%92%E2%80%9D%E6%B4%97%E9%92%B1%E5%A5%97%E8%B7%AF",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            27,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 07时10分]"
-        },
-        {
-          "title": "现货黄金突破4100美元/盎司关口，刷新历史高位至4103.90美元，日内涨幅超过2.0%。 2025年迄今，金价累计上涨1479美元，累计涨幅超过56%。",
-          "url": "https://wallstreetcn.com/livenews/2986893",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时00分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 10月13日（周一）晚盘收盘上涨1.8%报933.67元/克；<br/>上海黄金交易所白银T+D 10月13日（周一）晚盘收盘上涨2.55%报11669.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251014023042488800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时11分 ~ 04时15分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "想知道特斯拉电耗低的主要原因有哪些呢？",
@@ -1345,6 +1603,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时12分 ~ 06时12分]"
+        },
+        {
+          "title": "特斯拉市值一夜大增745亿美元",
+          "url": "https://www.toutiao.com/trending/7560848593934880294/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时49分"
         }
       ]
     },
@@ -1360,8 +1629,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 07时10分]"
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 08时49分]"
         },
         {
           "title": "自主可控！商务部公告首用wps格式 A股软件公司国产替代进度几何？",
@@ -1373,8 +1642,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 07时10分]"
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 08时49分]"
         },
         {
           "title": "有色与化工行业领跑，多家A股上市公司前三季度业绩翻倍增长",
@@ -1383,7 +1652,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         },
@@ -1394,7 +1663,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         }
@@ -1448,48 +1717,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时00分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 iPhone",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "库克抖音官宣iPhone Air中国发售",
-          "url": "https://www.douyin.com/hot/2268904",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 06时12分]"
-        },
-        {
-          "title": "苹果或迎特努斯时代",
-          "url": "https://www.douyin.com/hot/2267982",
-          "source": "抖音",
-          "ranks": [
-            23,
-            22,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 03时11分]"
-        },
-        {
-          "title": "国行iPhone Air于10月17日开启预购",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E8%A1%8CiPhone+Air%E4%BA%8E10%E6%9C%8817%E6%97%A5%E5%BC%80%E5%90%AF%E9%A2%84%E8%B4%AD",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时11分 ~ 07时10分]"
         }
       ]
     },
@@ -1567,7 +1794,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         },
@@ -1578,7 +1805,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         }
@@ -1611,11 +1838,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 07时10分]"
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 08时49分]"
         }
       ]
     },
@@ -1630,7 +1858,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         }
