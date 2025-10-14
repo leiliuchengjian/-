@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-15T06:11:20.106557+08:00",
-  "total_titles_processed": 662,
+  "generated_at": "2025-10-15T07:12:25.188665+08:00",
+  "total_titles_processed": 714,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "欧洲央行管委维勒鲁瓦：我们不能在俄罗斯资产问题上违反国际法。",
@@ -68,11 +68,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            15
+            15,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时10分 ~ 06时11分]"
+          "appearance_count": 3,
+          "time_info": "[05时10分 ~ 07时12分]"
         },
         {
           "title": "美联储柯林斯：或许再降息25个基点是合适的。",
@@ -164,9 +165,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "鲍威尔敞开降息大门：9月会议以来前景没多大变化，就业下行风险显著，或接近停止缩表（附讲稿）",
+          "url": "https://wallstreetcn.com/articles/3757187",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         },
         {
           "title": "美联储主席鲍威尔将于十分钟后发表讲话；英国央行行长贝利将于二十分钟后发表讲话。",
@@ -307,7 +319,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -321,6 +333,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "美联储10月降息25个基点的概率为97.3%",
+          "url": "https://flash.jin10.com/detail/20251015060702691800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         },
         {
           "title": "欧洲央行管委维勒鲁瓦：美国关税对欧元区通胀的影响应保持微弱。",
@@ -381,7 +404,7 @@
     },
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
         {
           "title": "新加坡发行的新元稳定币 XSGD，能否撼动美元稳定币的垄断地位？预计未来全球稳定币竞争格局会如何演绎？",
@@ -390,11 +413,12 @@
           "ranks": [
             13,
             10,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时12分]"
         },
         {
           "title": "摩根大通宣布“1.5万亿美元规划”：10年，四大领域，振兴美国工业",
@@ -406,17 +430,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时18分 ~ 06时11分]"
-        },
-        {
-          "title": "周二（10月14日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌2.47%，至11.4万美元下方，亚太盘初以来持续走低，北京时间21:38刷新日低至接近11.0万美元的水平，随后逐步收复失地。 CME以太币期货DCR主力合约跌3.22%，报4138.50美元，也在逐步走低的行情中于18:32刷新日低至3910.50美元。",
-          "url": "https://wallstreetcn.com/livenews/2987719",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时11分"
         },
         {
           "title": "WTI原油期货目前跌1.25%，暂报58.33美元。 美国总统特朗普自认为，可能与俄罗斯总统普京仍然关系良好。",
@@ -468,6 +481,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时11分 ~ 05时10分]"
+        },
+        {
+          "title": "周二（10月14日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌2.47%，至11.4万美元下方，亚太盘初以来持续走低，北京时间21:38刷新日低至接近11.0万美元的水平，随后逐步收复失地。 CME以太币期货DCR主力合约跌3.22%，报4138.50美元，也在逐步走低的行情中于18:32刷新日低至3910.50美元。",
+          "url": "https://wallstreetcn.com/livenews/2987719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时12分]"
         },
         {
           "title": "高盛集团发行100亿美元投资级债券，为该公司2022年1月份（120亿美元，六种久期）以来最大的单日（高评级）债务融资规模，共五种到期时间。（彭博）",
@@ -535,6 +560,18 @@
           "time_info": "[04时13分 ~ 06时11分]"
         },
         {
+          "title": "周二（10月14日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报7.1402元，较周一纽约尾盘跌19点，日内整体交投于7.1356-7.1495元区间。",
+          "url": "https://wallstreetcn.com/livenews/2987713",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时12分]"
+        },
+        {
           "title": "周二（10月14日），美联储隔夜逆回购协议（RRP）使用规模为35.16亿美元，创2021年4月份以来最低，上个交易日报41.24亿美元。",
           "url": "https://wallstreetcn.com/livenews/2987653",
           "source": "华尔街见闻-快讯",
@@ -545,6 +582,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时18分 ~ 03时11分]"
+        },
+        {
+          "title": "纽约期金涨约0.7%，亚太午盘创历史新高、逼近4200美元，纽约铜跌超2.6%",
+          "url": "https://wallstreetcn.com/livenews/2987709",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时12分]"
         },
         {
           "title": "LG电子株式会社印度附属公司印度IPO首日收涨48.24%，报1689.90印度卢比，市值超越母公司。 Prime Database数据显示，这也是2008年Reliance Power上市以来最大规模的印度IPO——融资1160亿卢比（折合13亿美元）。",
@@ -571,15 +620,15 @@
           "time_info": "[04时13分 ~ 05时10分]"
         },
         {
-          "title": "周二（10月14日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报7.1402元，较周一纽约尾盘跌19点，日内整体交投于7.1356-7.1495元区间。",
-          "url": "https://wallstreetcn.com/livenews/2987713",
+          "title": "据知情人士透露，智利国家铜业公司（Codelco）寻求对那些关键的欧洲客户实施铜涨价39%，寻求收取每吨325美元的溢价。 如果被接受，这将比智利生产商在过去几年谈判达成的234美元的溢价大幅增加，略高于欧洲生产商Aurubis计划在2026年收取的溢价。 谈判本周在伦敦举行，作为一个重要行业会议的一部分，并将继续进行。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2987731",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时11分"
+          "time_info": "07时12分"
         },
         {
           "title": "美国司法部通过打击柬埔寨pig butchering（杀猪盘）骗局交货150亿美元比特币。",
@@ -599,7 +648,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -613,17 +662,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
-        },
-        {
-          "title": "纽约期金涨约0.7%，亚太午盘创历史新高、逼近4200美元，纽约铜跌超2.6%",
-          "url": "https://wallstreetcn.com/livenews/2987709",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时11分"
         },
         {
           "title": "市场出现：法巴银行取消了做空阿根廷比索兑美元的呼吁。",
@@ -643,7 +681,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -681,6 +719,17 @@
           "time_info": "05时10分"
         },
         {
+          "title": "国际货币基金组织：经批准后，巴基斯坦将可获得约10亿美元。",
+          "url": "https://flash.jin10.com/detail/20251015060851511800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
           "title": "美国10年期国债收益率维持超过1个基点的涨幅，（长周末归来暂时）持稳于4.04%附近。 两年期美债收益率维持微跌状态，短线波动于3.49%-3.50%一线。 标普500指数转涨，道指涨250点涨幅超过0.5%，纳指目前跌超0.3%。 彭博美元指数刷新日低。 鲍威尔称，可能会在未来数月停止缩表。",
           "url": "https://wallstreetcn.com/livenews/2987632",
           "source": "华尔街见闻-快讯",
@@ -690,6 +739,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "Stellantis计划在美国投资130亿美元以促增长",
+          "url": "https://wallstreetcn.com/livenews/2987711",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         },
         {
           "title": "谷歌未来五年将在印度南部投资150亿美元打造数据中心，那将是该公司在美国之外最大的数据中心枢纽。",
@@ -937,30 +997,32 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "剑指三个“一千万”！上海推动AI终端“做大做强” 智能眼镜、机器人等获点名",
+          "url": "https://www.cls.cn/detail/2169261",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时12分]"
+        },
         {
           "title": "1万亿订单再加3500-5000亿美元！OpenAI“停不下来”，“当你欠每家数千亿美元，钱的问题自己会解决”？",
           "url": "https://wallstreetcn.com/articles/3757125",
           "source": "华尔街见闻",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时11分]"
-        },
-        {
-          "title": "剑指三个“一千万”！上海推动AI终端“做大做强” 智能眼镜、机器人等获点名",
-          "url": "https://www.cls.cn/detail/2169261",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时12分]"
         },
         {
           "title": "大雁塔玄奘铜像长满青苔系AI生成",
@@ -970,8 +1032,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时12分]"
         },
         {
           "title": "新质观察｜我们教AI做善人，它会变成好人吗？",
@@ -982,8 +1044,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时12分]"
         },
         {
           "title": "英特尔增添新款GPU “Crescent Island”（肯尼亚新月岛）到AI加速器组合。",
@@ -1056,6 +1118,17 @@
           "time_info": "02时18分"
         },
         {
+          "title": "IMF总裁格奥尔基耶娃：如果大规模人工智能投资取得成效，生产力提升将消除增长难题。",
+          "url": "https://flash.jin10.com/detail/20251015061658609800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
           "title": "英国央行行长贝利：我们不应断言人工智能市场定价从根本上是错误的，但需关注相关风险。",
           "url": "https://flash.jin10.com/detail/20251015011109693800",
           "source": "金十数据",
@@ -1103,7 +1176,7 @@
     },
     {
       "keyword_group": "黄金 金价",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "金价这么高 到底谁在买",
@@ -1113,8 +1186,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时12分]"
         },
         {
           "title": "黄金白银飙涨原因",
@@ -1128,19 +1201,19 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时12分]"
         },
         {
-          "title": "澳大利亚金属公司29 Metals：将2025年黄金产量指引修订为15,000至20,000盎司，此前为20,000至25,000盎司。",
-          "url": "https://flash.jin10.com/detail/20251015054007153800",
-          "source": "金十数据",
+          "title": "贸易忧虑再起，科技股拖累大盘，道指逆市收高，黄金维持涨势，白银原油下挫",
+          "url": "https://wallstreetcn.com/articles/3757142",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时11分"
+          "time_info": "07时12分"
         },
         {
           "title": "金价",
@@ -1152,8 +1225,33 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 02时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 07时12分]"
+        },
+        {
+          "title": "年轻人热衷买黄金贴纸最低仅几十元",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%83%AD%E8%A1%B7%E4%B9%B0%E9%BB%84%E9%87%91%E8%B4%B4%E7%BA%B8%E6%9C%80%E4%BD%8E%E4%BB%85%E5%87%A0%E5%8D%81%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 07时12分]"
+        },
+        {
+          "title": "澳大利亚金属公司29 Metals：将2025年黄金产量指引修订为15,000至20,000盎司，此前为20,000至25,000盎司。",
+          "url": "https://flash.jin10.com/detail/20251015054007153800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时12分]"
         },
         {
           "title": "金价飙升带火洗沙盘",
@@ -1167,18 +1265,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时18分 ~ 02时18分]"
-        },
-        {
-          "title": "年轻人热衷买黄金贴纸最低仅几十元",
-          "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%83%AD%E8%A1%B7%E4%B9%B0%E9%BB%84%E9%87%91%E8%B4%B4%E7%BA%B8%E6%9C%80%E4%BD%8E%E4%BB%85%E5%87%A0%E5%8D%81%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 06时11分]"
         },
         {
           "title": "金价银价跳水",
@@ -1221,9 +1307,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "现货黄金短线拉升10逾美元，触及4160美元/盎司，日内涨0.41%。",
+          "url": "https://flash.jin10.com/detail/20251015061527382800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         },
         {
           "title": "上海黄金交易所黄金T+D 10月14日（周二）晚盘收盘上涨0.53%报946.88元/克；<br/>上海黄金交易所白银T+D 10月14日（周二）晚盘收盘下跌0.02%报11692.0元/千克。",
@@ -1235,6 +1332,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加2.57吨，当前持仓量为1021.45吨。",
+          "url": "https://flash.jin10.com/detail/20251015055922048800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         },
         {
           "title": "美联储主席鲍威尔讲话后，现货黄金上涨，波动近30美元，现报4147.48美元/盎司。",
@@ -1251,7 +1359,7 @@
     },
     {
       "keyword_group": "美股 中概股 港股",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股三大股指低开，金银油下跌，数字货币重挫",
@@ -1273,8 +1381,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时12分]"
         },
         {
           "title": "美股三大期指盘前明显下跌 稀土概念股逆市走强 | 今夜看点",
@@ -1285,19 +1393,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时12分]"
         },
         {
           "title": "小盘股指ETF收涨超1.4%，和黄金ETF在美股大类资产类ETF中表现突出",
           "url": "https://wallstreetcn.com/livenews/2987720",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时12分]"
         },
         {
           "title": "标普500指数美股尾盘转跌，一度跌0.2%",
@@ -1311,6 +1420,50 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时13分 ~ 06时11分]"
+        },
+        {
+          "title": "澳股、美股稀土板块持续飙涨 投机资金狂赌“美政府入股”逻辑",
+          "url": "https://www.cls.cn/detail/2169304",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时12分]"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 鲍威尔暗示缩表接近尾声 市场押注10月再度降息",
+          "url": "https://www.cls.cn/detail/2169528",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "港股IPO定价新规后仅1家破发，新股涨幅猛散户中签难",
+          "url": "https://wallstreetcn.com/livenews/2987730",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "今年以来南向资金净流入金额逼近1.2万亿港元，机构人士：港股中长期上行趋势不改",
+          "url": "https://wallstreetcn.com/livenews/2987729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         },
         {
           "title": "金十图示：2025年10月14日（周二）美股热门股票行情一览（美股盘中）",
@@ -1333,17 +1486,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
-        },
-        {
-          "title": "澳股、美股稀土板块持续飙涨 投机资金狂赌“美政府入股”逻辑",
-          "url": "https://www.cls.cn/detail/2169304",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时11分"
         },
         {
           "title": "金十图示：2025年10月14日（周二）美股热门股票行情一览（美股收盘）",
@@ -1393,8 +1535,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时12分]"
         },
         {
           "title": "【数据看盘】IM期指多头连续两日大幅加仓 机构、量化甩卖多只芯片股",
@@ -1406,8 +1548,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时12分]"
         },
         {
           "title": "AH股齐跌！创业板跌近4%，半导体芯片股集体走低，恒科指超3%连跌七日，沪金、沪银冲高回落，国债反弹",
@@ -1415,11 +1557,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时12分]"
         },
         {
           "title": "【每日收评】创业板指放量跌近4%，半导体、有色等热门赛道全线退潮",
@@ -1431,8 +1574,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时12分]"
         },
         {
           "title": "荷兰回应“强制”接管中资芯片企业",
@@ -1443,8 +1586,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时12分]"
         },
         {
           "title": "安世半导体官网显示高管团队已变更",
@@ -1465,11 +1608,12 @@
           "url": "https://wallstreetcn.com/livenews/2987718",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时12分]"
         },
         {
           "title": "标普500指数收跌10.41点，跌幅0.16%，报6644.31点。 道琼斯工业平均指数收涨202.88点，涨幅0.44%，报46270.46点。 纳斯达克综合指数（纳指）收跌172.907点，跌幅0.76%，报22521.701点。 纳斯达克100指数收跌170.936点，跌幅0.69%，报24579.317点。 纳斯达克科技市值加权指数收跌1.12%，报2235.4116点。 纳斯达克生物科技指数收涨0.24%，报5092.81点。 罗素2000指数收涨1.38%，报2495.499点。 费城半导体指数收跌2.28%，报6570.327点。 费城证交所KBW银行指数收涨1.81%，报148.68点。 道琼斯KBW地区银行指数收涨3.03%，报122.70点。 恐慌指数VIX收涨9.30%，报20.80。",
@@ -1489,7 +1633,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         }
@@ -1510,19 +1654,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时12分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收跌4.4%，亚马逊和特斯拉至多跌约1.7%",
           "url": "https://wallstreetcn.com/livenews/2987722",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时12分]"
         },
         {
           "title": "中概指数收跌超1.9%，CQQQ跌超2.9%，再鼎医药、万国数据、蔚来至少跌超5%",
@@ -1573,8 +1718,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时12分]"
         },
         {
           "title": "国考年龄放宽",
@@ -1583,11 +1728,12 @@
           "ranks": [
             16,
             23,
-            6
+            6,
+            27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时12分]"
         },
         {
           "title": "国考公告",
@@ -1599,11 +1745,12 @@
             14,
             23,
             24,
-            29
+            29,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 06时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 07时12分]"
         },
         {
           "title": "考研没把握就报清华北大",
@@ -1632,11 +1779,12 @@
             26,
             28,
             19,
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时18分 ~ 06时11分]"
+          "appearance_count": 7,
+          "time_info": "[02时18分 ~ 07时12分]"
         },
         {
           "title": "一口气看懂沉默的荣耀背后秘密",
@@ -1649,8 +1797,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时18分 ~ 06时11分]"
+          "appearance_count": 6,
+          "time_info": "[02时18分 ~ 07时12分]"
         },
         {
           "title": "《沉默的荣耀》“麻将太太团”出圈",
@@ -1658,11 +1806,12 @@
           "source": "今日头条",
           "ranks": [
             8,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 01时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 07时12分]"
         }
       ]
     },
@@ -1748,11 +1897,12 @@
           "url": "https://www.cls.cn/detail/2169123",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时12分]"
         },
         {
           "title": "订单大增催生百亿项目 A股风电公司“从产品出海到产能出海”|行业观察",
@@ -1762,11 +1912,12 @@
             13,
             12,
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时12分]"
         }
       ]
     },
@@ -1799,11 +1950,12 @@
             14,
             18,
             25,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 06时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 07时12分]"
         }
       ]
     },
