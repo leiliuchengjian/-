@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-15T03:11:51.724215+08:00",
-  "total_titles_processed": 522,
+  "generated_at": "2025-10-15T04:13:18.426414+08:00",
+  "total_titles_processed": 583,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "欧洲央行管委维勒鲁瓦：我们不能在俄罗斯资产问题上违反国际法。",
@@ -99,6 +99,17 @@
           "time_info": "[01时13分 ~ 02时18分]"
         },
         {
+          "title": "美联储柯林斯：通胀风险已得到更多控制，但关税仍将推高物价。",
+          "url": "https://flash.jin10.com/detail/20251015034032693800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
           "title": "英国央行行长贝利：美国境外的美元头寸对冲活动正在增加。",
           "url": "https://flash.jin10.com/detail/20251015013103557800",
           "source": "金十数据",
@@ -132,6 +143,17 @@
           "time_info": "00时18分"
         },
         {
+          "title": "美联储柯林斯：鉴于通胀风险降低及就业市场担忧，进一步降息似乎是“审慎的”。",
+          "url": "https://flash.jin10.com/detail/20251015033944492800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
           "title": "英国央行行长贝利：生产力可能比我们想象的要高。",
           "url": "https://flash.jin10.com/detail/20251015012757877800",
           "source": "金十数据",
@@ -163,6 +185,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "两年期美债收益率跌2.7个基点，鲍威尔在10月货币政策会议前暗示还有一次降息机会",
+          "url": "https://wallstreetcn.com/livenews/2987686",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
         },
         {
           "title": "欧洲央行管委科赫尔：目前大幅放松监管并不合适。",
@@ -300,40 +333,20 @@
     },
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 17,
+      "match_count": 24,
       "titles": [
         {
-          "title": "WTI原油期货目前跌1.25%，暂报58.33美元。 美国总统特朗普自认为，可能与俄罗斯总统普京仍然关系良好。",
-          "url": "https://wallstreetcn.com/livenews/2987675",
-          "source": "华尔街见闻-快讯",
+          "title": "新加坡发行的新元稳定币 XSGD，能否撼动美元稳定币的垄断地位？预计未来全球稳定币竞争格局会如何演绎？",
+          "url": "https://www.zhihu.com/question/1961389921936828161",
+          "source": "知乎",
           "ranks": [
-            1
+            13,
+            10,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时11分"
-        },
-        {
-          "title": "WTI 11月原油期货收跌0.79美元，跌幅1.33%，报58.70美元/桶。 布伦特12月原油期货收跌0.93美元，跌幅1.47%，报62.39美元/桶。 中东Abu Dhabi Murban原油期货跌1.43%，报64.08美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/2987670",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时11分"
-        },
-        {
-          "title": "上期所原油期货2511合约夜盘收跌1.73%，报444.00元人民币/桶。 沪金夜盘收涨0.97%，沪银收涨0.30%。",
-          "url": "https://wallstreetcn.com/livenews/2987669",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时11分"
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 04时13分]"
         },
         {
           "title": "摩根大通宣布“1.5万亿美元规划”：10年，四大领域，振兴美国工业",
@@ -343,20 +356,55 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 03时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 04时13分]"
         },
         {
-          "title": "新加坡发行的新元稳定币 XSGD，能否撼动美元稳定币的垄断地位？预计未来全球稳定币竞争格局会如何演绎？",
-          "url": "https://www.zhihu.com/question/1961389921936828161",
-          "source": "知乎",
+          "title": "现货白银短线下跌约0.4美元，最新报51.41美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251015034434927800",
+          "source": "金十数据",
           "ranks": [
-            13,
-            10
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "WTI原油期货目前跌1.25%，暂报58.33美元。 美国总统特朗普自认为，可能与俄罗斯总统普京仍然关系良好。",
+          "url": "https://wallstreetcn.com/livenews/2987675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 03时11分]"
+          "appearance_count": 2,
+          "time_info": "[03时11分 ~ 04时13分]"
+        },
+        {
+          "title": "WTI 11月原油期货收跌0.79美元，跌幅1.33%，报58.70美元/桶。 布伦特12月原油期货收跌0.93美元，跌幅1.47%，报62.39美元/桶。 中东Abu Dhabi Murban原油期货跌1.43%，报64.08美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/2987670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时11分 ~ 04时13分]"
+        },
+        {
+          "title": "上期所原油期货2511合约夜盘收跌1.73%，报444.00元人民币/桶。 沪金夜盘收涨0.97%，沪银收涨0.30%。",
+          "url": "https://wallstreetcn.com/livenews/2987669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时11分 ~ 04时13分]"
         },
         {
           "title": "LME期铜收跌242美元，报10578美元/吨。 LME期铝收跌26美元，报2738美元/吨。 LME期锌收跌80美元，报2942美元/吨。 LME期铅收跌7美元，报1982美元/吨。 LME期镍收跌71美元，报15135美元/吨。 LME期锡收跌537美元，报35189美元/吨。 LME期钴收平，报42725美元/吨。",
@@ -372,6 +420,18 @@
           "time_info": "[01时13分 ~ 03时11分]"
         },
         {
+          "title": "高盛集团发行100亿美元投资级债券，为该公司2022年1月份（120亿美元，六种久期）以来最大的单日（高评级）债务融资规模，共五种到期时间。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2987668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时11分 ~ 04时13分]"
+        },
+        {
           "title": "周二（10月14日），美联储隔夜逆回购协议（RRP）使用规模为35.16亿美元，创2021年4月份以来最低，上个交易日报41.24亿美元。",
           "url": "https://wallstreetcn.com/livenews/2987653",
           "source": "华尔街见闻-快讯",
@@ -382,17 +442,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时18分 ~ 03时11分]"
-        },
-        {
-          "title": "高盛集团发行100亿美元投资级债券，为该公司2022年1月份（120亿美元，六种久期）以来最大的单日（高评级）债务融资规模，共五种到期时间。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/2987668",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时11分"
         },
         {
           "title": "美国司法部通过打击柬埔寨pig butchering（杀猪盘）骗局交货150亿美元比特币。",
@@ -412,9 +461,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
+        },
+        {
+          "title": "市场出现：法巴银行取消了做空阿根廷比索兑美元的呼吁。",
+          "url": "https://flash.jin10.com/detail/20251015032327583800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了7个对手方的35.16亿美元。",
@@ -428,15 +488,70 @@
           "time_info": "02时18分"
         },
         {
+          "title": "周二（10月14日）纽约尾盘，ICE美元指数下跌0.25%，报99.025点，日内交投区间为99.475-98.988点。 彭博美元指数跌0.11%，报1214.25点，日内交投区间为1219.18-1213.81点。",
+          "url": "https://wallstreetcn.com/livenews/2987685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "法国巴黎银行废弃做空阿根廷比索兑美元的主张。",
+          "url": "https://wallstreetcn.com/livenews/2987684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "周二（10月14日）纽约尾盘，ICE原糖期货涨1.67%，ICE白糖期货涨1.42%。 ICE阿拉比卡咖啡期货涨3.79%，咖啡“C”期货涨3.79%。罗布斯塔咖啡期货跌0.92%。 纽约可可期货涨1.06%，报5884美元/吨。伦敦可可期货涨1.15%。 ICE棉花期货跌0.25%。",
+          "url": "https://wallstreetcn.com/livenews/2987683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
           "title": "市场消息：高盛(GS.N)发行100亿美元投资级债券，为该公司2022年1月份（120亿美元，六种久期）以来最大的单日（高评级）债务融资规模，共五种到期时间。",
           "url": "https://flash.jin10.com/detail/20251015023055649800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
+        },
+        {
+          "title": "LG电子株式会社印度附属公司印度IPO首日收涨48.24%，报1689.90印度卢比，市值超越母公司。 Prime Database数据显示，这也是2008年Reliance Power上市以来最大规模的印度IPO——融资1160亿卢比（折合13亿美元）。",
+          "url": "https://wallstreetcn.com/livenews/2987681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.1380元，较周一夜盘收盘跌59点。成交量483.98亿美元。",
+          "url": "https://wallstreetcn.com/livenews/2987678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
         },
         {
           "title": "美国10年期国债收益率维持超过1个基点的涨幅，（长周末归来暂时）持稳于4.04%附近。 两年期美债收益率维持微跌状态，短线波动于3.49%-3.50%一线。 标普500指数转涨，道指涨250点涨幅超过0.5%，纳指目前跌超0.3%。 彭博美元指数刷新日低。 鲍威尔称，可能会在未来数月停止缩表。",
@@ -489,7 +604,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
         }
@@ -497,7 +612,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "1万亿订单再加3500-5000亿美元！OpenAI“停不下来”，“当你欠每家数千亿美元，钱的问题自己会解决”？",
@@ -508,8 +623,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 03时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 04时13分]"
         },
         {
           "title": "剑指三个“一千万”！上海推动AI终端“做大做强” 智能眼镜、机器人等获点名",
@@ -519,8 +634,31 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 03时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 04时13分]"
+        },
+        {
+          "title": "大雁塔玄奘铜像长满青苔系AI生成",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E9%9B%81%E5%A1%94%E7%8E%84%E5%A5%98%E9%93%9C%E5%83%8F%E9%95%BF%E6%BB%A1%E9%9D%92%E8%8B%94%E7%B3%BBAI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 04时13分]"
+        },
+        {
+          "title": "新质观察｜我们教AI做善人，它会变成好人吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31765142",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 04时13分]"
         },
         {
           "title": "英特尔增添新款GPU “Crescent Island”（肯尼亚新月岛）到AI加速器组合。",
@@ -532,29 +670,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
-        },
-        {
-          "title": "大雁塔玄奘铜像长满青苔系AI生成",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E9%9B%81%E5%A1%94%E7%8E%84%E5%A5%98%E9%93%9C%E5%83%8F%E9%95%BF%E6%BB%A1%E9%9D%92%E8%8B%94%E7%B3%BBAI%E7%94%9F%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 03时11分]"
-        },
-        {
-          "title": "新质观察｜我们教AI做善人，它会变成好人吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31765142",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 03时11分]"
         },
         {
           "title": "前法国财政部长Brune Le Maire将重返阿斯麦控股，担任顾问。（BNR）",
@@ -615,6 +730,17 @@
           "time_info": "02时18分"
         },
         {
+          "title": "德银：OpenAI在欧洲的订阅用户“增长停滞”",
+          "url": "https://flash.jin10.com/detail/20251015030536349800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
           "title": "英国央行行长贝利：股市中存在与人工智能相关的过度定价。",
           "url": "https://flash.jin10.com/detail/20251015011054319800",
           "source": "金十数据",
@@ -640,7 +766,7 @@
     },
     {
       "keyword_group": "就业 裁员 招聘",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美联储主席鲍威尔：替代指标对就业市场的作用好于对通胀的作用。",
@@ -652,6 +778,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "美联储柯林斯：就业市场下行风险已上升。",
+          "url": "https://flash.jin10.com/detail/20251015034124337800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
         },
         {
           "title": "美联储主席鲍威尔：就业市场状况有可信的数据支持，不过私人数据更适合作为补充。",
@@ -739,7 +876,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
         },
@@ -780,7 +917,7 @@
     },
     {
       "keyword_group": "黄金 金价",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "金价这么高 到底谁在买",
@@ -790,8 +927,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 03时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 04时13分]"
         },
         {
           "title": "黄金白银飙涨原因",
@@ -800,11 +937,12 @@
           "ranks": [
             10,
             14,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 03时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 04时13分]"
         },
         {
           "title": "金价",
@@ -867,13 +1005,24 @@
           "time_info": "02时18分"
         },
         {
+          "title": "现货黄金短线下挫超10美元，最新报4135.15美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251015033756099800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 10月14日（周二）晚盘收盘上涨0.53%报946.88元/克；<br/>上海黄金交易所白银T+D 10月14日（周二）晚盘收盘下跌0.02%报11692.0元/千克。",
           "url": "https://flash.jin10.com/detail/20251015023134623800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
         },
@@ -891,87 +1040,8 @@
       ]
     },
     {
-      "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "针对安世半导体的行为性质极其恶劣！环球时报社评：荷兰不要低估中方维护正当权益的决心与能力",
-          "url": "https://wallstreetcn.com/articles/3757121",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 03时11分]"
-        },
-        {
-          "title": "【数据看盘】IM期指多头连续两日大幅加仓 机构、量化甩卖多只芯片股",
-          "url": "https://www.cls.cn/detail/2169104",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 03时11分]"
-        },
-        {
-          "title": "AH股齐跌！创业板跌近4%，半导体芯片股集体走低，恒科指超3%连跌七日，沪金、沪银冲高回落，国债反弹",
-          "url": "https://wallstreetcn.com/articles/3757135",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 03时11分]"
-        },
-        {
-          "title": "【每日收评】创业板指放量跌近4%，半导体、有色等热门赛道全线退潮",
-          "url": "https://www.cls.cn/detail/2168991",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 03时11分]"
-        },
-        {
-          "title": "荷兰回应“强制”接管中资芯片企业",
-          "url": "https://www.toutiao.com/trending/7560929418953100851/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 03时11分]"
-        },
-        {
-          "title": "安世半导体官网显示高管团队已变更",
-          "url": "https://www.toutiao.com/trending/7560487478160097316/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 03时11分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股 中概股 港股",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "美股三大股指低开，金银油下跌，数字货币重挫",
@@ -981,8 +1051,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 03时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 04时13分]"
         },
         {
           "title": "TACO交易！科技股力撑美股反弹，博通涨近10%，黄金突破4100关口，历史性逼空助白银新高",
@@ -992,8 +1062,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 03时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 04时13分]"
         },
         {
           "title": "美股三大期指盘前明显下跌 稀土概念股逆市走强 | 今夜看点",
@@ -1004,8 +1074,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 03时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 04时13分]"
         },
         {
           "title": "金十图示：2025年10月14日（周二）美股热门股票行情一览（美股盘中）",
@@ -1019,6 +1089,28 @@
           "time_info": "02时18分"
         },
         {
+          "title": "受消息面影响，美股三大股指短线小幅下挫。",
+          "url": "https://flash.jin10.com/detail/20251015033901545800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "标普500指数美股尾盘转跌，一度跌0.2%",
+          "url": "https://wallstreetcn.com/livenews/2987689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
           "title": "金十图示：2025年10月14日（周二）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251015003213265800",
           "source": "金十数据",
@@ -1028,6 +1120,86 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体 芯片 集成电路",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "针对安世半导体的行为性质极其恶劣！环球时报社评：荷兰不要低估中方维护正当权益的决心与能力",
+          "url": "https://wallstreetcn.com/articles/3757121",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 04时13分]"
+        },
+        {
+          "title": "【数据看盘】IM期指多头连续两日大幅加仓 机构、量化甩卖多只芯片股",
+          "url": "https://www.cls.cn/detail/2169104",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 04时13分]"
+        },
+        {
+          "title": "AH股齐跌！创业板跌近4%，半导体芯片股集体走低，恒科指超3%连跌七日，沪金、沪银冲高回落，国债反弹",
+          "url": "https://wallstreetcn.com/articles/3757135",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 04时13分]"
+        },
+        {
+          "title": "【每日收评】创业板指放量跌近4%，半导体、有色等热门赛道全线退潮",
+          "url": "https://www.cls.cn/detail/2168991",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 04时13分]"
+        },
+        {
+          "title": "荷兰回应“强制”接管中资芯片企业",
+          "url": "https://www.toutiao.com/trending/7560929418953100851/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 04时13分]"
+        },
+        {
+          "title": "安世半导体官网显示高管团队已变更",
+          "url": "https://www.toutiao.com/trending/7560487478160097316/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时12分 ~ 04时13分]"
         }
       ]
     },
@@ -1044,8 +1216,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 03时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 04时13分]"
+        },
+        {
+          "title": "国考年龄放宽",
+          "url": "https://www.toutiao.com/trending/7560714791988576310/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            23,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 04时13分]"
         },
         {
           "title": "国考公告",
@@ -1055,23 +1240,12 @@
             11,
             13,
             14,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 03时11分]"
-        },
-        {
-          "title": "国考年龄放宽",
-          "url": "https://www.toutiao.com/trending/7560714791988576310/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 03时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 04时13分]"
         },
         {
           "title": "考研没把握就报清华北大",
@@ -1093,6 +1267,19 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "沉默的荣耀背后真实的谷正文",
+          "url": "https://www.douyin.com/hot/2269498",
+          "source": "抖音",
+          "ranks": [
+            26,
+            28,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时18分 ~ 04时13分]"
+        },
+        {
           "title": "《沉默的荣耀》“麻将太太团”出圈",
           "url": "https://www.toutiao.com/trending/7560183181154123785/",
           "source": "今日头条",
@@ -1105,27 +1292,16 @@
           "time_info": "[00时18分 ~ 01时13分]"
         },
         {
-          "title": "沉默的荣耀背后真实的谷正文",
-          "url": "https://www.douyin.com/hot/2269498",
-          "source": "抖音",
-          "ranks": [
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 03时11分]"
-        },
-        {
           "title": "一口气看懂沉默的荣耀背后秘密",
           "url": "https://www.douyin.com/hot/2269495",
           "source": "抖音",
           "ranks": [
-            27
+            27,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
+          "appearance_count": 3,
+          "time_info": "[02时18分 ~ 04时13分]"
         }
       ]
     },
@@ -1143,8 +1319,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 03时11分]"
+          "appearance_count": 6,
+          "time_info": "[01时12分 ~ 04时13分]"
         },
         {
           "title": "大量iPhone17新机无法激活 苹果回应",
@@ -1172,6 +1348,48 @@
       ]
     },
     {
+      "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "一辆蔚来ET7轿车在大理一景区外起火，一家四口撤离及时无伤亡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31777801",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 04时13分]"
+        },
+        {
+          "title": "标普500指数初步收跌0.1%，科技板块跌1.5%，可选消费板块跌0.3%，金融板块涨1.1%。 纳斯达克100指数初步收跌0.7%，成分股中，英特尔、英伟达、Strategy（MSTR）、博通、Arm控股、亚马逊、特斯拉至多跌超4%，霍尼韦尔、特许通讯、爱彼迎、Atlassian则至少涨超2%。 Salesforce初步收跌3.5%，高盛跌2%，摩根大通跌1.9%，和英伟达领跌道指成分股，霍尼韦尔、美国运通、卡特彼勒、沃尔玛则涨超2%领跑。",
+          "url": "https://wallstreetcn.com/livenews/2987696",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收跌1.9%。 热门中概股里，蔚来跌5.5%，小马智行、百度、台积电、网易、小鹏、腾讯、京东、理想至少跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/2987693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        }
+      ]
+    },
+    {
       "keyword_group": "A股 沪指 深成指 创业板",
       "match_count": 2,
       "titles": [
@@ -1183,8 +1401,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 03时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 04时13分]"
         },
         {
           "title": "订单大增催生百亿项目 A股风电公司“从产品出海到产能出海”|行业观察",
@@ -1196,8 +1414,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 03时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 04时13分]"
         }
       ]
     },
@@ -1228,31 +1446,12 @@
           "source": "抖音",
           "ranks": [
             14,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 03时11分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "一辆蔚来ET7轿车在大理一景区外起火，一家四口撤离及时无伤亡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31777801",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 03时11分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 04时13分]"
         }
       ]
     },
