@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T08:50:36.488185+08:00",
-  "total_titles_processed": 854,
+  "generated_at": "2025-10-16T10:23:08.830354+08:00",
+  "total_titles_processed": 984,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 39,
+      "match_count": 50,
       "titles": [
         {
           "title": "核心CPI涨幅连续5个月扩大",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时13分 ~ 08时50分]"
+          "appearance_count": 16,
+          "time_info": "[00时13分 ~ 10时23分]"
         },
         {
           "title": "中国9月CPI同比降幅收窄至0.3%，核心CPI近19个月首次回到1%，PPI同比降幅收窄至2.3%",
@@ -142,6 +142,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时13分 ~ 01时12分]"
+        },
+        {
+          "title": "美联储还会降息吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%81%94%E5%82%A8%E8%BF%98%E4%BC%9A%E9%99%8D%E6%81%AF%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时22分 ~ 10时23分]"
         },
         {
           "title": "IMF：日本央行应谨慎加息以应对不确定性",
@@ -318,6 +329,17 @@
           "time_info": "07时12分"
         },
         {
+          "title": "日本央行审议委员田村直树：从风险管理角度看，日本央行应进一步接近中性货币政策立场。",
+          "url": "https://flash.jin10.com/detail/20251016093830870800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
           "title": "利比亚央行：利比亚今年前九个月的石油收入达794亿利比亚第纳尔。",
           "url": "https://flash.jin10.com/detail/20251016003305489800",
           "source": "金十数据",
@@ -327,6 +349,94 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "日本央行审议委员田村直树：我们正处于一个应决定加息以使其更接近中性利率的阶段。",
+          "url": "https://flash.jin10.com/detail/20251016093805476800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "日本央行审议委员田村直树：很难判断中性利率究竟位于何处，因此日本央行别无选择，只能逐步加息，以探明实际高于1%的水平。",
+          "url": "https://flash.jin10.com/detail/20251016093640259800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "日本央行委员田村直树：政策利率应更接近中性水平，现在与中性水平还有一段距离。 鉴于物价上涨风险，日本央行应将利率推升至更接近中性水平，以避免未来被迫大幅升息。 无需将利率提高到限制性水平。 在既有上行风险又有下行风险的情况下，现在不需要大幅度升息收紧政策。 随着海外经济重回温和成长轨道，日本经济增长率可能上升。 日本通胀风险正在加剧，可能会偏离基本假设情景。 相信日本的中性利率水平至少为1%。",
+          "url": "https://wallstreetcn.com/livenews/2988573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "日本央行审议委员田村直树：实现物价稳定目标的可能性已比预期更早。",
+          "url": "https://flash.jin10.com/detail/20251016093636234800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "日本央行审议委员田村直树：认为政策利率距离中性评级仍较远。",
+          "url": "https://flash.jin10.com/detail/20251016093543993800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "日本央行审议委员田村直树：政策利率上调对日本整体经济的影响极为有限。",
+          "url": "https://flash.jin10.com/detail/20251016093516274800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "日本央行审议委员田村直树：相信日本的中性利率至少为1%。",
+          "url": "https://flash.jin10.com/detail/20251016093435783800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "日本央行审议委员田村直树：日本的实际利率仍处于负值区间。",
+          "url": "https://flash.jin10.com/detail/20251016093430553800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
         },
         {
           "title": "欧洲央行管委兼德国央行行长Nagel：法国知道自身必须达成预算共识。 相当确信法国将找到一个解决方案。 德国经济正在改善。",
@@ -346,7 +456,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时50分"
         },
@@ -384,6 +494,17 @@
           "time_info": "03时11分"
         },
         {
+          "title": "中国央行公开市场单日净回笼3760亿元",
+          "url": "https://wallstreetcn.com/livenews/2988553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
           "title": "美联储米兰称贸易不确定性加剧 呼吁加快降息步伐",
           "url": "https://flash.jin10.com/detail/20251015223232652800",
           "source": "金十数据",
@@ -412,7 +533,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时50分"
         },
@@ -464,7 +585,7 @@
     },
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 38,
+      "match_count": 41,
       "titles": [
         {
           "title": "中国9月新增社融3.53万亿元，新增人民币贷款1.29万亿元，M2-M1剪刀差刷新年内低值",
@@ -474,11 +595,12 @@
             6,
             5,
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时13分 ~ 08时50分]"
+          "appearance_count": 16,
+          "time_info": "[00时13分 ~ 10时23分]"
         },
         {
           "title": "澳元兑美元AUD/USD短线下跌超20点，最新报0.6485。",
@@ -487,7 +609,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时50分"
         },
@@ -520,7 +642,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时50分"
         },
@@ -744,6 +866,17 @@
           "time_info": "00时13分"
         },
         {
+          "title": "美国财政部官员称政府停摆每周可能给美国经济造成150亿美元的损失，纠正了美国财长贝森特此前估计每天损失150亿美元的言论。",
+          "url": "https://flash.jin10.com/detail/20251016094218641800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
           "title": "美国总统特朗普的交通部长Duffy威胁加州的4000万美元（拨款）。 加利福尼亚州对卡车司机有英语标准。",
           "url": "https://wallstreetcn.com/livenews/2988432",
           "source": "华尔街见闻-快讯",
@@ -772,7 +905,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时50分"
         },
@@ -797,6 +930,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "美国财政部官员称，政府关门可能给美国经济造成每周150亿美元的损失，更正了财政部长贝森特此前估计每天损失150亿美元的说法。",
+          "url": "https://wallstreetcn.com/livenews/2988575",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
         },
         {
           "title": "美国参议院民主党成员Warren和Sanders等成员发函谷歌公司。 他们质疑谷歌就YouTube问题与美国总统特朗普达成0.22亿美元和解一事。",
@@ -827,7 +971,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时50分"
         },
@@ -849,7 +993,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时50分"
         },
@@ -860,7 +1004,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时50分"
         },
@@ -871,7 +1015,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时50分"
         },
@@ -885,6 +1029,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "人民币兑美元中间价报7.0968，创一年来最强",
+          "url": "https://wallstreetcn.com/livenews/2988548",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
         },
         {
           "title": "美国财长贝森特：我们正在为阿根廷设立一项200亿美元的私营部门融资工具，该工具将与互换额度并行，并用于投资债务。",
@@ -911,240 +1066,8 @@
       ]
     },
     {
-      "keyword_group": "就业 裁员 招聘",
-      "match_count": 20,
-      "titles": [
-        {
-          "title": "澳大利亚9月兼职就业人口 0.63万人，前值3.55万人。",
-          "url": "https://flash.jin10.com/detail/20251016083029281800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时50分"
-        },
-        {
-          "title": "澳大利亚9月季调后就业参与率 67%，预期66.80%，前值66.80%。",
-          "url": "https://flash.jin10.com/detail/20251016083002801800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时50分"
-        },
-        {
-          "title": "澳大利亚9月全职就业人口 0.87万人，前值-4.09万人。",
-          "url": "https://flash.jin10.com/detail/20251016083002800800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时50分"
-        },
-        {
-          "title": "一名美国法官表示，她很可能会阻止特朗普政府在政府停摆期间实施大规模裁员。",
-          "url": "https://flash.jin10.com/detail/20251016014508115800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "澳大利亚9月就业人口 1.49万人，预期2万人，前值-0.54万人。",
-          "url": "https://flash.jin10.com/detail/20251016083002799800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时50分"
-        },
-        {
-          "title": "白宫预算主管Russell Vought：预计美国联邦政府关门造成的裁员人数将超过4000人，甚至可能会超过10,000人。",
-          "url": "https://wallstreetcn.com/livenews/2988367",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时17分 ~ 04时15分]"
-        },
-        {
-          "title": "美国法官暂时阻止特朗普政府在“停摆”期间裁员",
-          "url": "https://wallstreetcn.com/livenews/2988422",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时12分 ~ 06时11分]"
-        },
-        {
-          "title": "美国法官暂时阻止总统特朗普的联邦政府在关门期间裁员",
-          "url": "https://wallstreetcn.com/livenews/2988376",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时11分 ~ 04时15分]"
-        },
-        {
-          "title": "美国众议院民主党领导人Jeffries：我们认为，政府关门造成的裁员是非法的。 希望国会山或者法院能扭转（特朗普政府的）裁员决定。 参议院跨党派“非正式”磋商所达成的结果还没有移交至众议院。",
-          "url": "https://wallstreetcn.com/livenews/2988372",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时11分 ~ 04时15分]"
-        },
-        {
-          "title": "共和党高层罕见对特朗普说不 要求撤销部分财政部裁员计划",
-          "url": "https://flash.jin10.com/detail/20251016052451289800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时11分 ~ 07时12分]"
-        },
-        {
-          "title": "美国管理和预算局主任Vought：裁员人数可能超过1万人。",
-          "url": "https://flash.jin10.com/detail/20251016014353798800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "美国管理和预算局主任Vought：我们确实在讨论政府裁员数千人的事宜。",
-          "url": "https://flash.jin10.com/detail/20251016014339365800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "澳大利亚9月就业人口变动 1.49万人，预期 2万人，前值 -0.54万人。",
-          "url": "https://wallstreetcn.com/livenews/2988518",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时50分"
-        },
-        {
-          "title": "澳大利亚9月全职就业人口变动 0.87万人，前值 -4.09万人。",
-          "url": "https://wallstreetcn.com/livenews/2988519",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时50分"
-        },
-        {
-          "title": "澳大利亚9月就业参与率 67%，预期 66.8%，前值 66.8%。",
-          "url": "https://wallstreetcn.com/livenews/2988517",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时50分"
-        },
-        {
-          "title": "澳大利亚9月兼职就业人口变动 0.63万人，前值 3.55万人。",
-          "url": "https://wallstreetcn.com/livenews/2988516",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时50分"
-        },
-        {
-          "title": "美国众议院少数党领袖杰弗瑞斯：我希望国会或法院能扭转裁员的局面，我们认为政府关门裁员是非法的。",
-          "url": "https://flash.jin10.com/detail/20251016022705691800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时11分"
-        },
-        {
-          "title": "美国管理和预算局主任：停摆期间联邦政府裁员可能达1万人",
-          "url": "https://flash.jin10.com/detail/20251016033543134800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "美联储褐皮书：近几周就业水平基本稳定 劳动力需求低迷",
-          "url": "https://flash.jin10.com/detail/20251016021822549800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时11分"
-        },
-        {
-          "title": "美法官暂时阻止政府在停摆期间裁员",
-          "url": "https://www.toutiao.com/trending/7561434448278536201/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时50分"
-        }
-      ]
-    },
-    {
       "keyword_group": "黄金 金价",
-      "match_count": 18,
+      "match_count": 24,
       "titles": [
         {
           "title": "贸易阴霾遇上鸽派鲍威尔，科技股拖累标普纳指转跌，黄金两日新高，银油铜加密货币回落",
@@ -1217,11 +1140,23 @@
           "url": "https://wallstreetcn.com/articles/3757235",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时11分 ~ 08时50分]"
+          "appearance_count": 9,
+          "time_info": "[05时11分 ~ 10时23分]"
+        },
+        {
+          "title": "贸易消息引发市场剧烈波动，标普V形反转，银行股业绩超预期，黄金涨穿4200美元",
+          "url": "https://wallstreetcn.com/articles/3757230",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时50分 ~ 10时23分]"
         },
         {
           "title": "金价暴涨 买黄金还是黄金股",
@@ -1237,15 +1172,15 @@
           "time_info": "[00时13分 ~ 04时15分]"
         },
         {
-          "title": "贸易消息引发市场剧烈波动，标普V形反转，银行股业绩超预期，黄金涨穿4200美元",
-          "url": "https://wallstreetcn.com/articles/3757230",
-          "source": "华尔街见闻",
+          "title": "澳新银行：明年6月黄金价格将达到4600美元的峰值",
+          "url": "https://flash.jin10.com/detail/20251016095519384800",
+          "source": "金十数据",
           "ranks": [
-            1
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时50分"
+          "time_info": "10时23分"
         },
         {
           "title": "非洲股市收盘播报｜周三（10月15日），南非富时/JSE非洲领先40可交易指数收涨0.77%，至10.4万点上方，突破10月8日所创接近10.4万点的收盘历史最高位。 成分股MTN集团涨8.03%，瑞士历峰集团涨5.50%，哈莫尼黄金公司涨44.7%表现第三。",
@@ -1272,6 +1207,28 @@
           "time_info": "[05时12分 ~ 06时11分]"
         },
         {
+          "title": "躲股市泡沫的人，正在吹出黄金泡沫？",
+          "url": "https://wallstreetcn.com/articles/3757234",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时22分 ~ 10时23分]"
+        },
+        {
+          "title": "首破4200美元，如何看黄金狂奔？多家公募亮观点",
+          "url": "https://www.cls.cn/detail/2170684",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时22分 ~ 10时23分]"
+        },
+        {
           "title": "现货黄金突破4200美元",
           "url": "https://www.douyin.com/hot/2271171",
           "source": "抖音",
@@ -1283,13 +1240,35 @@
           "time_info": "[07时11分 ~ 07时12分]"
         },
         {
+          "title": "顾客卖出500克黄金1天赚近5万",
+          "url": "https://www.toutiao.com/trending/7560867597089439798/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时22分 ~ 10时23分]"
+        },
+        {
+          "title": "下周金价会重演2015年行情吗",
+          "url": "https://www.toutiao.com/trending/7561615409112157705/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时22分 ~ 10时23分]"
+        },
+        {
           "title": "现货黄金再创新高 本周累涨200美元",
           "url": "https://flash.jin10.com/detail/20251016082311268800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时50分"
         },
@@ -1303,6 +1282,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "现货黄金站上4230美元/盎司，日内涨0.52%。",
+          "url": "https://flash.jin10.com/detail/20251016094124083800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
         },
         {
           "title": "上海黄金交易所黄金T+D 10月15日（周三）晚盘收盘上涨1.04%报960.2元/克；<br/>上海黄金交易所白银T+D 10月15日（周三）晚盘收盘上涨2.8%报12088.0元/千克。",
@@ -1333,7 +1323,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时50分"
         },
@@ -1354,6 +1344,796 @@
           "source": "金十数据",
           "ranks": [
             29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "就业 裁员 招聘",
+      "match_count": 21,
+      "titles": [
+        {
+          "title": "澳大利亚9月兼职就业人口 0.63万人，前值3.55万人。",
+          "url": "https://flash.jin10.com/detail/20251016083029281800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时50分"
+        },
+        {
+          "title": "澳大利亚9月季调后就业参与率 67%，预期66.80%，前值66.80%。",
+          "url": "https://flash.jin10.com/detail/20251016083002801800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时50分"
+        },
+        {
+          "title": "澳大利亚9月全职就业人口 0.87万人，前值-4.09万人。",
+          "url": "https://flash.jin10.com/detail/20251016083002800800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时50分"
+        },
+        {
+          "title": "一名美国法官表示，她很可能会阻止特朗普政府在政府停摆期间实施大规模裁员。",
+          "url": "https://flash.jin10.com/detail/20251016014508115800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
+        {
+          "title": "澳大利亚9月就业人口 1.49万人，预期2万人，前值-0.54万人。",
+          "url": "https://flash.jin10.com/detail/20251016083002799800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时50分"
+        },
+        {
+          "title": "白宫预算主管Russell Vought：预计美国联邦政府关门造成的裁员人数将超过4000人，甚至可能会超过10,000人。",
+          "url": "https://wallstreetcn.com/livenews/2988367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时17分 ~ 04时15分]"
+        },
+        {
+          "title": "美国法官暂时阻止特朗普政府在“停摆”期间裁员",
+          "url": "https://wallstreetcn.com/livenews/2988422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时12分 ~ 06时11分]"
+        },
+        {
+          "title": "美国法官暂时阻止总统特朗普的联邦政府在关门期间裁员",
+          "url": "https://wallstreetcn.com/livenews/2988376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时11分 ~ 04时15分]"
+        },
+        {
+          "title": "美国众议院民主党领导人Jeffries：我们认为，政府关门造成的裁员是非法的。 希望国会山或者法院能扭转（特朗普政府的）裁员决定。 参议院跨党派“非正式”磋商所达成的结果还没有移交至众议院。",
+          "url": "https://wallstreetcn.com/livenews/2988372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时11分 ~ 04时15分]"
+        },
+        {
+          "title": "万人裁员计划暂停！美国法院暂时禁止特朗普在政府关门期间大规模裁员",
+          "url": "https://wallstreetcn.com/articles/3757263",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时22分 ~ 10时23分]"
+        },
+        {
+          "title": "共和党高层罕见对特朗普说不 要求撤销部分财政部裁员计划",
+          "url": "https://flash.jin10.com/detail/20251016052451289800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时12分]"
+        },
+        {
+          "title": "美国管理和预算局主任Vought：裁员人数可能超过1万人。",
+          "url": "https://flash.jin10.com/detail/20251016014353798800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
+        {
+          "title": "美国管理和预算局主任Vought：我们确实在讨论政府裁员数千人的事宜。",
+          "url": "https://flash.jin10.com/detail/20251016014339365800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
+        {
+          "title": "澳大利亚9月就业人口变动 1.49万人，预期 2万人，前值 -0.54万人。",
+          "url": "https://wallstreetcn.com/livenews/2988518",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时50分"
+        },
+        {
+          "title": "澳大利亚9月全职就业人口变动 0.87万人，前值 -4.09万人。",
+          "url": "https://wallstreetcn.com/livenews/2988519",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时50分"
+        },
+        {
+          "title": "澳大利亚9月就业参与率 67%，预期 66.8%，前值 66.8%。",
+          "url": "https://wallstreetcn.com/livenews/2988517",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时50分"
+        },
+        {
+          "title": "澳大利亚9月兼职就业人口变动 0.63万人，前值 3.55万人。",
+          "url": "https://wallstreetcn.com/livenews/2988516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时50分"
+        },
+        {
+          "title": "美国众议院少数党领袖杰弗瑞斯：我希望国会或法院能扭转裁员的局面，我们认为政府关门裁员是非法的。",
+          "url": "https://flash.jin10.com/detail/20251016022705691800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        },
+        {
+          "title": "美国管理和预算局主任：停摆期间联邦政府裁员可能达1万人",
+          "url": "https://flash.jin10.com/detail/20251016033543134800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        },
+        {
+          "title": "美联储褐皮书：近几周就业水平基本稳定 劳动力需求低迷",
+          "url": "https://flash.jin10.com/detail/20251016021822549800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        },
+        {
+          "title": "美法官暂时阻止政府在停摆期间裁员",
+          "url": "https://www.toutiao.com/trending/7561434448278536201/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股 沪指 深成指 创业板",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "9月以来次低纪录！A股成交额退守2万亿关口，哪些方向缩量最明显？",
+          "url": "https://www.cls.cn/detail/2170382",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时13分 ~ 08时50分]"
+        },
+        {
+          "title": "AH股反弹！沪指重回3900点，科技股午后发力，恒科指涨超2%，科网股普涨，沪金、银涨超2%，国债下跌",
+          "url": "https://wallstreetcn.com/articles/3757209",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时13分 ~ 10时23分]"
+        },
+        {
+          "title": "【每日收评】沪指涨超1%重返3900点，两市成交额萎缩超5000亿，机器人概念股午后异军突起",
+          "url": "https://www.cls.cn/detail/2170265",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时13分 ~ 07时12分]"
+        },
+        {
+          "title": "证券日报：四季度A股权益市场有望迎更多增量资金",
+          "url": "https://wallstreetcn.com/livenews/2988460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "A股三大指数集体低开",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时22分 ~ 10时23分]"
+        },
+        {
+          "title": "国信证券荀玉根：A股基本面或持续修复，科技股仍是市场主线",
+          "url": "https://wallstreetcn.com/livenews/2988454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "应对大宗商品不确定性，套期保值已成A股公司“常规操作”",
+          "url": "https://wallstreetcn.com/livenews/2988451",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "三花智控A股低开近5％，公司澄清获得机器人大额订单的传言不属实。",
+          "url": "https://wallstreetcn.com/livenews/2988564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "外资机构纷纷发声，投下A股“信任票”",
+          "url": "https://wallstreetcn.com/livenews/2988445",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "上证指数开盘报3900.68点，跌0.29%。 深证成指开盘报13064.26点，跌0.42%。 创业板指开盘报3008.37点，跌0.58%。 沪深300开盘报4588.92点，跌0.38%。 科创50开盘报1419.55点，跌0.73%。 中证500开盘报7269.26点，跌0.34%。 中证1000开盘报7460.76点，跌0.30%。",
+          "url": "https://wallstreetcn.com/livenews/2988559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "北向资金连续三个季度加仓A股，三季度末持仓市值达2.58万亿元",
+          "url": "https://wallstreetcn.com/livenews/2988444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "首批科创板成长层3只新股采用约定式限售，A股打新市场又有新变化",
+          "url": "https://wallstreetcn.com/livenews/2988498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能 AI",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "央视主持人李梓萌遭AI仿冒带货",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%9D%8E%E6%A2%93%E8%90%8C%E9%81%ADAI%E4%BB%BF%E5%86%92%E5%B8%A6%E8%B4%A7",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时22分 ~ 10时23分]"
+        },
+        {
+          "title": "“看，皇帝没穿衣服”！对冲基金经理：万亿美元的AI投入，赚得回来吗？",
+          "url": "https://wallstreetcn.com/articles/3757228",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时50分 ~ 10时23分]"
+        },
+        {
+          "title": "谷歌在印度南部砸下150亿美元建数据中心，打造美国之外最大AI枢纽",
+          "url": "https://wallstreetcn.com/articles/3757182",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时17分]"
+        },
+        {
+          "title": "特朗普已授权中情局在委内瑞拉开展行动 Anthropic发布Claude Haiku 4.5 | 环球市场",
+          "url": "https://www.cls.cn/detail/2170822",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时22分 ~ 10时23分]"
+        },
+        {
+          "title": "人工智能（AI）初创公司Poolside在大规模数据中心问题上与CoreWeave组团。",
+          "url": "https://wallstreetcn.com/livenews/2988357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 03时11分]"
+        },
+        {
+          "title": "网络热门AI诈骗鉴定",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BD%91%E7%BB%9C%E7%83%AD%E9%97%A8AI%E8%AF%88%E9%AA%97%E9%89%B4%E5%AE%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时11分 ~ 07时12分]"
+        },
+        {
+          "title": "美联储理事米兰：人工智能投资可能导致更高的中性利率。",
+          "url": "https://flash.jin10.com/detail/20251016004517339800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        },
+        {
+          "title": "安永（EY，全球四大会计师事务所之一）2025年维持4%的增速，全球费用（收入）达到530亿美元。 安永报告限制，在关税支持和人工智能（AI）服务方面实现成长。",
+          "url": "https://wallstreetcn.com/livenews/2988433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "高盛总裁沃尔德伦：现在判断人工智能繁荣是否是泡沫还为时过早。",
+          "url": "https://flash.jin10.com/detail/20251016014130780800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
+        {
+          "title": "美联储理事沃勒：人工智能发展如此之快，我们会在看到新的就业机会之前看到失业。",
+          "url": "https://flash.jin10.com/detail/20251016013303542800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
+        {
+          "title": "美联储理事米兰：人工智能对经济的影响难以量化。",
+          "url": "https://flash.jin10.com/detail/20251016012505816800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体 芯片 集成电路",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "算力龙头领衔！第一波半导体业绩浪来了",
+          "url": "https://www.cls.cn/detail/2170549",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时13分 ~ 08时50分]"
+        },
+        {
+          "title": "国产算力芯片龙头海光信息Q3营收、归母净利双双创新高！| 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3757247",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[03时10分 ~ 10时23分]"
+        },
+        {
+          "title": "我国芯片研制获重大突破",
+          "url": "https://www.toutiao.com/trending/7561545536600293395/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时22分 ~ 10时23分]"
+        },
+        {
+          "title": "直击2025湾芯展：新凯来之外还有哪些看点？国产半导体正筑基强“链”",
+          "url": "https://www.cls.cn/detail/2170113",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时13分"
+        },
+        {
+          "title": "幕后细节披露！涉半导体企业，美国被爆曾施压荷兰更换中国CEO",
+          "url": "https://news.ifeng.com/c/8nUEhR8pAsV",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时50分"
+        },
+        {
+          "title": "半导体ETF收跌约2.5%，领跌美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/2988438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时12分]"
+        },
+        {
+          "title": "纳指期货盘前涨超1% 阿斯麦业绩提振芯片股 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2170607",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时50分 ~ 10时23分]"
+        },
+        {
+          "title": "中国芯片研制获重大突破",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%8A%AF%E7%89%87%E7%A0%94%E5%88%B6%E8%8E%B7%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时22分 ~ 10时23分]"
+        },
+        {
+          "title": "创业板指涨超1%，沪指涨0.19%，深成指涨0.37%，保险、教育、创新药、存储芯片等方向领涨，沪深京三市上涨个股近1800只。",
+          "url": "https://wallstreetcn.com/livenews/2988583",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "标普V形反转收涨0.4%，半导体指数涨约3%，小盘股指涨约1%",
+          "url": "https://wallstreetcn.com/livenews/2988398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "中资147亿半导体资产被荷兰冻结",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E8%B5%84147%E4%BA%BF%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%B5%84%E4%BA%A7%E8%A2%AB%E8%8D%B7%E5%85%B0%E5%86%BB%E7%BB%93",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为 小米 荣耀",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "打不开的车门！小米汽车成都事故争议背后：门把手为何再成焦点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31779213",
+          "source": "澎湃新闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时13分 ~ 07时12分]"
+        },
+        {
+          "title": "王者荣耀 貂蝉",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80+%E8%B2%82%E8%9D%89&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26stream_entry_id%3D31%26pos%3D0%26band_rank%3D1%26flag%3D1%26filter_type%3Drealtimehot%26cate%3D5001%26c_type%3D31%26lcate%3D5001%26realpos%3D1%26q%3D%25E7%258E%258B%25E8%2580%2585%25E8%258D%25A3%25E8%2580%2580%2520%25E8%25B2%2582%25E8%259D%2589%26display_time%3D1760544709%26pre_seqid%3D17605447099060054658",
+          "source": "微博",
+          "ranks": [
+            1,
+            2,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时13分 ~ 08时50分]"
+        },
+        {
+          "title": "如何评价荣耀Magic8",
+          "url": "https://www.douyin.com/hot/2271064",
+          "source": "抖音",
+          "ranks": [
+            5,
+            7,
+            6,
+            8,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时13分 ~ 10时23分]"
+        },
+        {
+          "title": "如何评价 10 月 15 日发布的荣耀 Magic8 系列？有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1961832439438607799",
+          "source": "知乎",
+          "ranks": [
+            17,
+            13,
+            19,
+            11,
+            16,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 07时12分]"
+        },
+        {
+          "title": "王者荣耀 李白",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80+%E6%9D%8E%E7%99%BD&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26stream_entry_id%3D31%26pos%3D17%26band_rank%3D16%26flag%3D1%26filter_type%3Drealtimehot%26cate%3D5001%26c_type%3D31%26lcate%3D5001%26realpos%3D16%26q%3D%25E7%258E%258B%25E8%2580%2585%25E8%258D%25A3%25E8%2580%2580%2520%25E6%259D%258E%25E7%2599%25BD%26display_time%3D1760544709%26pre_seqid%3D17605447099060054658",
+          "source": "微博",
+          "ranks": [
+            16,
+            9,
+            6,
+            8,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 05时12分]"
+        },
+        {
+          "title": "荣耀手机背面翻出一个机器人",
+          "url": "https://www.toutiao.com/trending/7560732217845268526/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时50分 ~ 10时23分]"
+        },
+        {
+          "title": "荣耀发布会含金量真高",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%8D%A3%E8%80%80%E5%8F%91%E5%B8%83%E4%BC%9A%E5%90%AB%E9%87%91%E9%87%8F%E7%9C%9F%E9%AB%98%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26stream_entry_id%3D31%26pos%3D21%26band_rank%3D20%26flag%3D1%26filter_type%3Drealtimehot%26cate%3D5001%26c_type%3D31%26lcate%3D5001%26realpos%3D20%26q%3D%2523%25E8%258D%25A3%25E8%2580%2580%25E5%258F%2591%25E5%25B8%2583%25E4%25BC%259A%25E5%2590%25AB%25E9%2587%2591%25E9%2587%258F%25E7%259C%259F%25E9%25AB%2598%2523%26display_time%3D1760544709%26pre_seqid%3D17605447099060054658",
+          "source": "微博",
+          "ranks": [
+            20,
+            28,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 05时12分]"
+        },
+        {
+          "title": "李健称荣耀Magic8是最强标准版",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%9D%8E%E5%81%A5%E7%A7%B0%E8%8D%A3%E8%80%80Magic8%E6%98%AF%E6%9C%80%E5%BC%BA%E6%A0%87%E5%87%86%E7%89%88%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26stream_entry_id%3D31%26pos%3D25%26band_rank%3D24%26flag%3D1%26filter_type%3Drealtimehot%26cate%3D5001%26c_type%3D31%26lcate%3D5001%26realpos%3D24%26q%3D%2523%25E6%259D%258E%25E5%2581%25A5%25E7%25A7%25B0%25E8%258D%25A3%25E8%2580%2580Magic8%25E6%2598%25AF%25E6%259C%2580%25E5%25BC%25BA%25E6%25A0%2587%25E5%2587%2586%25E7%2589%2588%2523%26display_time%3D1760544709%26pre_seqid%3D17605447099060054658",
+          "source": "微博",
+          "ranks": [
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时13分 ~ 01时12分]"
+        },
+        {
+          "title": "苹果华为OPPO将推出eSIM手机",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%8B%B9%E6%9E%9C%E5%8D%8E%E4%B8%BAOPPO%E5%B0%86%E6%8E%A8%E5%87%BAeSIM%E6%89%8B%E6%9C%BA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D26%26realpos%3D26%26filter_type%3Drealtimehot%26c_type%3D31%26flag%3D1%26q%3D%2523%25E8%258B%25B9%25E6%259E%259C%25E5%258D%258E%25E4%25B8%25BAOPPO%25E5%25B0%2586%25E6%258E%25A8%25E5%2587%25BAeSIM%25E6%2589%258B%25E6%259C%25BA%2523%26lcate%3D5001%26dgr%3D0%26cate%3D5001%26band_rank%3D26%26stream_entry_id%3D31%26display_time%3D1760581315%26pre_seqid%3D176058131546600673152",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时22分 ~ 10时23分]"
+        },
+        {
+          "title": "荣耀Magic8牙膏挤爆了",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%8D%A3%E8%80%80Magic8%E7%89%99%E8%86%8F%E6%8C%A4%E7%88%86%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26stream_entry_id%3D31%26pos%3D27%26band_rank%3D26%26flag%3D1%26filter_type%3Drealtimehot%26cate%3D5001%26c_type%3D31%26lcate%3D5001%26realpos%3D26%26q%3D%2523%25E8%258D%25A3%25E8%2580%2580Magic8%25E7%2589%2599%25E8%2586%258F%25E6%258C%25A4%25E7%2588%2586%25E4%25BA%2586%2523%26display_time%3D1760544709%26pre_seqid%3D17605447099060054658",
+          "source": "微博",
+          "ranks": [
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1384,11 +2164,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时11分 ~ 08时50分]"
+          "appearance_count": 5,
+          "time_info": "[07时11分 ~ 10时23分]"
         },
         {
           "title": "金十图示：2025年10月15日（周三）美股热门股票行情一览（美股收盘）",
@@ -1453,7 +2234,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时50分"
         },
@@ -1464,7 +2245,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时50分"
         },
@@ -1482,353 +2263,8 @@
       ]
     },
     {
-      "keyword_group": "华为 小米 荣耀",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "打不开的车门！小米汽车成都事故争议背后：门把手为何再成焦点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31779213",
-          "source": "澎湃新闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时13分 ~ 07时12分]"
-        },
-        {
-          "title": "王者荣耀 貂蝉",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80+%E8%B2%82%E8%9D%89&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26stream_entry_id%3D31%26pos%3D0%26band_rank%3D1%26flag%3D1%26filter_type%3Drealtimehot%26cate%3D5001%26c_type%3D31%26lcate%3D5001%26realpos%3D1%26q%3D%25E7%258E%258B%25E8%2580%2585%25E8%258D%25A3%25E8%2580%2580%2520%25E8%25B2%2582%25E8%259D%2589%26display_time%3D1760544709%26pre_seqid%3D17605447099060054658",
-          "source": "微博",
-          "ranks": [
-            1,
-            2,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时13分 ~ 08时50分]"
-        },
-        {
-          "title": "如何评价荣耀Magic8",
-          "url": "https://www.douyin.com/hot/2271064",
-          "source": "抖音",
-          "ranks": [
-            5,
-            7,
-            6,
-            8,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时13分 ~ 08时50分]"
-        },
-        {
-          "title": "如何评价 10 月 15 日发布的荣耀 Magic8 系列？有哪些亮点？",
-          "url": "https://www.zhihu.com/question/1961832439438607799",
-          "source": "知乎",
-          "ranks": [
-            17,
-            13,
-            19,
-            11,
-            16,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时13分 ~ 07时12分]"
-        },
-        {
-          "title": "王者荣耀 李白",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80+%E6%9D%8E%E7%99%BD&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26stream_entry_id%3D31%26pos%3D17%26band_rank%3D16%26flag%3D1%26filter_type%3Drealtimehot%26cate%3D5001%26c_type%3D31%26lcate%3D5001%26realpos%3D16%26q%3D%25E7%258E%258B%25E8%2580%2585%25E8%258D%25A3%25E8%2580%2580%2520%25E6%259D%258E%25E7%2599%25BD%26display_time%3D1760544709%26pre_seqid%3D17605447099060054658",
-          "source": "微博",
-          "ranks": [
-            16,
-            9,
-            6,
-            8,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时13分 ~ 05时12分]"
-        },
-        {
-          "title": "荣耀手机背面翻出一个机器人",
-          "url": "https://www.toutiao.com/trending/7560732217845268526/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时50分"
-        },
-        {
-          "title": "荣耀发布会含金量真高",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%8D%A3%E8%80%80%E5%8F%91%E5%B8%83%E4%BC%9A%E5%90%AB%E9%87%91%E9%87%8F%E7%9C%9F%E9%AB%98%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26stream_entry_id%3D31%26pos%3D21%26band_rank%3D20%26flag%3D1%26filter_type%3Drealtimehot%26cate%3D5001%26c_type%3D31%26lcate%3D5001%26realpos%3D20%26q%3D%2523%25E8%258D%25A3%25E8%2580%2580%25E5%258F%2591%25E5%25B8%2583%25E4%25BC%259A%25E5%2590%25AB%25E9%2587%2591%25E9%2587%258F%25E7%259C%259F%25E9%25AB%2598%2523%26display_time%3D1760544709%26pre_seqid%3D17605447099060054658",
-          "source": "微博",
-          "ranks": [
-            20,
-            28,
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 05时12分]"
-        },
-        {
-          "title": "李健称荣耀Magic8是最强标准版",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%9D%8E%E5%81%A5%E7%A7%B0%E8%8D%A3%E8%80%80Magic8%E6%98%AF%E6%9C%80%E5%BC%BA%E6%A0%87%E5%87%86%E7%89%88%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26stream_entry_id%3D31%26pos%3D25%26band_rank%3D24%26flag%3D1%26filter_type%3Drealtimehot%26cate%3D5001%26c_type%3D31%26lcate%3D5001%26realpos%3D24%26q%3D%2523%25E6%259D%258E%25E5%2581%25A5%25E7%25A7%25B0%25E8%258D%25A3%25E8%2580%2580Magic8%25E6%2598%25AF%25E6%259C%2580%25E5%25BC%25BA%25E6%25A0%2587%25E5%2587%2586%25E7%2589%2588%2523%26display_time%3D1760544709%26pre_seqid%3D17605447099060054658",
-          "source": "微博",
-          "ranks": [
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 01时12分]"
-        },
-        {
-          "title": "荣耀Magic8牙膏挤爆了",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%8D%A3%E8%80%80Magic8%E7%89%99%E8%86%8F%E6%8C%A4%E7%88%86%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26stream_entry_id%3D31%26pos%3D27%26band_rank%3D26%26flag%3D1%26filter_type%3Drealtimehot%26cate%3D5001%26c_type%3D31%26lcate%3D5001%26realpos%3D26%26q%3D%2523%25E8%258D%25A3%25E8%2580%2580Magic8%25E7%2589%2599%25E8%2586%258F%25E6%258C%25A4%25E7%2588%2586%25E4%25BA%2586%2523%26display_time%3D1760544709%26pre_seqid%3D17605447099060054658",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能 AI",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "谷歌在印度南部砸下150亿美元建数据中心，打造美国之外最大AI枢纽",
-          "url": "https://wallstreetcn.com/articles/3757182",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 02时17分]"
-        },
-        {
-          "title": "人工智能（AI）初创公司Poolside在大规模数据中心问题上与CoreWeave组团。",
-          "url": "https://wallstreetcn.com/livenews/2988357",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时17分 ~ 03时11分]"
-        },
-        {
-          "title": "网络热门AI诈骗鉴定",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BD%91%E7%BB%9C%E7%83%AD%E9%97%A8AI%E8%AF%88%E9%AA%97%E9%89%B4%E5%AE%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时11分 ~ 07时12分]"
-        },
-        {
-          "title": "美联储理事米兰：人工智能投资可能导致更高的中性利率。",
-          "url": "https://flash.jin10.com/detail/20251016004517339800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "安永（EY，全球四大会计师事务所之一）2025年维持4%的增速，全球费用（收入）达到530亿美元。 安永报告限制，在关税支持和人工智能（AI）服务方面实现成长。",
-          "url": "https://wallstreetcn.com/livenews/2988433",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
-          "title": "“看，皇帝没穿衣服”！对冲基金经理：万亿美元的AI投入，赚得回来吗？",
-          "url": "https://wallstreetcn.com/articles/3757228",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时50分"
-        },
-        {
-          "title": "高盛总裁沃尔德伦：现在判断人工智能繁荣是否是泡沫还为时过早。",
-          "url": "https://flash.jin10.com/detail/20251016014130780800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "美联储理事沃勒：人工智能发展如此之快，我们会在看到新的就业机会之前看到失业。",
-          "url": "https://flash.jin10.com/detail/20251016013303542800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "美联储理事米兰：人工智能对经济的影响难以量化。",
-          "url": "https://flash.jin10.com/detail/20251016012505816800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股 沪指 深成指 创业板",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "9月以来次低纪录！A股成交额退守2万亿关口，哪些方向缩量最明显？",
-          "url": "https://www.cls.cn/detail/2170382",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时13分 ~ 08时50分]"
-        },
-        {
-          "title": "AH股反弹！沪指重回3900点，科技股午后发力，恒科指涨超2%，科网股普涨，沪金、银涨超2%，国债下跌",
-          "url": "https://wallstreetcn.com/articles/3757209",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时13分 ~ 08时50分]"
-        },
-        {
-          "title": "【每日收评】沪指涨超1%重返3900点，两市成交额萎缩超5000亿，机器人概念股午后异军突起",
-          "url": "https://www.cls.cn/detail/2170265",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时13分 ~ 07时12分]"
-        },
-        {
-          "title": "证券日报：四季度A股权益市场有望迎更多增量资金",
-          "url": "https://wallstreetcn.com/livenews/2988460",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "国信证券荀玉根：A股基本面或持续修复，科技股仍是市场主线",
-          "url": "https://wallstreetcn.com/livenews/2988454",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "应对大宗商品不确定性，套期保值已成A股公司“常规操作”",
-          "url": "https://wallstreetcn.com/livenews/2988451",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "外资机构纷纷发声，投下A股“信任票”",
-          "url": "https://wallstreetcn.com/livenews/2988445",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "北向资金连续三个季度加仓A股，三季度末持仓市值达2.58万亿元",
-          "url": "https://wallstreetcn.com/livenews/2988444",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "首批科创板成长层3只新股采用约定式限售，A股打新市场又有新变化",
-          "url": "https://wallstreetcn.com/livenews/2988498",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时50分"
-        }
-      ]
-    },
-    {
       "keyword_group": "苹果 iPhone",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "苹果发布多款搭载M5芯片新品",
@@ -1838,8 +2274,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时13分 ~ 08时50分]"
+          "appearance_count": 16,
+          "time_info": "[00时13分 ~ 10时23分]"
         },
         {
           "title": "苹果宣布推出M5芯片",
@@ -1863,20 +2299,32 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时50分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时50分 ~ 10时23分]"
         },
         {
           "title": "苹果公司正式推出M5芯片 首发3款新品",
           "url": "https://www.cls.cn/detail/2170735",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时50分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时50分 ~ 10时23分]"
+        },
+        {
+          "title": "苹果发布多款搭载M5芯片新品",
+          "url": "https://www.douyin.com/hot/2271270",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时22分 ~ 10时23分]"
         },
         {
           "title": "报道：苹果负责类ChatGPT业务的AI研究主管Ke Yang将跳槽至Meta",
@@ -1907,7 +2355,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时50分"
         },
@@ -1921,105 +2369,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "算力龙头领衔！第一波半导体业绩浪来了",
-          "url": "https://www.cls.cn/detail/2170549",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时13分 ~ 08时50分]"
-        },
-        {
-          "title": "国产算力芯片龙头海光信息Q3营收、归母净利双双创新高！| 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3757247",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时10分 ~ 08时50分]"
-        },
-        {
-          "title": "直击2025湾芯展：新凯来之外还有哪些看点？国产半导体正筑基强“链”",
-          "url": "https://www.cls.cn/detail/2170113",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
-        },
-        {
-          "title": "幕后细节披露！涉半导体企业，美国被爆曾施压荷兰更换中国CEO",
-          "url": "https://news.ifeng.com/c/8nUEhR8pAsV",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时50分"
-        },
-        {
-          "title": "半导体ETF收跌约2.5%，领跌美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/2988438",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时11分 ~ 07时12分]"
-        },
-        {
-          "title": "纳指期货盘前涨超1% 阿斯麦业绩提振芯片股 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2170607",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时50分"
-        },
-        {
-          "title": "标普V形反转收涨0.4%，半导体指数涨约3%，小盘股指涨约1%",
-          "url": "https://wallstreetcn.com/livenews/2988398",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时12分"
-        },
-        {
-          "title": "中资147亿半导体资产被荷兰冻结",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E8%B5%84147%E4%BA%BF%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%B5%84%E4%BA%A7%E8%A2%AB%E8%8D%B7%E5%85%B0%E5%86%BB%E7%BB%93",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时50分"
         }
       ]
     },
@@ -2063,6 +2412,18 @@
           "time_info": "[06时11分 ~ 07时12分]"
         },
         {
+          "title": "贝莱德、英伟达等巨头联手出击：400亿美元收购数据中心运营商Aligned",
+          "url": "https://www.cls.cn/detail/2170767",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时50分 ~ 10时23分]"
+        },
+        {
           "title": "美股收盘：三大股指涨跌不一 AMD涨超9%",
           "url": "https://flash.jin10.com/detail/20251016040058512800",
           "source": "金十数据",
@@ -2072,17 +2433,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
-        },
-        {
-          "title": "贝莱德、英伟达等巨头联手出击：400亿美元收购数据中心运营商Aligned",
-          "url": "https://www.cls.cn/detail/2170767",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时50分"
         },
         {
           "title": "纳斯达克金龙中国指数收涨1.70%，报8252.41点。 热门中概股里，新东方初步收涨约10%，文远知行、小鹏、台积电、百胜中国、网易、百度、京东至多涨超4%。 ETF中，富时中国3倍做多ETF（YINN）收涨2.81%，中概互联网指数ETF（KWEB）收涨1.30%，中国科技指数ETF（CQQQ）收涨1.09%。 德银嘉实沪深300指数ETF（ASHR）收涨1.18%，XtrackersHarvest中证50（ASHS）收涨0.92%。",
@@ -2171,18 +2521,19 @@
     },
     {
       "keyword_group": "新能源汽车 电动汽车 智能驾驶",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "【早报】事关电动汽车充电设施，利好来了；9月金融数据出炉",
           "url": "https://www.cls.cn/detail/2170838",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时50分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时50分 ~ 10时23分]"
         },
         {
           "title": "法拉利CEO Benedetto Vigna：可能会在中国推出电动车型。 公司的（业绩）指引是雄心勃勃的。 调整生产计划，从而体现出电动汽车（需求/销售）放缓。（彭博电视）",
@@ -2207,12 +2558,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时12分 ~ 06时11分]"
+        },
+        {
+          "title": "A股充电桩概念股早盘高开，京泉华、奥特迅涨停，和顺电气涨超10%，通达股份、盛弘股份、国电南自、通合科技、特锐德跟涨，消息面上，《电动汽车充电设施服务能力“三年倍增”行动方案(2025—2027年)》印发，到2027年底，在全国范围内建成2800万个充电设施。",
+          "url": "https://wallstreetcn.com/livenews/2988562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
         }
       ]
     },
     {
       "keyword_group": "考研 考公 国考",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "考公年龄放宽至38岁 考生发声",
@@ -2228,15 +2590,68 @@
           "time_info": "[05时11分 ~ 08时50分]"
         },
         {
+          "title": "每天一个奇吧—考研吧",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345847&amp;topic_name=%E6%AF%8F%E5%A4%A9%E4%B8%80%E4%B8%AA%E5%A5%87%E5%90%A7%E2%80%94%E8%80%83%E7%A0%94%E5%90%A7",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时22分 ~ 10时23分]"
+        },
+        {
+          "title": "国考报考首日近19万人报名，最大竞争比162:1",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31790876",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时22分 ~ 10时23分]"
+        },
+        {
           "title": "国考报考首日近19万人报名",
           "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E8%80%83%E6%8A%A5%E8%80%83%E9%A6%96%E6%97%A5%E8%BF%9119%E4%B8%87%E4%BA%BA%E6%8A%A5%E5%90%8D",
           "source": "百度热搜",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "车顶维权案当事人称特斯拉上诉了",
+          "url": "https://www.baidu.com/s?wd=%E8%BD%A6%E9%A1%B6%E7%BB%B4%E6%9D%83%E6%A1%88%E5%BD%93%E4%BA%8B%E4%BA%BA%E7%A7%B0%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%8A%E8%AF%89%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            24,
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时17分 ~ 07时12分]"
+        },
+        {
+          "title": "恒指低开0.08%，报25890.01点；恒生科技指数跌0.14%。新东方涨6.5%，泡泡玛特涨超2%，中国人寿涨近2%；联想、百度、小鹏汽车、理想汽车、蔚来等跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/2988555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
         }
       ]
     },
@@ -2254,26 +2669,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "车顶维权案当事人称特斯拉上诉了",
-          "url": "https://www.baidu.com/s?wd=%E8%BD%A6%E9%A1%B6%E7%BB%B4%E6%9D%83%E6%A1%88%E5%BD%93%E4%BA%8B%E4%BA%BA%E7%A7%B0%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%8A%E8%AF%89%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            24,
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时17分 ~ 07时12分]"
         }
       ]
     },
