@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-19T17:11:47.431081+08:00",
-  "total_titles_processed": 975,
+  "generated_at": "2025-10-19T18:12:22.254526+08:00",
+  "total_titles_processed": 1041,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "AI电力警报拉响！巨头押宝核聚变 AIDC电源架构同步演进",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时13分 ~ 17时11分]"
+          "appearance_count": 23,
+          "time_info": "[00时13分 ~ 18时12分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：计划一到两周内做关于人工智能的演讲。特朗普仍然希望政府关门问题得到友好解决。政府关门将导致几乎除了国防之外的任何事情停摆。",
@@ -79,18 +79,6 @@
           "time_info": "[00时13分 ~ 10时43分]"
         },
         {
-          "title": "英国央行行长贝利：我们必须促进对经济体的投资。我们必须在工作中应用AI。",
-          "url": "https://flash.jin10.com/detail/20251018213151998800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时13分 ~ 08时57分]"
-        },
-        {
           "title": "黑石总裁警告：华尔街低估了AI对许多行业“降维打击”的风险",
           "url": "https://www.cls.cn/detail/2173607",
           "source": "财联社热门",
@@ -101,8 +89,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时42分 ~ 17时11分]"
+          "appearance_count": 10,
+          "time_info": "[10时42分 ~ 18时12分]"
         },
         {
           "title": "“PE巨头”黑石总裁：华尔街低估了AI的颠覆性，现在投项目首先评估“颠覆风险\"",
@@ -114,8 +102,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时16分 ~ 17时11分]"
+          "appearance_count": 6,
+          "time_info": "[13时16分 ~ 18时12分]"
+        },
+        {
+          "title": "英国央行行长贝利：我们必须促进对经济体的投资。我们必须在工作中应用AI。",
+          "url": "https://flash.jin10.com/detail/20251018213151998800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 08时57分]"
         },
         {
           "title": "马斯克表示，Grok 5将是通用人工智能（AGI），或者是与AGI难以区分的东西。",
@@ -221,9 +221,20 @@
           "ranks": [
             8
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时11分 ~ 18时12分]"
+        },
+        {
+          "title": "特朗普发布AI恶搞视频，驾驶战斗机向示威人群倾倒粪便",
+          "url": "https://news.ifeng.com/c/8na1AOphcs7",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时11分"
+          "time_info": "18时12分"
         },
         {
           "title": "英伟达退出 国产AI芯片要崛起了吗",
@@ -235,12 +246,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "特朗普发布AI视频向抗议者洒粪",
+          "url": "https://www.toutiao.com/trending/7562522819947511850/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
         }
       ]
     },
     {
       "keyword_group": "华为 小米 荣耀",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "追责云业务造假和经济舞弊！华为云CEO张平安被连降三等，多名高管遭问责",
@@ -351,6 +373,17 @@
           "time_info": "[15时10分 ~ 16时15分]"
         },
         {
+          "title": "《沉默的荣耀》主演集体发声",
+          "url": "https://www.toutiao.com/trending/7562420105097461799/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
           "title": "沉默的荣耀",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E6%B2%89%E9%BB%98%E7%9A%84%E8%8D%A3%E8%80%80&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26c_type%3D31%26filter_type%3Drealtimehot%26realpos%3D30%26pos%3D30%26band_rank%3D30%26lcate%3D5001%26cate%3D5001%26flag%3D0%26q%3D%25E6%25B2%2589%25E9%25BB%2598%25E7%259A%2584%25E8%258D%25A3%25E8%2580%2580%26dgr%3D0%26display_time%3D1760821816%26pre_seqid%3D17608218168790273246854",
           "source": "微博",
@@ -360,6 +393,138 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元 人民币 汇率",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "黄金在全球“外汇黄金储备“比例已升至30%，若追平美元，金价需升至5790美元",
+          "url": "https://wallstreetcn.com/articles/3757430",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时13分 ~ 15时10分]"
+        },
+        {
+          "title": "中国人民银行支付结算司负责人：将继续完善人民币跨境支付体系",
+          "url": "https://wallstreetcn.com/livenews/2990112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            4,
+            6,
+            9,
+            12,
+            16,
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时43分 ~ 18时12分]"
+        },
+        {
+          "title": "印尼花90亿美元买42架歼10CE是真的吗",
+          "url": "https://www.toutiao.com/trending/7562512456459750938/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            9,
+            8,
+            10,
+            17,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 08时57分]"
+        },
+        {
+          "title": "开云集团接近将美妆业务以约40亿美元的估值出售给欧莱雅，协议最快可能在下周宣布。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/2990081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            14,
+            16,
+            18,
+            24,
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 12时23分]"
+        },
+        {
+          "title": "以太坊突破3900美元/枚，日内涨0.28%。",
+          "url": "https://flash.jin10.com/detail/20251019114157038800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            10,
+            13,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时23分 ~ 16时15分]"
+        },
+        {
+          "title": "比特币短线持续拉升，向上突破108000美元/枚，日内涨0.76%。",
+          "url": "https://flash.jin10.com/detail/20251019175019434800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
+          "title": "比特币短线飙升约1000美元，现报107006美元/枚。",
+          "url": "https://flash.jin10.com/detail/20251019174525480800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
+          "title": "广东省在香港发行离岸人民币地方政府债券75亿元",
+          "url": "https://wallstreetcn.com/livenews/2990061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时15分]"
+        },
+        {
+          "title": "金价银价创新高后跳水，白银跌超 6%，黄金跌破 4200 美元，如何看待此次调整？白银能否打破 50 美元魔咒？",
+          "url": "https://www.zhihu.com/question/1962971368476901383",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时11分 ~ 18时12分]"
         }
       ]
     },
@@ -455,115 +620,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时42分 ~ 11时41分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元 人民币 汇率",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "黄金在全球“外汇黄金储备“比例已升至30%，若追平美元，金价需升至5790美元",
-          "url": "https://wallstreetcn.com/articles/3757430",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时13分 ~ 15时10分]"
-        },
-        {
-          "title": "印尼花90亿美元买42架歼10CE是真的吗",
-          "url": "https://www.toutiao.com/trending/7562512456459750938/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            9,
-            8,
-            10,
-            17,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时13分 ~ 08时57分]"
-        },
-        {
-          "title": "开云集团接近将美妆业务以约40亿美元的估值出售给欧莱雅，协议最快可能在下周宣布。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/2990081",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            14,
-            16,
-            18,
-            24,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时13分 ~ 12时23分]"
-        },
-        {
-          "title": "中国人民银行支付结算司负责人：将继续完善人民币跨境支付体系",
-          "url": "https://wallstreetcn.com/livenews/2990112",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            4,
-            6,
-            9,
-            12,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时43分 ~ 17时11分]"
-        },
-        {
-          "title": "以太坊突破3900美元/枚，日内涨0.28%。",
-          "url": "https://flash.jin10.com/detail/20251019114157038800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            10,
-            13,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时23分 ~ 16时15分]"
-        },
-        {
-          "title": "广东省在香港发行离岸人民币地方政府债券75亿元",
-          "url": "https://wallstreetcn.com/livenews/2990061",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 02时15分]"
-        },
-        {
-          "title": "金价银价创新高后跳水，白银跌超 6%，黄金跌破 4200 美元，如何看待此次调整？白银能否打破 50 美元魔咒？",
-          "url": "https://www.zhihu.com/question/1962971368476901383",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时11分"
         }
       ]
     },
@@ -665,8 +721,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时42分 ~ 17时11分]"
+          "appearance_count": 10,
+          "time_info": "[10时42分 ~ 18时12分]"
         },
         {
           "title": "首款全国产通用GPU芯片发布",
@@ -692,22 +748,24 @@
             1,
             4,
             8,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时17分 ~ 17时11分]"
+          "appearance_count": 5,
+          "time_info": "[14时17分 ~ 18时12分]"
         },
         {
           "title": "士兰微：签署《12英寸高端模拟集成电路芯片制造生产线项目之投资合作协议》，项目规划总投资200亿元",
           "url": "https://wallstreetcn.com/livenews/2990141",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时11分 ~ 18时12分]"
         },
         {
           "title": "博主：美对华“芯片战争”重伤自己",
@@ -736,8 +794,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时13分 ~ 17时11分]"
+          "appearance_count": 23,
+          "time_info": "[00时13分 ~ 18时12分]"
         },
         {
           "title": "英伟达在华市场份额暴跌意味什么",
@@ -776,8 +834,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时41分 ~ 17时11分]"
+          "appearance_count": 8,
+          "time_info": "[11时41分 ~ 18时12分]"
         },
         {
           "title": "英伟达(NVDA.O)CEO黄仁勋将出席在韩国举行的亚太经合组织（APEC）CEO峰会。",
@@ -867,11 +925,29 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时13分 ~ 17时11分]"
+          "appearance_count": 23,
+          "time_info": "[00时13分 ~ 18时12分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "基础设施 基建 地铁 高铁",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "乘客被困高铁厕所10分钟 12306回应",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%98%E5%AE%A2%E8%A2%AB%E5%9B%B0%E9%AB%98%E9%93%81%E5%8E%95%E6%89%8010%E5%88%86%E9%92%9F+12306%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
         }
       ]
     }
