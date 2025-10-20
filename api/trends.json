@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-20T13:14:34.083218+08:00",
-  "total_titles_processed": 984,
+  "generated_at": "2025-10-20T14:19:32.736152+08:00",
+  "total_titles_processed": 1074,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "欧洲央行行长拉加德：那些持有俄罗斯资产的国家应当一起行动人。",
@@ -60,9 +60,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
+        },
+        {
+          "title": "三井住友金融市场主管：日本央行可能在12月加息。",
+          "url": "https://flash.jin10.com/detail/20251020141047268800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         },
         {
           "title": "欧洲的物价有多高",
@@ -71,11 +82,12 @@
           "ranks": [
             5,
             15,
-            22
+            22,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时31分 ~ 12时20分]"
+          "appearance_count": 5,
+          "time_info": "[10时31分 ~ 14时19分]"
         },
         {
           "title": "美联储10月降息25个基点的概率为99%",
@@ -381,7 +393,7 @@
     },
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "比特币涨超2.2%，试探11万美元。 美国参议院Lindsey Graham称，总统特朗普表态要针对哥伦比亚宣布关税（威胁）。 预计将在纽约时间10月19-29日宣布。 特朗普称他要“打击哥伦比亚”。 此前，特朗普掐断了美国对哥伦比亚的援助。",
@@ -421,6 +433,30 @@
           "time_info": "07时11分"
         },
         {
+          "title": "WTI原油日内下跌1.00%，现报56.63美元/桶。",
+          "url": "https://flash.jin10.com/detail/20251020140947016800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "关键一周开启！日经225指数升至历史新高，日元显著走软，黄金一度跌至4220美元下方",
+          "url": "https://wallstreetcn.com/articles/3757466",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时45分 ~ 14时19分]"
+        },
+        {
           "title": "美元兑日元USD/JPY上涨0.1%，报150.71。",
           "url": "https://flash.jin10.com/detail/20251020120304361800",
           "source": "金十数据",
@@ -457,16 +493,17 @@
           "time_info": "[06时10分 ~ 07时11分]"
         },
         {
-          "title": "关键一周开启！日经225指数升至历史新高，日元显著走软，黄金一度跌至4220美元下方",
-          "url": "https://wallstreetcn.com/articles/3757466",
-          "source": "华尔街见闻",
+          "title": "如何看待杜兰特 2 年 9000 万美元提前续约火箭？",
+          "url": "https://www.zhihu.com/question/1963359277616988974",
+          "source": "知乎",
           "ranks": [
-            9,
-            8
+            14,
+            15,
+            17
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时45分 ~ 13时14分]"
+          "time_info": "[12时19分 ~ 14时19分]"
         },
         {
           "title": "杜兰特两年九千万美元续约火箭",
@@ -497,16 +534,16 @@
           "time_info": "[00时13分 ~ 03时10分]"
         },
         {
-          "title": "如何看待杜兰特 2 年 9000 万美元提前续约火箭？",
-          "url": "https://www.zhihu.com/question/1963359277616988974",
-          "source": "知乎",
+          "title": "厦门启动绿色外债业务试点 首日业务量达1154万美元",
+          "url": "https://wallstreetcn.com/livenews/2990434",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14,
-            15
+            6,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时19分 ~ 13时14分]"
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 14时19分]"
         },
         {
           "title": "比特币突破110000美元/枚，日内涨1.31%。以太坊突破4000美元/枚，日内涨0.47%。",
@@ -544,15 +581,15 @@
           "time_info": "07时11分"
         },
         {
-          "title": "厦门启动绿色外债业务试点 首日业务量达1154万美元",
-          "url": "https://wallstreetcn.com/livenews/2990434",
+          "title": "比特币突破111000美元/枚，日内涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/2990459",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时14分"
+          "time_info": "14时19分"
         },
         {
           "title": "现货黄金突破4260美元/盎司，日内涨0.32%。",
@@ -643,6 +680,17 @@
           "time_info": "08时55分"
         },
         {
+          "title": "比特币突破111000美元/枚，日内涨2.17%。",
+          "url": "https://flash.jin10.com/detail/20251020135448647800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
           "title": "WTI原油跌破57美元/桶，日内跌0.40%。",
           "url": "https://flash.jin10.com/detail/20251020073717212800",
           "source": "金十数据",
@@ -714,11 +762,12 @@
             7,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时13分 ~ 13时14分]"
+          "appearance_count": 15,
+          "time_info": "[00时13分 ~ 14时19分]"
         },
         {
           "title": "【早报】中美同意尽快举行新一轮经贸磋商；芯片领域现200亿大手笔投资",
@@ -729,8 +778,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时55分 ~ 13时14分]"
+          "appearance_count": 7,
+          "time_info": "[08时55分 ~ 14时19分]"
         },
         {
           "title": "荷兰政府干预安世半导体，实探东莞工厂现状",
@@ -755,6 +804,19 @@
           "time_info": "10时31分"
         },
         {
+          "title": "PCIe/SATA SSD、RDIMM等产品实现稳定批量销售 存储芯片概念股涨停 本周机构密集调研相关上市公司",
+          "url": "https://www.cls.cn/detail/2173830",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时45分 ~ 14时19分]"
+        },
+        {
           "title": "麒麟芯片大概还需要多少年才能追上骁龙芯片？",
           "url": "https://www.zhihu.com/question/9990549959",
           "source": "知乎",
@@ -767,16 +829,16 @@
           "time_info": "[08时55分 ~ 12时20分]"
         },
         {
-          "title": "PCIe/SATA SSD、RDIMM等产品实现稳定批量销售 存储芯片概念股涨停 本周机构密集调研相关上市公司",
-          "url": "https://www.cls.cn/detail/2173830",
-          "source": "财联社热门",
+          "title": "实探安世半导体东莞工厂：原材料告急、已限制出货、员工将“上四休三”",
+          "url": "https://wallstreetcn.com/articles/3757450",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
+            10,
             9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时45分 ~ 13时14分]"
+          "time_info": "[12时19分 ~ 14时19分]"
         },
         {
           "title": "大手笔！500亿芯片股拟200亿元共同投建12英寸高端模拟芯片制造生产线|盘后公告集锦",
@@ -802,17 +864,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时45分 ~ 13时14分]"
-        },
-        {
-          "title": "实探安世半导体东莞工厂：原材料告急、已限制出货、员工将“上四休三”",
-          "url": "https://wallstreetcn.com/articles/3757450",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时19分 ~ 13时14分]"
         },
         {
           "title": "荷兰政府为何突然接管中国芯片资产",
@@ -907,11 +958,12 @@
           "ranks": [
             10,
             7,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时13分 ~ 13时14分]"
+          "appearance_count": 14,
+          "time_info": "[00时13分 ~ 14时19分]"
         },
         {
           "title": "不要国王！全美700万人上街抗议，特朗普用AI视频回击",
@@ -927,8 +979,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时13分 ~ 13时14分]"
+          "appearance_count": 15,
+          "time_info": "[00时13分 ~ 14时19分]"
         },
         {
           "title": "黑石总裁警告：华尔街低估了AI对许多行业“降维打击”的风险",
@@ -1023,7 +1075,7 @@
     },
     {
       "keyword_group": "房地产 房价 楼市 LPR",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "LPR已连续4个月持平 10月会变吗？多机构判断“按兵不动” 但预计年底前有10-30bp下调空间",
@@ -1038,6 +1090,17 @@
           "time_info": "[00时13分 ~ 07时11分]"
         },
         {
+          "title": "9月70城房价",
+          "url": "https://www.douyin.com/hot/2276003",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时31分 ~ 14时19分]"
+        },
+        {
           "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日中国第三季度GDP、9月社零公布，70城最新房价出炉。",
           "url": "https://flash.jin10.com/detail/20251020082351289800",
           "source": "金十数据",
@@ -1047,17 +1110,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
-        },
-        {
-          "title": "9月70城房价",
-          "url": "https://www.douyin.com/hot/2276003",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时31分 ~ 13时14分]"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——中国LPR、GDP、社零、美国CPI；二十届四中全会、APEC财长会议；特斯拉、英特尔等财报",
@@ -1070,6 +1122,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时13分 ~ 03时10分]"
+        },
+        {
+          "title": "9 月各线城市房价环比下降，同比降幅总体持续收窄，如何看待这一趋势？",
+          "url": "https://www.zhihu.com/question/1963544211140862177",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         },
         {
           "title": "国家统计局： 1-9月份，全国房地产开发投资67706亿元，同比下降13.9%",
@@ -1108,18 +1171,19 @@
     },
     {
       "keyword_group": "苹果 iPhone",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "iPhone17 播放《孤勇者》闪退什么原因？",
           "url": "https://www.zhihu.com/question/1962703846389293137",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时45分 ~ 13时14分]"
+          "appearance_count": 5,
+          "time_info": "[11时45分 ~ 14时19分]"
         },
         {
           "title": "iPhone17pro天猫官旗首次降价",
@@ -1158,6 +1222,17 @@
           "time_info": "[11时45分 ~ 12时20分]"
         },
         {
+          "title": "苹果打出翻身仗！新iPhone引爆近年来最强换机潮",
+          "url": "https://wallstreetcn.com/articles/3757463",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
           "title": "早盘收盘，国内期货主力合约涨跌互现。生猪涨超3%，焦煤涨超2%，焦炭、苹果、国际铜、沪铜、工业硅涨超1%。跌幅方面，沪银跌超3%，多晶硅、纯苯、苯乙烯跌近2%。",
           "url": "https://flash.jin10.com/detail/20251020113106783800",
           "source": "金十数据",
@@ -1172,7 +1247,7 @@
     },
     {
       "keyword_group": "华为 小米 荣耀",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "媒体炮轰雷军,小米口碑崩塌",
@@ -1183,8 +1258,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时13分 ~ 13时14分]"
+          "appearance_count": 15,
+          "time_info": "[00时13分 ~ 14时19分]"
         },
         {
           "title": "于和伟谈台湾观众看《沉默的荣耀》",
@@ -1232,12 +1307,23 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时13分 ~ 07时11分]"
+        },
+        {
+          "title": "华为将发布鸿蒙操作系统6 鸿蒙生态链有望站上风口",
+          "url": "https://www.cls.cn/detail/2173901",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         }
       ]
     },
     {
       "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "据美国科技资讯网站Tom's Hardware：微软(MSFT.O)已向英特尔下达其下一代AI芯片Maia2的晶圆代工订单，计划采用18A或18A-P制程。该芯片将用于微软Azure数据中心等AI基础设施。",
@@ -1246,9 +1332,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
+        },
+        {
+          "title": "国家能源局：截至9月底我国电动汽车充电基础设施（枪）总数达到1806.3万个 同比增长54.5%",
+          "url": "https://wallstreetcn.com/livenews/2990464",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         },
         {
           "title": "以色列军方：将对哈马斯的基础设施和行动人员采取“强有力”的回应。",
@@ -1359,8 +1456,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时13分 ~ 13时14分]"
+          "appearance_count": 15,
+          "time_info": "[00时13分 ~ 14时19分]"
         },
         {
           "title": "贝莱德、英伟达等牵头组成财团，400 亿美元收购 Aligned，如何看待这笔史上最大数据中心交易 ？",
