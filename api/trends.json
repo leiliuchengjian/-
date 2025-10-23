@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-23T18:13:21.782162+08:00",
-  "total_titles_processed": 1756,
+  "generated_at": "2025-10-23T19:11:15.629804+08:00",
+  "total_titles_processed": 1825,
   "failed_sources": [],
   "trends": [
     {
@@ -94,7 +94,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
         },
@@ -142,7 +142,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
         },
@@ -217,6 +217,19 @@
           "time_info": "[02时18分 ~ 04时15分]"
         },
         {
+          "title": "WTI原油日内涨幅达5.0%，报61.44美元/桶。布油涨近5%。",
+          "url": "https://wallstreetcn.com/livenews/2992494",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时15分 ~ 19时11分]"
+        },
+        {
           "title": "LME期铜收涨40元，报10663美元/吨。 LME期铝收涨26美元，报2807美元/吨。 LME期锌收涨41美元，报3029美元/吨。 LME期铅收涨6美元，报1990美元/吨。 LME期镍收跌12美元，报15163美元/吨。 LME期锡收跌36美元，报35364美元/吨。 LME期钴收涨1460美元，报48570美元/吨。",
           "url": "https://wallstreetcn.com/livenews/2992029",
           "source": "华尔街见闻-快讯",
@@ -264,18 +277,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时15分 ~ 13时13分]"
-        },
-        {
-          "title": "WTI原油日内涨幅达5.0%，报61.44美元/桶。布油涨近5%。",
-          "url": "https://wallstreetcn.com/livenews/2992494",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时15分 ~ 18时13分]"
         },
         {
           "title": "东方汇理预计金价可能在未来三年飙升至5000美元",
@@ -862,7 +863,7 @@
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "巴克莱：印尼央行可能会放慢降息步伐",
@@ -896,6 +897,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
+        },
+        {
+          "title": "印度央行：建议在印度场外交易市场的所有交易中实施统一交易标识码（UTI）。",
+          "url": "https://flash.jin10.com/detail/20251023184536401800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
         },
         {
           "title": "俄罗斯10月20日当周CPI周环比上升0.22%，2025年迄今累计上升4.95%。 9月PPI环比上升0.5%，同比下降0.4%。 9月工业产出同比上升0.3%。",
@@ -936,6 +948,18 @@
           "time_info": "[06时10分 ~ 07时12分]"
         },
         {
+          "title": "英国10月CBI工业物价预期差值 16，预期 5，前值 4。",
+          "url": "https://wallstreetcn.com/livenews/2992515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 19时11分]"
+        },
+        {
           "title": "韩国央行行长李昌镛：韩元兑美元自8月底以来的贬值约有四分之一是由于美元走强，其余可能是由于关税和贸易谈判相关的风险；最近日元疲软也是韩元贬值的原因之一。",
           "url": "https://wallstreetcn.com/livenews/2992265",
           "source": "华尔街见闻-快讯",
@@ -958,17 +982,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时15分 ~ 13时13分]"
-        },
-        {
-          "title": "英国10月CBI工业物价预期差值 16，预期 5，前值 4。",
-          "url": "https://wallstreetcn.com/livenews/2992515",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时13分"
         },
         {
           "title": "韩国央行行长李昌镛：日元近期走弱也是韩元贬值的原因之一。",
@@ -1263,7 +1276,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
         },
@@ -1381,7 +1394,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "UP主手搓AI眼镜",
@@ -1393,11 +1406,12 @@
             11,
             3,
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时31分 ~ 18时13分]"
+          "appearance_count": 12,
+          "time_info": "[11时31分 ~ 19时11分]"
         },
         {
           "title": "AI写文狂,原创路变凉",
@@ -1412,11 +1426,12 @@
             19,
             21,
             22,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时14分 ~ 18时13分]"
+          "appearance_count": 28,
+          "time_info": "[00时14分 ~ 19时11分]"
         },
         {
           "title": "AI饿坏电网！资管巨头警告：缺口“我们这代人都填不平”",
@@ -1501,17 +1516,6 @@
           "time_info": "[00时14分 ~ 02时18分]"
         },
         {
-          "title": "【全国人大常委会法工委：网络安全法拟增加促进AI安全与发展内容】全国人大常委会法制工作委员会今天（23日）举行记者会。据发言人介绍，十四届全国人大常委会第十八次会议将于明天至28日在北京举行，拟继续审议网络安全法修正草案，草案拟增加促进人工智能安全与发展的内容。根据各方面意见，草案拟作以下主要修改：一是充实网络安全工作指导原则；二是增加促进人工智能安全与发展的内容；三是在个人信息保护方面进一步做好与民法典和个人信息保护法的衔接；四是进一步完善相关处罚规定。（央视新闻）",
-          "url": "https://wallstreetcn.com/livenews/2992520",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时13分"
-        },
-        {
           "title": "史无前例！“AI教父”等超800名科技领袖联合呼吁：停止研发超级智能",
           "url": "https://www.cls.cn/detail/2177003",
           "source": "财联社热门",
@@ -1549,6 +1553,18 @@
           "time_info": "[12时15分 ~ 13时13分]"
         },
         {
+          "title": "【全国人大常委会法工委：网络安全法拟增加促进AI安全与发展内容】全国人大常委会法制工作委员会今天（23日）举行记者会。据发言人介绍，十四届全国人大常委会第十八次会议将于明天至28日在北京举行，拟继续审议网络安全法修正草案，草案拟增加促进人工智能安全与发展的内容。根据各方面意见，草案拟作以下主要修改：一是充实网络安全工作指导原则；二是增加促进人工智能安全与发展的内容；三是在个人信息保护方面进一步做好与民法典和个人信息保护法的衔接；四是进一步完善相关处罚规定。（央视新闻）",
+          "url": "https://wallstreetcn.com/livenews/2992520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 19时11分]"
+        },
+        {
           "title": "瑞典北欧思安银行：继续在多个新领域开发人工智能解决方案，包括风险管理、交易监控等。",
           "url": "https://flash.jin10.com/detail/20251023123905139800",
           "source": "金十数据",
@@ -1571,6 +1587,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时11分 ~ 04时15分]"
+        },
+        {
+          "title": "如何评价 Meta AI 裁员 600 人，LeCun 负责的 FAIR 实验室是重灾区？",
+          "url": "https://www.zhihu.com/question/1964629313476358315",
+          "source": "知乎",
+          "ranks": [
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时13分 ~ 19时11分]"
         },
         {
           "title": "“大空头”查诺斯（Jim Chanos）：信用市场的状态“非常类似1999年”。 人工智能（AI）是本轮周期（资产配置）的“位移”。（彭博电视）",
@@ -1691,15 +1719,15 @@
           "time_info": "[08时49分 ~ 08时50分]"
         },
         {
-          "title": "如何评价 Meta AI 裁员 600 人，LeCun 负责的 FAIR 实验室是重灾区？",
-          "url": "https://www.zhihu.com/question/1964629313476358315",
-          "source": "知乎",
+          "title": "市场消息：英国政府与OpenAI达成协议，以扩大数据托管范围。",
+          "url": "https://flash.jin10.com/detail/20251023184120647800",
+          "source": "金十数据",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时13分"
+          "time_info": "19时11分"
         },
         {
           "title": "马斯克：初期将同时专注于台积电(TSM.N)和三星的AI 5芯片。",
@@ -1711,6 +1739,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "阿里夸克AI眼镜24日零点开启预售 叠加平台补贴后最低3699元",
+          "url": "https://wallstreetcn.com/livenews/2992529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
         },
         {
           "title": "Reddit(RDDT.N)：Oxylabs UAB、AWMProxy和Serpai掩盖身份，从谷歌搜索中“非法抓取”Reddit内容。",
@@ -1774,7 +1813,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
         },
@@ -1848,21 +1887,8 @@
     },
     {
       "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
-        {
-          "title": "税收抵免到期刺激特斯拉Q3营收大反弹，但盈利超预期猛降31%，关税影响逾4亿 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3757681",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时24分 ~ 18时13分]"
-        },
         {
           "title": "特斯拉电话会让市场失望，马斯克下调机器人和Robotaxi目标，称“特斯拉处于关键时刻”",
           "url": "https://wallstreetcn.com/articles/3757692",
@@ -1874,8 +1900,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时13分 ~ 18时13分]"
+          "appearance_count": 9,
+          "time_info": "[13时13分 ~ 19时11分]"
+        },
+        {
+          "title": "税收抵免到期刺激特斯拉Q3营收大反弹，但盈利超预期猛降31%，关税影响逾4亿 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3757681",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[10时24分 ~ 19时11分]"
         },
         {
           "title": "特斯拉Q3财报会实录：宏大“画饼”盖不住财报拉胯 机器人和Robotaxi目标下调令人担忧",
@@ -1910,17 +1949,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
-        },
-        {
-          "title": "特斯拉：预计2025年资本支出约为90亿美元，此前预计超过90亿美元。 第三季度在汽车业务板块确认了2.38亿美元的相关费用，涉及超级计算机资产、合同终止以及员工裁员等支出。",
-          "url": "https://wallstreetcn.com/livenews/2992525",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时13分"
         },
         {
           "title": "特斯拉(TSLA.O)Q3毛利率录得18%。",
@@ -1987,6 +2015,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
+        },
+        {
+          "title": "特斯拉：预计2025年资本支出约为90亿美元，此前预计超过90亿美元。 第三季度在汽车业务板块确认了2.38亿美元的相关费用，涉及超级计算机资产、合同终止以及员工裁员等支出。",
+          "url": "https://wallstreetcn.com/livenews/2992525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 19时11分]"
         },
         {
           "title": "马斯克：预计今年年底前，美国得州Austin的特斯拉（无人驾驶出租车）将不再配备安全驾驶监督员。",
@@ -2117,6 +2157,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
+        },
+        {
+          "title": "瑞穗银行：将特斯拉(TSLA.O)目标价从450美元上调至485美元。",
+          "url": "https://flash.jin10.com/detail/20251023184047602800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
         },
         {
           "title": "特斯拉：（与美国总统特朗普相关的）贸易政策和财政政策给业绩前景蒙上阴影。",
@@ -2287,8 +2338,22 @@
     },
     {
       "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "突破瓶颈！中国成功研制新型芯片",
+          "url": "https://www.baidu.com/s?wd=%E7%AA%81%E7%A0%B4%E7%93%B6%E9%A2%88%EF%BC%81%E4%B8%AD%E5%9B%BD%E6%88%90%E5%8A%9F%E7%A0%94%E5%88%B6%E6%96%B0%E5%9E%8B%E8%8A%AF%E7%89%87",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            1,
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时13分 ~ 19时11分]"
+        },
         {
           "title": "谷歌称量子芯片“Willow”现重大突破：算法可重复验证，五年内或迎实用化",
           "url": "https://wallstreetcn.com/articles/3757674",
@@ -2300,8 +2365,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时24分 ~ 18时13分]"
+          "appearance_count": 13,
+          "time_info": "[10时24分 ~ 19时11分]"
         },
         {
           "title": "买不到中国芯片 德国车企面临停产",
@@ -2318,29 +2383,17 @@
           "time_info": "[01时13分 ~ 07时12分]"
         },
         {
-          "title": "突破瓶颈！中国成功研制新型芯片",
-          "url": "https://www.baidu.com/s?wd=%E7%AA%81%E7%A0%B4%E7%93%B6%E9%A2%88%EF%BC%81%E4%B8%AD%E5%9B%BD%E6%88%90%E5%8A%9F%E7%A0%94%E5%88%B6%E6%96%B0%E5%9E%8B%E8%8A%AF%E7%89%87",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时13分 ~ 18时13分]"
-        },
-        {
           "title": "存储芯片“超级周期”持续演绎：三星、SK海力士料将涨价30% 客户开启囤货模式",
           "url": "https://www.cls.cn/detail/2178138",
           "source": "财联社热门",
           "ranks": [
             5,
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时15分 ~ 18时13分]"
+          "appearance_count": 6,
+          "time_info": "[16时15分 ~ 19时11分]"
         },
         {
           "title": "王文涛就安世半导体等问题与荷方通话",
@@ -2357,15 +2410,17 @@
           "time_info": "[03时11分 ~ 07时12分]"
         },
         {
-          "title": "新莱应材：子公司拟投资20亿元建设半导体核心零部件项目",
-          "url": "https://wallstreetcn.com/livenews/2992523",
-          "source": "华尔街见闻-快讯",
+          "title": "我国成功研制新型芯片",
+          "url": "https://www.toutiao.com/trending/7563567125915303962/",
+          "source": "今日头条",
           "ranks": [
-            2
+            7,
+            5,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时13分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时15分 ~ 19时11分]"
         },
         {
           "title": "日本汽车工业协会：荷兰安世半导体称或无法保证交货，恐严重影响企业生产",
@@ -2379,16 +2434,16 @@
           "time_info": "16时16分"
         },
         {
-          "title": "我国成功研制新型芯片",
-          "url": "https://www.toutiao.com/trending/7563567125915303962/",
-          "source": "今日头条",
+          "title": "新莱应材：子公司拟投资20亿元建设半导体核心零部件项目",
+          "url": "https://wallstreetcn.com/livenews/2992523",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            5
+            2,
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时15分 ~ 18时13分]"
+          "time_info": "[18时13分 ~ 19时11分]"
         },
         {
           "title": "网络股指数ETF收跌超2.1%，和半导体ETF领跌美股行业ETF，标普能源板块涨超1.3%",
@@ -2426,6 +2481,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时15分 ~ 02时18分]"
+        },
+        {
+          "title": "华虹半导体：2025年11月6日（星期四）下午17:00-18:00召开2025年第三季度业绩说明会。",
+          "url": "https://wallstreetcn.com/livenews/2992510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 19时11分]"
         },
         {
           "title": "标普跌1%，半导体指数跌4%，EDA软件概念股新思科技跌约3%",
@@ -2485,15 +2552,15 @@
           "time_info": "12时15分"
         },
         {
-          "title": "华虹半导体：2025年11月6日（星期四）下午17:00-18:00召开2025年第三季度业绩说明会。",
-          "url": "https://wallstreetcn.com/livenews/2992510",
-          "source": "华尔街见闻-快讯",
+          "title": "在米兰上市的意法半导体股票在停牌后恢复交易，最新下跌9.8%。",
+          "url": "https://flash.jin10.com/detail/20251023183513351800",
+          "source": "金十数据",
           "ranks": [
-            10
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时13分"
+          "time_info": "19时11分"
         },
         {
           "title": "金十图示：2025年10月23日（周四）富时中国A50指数成分股午盘收盘行情一览：半导体、通讯设备、消费电子板块回落，石油、煤炭板块走强",
@@ -2553,6 +2620,196 @@
       ]
     },
     {
+      "keyword_group": "华为 小米 荣耀",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "华为手机图库可直接查看3D影像",
+          "url": "https://www.toutiao.com/trending/7563473686096199721/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            2,
+            4,
+            5,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时14分 ~ 07时12分]"
+        },
+        {
+          "title": "华为鸿蒙大升级！鸿蒙6实现与苹果互联 80+应用智能体已上线",
+          "url": "https://www.cls.cn/detail/2177335",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[01时13分 ~ 08时50分]"
+        },
+        {
+          "title": "华为鸿蒙 HarmonyOS 6 正式发布，与之前的版本相比，鸿蒙 6 有哪些新的特性和改进？",
+          "url": "https://www.zhihu.com/question/1964362689997398871",
+          "source": "知乎",
+          "ranks": [
+            3,
+            5,
+            16,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 04时15分]"
+        },
+        {
+          "title": "小米汽车副总裁李肖爽否认宣传“SOS 1秒接通”：系造谣诋毁 将追责",
+          "url": "https://www.cls.cn/detail/2177770",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时31分 ~ 17时15分]"
+        },
+        {
+          "title": "荣耀董事长吴晖：已累计投入超100亿元用于AI研发",
+          "url": "https://wallstreetcn.com/livenews/2992300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 13时13分]"
+        },
+        {
+          "title": "华为鸿蒙6正式发布",
+          "url": "https://www.toutiao.com/trending/7563645965089931303/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时11分]"
+        },
+        {
+          "title": "小米YU7内有不明零件 市监部门介入",
+          "url": "https://www.toutiao.com/trending/7564318664644628007/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时13分 ~ 19时11分]"
+        },
+        {
+          "title": "台大教授苑举正谈《沉默的荣耀》",
+          "url": "https://www.toutiao.com/trending/7564038942308728873/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时49分 ~ 10时24分]"
+        },
+        {
+          "title": "华为新机发布计划曝光",
+          "url": "https://www.toutiao.com/trending/7563553763076784179/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时13分 ~ 15时13分]"
+        },
+        {
+          "title": "荣耀Magic8镜头里的全球蓝调",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%8D%A3%E8%80%80Magic8%E9%95%9C%E5%A4%B4%E9%87%8C%E7%9A%84%E5%85%A8%E7%90%83%E8%93%9D%E8%B0%83%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D20%26stream_entry_id%3D31%26pos%3D20%26lcate%3D5001%26filter_type%3Drealtimehot%26q%3D%2523%25E8%258D%25A3%25E8%2580%2580Magic8%25E9%2595%259C%25E5%25A4%25B4%25E9%2587%258C%25E7%259A%2584%25E5%2585%25A8%25E7%2590%2583%25E8%2593%259D%25E8%25B0%2583%2523%26band_rank%3D20%26dgr%3D0%26flag%3D1%26cate%3D5001%26c_type%3D31%26display_time%3D1761214149%26pre_seqid%3D176121414945301201193135",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时13分 ~ 19时11分]"
+        },
+        {
+          "title": "官方通报无牌小米SU7路口漂移",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%97%A0%E7%89%8C%E5%B0%8F%E7%B1%B3SU7%E8%B7%AF%E5%8F%A3%E6%BC%82%E7%A7%BB%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D20%26stream_entry_id%3D31%26pos%3D20%26lcate%3D5001%26filter_type%3Drealtimehot%26q%3D%2523%25E5%25AE%2598%25E6%2596%25B9%25E9%2580%259A%25E6%258A%25A5%25E6%2597%25A0%25E7%2589%258C%25E5%25B0%258F%25E7%25B1%25B3SU7%25E8%25B7%25AF%25E5%258F%25A3%25E6%25BC%2582%25E7%25A7%25BB%2523%26band_rank%3D20%26dgr%3D0%26flag%3D1%26cate%3D5001%26c_type%3D31%26display_time%3D1761207188%26pre_seqid%3D176120718871101201190102",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时15分 ~ 16时16分]"
+        },
+        {
+          "title": "荣耀 Magic8 系列实际体验如何？Pro 和标准版应该选哪个？",
+          "url": "https://www.zhihu.com/question/1964384374385509711",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时10分 ~ 19时11分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收跌0.9%。 热门中概股里，小马智行初步收跌7.3%，网易跌4.7%，台积电、百度、京东、小鹏跌超1%，拼多多和阿里至多跌约0.5%，百胜中国、小米、美团、蔚来则至多涨约0.3%。",
+          "url": "https://wallstreetcn.com/livenews/2992061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.93%，报8202.71点。 热门中概股里，小马智行初步收跌7.3%，网易跌4.7%，台积电、百度、京东、小鹏跌超1%，拼多多和阿里至多跌约0.5%，百胜中国、小米、美团、蔚来则至多涨约0.3%。 ETF中，中概互联网指数ETF（KWEB）收跌1.23%，中国科技指数ETF（CQQQ）收跌0.73%，追踪富时25中国股指数ETF-iShares（FXI）收跌0.50%。 XtrackersHarvest中证50（ASHS）收跌0.49%，德银嘉实沪深300指数ETF（ASHR）收跌0.09%。 富时中国3倍做多ETF（YINN）收跌1.50%，富时中国3倍做空ETF（YANG）收涨1.74%。",
+          "url": "https://wallstreetcn.com/livenews/2992061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "卢伟冰回应小米17设计争议",
+          "url": "https://www.toutiao.com/trending/7564310503388876307/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        }
+      ]
+    },
+    {
       "keyword_group": "房地产 房价 楼市 LPR",
       "match_count": 14,
       "titles": [
@@ -2581,6 +2838,29 @@
           "time_info": "11时32分"
         },
         {
+          "title": "四中全会公报：推动房地产高质量发展",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%85%AC%E6%8A%A5%EF%BC%9A%E6%8E%A8%E5%8A%A8%E6%88%BF%E5%9C%B0%E4%BA%A7%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时13分 ~ 19时11分]"
+        },
+        {
+          "title": "中国楼市迎来意外转折点了吗",
+          "url": "https://www.toutiao.com/trending/7564304825114955310/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时13分 ~ 19时11分]"
+        },
+        {
           "title": "韩国央行行长李昌镛：房地产价格上涨正在损害整体经济增长。",
           "url": "https://wallstreetcn.com/livenews/2992274",
           "source": "华尔街见闻-快讯",
@@ -2591,17 +2871,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时32分 ~ 12时15分]"
-        },
-        {
-          "title": "四中全会公报：推动房地产高质量发展",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%85%AC%E6%8A%A5%EF%BC%9A%E6%8E%A8%E5%8A%A8%E6%88%BF%E5%9C%B0%E4%BA%A7%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时13分"
         },
         {
           "title": "天风证券：年内下调LPR的可能性不大",
@@ -2692,17 +2961,6 @@
           "time_info": "11时32分"
         },
         {
-          "title": "中国楼市迎来意外转折点了吗",
-          "url": "https://www.toutiao.com/trending/7564304825114955310/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时13分"
-        },
-        {
           "title": "韩国央行行长李昌镛：首尔房价过高。 与其他国家相比，韩国股市价格不算过高。",
           "url": "https://wallstreetcn.com/livenews/2992248",
           "source": "华尔街见闻-快讯",
@@ -2716,186 +2974,8 @@
       ]
     },
     {
-      "keyword_group": "华为 小米 荣耀",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "华为手机图库可直接查看3D影像",
-          "url": "https://www.toutiao.com/trending/7563473686096199721/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            2,
-            4,
-            5,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时14分 ~ 07时12分]"
-        },
-        {
-          "title": "华为鸿蒙大升级！鸿蒙6实现与苹果互联 80+应用智能体已上线",
-          "url": "https://www.cls.cn/detail/2177335",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时13分 ~ 08时50分]"
-        },
-        {
-          "title": "华为鸿蒙 HarmonyOS 6 正式发布，与之前的版本相比，鸿蒙 6 有哪些新的特性和改进？",
-          "url": "https://www.zhihu.com/question/1964362689997398871",
-          "source": "知乎",
-          "ranks": [
-            3,
-            5,
-            16,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 04时15分]"
-        },
-        {
-          "title": "小米汽车副总裁李肖爽否认宣传“SOS 1秒接通”：系造谣诋毁 将追责",
-          "url": "https://www.cls.cn/detail/2177770",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时31分 ~ 17时15分]"
-        },
-        {
-          "title": "荣耀董事长吴晖：已累计投入超100亿元用于AI研发",
-          "url": "https://wallstreetcn.com/livenews/2992300",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 13时13分]"
-        },
-        {
-          "title": "华为鸿蒙6正式发布",
-          "url": "https://www.toutiao.com/trending/7563645965089931303/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 03时11分]"
-        },
-        {
-          "title": "台大教授苑举正谈《沉默的荣耀》",
-          "url": "https://www.toutiao.com/trending/7564038942308728873/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时49分 ~ 10时24分]"
-        },
-        {
-          "title": "华为新机发布计划曝光",
-          "url": "https://www.toutiao.com/trending/7563553763076784179/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时13分 ~ 15时13分]"
-        },
-        {
-          "title": "官方通报无牌小米SU7路口漂移",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%97%A0%E7%89%8C%E5%B0%8F%E7%B1%B3SU7%E8%B7%AF%E5%8F%A3%E6%BC%82%E7%A7%BB%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D20%26stream_entry_id%3D31%26pos%3D20%26lcate%3D5001%26filter_type%3Drealtimehot%26q%3D%2523%25E5%25AE%2598%25E6%2596%25B9%25E9%2580%259A%25E6%258A%25A5%25E6%2597%25A0%25E7%2589%258C%25E5%25B0%258F%25E7%25B1%25B3SU7%25E8%25B7%25AF%25E5%258F%25A3%25E6%25BC%2582%25E7%25A7%25BB%2523%26band_rank%3D20%26dgr%3D0%26flag%3D1%26cate%3D5001%26c_type%3D31%26display_time%3D1761207188%26pre_seqid%3D176120718871101201190102",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时15分 ~ 16时16分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收跌0.9%。 热门中概股里，小马智行初步收跌7.3%，网易跌4.7%，台积电、百度、京东、小鹏跌超1%，拼多多和阿里至多跌约0.5%，百胜中国、小米、美团、蔚来则至多涨约0.3%。",
-          "url": "https://wallstreetcn.com/livenews/2992061",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.93%，报8202.71点。 热门中概股里，小马智行初步收跌7.3%，网易跌4.7%，台积电、百度、京东、小鹏跌超1%，拼多多和阿里至多跌约0.5%，百胜中国、小米、美团、蔚来则至多涨约0.3%。 ETF中，中概互联网指数ETF（KWEB）收跌1.23%，中国科技指数ETF（CQQQ）收跌0.73%，追踪富时25中国股指数ETF-iShares（FXI）收跌0.50%。 XtrackersHarvest中证50（ASHS）收跌0.49%，德银嘉实沪深300指数ETF（ASHR）收跌0.09%。 富时中国3倍做多ETF（YINN）收跌1.50%，富时中国3倍做空ETF（YANG）收涨1.74%。",
-          "url": "https://wallstreetcn.com/livenews/2992061",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "荣耀Magic8镜头里的全球蓝调",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%8D%A3%E8%80%80Magic8%E9%95%9C%E5%A4%B4%E9%87%8C%E7%9A%84%E5%85%A8%E7%90%83%E8%93%9D%E8%B0%83%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D20%26stream_entry_id%3D31%26pos%3D20%26lcate%3D5001%26filter_type%3Drealtimehot%26q%3D%2523%25E8%258D%25A3%25E8%2580%2580Magic8%25E9%2595%259C%25E5%25A4%25B4%25E9%2587%258C%25E7%259A%2584%25E5%2585%25A8%25E7%2590%2583%25E8%2593%259D%25E8%25B0%2583%2523%26band_rank%3D20%26dgr%3D0%26flag%3D1%26cate%3D5001%26c_type%3D31%26display_time%3D1761214149%26pre_seqid%3D176121414945301201193135",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时13分"
-        },
-        {
-          "title": "小米YU7内有不明零件 市监部门介入",
-          "url": "https://www.toutiao.com/trending/7564318664644628007/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时13分"
-        },
-        {
-          "title": "卢伟冰回应小米17设计争议",
-          "url": "https://www.toutiao.com/trending/7564310503388876307/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时13分"
-        }
-      ]
-    },
-    {
       "keyword_group": "苹果 iPhone",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "55 名中国 iPhone 用户联合投诉苹果滥用市场支配地位，具体是怎么回事？苹果公司将如何回应？",
@@ -2962,6 +3042,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时19分 ~ 16时16分]"
+        },
+        {
+          "title": "机构：iPhone 17开售头10天在中国和美国销量远超iPhone 16",
+          "url": "https://wallstreetcn.com/livenews/2992536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
         },
         {
           "title": "W41苹果在华销量达144万台，位居榜首",
@@ -3188,8 +3279,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时15分 ~ 18时13分]"
+          "appearance_count": 10,
+          "time_info": "[12时15分 ~ 19时11分]"
         },
         {
           "title": "奔驰确认大裁员 已有约4000人离职",
