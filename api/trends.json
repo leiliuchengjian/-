@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T17:15:49.973134+08:00",
-  "total_titles_processed": 1654,
+  "generated_at": "2025-10-23T18:13:21.782162+08:00",
+  "total_titles_processed": 1756,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 72,
+      "match_count": 74,
       "titles": [
         {
           "title": "特朗普称中美元首未必会见面，外交部回应",
@@ -83,20 +83,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
         {
-          "title": "WTI原油日内涨幅达5.0%，报61.44美元/桶。布油涨近5%。",
-          "url": "https://wallstreetcn.com/livenews/2992494",
-          "source": "华尔街见闻-快讯",
+          "title": "布伦特原油和WTI原油期货（日内）涨幅超3美元。",
+          "url": "https://flash.jin10.com/detail/20251023175125627800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时15分"
+          "time_info": "18时13分"
         },
         {
           "title": "如何评价美澳签署总额达 85 亿美元的关键矿产协议?",
@@ -131,9 +131,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
+        },
+        {
+          "title": "布伦特原油日内大涨4.00%，现报65.37美元/桶；WTI原油日内涨3.9%，现报61.62美元/桶。",
+          "url": "https://flash.jin10.com/detail/20251023175001844800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         },
         {
           "title": "现货黄金向下触及4070美元/盎司，日内跌0.77%。",
@@ -175,7 +186,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -253,6 +264,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时15分 ~ 13时13分]"
+        },
+        {
+          "title": "WTI原油日内涨幅达5.0%，报61.44美元/桶。布油涨近5%。",
+          "url": "https://wallstreetcn.com/livenews/2992494",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 18时13分]"
         },
         {
           "title": "东方汇理预计金价可能在未来三年飙升至5000美元",
@@ -483,6 +506,18 @@
           "time_info": "[04时15分 ~ 05时11分]"
         },
         {
+          "title": "布伦特原油日内涨幅达4.0%，报65.11美元/桶，此前美制裁俄最大两家石油公司。",
+          "url": "https://wallstreetcn.com/livenews/2992464",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 18时13分]"
+        },
+        {
           "title": "市场消息：Polymarket正在寻求以高达150亿美元的估值进行融资。",
           "url": "https://flash.jin10.com/detail/20251023081335364800",
           "source": "金十数据",
@@ -500,7 +535,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -555,7 +590,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -670,17 +705,6 @@
           "time_info": "14时19分"
         },
         {
-          "title": "布伦特原油日内涨幅达4.0%，报65.11美元/桶，此前美制裁俄最大两家石油公司。",
-          "url": "https://wallstreetcn.com/livenews/2992464",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时15分"
-        },
-        {
           "title": "瑞银认为投资白银具有价值，并预计到2026年6月白银价格将反弹至55美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/2992374",
           "source": "华尔街见闻-快讯",
@@ -720,7 +744,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -838,7 +862,7 @@
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 44,
+      "match_count": 46,
       "titles": [
         {
           "title": "巴克莱：印尼央行可能会放慢降息步伐",
@@ -936,6 +960,17 @@
           "time_info": "[12时15分 ~ 13时13分]"
         },
         {
+          "title": "英国10月CBI工业物价预期差值 16，预期 5，前值 4。",
+          "url": "https://wallstreetcn.com/livenews/2992515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
           "title": "韩国央行行长李昌镛：日元近期走弱也是韩元贬值的原因之一。",
           "url": "https://flash.jin10.com/detail/20251023104118708800",
           "source": "金十数据",
@@ -986,7 +1021,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -997,7 +1032,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -1140,7 +1175,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -1220,6 +1255,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
+        },
+        {
+          "title": "机构：欧洲央行料坚持数据导向 保持政策灵活性",
+          "url": "https://flash.jin10.com/detail/20251023172339191800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         },
         {
           "title": "美国财长贝森特：能源价格已下降，预计下个月CPI数据将开始回落，再下个月将更加明显。",
@@ -1334,8 +1380,475 @@
       ]
     },
     {
+      "keyword_group": "人工智能 AI",
+      "match_count": 39,
+      "titles": [
+        {
+          "title": "UP主手搓AI眼镜",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93AI%E7%9C%BC%E9%95%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            5,
+            11,
+            3,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时31分 ~ 18时13分]"
+        },
+        {
+          "title": "AI写文狂,原创路变凉",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346045&amp;topic_name=AI%E5%86%99%E6%96%87%E7%8B%82%2C%E5%8E%9F%E5%88%9B%E8%B7%AF%E5%8F%98%E5%87%89",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            11,
+            13,
+            17,
+            18,
+            19,
+            21,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 26,
+          "time_info": "[00时14分 ~ 18时13分]"
+        },
+        {
+          "title": "AI饿坏电网！资管巨头警告：缺口“我们这代人都填不平”",
+          "url": "https://www.cls.cn/detail/2177557",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时49分 ~ 14时19分]"
+        },
+        {
+          "title": "麦肯锡：如果银行不调整自己的商业模式，以应对客户转向人工智能来优化财务状况的情况，恐将面临高达1700亿美元的利润损失。",
+          "url": "https://flash.jin10.com/detail/20251023134127996800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "马斯克在电话会开始时谈及人工智能（AI），称他希望扩大产能，但没有给出时间线。",
+          "url": "https://wallstreetcn.com/livenews/2992097",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时10分"
+        },
+        {
+          "title": "经济日报：用好AI这个科研超级助手",
+          "url": "https://wallstreetcn.com/livenews/2992186",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时50分"
+        },
+        {
+          "title": "金融监管总局肖远企：在金融领域人才始终是最有价值的资产，目前AI作用是辅助性的",
+          "url": "https://wallstreetcn.com/livenews/2992357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "OpenAI发首款AI浏览器",
+          "url": "https://www.douyin.com/hot/2278309",
+          "source": "抖音",
+          "ranks": [
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时17分 ~ 05时11分]"
+        },
+        {
+          "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
+          "url": "https://wallstreetcn.com/articles/3757591",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 02时18分]"
+        },
+        {
+          "title": "【全国人大常委会法工委：网络安全法拟增加促进AI安全与发展内容】全国人大常委会法制工作委员会今天（23日）举行记者会。据发言人介绍，十四届全国人大常委会第十八次会议将于明天至28日在北京举行，拟继续审议网络安全法修正草案，草案拟增加促进人工智能安全与发展的内容。根据各方面意见，草案拟作以下主要修改：一是充实网络安全工作指导原则；二是增加促进人工智能安全与发展的内容；三是在个人信息保护方面进一步做好与民法典和个人信息保护法的衔接；四是进一步完善相关处罚规定。（央视新闻）",
+          "url": "https://wallstreetcn.com/livenews/2992520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
+          "title": "史无前例！“AI教父”等超800名科技领袖联合呼吁：停止研发超级智能",
+          "url": "https://www.cls.cn/detail/2177003",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 02时18分]"
+        },
+        {
+          "title": "Astera Labs将收购Aixscale Photonics。",
+          "url": "https://wallstreetcn.com/livenews/2992071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时15分 ~ 06时10分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-10-23）",
+          "url": "https://flash.jin10.com/detail/20251023115414341800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 13时13分]"
+        },
+        {
+          "title": "瑞典北欧思安银行：继续在多个新领域开发人工智能解决方案，包括风险管理、交易监控等。",
+          "url": "https://flash.jin10.com/detail/20251023123905139800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 14时19分]"
+        },
+        {
+          "title": "人工智能（AI）概念股Datavault AI跌17.4%，Galaxy Digital跌15.6%，WhiteFiber跌12.3%，Serve Robotics跌11.9%，Rezolve AI跌11.8%，IBM则涨0.9%，达芬奇手术机器人ISRG涨13.4%。 特朗普政府本周推出了一个AI出口计划，鼓励外界购买并采用美国技术。",
+          "url": "https://wallstreetcn.com/livenews/2992039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时11分 ~ 04时15分]"
+        },
+        {
+          "title": "“大空头”查诺斯（Jim Chanos）：信用市场的状态“非常类似1999年”。 人工智能（AI）是本轮周期（资产配置）的“位移”。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/2992018",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 03时11分]"
+        },
+        {
+          "title": "据CNBC：GE Vernova CEO表示，他正在与OpenAI CEO Sam Altman进行对话，因为电力对于人工智能的增长仍然至关重要。",
+          "url": "https://flash.jin10.com/detail/20251023005554826800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 02时18分]"
+        },
+        {
+          "title": "亚马逊(AMZN.O)：推出Blue Jay和Eluna项目，这是亚马逊最新的机器人技术和人工智能技术，用于运营。",
+          "url": "https://flash.jin10.com/detail/20251023013440544800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 03时11分]"
+        },
+        {
+          "title": "爱彼迎（Airbnb）CEO Chesky：ChatGPT还没有足够强大到能被整合到（本公司的）旅行APP。",
+          "url": "https://wallstreetcn.com/livenews/2992057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时15分 ~ 05时11分]"
+        },
+        {
+          "title": "阿里巴巴将开启夸克AI眼镜预售 推动人工智能应用商业化",
+          "url": "https://wallstreetcn.com/livenews/2992314",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 14时19分]"
+        },
+        {
+          "title": "快手进军AI Coding，推出“工具+模型+平台”三位一体AI编程产品矩阵",
+          "url": "https://wallstreetcn.com/livenews/2992463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 18时13分]"
+        },
+        {
+          "title": "戚薇VOGUE出发图是AI做的",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E6%88%9A%E8%96%87VOGUE%E5%87%BA%E5%8F%91%E5%9B%BE%E6%98%AFAI%E5%81%9A%E7%9A%84&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D18%26stream_entry_id%3D31%26pos%3D18%26lcate%3D5001%26filter_type%3Drealtimehot%26q%3D%25E6%2588%259A%25E8%2596%2587VOGUE%25E5%2587%25BA%25E5%258F%2591%25E5%259B%25BE%25E6%2598%25AFAI%25E5%2581%259A%25E7%259A%2584%26band_rank%3D18%26dgr%3D0%26flag%3D1%26cate%3D5001%26c_type%3D31%26display_time%3D1761207188%26pre_seqid%3D176120718871101201190102",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时15分 ~ 16时16分]"
+        },
+        {
+          "title": "网络安全法修正草案将二审：拟修法促进人工智能安全与发展",
+          "url": "https://wallstreetcn.com/livenews/2992261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时32分 ~ 12时15分]"
+        },
+        {
+          "title": "成龙谈人工智能",
+          "url": "https://www.toutiao.com/trending/7563810946825912359/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时49分 ~ 08时50分]"
+        },
+        {
+          "title": "德媒：美“豪赌人工智能”或后果严重",
+          "url": "https://www.toutiao.com/trending/7563364673547632681/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时49分 ~ 08时50分]"
+        },
+        {
+          "title": "如何评价 Meta AI 裁员 600 人，LeCun 负责的 FAIR 实验室是重灾区？",
+          "url": "https://www.zhihu.com/question/1964629313476358315",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
+          "title": "马斯克：初期将同时专注于台积电(TSM.N)和三星的AI 5芯片。",
+          "url": "https://flash.jin10.com/detail/20251023060410516800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "Reddit(RDDT.N)：Oxylabs UAB、AWMProxy和Serpai掩盖身份，从谷歌搜索中“非法抓取”Reddit内容。",
+          "url": "https://flash.jin10.com/detail/20251023004153523800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时13分"
+        },
+        {
+          "title": "Reddit(RDDT.N)：已对Perplexity、Oxylabs UAB、AWMProxy和Serpai提起诉讼，指控其进行非法的数据抓取活动。",
+          "url": "https://flash.jin10.com/detail/20251023004101451800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时13分"
+        },
+        {
+          "title": "欧洲央行原行长特里谢：不排除AI重演“索洛悖论”",
+          "url": "https://wallstreetcn.com/livenews/2992214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "通用汽车计划推出无需视觉关注的驾驶功能。 谷歌AI和其他新兴车内技术将于2028年之前投入应用。",
+          "url": "https://wallstreetcn.com/livenews/2992000",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "标普：由于强劲的人工智能势头和持续的市场领导地位，已将英伟达(NVDA.O)的前景修订为“正面”，评级维持不变。",
+          "url": "https://flash.jin10.com/detail/20251023031513906800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        },
+        {
+          "title": "卡塔尔能源部长：积极前景源于亚洲经济增长，以及数据中心和人工智能领域强劲的电力需求。",
+          "url": "https://flash.jin10.com/detail/20251023173458691800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
+          "title": "美媒：Meta将削减人工智能部门约600个职位",
+          "url": "https://flash.jin10.com/detail/20251022230938289800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "IBM(IBM.N)首席财务官：市场对人工智能的信心推动了咨询业务增长的转折点。",
+          "url": "https://flash.jin10.com/detail/20251023041431868800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "马斯克在电话会开始时谈及人工智能（AI），称他希望扩大产能，但没有给出时间线。 Optimus将是一台不可思议的“外科医生”。 “它（optimus）甚至看起来不像机器人。它是如此的真实，以至于你要戳它才相信那真的是一台机器。”",
+          "url": "https://wallstreetcn.com/livenews/2992097",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "通用汽车(GM.N)：未来，通用汽车将推出专为车辆量身定制的自主人工智能系统。",
+          "url": "https://flash.jin10.com/detail/20251022230614759800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "通用汽车在为在曼哈顿下城举行的“GM Forward”活动上宣布，可对话的谷歌公司人工智能（AI）大模型Gemini功能将于2026年开始在其汽车上推出。 在接下来的三年里，还计划推出一种新系统，让司机可以解放双手，不看路，但在他们需要的时候仍然可以控制车辆。 该公司还宣布了其他技术举措。",
+          "url": "https://wallstreetcn.com/livenews/2992000",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时13分"
+        },
+        {
+          "title": "韩国央行行长李昌镛：全球人工智能行业泡沫可能出现回调。",
+          "url": "https://wallstreetcn.com/livenews/2992249",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "税收抵免到期刺激特斯拉Q3营收大反弹，但盈利超预期猛降31%，关税影响逾4亿 | 财报见闻",
@@ -1347,8 +1860,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时24分 ~ 17时15分]"
+          "appearance_count": 11,
+          "time_info": "[10时24分 ~ 18时13分]"
         },
         {
           "title": "特斯拉电话会让市场失望，马斯克下调机器人和Robotaxi目标，称“特斯拉处于关键时刻”",
@@ -1361,8 +1874,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时13分 ~ 17时15分]"
+          "appearance_count": 7,
+          "time_info": "[13时13分 ~ 18时13分]"
         },
         {
           "title": "特斯拉Q3财报会实录：宏大“画饼”盖不住财报拉胯 机器人和Robotaxi目标下调令人担忧",
@@ -1384,8 +1897,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时13分 ~ 17时15分]"
+          "appearance_count": 7,
+          "time_info": "[13时13分 ~ 18时13分]"
         },
         {
           "title": "美国国家公路交通安全管理局：特斯拉公司召回63,619辆美国车辆。",
@@ -1397,6 +1910,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
+        },
+        {
+          "title": "特斯拉：预计2025年资本支出约为90亿美元，此前预计超过90亿美元。 第三季度在汽车业务板块确认了2.38亿美元的相关费用，涉及超级计算机资产、合同终止以及员工裁员等支出。",
+          "url": "https://wallstreetcn.com/livenews/2992525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         },
         {
           "title": "特斯拉(TSLA.O)Q3毛利率录得18%。",
@@ -1762,439 +2286,8 @@
       ]
     },
     {
-      "keyword_group": "人工智能 AI",
-      "match_count": 36,
-      "titles": [
-        {
-          "title": "UP主手搓AI眼镜",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93AI%E7%9C%BC%E9%95%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            5,
-            11,
-            3,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时31分 ~ 17时15分]"
-        },
-        {
-          "title": "AI写文狂,原创路变凉",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346045&amp;topic_name=AI%E5%86%99%E6%96%87%E7%8B%82%2C%E5%8E%9F%E5%88%9B%E8%B7%AF%E5%8F%98%E5%87%89",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            11,
-            13,
-            17,
-            18,
-            19,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时14分 ~ 17时15分]"
-        },
-        {
-          "title": "AI饿坏电网！资管巨头警告：缺口“我们这代人都填不平”",
-          "url": "https://www.cls.cn/detail/2177557",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时49分 ~ 14时19分]"
-        },
-        {
-          "title": "麦肯锡：如果银行不调整自己的商业模式，以应对客户转向人工智能来优化财务状况的情况，恐将面临高达1700亿美元的利润损失。",
-          "url": "https://flash.jin10.com/detail/20251023134127996800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "马斯克在电话会开始时谈及人工智能（AI），称他希望扩大产能，但没有给出时间线。",
-          "url": "https://wallstreetcn.com/livenews/2992097",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "经济日报：用好AI这个科研超级助手",
-          "url": "https://wallstreetcn.com/livenews/2992186",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时50分"
-        },
-        {
-          "title": "金融监管总局肖远企：在金融领域人才始终是最有价值的资产，目前AI作用是辅助性的",
-          "url": "https://wallstreetcn.com/livenews/2992357",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "OpenAI发首款AI浏览器",
-          "url": "https://www.douyin.com/hot/2278309",
-          "source": "抖音",
-          "ranks": [
-            30,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时17分 ~ 05时11分]"
-        },
-        {
-          "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
-          "url": "https://wallstreetcn.com/articles/3757591",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 02时18分]"
-        },
-        {
-          "title": "史无前例！“AI教父”等超800名科技领袖联合呼吁：停止研发超级智能",
-          "url": "https://www.cls.cn/detail/2177003",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 02时18分]"
-        },
-        {
-          "title": "Astera Labs将收购Aixscale Photonics。",
-          "url": "https://wallstreetcn.com/livenews/2992071",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时15分 ~ 06时10分]"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-10-23）",
-          "url": "https://flash.jin10.com/detail/20251023115414341800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 13时13分]"
-        },
-        {
-          "title": "瑞典北欧思安银行：继续在多个新领域开发人工智能解决方案，包括风险管理、交易监控等。",
-          "url": "https://flash.jin10.com/detail/20251023123905139800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 14时19分]"
-        },
-        {
-          "title": "人工智能（AI）概念股Datavault AI跌17.4%，Galaxy Digital跌15.6%，WhiteFiber跌12.3%，Serve Robotics跌11.9%，Rezolve AI跌11.8%，IBM则涨0.9%，达芬奇手术机器人ISRG涨13.4%。 特朗普政府本周推出了一个AI出口计划，鼓励外界购买并采用美国技术。",
-          "url": "https://wallstreetcn.com/livenews/2992039",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时11分 ~ 04时15分]"
-        },
-        {
-          "title": "“大空头”查诺斯（Jim Chanos）：信用市场的状态“非常类似1999年”。 人工智能（AI）是本轮周期（资产配置）的“位移”。（彭博电视）",
-          "url": "https://wallstreetcn.com/livenews/2992018",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 03时11分]"
-        },
-        {
-          "title": "据CNBC：GE Vernova CEO表示，他正在与OpenAI CEO Sam Altman进行对话，因为电力对于人工智能的增长仍然至关重要。",
-          "url": "https://flash.jin10.com/detail/20251023005554826800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 02时18分]"
-        },
-        {
-          "title": "亚马逊(AMZN.O)：推出Blue Jay和Eluna项目，这是亚马逊最新的机器人技术和人工智能技术，用于运营。",
-          "url": "https://flash.jin10.com/detail/20251023013440544800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 03时11分]"
-        },
-        {
-          "title": "爱彼迎（Airbnb）CEO Chesky：ChatGPT还没有足够强大到能被整合到（本公司的）旅行APP。",
-          "url": "https://wallstreetcn.com/livenews/2992057",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时15分 ~ 05时11分]"
-        },
-        {
-          "title": "阿里巴巴将开启夸克AI眼镜预售 推动人工智能应用商业化",
-          "url": "https://wallstreetcn.com/livenews/2992314",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 14时19分]"
-        },
-        {
-          "title": "戚薇VOGUE出发图是AI做的",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E6%88%9A%E8%96%87VOGUE%E5%87%BA%E5%8F%91%E5%9B%BE%E6%98%AFAI%E5%81%9A%E7%9A%84&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D18%26stream_entry_id%3D31%26pos%3D18%26lcate%3D5001%26filter_type%3Drealtimehot%26q%3D%25E6%2588%259A%25E8%2596%2587VOGUE%25E5%2587%25BA%25E5%258F%2591%25E5%259B%25BE%25E6%2598%25AFAI%25E5%2581%259A%25E7%259A%2584%26band_rank%3D18%26dgr%3D0%26flag%3D1%26cate%3D5001%26c_type%3D31%26display_time%3D1761207188%26pre_seqid%3D176120718871101201190102",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时15分 ~ 16时16分]"
-        },
-        {
-          "title": "网络安全法修正草案将二审：拟修法促进人工智能安全与发展",
-          "url": "https://wallstreetcn.com/livenews/2992261",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 12时15分]"
-        },
-        {
-          "title": "成龙谈人工智能",
-          "url": "https://www.toutiao.com/trending/7563810946825912359/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时49分 ~ 08时50分]"
-        },
-        {
-          "title": "德媒：美“豪赌人工智能”或后果严重",
-          "url": "https://www.toutiao.com/trending/7563364673547632681/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时49分 ~ 08时50分]"
-        },
-        {
-          "title": "马斯克：初期将同时专注于台积电(TSM.N)和三星的AI 5芯片。",
-          "url": "https://flash.jin10.com/detail/20251023060410516800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "Reddit(RDDT.N)：Oxylabs UAB、AWMProxy和Serpai掩盖身份，从谷歌搜索中“非法抓取”Reddit内容。",
-          "url": "https://flash.jin10.com/detail/20251023004153523800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        },
-        {
-          "title": "Reddit(RDDT.N)：已对Perplexity、Oxylabs UAB、AWMProxy和Serpai提起诉讼，指控其进行非法的数据抓取活动。",
-          "url": "https://flash.jin10.com/detail/20251023004101451800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        },
-        {
-          "title": "欧洲央行原行长特里谢：不排除AI重演“索洛悖论”",
-          "url": "https://wallstreetcn.com/livenews/2992214",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时24分"
-        },
-        {
-          "title": "通用汽车计划推出无需视觉关注的驾驶功能。 谷歌AI和其他新兴车内技术将于2028年之前投入应用。",
-          "url": "https://wallstreetcn.com/livenews/2992000",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "快手进军AI Coding，推出“工具+模型+平台”三位一体AI编程产品矩阵",
-          "url": "https://wallstreetcn.com/livenews/2992463",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时15分"
-        },
-        {
-          "title": "标普：由于强劲的人工智能势头和持续的市场领导地位，已将英伟达(NVDA.O)的前景修订为“正面”，评级维持不变。",
-          "url": "https://flash.jin10.com/detail/20251023031513906800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "美媒：Meta将削减人工智能部门约600个职位",
-          "url": "https://flash.jin10.com/detail/20251022230938289800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "IBM(IBM.N)首席财务官：市场对人工智能的信心推动了咨询业务增长的转折点。",
-          "url": "https://flash.jin10.com/detail/20251023041431868800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "马斯克在电话会开始时谈及人工智能（AI），称他希望扩大产能，但没有给出时间线。 Optimus将是一台不可思议的“外科医生”。 “它（optimus）甚至看起来不像机器人。它是如此的真实，以至于你要戳它才相信那真的是一台机器。”",
-          "url": "https://wallstreetcn.com/livenews/2992097",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "通用汽车(GM.N)：未来，通用汽车将推出专为车辆量身定制的自主人工智能系统。",
-          "url": "https://flash.jin10.com/detail/20251022230614759800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "通用汽车在为在曼哈顿下城举行的“GM Forward”活动上宣布，可对话的谷歌公司人工智能（AI）大模型Gemini功能将于2026年开始在其汽车上推出。 在接下来的三年里，还计划推出一种新系统，让司机可以解放双手，不看路，但在他们需要的时候仍然可以控制车辆。 该公司还宣布了其他技术举措。",
-          "url": "https://wallstreetcn.com/livenews/2992000",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        },
-        {
-          "title": "韩国央行行长李昌镛：全球人工智能行业泡沫可能出现回调。",
-          "url": "https://wallstreetcn.com/livenews/2992249",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时32分"
-        }
-      ]
-    },
-    {
       "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "谷歌称量子芯片“Willow”现重大突破：算法可重复验证，五年内或迎实用化",
@@ -2203,11 +2296,12 @@
           "ranks": [
             7,
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时24分 ~ 17时15分]"
+          "appearance_count": 11,
+          "time_info": "[10时24分 ~ 18时13分]"
         },
         {
           "title": "买不到中国芯片 德国车企面临停产",
@@ -2229,11 +2323,24 @@
           "source": "百度热搜",
           "ranks": [
             4,
-            1
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时13分 ~ 18时13分]"
+        },
+        {
+          "title": "存储芯片“超级周期”持续演绎：三星、SK海力士料将涨价30% 客户开启囤货模式",
+          "url": "https://www.cls.cn/detail/2178138",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[15时13分 ~ 17时15分]"
+          "time_info": "[16时15分 ~ 18时13分]"
         },
         {
           "title": "王文涛就安世半导体等问题与荷方通话",
@@ -2250,16 +2357,15 @@
           "time_info": "[03时11分 ~ 07时12分]"
         },
         {
-          "title": "存储芯片“超级周期”持续演绎：三星、SK海力士料将涨价30% 客户开启囤货模式",
-          "url": "https://www.cls.cn/detail/2178138",
-          "source": "财联社热门",
+          "title": "新莱应材：子公司拟投资20亿元建设半导体核心零部件项目",
+          "url": "https://wallstreetcn.com/livenews/2992523",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            3
+            2
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时15分 ~ 17时15分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         },
         {
           "title": "日本汽车工业协会：荷兰安世半导体称或无法保证交货，恐严重影响企业生产",
@@ -2271,6 +2377,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
+        },
+        {
+          "title": "我国成功研制新型芯片",
+          "url": "https://www.toutiao.com/trending/7563567125915303962/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 18时13分]"
         },
         {
           "title": "网络股指数ETF收跌超2.1%，和半导体ETF领跌美股行业ETF，标普能源板块涨超1.3%",
@@ -2356,17 +2474,6 @@
           "time_info": "15时13分"
         },
         {
-          "title": "我国成功研制新型芯片",
-          "url": "https://www.toutiao.com/trending/7563567125915303962/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时15分"
-        },
-        {
           "title": "安世半导体危机逼近欧洲车企",
           "url": "https://www.toutiao.com/trending/7564219967785143850/",
           "source": "今日头条",
@@ -2376,6 +2483,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
+        },
+        {
+          "title": "华虹半导体：2025年11月6日（星期四）下午17:00-18:00召开2025年第三季度业绩说明会。",
+          "url": "https://wallstreetcn.com/livenews/2992510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         },
         {
           "title": "金十图示：2025年10月23日（周四）富时中国A50指数成分股午盘收盘行情一览：半导体、通讯设备、消费电子板块回落，石油、煤炭板块走强",
@@ -2406,7 +2524,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -2436,7 +2554,7 @@
     },
     {
       "keyword_group": "房地产 房价 楼市 LPR",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "房地产会迎来10年上升期吗",
@@ -2473,6 +2591,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时32分 ~ 12时15分]"
+        },
+        {
+          "title": "四中全会公报：推动房地产高质量发展",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%85%AC%E6%8A%A5%EF%BC%9A%E6%8E%A8%E5%8A%A8%E6%88%BF%E5%9C%B0%E4%BA%A7%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         },
         {
           "title": "天风证券：年内下调LPR的可能性不大",
@@ -2563,6 +2692,17 @@
           "time_info": "11时32分"
         },
         {
+          "title": "中国楼市迎来意外转折点了吗",
+          "url": "https://www.toutiao.com/trending/7564304825114955310/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
           "title": "韩国央行行长李昌镛：首尔房价过高。 与其他国家相比，韩国股市价格不算过高。",
           "url": "https://wallstreetcn.com/livenews/2992248",
           "source": "华尔街见闻-快讯",
@@ -2576,164 +2716,8 @@
       ]
     },
     {
-      "keyword_group": "苹果 iPhone",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "55 名中国 iPhone 用户联合投诉苹果滥用市场支配地位，具体是怎么回事？苹果公司将如何回应？",
-          "url": "https://www.zhihu.com/question/1963899052065293121",
-          "source": "知乎",
-          "ranks": [
-            6,
-            4,
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时24分 ~ 17时15分]"
-        },
-        {
-          "title": "苹果翻大车,iOS26离谱Bug频出",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346029&amp;topic_name=%E8%8B%B9%E6%9E%9C%E7%BF%BB%E5%A4%A7%E8%BD%A6%2CiOS26%E7%A6%BB%E8%B0%B1Bug%E9%A2%91%E5%87%BA",
-          "source": "贴吧",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时14分 ~ 08时50分]"
-        },
-        {
-          "title": "苹果M5芯片锐评",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9CM5%E8%8A%AF%E7%89%87%E9%94%90%E8%AF%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            30,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 08时50分]"
-        },
-        {
-          "title": "iPhone命名或跳过19",
-          "url": "https://www.baidu.com/s?wd=iPhone%E5%91%BD%E5%90%8D%E6%88%96%E8%B7%B3%E8%BF%8719",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            16,
-            17,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时19分 ~ 17时15分]"
-        },
-        {
-          "title": "iPhone命名或跳过19",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23iPhone%E5%91%BD%E5%90%8D%E6%88%96%E8%B7%B3%E8%BF%8719%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26band_rank%3D1%26c_type%3D31%26q%3D%2523iPhone%25E5%2591%25BD%25E5%2590%258D%25E6%2588%2596%25E8%25B7%25B3%25E8%25BF%258719%2523%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26realpos%3D1%26pos%3D0%26display_time%3D1761200288%26pre_seqid%3D17612002881670330957147",
-          "source": "微博",
-          "ranks": [
-            1,
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时19分 ~ 16时16分]"
-        },
-        {
-          "title": "W41苹果在华销量达144万台，位居榜首",
-          "url": "https://wallstreetcn.com/livenews/2992302",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 13时13分]"
-        },
-        {
-          "title": "纳斯达克100指数跌幅扩大至1%。标普500指数跌0.5%，费城半导体指数跌幅扩大至约3%。特斯拉跌1.9%，苹果跌1.6%。",
-          "url": "https://wallstreetcn.com/livenews/2992005",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时18分]"
-        },
-        {
-          "title": "苹果公司全新iPad Pro、14英寸MacBook Pro及Apple Vision Pro现已上市。",
-          "url": "https://wallstreetcn.com/livenews/2992003",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时18分]"
-        },
-        {
-          "title": "苹果(AAPL.O)跌势延续，现跌超2.6%。",
-          "url": "https://flash.jin10.com/detail/20251023014159591800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 03时11分]"
-        },
-        {
-          "title": "郭明錤：iPhone Air需求低于预期 供应链已开始降低出货与产能",
-          "url": "https://flash.jin10.com/detail/20251023013924127800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 03时11分]"
-        },
-        {
-          "title": "标普500指数初步收跌0.6%，工业、可选消费、电信板块至少跌约1%，科技板块跌0.8%，能源板块涨1.5%。 纳斯达克100指数初步收跌1%，成分股中，奈飞跌10%，MSTR跌7%，德州仪器和安森美半导体跌超5%，Applovin涨2.5%，达芬奇手术机器人涨13.9%。 新思科技初步收跌0.2%，铿腾电子跌0.9%。 Salesforce、亚马逊、卡特彼勒、高盛、安进、苹果至少跌超1.5%，领跌道指成分股，英伟达跌0.6%，雪佛龙则涨1.3%，IBM涨2.3%。",
-          "url": "https://wallstreetcn.com/livenews/2992059",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "全新苹果(AAPL.O)iPad Pro、14英寸MacBook Pro及Apple Vision Pro现已上市。",
-          "url": "https://flash.jin10.com/detail/20251022230443509800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        }
-      ]
-    },
-    {
       "keyword_group": "华为 小米 荣耀",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "华为手机图库可直接查看3D影像",
@@ -2873,6 +2857,195 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "荣耀Magic8镜头里的全球蓝调",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%8D%A3%E8%80%80Magic8%E9%95%9C%E5%A4%B4%E9%87%8C%E7%9A%84%E5%85%A8%E7%90%83%E8%93%9D%E8%B0%83%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D20%26stream_entry_id%3D31%26pos%3D20%26lcate%3D5001%26filter_type%3Drealtimehot%26q%3D%2523%25E8%258D%25A3%25E8%2580%2580Magic8%25E9%2595%259C%25E5%25A4%25B4%25E9%2587%258C%25E7%259A%2584%25E5%2585%25A8%25E7%2590%2583%25E8%2593%259D%25E8%25B0%2583%2523%26band_rank%3D20%26dgr%3D0%26flag%3D1%26cate%3D5001%26c_type%3D31%26display_time%3D1761214149%26pre_seqid%3D176121414945301201193135",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
+          "title": "小米YU7内有不明零件 市监部门介入",
+          "url": "https://www.toutiao.com/trending/7564318664644628007/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
+          "title": "卢伟冰回应小米17设计争议",
+          "url": "https://www.toutiao.com/trending/7564310503388876307/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 iPhone",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "55 名中国 iPhone 用户联合投诉苹果滥用市场支配地位，具体是怎么回事？苹果公司将如何回应？",
+          "url": "https://www.zhihu.com/question/1963899052065293121",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4,
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时24分 ~ 18时13分]"
+        },
+        {
+          "title": "苹果翻大车,iOS26离谱Bug频出",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346029&amp;topic_name=%E8%8B%B9%E6%9E%9C%E7%BF%BB%E5%A4%A7%E8%BD%A6%2CiOS26%E7%A6%BB%E8%B0%B1Bug%E9%A2%91%E5%87%BA",
+          "source": "贴吧",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时14分 ~ 08时50分]"
+        },
+        {
+          "title": "苹果M5芯片锐评",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9CM5%E8%8A%AF%E7%89%87%E9%94%90%E8%AF%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 08时50分]"
+        },
+        {
+          "title": "iPhone命名或跳过19",
+          "url": "https://www.baidu.com/s?wd=iPhone%E5%91%BD%E5%90%8D%E6%88%96%E8%B7%B3%E8%BF%8719",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            16,
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时19分 ~ 17时15分]"
+        },
+        {
+          "title": "iPhone命名或跳过19",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23iPhone%E5%91%BD%E5%90%8D%E6%88%96%E8%B7%B3%E8%BF%8719%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26band_rank%3D1%26c_type%3D31%26q%3D%2523iPhone%25E5%2591%25BD%25E5%2590%258D%25E6%2588%2596%25E8%25B7%25B3%25E8%25BF%258719%2523%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26realpos%3D1%26pos%3D0%26display_time%3D1761200288%26pre_seqid%3D17612002881670330957147",
+          "source": "微博",
+          "ranks": [
+            1,
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时19分 ~ 16时16分]"
+        },
+        {
+          "title": "W41苹果在华销量达144万台，位居榜首",
+          "url": "https://wallstreetcn.com/livenews/2992302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 13时13分]"
+        },
+        {
+          "title": "纳斯达克100指数跌幅扩大至1%。标普500指数跌0.5%，费城半导体指数跌幅扩大至约3%。特斯拉跌1.9%，苹果跌1.6%。",
+          "url": "https://wallstreetcn.com/livenews/2992005",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时18分]"
+        },
+        {
+          "title": "苹果公司全新iPad Pro、14英寸MacBook Pro及Apple Vision Pro现已上市。",
+          "url": "https://wallstreetcn.com/livenews/2992003",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时18分]"
+        },
+        {
+          "title": "苹果(AAPL.O)跌势延续，现跌超2.6%。",
+          "url": "https://flash.jin10.com/detail/20251023014159591800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 03时11分]"
+        },
+        {
+          "title": "郭明錤：iPhone Air需求低于预期 供应链已开始降低出货与产能",
+          "url": "https://flash.jin10.com/detail/20251023013924127800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 03时11分]"
+        },
+        {
+          "title": "标普500指数初步收跌0.6%，工业、可选消费、电信板块至少跌约1%，科技板块跌0.8%，能源板块涨1.5%。 纳斯达克100指数初步收跌1%，成分股中，奈飞跌10%，MSTR跌7%，德州仪器和安森美半导体跌超5%，Applovin涨2.5%，达芬奇手术机器人涨13.9%。 新思科技初步收跌0.2%，铿腾电子跌0.9%。 Salesforce、亚马逊、卡特彼勒、高盛、安进、苹果至少跌超1.5%，领跌道指成分股，英伟达跌0.6%，雪佛龙则涨1.3%，IBM涨2.3%。",
+          "url": "https://wallstreetcn.com/livenews/2992059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        },
+        {
+          "title": "全新苹果(AAPL.O)iPad Pro、14英寸MacBook Pro及Apple Vision Pro现已上市。",
+          "url": "https://flash.jin10.com/detail/20251022230443509800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
         }
       ]
     },
@@ -2981,7 +3154,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -3015,8 +3188,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时15分 ~ 17时15分]"
+          "appearance_count": 8,
+          "time_info": "[12时15分 ~ 18时13分]"
         },
         {
           "title": "奔驰确认大裁员 已有约4000人离职",
@@ -3025,7 +3198,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
