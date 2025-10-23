@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T06:11:17.929649+08:00",
-  "total_titles_processed": 621,
+  "generated_at": "2025-10-24T07:11:40.591756+08:00",
+  "total_titles_processed": 675,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 37,
+      "match_count": 42,
       "titles": [
         {
           "title": "金价暴跌之际，高盛“坚定看涨”：维持明年底4900美元目标价，甚至有“上行风险”",
@@ -16,30 +16,30 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 06时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 07时11分]"
         },
         {
-          "title": "英特尔(INTC.O)首席执行官：预计2025年的资本支出将超过270亿美元，而2024年的资本支出为170亿美元。",
-          "url": "https://flash.jin10.com/detail/20251024053144321800",
+          "title": "市场消息：Rivian(RIVN.O)将支付2.5亿美元了结一起指控其在首次公开募股中就车辆价格欺骗投资者的诉讼。",
+          "url": "https://flash.jin10.com/detail/20251024065433102800",
           "source": "金十数据",
           "ranks": [
-            5
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时11分"
+          "time_info": "07时11分"
         },
         {
-          "title": "英特尔：三季度偿还43亿美元债务。 计划偿还来年到期的所有债务。",
-          "url": "https://wallstreetcn.com/livenews/2992783",
+          "title": "黄金美元旗鼓相当，全球储备资产加速多元化",
+          "url": "https://wallstreetcn.com/livenews/2992813",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时11分"
+          "time_info": "07时11分"
         },
         {
           "title": "布伦特原油期货涨幅收窄至5%，报65.73美元/桶。 白宫新闻秘书Leavitt称，俄罗斯并没有在（俄罗斯与乌克兰达成）和平协议问题上表现出足够的兴趣。",
@@ -165,6 +165,18 @@
           "time_info": "[05时12分 ~ 06时11分]"
         },
         {
+          "title": "英特尔(INTC.O)首席执行官：预计2025年的资本支出将超过270亿美元，而2024年的资本支出为170亿美元。",
+          "url": "https://flash.jin10.com/detail/20251024053144321800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时11分]"
+        },
+        {
           "title": "周四（10月23日）纽约尾盘，ICE美元指数涨0.04%，报98.937点，日内交投区间为99.138-98.916点。 彭博美元指数涨0.01%，报1212.72点，日内交投区间为1214.59-1212.15点。",
           "url": "https://wallstreetcn.com/livenews/2992738",
           "source": "华尔街见闻-快讯",
@@ -187,6 +199,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时12分 ~ 06时11分]"
+        },
+        {
+          "title": "英特尔：三季度偿还43亿美元债务。 计划偿还来年到期的所有债务。",
+          "url": "https://wallstreetcn.com/livenews/2992783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时11分]"
         },
         {
           "title": "周四（10月23日），韩元兑美元最终跌0.47%，报1437.59韩元。",
@@ -288,13 +312,35 @@
           "time_info": "02时17分"
         },
         {
+          "title": "市场消息：甲骨文(ORCL.N)即将发行与数据中心相关的380亿美元债券。",
+          "url": "https://flash.jin10.com/detail/20251024063651216800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
+          "title": "报道：甲骨文数据中心将发行创纪录的380亿美元债务",
+          "url": "https://wallstreetcn.com/livenews/2992801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
           "title": "周四（10月23日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报7.1256元，较周三纽约尾盘持平，日内整体交投于7.1290-7.1230元区间。",
           "url": "https://wallstreetcn.com/livenews/2992767",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -305,7 +351,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -382,7 +428,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -396,6 +442,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "全球交易量跃升至8.5%，推进人民币国际化新机遇窗口已至",
+          "url": "https://wallstreetcn.com/livenews/2992790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时11分"
         },
         {
           "title": "美、布两油短线下挫近0.5美元。",
@@ -445,7 +502,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "UP主手搓AI眼镜",
@@ -460,8 +517,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 06时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 07时11分]"
         },
         {
           "title": "AI写文狂,原创路变凉",
@@ -471,8 +528,30 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 06时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 07时11分]"
+        },
+        {
+          "title": "380亿美元创AI债务融资新纪录 甲骨文数据中心获史诗级输血",
+          "url": "https://flash.jin10.com/detail/20251024065310008800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
+          "title": "摩根大通：韩国Kospi股指在牛市行情下“更有可能”达到5000点。 AI和企业改革措施有望为这样的预期带来尾部风险。",
+          "url": "https://wallstreetcn.com/livenews/2992810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时11分"
         },
         {
           "title": "美国银行CTO Gopalkrishnan：Agentic AI可以“重型举重”。 大规模的AI产能积压将带来丰收。",
@@ -517,7 +596,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -602,11 +681,12 @@
             25,
             19,
             27,
-            29
+            29,
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时11分 ~ 06时11分]"
+          "appearance_count": 9,
+          "time_info": "[01时11分 ~ 07时11分]"
         },
         {
           "title": "中概指数上涨2%，和富时A50夜期刷新日高，纳指涨1%，半导体指数涨2.5%",
@@ -662,7 +742,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -673,9 +753,84 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "央行 降息 降准 CPI 物价",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美国停摆下的稀有数据：CPI今日公布 或难撼动降息预期",
+          "url": "https://flash.jin10.com/detail/20251024064923150800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
+          "title": "美国至10月17日当周外国央行持有美国国债 47.54亿美元，前值-310.32亿美元。",
+          "url": "https://flash.jin10.com/detail/20251024043137187800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时12分 ~ 06时11分]"
+        },
+        {
+          "title": "南非储备银行（SARB，南非央行）发布货币政策评估报告：南非的政策利率仍然具有适度的限制性。 通胀预期到2027年将靠近3%。 从2026年开始，固定投资将对经济增长做出贡献。 美国关税可能会造成了南非在2026年4万人失业。",
+          "url": "https://wallstreetcn.com/livenews/2992694",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 03时15分]"
+        },
+        {
+          "title": "美CPI数据前夕，贸易局势缓和提振股市，三大美股指普涨，原油期货一度涨超5%",
+          "url": "https://wallstreetcn.com/articles/3757722",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
+          "title": "美联储10月降息25个基点的概率为98.3%",
+          "url": "https://flash.jin10.com/detail/20251024060147337800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
+          "title": "美债收益率普遍涨超4个基点，油价上涨之际，投资者等待特朗普政府关门期间披露的CPI数据",
+          "url": "https://wallstreetcn.com/livenews/2992739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         }
       ]
     },
@@ -691,8 +846,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 06时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 07时11分]"
         },
         {
           "title": "税收抵免到期刺激特斯拉Q3营收大反弹，但盈利超预期猛降31%，关税影响逾4亿 | 财报见闻",
@@ -755,8 +910,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 06时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 07时11分]"
         },
         {
           "title": "苹果被英国法院裁定收取过高佣金 或面临逾15亿英镑赔偿",
@@ -827,11 +982,12 @@
           "url": "https://wallstreetcn.com/livenews/2992782",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时11分]"
         },
         {
           "title": "英伟达(NVDA.O)：正与Uber(UBER.N)合作开发自动驾驶汽车。",
@@ -843,6 +999,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "就业 裁员 招聘",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "奔驰被曝大规模裁员，目标 3 万人离职，资深管理人员最高可获 50 万欧补偿金，此次裁员原因有哪些？",
+          "url": "https://www.zhihu.com/question/1964349731217056404",
+          "source": "知乎",
+          "ranks": [
+            3,
+            15,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 07时11分]"
+        },
+        {
+          "title": "Target Corp.（塔吉特）将裁掉1800名员工，在总部的裁员幅度8%。",
+          "url": "https://wallstreetcn.com/livenews/2992752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时12分 ~ 06时11分]"
+        },
+        {
+          "title": "州政府数据显示上周美国首次申请失业救济人数上升，高盛：上周有不到23万份就业申请",
+          "url": "https://wallstreetcn.com/livenews/2992791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
+          "title": "美知名智库兰德公司裁员将超一成，理由是“工作量不足”",
+          "url": "https://wallstreetcn.com/livenews/2992799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时11分"
         }
       ]
     },
@@ -859,8 +1070,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 06时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 07时11分]"
         },
         {
           "title": "四中全会释放哪些房地产领域信号",
@@ -872,11 +1083,12 @@
             16,
             8,
             19,
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 06时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 07时11分]"
         },
         {
           "title": "四中全会公报：推动房地产高质量发展",
@@ -892,48 +1104,6 @@
       ]
     },
     {
-      "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美国至10月17日当周外国央行持有美国国债 47.54亿美元，前值-310.32亿美元。",
-          "url": "https://flash.jin10.com/detail/20251024043137187800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时12分 ~ 06时11分]"
-        },
-        {
-          "title": "南非储备银行（SARB，南非央行）发布货币政策评估报告：南非的政策利率仍然具有适度的限制性。 通胀预期到2027年将靠近3%。 从2026年开始，固定投资将对经济增长做出贡献。 美国关税可能会造成了南非在2026年4万人失业。",
-          "url": "https://wallstreetcn.com/livenews/2992694",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 03时15分]"
-        },
-        {
-          "title": "美债收益率普遍涨超4个基点，油价上涨之际，投资者等待特朗普政府关门期间披露的CPI数据",
-          "url": "https://wallstreetcn.com/livenews/2992739",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时12分"
-        }
-      ]
-    },
-    {
       "keyword_group": "基础设施 基建 地铁 高铁",
       "match_count": 2,
       "titles": [
@@ -945,8 +1115,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 06时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 07时11分]"
         },
         {
           "title": "上海清算所董事长马贱阳：金融基础设施具备国际性、安全性、引领性等独特作用",
@@ -971,11 +1141,12 @@
           "source": "微博",
           "ranks": [
             30,
-            28
+            28,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 06时11分]"
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 07时11分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨1.66%，报6339.27点。 热门中概股里，美团涨5.4%，文远知行、阿里巴巴至少涨3.6%，百度、拼多多、腾讯、京东、小米至少涨超2.1%，理想、网易、百胜中国至多涨1.9%。 ETF中，富时中国3倍做多ETF（YINN）收涨5.12%，中概互联网指数ETF（KWEB）收涨2.05%，中国科技指数ETF（CQQQ）收涨1.10%。 追踪富时25中国股指数ETF-iShares（FXI）收涨1.69%，德银嘉实沪深300指数ETF（ASHR）收涨0.89%，XtrackersHarvest中证50（ASHS）收涨0.88%。",
@@ -1013,41 +1184,9 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "就业 裁员 招聘",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "奔驰被曝大规模裁员，目标 3 万人离职，资深管理人员最高可获 50 万欧补偿金，此次裁员原因有哪些？",
-          "url": "https://www.zhihu.com/question/1964349731217056404",
-          "source": "知乎",
-          "ranks": [
-            3,
-            15,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 06时11分]"
-        },
-        {
-          "title": "Target Corp.（塔吉特）将裁掉1800名员工，在总部的裁员幅度8%。",
-          "url": "https://wallstreetcn.com/livenews/2992752",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时12分 ~ 06时11分]"
         }
       ]
     }
