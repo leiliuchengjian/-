@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T22:12:24.741334+08:00",
-  "total_titles_processed": 2122,
+  "generated_at": "2025-10-23T23:12:57.242638+08:00",
+  "total_titles_processed": 2212,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 89,
+      "match_count": 90,
       "titles": [
         {
           "title": "特朗普称中美元首未必会见面，外交部回应",
@@ -200,17 +200,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
-        },
-        {
-          "title": "纽约期银日内涨幅扩大至3%，现报49.12美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/2992643",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
         },
         {
           "title": "美国财政部拍卖130亿美元20年期国债，得标利率4.518%，投标倍数2.73。",
@@ -421,6 +410,18 @@
           "time_info": "[02时18分 ~ 03时11分]"
         },
         {
+          "title": "纽约期银日内涨幅扩大至3%，现报49.12美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/2992643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时12分 ~ 23时12分]"
+        },
+        {
           "title": "特朗普向美国政府索赔 2.3 亿美元，且将由其本人进行审批，还将自费增建白宫宴会厅，如何看待系列事件？",
           "url": "https://www.zhihu.com/question/1964457445486237360",
           "source": "知乎",
@@ -443,6 +444,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时13分 ~ 03时11分]"
+        },
+        {
+          "title": "金价暴跌之际，高盛“坚定看涨”：维持明年底4900美元目标价，甚至有“上行风险”",
+          "url": "https://wallstreetcn.com/articles/3757691",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时28分 ~ 23时12分]"
         },
         {
           "title": "美国国债总额首次超过38万亿美元",
@@ -493,6 +505,18 @@
           "time_info": "[11时32分 ~ 12时15分]"
         },
         {
+          "title": "现货黄金向上触及4150美元/盎司，日内涨近1.3%。",
+          "url": "https://wallstreetcn.com/livenews/2992640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时12分 ~ 23时12分]"
+        },
+        {
           "title": "现货铂金上涨3%，至每盎司1,598.41美元。",
           "url": "https://flash.jin10.com/detail/20251023005146439800",
           "source": "金十数据",
@@ -503,17 +527,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时13分 ~ 02时18分]"
-        },
-        {
-          "title": "金价暴跌之际，高盛“坚定看涨”：维持明年底4900美元目标价，甚至有“上行风险”",
-          "url": "https://wallstreetcn.com/articles/3757691",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时28分 ~ 22时12分]"
         },
         {
           "title": "摩根士丹利：亚马逊仓库机器人化可每年节省高达40亿美元",
@@ -605,9 +618,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时12分"
+        },
+        {
+          "title": "阿根廷经济部长证实，美国财政部周三在阿根廷出售了约4亿美元。",
+          "url": "https://flash.jin10.com/detail/20251023225655945800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "WTI原油突破61美元/桶，日内涨2.85%。",
@@ -665,24 +689,13 @@
           "time_info": "20时24分"
         },
         {
-          "title": "现货黄金向上触及4150美元/盎司，日内涨近1.3%。",
-          "url": "https://wallstreetcn.com/livenews/2992640",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
-        },
-        {
           "title": "纽约期银日内涨幅扩大至3.00%，现报49.12美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251023215433430800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时12分"
         },
@@ -858,7 +871,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时12分"
         },
@@ -1031,7 +1044,7 @@
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 53,
+      "match_count": 54,
       "titles": [
         {
           "title": "巴克莱：印尼央行可能会放慢降息步伐",
@@ -1054,6 +1067,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
+        },
+        {
+          "title": "德商银行：外汇市场对关税威胁显现“钝感” 降息预期受制于通胀压力",
+          "url": "https://flash.jin10.com/detail/20251023225925200800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "韩国央行行长李昌镛：今天的利率决定并非一致，有一位成员反对。 需警惕外汇市场剧烈波动。 6位委员中的4位对未来三个月降息持开放态度，2位对按兵不动持开放态度。",
@@ -1576,7 +1600,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时12分"
         },
@@ -1628,7 +1652,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "UP主手搓AI眼镜",
@@ -1644,11 +1668,12 @@
             9,
             10,
             13,
-            20
+            20,
+            12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时31分 ~ 22时12分]"
+          "appearance_count": 17,
+          "time_info": "[11时31分 ~ 23时12分]"
         },
         {
           "title": "AI写文狂,原创路变凉",
@@ -1669,8 +1694,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 32,
-          "time_info": "[00时14分 ~ 22时12分]"
+          "appearance_count": 33,
+          "time_info": "[00时14分 ~ 23时12分]"
         },
         {
           "title": "AI饿坏电网！资管巨头警告：缺口“我们这代人都填不平”",
@@ -1903,6 +1928,18 @@
           "time_info": "[21时28分 ~ 22时12分]"
         },
         {
+          "title": "阿里巴巴美股盘初涨超2%，阿里自研AI眼镜开启预售、补贴后最低3699元，新聊天机器人挑战ChatGPT。",
+          "url": "https://wallstreetcn.com/livenews/2992635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时12分 ~ 23时12分]"
+        },
+        {
           "title": "爱彼迎（Airbnb）CEO Chesky：ChatGPT还没有足够强大到能被整合到（本公司的）旅行APP。",
           "url": "https://wallstreetcn.com/livenews/2992057",
           "source": "华尔街见闻-快讯",
@@ -2017,17 +2054,6 @@
           "time_info": "19时11分"
         },
         {
-          "title": "阿里巴巴美股盘初涨超2%，阿里自研AI眼镜开启预售、补贴后最低3699元，新聊天机器人挑战ChatGPT。",
-          "url": "https://wallstreetcn.com/livenews/2992635",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
-        },
-        {
           "title": "Reddit(RDDT.N)：Oxylabs UAB、AWMProxy和Serpai掩盖身份，从谷歌搜索中“非法抓取”Reddit内容。",
           "url": "https://flash.jin10.com/detail/20251023004153523800",
           "source": "金十数据",
@@ -2094,13 +2120,24 @@
           "time_info": "18时13分"
         },
         {
+          "title": "市场消息：OpenAI向丹麦制药公司Lundbeck提供ChatGPT企业版服务。",
+          "url": "https://flash.jin10.com/detail/20251023224255171800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "阿里巴巴(BABA.US)涨超2%，阿里旗下夸克AI眼镜据悉将于24号零点开启预售，预售起价4699元。",
           "url": "https://flash.jin10.com/detail/20251023214104282800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时12分"
         },
@@ -2196,7 +2233,7 @@
     },
     {
       "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "特斯拉电话会让市场失望，马斯克下调机器人和Robotaxi目标，称“特斯拉处于关键时刻”",
@@ -2209,8 +2246,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时13分 ~ 22时12分]"
+          "appearance_count": 14,
+          "time_info": "[13时13分 ~ 23时12分]"
         },
         {
           "title": "税收抵免到期刺激特斯拉Q3营收大反弹，但盈利超预期猛降31%，关税影响逾4亿 | 财报见闻",
@@ -2222,8 +2259,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时24分 ~ 22时12分]"
+          "appearance_count": 18,
+          "time_info": "[10时24分 ~ 23时12分]"
         },
         {
           "title": "特斯拉Q3财报会实录：宏大“画饼”盖不住财报拉胯 机器人和Robotaxi目标下调令人担忧",
@@ -2578,6 +2615,17 @@
           "time_info": "07时12分"
         },
         {
+          "title": "“特斯拉劲敌”Rivian计划裁员超过600人。",
+          "url": "https://wallstreetcn.com/livenews/2992649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "提醒：特斯拉在电话会上跳过一名散户投资者的提问，该投资者问及未来产品，特斯拉称“这不是（交流）该问题的合理平台”。",
           "url": "https://wallstreetcn.com/livenews/2992103",
           "source": "华尔街见闻-快讯",
@@ -2639,7 +2687,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时12分"
         },
@@ -2699,8 +2747,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时24分 ~ 22时12分]"
+          "appearance_count": 18,
+          "time_info": "[10时24分 ~ 23时12分]"
         },
         {
           "title": "买不到中国芯片 德国车企面临停产",
@@ -2958,7 +3006,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时12分"
         },
@@ -2969,7 +3017,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时12分"
         }
@@ -3200,11 +3248,12 @@
           "ranks": [
             7,
             10,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时13分 ~ 22时12分]"
+          "appearance_count": 8,
+          "time_info": "[18时13分 ~ 23时12分]"
         },
         {
           "title": "韩国央行行长李昌镛：房地产价格飙升正拖累整体经济增长。",
@@ -3510,6 +3559,87 @@
       ]
     },
     {
+      "keyword_group": "基础设施 基建 地铁 高铁",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "国道全连通,基建狂魔收官之作",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345999&amp;topic_name=%E5%9B%BD%E9%81%93%E5%85%A8%E8%BF%9E%E9%80%9A%2C%E5%9F%BA%E5%BB%BA%E7%8B%82%E9%AD%94%E6%94%B6%E5%AE%98%E4%B9%8B%E4%BD%9C",
+          "source": "贴吧",
+          "ranks": [
+            24,
+            25,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[00时14分 ~ 14时19分]"
+        },
+        {
+          "title": "全球最快高铁坐着是啥感觉",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E6%9C%80%E5%BF%AB%E9%AB%98%E9%93%81%E5%9D%90%E7%9D%80%E6%98%AF%E5%95%A5%E6%84%9F%E8%A7%89",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            24,
+            21,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 05时11分]"
+        },
+        {
+          "title": "【二十四届四中全会公报：培育壮大新兴产业和未来产业，加快高水平科技自立自强】全会提出，建设现代化产业体系，巩固壮大实体经济根基。坚持把发展经济的着力点放在实体经济上，坚持智能化、绿色化、融合化方向，加快建设制造强国、质量强国、航天强国、交通强国、网络强国，保持制造业合理比重，构建以先进制造业为骨干的现代化产业体系。要优化提升传统产业，培育壮大新兴产业和未来产业，促进服务业优质高效发展，构建现代化基础设施体系。 全会提出，加快高水平科技自立自强，引领发展新质生产力。抓住新一轮科技革命和产业变革历史机遇，统筹教育强国、科技强国、人才强国建设，提升国家创新体系整体效能，全面增强自主创新能力，抢占科技发展制高点，不断催生新质生产力。要加强原始创新和关键核心技术攻关，推动科技创新和产业创新深度融合，一体推进教育科技人才发展，深入推进数字中国建设。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/2992486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时15分"
+        },
+        {
+          "title": "全国最忙高铁站上演一屏同检名场面",
+          "url": "https://www.toutiao.com/trending/7563833519244447258/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时11分 ~ 07时12分]"
+        },
+        {
+          "title": "中国高铁跑出453公里时速引韩国热议",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%AB%98%E9%93%81%E8%B7%91%E5%87%BA453%E5%85%AC%E9%87%8C%E6%97%B6%E9%80%9F%E5%BC%95%E9%9F%A9%E5%9B%BD%E7%83%AD%E8%AE%AE",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
+          "title": "上海清算所董事长马贱阳：金融基础设施具备国际性、安全性、引领性等独特作用",
+          "url": "https://wallstreetcn.com/livenews/2992652",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "创业板",
       "match_count": 5,
       "titles": [
@@ -3575,65 +3705,6 @@
       ]
     },
     {
-      "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "国道全连通,基建狂魔收官之作",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345999&amp;topic_name=%E5%9B%BD%E9%81%93%E5%85%A8%E8%BF%9E%E9%80%9A%2C%E5%9F%BA%E5%BB%BA%E7%8B%82%E9%AD%94%E6%94%B6%E5%AE%98%E4%B9%8B%E4%BD%9C",
-          "source": "贴吧",
-          "ranks": [
-            24,
-            25,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时14分 ~ 14时19分]"
-        },
-        {
-          "title": "全球最快高铁坐着是啥感觉",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E6%9C%80%E5%BF%AB%E9%AB%98%E9%93%81%E5%9D%90%E7%9D%80%E6%98%AF%E5%95%A5%E6%84%9F%E8%A7%89",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            24,
-            21,
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 05时11分]"
-        },
-        {
-          "title": "【二十四届四中全会公报：培育壮大新兴产业和未来产业，加快高水平科技自立自强】全会提出，建设现代化产业体系，巩固壮大实体经济根基。坚持把发展经济的着力点放在实体经济上，坚持智能化、绿色化、融合化方向，加快建设制造强国、质量强国、航天强国、交通强国、网络强国，保持制造业合理比重，构建以先进制造业为骨干的现代化产业体系。要优化提升传统产业，培育壮大新兴产业和未来产业，促进服务业优质高效发展，构建现代化基础设施体系。 全会提出，加快高水平科技自立自强，引领发展新质生产力。抓住新一轮科技革命和产业变革历史机遇，统筹教育强国、科技强国、人才强国建设，提升国家创新体系整体效能，全面增强自主创新能力，抢占科技发展制高点，不断催生新质生产力。要加强原始创新和关键核心技术攻关，推动科技创新和产业创新深度融合，一体推进教育科技人才发展，深入推进数字中国建设。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/2992486",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时15分"
-        },
-        {
-          "title": "全国最忙高铁站上演一屏同检名场面",
-          "url": "https://www.toutiao.com/trending/7563833519244447258/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时11分 ~ 07时12分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "就业 裁员 招聘",
       "match_count": 4,
       "titles": [
@@ -3645,11 +3716,12 @@
             5,
             4,
             2,
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时15分 ~ 22时12分]"
+          "appearance_count": 15,
+          "time_info": "[12时15分 ~ 23时12分]"
         },
         {
           "title": "奔驰确认大裁员 已有约4000人离职",
@@ -3683,6 +3755,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源汽车 电动汽车 智能驾驶",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "据华尔街日报：美国电动汽车公司Rivian(RIVN.O)在电动汽车行业遇冷之际将裁员超过600人。",
+          "url": "https://flash.jin10.com/detail/20251023205257395800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "周三（10月22日），彭博电动汽车价格回报指数跌0.83%，报3398.87点，日内绝大部分时间处于下跌状态。",
+          "url": "https://wallstreetcn.com/livenews/2992069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时15分 ~ 06时10分]"
+        },
+        {
+          "title": "法国高速公路测试电动汽车“边开边充”技术",
+          "url": "https://flash.jin10.com/detail/20251023224021809800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         }
       ]
     },
@@ -3723,36 +3836,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源汽车 电动汽车 智能驾驶",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "据华尔街日报：美国电动汽车公司Rivian(RIVN.O)在电动汽车行业遇冷之际将裁员超过600人。",
-          "url": "https://flash.jin10.com/detail/20251023205257395800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "周三（10月22日），彭博电动汽车价格回报指数跌0.83%，报3398.87点，日内绝大部分时间处于下跌状态。",
-          "url": "https://wallstreetcn.com/livenews/2992069",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            12,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时15分 ~ 06时10分]"
         }
       ]
     },
