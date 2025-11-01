@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-01T07:13:25.137455+08:00",
-  "total_titles_processed": 617,
+  "generated_at": "2025-11-01T08:56:18.777568+08:00",
+  "total_titles_processed": 707,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "中美元首会晤对台湾意味着什么",
@@ -47,6 +47,46 @@
           "time_info": "[04时14分 ~ 07时13分]"
         },
         {
+          "title": "周五（10月31日）纽约尾盘，美元兑日元跌0.05%，报154.05日元，10月份累计上涨4.17%，整体交投区间为146.59-154.45日元。",
+          "url": "https://wallstreetcn.com/livenews/2997899",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10,
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时12分 ~ 08时56分]"
+        },
+        {
+          "title": "以太坊站上3900美元/枚，日内涨2.54%。",
+          "url": "https://flash.jin10.com/detail/20251101033413409800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时14分 ~ 08时56分]"
+        },
+        {
+          "title": "周五（10月31日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报7.1225元，较周四纽约尾盘跌118点。",
+          "url": "https://wallstreetcn.com/livenews/2997908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时11分 ~ 08时56分]"
+        },
+        {
           "title": "上期所原油期货2512合约夜盘收涨0.91%，报463.60元人民币/桶。 沪金夜盘收涨0.39%，沪银收跌0.25%。",
           "url": "https://wallstreetcn.com/livenews/2997863",
           "source": "华尔街见闻-快讯",
@@ -57,31 +97,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时09分 ~ 04时14分]"
-        },
-        {
-          "title": "周五（10月31日）纽约尾盘，美元兑日元跌0.05%，报154.05日元，10月份累计上涨4.17%，整体交投区间为146.59-154.45日元。",
-          "url": "https://wallstreetcn.com/livenews/2997899",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时12分 ~ 07时13分]"
-        },
-        {
-          "title": "周五（10月31日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报7.1225元，较周四纽约尾盘跌118点。",
-          "url": "https://wallstreetcn.com/livenews/2997908",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时11分 ~ 07时13分]"
         },
         {
           "title": "周五（10月31日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘涨2.73%，逼近11.0万美元，10月份累跌5.16%，10月6日涨至12.5万美元上方之后逐步下挫，10月17日跌至10.5万美元下方，之后低位震荡。 CME以太币期货DCR主力合约涨5.79%，报3919.50美元，10月份累跌7.09%，整体交投于4828.00-3690.00美元区间。",
@@ -96,16 +111,32 @@
           "time_info": "[06时11分 ~ 07时13分]"
         },
         {
-          "title": "以太坊站上3900美元/枚，日内涨2.54%。",
-          "url": "https://flash.jin10.com/detail/20251101033413409800",
-          "source": "金十数据",
+          "title": "周五（10月31日）纽约尾盘，COMEX铜期货涨0.13%，报5.11美元/磅，10月份累涨4.85%。",
+          "url": "https://wallstreetcn.com/livenews/2997898",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12,
-            14
+            6,
+            11,
+            19,
+            24
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[04时14分 ~ 07时13分]"
+          "time_info": "[05时12分 ~ 08时56分]"
+        },
+        {
+          "title": "美联储：美国上周银行存款18.504万亿美元，之前一周18.508万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/2997891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            16,
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时12分 ~ 08时56分]"
         },
         {
           "title": "周五（10月31日），韩元兑美元最终涨0.10%，报1429.61韩元，10月份累计下跌1.82%。",
@@ -119,19 +150,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时18分 ~ 04时14分]"
-        },
-        {
-          "title": "周五（10月31日）纽约尾盘，COMEX铜期货涨0.13%，报5.11美元/磅，10月份累涨4.85%。",
-          "url": "https://wallstreetcn.com/livenews/2997898",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时12分 ~ 07时13分]"
         },
         {
           "title": "周五（10月31日），美联储隔夜逆回购协议（RRP）使用规模为518.02亿美元，上个交易日报191.66亿美元。",
@@ -160,17 +178,15 @@
           "time_info": "[04时14分 ~ 06时11分]"
         },
         {
-          "title": "美联储：美国上周银行存款18.504万亿美元，之前一周18.508万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/2997891",
-          "source": "华尔街见闻-快讯",
+          "title": "铜价突破“11000美元上限”！高盛“唱空”：任何突破都是暂时的，明年初铜价将逆转",
+          "url": "https://wallstreetcn.com/articles/3758423",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            16,
-            24
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时12分 ~ 07时13分]"
+          "appearance_count": 2,
+          "time_info": "[08时55分 ~ 08时56分]"
         },
         {
           "title": "巴克莱：预计美国2026年垃圾债供应量将达到3800亿美元。",
@@ -196,6 +212,17 @@
           "time_info": "[00时13分 ~ 00时14分]"
         },
         {
+          "title": "印度尼西亚能源部宣布，11月上半月5300大卡等级煤炭的基准价格定为每吨67.22美元；4100大卡等级煤炭的基准价格定为每吨44.02美元。",
+          "url": "https://flash.jin10.com/detail/20251101080617008800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
           "title": "美联储在固定利率逆回购操作中总计接纳了25个对手方的518.02亿美元。",
           "url": "https://flash.jin10.com/detail/20251101012046803800",
           "source": "金十数据",
@@ -205,6 +232,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "韩国10月贸易帐初值 60.6亿美元，预期29.8亿美元，前值由95.58亿美元修正为95.31亿美元。",
+          "url": "https://flash.jin10.com/detail/20251101080002233800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
         },
         {
           "title": "巴克莱(BCS.N)：预计美国2026年垃圾债供应量将达到3800亿美元。",
@@ -227,6 +265,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "周五（10月31日，中本聪发布比特币白皮书十七周年纪念日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘涨2.73%，逼近11.0万美元，10月份累跌5.16%，10月6日涨至12.5万美元上方之后逐步下挫，10月17日跌至10.5万美元下方，之后低位震荡。 CME以太币期货DCR主力合约涨5.79%，报3919.50美元，10月份累跌7.09%，整体交投于4828.00-3690.00美元区间。",
+          "url": "https://wallstreetcn.com/livenews/2997907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
         },
         {
           "title": "美、布两油短线下挫0.5美元，特朗普称不打击委内瑞拉。",
@@ -311,8 +360,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时17分 ~ 07时13分]"
+          "appearance_count": 11,
+          "time_info": "[02时17分 ~ 08时56分]"
         },
         {
           "title": "美国亚特兰大联储主席博斯蒂克（2027年FOMC票委）：仍然认为处于（利率政策的）限制性状态。 本来想在这周要求按兵不动的，最终还是决定支持降息。",
@@ -349,6 +398,34 @@
           "time_info": "[02时18分 ~ 03时09分]"
         },
         {
+          "title": "周五（10月31日），降息赢家指数涨0.23%，报96.47点，本周（美联储宣布降息）累计下跌2.23%，10月份累跌2.40%——形成V形反转之后转跌。",
+          "url": "https://wallstreetcn.com/livenews/2997894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            15,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时12分 ~ 08时56分]"
+        },
+        {
+          "title": "美联储理事沃勒：所有数据都表明12月应当降息",
+          "url": "https://wallstreetcn.com/livenews/2997892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            17,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时12分 ~ 08时56分]"
+        },
+        {
           "title": "多米尼加央行将基准利率下调25个基点至5.25%。",
           "url": "https://flash.jin10.com/detail/20251101031316927800",
           "source": "金十数据",
@@ -374,19 +451,6 @@
           "time_info": "[04时14分 ~ 06时11分]"
         },
         {
-          "title": "周五（10月31日），降息赢家指数涨0.23%，报96.47点，本周（美联储宣布降息）累计下跌2.23%，10月份累跌2.40%——形成V形反转之后转跌。",
-          "url": "https://wallstreetcn.com/livenews/2997894",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            15,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时12分 ~ 07时13分]"
-        },
-        {
           "title": "荷兰国际集团（ING）高级利率策略师Michiel Tukker：全球货币市场都需要在储备不再过剩的世界中找到自己的路。 尽管央行现在有很多方法可以在必要时注入流动性，但问题在于，这些流动性能否流向需要它的地方。",
           "url": "https://wallstreetcn.com/livenews/2997876",
           "source": "华尔街见闻-快讯",
@@ -398,19 +462,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时14分 ~ 06时11分]"
-        },
-        {
-          "title": "美联储理事沃勒：所有数据都表明12月应当降息",
-          "url": "https://wallstreetcn.com/livenews/2997892",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时12分 ~ 07时13分]"
         },
         {
           "title": "美联储博斯蒂克：12月降息并非定局",
@@ -484,32 +535,19 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "英伟达与韩国科技巨头达成重大AI协议：部署26万颗Blackwell芯片，打造亚洲首个\"工业AI云\"！",
           "url": "https://wallstreetcn.com/articles/3758417",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时13分 ~ 07时13分]"
-        },
-        {
-          "title": "AI投资大赛：DeepSeek回报率领跑，GPT亏麻了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31855899",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时13分 ~ 07时13分]"
+          "appearance_count": 15,
+          "time_info": "[00时13分 ~ 08时56分]"
         },
         {
           "title": "“最火AI板块”交成绩单：涨飞了的“易中天”，只有中际旭创撑住了“高预期”",
@@ -519,11 +557,38 @@
             10,
             9,
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时13分 ~ 07时13分]"
+          "appearance_count": 15,
+          "time_info": "[00时13分 ~ 08时56分]"
+        },
+        {
+          "title": "AI投资大赛：DeepSeek回报率领跑，GPT亏麻了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31855899",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时13分 ~ 08时56分]"
+        },
+        {
+          "title": "美银Hartnett：标普AI泡沫太大，黄金与中国股票或是最佳对冲工具",
+          "url": "https://wallstreetcn.com/articles/3758449",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时55分 ~ 08时56分]"
         },
         {
           "title": "联合国：美国人工智能相关投资激增，但并购活动大幅下降。",
@@ -623,8 +688,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时13分 ~ 07时13分]"
+          "appearance_count": 15,
+          "time_info": "[00时13分 ~ 08时56分]"
         },
         {
           "title": "苹果亚马逊盈利提振市场情绪，纳指涨1.5%，现货黄金震荡，加密货币上涨",
@@ -645,11 +710,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时10分 ~ 07时13分]"
+          "appearance_count": 5,
+          "time_info": "[06时10分 ~ 08时56分]"
         },
         {
           "title": "汇丰银行：将苹果(AAPL.O)目标价从220美元上调至250美元。",
@@ -669,7 +735,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         }
@@ -677,7 +743,7 @@
     },
     {
       "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "理想回应召回：MEGA起火事件尚未形成最终技术结论，内部调查显示同批次冷却液防腐性能不足",
@@ -689,11 +755,12 @@
             11,
             10,
             7,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时13分 ~ 07时13分]"
+          "appearance_count": 15,
+          "time_info": "[00时13分 ~ 08时56分]"
         },
         {
           "title": "超六成MEGA被召回 理想汽车：希望不再发生自燃事故",
@@ -701,11 +768,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时13分 ~ 07时13分]"
+          "appearance_count": 15,
+          "time_info": "[00时13分 ~ 08时56分]"
         },
         {
           "title": "理想召回2024款MEGA",
@@ -719,8 +787,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时13分 ~ 07时13分]"
+          "appearance_count": 15,
+          "time_info": "[00时13分 ~ 08时56分]"
         },
         {
           "title": "特斯拉给马斯克的万亿美元薪酬方案遭重要股东反对",
@@ -733,6 +801,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时13分 ~ 04时14分]"
+        },
+        {
+          "title": "马斯克再画“天上大饼”：特斯拉或年内发布飞行汽车原型",
+          "url": "https://www.cls.cn/detail/2188470",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时55分 ~ 08时56分]"
         },
         {
           "title": "据The Information：马斯克称特斯拉(TSLA.O)今年可能会推出飞行汽车。",
@@ -752,56 +831,27 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         }
       ]
     },
     {
-      "keyword_group": "华为 小米 荣耀",
-      "match_count": 3,
+      "keyword_group": "半导体 芯片 集成电路",
+      "match_count": 4,
       "titles": [
         {
-          "title": "女子退订小米汽车,损五千块换杯具",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346536&amp;topic_name=%E5%A5%B3%E5%AD%90%E9%80%80%E8%AE%A2%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%2C%E6%8D%9F%E4%BA%94%E5%8D%83%E5%9D%97%E6%8D%A2%E6%9D%AF%E5%85%B7",
-          "source": "贴吧",
+          "title": "荷兰在安世半导体问题上进退两难",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%8D%B7%E5%85%B0%E5%9C%A8%E5%AE%89%E4%B8%96%E5%8D%8A%E5%AF%BC%E4%BD%93%E9%97%AE%E9%A2%98%E4%B8%8A%E8%BF%9B%E9%80%80%E4%B8%A4%E9%9A%BE%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D13%26q%3D%2523%25E8%258D%25B7%25E5%2585%25B0%25E5%259C%25A8%25E5%25AE%2589%25E4%25B8%2596%25E5%258D%258A%25E5%25AF%25BC%25E4%25BD%2593%25E9%2597%25AE%25E9%25A2%2598%25E4%25B8%258A%25E8%25BF%259B%25E9%2580%2580%25E4%25B8%25A4%25E9%259A%25BE%2523%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26flag%3D1%26stream_entry_id%3D31%26pos%3D14%26lcate%3D5001%26band_rank%3D13%26display_time%3D1761957499%26pre_seqid%3D17619574995820340320949&launchid=10000360-page_H5",
+          "source": "微博",
           "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时13分 ~ 07时13分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收涨0.5%，10月份累跌约4%。 热门中概股里，小马智行初步收跌约5.7%，腾讯、阿里跌超2%，小米、京东、百度跌超1%，网易则涨0.7%，理想涨1.6%，小鹏涨2.2%，蔚来涨3.3%。",
-          "url": "https://wallstreetcn.com/livenews/2997886",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时14分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨0.53%，报8273.84点，本周累计下跌1.05%，10月份累计下跌4.19%，结束此前连续五个月上涨的趋势。 热门中概股里，小马智行初步收跌约5.7%，腾讯、阿里跌超2%，小米、京东、百度跌超1%，网易则涨0.7%，理想涨1.6%，小鹏涨2.2%，蔚来涨3.3%。 ETF中，中国科技指数ETF（CQQQ）收跌1.75%，10月份累跌4.91%，此前四个月先后涨8.88%、5.76%、14.34%、10.28%； 德银嘉实沪深300指数ETF（ASHR）收跌1.49%，10月份累涨0.15%——连续第六个月上涨； 中国ETF-iShares MSCI（MCHI）收跌1.26%，10月份累跌3.46%，此前连续五个月上涨； XtrackersHarvest中证50（ASHS）收跌0.98%，10月份累跌1.49%，此前连涨五个月； 中概互联网指数ETF（KWEB）收跌0.67%，10月份累跌4.90%，此前连涨五个月。",
-          "url": "https://wallstreetcn.com/livenews/2997886",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            20
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时12分 ~ 06时11分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 3,
-      "titles": [
+          "time_info": "[08时55分 ~ 08时56分]"
+        },
         {
           "title": "标普连涨六个月，纳指连涨七个月，半导体指数10月涨约13.5%",
           "url": "https://wallstreetcn.com/livenews/2997884",
@@ -839,6 +889,91 @@
       ]
     },
     {
+      "keyword_group": "华为 小米 荣耀",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "女子退订小米汽车,损五千块换杯具",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346536&amp;topic_name=%E5%A5%B3%E5%AD%90%E9%80%80%E8%AE%A2%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%2C%E6%8D%9F%E4%BA%94%E5%8D%83%E5%9D%97%E6%8D%A2%E6%9D%AF%E5%85%B7",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时13分 ~ 08时56分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收涨0.5%，10月份累跌约4%。 热门中概股里，小马智行初步收跌约5.7%，腾讯、阿里跌超2%，小米、京东、百度跌超1%，网易则涨0.7%，理想涨1.6%，小鹏涨2.2%，蔚来涨3.3%。",
+          "url": "https://wallstreetcn.com/livenews/2997886",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨0.53%，报8273.84点，本周累计下跌1.05%，10月份累计下跌4.19%，结束此前连续五个月上涨的趋势。 热门中概股里，小马智行初步收跌约5.7%，腾讯、阿里跌超2%，小米、京东、百度跌超1%，网易则涨0.7%，理想涨1.6%，小鹏涨2.2%，蔚来涨3.3%。 ETF中，中国科技指数ETF（CQQQ）收跌1.75%，10月份累跌4.91%，此前四个月先后涨8.88%、5.76%、14.34%、10.28%； 德银嘉实沪深300指数ETF（ASHR）收跌1.49%，10月份累涨0.15%——连续第六个月上涨； 中国ETF-iShares MSCI（MCHI）收跌1.26%，10月份累跌3.46%，此前连续五个月上涨； XtrackersHarvest中证50（ASHS）收跌0.98%，10月份累跌1.49%，此前连涨五个月； 中概互联网指数ETF（KWEB）收跌0.67%，10月份累跌4.90%，此前连涨五个月。",
+          "url": "https://wallstreetcn.com/livenews/2997886",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时12分 ~ 06时11分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "考研 考公 国考",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "国考",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%9B%BD%E8%80%83&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%25E5%259B%25BD%25E8%2580%2583%26pos%3D0%26dgr%3D0%26flag%3D1%26c_type%3D31%26band_rank%3D1%26cate%3D5001%26realpos%3D1%26lcate%3D5001%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26display_time%3D1761930502%26pre_seqid%3D17619305021970252277304&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            1,
+            2,
+            7,
+            28,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时11分 ~ 08时56分]"
+        },
+        {
+          "title": "国考缴费",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%9B%BD%E8%80%83%E7%BC%B4%E8%B4%B9&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26c_type%3D31%26q%3D%25E5%259B%25BD%25E8%2580%2583%25E7%25BC%25B4%25E8%25B4%25B9%26realpos%3D4%26cate%3D5001%26flag%3D1%26stream_entry_id%3D31%26dgr%3D0%26band_rank%3D4%26pos%3D4%26display_time%3D1761934134%26pre_seqid%3D17619341341210339557619&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时17分 ~ 04时14分]"
+        },
+        {
+          "title": "国考缴费",
+          "url": "https://www.douyin.com/hot/2290442",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时55分 ~ 08时56分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "房地产 房价 楼市 LPR",
       "match_count": 2,
       "titles": [
@@ -849,11 +984,12 @@
           "ranks": [
             6,
             4,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时13分 ~ 07时13分]"
+          "appearance_count": 13,
+          "time_info": "[00时13分 ~ 08时56分]"
         },
         {
           "title": "房地产一哥怎么了",
@@ -889,8 +1025,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时13分 ~ 07时13分]"
+          "appearance_count": 15,
+          "time_info": "[00时13分 ~ 08时56分]"
         },
         {
           "title": "周五（10月31日），彭博电动汽车价格回报指数下跌0.99%，报3521.02点，10月份累计上涨2.35%。",
@@ -905,6 +1041,36 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时14分 ~ 07时13分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英伟达 台积电 AMD 高通",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "英伟达CEO黄仁勋完成10亿美元股票出售",
+          "url": "https://wallstreetcn.com/livenews/2997909",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时11分 ~ 08时56分]"
+        },
+        {
+          "title": "英伟达CEO黄仁勋完成10亿美元股票出售",
+          "url": "https://flash.jin10.com/detail/20251101075921509800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
         }
       ]
     },
@@ -940,39 +1106,6 @@
       ]
     },
     {
-      "keyword_group": "考研 考公 国考",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "国考",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%9B%BD%E8%80%83&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%25E5%259B%25BD%25E8%2580%2583%26pos%3D0%26dgr%3D0%26flag%3D1%26c_type%3D31%26band_rank%3D1%26cate%3D5001%26realpos%3D1%26lcate%3D5001%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26display_time%3D1761930502%26pre_seqid%3D17619305021970252277304&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            1,
-            2,
-            7,
-            28,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时11分 ~ 07时13分]"
-        },
-        {
-          "title": "国考缴费",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%9B%BD%E8%80%83%E7%BC%B4%E8%B4%B9&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26c_type%3D31%26q%3D%25E5%259B%25BD%25E8%2580%2583%25E7%25BC%25B4%25E8%25B4%25B9%26realpos%3D4%26cate%3D5001%26flag%3D1%26stream_entry_id%3D31%26dgr%3D0%26band_rank%3D4%26pos%3D4%26display_time%3D1761934134%26pre_seqid%3D17619341341210339557619&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时17分 ~ 04时14分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "基础设施 基建 地铁 高铁",
       "match_count": 1,
       "titles": [
@@ -991,24 +1124,6 @@
       ]
     },
     {
-      "keyword_group": "英伟达 台积电 AMD 高通",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "英伟达CEO黄仁勋完成10亿美元股票出售",
-          "url": "https://wallstreetcn.com/livenews/2997909",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时11分 ~ 07时13分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "创业板",
       "match_count": 1,
       "titles": [
@@ -1019,11 +1134,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时13分 ~ 07时13分]"
+          "appearance_count": 15,
+          "time_info": "[00时13分 ~ 08时56分]"
         }
       ]
     }
