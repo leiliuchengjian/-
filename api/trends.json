@@ -1,11 +1,469 @@
 {
-  "generated_at": "2025-11-03T18:15:00.523907+08:00",
-  "total_titles_processed": 1387,
+  "generated_at": "2025-11-03T19:12:09.925627+08:00",
+  "total_titles_processed": 1466,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "央行 降息 降准 CPI 物价",
+      "match_count": 39,
+      "titles": [
+        {
+          "title": "美联储12月是否降息，或许取决于“美国政府关门何时结束”",
+          "url": "https://wallstreetcn.com/articles/3758491",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时12分 ~ 12时23分]"
+        },
+        {
+          "title": "贝森特：美国部分经济领域已陷入衰退，如果美联储不进一步降息，其他领域也会衰退",
+          "url": "https://wallstreetcn.com/articles/3758511",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时18分 ~ 19时12分]"
+        },
+        {
+          "title": "美国财长贝森特：若通胀下降，美联储应该降息",
+          "url": "https://flash.jin10.com/detail/20251102230658270800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            2,
+            6,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时11分 ~ 07时10分]"
+        },
+        {
+          "title": "贝森特：如果通胀下降，美联储应该降息",
+          "url": "https://wallstreetcn.com/livenews/2998164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            9,
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 07时10分]"
+        },
+        {
+          "title": "美国财长贝森特：如果通胀下降，美联储应降息。",
+          "url": "https://flash.jin10.com/detail/20251102221303454800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            13,
+            14,
+            18,
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 07时10分]"
+        },
+        {
+          "title": "美联储12月降息25个基点的概率为69.8%",
+          "url": "https://flash.jin10.com/detail/20251103060314694800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时10分"
+        },
+        {
+          "title": "印尼央行行长：150个基点的降息已大幅降低了政府债券收益率，从而降低了政府的融资成本。",
+          "url": "https://flash.jin10.com/detail/20251103174240637800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
+          "title": "贝森特：若不进一步降息，美国经济衰退范围或将扩大",
+          "url": "https://news.ifeng.com/c/8nyN48zs0Q4",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "路透调查：预计波兰央行将于周三将主要利率下调25个基点至4.25%。",
+          "url": "https://flash.jin10.com/detail/20251103184500160800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
+          "title": "市场消息：印度央行可能正在出售美元，以帮助卢比避免跌至88.8的历史低点。",
+          "url": "https://flash.jin10.com/detail/20251103113503405800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时47分 ~ 13时13分]"
+        },
+        {
+          "title": "中国央行与韩国银行续签双边本币互换协议，互换规模为4000亿元人民币/70万亿韩元",
+          "url": "https://wallstreetcn.com/livenews/2998392",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 15时14分]"
+        },
+        {
+          "title": "印度卢比再度逼近纪录低点 印度央行近期干预效果有限",
+          "url": "https://wallstreetcn.com/livenews/2998460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 17时15分]"
+        },
+        {
+          "title": "日元对决--日本政府 vs 日本央行，去年的“日元套利交易”会重演吗？",
+          "url": "https://wallstreetcn.com/articles/3758502",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时14分 ~ 19时12分]"
+        },
+        {
+          "title": "瑞士通胀意外放缓至接近于零 瑞士央行面临两难选择",
+          "url": "https://wallstreetcn.com/livenews/2998483",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 18时15分]"
+        },
+        {
+          "title": "欧洲央行管委Simkus：我们目前处于良好状态，但对新数据持开放态度。 我预计2028年通胀预期将低于2%。",
+          "url": "https://wallstreetcn.com/livenews/2998500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 19时12分]"
+        },
+        {
+          "title": "欧洲央行内格尔：欧元区经济未偏离预期 维持政策灵活应对不确定性",
+          "url": "https://flash.jin10.com/detail/20251103134346792800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "印尼央行行长：货币政策旨在维护稳定并支持经济增长。",
+          "url": "https://flash.jin10.com/detail/20251103173931586800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
+          "title": "欧洲央行管委Kazimir：敦促对持续存在的通胀风险保持警惕",
+          "url": "https://wallstreetcn.com/livenews/2998531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
+          "title": "瑞士10月通胀意外放缓 央行面临应对强势瑞郎的压力",
+          "url": "https://flash.jin10.com/detail/20251103154210440800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "印尼央行行长：印尼盾汇率仍在可控范围内，符合印尼央行确保印尼盾稳定的承诺。",
+          "url": "https://flash.jin10.com/detail/20251103173510270800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
+          "title": "交易员：印度央行进场干预以支撑卢比",
+          "url": "https://wallstreetcn.com/livenews/2998374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "央行与韩国银行续签双边本币互换协议",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%E4%B8%8E%E9%9F%A9%E5%9B%BD%E9%93%B6%E8%A1%8C%E7%BB%AD%E7%AD%BE%E5%8F%8C%E8%BE%B9%E6%9C%AC%E5%B8%81%E4%BA%92%E6%8D%A2%E5%8D%8F%E8%AE%AE",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
+          "title": "美国财经网站investinglive评瑞士10月CPI：数据全面偏离预期。这些数据不应产生太大影响，因为瑞士央行已结束宽松周期，若要重启负利率政策，必须存在充分理由。",
+          "url": "https://flash.jin10.com/detail/20251103153318096800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "交易员：印度央行进场干预以支撑卢比",
+          "url": "https://flash.jin10.com/detail/20251103132839912800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "印度央行增持美元空头头寸以遏制卢比贬值",
+          "url": "https://flash.jin10.com/detail/20251103141851536800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
+          "title": "瑞士10月CPI月率录得-0.3%，为2024年9月以来最大降幅。",
+          "url": "https://flash.jin10.com/detail/20251103153006476800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "瑞士10月CPI月率 -0.3%，预期-0.1%，前值-0.20%。",
+          "url": "https://flash.jin10.com/detail/20251103153002164800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "欧洲央行管委卡兹米尔呼吁保持警惕 防范通胀风险",
+          "url": "https://flash.jin10.com/detail/20251103182154116800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
+          "title": "瑞士10月CPI年率 0.1%，预期0.30%，前值0.20%。",
+          "url": "https://flash.jin10.com/detail/20251103153002142800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "欧洲央行管委内格尔：数据自9月以来没有根本变化。",
+          "url": "https://flash.jin10.com/detail/20251103130731458800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "印尼央行行长：预计第三季度GDP增速将高于第二季度，而第四季度的增速将远高于第二季度。",
+          "url": "https://flash.jin10.com/detail/20251103181749373800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
+          "title": "印尼央行行长：预计2025财年GDP增长率将略高于4.7%至5.5%区间的中点。",
+          "url": "https://flash.jin10.com/detail/20251103181736605800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
+          "title": "中国央行公开市场开展783亿元7天期逆回购操作，操作利率1.40%，与前次持平。今日3373亿元逆回购到期。",
+          "url": "https://wallstreetcn.com/livenews/2998252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "瑞士10月CPI同比 0.1%，预期 0.3%，前值 0.2%。",
+          "url": "https://wallstreetcn.com/livenews/2998439",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "瑞士10月CPI环比 -0.3%，预期 -0.1%，前值 -0.2%。",
+          "url": "https://wallstreetcn.com/livenews/2998438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "本周中国央行公开市场将有20680亿元逆回购到期",
+          "url": "https://wallstreetcn.com/livenews/2998206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
+          "title": "业内人士预计央行国债买卖操作在节奏、规模、期限上将更灵活",
+          "url": "https://wallstreetcn.com/livenews/2998205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
+          "title": "印尼央行行长：未来印尼央行利率的下调时机将取决于印尼盾的稳定性以及我们此前降息措施的有效性。",
+          "url": "https://flash.jin10.com/detail/20251103181403784800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
+          "title": "欧洲央行管委西姆库斯：我们将在12月对通胀有更多了解。",
+          "url": "https://flash.jin10.com/detail/20251103171439811800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "三季度再卖61亿、连续5季度不回购、三年累计卖1840亿美元股票！巴菲特给伯克希尔留下的是：3820亿美元现金",
@@ -179,6 +637,18 @@
           "time_info": "[11时47分 ~ 13时13分]"
         },
         {
+          "title": "中国神华：上半年A股每股现金红利人民币0.98元",
+          "url": "https://wallstreetcn.com/livenews/2998514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 19时12分]"
+        },
+        {
           "title": "纽约银日内涨幅达1%，报48.65美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/2998377",
           "source": "华尔街见闻-快讯",
@@ -258,17 +728,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
-        },
-        {
-          "title": "中国神华：上半年A股每股现金红利人民币0.98元",
-          "url": "https://wallstreetcn.com/livenews/2998514",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时15分"
         },
         {
           "title": "消息人士：挪威即将与空客、意大利军工企业莱昂纳多和GKN Fokker达成协议，以解决因取消NH90直升机订单而引发的30亿美元诉讼。",
@@ -414,6 +873,17 @@
           "time_info": "10时31分"
         },
         {
+          "title": "瑞银：如果政治或金融市场波动再次加剧，黄金价格存在上行风险，可能升至4700美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251103181615614800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
           "title": "现货黄金回落至3980美元/盎司下方，日内跌0.58%。",
           "url": "https://flash.jin10.com/detail/20251103074345190800",
           "source": "金十数据",
@@ -438,399 +908,21 @@
       ]
     },
     {
-      "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 33,
-      "titles": [
-        {
-          "title": "美联储12月是否降息，或许取决于“美国政府关门何时结束”",
-          "url": "https://wallstreetcn.com/articles/3758491",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时12分 ~ 12时23分]"
-        },
-        {
-          "title": "美国财长贝森特：若通胀下降，美联储应该降息",
-          "url": "https://flash.jin10.com/detail/20251102230658270800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            2,
-            6,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时11分 ~ 07时10分]"
-        },
-        {
-          "title": "贝森特：如果通胀下降，美联储应该降息",
-          "url": "https://wallstreetcn.com/livenews/2998164",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            9,
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 07时10分]"
-        },
-        {
-          "title": "美国财长贝森特：如果通胀下降，美联储应降息。",
-          "url": "https://flash.jin10.com/detail/20251102221303454800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            13,
-            14,
-            18,
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 07时10分]"
-        },
-        {
-          "title": "贝森特：美国部分经济领域已陷入衰退，如果美联储不进一步降息，其他领域也会衰退",
-          "url": "https://wallstreetcn.com/articles/3758511",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时18分 ~ 18时15分]"
-        },
-        {
-          "title": "美联储12月降息25个基点的概率为69.8%",
-          "url": "https://flash.jin10.com/detail/20251103060314694800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时10分"
-        },
-        {
-          "title": "印尼央行行长：150个基点的降息已大幅降低了政府债券收益率，从而降低了政府的融资成本。",
-          "url": "https://flash.jin10.com/detail/20251103174240637800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时15分"
-        },
-        {
-          "title": "贝森特：若不进一步降息，美国经济衰退范围或将扩大",
-          "url": "https://news.ifeng.com/c/8nyN48zs0Q4",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "市场消息：印度央行可能正在出售美元，以帮助卢比避免跌至88.8的历史低点。",
-          "url": "https://flash.jin10.com/detail/20251103113503405800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时47分 ~ 13时13分]"
-        },
-        {
-          "title": "中国央行与韩国银行续签双边本币互换协议，互换规模为4000亿元人民币/70万亿韩元",
-          "url": "https://wallstreetcn.com/livenews/2998392",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时19分 ~ 15时14分]"
-        },
-        {
-          "title": "印度卢比再度逼近纪录低点 印度央行近期干预效果有限",
-          "url": "https://wallstreetcn.com/livenews/2998460",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时19分 ~ 17时15分]"
-        },
-        {
-          "title": "瑞士通胀意外放缓至接近于零 瑞士央行面临两难选择",
-          "url": "https://wallstreetcn.com/livenews/2998483",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时15分 ~ 18时15分]"
-        },
-        {
-          "title": "欧洲央行内格尔：欧元区经济未偏离预期 维持政策灵活应对不确定性",
-          "url": "https://flash.jin10.com/detail/20251103134346792800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "印尼央行行长：货币政策旨在维护稳定并支持经济增长。",
-          "url": "https://flash.jin10.com/detail/20251103173931586800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时15分"
-        },
-        {
-          "title": "瑞士10月通胀意外放缓 央行面临应对强势瑞郎的压力",
-          "url": "https://flash.jin10.com/detail/20251103154210440800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "日元对决--日本政府 vs 日本央行，去年的“日元套利交易”会重演吗？",
-          "url": "https://wallstreetcn.com/articles/3758502",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时14分"
-        },
-        {
-          "title": "印尼央行行长：印尼盾汇率仍在可控范围内，符合印尼央行确保印尼盾稳定的承诺。",
-          "url": "https://flash.jin10.com/detail/20251103173510270800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时15分"
-        },
-        {
-          "title": "交易员：印度央行进场干预以支撑卢比",
-          "url": "https://wallstreetcn.com/livenews/2998374",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "央行与韩国银行续签双边本币互换协议",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%E4%B8%8E%E9%9F%A9%E5%9B%BD%E9%93%B6%E8%A1%8C%E7%BB%AD%E7%AD%BE%E5%8F%8C%E8%BE%B9%E6%9C%AC%E5%B8%81%E4%BA%92%E6%8D%A2%E5%8D%8F%E8%AE%AE",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时14分"
-        },
-        {
-          "title": "美国财经网站investinglive评瑞士10月CPI：数据全面偏离预期。这些数据不应产生太大影响，因为瑞士央行已结束宽松周期，若要重启负利率政策，必须存在充分理由。",
-          "url": "https://flash.jin10.com/detail/20251103153318096800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "欧洲央行管委Simkus：我们目前处于良好状态，但对新数据持开放态度。 我预计2028年通胀预期将低于2%。",
-          "url": "https://wallstreetcn.com/livenews/2998500",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时15分"
-        },
-        {
-          "title": "交易员：印度央行进场干预以支撑卢比",
-          "url": "https://flash.jin10.com/detail/20251103132839912800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "印度央行增持美元空头头寸以遏制卢比贬值",
-          "url": "https://flash.jin10.com/detail/20251103141851536800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时14分"
-        },
-        {
-          "title": "瑞士10月CPI月率录得-0.3%，为2024年9月以来最大降幅。",
-          "url": "https://flash.jin10.com/detail/20251103153006476800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "瑞士10月CPI月率 -0.3%，预期-0.1%，前值-0.20%。",
-          "url": "https://flash.jin10.com/detail/20251103153002164800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "瑞士10月CPI年率 0.1%，预期0.30%，前值0.20%。",
-          "url": "https://flash.jin10.com/detail/20251103153002142800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "欧洲央行管委内格尔：数据自9月以来没有根本变化。",
-          "url": "https://flash.jin10.com/detail/20251103130731458800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "中国央行公开市场开展783亿元7天期逆回购操作，操作利率1.40%，与前次持平。今日3373亿元逆回购到期。",
-          "url": "https://wallstreetcn.com/livenews/2998252",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "瑞士10月CPI同比 0.1%，预期 0.3%，前值 0.2%。",
-          "url": "https://wallstreetcn.com/livenews/2998439",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "瑞士10月CPI环比 -0.3%，预期 -0.1%，前值 -0.2%。",
-          "url": "https://wallstreetcn.com/livenews/2998438",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "本周中国央行公开市场将有20680亿元逆回购到期",
-          "url": "https://wallstreetcn.com/livenews/2998206",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
-        },
-        {
-          "title": "业内人士预计央行国债买卖操作在节奏、规模、期限上将更灵活",
-          "url": "https://wallstreetcn.com/livenews/2998205",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
-        },
-        {
-          "title": "欧洲央行管委西姆库斯：我们将在12月对通胀有更多了解。",
-          "url": "https://flash.jin10.com/detail/20251103171439811800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时15分"
-        }
-      ]
-    },
-    {
       "keyword_group": "人工智能 AI",
       "match_count": 30,
       "titles": [
+        {
+          "title": "马斯克称 5 年后不再有传统的手机和 App，人类进入 AI 内容时代，如何看待这一观点？你认同吗？",
+          "url": "https://www.zhihu.com/question/1968223817403954668",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时13分 ~ 19时12分]"
+        },
         {
           "title": "刚刚，亚马逊的“AI转折点”出现了？",
           "url": "https://wallstreetcn.com/articles/3758489",
@@ -872,20 +964,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时22分 ~ 18时15分]"
-        },
-        {
-          "title": "马斯克称 5 年后不再有传统的手机和 App，人类进入 AI 内容时代，如何看待这一观点？你认同吗？",
-          "url": "https://www.zhihu.com/question/1968223817403954668",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时13分 ~ 18时15分]"
+          "appearance_count": 12,
+          "time_info": "[12时22分 ~ 19时12分]"
         },
         {
           "title": "数据中心冲击消费？AI影响美国中选格局，原因是：电价！",
@@ -933,13 +1013,27 @@
           "time_info": "[00时12分 ~ 07时10分]"
         },
         {
+          "title": "“AI时代以来首次长期涨价行动”！报道：台积电启动“连续4年涨价”，先进制程涨约3%-10%",
+          "url": "https://wallstreetcn.com/articles/3758523",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时19分 ~ 19时12分]"
+        },
+        {
           "title": "道达尔能源首席执行官：凭借炼油厂现有的数据，人工智能可以帮助产量提高1%，这将带来巨额收入。",
           "url": "https://flash.jin10.com/detail/20251103174622626800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         },
@@ -994,24 +1088,25 @@
           "time_info": "16时19分"
         },
         {
+          "title": "AI芯片、人形机器人、火箭……都要来了 一图看懂明星科技股IPO“最新阵容”",
+          "url": "https://www.cls.cn/detail/2189431",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时15分 ~ 19时12分]"
+        },
+        {
           "title": "英国石油公司首席执行官：未来5到10年，受人工智能增长的推动，能源需求占全球经济的比例将从1%增长到10%。",
           "url": "https://flash.jin10.com/detail/20251103174218589800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时15分"
-        },
-        {
-          "title": "谷歌母公司Alphabet将发行至少30亿欧元债券以支持AI扩张",
-          "url": "https://wallstreetcn.com/livenews/2998517",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         },
@@ -1034,11 +1129,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            16
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时15分 ~ 18时15分]"
+          "appearance_count": 3,
+          "time_info": "[17时15分 ~ 19时12分]"
         },
         {
           "title": "马斯克称 5 年后不再有手机和 App，人类进入 AI 内容时代，如何看待这一观点？你认同吗？",
@@ -1065,17 +1161,16 @@
           "time_info": "[12时23分 ~ 13时13分]"
         },
         {
-          "title": "“AI时代以来首次长期涨价行动”！报道：台积电启动“连续4年涨价”，先进制程涨约3%-10%",
-          "url": "https://wallstreetcn.com/articles/3758523",
-          "source": "华尔街见闻",
+          "title": "谷歌母公司Alphabet将发行至少30亿欧元债券以支持AI扩张",
+          "url": "https://wallstreetcn.com/livenews/2998517",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            9,
-            8
+            4,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时19分 ~ 18时15分]"
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 19时12分]"
         },
         {
           "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
@@ -1088,18 +1183,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时12分 ~ 02时14分]"
-        },
-        {
-          "title": "AI芯片、人形机器人、火箭……都要来了 一图看懂明星科技股IPO“最新阵容”",
-          "url": "https://www.cls.cn/detail/2189431",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时15分 ~ 18时15分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-11-03）",
@@ -1167,7 +1250,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         },
@@ -1203,6 +1286,96 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "本周重磅焦点：美高院开审关税，中美经济数据，特斯拉股东大会，AMD财报",
+          "url": "https://wallstreetcn.com/articles/3758424",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时54分 ~ 15时14分]"
+        },
+        {
+          "title": "下周重磅焦点：美高院开审关税，中美经济数据，特斯拉股东大会，AMD财报",
+          "url": "https://wallstreetcn.com/articles/3758424",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 07时10分]"
+        },
+        {
+          "title": "特斯拉Optimus新进展曝光：数据采集靠雇人做家务 动捕方案或遭放弃",
+          "url": "https://www.cls.cn/detail/2189164",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[12时22分 ~ 19时12分]"
+        },
+        {
+          "title": "金十数据整理：下周重要事件与数据预告——中国CPI、贸易帐，英国央行利率决议；特斯拉股东大会；非农数据或会“缺席”；北美地区开始实行冬令时",
+          "url": "https://flash.jin10.com/detail/20251102213258278800",
+          "source": "金十数据",
+          "ranks": [
+            21,
+            22,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 05时11分]"
+        },
+        {
+          "title": "瑞典汽车产业协会：特斯拉(TSLA.O)十月份瑞典新注册量同比下降了88.7%。",
+          "url": "https://flash.jin10.com/detail/20251103160211080800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "注册数据显示，特斯拉(TSLA.O)10月份在挪威的新车注册量同比下降50.2%。",
+          "url": "https://flash.jin10.com/detail/20251103181653465800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
+          "title": "据韩国经济日报：三星SDI赢得3万亿韩元订单，将向特斯拉(TSLA.O)供应ESS电池三年。",
+          "url": "https://flash.jin10.com/detail/20251103163054069800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时15分"
         }
       ]
     },
@@ -1296,81 +1469,109 @@
       ]
     },
     {
-      "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
-      "match_count": 6,
+      "keyword_group": "英伟达 台积电 AMD 高通",
+      "match_count": 4,
       "titles": [
         {
-          "title": "本周重磅焦点：美高院开审关税，中美经济数据，特斯拉股东大会，AMD财报",
-          "url": "https://wallstreetcn.com/articles/3758424",
-          "source": "华尔街见闻",
+          "title": "明年起5纳米以下先进制程至少涨3%？台积电回应：定价策略不以机会导向",
+          "url": "https://wallstreetcn.com/livenews/2998530",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            9
           ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时54分 ~ 15时14分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
         },
         {
-          "title": "下周重磅焦点：美高院开审关税，中美经济数据，特斯拉股东大会，AMD财报",
-          "url": "https://wallstreetcn.com/articles/3758424",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 07时10分]"
-        },
-        {
-          "title": "特斯拉Optimus新进展曝光：数据采集靠雇人做家务 动捕方案或遭放弃",
-          "url": "https://www.cls.cn/detail/2189164",
+          "title": "5万亿美元！英伟达市值究竟有多惊人：几组对比告诉你……",
+          "url": "https://www.cls.cn/detail/2189185",
           "source": "财联社热门",
           "ranks": [
-            12,
-            9,
-            6,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时22分 ~ 18时15分]"
-        },
-        {
-          "title": "金十数据整理：下周重要事件与数据预告——中国CPI、贸易帐，英国央行利率决议；特斯拉股东大会；非农数据或会“缺席”；北美地区开始实行冬令时",
-          "url": "https://flash.jin10.com/detail/20251102213258278800",
-          "source": "金十数据",
-          "ranks": [
-            21,
-            22,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时12分 ~ 05时11分]"
-        },
-        {
-          "title": "瑞典汽车产业协会：特斯拉(TSLA.O)十月份瑞典新注册量同比下降了88.7%。",
-          "url": "https://flash.jin10.com/detail/20251103160211080800",
-          "source": "金十数据",
-          "ranks": [
-            3
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
         {
-          "title": "据韩国经济日报：三星SDI赢得3万亿韩元订单，将向特斯拉(TSLA.O)供应ESS电池三年。",
-          "url": "https://flash.jin10.com/detail/20251103163054069800",
-          "source": "金十数据",
+          "title": "台积电先进制程传明年涨价 涨幅估计3%-10%",
+          "url": "https://wallstreetcn.com/livenews/2998262",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时15分"
+          "time_info": "10时31分"
+        },
+        {
+          "title": "美股明星科技股盘前走高，美光科技(MU.O)盘前涨超4%，奈飞(NFLX.O)、Meta Platforms(META.O)、AMD(AMD.O)涨超1.2%，英伟达(NVDA.O)、高通(QCOM.O)涨约1%。",
+          "url": "https://flash.jin10.com/detail/20251103173003970800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "考研 考公 国考",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "工人日报：国考打破35岁门槛后，用人观念如何转向能力本位",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31879261",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18,
+            15,
+            14,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[10时31分 ~ 19时12分]"
+        },
+        {
+          "title": "26 考研政治应该怎么学习呀？",
+          "url": "https://www.zhihu.com/question/10204002773",
+          "source": "知乎",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时10分]"
+        },
+        {
+          "title": "一公司入职需签署放弃考研承诺书",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%80%E5%85%AC%E5%8F%B8%E5%85%A5%E8%81%8C%E9%9C%80%E7%AD%BE%E7%BD%B2%E6%94%BE%E5%BC%83%E8%80%83%E7%A0%94%E6%89%BF%E8%AF%BA%E4%B9%A6%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26band_rank%3D20%26q%3D%2523%25E4%25B8%2580%25E5%2585%25AC%25E5%258F%25B8%25E5%2585%25A5%25E8%2581%258C%25E9%259C%2580%25E7%25AD%25BE%25E7%25BD%25B2%25E6%2594%25BE%25E5%25BC%2583%25E8%2580%2583%25E7%25A0%2594%25E6%2589%25BF%25E8%25AF%25BA%25E4%25B9%25A6%2523%26realpos%3D20%26dgr%3D0%26pos%3D19%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26flag%3D1%26stream_entry_id%3D31%26display_time%3D1762168236%26pre_seqid%3D17621682361130253158483&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时11分 ~ 19时12分]"
+        },
+        {
+          "title": "考研的车门关上了",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E8%80%83%E7%A0%94%E7%9A%84%E8%BD%A6%E9%97%A8%E5%85%B3%E4%B8%8A%E4%BA%86&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26lcate%3D5001%26stream_entry_id%3D31%26q%3D%25E8%2580%2583%25E7%25A0%2594%25E7%259A%2584%25E8%25BD%25A6%25E9%2597%25A8%25E5%2585%25B3%25E4%25B8%258A%25E4%25BA%2586%26band_rank%3D22%26realpos%3D22%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26pos%3D22%26dgr%3D0%26display_time%3D1762161229%26pre_seqid%3D17621612297220254364641&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 18时14分]"
         }
       ]
     },
@@ -1389,8 +1590,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时10分 ~ 18时15分]"
+          "appearance_count": 17,
+          "time_info": "[07时10分 ~ 19时12分]"
         },
         {
           "title": "大同通报“2万套保障房10年未完工”整改进展：已完工2486套，其余正推进",
@@ -1507,6 +1708,48 @@
       ]
     },
     {
+      "keyword_group": "苹果 iPhone",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "苹果AI入华计划再延期",
+          "url": "https://wallstreetcn.com/livenews/2998516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 19时12分]"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约跌多涨少，菜粕涨超4%，豆粕、LU燃油、原油、烧碱、双胶纸、淀粉涨超1%。跌幅方面，甲醇、BR橡胶、集运欧线、纯碱、铁矿石跌超2%，20号胶、棕榈油、焦炭、苹果、乙二醇、生猪、原木跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251103113041971800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            18,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时47分 ~ 13时13分]"
+        },
+        {
+          "title": "伯恩斯坦：将苹果(AAPL.O)目标价从290美元上调至325美元。",
+          "url": "https://flash.jin10.com/detail/20251103183958846800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "半导体 芯片 集成电路",
       "match_count": 3,
       "titles": [
@@ -1515,11 +1758,12 @@
           "url": "https://www.cls.cn/detail/2189526",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时14分 ~ 18时15分]"
+          "appearance_count": 4,
+          "time_info": "[18时14分 ~ 19时12分]"
         },
         {
           "title": "深成指、创业板指均跌超1%，沪指跌0.27%，贵金属、电池、半导体、PCB等方向跌幅居前，沪深京三市下跌个股超2600只。",
@@ -1542,90 +1786,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英伟达 台积电 AMD 高通",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "5万亿美元！英伟达市值究竟有多惊人：几组对比告诉你……",
-          "url": "https://www.cls.cn/detail/2189185",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "台积电先进制程传明年涨价 涨幅估计3%-10%",
-          "url": "https://wallstreetcn.com/livenews/2998262",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "美股明星科技股盘前走高，美光科技(MU.O)盘前涨超4%，奈飞(NFLX.O)、Meta Platforms(META.O)、AMD(AMD.O)涨超1.2%，英伟达(NVDA.O)、高通(QCOM.O)涨约1%。",
-          "url": "https://flash.jin10.com/detail/20251103173003970800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "考研 考公 国考",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "工人日报：国考打破35岁门槛后，用人观念如何转向能力本位",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31879261",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18,
-            15,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时31分 ~ 18时15分]"
-        },
-        {
-          "title": "26 考研政治应该怎么学习呀？",
-          "url": "https://www.zhihu.com/question/10204002773",
-          "source": "知乎",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时11分 ~ 07时10分]"
-        },
-        {
-          "title": "考研的车门关上了",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E8%80%83%E7%A0%94%E7%9A%84%E8%BD%A6%E9%97%A8%E5%85%B3%E4%B8%8A%E4%BA%86&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26lcate%3D5001%26stream_entry_id%3D31%26q%3D%25E8%2580%2583%25E7%25A0%2594%25E7%259A%2584%25E8%25BD%25A6%25E9%2597%25A8%25E5%2585%25B3%25E4%25B8%258A%25E4%25BA%2586%26band_rank%3D22%26realpos%3D22%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26pos%3D22%26dgr%3D0%26display_time%3D1762161229%26pre_seqid%3D17621612297220254364641&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时15分 ~ 18时14分]"
         }
       ]
     },
@@ -1657,36 +1817,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 iPhone",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "苹果AI入华计划再延期",
-          "url": "https://wallstreetcn.com/livenews/2998516",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时15分"
-        },
-        {
-          "title": "早盘收盘，国内期货主力合约跌多涨少，菜粕涨超4%，豆粕、LU燃油、原油、烧碱、双胶纸、淀粉涨超1%。跌幅方面，甲醇、BR橡胶、集运欧线、纯碱、铁矿石跌超2%，20号胶、棕榈油、焦炭、苹果、乙二醇、生猪、原木跌超1%。",
-          "url": "https://flash.jin10.com/detail/20251103113041971800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            18,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时47分 ~ 13时13分]"
         }
       ]
     },
