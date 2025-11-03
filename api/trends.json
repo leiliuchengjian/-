@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T16:19:23.298639+08:00",
-  "total_titles_processed": 1211,
+  "generated_at": "2025-11-03T17:15:19.555116+08:00",
+  "total_titles_processed": 1306,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "三季度再卖61亿、连续5季度不回购、三年累计卖1840亿美元股票！巴菲特给伯克希尔留下的是：3820亿美元现金",
@@ -41,8 +41,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时54分 ~ 16时19分]"
+          "appearance_count": 12,
+          "time_info": "[08时54分 ~ 17时15分]"
         },
         {
           "title": "95 岁巴菲特年底将卸任，伯克希尔现金储备 3817 亿美元再创新高，美股高位背景下，传递出怎样的市场信号？",
@@ -191,6 +191,18 @@
           "time_info": "[14时19分 ~ 15时14分]"
         },
         {
+          "title": "现货白银涨幅扩大至1%，现报49.058美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/2998452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 17时15分]"
+        },
+        {
           "title": "以太坊跌破3800美元，比特币跌破109000美元",
           "url": "https://wallstreetcn.com/livenews/2998302",
           "source": "华尔街见闻-快讯",
@@ -201,6 +213,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时47分 ~ 12时23分]"
+        },
+        {
+          "title": "比特币失守107000美元/枚，日内跌幅3.24%。",
+          "url": "https://flash.jin10.com/detail/20251103164922246800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
         },
         {
           "title": "马斯克万亿美元薪酬方案下周表决",
@@ -225,6 +248,17 @@
           "time_info": "10时31分"
         },
         {
+          "title": "在岸人民币兑美元北京时间16:30官方收报7.1225，较上一交易日官方收盘价跌90点，较上日夜盘收盘跌25点。",
+          "url": "https://wallstreetcn.com/livenews/2998482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
+        },
+        {
           "title": "消息人士：挪威即将与空客、意大利军工企业莱昂纳多和GKN Fokker达成协议，以解决因取消NH90直升机订单而引发的30亿美元诉讼。",
           "url": "https://flash.jin10.com/detail/20251103142952539800",
           "source": "金十数据",
@@ -242,7 +276,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -278,17 +312,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
-        },
-        {
-          "title": "现货白银涨幅扩大至1%，现报49.058美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/2998452",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时19分"
         },
         {
           "title": "现货黄金回落至3970美元/盎司下方，日内跌0.84%。",
@@ -404,7 +427,7 @@
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "美联储12月是否降息，或许取决于“美国政府关门何时结束”",
@@ -487,15 +510,17 @@
           "time_info": "10时31分"
         },
         {
-          "title": "印度卢比再度逼近纪录低点 印度央行近期干预效果有限",
-          "url": "https://wallstreetcn.com/livenews/2998460",
-          "source": "华尔街见闻-快讯",
+          "title": "贝森特：美国部分经济领域已陷入衰退，如果美联储不进一步降息，其他领域也会衰退",
+          "url": "https://wallstreetcn.com/articles/3758511",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            9,
+            8,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时19分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时18分 ~ 17时15分]"
         },
         {
           "title": "市场消息：印度央行可能正在出售美元，以帮助卢比避免跌至88.8的历史低点。",
@@ -523,17 +548,16 @@
           "time_info": "[14时19分 ~ 15时14分]"
         },
         {
-          "title": "贝森特：美国部分经济领域已陷入衰退，如果美联储不进一步降息，其他领域也会衰退",
-          "url": "https://wallstreetcn.com/articles/3758511",
-          "source": "华尔街见闻",
+          "title": "印度卢比再度逼近纪录低点 印度央行近期干预效果有限",
+          "url": "https://wallstreetcn.com/livenews/2998460",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            8,
-            7
+            5,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时18分 ~ 16时19分]"
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 17时15分]"
         },
         {
           "title": "欧洲央行内格尔：欧元区经济未偏离预期 维持政策灵活应对不确定性",
@@ -547,13 +571,24 @@
           "time_info": "14时19分"
         },
         {
+          "title": "瑞士通胀意外放缓至接近于零 瑞士央行面临两难选择",
+          "url": "https://wallstreetcn.com/livenews/2998483",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
+        },
+        {
           "title": "瑞士10月通胀意外放缓 央行面临应对强势瑞郎的压力",
           "url": "https://flash.jin10.com/detail/20251103154210440800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -597,7 +632,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -630,7 +665,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -641,7 +676,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -652,7 +687,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -685,7 +720,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -696,7 +731,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -726,7 +761,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "刚刚，亚马逊的“AI转折点”出现了？",
@@ -769,8 +804,23 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时11分 ~ 16时19分]"
+          "appearance_count": 19,
+          "time_info": "[01时11分 ~ 17时15分]"
+        },
+        {
+          "title": "李乐成：加快推进人工智能赋能新型工业化",
+          "url": "https://www.cls.cn/detail/2189189",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            4,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时22分 ~ 17时15分]"
         },
         {
           "title": "马斯克称 5 年后不再有传统的手机和 App，人类进入 AI 内容时代，如何看待这一观点？你认同吗？",
@@ -781,22 +831,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时13分 ~ 16时19分]"
-        },
-        {
-          "title": "李乐成：加快推进人工智能赋能新型工业化",
-          "url": "https://www.cls.cn/detail/2189189",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时22分 ~ 16时19分]"
+          "appearance_count": 6,
+          "time_info": "[13时13分 ~ 17时15分]"
         },
         {
           "title": "科技巨头财报揭露关键趋势？基金经理：AI投资巨浪将推动美股下一轮涨势！",
@@ -873,9 +909,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
+        },
+        {
+          "title": "上海新增8款已完成备案的生成式人工智能服务",
+          "url": "https://wallstreetcn.com/livenews/2998495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
         },
         {
           "title": "马斯克：AI在2026年超越单个人类智商",
@@ -963,6 +1010,18 @@
           "time_info": "[12时23分 ~ 13时13分]"
         },
         {
+          "title": "“AI时代以来首次长期涨价行动”！报道：台积电启动“连续4年涨价”，先进制程涨约3%-10%",
+          "url": "https://wallstreetcn.com/articles/3758523",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 17时15分]"
+        },
+        {
           "title": "工信部部长李乐成：加快推进人工智能赋能新型工业化",
           "url": "https://wallstreetcn.com/livenews/2998305",
           "source": "华尔街见闻-快讯",
@@ -986,15 +1045,15 @@
           "time_info": "[12时22分 ~ 12时23分]"
         },
         {
-          "title": "“AI时代以来首次长期涨价行动”！报道：台积电启动“连续4年涨价”，先进制程涨约3%-10%",
-          "url": "https://wallstreetcn.com/articles/3758523",
-          "source": "华尔街见闻",
+          "title": "AI芯片、人形机器人、火箭……都要来了 一图看懂明星科技股IPO“最新阵容”",
+          "url": "https://www.cls.cn/detail/2189431",
+          "source": "财联社热门",
           "ranks": [
-            10
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时19分"
+          "time_info": "17时15分"
         },
         {
           "title": "奥尔特曼称OpenAI年收入远超130亿美元",
@@ -1006,6 +1065,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时54分"
+        },
+        {
+          "title": "道达尔能源首席执行官：现有供应量不足以满足人工智能的需求。",
+          "url": "https://flash.jin10.com/detail/20251103164118481800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
         },
         {
           "title": "阿联酋能源部长：随着人工智能和数据中心的发展，我们肯定需要更多能源。",
@@ -1111,7 +1181,7 @@
     },
     {
       "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "本周重磅焦点：美高院开审关税，中美经济数据，特斯拉股东大会，AMD财报",
@@ -1143,11 +1213,12 @@
             12,
             9,
             6,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时22分 ~ 16时19分]"
+          "appearance_count": 8,
+          "time_info": "[12时22分 ~ 17时15分]"
         },
         {
           "title": "金十数据整理：下周重要事件与数据预告——中国CPI、贸易帐，英国央行利率决议；特斯拉股东大会；非农数据或会“缺席”；北美地区开始实行冬令时",
@@ -1170,9 +1241,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
+        },
+        {
+          "title": "据韩国经济日报：三星SDI赢得3万亿韩元订单，将向特斯拉(TSLA.O)供应ESS电池三年。",
+          "url": "https://flash.jin10.com/detail/20251103163054069800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
         }
       ]
     },
@@ -1187,11 +1269,12 @@
           "ranks": [
             20,
             19,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时10分 ~ 16时19分]"
+          "appearance_count": 13,
+          "time_info": "[07时10分 ~ 17时15分]"
         },
         {
           "title": "大同通报“2万套保障房10年未完工”整改进展：已完工2486套，其余正推进",
@@ -1262,9 +1345,92 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为 小米 荣耀",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "恒生指数涨幅扩大至1%，恒生科技指数涨0.45%。小鹏汽车涨超4%，小米集团涨近4%。",
+          "url": "https://wallstreetcn.com/livenews/2998371",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "香港恒生指数开盘上涨0.36%，恒生科技指数涨0.48%。明略科技上市首日开涨98.58%。蔚来、小鹏汽车涨超3%，零跑汽车、长城汽车、小米集团纷纷高开。",
+          "url": "https://wallstreetcn.com/livenews/2998254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "华为Mate70Air真机曝光",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%8D%8E%E4%B8%BAMate70Air%E7%9C%9F%E6%9C%BA%E6%9B%9D%E5%85%89%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26lcate%3D5001%26stream_entry_id%3D31%26q%3D%2523%25E5%258D%258E%25E4%25B8%25BAMate70Air%25E7%259C%259F%25E6%259C%25BA%25E6%259B%259D%25E5%2585%2589%2523%26band_rank%3D27%26realpos%3D27%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26pos%3D27%26dgr%3D0%26display_time%3D1762161229%26pre_seqid%3D17621612297220254364641&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "考研 考公 国考",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "工人日报：国考打破35岁门槛后，用人观念如何转向能力本位",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31879261",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18,
+            15,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时31分 ~ 17时15分]"
+        },
+        {
+          "title": "26 考研政治应该怎么学习呀？",
+          "url": "https://www.zhihu.com/question/10204002773",
+          "source": "知乎",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时10分]"
+        },
+        {
+          "title": "考研的车门关上了",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E8%80%83%E7%A0%94%E7%9A%84%E8%BD%A6%E9%97%A8%E5%85%B3%E4%B8%8A%E4%BA%86&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26lcate%3D5001%26stream_entry_id%3D31%26q%3D%25E8%2580%2583%25E7%25A0%2594%25E7%259A%2584%25E8%25BD%25A6%25E9%2597%25A8%25E5%2585%25B3%25E4%25B8%258A%25E4%25BA%2586%26band_rank%3D22%26realpos%3D22%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26pos%3D22%26dgr%3D0%26display_time%3D1762161229%26pre_seqid%3D17621612297220254364641&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
         }
       ]
     },
@@ -1296,34 +1462,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "华为 小米 荣耀",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "恒生指数涨幅扩大至1%，恒生科技指数涨0.45%。小鹏汽车涨超4%，小米集团涨近4%。",
-          "url": "https://wallstreetcn.com/livenews/2998371",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "香港恒生指数开盘上涨0.36%，恒生科技指数涨0.48%。明略科技上市首日开涨98.58%。蔚来、小鹏汽车涨超3%，零跑汽车、长城汽车、小米集团纷纷高开。",
-          "url": "https://wallstreetcn.com/livenews/2998254",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
         }
       ]
     },
@@ -1366,7 +1504,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -1380,38 +1518,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "考研 考公 国考",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "工人日报：国考打破35岁门槛后，用人观念如何转向能力本位",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31879261",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时31分 ~ 16时19分]"
-        },
-        {
-          "title": "26 考研政治应该怎么学习呀？",
-          "url": "https://www.zhihu.com/question/10204002773",
-          "source": "知乎",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时11分 ~ 07时10分]"
         }
       ]
     },
