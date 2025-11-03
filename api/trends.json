@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T13:13:59.565920+08:00",
-  "total_titles_processed": 907,
+  "generated_at": "2025-11-03T14:19:18.570525+08:00",
+  "total_titles_processed": 994,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "三季度再卖61亿、连续5季度不回购、三年累计卖1840亿美元股票！巴菲特给伯克希尔留下的是：3820亿美元现金",
@@ -36,11 +36,12 @@
           "ranks": [
             10,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时54分 ~ 13时13分]"
+          "appearance_count": 9,
+          "time_info": "[08时54分 ~ 14时19分]"
         },
         {
           "title": "95 岁巴菲特年底将卸任，伯克希尔现金储备 3817 亿美元再创新高，美股高位背景下，传递出怎样的市场信号？",
@@ -189,6 +190,17 @@
           "time_info": "10时31分"
         },
         {
+          "title": "纽约银日内涨幅达1%，报48.65美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/2998377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
           "title": "现货黄金日内跌幅达1.00%，现报3963.07美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251103081756444800",
           "source": "金十数据",
@@ -220,6 +232,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时47分"
+        },
+        {
+          "title": "纽约期银日内涨幅达1.00%，现报48.65美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251103133156376800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "摩根士丹利上调2026年上半年布油价格预期至每桶60美元",
+          "url": "https://flash.jin10.com/detail/20251103131637372800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         },
         {
           "title": "以太坊失守3900美元/枚，日内跌幅0.17%。",
@@ -304,11 +338,12 @@
             5,
             2,
             3,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时12分 ~ 13时13分]"
+          "appearance_count": 18,
+          "time_info": "[00时12分 ~ 14时19分]"
         },
         {
           "title": "数据中心冲击消费？AI影响美国中选格局，原因是：电价！",
@@ -320,8 +355,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时11分 ~ 13时13分]"
+          "appearance_count": 16,
+          "time_info": "[01时11分 ~ 14时19分]"
         },
         {
           "title": "阿布扎比国家石油公司、马斯达尔公司、XRG公司与微软达成人工智能部署协议。（彭博）",
@@ -336,6 +371,44 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时12分 ~ 07时10分]"
+        },
+        {
+          "title": "马斯克称 5 年后不再有传统的手机和 App，人类进入 AI 内容时代，如何看待这一观点？你认同吗？",
+          "url": "https://www.zhihu.com/question/1968223817403954668",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时13分 ~ 14时19分]"
+        },
+        {
+          "title": "科技巨头财报揭露关键趋势？基金经理：AI投资巨浪将推动美股下一轮涨势！",
+          "url": "https://www.cls.cn/detail/2189006",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时46分 ~ 14时19分]"
+        },
+        {
+          "title": "李乐成：加快推进人工智能赋能新型工业化",
+          "url": "https://www.cls.cn/detail/2189189",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时22分 ~ 14时19分]"
         },
         {
           "title": "中信证券：建议继续关注热度较高的科技方向，端侧AI预计成为新的催化线索",
@@ -375,30 +448,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时12分 ~ 05时11分]"
-        },
-        {
-          "title": "马斯克称 5 年后不再有传统的手机和 App，人类进入 AI 内容时代，如何看待这一观点？你认同吗？",
-          "url": "https://www.zhihu.com/question/1968223817403954668",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时13分"
-        },
-        {
-          "title": "科技巨头财报揭露关键趋势？基金经理：AI投资巨浪将推动美股下一轮涨势！",
-          "url": "https://www.cls.cn/detail/2189006",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时46分 ~ 13时13分]"
         },
         {
           "title": "马斯克：AI在2026年超越单个人类智商",
@@ -448,18 +497,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时12分 ~ 02时14分]"
-        },
-        {
-          "title": "李乐成：加快推进人工智能赋能新型工业化",
-          "url": "https://www.cls.cn/detail/2189189",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时22分 ~ 13时13分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-11-03）",
@@ -535,7 +572,7 @@
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 10,
+      "match_count": 16,
       "titles": [
         {
           "title": "美联储12月是否降息，或许取决于“美国政府关门何时结束”",
@@ -607,6 +644,17 @@
           "time_info": "07时10分"
         },
         {
+          "title": "中国央行与韩国银行续签双边本币互换协议，互换规模为4000亿元人民币/70万亿韩元",
+          "url": "https://wallstreetcn.com/livenews/2998392",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
           "title": "贝森特：若不进一步降息，美国经济衰退范围或将扩大",
           "url": "https://news.ifeng.com/c/8nyN48zs0Q4",
           "source": "凤凰网",
@@ -629,6 +677,61 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时47分 ~ 13时13分]"
+        },
+        {
+          "title": "贝森特：美国部分经济领域已陷入衰退，如果美联储不进一步降息，其他领域也会衰退",
+          "url": "https://wallstreetcn.com/articles/3758511",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时18分 ~ 14时19分]"
+        },
+        {
+          "title": "欧洲央行内格尔：欧元区经济未偏离预期 维持政策灵活应对不确定性",
+          "url": "https://flash.jin10.com/detail/20251103134346792800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "交易员：印度央行进场干预以支撑卢比",
+          "url": "https://wallstreetcn.com/livenews/2998374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "交易员：印度央行进场干预以支撑卢比",
+          "url": "https://flash.jin10.com/detail/20251103132839912800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "欧洲央行管委内格尔：数据自9月以来没有根本变化。",
+          "url": "https://flash.jin10.com/detail/20251103130731458800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         },
         {
           "title": "中国央行公开市场开展783亿元7天期逆回购操作，操作利率1.40%，与前次持平。今日3373亿元逆回购到期。",
@@ -666,62 +769,8 @@
       ]
     },
     {
-      "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "下周重磅焦点：美高院开审关税，中美经济数据，特斯拉股东大会，AMD财报",
-          "url": "https://wallstreetcn.com/articles/3758424",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 07时10分]"
-        },
-        {
-          "title": "本周重磅焦点：美高院开审关税，中美经济数据，特斯拉股东大会，AMD财报",
-          "url": "https://wallstreetcn.com/articles/3758424",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时54分 ~ 13时13分]"
-        },
-        {
-          "title": "金十数据整理：下周重要事件与数据预告——中国CPI、贸易帐，英国央行利率决议；特斯拉股东大会；非农数据或会“缺席”；北美地区开始实行冬令时",
-          "url": "https://flash.jin10.com/detail/20251102213258278800",
-          "source": "金十数据",
-          "ranks": [
-            21,
-            22,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时12分 ~ 05时11分]"
-        },
-        {
-          "title": "特斯拉Optimus新进展曝光：数据采集靠雇人做家务 动捕方案或遭放弃",
-          "url": "https://www.cls.cn/detail/2189164",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时22分 ~ 13时13分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "创业板",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "上证指数早盘收报3956.72点，涨0.05%。 深证成指早盘收报13237.03点，跌1.06%。 创业板指早盘收报3143.95点，跌1.37%。 沪深300早盘收报4619.67点，跌0.45%。 科创50早盘收报1382.29点，跌2.35%。 中证500早盘收报7255.42点，跌1.03%。 中证1000早盘收报7457.64点，跌0.65%。",
@@ -762,6 +811,17 @@
           "time_info": "[11时47分 ~ 12时23分]"
         },
         {
+          "title": "创业板指午后翻红，此前一度跌超2%，沪指涨0.42%，深成指跌0.11%，海南自贸区、游戏传媒、煤炭板块涨幅居前，全市场上涨个股超3200只。",
+          "url": "https://wallstreetcn.com/livenews/2998385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
           "title": "上证指数开盘报3954.08点，跌0.02%。 深证成指开盘报13364.42点，跌0.10%。 创业板指开盘报3179.30点，跌0.26%。 沪深300开盘报4636.73点，跌0.08%。 科创50开盘报1403.46点，跌0.85%。 中证500开盘报7327.12点，跌0.05%。 中证1000开盘报7507.37点，涨0.01%。",
           "url": "https://wallstreetcn.com/livenews/2998256",
           "source": "华尔街见闻-快讯",
@@ -771,6 +831,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "本周重磅焦点：美高院开审关税，中美经济数据，特斯拉股东大会，AMD财报",
+          "url": "https://wallstreetcn.com/articles/3758424",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时54分 ~ 14时19分]"
+        },
+        {
+          "title": "下周重磅焦点：美高院开审关税，中美经济数据，特斯拉股东大会，AMD财报",
+          "url": "https://wallstreetcn.com/articles/3758424",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 07时10分]"
+        },
+        {
+          "title": "金十数据整理：下周重要事件与数据预告——中国CPI、贸易帐，英国央行利率决议；特斯拉股东大会；非农数据或会“缺席”；北美地区开始实行冬令时",
+          "url": "https://flash.jin10.com/detail/20251102213258278800",
+          "source": "金十数据",
+          "ranks": [
+            21,
+            22,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 05时11分]"
+        },
+        {
+          "title": "特斯拉Optimus新进展曝光：数据采集靠雇人做家务 动捕方案或遭放弃",
+          "url": "https://www.cls.cn/detail/2189164",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时22分 ~ 14时19分]"
         }
       ]
     },
@@ -788,8 +903,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时10分 ~ 13时13分]"
+          "appearance_count": 10,
+          "time_info": "[07时10分 ~ 14时19分]"
         },
         {
           "title": "大同通报“2万套保障房10年未完工”整改进展：已完工2486套，其余正推进",
@@ -876,11 +991,68 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时46分 ~ 12时23分]"
+          "appearance_count": 6,
+          "time_info": "[11时46分 ~ 14时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为 小米 荣耀",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "恒生指数涨幅扩大至1%，恒生科技指数涨0.45%。小鹏汽车涨超4%，小米集团涨近4%。",
+          "url": "https://wallstreetcn.com/livenews/2998371",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "香港恒生指数开盘上涨0.36%，恒生科技指数涨0.48%。明略科技上市首日开涨98.58%。蔚来、小鹏汽车涨超3%，零跑汽车、长城汽车、小米集团纷纷高开。",
+          "url": "https://wallstreetcn.com/livenews/2998254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体 芯片 集成电路",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "深成指、创业板指均跌超1%，沪指跌0.27%，贵金属、电池、半导体、PCB等方向跌幅居前，沪深京三市下跌个股超2600只。",
+          "url": "https://wallstreetcn.com/livenews/2998272",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "A股存储芯片板块午后持续回暖，香农芯创涨超5%再创新高，江波龙、北京君正、兆易创新、佰维存储、云汉芯城纷纷上扬。",
+          "url": "https://wallstreetcn.com/livenews/2998369",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         }
       ]
     },
@@ -897,8 +1069,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时31分 ~ 13时13分]"
+          "appearance_count": 8,
+          "time_info": "[10时31分 ~ 14时19分]"
         },
         {
           "title": "26 考研政治应该怎么学习呀？",
@@ -911,23 +1083,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时11分 ~ 07时10分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "华为 小米 荣耀",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "香港恒生指数开盘上涨0.36%，恒生科技指数涨0.48%。明略科技上市首日开涨98.58%。蔚来、小鹏汽车涨超3%，零跑汽车、长城汽车、小米集团纷纷高开。",
-          "url": "https://wallstreetcn.com/livenews/2998254",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
         }
       ]
     },
@@ -947,23 +1102,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时47分 ~ 13时13分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "深成指、创业板指均跌超1%，沪指跌0.27%，贵金属、电池、半导体、PCB等方向跌幅居前，沪深京三市下跌个股超2600只。",
-          "url": "https://wallstreetcn.com/livenews/2998272",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
         }
       ]
     },
@@ -998,8 +1136,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时12分 ~ 13时13分]"
+          "appearance_count": 18,
+          "time_info": "[00时12分 ~ 14时19分]"
         }
       ]
     }
