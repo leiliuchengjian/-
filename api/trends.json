@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T05:13:33.179896+08:00",
-  "total_titles_processed": 548,
+  "generated_at": "2025-11-05T06:13:01.555821+08:00",
+  "total_titles_processed": 602,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 35,
+      "match_count": 39,
       "titles": [
         {
           "title": "全球风险资产下挫：纳指100期货跌超1%，加密货币继续崩盘，金银油齐跌，美元重返100大关",
@@ -15,8 +15,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 05时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 06时13分]"
+        },
+        {
+          "title": "国际金价跌超1.7%，美股盘初一度跌穿3930美元",
+          "url": "https://wallstreetcn.com/livenews/2999422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         },
         {
           "title": "美元指数4日上涨",
@@ -25,7 +36,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
         },
@@ -36,7 +47,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
         },
@@ -188,6 +199,30 @@
           "time_info": "[03时10分 ~ 04时14分]"
         },
         {
+          "title": "周二（11月4日）纽约尾盘，美元兑日元跌0.36%，报153.67日元，亚太早盘微幅上涨、北京时间09:29刷新日高至154.48日元，随后持续走低，14:00之后持续低位震荡、18:08刷新日低至153.32日元。 欧元兑日元跌0.71%，报176.41日元；英镑兑日元跌1.30%，报200.054日元。",
+          "url": "https://wallstreetcn.com/livenews/2999389",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时13分 ~ 06时13分]"
+        },
+        {
+          "title": "周二（11月4日）纽约尾盘，ICE美元指数涨0.38%，刷新日高至100.255点，北京时间15:42微幅下跌至99.743点，随后持续走高。 彭博美元指数涨0.38%，刷新日高至1226.13点，15:32刷新日低至1220.99点之后，也持续上扬。",
+          "url": "https://wallstreetcn.com/livenews/2999387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时13分 ~ 06时13分]"
+        },
+        {
           "title": "比特币跌破102000美元/枚，创6月23日以来新低，日内跌4.31%。",
           "url": "https://flash.jin10.com/detail/20251105010335607800",
           "source": "金十数据",
@@ -248,35 +283,13 @@
           "time_info": "[02时18分 ~ 03时10分]"
         },
         {
-          "title": "周二（11月4日）纽约尾盘，美元兑日元跌0.36%，报153.67日元，亚太早盘微幅上涨、北京时间09:29刷新日高至154.48日元，随后持续走低，14:00之后持续低位震荡、18:08刷新日低至153.32日元。 欧元兑日元跌0.71%，报176.41日元；英镑兑日元跌1.30%，报200.054日元。",
-          "url": "https://wallstreetcn.com/livenews/2999389",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时13分"
-        },
-        {
           "title": "美元兑加元USD/CAD站上1.41，日内涨0.32%。",
           "url": "https://flash.jin10.com/detail/20251105035246237800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时13分"
-        },
-        {
-          "title": "周二（11月4日）纽约尾盘，ICE美元指数涨0.38%，刷新日高至100.255点，北京时间15:42微幅下跌至99.743点，随后持续走高。 彭博美元指数涨0.38%，刷新日高至1226.13点，15:32刷新日低至1220.99点之后，也持续上扬。",
-          "url": "https://wallstreetcn.com/livenews/2999387",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
         },
@@ -287,7 +300,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
         },
@@ -309,9 +322,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
+        },
+        {
+          "title": "大型加密货币暴跌，以太坊跌破3100美元，跌幅达14%；比特币跌超7%，接近下破9.9万美元关口。",
+          "url": "https://flash.jin10.com/detail/20251105053556010800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         },
         {
           "title": "市场消息：尼日利亚计划最早于本周发行23亿美元的欧洲债券。",
@@ -331,7 +355,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
         },
@@ -356,6 +380,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "加拿大政府赤字预期公布后，美元兑加元USD/CAD小幅走高。",
+          "url": "https://flash.jin10.com/detail/20251105051139748800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         },
         {
           "title": "微软“新云”交易额超600亿美元",
@@ -411,6 +446,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "韩国10月外汇储备 4288.2亿美元，前值4220.2亿美元。",
+          "url": "https://flash.jin10.com/detail/20251105050002157800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         }
       ]
     },
@@ -427,8 +473,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 05时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 06时13分]"
         },
         {
           "title": "AI泡沫忧虑升温 美股期指集体走低 Palantir盘前重挫8% | 今夜看点",
@@ -440,8 +486,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 05时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 06时13分]"
         },
         {
           "title": "韩国总统警告“国家生存危机”，要求将AI支出规模增至3倍",
@@ -454,8 +500,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 05时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 06时13分]"
         },
         {
           "title": "原神AI重制短片",
@@ -467,11 +513,12 @@
             19,
             20,
             6,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 05时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 06时13分]"
         },
         {
           "title": "美ICU宰客19万,AI揭底秒修复",
@@ -481,8 +528,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 05时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 06时13分]"
         },
         {
           "title": "AI养老的真正任务：让老人不必退场",
@@ -493,8 +540,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 05时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 06时13分]"
         },
         {
           "title": "AI还原福建舰电磁弹射全过程",
@@ -505,11 +552,12 @@
             18,
             15,
             14,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 05时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 06时13分]"
         },
         {
           "title": "【微软“新云”交易额超600亿美元】微软公司已向多家“新云”（neocloud）数据中心公司投入超过600亿美元，以寻找足够的算力来满足其AI需求。该公司与Nscale的协议将使微软能够在其位于多个地点的站点使用大约20万个英伟达最新的GB300芯片。 自10月初以来，微软对“新云”公司的支出承诺大约翻了一番，该公司周一宣布了两项总计超过100亿美元的新承诺。",
@@ -546,6 +594,30 @@
           "time_info": "[04时14分 ~ 05时13分]"
         },
         {
+          "title": "卡特彼勒将把燃气轮机产能翻倍，以满足AI热潮的需求",
+          "url": "https://wallstreetcn.com/livenews/2999390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时13分 ~ 06时13分]"
+        },
+        {
+          "title": "投资者重新估值AI市场，美债收益率普遍跌超2个基点",
+          "url": "https://wallstreetcn.com/livenews/2999388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时13分 ~ 06时13分]"
+        },
+        {
           "title": "亚马逊发函，要求Perplexity AI停止用AI agent进行购物",
           "url": "https://wallstreetcn.com/livenews/2999349",
           "source": "华尔街见闻-快讯",
@@ -570,17 +642,6 @@
           "time_info": "[01时10分 ~ 02时18分]"
         },
         {
-          "title": "卡特彼勒将把燃气轮机产能翻倍，以满足AI热潮的需求",
-          "url": "https://wallstreetcn.com/livenews/2999390",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时13分"
-        },
-        {
           "title": "Palantir电话会：AI带来“非凡增长”、“40法则”罕见破百，CEO炮轰华尔街“我们交出软件公司史上最佳业绩，而你们一直看错”！",
           "url": "https://wallstreetcn.com/articles/3758602",
           "source": "华尔街见闻",
@@ -592,24 +653,13 @@
           "time_info": "00时17分"
         },
         {
-          "title": "投资者重新估值AI市场，美债收益率普遍跌超2个基点",
-          "url": "https://wallstreetcn.com/livenews/2999388",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时13分"
-        },
-        {
           "title": "OpenAI针对安卓设备推出Sora，美国、加拿大、日本、泰国等地的Google Play用户将能够首先使用。",
           "url": "https://wallstreetcn.com/livenews/2999380",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
         },
@@ -620,7 +670,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
         }
@@ -628,7 +678,7 @@
     },
     {
       "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "2026款比亚迪夏上市",
@@ -643,8 +693,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 05时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 06时13分]"
         },
         {
           "title": "美国一特斯拉打不开车门 5人被烧死",
@@ -654,8 +704,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 05时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 06时13分]"
         },
         {
           "title": "标普500指数初步收跌约1.2%，科技板块跌2.2%，可选消费与电信板块跌1.7%。 纳斯达克100指数初步收跌约2.1%，成分股中，Palantir跌8.6%，CDW跌8.1%，美光科技跌7.1%，MSTR跌6.9%，新思科技与英特尔跌超6%，特斯拉跌4.6%，万豪国际则涨3.1%。 卡特彼勒初步收跌4.1%，英伟达跌4%，思科、波音、Salesforce、亚马逊至少跌1.8%，领跌道指成分股，家得宝则涨1.2%，Merck涨1.5%，Travelers Companies Inc.涨3.6%。 AI概念股中，SoundHound跌12%，Serve Robotics跌9.9%，Palantir跌8.6%，C3.ai跌7.6%，CoreWeave跌7.4%，英特尔跌6.1%。 半导体指数跌3.99%。",
@@ -664,7 +714,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
         },
@@ -747,9 +797,173 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
+        },
+        {
+          "title": "市场消息：嘉信理财将支持马斯克在特斯拉的1万亿美元薪酬方案。",
+          "url": "https://flash.jin10.com/detail/20251105045858317800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英伟达 台积电 AMD 高通",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "据天空新闻：英伟达CEO黄仁勋将与英国科技大臣莉兹·肯德尔会面。",
+          "url": "https://flash.jin10.com/detail/20251105012807101800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 03时10分]"
+        },
+        {
+          "title": "英伟达CEO黄仁勋将会见英国科技大臣Liz Kendall。（英国天空新闻）",
+          "url": "https://wallstreetcn.com/livenews/2999338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 03时10分]"
+        },
+        {
+          "title": "AMD(AMD.O)盘后走弱，跌超3%。",
+          "url": "https://flash.jin10.com/detail/20251105052751985800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "AMD第四季度营收指引高于预期",
+          "url": "https://flash.jin10.com/detail/20251105052518936800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "AMD(AMD.O)2025年Q3营收92.46亿美元，去年同期68.19亿美元，市场预期87.4亿美元。AMD预计第四季度营收96亿美元。",
+          "url": "https://flash.jin10.com/detail/20251105051623431800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "Palantir的CEO Alex Karp反击，称“大空头”Michael Burry做空该公司和英伟达“是疯狂的”。",
+          "url": "https://wallstreetcn.com/livenews/2999270",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "就业 裁员 招聘",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "35岁后的就业方向",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D35%E5%B2%81%E5%90%8E%E7%9A%84%E5%B0%B1%E4%B8%9A%E6%96%B9%E5%90%91&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D35%25E5%25B2%2581%25E5%2590%258E%25E7%259A%2584%25E5%25B0%25B1%25E4%25B8%259A%25E6%2596%25B9%25E5%2590%2591%26cate%3D5001%26pos%3D17%26realpos%3D16%26stream_entry_id%3D31%26flag%3D1%26band_rank%3D16%26filter_type%3Drealtimehot%26lcate%3D5001%26dgr%3D0%26c_type%3D31%26display_time%3D1762272431%26pre_seqid%3D17622724311670341041936&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            16,
+            17,
+            19,
+            18,
+            25,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 06时13分]"
+        },
+        {
+          "title": "新西兰第三季度就业人数季率 0%，预期0.10%，前值-0.10%。",
+          "url": "https://flash.jin10.com/detail/20251105054502662800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "新西兰第三季度就业参与率 70.3%，预期70.50%，前值70.50%。",
+          "url": "https://flash.jin10.com/detail/20251105054502663800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "新西兰三季度失业率创九年新高。 三季度就业人口季环比持平，预期增长0.1%。",
+          "url": "https://wallstreetcn.com/livenews/2999418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "IBM将在四季度裁员（至少）数千人，公司重心将继续朝着高速增长的软件与服务倾斜。",
+          "url": "https://wallstreetcn.com/livenews/2999356",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时10分 ~ 04时14分]"
+        },
+        {
+          "title": "就业网站Indeed数据显示，美国10月职位空缺下滑至2021年4月份以来最低。",
+          "url": "https://wallstreetcn.com/livenews/2999383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时13分 ~ 06时13分]"
         }
       ]
     },
@@ -769,8 +983,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 05时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 06时13分]"
         },
         {
           "title": "纳指跌幅扩大至2%，标普500指数跌1.2%，半导体指数跌3.3%。特斯拉跌4.7%，苹果目前涨0.48%。",
@@ -818,6 +1032,71 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时18分 ~ 03时10分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体 芯片 集成电路",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "商务部回应安世半导体磋商进展，称全球半导体产供链的动荡混乱，荷方应承担全部责任，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1969042065313726709",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 06时13分]"
+        },
+        {
+          "title": "商务部回应安世半导体磋商进展：荷方应承担全部责任",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31889089",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 06时13分]"
+        },
+        {
+          "title": "半导体ETF收跌超3.6%，与航空业ETF领跌美股行业ETF，标普科技板块跌约2.3%",
+          "url": "https://wallstreetcn.com/livenews/2999413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "标普500指数收跌80.42点，跌幅1.17%，报6771.55点。 道琼斯工业平均指数收跌251.44点，跌幅0.53%，报47085.24点。 纳斯达克综合指数（纳指）收跌486.087点，跌幅2.04%，报23348.637点。 纳斯达克100指数收跌537.239点，跌幅2.07%，报25435.704点。 纳斯达克科技市值加权指数收跌2.54%，报2340.0325点。 纳斯达克生物科技指数收跌1.00%，报5246.62点。 罗素2000指数收跌1.78%，报2340.0325点。 费城半导体指数收跌4.01%，报6979.573点。 费城证交所KBW银行指数收跌0.14%，报149.45点。 道琼斯KBW地区银行指数收跌0.42%，报115.28点。 恐慌指数VIX收涨10.83%，报19.03。",
+          "url": "https://wallstreetcn.com/livenews/2999393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "行业ETF美股盘初普遍下跌，半导体ETF大跌2.32%，全球科技股指数ETF跌2.16%，科技行业ETF跌2.13%，网络股指数ETF跌1.76%，能源业ETF跌1.75%。",
+          "url": "https://wallstreetcn.com/livenews/2999272",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时17分"
         }
       ]
     },
@@ -897,11 +1176,12 @@
           "ranks": [
             26,
             12,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 05时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 06时13分]"
         },
         {
           "title": "网友买高铁靠窗座位却遇“面壁座”",
@@ -911,11 +1191,12 @@
             16,
             17,
             15,
-            23
+            23,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时18分 ~ 05时13分]"
+          "appearance_count": 8,
+          "time_info": "[02时18分 ~ 06时13分]"
         },
         {
           "title": "深圳地铁回应小猪标识用途",
@@ -932,136 +1213,8 @@
       ]
     },
     {
-      "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "商务部回应安世半导体磋商进展，称全球半导体产供链的动荡混乱，荷方应承担全部责任，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1969042065313726709",
-          "source": "知乎",
-          "ranks": [
-            7,
-            6,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 05时13分]"
-        },
-        {
-          "title": "商务部回应安世半导体磋商进展：荷方应承担全部责任",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31889089",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 05时13分]"
-        },
-        {
-          "title": "行业ETF美股盘初普遍下跌，半导体ETF大跌2.32%，全球科技股指数ETF跌2.16%，科技行业ETF跌2.13%，网络股指数ETF跌1.76%，能源业ETF跌1.75%。",
-          "url": "https://wallstreetcn.com/livenews/2999272",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英伟达 台积电 AMD 高通",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "据天空新闻：英伟达CEO黄仁勋将与英国科技大臣莉兹·肯德尔会面。",
-          "url": "https://flash.jin10.com/detail/20251105012807101800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 03时10分]"
-        },
-        {
-          "title": "英伟达CEO黄仁勋将会见英国科技大臣Liz Kendall。（英国天空新闻）",
-          "url": "https://wallstreetcn.com/livenews/2999338",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 03时10分]"
-        },
-        {
-          "title": "Palantir的CEO Alex Karp反击，称“大空头”Michael Burry做空该公司和英伟达“是疯狂的”。",
-          "url": "https://wallstreetcn.com/livenews/2999270",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "就业 裁员 招聘",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "35岁后的就业方向",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D35%E5%B2%81%E5%90%8E%E7%9A%84%E5%B0%B1%E4%B8%9A%E6%96%B9%E5%90%91&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D35%25E5%25B2%2581%25E5%2590%258E%25E7%259A%2584%25E5%25B0%25B1%25E4%25B8%259A%25E6%2596%25B9%25E5%2590%2591%26cate%3D5001%26pos%3D17%26realpos%3D16%26stream_entry_id%3D31%26flag%3D1%26band_rank%3D16%26filter_type%3Drealtimehot%26lcate%3D5001%26dgr%3D0%26c_type%3D31%26display_time%3D1762272431%26pre_seqid%3D17622724311670341041936&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            16,
-            17,
-            19,
-            18,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 05时13分]"
-        },
-        {
-          "title": "IBM将在四季度裁员（至少）数千人，公司重心将继续朝着高速增长的软件与服务倾斜。",
-          "url": "https://wallstreetcn.com/livenews/2999356",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 04时14分]"
-        },
-        {
-          "title": "就业网站Indeed数据显示，美国10月职位空缺下滑至2021年4月份以来最低。",
-          "url": "https://wallstreetcn.com/livenews/2999383",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时13分"
-        }
-      ]
-    },
-    {
       "keyword_group": "华为 小米 荣耀",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "纳斯达克金龙中国指数初步收跌约2%。 热门中概股里，文远知行初步收跌13.7%，小马智行跌11.2%，小米ADR跌4.7%，小鹏、蔚来、台积电、美团ADR、理想跌超3%，华住、百胜中国则至多涨约2%，百度涨3.3%。 ETF中，KWEB初步收跌2.1%，CQQQ跌1.7%。",
@@ -1070,9 +1223,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌2.05%，报8125.31点。 热门中概股里，文远知行初步收跌13.7%，小马智行跌11.2%，小米ADR跌4.7%，小鹏、蔚来、台积电、美团ADR、理想跌超3%，华住、百胜中国则至多涨约2%，百度涨3.3%。 ETF中，中概互联网指数ETF（KWEB）收跌2.25%，中国科技指数ETF（CQQQ）收跌1.79%。 XtrackersHarvest中证50（ASHS）收跌1.91%，德银嘉实沪深300指数ETF（ASHR）收跌1.24%。 富时中国3倍做多ETF（YINN）收跌3.40%。",
+          "url": "https://wallstreetcn.com/livenews/2999395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         }
       ]
     },
@@ -1095,6 +1259,23 @@
       ]
     },
     {
+      "keyword_group": "大学生 毕业生",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "大学生回乡参加朋友婚礼意外坠坝身亡",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9B%9E%E4%B9%A1%E5%8F%82%E5%8A%A0%E6%9C%8B%E5%8F%8B%E5%A9%9A%E7%A4%BC%E6%84%8F%E5%A4%96%E5%9D%A0%E5%9D%9D%E8%BA%AB%E4%BA%A1%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D26%26c_type%3D31%26cate%3D5001%26band_rank%3D26%26stream_entry_id%3D31%26dgr%3D0%26q%3D%2523%25E5%25A4%25A7%25E5%25AD%25A6%25E7%2594%259F%25E5%259B%259E%25E4%25B9%25A1%25E5%258F%2582%25E5%258A%25A0%25E6%259C%258B%25E5%258F%258B%25E5%25A9%259A%25E7%25A4%25BC%25E6%2584%258F%25E5%25A4%2596%25E5%259D%25A0%25E5%259D%259D%25E8%25BA%25AB%25E4%25BA%25A1%2523%26flag%3D0%26realpos%3D26%26lcate%3D5001%26filter_type%3Drealtimehot%26display_time%3D1762293229%26pre_seqid%3D17622932290320341169755&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时12分 ~ 06时13分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "双十一 618 电商 优惠券",
       "match_count": 1,
       "titles": [
@@ -1103,11 +1284,12 @@
           "url": "https://www.toutiao.com/trending/7568124704620789766/",
           "source": "今日头条",
           "ranks": [
-            26
+            26,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时18分 ~ 05时13分]"
+          "appearance_count": 7,
+          "time_info": "[02时18分 ~ 06时13分]"
         }
       ]
     }
