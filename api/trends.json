@@ -1,22 +1,45 @@
 {
-  "generated_at": "2025-11-06T01:12:24.544360+08:00",
-  "total_titles_processed": 394,
+  "generated_at": "2025-11-06T02:17:02.327251+08:00",
+  "total_titles_processed": 448,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
-          "title": "美、布两油短线走低0.5美元，现报59.73美元/桶和63.74美元/桶。",
-          "url": "https://flash.jin10.com/detail/20251106004627366800",
-          "source": "金十数据",
+          "title": "LME期铜收涨34美元，报10698美元/吨。 LME期铝收跌9美元，报2850美元/吨。 LME期锌收跌46美元，报3043美元/吨。 LME期铅收跌4美元，报2020美元/吨。 LME期镍收跌40美元，报15035美元/吨。 LME期锡收跌165美元，报35649美元/吨。 LME期钴收平，报48570美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3000054",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时12分"
+          "time_info": "02时17分"
+        },
+        {
+          "title": "周三（11月5日），韩元兑美元最终跌0.05%，报1441.09韩元，北京时间14:29曾跌至1449.53韩元刷新日低。",
+          "url": "https://wallstreetcn.com/livenews/3000049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
+        {
+          "title": "美、布两油短线走低0.5美元，现报59.73美元/桶和63.74美元/桶。",
+          "url": "https://flash.jin10.com/detail/20251106004627366800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时12分 ~ 02时17分]"
         },
         {
           "title": "美国纽约联储发布家庭债务季度报告：美国三季度家庭债务增长1.1%，至18.59万亿美元。 消费者债务拖欠率创2020年一季度以来新高。 学生贷款逾期率上升至14.4%，创历史新高。",
@@ -78,13 +101,35 @@
           "time_info": "00时17分"
         },
         {
+          "title": "WTI原油日内下跌1.00%，现报59.65美元/桶。",
+          "url": "https://flash.jin10.com/detail/20251106010447677800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
+        {
+          "title": "现货黄金一度向上触及3990美元/盎司，日内涨1.48%。",
+          "url": "https://flash.jin10.com/detail/20251106005548194800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
+        {
           "title": "派杰投资：麦当劳(MCD.N)目标价从325美元下调至323美元。",
           "url": "https://flash.jin10.com/detail/20251106000900622800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
         },
@@ -95,7 +140,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
         },
@@ -117,7 +162,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
         },
@@ -128,7 +173,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
         }
@@ -136,7 +181,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
         {
           "title": "一图看懂 | AI产业链，哪些环节是“耗电大户”？",
@@ -146,8 +191,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 01时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 02时17分]"
         },
         {
           "title": "温峥嵘被AI温峥嵘拉黑",
@@ -158,8 +203,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 01时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 02时17分]"
         },
         {
           "title": "谷歌：Gemini深度搜索现已可连接Gmail、文档、云端硬盘甚至聊天。",
@@ -168,7 +213,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
         },
@@ -180,8 +225,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 01时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 02时17分]"
         },
         {
           "title": "美ICU宰客19万,AI揭底秒修复",
@@ -192,58 +237,117 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 01时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 02时17分]"
         },
         {
           "title": "Mosaic：玉米和大豆价格的复苏应当有助于化肥的应用。",
           "url": "https://wallstreetcn.com/livenews/3000019",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时12分 ~ 02时17分]"
+        },
+        {
+          "title": "谷歌：Chrome浏览器中的AI模式快捷方式即将扩展至160个新的国家和地区，并支持包括印地语、印尼语、日语、韩语、葡萄牙语等更多语言。",
+          "url": "https://flash.jin10.com/detail/20251106010654630800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
+        {
+          "title": "谷歌：即日起在美国推出以下功能——在Chrome浏览器中打开“新建标签页”时，搜索栏下方将新增一个AI模式按钮。",
+          "url": "https://flash.jin10.com/detail/20251106010550622800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
+        {
+          "title": "谷歌：在Chrome浏览器中打开“新建标签页”时，搜索栏下方将新增一个AI模式按钮",
+          "url": "https://wallstreetcn.com/livenews/3000038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
+        {
+          "title": "谷歌：Gemini深度搜索现已可连接Gmail、文档、云端硬盘甚至聊天。",
+          "url": "https://flash.jin10.com/detail/20251106010421100800",
+          "source": "金十数据",
+          "ranks": [
             16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时12分"
+          "time_info": "02时17分"
         }
       ]
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "瑞士央行理事会成员楚丁：今年瑞士法郎实际升值了。当今的一大挑战是美国关税，这加剧了全球的不确定性。",
           "url": "https://flash.jin10.com/detail/20251106004426898800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时12分 ~ 02时17分]"
         },
         {
           "title": "英国央行副行长布里登：美国和英国在稳定币监管上保持同步非常重要。",
           "url": "https://flash.jin10.com/detail/20251106003320993800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时12分 ~ 02时17分]"
         },
         {
           "title": "瑞士央行官员Petra Tschudin：央行货币政策是宽松的。",
           "url": "https://wallstreetcn.com/livenews/3000030",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时12分 ~ 02时17分]"
+        },
+        {
+          "title": "惠誉：尽管加拿大央行降息，加拿大消费前景依然疲软。",
+          "url": "https://flash.jin10.com/detail/20251106012905935800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时12分"
+          "time_info": "02时17分"
         },
         {
           "title": "美联储理事米兰：认为继续降息仍然是合理的。",
@@ -252,7 +356,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
         },
@@ -262,6 +366,68 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体 芯片 集成电路",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "纳斯达克100指数涨超1%，成分股美光科技涨8.3%，安进涨7.8%，迈威尔科技涨6.1%；铿腾电子则跌2.2%，Palantir跌2.6%，Axon仍然跌11.1%。 标普500指数涨0.85%，道指涨371点涨幅0.8%，纳斯达克综合指数涨1.04%。 费城半导体指数涨3.15%，银行指数涨0.98%，生物科技指数涨1.90%。",
+          "url": "https://wallstreetcn.com/livenews/3000051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
+        {
+          "title": "ASML：半导体产业开放合作是主流",
+          "url": "https://www.toutiao.com/trending/7568849695255511081/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 02时17分]"
+        },
+        {
+          "title": "全球半导体产业陷材料资源困局",
+          "url": "https://www.toutiao.com/trending/7569242817906609715/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 02时17分]"
+        },
+        {
+          "title": "标普500指数涨0.35%，道指微跌，纳指涨0.61%，半导体指数涨2.45%。 美国最高法院似乎怀疑总统特朗普关税的合法性。",
+          "url": "https://wallstreetcn.com/livenews/3000015",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        },
+        {
+          "title": "标普500指数涨0.25%，纳指涨0.42%，半导体指数涨2.2%。 美国10年期国债收益率短线从4.12%附近拉升至4.14%上方，日内整体涨幅超过5个基点。 两年期美债收益率从3.59%附近“跳空”拉升至3.62%上方，日内涨超4个基点。",
+          "url": "https://wallstreetcn.com/livenews/2999987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -315,7 +481,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
         },
@@ -326,46 +492,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "标普500指数涨0.35%，道指微跌，纳指涨0.61%，半导体指数涨2.45%。 美国最高法院似乎怀疑总统特朗普关税的合法性。",
-          "url": "https://wallstreetcn.com/livenews/3000015",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "标普500指数涨0.25%，纳指涨0.42%，半导体指数涨2.2%。 美国10年期国债收益率短线从4.12%附近拉升至4.14%上方，日内整体涨幅超过5个基点。 两年期美债收益率从3.59%附近“跳空”拉升至3.62%上方，日内涨超4个基点。",
-          "url": "https://wallstreetcn.com/livenews/2999987",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        },
-        {
-          "title": "ASML：半导体产业开放合作是主流",
-          "url": "https://www.toutiao.com/trending/7568849695255511081/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "01时12分"
         }
@@ -384,19 +511,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 01时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 02时17分]"
         },
         {
           "title": "美国参议院民主党领导人Schumer：与纽约州Mamdani进行了非常不错的沟通。 我们同意共同解决（纽约州的）高成本问题。",
           "url": "https://wallstreetcn.com/livenews/3000037",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时12分 ~ 02时17分]"
         },
         {
           "title": "Palantir CEO怒怼“大空头”：做空英伟达和Palantir “简直是疯了”",
@@ -420,11 +548,12 @@
           "url": "https://www.douyin.com/hot/2295268",
           "source": "抖音",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 01时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 02时17分]"
         },
         {
           "title": "第一财经再出手,痛击小米销量惨淡",
@@ -434,8 +563,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 01时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 02时17分]"
         }
       ]
     },
@@ -448,11 +577,12 @@
           "url": "https://wallstreetcn.com/livenews/3000033",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            15,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时12分 ~ 02时17分]"
         }
       ]
     },
@@ -487,8 +617,42 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 01时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 02时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "瑞士央行理事会成员楚丁：预计在当前利率水平下，通胀将处于理想区间。",
+          "url": "https://flash.jin10.com/detail/20251106010014521800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大学生 毕业生",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "校长教过的优秀毕业生",
+          "url": "https://search.bilibili.com/all?keyword=%E6%A0%A1%E9%95%BF%E6%95%99%E8%BF%87%E7%9A%84%E4%BC%98%E7%A7%80%E6%AF%95%E4%B8%9A%E7%94%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 02时17分]"
         }
       ]
     }
