@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T17:12:55.700183+08:00",
-  "total_titles_processed": 1581,
+  "generated_at": "2025-11-07T18:14:14.099792+08:00",
+  "total_titles_processed": 1695,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 68,
+      "match_count": 70,
       "titles": [
         {
           "title": "【早报】马斯克“万亿美元薪酬”计划获批准；中国将对部分稀土元素发放一般性出口许可证？商务部回应",
@@ -92,7 +92,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时12分"
         },
@@ -424,6 +424,17 @@
           "time_info": "05时11分"
         },
         {
+          "title": "布伦特原油站上64美元/桶，日内涨1.26%。",
+          "url": "https://flash.jin10.com/detail/20251107173443396800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
           "title": "Draftkings预计全年营收59亿-61亿美元，公司原本预计62亿-64亿美元。",
           "url": "https://wallstreetcn.com/livenews/3000754",
           "source": "华尔街见闻-快讯",
@@ -562,9 +573,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时12分"
+        },
+        {
+          "title": "中国三季度经常帐初值 1956亿美元，前值 1287亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3001136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         },
         {
           "title": "WTI原油站上60美元/桶，日内涨1%。布伦特原油日内涨超1%，现报63.96美元/桶。",
@@ -606,7 +628,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时12分"
         },
@@ -628,7 +650,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时12分"
         },
@@ -661,7 +683,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时12分"
         },
@@ -672,7 +694,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时12分"
         },
@@ -778,466 +800,8 @@
       ]
     },
     {
-      "keyword_group": "人工智能 AI",
-      "match_count": 38,
-      "titles": [
-        {
-          "title": "美股收盘：OpenAI高管言论引发风暴 纳指跌近2%",
-          "url": "https://www.cls.cn/detail/2193628",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时12分 ~ 15时13分]"
-        },
-        {
-          "title": "AI革命加速裁员潮！美国10月挑战者企业裁员人数同比暴增175.3%，创二十年同期最高纪录",
-          "url": "https://wallstreetcn.com/articles/3758820",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时14分 ~ 17时12分]"
-        },
-        {
-          "title": "直指英伟达！报道称谷歌将推出最强AI芯片TPU Ironwood，性能提升四倍，获Anthropic大单",
-          "url": "https://wallstreetcn.com/articles/3758839",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[06时11分 ~ 17时12分]"
-        },
-        {
-          "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
-          "url": "https://www.cls.cn/detail/2193718",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            9,
-            10,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时26分 ~ 17时12分]"
-        },
-        {
-          "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
-          "url": "https://wallstreetcn.com/articles/3758853",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时26分 ~ 17时12分]"
-        },
-        {
-          "title": "黄仁勋“炸鸡啤酒会面”背后：韩国欲跻身“AI三大强国”，但须借力美国",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31909806",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            12,
-            13,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时39分 ~ 17时12分]"
-        },
-        {
-          "title": "OpenAI高管言论引风暴 纳指跌近2%",
-          "url": "https://www.baidu.com/s?wd=OpenAI%E9%AB%98%E7%AE%A1%E8%A8%80%E8%AE%BA%E5%BC%95%E9%A3%8E%E6%9A%B4+%E7%BA%B3%E6%8C%87%E8%B7%8C%E8%BF%912%25",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时52分 ~ 12时15分]"
-        },
-        {
-          "title": "英国央行行长贝利：我现在认为通胀风险更加平衡。要提振市场信心，必须让私人市场更加透明。人工智能可能是下一个提升生产力的关键因素，也可能是一个泡沫。",
-          "url": "https://flash.jin10.com/detail/20251107000255306800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "国办：打造一批新领域新赛道应用场景，加强人工智能领域关键核心技术攻关和推广应用",
-          "url": "https://wallstreetcn.com/livenews/3001120",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时12分"
-        },
-        {
-          "title": "抖音回应温峥嵘被AI盗播",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%8A%96%E9%9F%B3%E5%9B%9E%E5%BA%94%E6%B8%A9%E5%B3%A5%E5%B5%98%E8%A2%ABAI%E7%9B%97%E6%92%AD%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26pos%3D25%26flag%3D1%26lcate%3D5001%26band_rank%3D24%26c_type%3D31%26stream_entry_id%3D31%26dgr%3D0%26q%3D%2523%25E6%258A%2596%25E9%259F%25B3%25E5%259B%259E%25E5%25BA%2594%25E6%25B8%25A9%25E5%25B3%25A5%25E5%25B5%2598%25E8%25A2%25ABAI%25E7%259B%2597%25E6%2592%25AD%2523%26cate%3D5001%26realpos%3D24%26display_time%3D1762466731%26pre_seqid%3D176246673187907157491&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            24,
-            17,
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时11分 ~ 10时26分]"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：我们既没有也不想要政府为OpenAI数据中心提供担保。",
-          "url": "https://flash.jin10.com/detail/20251107032640209800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时15分 ~ 05时11分]"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：OpenAI的数据中心并无政府担保。曾讨论过提供贷款担保以支持半导体制造厂建设。",
-          "url": "https://flash.jin10.com/detail/20251107032614746800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时15分 ~ 05时11分]"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：预计今年的年化收入将达到200亿美元以上，到2030年预计将增长至数千亿美元。",
-          "url": "https://flash.jin10.com/detail/20251107032458905800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时15分 ~ 05时11分]"
-        },
-        {
-          "title": "AI泡沫担忧隐现，OpenAI创始人谈营收和投资承诺",
-          "url": "https://flash.jin10.com/detail/20251107043817547800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时11分 ~ 06时11分]"
-        },
-        {
-          "title": "日本最大科技基金：AI股票仍有上涨空间，并非处于泡沫阶段",
-          "url": "https://flash.jin10.com/detail/20251107112904774800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 12时15分]"
-        },
-        {
-          "title": "市场消息：英伟达(NVDA.O)与哈萨克斯坦签署谅解备忘录，将为其提供价值高达20亿美元的先进人工智能芯片。",
-          "url": "https://flash.jin10.com/detail/20251107043718600800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时11分 ~ 06时11分]"
-        },
-        {
-          "title": "OpenAI的CEO Sam Altman：在OpenAI数据中心问题上，并没有获得美国政府的（资金）担保。 讨论过通过（寻求）贷款担保来支持美国半导体晶圆（的可行性）。",
-          "url": "https://wallstreetcn.com/livenews/3000723",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时15分 ~ 05时11分]"
-        },
-        {
-          "title": "阿里巴巴CEO吴泳铭：AI发展将经历三个阶段 加大投入打造超级AI云",
-          "url": "https://wallstreetcn.com/livenews/3000946",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 13时12分]"
-        },
-        {
-          "title": "甲骨文万亿市值幻梦一场：AI狂欢的背后，风险已成“房间里的大象”",
-          "url": "https://www.cls.cn/detail/2194008",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 17时12分]"
-        },
-        {
-          "title": "在美国及大型科技公司施压下，欧盟考虑暂停《人工智能法案》部分条款的实施。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3000980",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时19分 ~ 15时13分]"
-        },
-        {
-          "title": "白宫人工智能事务负责人萨克斯：美国至少有5家主要的人工智能前沿模型公司。如果有一家失败了，其他公司会取而代之。",
-          "url": "https://flash.jin10.com/detail/20251107013905662800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 03时10分]"
-        },
-        {
-          "title": "高通CEO Cristiano Amon：汽车是（本公司业务中）当前增速最快的领域。 对个人AI设备的前景“非常乐观”。（彭博电视）",
-          "url": "https://wallstreetcn.com/livenews/3000659",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 02时18分]"
-        },
-        {
-          "title": "美联储哈玛克：人工智能是一种结构性经济变革，不太适合通过货币政策来应对。",
-          "url": "https://flash.jin10.com/detail/20251107013445448800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 03时10分]"
-        },
-        {
-          "title": "知名投资人麦朴思：人工智能股票料将回调，因为企业支出过高。",
-          "url": "https://wallstreetcn.com/livenews/3000958",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时12分 ~ 14时19分]"
-        },
-        {
-          "title": "欧盟拟推迟人工智能法案部分内容实施",
-          "url": "https://flash.jin10.com/detail/20251107132838808800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "中国台湾10月出口狂增近50% AI需求与电子新品拉货共同发酵",
-          "url": "https://wallstreetcn.com/livenews/3001112",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时12分"
-        },
-        {
-          "title": "创业板指跌超1%，沪指跌0.19%，深成指跌0.73%，CPO、AI芯片、量子科技、PCB等方向跌幅居前，沪深京三市下跌个股超3100只。",
-          "url": "https://wallstreetcn.com/livenews/3000863",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "工信部：扎实推进人工智能产业高质量发展 推动人工智能更好服务全球发展、增进人类福祉",
-          "url": "https://wallstreetcn.com/livenews/3001067",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时18分"
-        },
-        {
-          "title": "新兴市场教父麦朴思：人工智能股票料将回调，因为企业支出过高。",
-          "url": "https://flash.jin10.com/detail/20251107121644538800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时12分"
-        },
-        {
-          "title": "黄仁勋、杨立昆等多位大佬发声：与人类智慧媲美的AI技术已经到来",
-          "url": "https://www.cls.cn/detail/2193935",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时12分"
-        },
-        {
-          "title": "市场消息：谷歌将在澳大利亚位于印度洋的一个小前哨基地建设新的人工智能数据中心。",
-          "url": "https://flash.jin10.com/detail/20251107130634244800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "据英国金融时报：面对美国和大型科技公司的压力，欧盟正考虑暂停其具有里程碑意义的《人工智能法案》的部分内容。",
-          "url": "https://flash.jin10.com/detail/20251107130201422800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "韩国人工智能初创企业Upstage筹备首次公开募股事宜。",
-          "url": "https://flash.jin10.com/detail/20251107093435383800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-11-07）",
-          "url": "https://flash.jin10.com/detail/20251107115927369800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时12分"
-        },
-        {
-          "title": "新西兰联储委员会成员Prasanna Gai将于11月14日讲话。",
-          "url": "https://wallstreetcn.com/livenews/3000772",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "AI伪造巴菲特发言 伯克希尔发布澄清",
-          "url": "https://flash.jin10.com/detail/20251107073927545800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "美联储威廉姆斯：人工智能在劳动力市场方面会存在一些问题。",
-          "url": "https://flash.jin10.com/detail/20251107012625411800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "高通(QCOM.O)CEO：汽车是（本公司业务中）当前增速最快的领域。对个人AI设备的前景“非常乐观”。",
-          "url": "https://flash.jin10.com/detail/20251107001704444800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        }
-      ]
-    },
-    {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 37,
+      "match_count": 42,
       "titles": [
         {
           "title": "美国就业形势严峻引发降息预期，美股指数集体低开低走，美元承压，黄金短线下挫，美债走高",
@@ -1253,17 +817,6 @@
           "time_info": "[00时14分 ~ 06时11分]"
         },
         {
-          "title": "周四（11月6日），降息赢家指数跌1.63%，报94.02点。 “特朗普关税输家”指数跌3.69%，报101.61点。",
-          "url": "https://wallstreetcn.com/livenews/3000794",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
           "title": "财联社C50风向指数调查：年末资金大概率延续平稳宽松，本轮国债买卖重启后四季度降准概率降低",
           "url": "https://www.cls.cn/detail/2194003",
           "source": "财联社热门",
@@ -1273,8 +826,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时13分 ~ 17时12分]"
+          "appearance_count": 5,
+          "time_info": "[15时13分 ~ 18时14分]"
+        },
+        {
+          "title": "周四（11月6日），降息赢家指数跌1.63%，报94.02点。 “特朗普关税输家”指数跌3.69%，报101.61点。",
+          "url": "https://wallstreetcn.com/livenews/3000794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         },
         {
           "title": "印度央行行长：以金融不稳定为代价实现的短期增长，可能对长期增长产生影响。",
@@ -1430,6 +994,17 @@
           "time_info": "[04时15分 ~ 05时11分]"
         },
         {
+          "title": "央行：10月末黄金储备报7409万盎司",
+          "url": "https://www.toutiao.com/trending/7569131096655331370/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 18时14分]"
+        },
+        {
           "title": "美国至10月31日当周外国央行持有美国国债 -179.73亿美元，前值363.4亿美元。",
           "url": "https://flash.jin10.com/detail/20251107053048041800",
           "source": "金十数据",
@@ -1458,7 +1033,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时12分"
         },
@@ -1480,7 +1055,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时12分"
         },
@@ -1535,7 +1110,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时12分"
         },
@@ -1579,9 +1154,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时12分"
+        },
+        {
+          "title": "印度央行副行长：自6月以来，印度央行发现数字欺诈案件有所上升。",
+          "url": "https://flash.jin10.com/detail/20251107172349216800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         },
         {
           "title": "土耳其央行行长：有必要对将在三年内到期的资产进行更新。我们将进行这些交易，同时不会对市场造成损害。",
@@ -1590,9 +1176,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时12分"
+        },
+        {
+          "title": "瑞银集团全球研究部预计英国央行将在2026年2月和4月降息，使得终端利率降至3.25%。",
+          "url": "https://flash.jin10.com/detail/20251107172047421800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         },
         {
           "title": "瑞典央行副行长扬松：总体来看通胀正在缓解。",
@@ -1626,6 +1223,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
+        },
+        {
+          "title": "英国央行审慎政策执行主管Saporta：非银行机构回购利率上升，债券供应增加。",
+          "url": "https://flash.jin10.com/detail/20251107171909518800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
+          "title": "英国央行审慎政策执行主管Saporta：英国央行出售资产之路仍将充满坎坷。",
+          "url": "https://flash.jin10.com/detail/20251107171903006800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         },
         {
           "title": "瑞典央行副行长扬松：10月通胀率高于预期。",
@@ -1663,6 +1282,493 @@
       ]
     },
     {
+      "keyword_group": "人工智能 AI",
+      "match_count": 40,
+      "titles": [
+        {
+          "title": "美股收盘：OpenAI高管言论引发风暴 纳指跌近2%",
+          "url": "https://www.cls.cn/detail/2193628",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[07时12分 ~ 15时13分]"
+        },
+        {
+          "title": "AI革命加速裁员潮！美国10月挑战者企业裁员人数同比暴增175.3%，创二十年同期最高纪录",
+          "url": "https://wallstreetcn.com/articles/3758820",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 23,
+          "time_info": "[00时14分 ~ 17时12分]"
+        },
+        {
+          "title": "直指英伟达！报道称谷歌将推出最强AI芯片TPU Ironwood，性能提升四倍，获Anthropic大单",
+          "url": "https://wallstreetcn.com/articles/3758839",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            4,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[06时11分 ~ 18时14分]"
+        },
+        {
+          "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
+          "url": "https://www.cls.cn/detail/2193718",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            9,
+            10,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时26分 ~ 17时12分]"
+        },
+        {
+          "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
+          "url": "https://wallstreetcn.com/articles/3758853",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[10时26分 ~ 18时14分]"
+        },
+        {
+          "title": "黄仁勋“炸鸡啤酒会面”背后：韩国欲跻身“AI三大强国”，但须借力美国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31909806",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            12,
+            13,
+            15,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时39分 ~ 18时14分]"
+        },
+        {
+          "title": "OpenAI高管言论引风暴 纳指跌近2%",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E9%AB%98%E7%AE%A1%E8%A8%80%E8%AE%BA%E5%BC%95%E9%A3%8E%E6%9A%B4+%E7%BA%B3%E6%8C%87%E8%B7%8C%E8%BF%912%25",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时52分 ~ 12时15分]"
+        },
+        {
+          "title": "英国央行行长贝利：我现在认为通胀风险更加平衡。要提振市场信心，必须让私人市场更加透明。人工智能可能是下一个提升生产力的关键因素，也可能是一个泡沫。",
+          "url": "https://flash.jin10.com/detail/20251107000255306800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "福建：遴选人工智能优质企业 给予每个企业一次性最高300万元奖励",
+          "url": "https://wallstreetcn.com/livenews/3001166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
+          "title": "抖音回应温峥嵘被AI盗播",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%8A%96%E9%9F%B3%E5%9B%9E%E5%BA%94%E6%B8%A9%E5%B3%A5%E5%B5%98%E8%A2%ABAI%E7%9B%97%E6%92%AD%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26pos%3D25%26flag%3D1%26lcate%3D5001%26band_rank%3D24%26c_type%3D31%26stream_entry_id%3D31%26dgr%3D0%26q%3D%2523%25E6%258A%2596%25E9%259F%25B3%25E5%259B%259E%25E5%25BA%2594%25E6%25B8%25A9%25E5%25B3%25A5%25E5%25B5%2598%25E8%25A2%25ABAI%25E7%259B%2597%25E6%2592%25AD%2523%26cate%3D5001%26realpos%3D24%26display_time%3D1762466731%26pre_seqid%3D176246673187907157491&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            24,
+            17,
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时11分 ~ 10时26分]"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：我们既没有也不想要政府为OpenAI数据中心提供担保。",
+          "url": "https://flash.jin10.com/detail/20251107032640209800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时15分 ~ 05时11分]"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：OpenAI的数据中心并无政府担保。曾讨论过提供贷款担保以支持半导体制造厂建设。",
+          "url": "https://flash.jin10.com/detail/20251107032614746800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时15分 ~ 05时11分]"
+        },
+        {
+          "title": "国办：打造一批新领域新赛道应用场景，加强人工智能领域关键核心技术攻关和推广应用",
+          "url": "https://wallstreetcn.com/livenews/3001120",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 18时14分]"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：预计今年的年化收入将达到200亿美元以上，到2030年预计将增长至数千亿美元。",
+          "url": "https://flash.jin10.com/detail/20251107032458905800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时15分 ~ 05时11分]"
+        },
+        {
+          "title": "AI泡沫担忧隐现，OpenAI创始人谈营收和投资承诺",
+          "url": "https://flash.jin10.com/detail/20251107043817547800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时11分 ~ 06时11分]"
+        },
+        {
+          "title": "日本最大科技基金：AI股票仍有上涨空间，并非处于泡沫阶段",
+          "url": "https://flash.jin10.com/detail/20251107112904774800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时39分 ~ 12时15分]"
+        },
+        {
+          "title": "甲骨文万亿市值幻梦一场：AI狂欢的背后，风险已成“房间里的大象”",
+          "url": "https://www.cls.cn/detail/2194008",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时18分 ~ 18时14分]"
+        },
+        {
+          "title": "市场消息：英伟达(NVDA.O)与哈萨克斯坦签署谅解备忘录，将为其提供价值高达20亿美元的先进人工智能芯片。",
+          "url": "https://flash.jin10.com/detail/20251107043718600800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时11分 ~ 06时11分]"
+        },
+        {
+          "title": "OpenAI的CEO Sam Altman：在OpenAI数据中心问题上，并没有获得美国政府的（资金）担保。 讨论过通过（寻求）贷款担保来支持美国半导体晶圆（的可行性）。",
+          "url": "https://wallstreetcn.com/livenews/3000723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时15分 ~ 05时11分]"
+        },
+        {
+          "title": "黄仁勋、杨立昆等多位大佬发声：与人类智慧媲美的AI技术已经到来",
+          "url": "https://www.cls.cn/detail/2193935",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时12分 ~ 18时14分]"
+        },
+        {
+          "title": "阿里巴巴CEO吴泳铭：AI发展将经历三个阶段 加大投入打造超级AI云",
+          "url": "https://wallstreetcn.com/livenews/3000946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 13时12分]"
+        },
+        {
+          "title": "中国台湾10月出口狂增近50% AI需求与电子新品拉货共同发酵",
+          "url": "https://wallstreetcn.com/livenews/3001112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 18时14分]"
+        },
+        {
+          "title": "AI正凶猛“加杠杆”",
+          "url": "https://wallstreetcn.com/articles/3758866",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 18时14分]"
+        },
+        {
+          "title": "在美国及大型科技公司施压下，欧盟考虑暂停《人工智能法案》部分条款的实施。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3000980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 15时13分]"
+        },
+        {
+          "title": "白宫人工智能事务负责人萨克斯：美国至少有5家主要的人工智能前沿模型公司。如果有一家失败了，其他公司会取而代之。",
+          "url": "https://flash.jin10.com/detail/20251107013905662800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 03时10分]"
+        },
+        {
+          "title": "高通CEO Cristiano Amon：汽车是（本公司业务中）当前增速最快的领域。 对个人AI设备的前景“非常乐观”。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3000659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 02时18分]"
+        },
+        {
+          "title": "美联储哈玛克：人工智能是一种结构性经济变革，不太适合通过货币政策来应对。",
+          "url": "https://flash.jin10.com/detail/20251107013445448800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 03时10分]"
+        },
+        {
+          "title": "知名投资人麦朴思：人工智能股票料将回调，因为企业支出过高。",
+          "url": "https://wallstreetcn.com/livenews/3000958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时12分 ~ 14时19分]"
+        },
+        {
+          "title": "欧盟拟推迟人工智能法案部分内容实施",
+          "url": "https://flash.jin10.com/detail/20251107132838808800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "创业板指跌超1%，沪指跌0.19%，深成指跌0.73%，CPO、AI芯片、量子科技、PCB等方向跌幅居前，沪深京三市下跌个股超3100只。",
+          "url": "https://wallstreetcn.com/livenews/3000863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "工信部：扎实推进人工智能产业高质量发展 推动人工智能更好服务全球发展、增进人类福祉",
+          "url": "https://wallstreetcn.com/livenews/3001067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
+          "title": "新兴市场教父麦朴思：人工智能股票料将回调，因为企业支出过高。",
+          "url": "https://flash.jin10.com/detail/20251107121644538800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时12分"
+        },
+        {
+          "title": "市场消息：谷歌将在澳大利亚位于印度洋的一个小前哨基地建设新的人工智能数据中心。",
+          "url": "https://flash.jin10.com/detail/20251107130634244800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "据英国金融时报：面对美国和大型科技公司的压力，欧盟正考虑暂停其具有里程碑意义的《人工智能法案》的部分内容。",
+          "url": "https://flash.jin10.com/detail/20251107130201422800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "韩国人工智能初创企业Upstage筹备首次公开募股事宜。",
+          "url": "https://flash.jin10.com/detail/20251107093435383800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-11-07）",
+          "url": "https://flash.jin10.com/detail/20251107115927369800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时12分"
+        },
+        {
+          "title": "新西兰联储委员会成员Prasanna Gai将于11月14日讲话。",
+          "url": "https://wallstreetcn.com/livenews/3000772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "AI伪造巴菲特发言 伯克希尔发布澄清",
+          "url": "https://flash.jin10.com/detail/20251107073927545800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "美联储威廉姆斯：人工智能在劳动力市场方面会存在一些问题。",
+          "url": "https://flash.jin10.com/detail/20251107012625411800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "高通(QCOM.O)CEO：汽车是（本公司业务中）当前增速最快的领域。对个人AI设备的前景“非常乐观”。",
+          "url": "https://flash.jin10.com/detail/20251107001704444800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时13分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
       "match_count": 30,
       "titles": [
@@ -1685,11 +1791,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时52分 ~ 17时12分]"
+          "appearance_count": 14,
+          "time_info": "[08时52分 ~ 18时14分]"
         },
         {
           "title": "美股三大期指集体上涨 特斯拉股东大会来袭 | 今夜看点",
@@ -1741,7 +1848,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时12分"
         },
@@ -1793,6 +1900,18 @@
           "time_info": "[08时52分 ~ 08时53分]"
         },
         {
+          "title": "特斯拉美股盘前涨近2%，公司股东大会批准“万亿薪酬包”，十年达标后马斯克持股或增至25%。",
+          "url": "https://wallstreetcn.com/livenews/3001114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 18时14分]"
+        },
+        {
           "title": "道指下跌超过460点，跌幅扩大至1%，纳指跌1.65%，小盘股指跌1.37%，特斯拉跌4.67%。",
           "url": "https://wallstreetcn.com/livenews/3000664",
           "source": "华尔街见闻-快讯",
@@ -1803,17 +1922,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时13分 ~ 02时18分]"
-        },
-        {
-          "title": "特斯拉美股盘前涨近2%，公司股东大会批准“万亿薪酬包”，十年达标后马斯克持股或增至25%。",
-          "url": "https://wallstreetcn.com/livenews/3001114",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时12分"
         },
         {
           "title": "提醒：特斯拉股东大会在美国得州开始。",
@@ -2017,7 +2125,7 @@
     },
     {
       "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "商务部：荷方不当干预，造成了全球半导体产供链的动荡和混乱",
@@ -2123,6 +2231,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时39分 ~ 12时15分]"
+        },
+        {
+          "title": "安世风波的蝴蝶效应与芯片格局重塑",
+          "url": "https://www.toutiao.com/trending/7569817945153474084/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 18时14分]"
         },
         {
           "title": "荷兰预计安世中国将恢复芯片供应",
@@ -2259,8 +2378,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时52分 ~ 17时12分]"
+          "appearance_count": 14,
+          "time_info": "[08时52分 ~ 18时14分]"
         },
         {
           "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币黄金齐跌",
@@ -2285,6 +2404,19 @@
           "time_info": "07时12分"
         },
         {
+          "title": "一份非官方的美国就业数据 缘何把昨夜的美国投资者吓坏了？",
+          "url": "https://www.cls.cn/detail/2193885",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时18分 ~ 18时14分]"
+        },
+        {
           "title": "普华永道在市场营销、人力资源和运营等部门裁员约150人。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3000745",
           "source": "华尔街见闻-快讯",
@@ -2295,18 +2427,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时11分 ~ 06时11分]"
-        },
-        {
-          "title": "一份非官方的美国就业数据 缘何把昨夜的美国投资者吓坏了？",
-          "url": "https://www.cls.cn/detail/2193885",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 17时12分]"
         },
         {
           "title": "美联储理事Michael Barr（曾担任负责金融监管事务的副主席）：在通胀问题上去的进展，但仍然需要付出努力。 美国经济呈现出两种速度，其中富裕家庭（消费开支）表现强劲。 美联储必须关注“如何确保就业市场保持稳健状态”。",
@@ -2396,7 +2516,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时12分"
         },
@@ -2426,7 +2546,7 @@
     },
     {
       "keyword_group": "苹果 iPhone",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "网友反映遮挡摄像头仍能解锁 iPhone，苹果客服称「解锁是通过深感摄像头」，这是什么原理？如何理解？",
@@ -2461,6 +2581,18 @@
           "time_info": "[00时14分 ~ 08时53分]"
         },
         {
+          "title": "iPhone18Pro系列前瞻",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23iPhone18Pro%E7%B3%BB%E5%88%97%E5%89%8D%E7%9E%BB%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26realpos%3D7%26band_rank%3D7%26c_type%3D31%26flag%3D1%26pos%3D8%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26cate%3D5001%26q%3D%2523iPhone18Pro%25E7%25B3%25BB%25E5%2588%2597%25E5%2589%258D%25E7%259E%25BB%2523%26lcate%3D5001%26display_time%3D1762503323%26pre_seqid%3D17625033232610162029749&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时18分 ~ 18时14分]"
+        },
+        {
           "title": "苹果公司：已解决Apple TV和Apple Arcade的服务中断问题。",
           "url": "https://wallstreetcn.com/livenews/3000971",
           "source": "华尔街见闻-快讯",
@@ -2473,16 +2605,15 @@
           "time_info": "[13时12分 ~ 14时19分]"
         },
         {
-          "title": "iPhone18Pro系列前瞻",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23iPhone18Pro%E7%B3%BB%E5%88%97%E5%89%8D%E7%9E%BB%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26realpos%3D7%26band_rank%3D7%26c_type%3D31%26flag%3D1%26pos%3D8%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26cate%3D5001%26q%3D%2523iPhone18Pro%25E7%25B3%25BB%25E5%2588%2597%25E5%2589%258D%25E7%259E%25BB%2523%26lcate%3D5001%26display_time%3D1762503323%26pre_seqid%3D17625033232610162029749&launchid=10000360-page_H5",
+          "title": "坚持喝煮苹果水身体会发生什么",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%9D%9A%E6%8C%81%E5%96%9D%E7%85%AE%E8%8B%B9%E6%9E%9C%E6%B0%B4%E8%BA%AB%E4%BD%93%E4%BC%9A%E5%8F%91%E7%94%9F%E4%BB%80%E4%B9%88%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D23%26filter_type%3Drealtimehot%26c_type%3D31%26flag%3D1%26lcate%3D5001%26q%3D%2523%25E5%259D%259A%25E6%258C%2581%25E5%2596%259D%25E7%2585%25AE%25E8%258B%25B9%25E6%259E%259C%25E6%25B0%25B4%25E8%25BA%25AB%25E4%25BD%2593%25E4%25BC%259A%25E5%258F%2591%25E7%2594%259F%25E4%25BB%2580%25E4%25B9%2588%2523%26pos%3D24%26band_rank%3D23%26cate%3D5001%26stream_entry_id%3D31%26dgr%3D0%26display_time%3D1762510284%26pre_seqid%3D176251028444702446589108&launchid=10000360-page_H5",
           "source": "微博",
           "ranks": [
-            7,
-            9
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时18分 ~ 17时12分]"
+          "time_info": "[18时13分 ~ 18时14分]"
         },
         {
           "title": "商品期货收盘，碳酸锂主力合约涨超3%，工业硅、尿素、对二甲苯、沪银、苹果、乙二醇涨超1%。沥青跌超2%，铁矿石、集运欧线、红枣、多晶硅跌超1%。",
@@ -2606,7 +2737,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时12分"
         },
@@ -2632,11 +2763,12 @@
           "url": "https://news.ifeng.com/c/8o5Jkt3rjyW",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时13分 ~ 17时12分]"
+          "appearance_count": 5,
+          "time_info": "[15时13分 ~ 18时14分]"
         },
         {
           "title": "台积电计划发行235亿元新台币债券，5年期利率1.5%",
@@ -2692,6 +2824,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房地产 房价 楼市 LPR",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "多地推行全现房销售 房地产行业加速迈向“所见即所得”时代",
+          "url": "https://www.cls.cn/detail/2194205",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 18时14分]"
+        },
+        {
+          "title": "英国10月Halifax季调后房价指数月率录得0.6%，为2025年1月以来最大增幅。",
+          "url": "https://flash.jin10.com/detail/20251107150030296800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
+          "title": "英国10月Halifax季调后房价指数年率 1.9%，预期1.45%，前值1.3%。",
+          "url": "https://flash.jin10.com/detail/20251107150013826800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
+          "title": "英国10月Halifax季调后房价指数月率 0.6%，预期0.1%，前值-0.3%。",
+          "url": "https://flash.jin10.com/detail/20251107150013802800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
+          "title": "德国9月季调后贸易帐、英国10月Halifax季调后房价指数月率将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20251107145000001800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时13分"
         }
       ]
     },
@@ -2760,52 +2953,54 @@
       ]
     },
     {
-      "keyword_group": "房地产 房价 楼市 LPR",
+      "keyword_group": "基础设施 基建 地铁 高铁",
       "match_count": 4,
       "titles": [
         {
-          "title": "英国10月Halifax季调后房价指数月率录得0.6%，为2025年1月以来最大增幅。",
-          "url": "https://flash.jin10.com/detail/20251107150030296800",
-          "source": "金十数据",
+          "title": "【国务院办公厅印发《关于加快场景培育和开放推动新场景大规模应用的实施意见》】日前，国务院办公厅印发《关于加快场景培育和开放推动新场景大规模应用的实施意见》，对相关工作作出部署。《意见》指出，场景是用于系统性验证新技术、新产品、新业态产业化应用以及配套基础设施、商业模式、制度政策的具体情境，是连接技术和产业、打通研发和市场的桥梁，是推动科技创新和产业创新融合发展的重要载体，对促进新技术新产品规模化商业化应用具有重要牵引作用。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3001115",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时13分"
+          "time_info": "17时12分"
         },
         {
-          "title": "英国10月Halifax季调后房价指数年率 1.9%，预期1.45%，前值1.3%。",
-          "url": "https://flash.jin10.com/detail/20251107150013826800",
+          "title": "美联储哈玛克：人工智能的繁荣可能类似于当年互联网基础设施建设时期的情形。",
+          "url": "https://flash.jin10.com/detail/20251107013439983800",
           "source": "金十数据",
           "ranks": [
-            11
+            14,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时13分"
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 03时10分]"
         },
         {
-          "title": "英国10月Halifax季调后房价指数月率 0.6%，预期0.1%，前值-0.3%。",
-          "url": "https://flash.jin10.com/detail/20251107150013802800",
-          "source": "金十数据",
+          "title": "苏超夺冠后，没高铁的泰州如何接住流量：赴沪拜访国铁上海局",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31915023",
+          "source": "澎湃新闻",
           "ranks": [
-            12
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时13分"
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 18时14分]"
         },
         {
-          "title": "德国9月季调后贸易帐、英国10月Halifax季调后房价指数月率将于十分钟后公布。",
-          "url": "https://flash.jin10.com/detail/20251107145000001800",
-          "source": "金十数据",
+          "title": "阿里巴巴CEO吴泳铭：建设超大规模AI基础设施",
+          "url": "https://wallstreetcn.com/livenews/3000905",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时13分"
+          "appearance_count": 2,
+          "time_info": "[11时39分 ~ 12时15分]"
         }
       ]
     },
@@ -2860,47 +3055,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "【国务院办公厅印发《关于加快场景培育和开放推动新场景大规模应用的实施意见》】日前，国务院办公厅印发《关于加快场景培育和开放推动新场景大规模应用的实施意见》，对相关工作作出部署。《意见》指出，场景是用于系统性验证新技术、新产品、新业态产业化应用以及配套基础设施、商业模式、制度政策的具体情境，是连接技术和产业、打通研发和市场的桥梁，是推动科技创新和产业创新融合发展的重要载体，对促进新技术新产品规模化商业化应用具有重要牵引作用。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3001115",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时12分"
-        },
-        {
-          "title": "美联储哈玛克：人工智能的繁荣可能类似于当年互联网基础设施建设时期的情形。",
-          "url": "https://flash.jin10.com/detail/20251107013439983800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 03时10分]"
-        },
-        {
-          "title": "阿里巴巴CEO吴泳铭：建设超大规模AI基础设施",
-          "url": "https://wallstreetcn.com/livenews/3000905",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 12时15分]"
         }
       ]
     },
@@ -2989,7 +3143,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时12分"
         },
@@ -3000,7 +3154,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时12分"
         }
