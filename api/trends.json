@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-09T20:19:11.302867+08:00",
-  "total_titles_processed": 1150,
+  "generated_at": "2025-11-09T21:19:34.185385+08:00",
+  "total_titles_processed": 1214,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "不止希望政府担保，10月底OpenAI致信特朗普政府，要求“扩大税收抵扣”以降低数据中心成本",
@@ -134,11 +134,12 @@
             17,
             16,
             15,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时54分 ~ 20时19分]"
+          "appearance_count": 19,
+          "time_info": "[08时54分 ~ 21时19分]"
         },
         {
           "title": "AI一键格桑花儿开转场",
@@ -180,8 +181,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时11分 ~ 20时19分]"
+          "appearance_count": 7,
+          "time_info": "[17时11分 ~ 21时19分]"
         },
         {
           "title": "研究员：AI或取代绝大部分人类工作",
@@ -196,15 +197,42 @@
           "time_info": "[18时11分 ~ 19时08分]"
         },
         {
-          "title": "美国联邦航空管理局（FAA）：因人手不足问题而对纽瓦克机场（Newark Airport）下达停飞命令。",
-          "url": "https://wallstreetcn.com/livenews/3001685",
+          "title": "美国联邦航空管理局（FAA）：取消针对纽瓦克机场（Newark Airport）的停飞命令。",
+          "url": "https://wallstreetcn.com/livenews/3001690",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时19分"
+          "time_info": "21时19分"
+        },
+        {
+          "title": "中信证券：AI叙事只是影响了行情斜率而不是趋势，调仓思路不用刻意回避AI叙事",
+          "url": "https://wallstreetcn.com/livenews/3001665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            6,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时11分 ~ 21时19分]"
+        },
+        {
+          "title": "GAI演唱会江湖流大合唱",
+          "url": "https://www.douyin.com/hot/2300262",
+          "source": "抖音",
+          "ranks": [
+            22,
+            23,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时11分 ~ 21时19分]"
         },
         {
           "title": "英伟达CEO希望台积电供应更多晶圆 以满足强劲的AI需求",
@@ -220,17 +248,16 @@
           "time_info": "[16时15分 ~ 18时11分]"
         },
         {
-          "title": "中信证券：AI叙事只是影响了行情斜率而不是趋势，调仓思路不用刻意回避AI叙事",
-          "url": "https://wallstreetcn.com/livenews/3001665",
+          "title": "美国联邦航空管理局（FAA）：因人手不足问题而对纽瓦克机场（Newark Airport）下达停飞命令。",
+          "url": "https://wallstreetcn.com/livenews/3001685",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            6,
-            17
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时11分 ~ 20时19分]"
+          "appearance_count": 2,
+          "time_info": "[20时19分 ~ 21时19分]"
         },
         {
           "title": "截至今年9月浙江人工智能核心产业营业收入4944亿元，同比增长22%",
@@ -245,18 +272,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时31分 ~ 13时12分]"
-        },
-        {
-          "title": "GAI演唱会江湖流大合唱",
-          "url": "https://www.douyin.com/hot/2300262",
-          "source": "抖音",
-          "ranks": [
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时11分 ~ 20时19分]"
         },
         {
           "title": "GAI首场体育场演唱会现场",
@@ -284,20 +299,21 @@
           "time_info": "[11时39分 ~ 12时14分]"
         },
         {
-          "title": "研究员：AI或取代绝大部分人类工作",
-          "url": "https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%E5%91%98%EF%BC%9AAI%E6%88%96%E5%8F%96%E4%BB%A3%E7%BB%9D%E5%A4%A7%E9%83%A8%E5%88%86%E4%BA%BA%E7%B1%BB%E5%B7%A5%E4%BD%9C",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时18分 ~ 20时19分]"
-        },
-        {
           "title": "聆听“乌镇声音”：互联网大会上，企业家如何思考AI和未来",
           "url": "https://m.thepaper.cn/newsDetail_forward_31927340",
           "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时18分 ~ 21时19分]"
+        },
+        {
+          "title": "研究员：AI或取代绝大部分人类工作",
+          "url": "https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%E5%91%98%EF%BC%9AAI%E6%88%96%E5%8F%96%E4%BB%A3%E7%BB%9D%E5%A4%A7%E9%83%A8%E5%88%86%E4%BA%BA%E7%B1%BB%E5%B7%A5%E4%BD%9C",
+          "source": "百度热搜",
           "ranks": [
             17
           ],
@@ -367,8 +383,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时31分 ~ 20时19分]"
+          "appearance_count": 18,
+          "time_info": "[10时31分 ~ 21时19分]"
         },
         {
           "title": "非农“没了”，下周的美国CPI也要“没了”，美联储12月还能“闭眼降息”吗？",
@@ -380,32 +396,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时39分 ~ 20时19分]"
-        },
-        {
-          "title": "国家统计局：10月份CPI同比由降转涨 PPI环比由平转涨",
-          "url": "https://www.cls.cn/detail/2195090",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时15分 ~ 20时19分]"
-        },
-        {
-          "title": "10月CPI出炉",
-          "url": "https://www.douyin.com/hot/2299737",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时31分 ~ 15时11分]"
+          "appearance_count": 17,
+          "time_info": "[11时39分 ~ 21时19分]"
         },
         {
           "title": "最激进的华尔街投行：鲍威尔任内“不会”再降息",
@@ -417,8 +409,32 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时11分 ~ 21时19分]"
+        },
+        {
+          "title": "国家统计局：10月份CPI同比由降转涨 PPI环比由平转涨",
+          "url": "https://www.cls.cn/detail/2195090",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[14时15分 ~ 21时19分]"
+        },
+        {
+          "title": "10月CPI出炉",
+          "url": "https://www.douyin.com/hot/2299737",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[15时11分 ~ 20时19分]"
+          "time_info": "[10时31分 ~ 15时11分]"
         },
         {
           "title": "国家统计局：10月核心CPI同比涨幅连续第6个月扩大，PPI环比年内首次上涨",
@@ -538,11 +554,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时08分 ~ 20时19分]"
+          "appearance_count": 3,
+          "time_info": "[19时08分 ~ 21时19分]"
         },
         {
           "title": "中国10月CPI年率将于十分钟后公布。",
@@ -573,7 +590,7 @@
     },
     {
       "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "商务部再就安世半导体问题答问：中方同意荷派员来华磋商请求",
@@ -619,8 +636,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时11分 ~ 20时19分]"
+          "appearance_count": 30,
+          "time_info": "[00时11分 ~ 21时19分]"
         },
         {
           "title": "半导体进博会“百花齐放”：ASML、AMD、高通、美光 、三星、SK海力士等全球巨头都来了",
@@ -645,8 +662,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时31分 ~ 20时19分]"
+          "appearance_count": 15,
+          "time_info": "[10时31分 ~ 21时19分]"
         },
         {
           "title": "荷兰将归还安世半导体控制权，如何评价整个安世半导体事件的发展？",
@@ -656,8 +673,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时14分 ~ 20时19分]"
+          "appearance_count": 9,
+          "time_info": "[16时14分 ~ 21时19分]"
         },
         {
           "title": "商务部回应欧方关于安世半导体问题的声明",
@@ -667,8 +684,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时08分 ~ 20时19分]"
+          "appearance_count": 4,
+          "time_info": "[19时08分 ~ 21时19分]"
         },
         {
           "title": "周末要闻汇总：福建舰部署三亚军港；黄仁勋亲赴台积电“讨要更多芯片”",
@@ -676,11 +693,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时11分 ~ 20时19分]"
+          "appearance_count": 5,
+          "time_info": "[18时11分 ~ 21时19分]"
         },
         {
           "title": "【商务部新闻发言人就欧方关于安世半导体问题的声明答记者问】问：近日，欧盟委员会贸易和经济安全委员谢夫乔维奇在个人社交媒体账户发布关于安世半导体问题的声明，请问商务部对此有何评论？ 答：造成当前全球半导体供应链混乱的源头和责任在荷方，中方注意到欧方已表示会做荷方工作，希欧方进一步加大工作力度，促荷方尽快撤销相关措施，保障安世半导体相关产品正常供应。中方本着对全球半导体供应链安全稳定的负责任态度，已采取切实措施，对合规的用于民用用途的相关出口予以豁免。我想强调，欢迎欧方继续发挥影响力，促荷方尽快纠正错误做法。",
@@ -705,6 +723,18 @@
           "time_info": "19时08分"
         },
         {
+          "title": "商务部：造成当前全球半导体供应链混乱的源头和责任在荷方",
+          "url": "https://wallstreetcn.com/livenews/3001669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时19分 ~ 21时19分]"
+        },
+        {
           "title": "商务部回应安世半导体问题",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%95%86%E5%8A%A1%E9%83%A8%E5%9B%9E%E5%BA%94%E5%AE%89%E4%B8%96%E5%8D%8A%E5%AF%BC%E4%BD%93%E9%97%AE%E9%A2%98%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26cate%3D5001%26band_rank%3D13%26flag%3D1%26stream_entry_id%3D31%26realpos%3D13%26filter_type%3Drealtimehot%26lcate%3D5001%26q%3D%2523%25E5%2595%2586%25E5%258A%25A1%25E9%2583%25A8%25E5%259B%259E%25E5%25BA%2594%25E5%25AE%2589%25E4%25B8%2596%25E5%258D%258A%25E5%25AF%25BC%25E4%25BD%2593%25E9%2597%25AE%25E9%25A2%2598%2523%26pos%3D14%26dgr%3D0%26display_time%3D1762685112%26pre_seqid%3D17626851125450246209116&launchid=10000360-page_H5",
           "source": "微博",
@@ -716,15 +746,15 @@
           "time_info": "19时08分"
         },
         {
-          "title": "商务部：造成当前全球半导体供应链混乱的源头和责任在荷方",
-          "url": "https://wallstreetcn.com/livenews/3001669",
-          "source": "华尔街见闻-快讯",
+          "title": "安世半导体事件发酵一个月后",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%AE%89%E4%B8%96%E5%8D%8A%E5%AF%BC%E4%BD%93%E4%BA%8B%E4%BB%B6%E5%8F%91%E9%85%B5%E4%B8%80%E4%B8%AA%E6%9C%88%E5%90%8E%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26q%3D%2523%25E5%25AE%2589%25E4%25B8%2596%25E5%258D%258A%25E5%25AF%25BC%25E4%25BD%2593%25E4%25BA%258B%25E4%25BB%25B6%25E5%258F%2591%25E9%2585%25B5%25E4%25B8%2580%25E4%25B8%25AA%25E6%259C%2588%25E5%2590%258E%2523%26stream_entry_id%3D31%26realpos%3D20%26band_rank%3D20%26pos%3D21%26dgr%3D0%26flag%3D1%26display_time%3D1762693828%26pre_seqid%3D17626938281350333906787&launchid=10000360-page_H5",
+          "source": "微博",
           "ranks": [
-            14
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时19分"
+          "time_info": "21时19分"
         },
         {
           "title": "安世半导体争夺战中谁先眨了眼",
@@ -741,7 +771,7 @@
     },
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "SNAP福利60年来首次中断！美最高法院批准特朗普暂扣40亿美元食品援助",
@@ -830,6 +860,39 @@
           "time_info": "[00时12分 ~ 07时10分]"
         },
         {
+          "title": "伊拉克国家石油营销组织SOMO：伊拉克将12月巴士拉中质原油对欧洲的官方售价定为较即期布伦特原油贴水2.95美元；将12月巴士拉中质原油对北美和南美的官方售价定为较阿格斯含硫原油贴水1.35美元。",
+          "url": "https://flash.jin10.com/detail/20251109204253008800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
+        },
+        {
+          "title": "伊拉克国家石油营销组织SOMO：将12月对亚洲的Basrah Medium Crude（巴士拉中质石油）官方销售价格较阿曼/迪拜均价设在贴水0.35美元/桶。 将12月对欧洲的Basrah Medium Crude官方销售价格较即期布伦特原油均价设在贴水2.95美元/桶。 对12月销往北美和南美的Basrah Medium Crude官方销售价格较阿曼/迪拜均价设在贴水1.35美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3001691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
+        },
+        {
+          "title": "伊拉克国家石油营销组织SOMO：伊拉克将12月巴士拉中质原油对亚洲的官方售价定为较阿曼/迪拜原油平均价格贴水0.35美元。",
+          "url": "https://flash.jin10.com/detail/20251109204144076800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
+        },
+        {
           "title": "阿根廷经济部长：不打算建立自由浮动汇率",
           "url": "https://flash.jin10.com/detail/20251109082914815800",
           "source": "金十数据",
@@ -864,6 +927,19 @@
           "time_info": "[13时12分 ~ 17时12分]"
         },
         {
+          "title": "谢娜坐高铁偶遇王鹤棣",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%B0%A2%E5%A8%9C%E5%9D%90%E9%AB%98%E9%93%81%E5%81%B6%E9%81%87%E7%8E%8B%E9%B9%A4%E6%A3%A3%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26cate%3D5001%26flag%3D1%26dgr%3D0%26lcate%3D5001%26realpos%3D21%26stream_entry_id%3D31%26band_rank%3D21%26q%3D%2523%25E8%25B0%25A2%25E5%25A8%259C%25E5%259D%2590%25E9%25AB%2598%25E9%2593%2581%25E5%2581%25B6%25E9%2581%2587%25E7%258E%258B%25E9%25B9%25A4%25E6%25A3%25A3%2523%26filter_type%3Drealtimehot%26pos%3D22%26display_time%3D1762676030%26pre_seqid%3D176267603010203270443136&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            21,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时14分 ~ 21时19分]"
+        },
+        {
           "title": "进博会迎首个社会观众日 地铁单小时出站客流创新高",
           "url": "https://wallstreetcn.com/livenews/3001574",
           "source": "华尔街见闻-快讯",
@@ -877,18 +953,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时12分 ~ 07时10分]"
-        },
-        {
-          "title": "谢娜坐高铁偶遇王鹤棣",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%B0%A2%E5%A8%9C%E5%9D%90%E9%AB%98%E9%93%81%E5%81%B6%E9%81%87%E7%8E%8B%E9%B9%A4%E6%A3%A3%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26cate%3D5001%26flag%3D1%26dgr%3D0%26lcate%3D5001%26realpos%3D21%26stream_entry_id%3D31%26band_rank%3D21%26q%3D%2523%25E8%25B0%25A2%25E5%25A8%259C%25E5%259D%2590%25E9%25AB%2598%25E9%2593%2581%25E5%2581%25B6%25E9%2581%2587%25E7%258E%258B%25E9%25B9%25A4%25E6%25A3%25A3%2523%26filter_type%3Drealtimehot%26pos%3D22%26display_time%3D1762676030%26pre_seqid%3D176267603010203270443136&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时14分 ~ 20时19分]"
         },
         {
           "title": "官方通报“高铁票买19排车厢仅17排”",
@@ -1024,8 +1088,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时31分 ~ 20时19分]"
+          "appearance_count": 18,
+          "time_info": "[10时31分 ~ 21时19分]"
         },
         {
           "title": "黄仁勋：没有台积电就没有英伟达",
