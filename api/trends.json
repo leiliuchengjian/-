@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T03:10:26.336878+08:00",
-  "total_titles_processed": 491,
+  "generated_at": "2025-11-11T04:14:54.642957+08:00",
+  "total_titles_processed": 529,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "美元兑瑞郎短线走低，日内整体涨幅收窄至不足0.1%。 据媒体报道，瑞士接近与美国围绕15%的关税达成协议。",
@@ -30,27 +30,17 @@
           "time_info": "02时17分"
         },
         {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.1190元，较上周五夜盘收盘涨20点。成交量341.26亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3002297",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时10分"
-        },
-        {
           "title": "获400亿美元援助后米莱大跳特朗普舞",
           "url": "https://www.toutiao.com/trending/7570573863009124361/",
           "source": "今日头条",
           "ranks": [
             22,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 04时14分]"
         },
         {
           "title": "墨西哥股指维持超过0.1%的涨幅，墨西哥比索兑美元涨幅重新扩大至0.3%，逼近北京时间17:52刷新的日高18.3688比索。 墨西哥总统辛鲍姆的关税方案遭到党派和商界的反对。",
@@ -71,11 +61,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            18
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时17分 ~ 04时14分]"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.1190元，较上周五夜盘收盘涨20点。成交量341.26亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3002297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时17分 ~ 03时10分]"
+          "time_info": "[03时10分 ~ 04时14分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股指收涨约2%，兰特涨超0.8%，追随金价一度涨穿4100美元的表现",
@@ -102,6 +105,90 @@
           "time_info": "[02时17分 ~ 03时10分]"
         },
         {
+          "title": "上期所原油期货2512合约夜盘收跌0.04%，报460.00元人民币/桶。 沪金夜盘收涨2.23%，沪银收涨3.09%。",
+          "url": "https://wallstreetcn.com/livenews/3002290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时10分 ~ 04时14分]"
+        },
+        {
+          "title": "现货黄金向上触及4110美元/盎司，为10月24日以来新高，日内涨2.71%。",
+          "url": "https://flash.jin10.com/detail/20251111021915385800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时10分 ~ 04时14分]"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了11个对手方的71.52亿美元。",
+          "url": "https://flash.jin10.com/detail/20251111021843697800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时10分 ~ 04时14分]"
+        },
+        {
+          "title": "周一（11月10日），美联储隔夜逆回购协议（RRP）使用规模为71.52亿美元，上个交易日报49.03亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3002287",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时10分 ~ 04时14分]"
+        },
+        {
+          "title": "现货黄金刷新日高，现报4106.54美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251111021734311800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时10分 ~ 04时14分]"
+        },
+        {
+          "title": "美国财政部拍卖580亿美元三年期国债，得标利率3.579%，投标倍数2.85。",
+          "url": "https://wallstreetcn.com/livenews/3002282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时10分 ~ 04时14分]"
+        },
+        {
+          "title": "LME期铜收涨80美元，报10796美元/吨。 LME期铝收涨22美元，报2870美元/吨。 LME期锌收涨24美元，报3081美元/吨。 LME期铅收涨12美元，报2058美元/吨。 LME期镍收涨48美元，报15108美元/吨。 LME期锡收涨202美元，报36024美元/吨。 LME期钴收平，报48570美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3002280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时10分 ~ 04时14分]"
+        },
+        {
           "title": "现货白银日内大涨4.00%，现报50.29美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251111014613307800",
           "source": "金十数据",
@@ -114,48 +201,37 @@
           "time_info": "[02时17分 ~ 03时10分]"
         },
         {
-          "title": "上期所原油期货2512合约夜盘收跌0.04%，报460.00元人民币/桶。 沪金夜盘收涨2.23%，沪银收涨3.09%。",
-          "url": "https://wallstreetcn.com/livenews/3002290",
+          "title": "美国国会预算办公室（CBO）估计，美国10月预算赤字为2190亿美元。",
+          "url": "https://flash.jin10.com/detail/20251111032243883800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
+          "title": "美国国会预算办公室（CBO）估算结果显示：美国10月预算赤字2190亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3002304",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时10分"
+          "time_info": "04时14分"
         },
         {
-          "title": "现货黄金向上触及4110美元/盎司，为10月24日以来新高，日内涨2.71%。",
-          "url": "https://flash.jin10.com/detail/20251111021915385800",
-          "source": "金十数据",
+          "title": "摩根大通私人银行：黄金价格到明年底有望突破5,000美元",
+          "url": "https://wallstreetcn.com/livenews/3002303",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时10分"
-        },
-        {
-          "title": "美联储在固定利率逆回购操作中总计接纳了11个对手方的71.52亿美元。",
-          "url": "https://flash.jin10.com/detail/20251111021843697800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时10分"
-        },
-        {
-          "title": "周一（11月10日），美联储隔夜逆回购协议（RRP）使用规模为71.52亿美元，上个交易日报49.03亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3002287",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时10分"
+          "time_info": "04时14分"
         },
         {
           "title": "美国总统特朗普：没有休假的空中交通管制员将获得1万美元奖金。",
@@ -169,17 +245,6 @@
           "time_info": "00时15分"
         },
         {
-          "title": "现货黄金刷新日高，现报4106.54美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251111021734311800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时10分"
-        },
-        {
           "title": "礼来制药上涨5.9%，报979.16，突破2024年8月22日所创盘中历史最高位972.53美元。 Leerink因减肥疗法的市场进展而上调对礼来的评级。 MeiraGTx与该公司进入战略合作关系。 Insilico与该公司围绕研究与许可进行合作。",
           "url": "https://wallstreetcn.com/livenews/3002221",
           "source": "华尔街见闻-快讯",
@@ -189,28 +254,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
-        },
-        {
-          "title": "美国财政部拍卖580亿美元三年期国债，得标利率3.579%，投标倍数2.85。",
-          "url": "https://wallstreetcn.com/livenews/3002282",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时10分"
-        },
-        {
-          "title": "LME期铜收涨80美元，报10796美元/吨。 LME期铝收涨22美元，报2870美元/吨。 LME期锌收涨24美元，报3081美元/吨。 LME期铅收涨12美元，报2058美元/吨。 LME期镍收涨48美元，报15108美元/吨。 LME期锡收涨202美元，报36024美元/吨。 LME期钴收平，报48570美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3002280",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时10分"
         },
         {
           "title": "渣打银行：美元结束低估状态 回归历史正常关系",
@@ -271,7 +314,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "12岁小孩做一张AI图吓坏整个小区",
@@ -281,8 +324,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 04时14分]"
         },
         {
           "title": "复盘“五大泡沫指标”，高盛认为“当下更像1997而非1999，AI牛市还有下半场”",
@@ -292,8 +335,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 04时14分]"
         },
         {
           "title": "硬刚真Air标准!联想官方遭怒喷",
@@ -303,8 +346,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 04时14分]"
         },
         {
           "title": "一口气看清美股AI泡沫",
@@ -314,11 +357,12 @@
             22,
             16,
             15,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 04时14分]"
         },
         {
           "title": "每天一个奇吧—novelai吧",
@@ -328,8 +372,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 04时14分]"
         },
         {
           "title": "摩根大通：AI的5万亿美元成本将需要所有的债务市场（来满足）。",
@@ -352,8 +396,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时16分 ~ 03时10分]"
+          "appearance_count": 4,
+          "time_info": "[02时16分 ~ 04时14分]"
         },
         {
           "title": "现在的 AI 能够给黑白漫画上色了吗？",
@@ -413,6 +457,17 @@
           "time_info": "01时11分"
         },
         {
+          "title": "英伟达拉美主管Marcio Aguiar：英伟达支持创新。 在墨西哥，人工智能（AI）机会大于挑战。 英伟达的合作伙伴们现在计划在墨西哥投资。 他们将在墨西哥数据中心投资200万-400万美元。",
+          "url": "https://wallstreetcn.com/livenews/3002295",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
           "title": "AI服务器初创公司Majestic Labs融资1亿美元。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/3002206",
           "source": "华尔街见闻-快讯",
@@ -422,6 +477,79 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 iPhone",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "先锋领航三季度增持特斯拉 减持苹果",
+          "url": "https://wallstreetcn.com/livenews/3002306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
+          "title": "苹果界有自己的小甜心",
+          "url": "https://www.douyin.com/hot/2301389",
+          "source": "抖音",
+          "ranks": [
+            22,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 04时14分]"
+        },
+        {
+          "title": "先锋领航三季度增持特斯拉 减持苹果",
+          "url": "https://flash.jin10.com/detail/20251111033417884800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
+          "title": "苹果(AAPL.O)公司因销量疲软推迟发布下一代iPhone Air。",
+          "url": "https://flash.jin10.com/detail/20251111031535141800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
+          "title": "苹果推迟发布下一代iPhone Air。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3002301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
+          "title": "道指转跌，成分股家得宝、Salesforce、美国运通、宝洁、雪佛龙、可口可乐、联合健康、波音目前至多跌2%，苹果、3M、亚马逊、高盛、思科、微软、英伟达目前仍然至少涨超0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3002239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时11分"
         }
       ]
     },
@@ -491,28 +619,30 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "纳斯达克100指数涨幅扩大至2.1%，刷新日高。 标普500指数涨超1.4%，道指涨300点涨幅0.6%，纳指涨503点涨幅2.19%。 半导体指数涨3.09%，小盘股指涨1.2%。",
-          "url": "https://wallstreetcn.com/livenews/3002294",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时10分"
-        },
-        {
           "title": "【焦点复盘】沪指四连阳创年内收盘新高，涨价概念强者恒强，存储芯片概念再度爆发",
           "url": "https://www.cls.cn/detail/2196110",
           "source": "财联社热门",
           "ranks": [
             11,
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 04时14分]"
+        },
+        {
+          "title": "纳斯达克100指数涨幅扩大至2.1%，刷新日高。 标普500指数涨超1.4%，道指涨300点涨幅0.6%，纳指涨503点涨幅2.19%。 半导体指数涨3.09%，小盘股指涨1.2%。",
+          "url": "https://wallstreetcn.com/livenews/3002294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时10分 ~ 04时14分]"
         },
         {
           "title": "纳指涨超2%，纳斯达克100指数成分股Palantir涨7.1%，美光科技涨6.9%，Applovin涨6.3%，AMD涨5.5%，英伟达涨3.8%，谷歌A涨3.5%，特许通讯仍然跌2.4%，Axon跌3.2%。 标普涨1.1%，道指涨0.3%，半导体指数涨2.7%。",
@@ -579,34 +709,6 @@
       ]
     },
     {
-      "keyword_group": "苹果 iPhone",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "苹果界有自己的小甜心",
-          "url": "https://www.douyin.com/hot/2301389",
-          "source": "抖音",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "道指转跌，成分股家得宝、Salesforce、美国运通、宝洁、雪佛龙、可口可乐、联合健康、波音目前至多跌2%，苹果、3M、亚马逊、高盛、思科、微软、英伟达目前仍然至少涨超0.6%。",
-          "url": "https://wallstreetcn.com/livenews/3002239",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        }
-      ]
-    },
-    {
       "keyword_group": "华为 小米 荣耀",
       "match_count": 1,
       "titles": [
@@ -621,8 +723,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 04时14分]"
         }
       ]
     },
@@ -635,11 +737,29 @@
           "url": "https://flash.jin10.com/detail/20251111023658524800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时10分 ~ 04时14分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英伟达 台积电 AMD 高通",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "市场消息：英伟达(NVDA.O)与墨西哥数据中心运营商达成合作，将投资200万至400万美元用于建设数据中心。",
+          "url": "https://flash.jin10.com/detail/20251111030044781800",
+          "source": "金十数据",
+          "ranks": [
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时10分"
+          "time_info": "04时14分"
         }
       ]
     },
@@ -654,11 +774,12 @@
           "ranks": [
             20,
             18,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 04时14分]"
         }
       ]
     },
@@ -672,11 +793,12 @@
           "source": "微博",
           "ranks": [
             8,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时16分 ~ 03时10分]"
+          "appearance_count": 4,
+          "time_info": "[02时16分 ~ 04时14分]"
         }
       ]
     }
