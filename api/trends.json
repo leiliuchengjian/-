@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T17:17:07.584543+08:00",
-  "total_titles_processed": 1309,
+  "generated_at": "2025-11-10T18:14:29.824130+08:00",
+  "total_titles_processed": 1389,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 55,
+      "match_count": 59,
       "titles": [
         {
           "title": "中国10月CPI同比增0.2%，核心CPI创2024年3月最高，PPI环比年内首次上涨",
@@ -104,9 +104,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
+        },
+        {
+          "title": "德商银行：尽管通胀高企 土耳其里拉仍面临央行降息压力",
+          "url": "https://flash.jin10.com/detail/20251110180402880800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         },
         {
           "title": "英国央行提议对个人稳定币持有量设置2万英镑的上限，企业持有稳定币的限额为1000万英镑。",
@@ -115,7 +126,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         },
@@ -213,6 +224,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时12分 ~ 03时09分]"
+        },
+        {
+          "title": "英国央行：稳定币持有量应限制在每人2万英镑。 部分零售企业可能可豁免1000万英镑业务限额。",
+          "url": "https://wallstreetcn.com/livenews/3002069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 18时14分]"
         },
         {
           "title": "日本央行审议委员中川顺子：受关税影响，日本企业利润可能走弱，但随着海外经济复苏、实际工资上涨带动消费增加，企业利润随后将有所改善。",
@@ -323,24 +346,13 @@
           "time_info": "[12时20分 ~ 13时13分]"
         },
         {
-          "title": "英国央行：稳定币持有量应限制在每人2万英镑。 部分零售企业可能可豁免1000万英镑业务限额。",
-          "url": "https://wallstreetcn.com/livenews/3002069",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时17分"
-        },
-        {
           "title": "英国央行提议，支持稳定币的资产中，60%可持有短期英国政府债券，且至少40%需存放于英国央行。",
           "url": "https://flash.jin10.com/detail/20251110170326177800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         },
@@ -461,7 +473,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         },
@@ -483,7 +495,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         },
@@ -505,7 +517,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         },
@@ -527,7 +539,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         },
@@ -576,6 +588,17 @@
           "time_info": "09时00分"
         },
         {
+          "title": "英国央行提出稳定币监管新规",
+          "url": "https://flash.jin10.com/detail/20251110173324509800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
           "title": "日本央行10月会议意见摘要：一名委员表示，迈向政策正常化的进一步条件已接近满足，但仍需考察潜在通胀率在多大程度上已趋于稳固。",
           "url": "https://flash.jin10.com/detail/20251110075634854800",
           "source": "金十数据",
@@ -587,6 +610,17 @@
           "time_info": "09时00分"
         },
         {
+          "title": "日本央行前官员片冈刚士：希望提高对日本经济增长的预期。高市政府高度重视经济增长。",
+          "url": "https://flash.jin10.com/detail/20251110172603978800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
           "title": "日本央行10月会议意见摘要：尽管前景仍存在不确定性，但日本将迎来有利环境，可根据经济和物价前景调整政策利率。",
           "url": "https://flash.jin10.com/detail/20251110075446751800",
           "source": "金十数据",
@@ -596,6 +630,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时00分"
+        },
+        {
+          "title": "日本央行前官员片冈刚士：摆脱通缩指日可待。",
+          "url": "https://flash.jin10.com/detail/20251110172314352800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         },
         {
           "title": "日本央行10月意见摘要：一名委员表示，无需急于求成，但必须在不失适当时机的情况下提高利率。",
@@ -645,7 +690,7 @@
     },
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "每人2000美元？特朗普扬言要撒“关税红利”，贝森特暗示通过减税实现！",
@@ -699,11 +744,12 @@
             10,
             18,
             17,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时19分 ~ 17时17分]"
+          "appearance_count": 7,
+          "time_info": "[14时19分 ~ 18时14分]"
         },
         {
           "title": "伊拉克国家石油营销组织SOMO：将12月对亚洲的Basrah Medium Crude（巴士拉中质石油）官方销售价格较阿曼/迪拜均价设在贴水0.35美元/桶。 将12月对欧洲的Basrah Medium Crude官方销售价格较即期布伦特原油均价设在贴水2.95美元/桶。 对12月销往北美和南美的Basrah Medium Crude官方销售价格较阿曼/迪拜均价设在贴水1.35美元/桶。",
@@ -856,13 +902,37 @@
           "time_info": "[14时19分 ~ 15时13分]"
         },
         {
+          "title": "美元兑日元涨0.5%至154.19。",
+          "url": "https://wallstreetcn.com/livenews/3002066",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 18时14分]"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报7.1175，较上一交易日官方收盘价涨50点，较上日夜盘收盘涨35点。",
+          "url": "https://wallstreetcn.com/livenews/3002050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 18时14分]"
+        },
+        {
           "title": "美元兑日元USD/JPY日内涨幅达0.50%，现报154.20。",
           "url": "https://flash.jin10.com/detail/20251110170443806800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         },
@@ -900,15 +970,15 @@
           "time_info": "09时00分"
         },
         {
-          "title": "美元兑日元涨0.5%至154.19。",
-          "url": "https://wallstreetcn.com/livenews/3002066",
-          "source": "华尔街见闻-快讯",
+          "title": "法农：美国政府停摆结束可能终结美元上涨势头",
+          "url": "https://flash.jin10.com/detail/20251110175551284800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时17分"
+          "time_info": "18时14分"
         },
         {
           "title": "现货黄金短线持续走高，突破4060美元/盎司，日内上涨逾60美元，涨幅近1.5%。",
@@ -977,17 +1047,6 @@
           "time_info": "16时18分"
         },
         {
-          "title": "在岸人民币兑美元北京时间16:30官方收报7.1175，较上一交易日官方收盘价涨50点，较上日夜盘收盘涨35点。",
-          "url": "https://wallstreetcn.com/livenews/3002050",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时17分"
-        },
-        {
           "title": "美元兑日元USD/JPY向上触及154，日内涨0.38%。",
           "url": "https://flash.jin10.com/detail/20251110113133293800",
           "source": "金十数据",
@@ -997,6 +1056,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
+        },
+        {
+          "title": "随着全球股市因对美国政府停摆即将结束的乐观情绪而上涨，以色列新谢克尔兑美元汇率创下三年半新高。",
+          "url": "https://flash.jin10.com/detail/20251110173331307800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         },
         {
           "title": "特朗普提出每人派发2000美元关税“分红”，贝森特称或以减税等形式实现",
@@ -1024,7 +1094,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "DeepSeek罕见公开发声，资深研究员陈德里：长期看，AI可能会取代绝大部分人类工作，这不是危言耸听",
@@ -1064,8 +1134,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时43分 ~ 17时17分]"
+          "appearance_count": 12,
+          "time_info": "[10时43分 ~ 18时14分]"
         },
         {
           "title": "每天一个奇吧—novelai吧",
@@ -1083,8 +1153,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时00分 ~ 17时17分]"
+          "appearance_count": 13,
+          "time_info": "[09时00分 ~ 18时14分]"
         },
         {
           "title": "聆听“乌镇声音”：互联网大会上，企业家如何思考AI和未来",
@@ -1136,11 +1206,37 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时19分 ~ 18时14分]"
+        },
+        {
+          "title": "比AI更刺激！“量子神股”19倍涨幅背后：一场基于梦想的豪赌？",
+          "url": "https://www.cls.cn/detail/2195504",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            12,
+            7
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[14时19分 ~ 17时17分]"
+          "time_info": "[15时13分 ~ 18时14分]"
+        },
+        {
+          "title": "电力供应紧张制约AI繁荣 数据中心高需求遭遇供电危机",
+          "url": "https://flash.jin10.com/detail/20251110180623108800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         },
         {
           "title": "美国联邦航空管理局（FAA）：取消针对纽瓦克机场（Newark Airport）的停飞命令。",
@@ -1171,17 +1267,6 @@
           "time_info": "[00时12分 ~ 05时11分]"
         },
         {
-          "title": "美团AI新进展：首款AI IDE产品CatPaw开启公测",
-          "url": "https://wallstreetcn.com/livenews/3002073",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时17分"
-        },
-        {
           "title": "金十数据整理：每日人工智能动态汇总（2025-11-10）",
           "url": "https://flash.jin10.com/detail/20251110120705247800",
           "source": "金十数据",
@@ -1191,19 +1276,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
-        },
-        {
-          "title": "比AI更刺激！“量子神股”19倍涨幅背后：一场基于梦想的豪赌？",
-          "url": "https://www.cls.cn/detail/2195504",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时13分 ~ 17时17分]"
         },
         {
           "title": "美国联邦航空管理局（FAA）：因人手不足问题而对纽瓦克机场（Newark Airport）下达停飞命令。",
@@ -1228,6 +1300,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时19分 ~ 15时13分]"
+        },
+        {
+          "title": "美团AI新进展：首款AI IDE产品CatPaw开启公测",
+          "url": "https://wallstreetcn.com/livenews/3002073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 18时14分]"
         },
         {
           "title": "韩国顶级高校曝作弊丑闻：数百学生涉嫌用AI参加考试",
@@ -1290,6 +1374,18 @@
           "time_info": "[12时20分 ~ 13时13分]"
         },
         {
+          "title": "国家发改委等部门：拓展物联网、云计算、大数据、人工智能、区块链等技术在物流领域的规模化应用",
+          "url": "https://wallstreetcn.com/livenews/3002060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 18时14分]"
+        },
+        {
           "title": "美国参议院民主党议员Kaine表示，他支持共和党提出的结束政府停摆的法案。",
           "url": "https://flash.jin10.com/detail/20251110081812830800",
           "source": "金十数据",
@@ -1323,15 +1419,15 @@
           "time_info": "09时00分"
         },
         {
-          "title": "国家发改委等部门：拓展物联网、云计算、大数据、人工智能、区块链等技术在物流领域的规模化应用",
-          "url": "https://wallstreetcn.com/livenews/3002060",
-          "source": "华尔街见闻-快讯",
+          "title": "人工智能替代人工作之后，人们去干什么？",
+          "url": "https://www.zhihu.com/question/1969381221114048758",
+          "source": "知乎",
           "ranks": [
-            12
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时17分"
+          "time_info": "18时14分"
         },
         {
           "title": "中信建投：寻找业绩弹性，把握结构性行情，重点关注AI、新能源等方向",
@@ -1359,7 +1455,7 @@
     },
     {
       "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "商务部回应欧方关于安世半导体问题的声明",
@@ -1407,6 +1503,18 @@
           "time_info": "[00时12分 ~ 06时10分]"
         },
         {
+          "title": "安世恢复部分芯片供应，日德汽车制造商迎首批供货",
+          "url": "https://news.ifeng.com/c/8oAQxZU4bUY",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时19分 ~ 18时14分]"
+        },
+        {
           "title": "预计四季度存储价格有望维持上涨趋势 存储芯片概念股涨停 本周机构密集调研相关上市公司",
           "url": "https://www.cls.cn/detail/2195307",
           "source": "财联社热门",
@@ -1421,18 +1529,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时00分 ~ 15时13分]"
-        },
-        {
-          "title": "安世恢复部分芯片供应，日德汽车制造商迎首批供货",
-          "url": "https://news.ifeng.com/c/8oAQxZU4bUY",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时19分 ~ 17时17分]"
         },
         {
           "title": "黄仁勋亲赴台积电“讨要更多芯片” 回应存储短缺、涨价等问题",
@@ -1480,6 +1576,17 @@
           "time_info": "[12时20分 ~ 13时13分]"
         },
         {
+          "title": "【焦点复盘】沪指四连阳创年内收盘新高，涨价概念强者恒强，存储芯片概念再度爆发",
+          "url": "https://www.cls.cn/detail/2196110",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
           "title": "中金：大幅上调华虹半导体目标价至110港元 维持“跑赢行业”评级",
           "url": "https://wallstreetcn.com/livenews/3001970",
           "source": "华尔街见闻-快讯",
@@ -1494,7 +1601,7 @@
     },
     {
       "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "高铁票买到19排但车厢只有17排，武汉客运段回应",
@@ -1522,11 +1629,12 @@
             22,
             26,
             21,
-            24
+            24,
+            14
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时09分 ~ 17时17分]"
+          "appearance_count": 20,
+          "time_info": "[01时09分 ~ 18时14分]"
         },
         {
           "title": "高铁为何会出现“幽灵座位”",
@@ -1541,6 +1649,17 @@
           "time_info": "[05时10分 ~ 07时10分]"
         },
         {
+          "title": "官方回应地铁内一女生衣服自燃：包里的充电宝冒烟",
+          "url": "https://news.ifeng.com/c/8oARksMaKIk",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时13分 ~ 18时14分]"
+        },
+        {
           "title": "长沙地铁内女生衣服自燃？官方回应",
           "url": "https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E5%9C%B0%E9%93%81%E5%86%85%E5%A5%B3%E7%94%9F%E8%A1%A3%E6%9C%8D%E8%87%AA%E7%87%83%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
@@ -1552,15 +1671,17 @@
           "time_info": "[14时19分 ~ 17时17分]"
         },
         {
-          "title": "官方回应地铁内一女生衣服自燃：包里的充电宝冒烟",
-          "url": "https://news.ifeng.com/c/8oARksMaKIk",
-          "source": "凤凰网",
+          "title": "长沙地铁内一女生衣物起火",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%95%BF%E6%B2%99%E5%9C%B0%E9%93%81%E5%86%85%E4%B8%80%E5%A5%B3%E7%94%9F%E8%A1%A3%E7%89%A9%E8%B5%B7%E7%81%AB&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26realpos%3D17%26lcate%3D5001%26pos%3D18%26band_rank%3D17%26filter_type%3Drealtimehot%26q%3D%25E9%2595%25BF%25E6%25B2%2599%25E5%259C%25B0%25E9%2593%2581%25E5%2586%2585%25E4%25B8%2580%25E5%25A5%25B3%25E7%2594%259F%25E8%25A1%25A3%25E7%2589%25A9%25E8%25B5%25B7%25E7%2581%25AB%26stream_entry_id%3D31%26dgr%3D0%26c_type%3D31%26cate%3D5001%26display_time%3D1762762690%26pre_seqid%3D17627626904900201023515&launchid=10000360-page_H5",
+          "source": "微博",
           "ranks": [
-            12
+            17,
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时13分 ~ 17时17分]"
+          "appearance_count": 4,
+          "time_info": "[16时18分 ~ 18时14分]"
         },
         {
           "title": "墨西哥政府宣布针对Michoacan州相关的安全计划，将向当地部署10,506名军事人员。 经济部长Ebrard称，墨西哥将向当地基础设施投资393亿墨西哥比索。 总统辛鲍姆表示，该投资计划总额超过570亿比索。",
@@ -1589,18 +1710,6 @@
           "time_info": "[14时19分 ~ 16时17分]"
         },
         {
-          "title": "长沙地铁内一女生衣物起火",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%95%BF%E6%B2%99%E5%9C%B0%E9%93%81%E5%86%85%E4%B8%80%E5%A5%B3%E7%94%9F%E8%A1%A3%E7%89%A9%E8%B5%B7%E7%81%AB&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26realpos%3D17%26lcate%3D5001%26pos%3D18%26band_rank%3D17%26filter_type%3Drealtimehot%26q%3D%25E9%2595%25BF%25E6%25B2%2599%25E5%259C%25B0%25E9%2593%2581%25E5%2586%2585%25E4%25B8%2580%25E5%25A5%25B3%25E7%2594%259F%25E8%25A1%25A3%25E7%2589%25A9%25E8%25B5%25B7%25E7%2581%25AB%26stream_entry_id%3D31%26dgr%3D0%26c_type%3D31%26cate%3D5001%26display_time%3D1762762690%26pre_seqid%3D17627626904900201023515&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时18分 ~ 17时17分]"
-        },
-        {
           "title": "女子坐高铁遗落价值百万金条",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%9D%90%E9%AB%98%E9%93%81%E9%81%97%E8%90%BD%E4%BB%B7%E5%80%BC%E7%99%BE%E4%B8%87%E9%87%91%E6%9D%A1",
           "source": "百度热搜",
@@ -1608,8 +1717,19 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时16分 ~ 17时17分]"
+          "appearance_count": 3,
+          "time_info": "[17时16分 ~ 18时14分]"
+        },
+        {
+          "title": "国办：引导民间资本有序参与低空经济领域基础设施建设",
+          "url": "https://wallstreetcn.com/livenews/3002075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         },
         {
           "title": "谢娜坐高铁偶遇王鹤棣",
@@ -1626,7 +1746,7 @@
     },
     {
       "keyword_group": "创业板",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "上证指数早盘收报3996.26点，跌0.03%。 深证成指早盘收报13325.35点，跌0.59%。 创业板指早盘收报3139.88点，跌2.13%。 沪深300早盘收报4667.62点，跌0.24%。 科创50早盘收报1390.89点，跌1.75%。 中证500早盘收报7293.50点，跌0.47%。 中证1000早盘收报7520.16点，跌0.29%。",
@@ -1679,6 +1799,17 @@
           "time_info": "[11时46分 ~ 12时20分]"
         },
         {
+          "title": "【午报】创业板指跌超2%，大消费方向集体爆发，算力硬件股再遭调整",
+          "url": "https://www.cls.cn/detail/2195675",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
           "title": "创业板指跌超1%，沪指跌0.04%，深成指跌0.21%，船舶制造、机器人、铜缆高速连接、风电设备等方向跌幅居前，沪深京三市下跌个股超2000只。",
           "url": "https://wallstreetcn.com/livenews/3001846",
           "source": "华尔街见闻-快讯",
@@ -1710,6 +1841,69 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 iPhone",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "商品期货收盘，碳酸锂主力合约涨超7%，沪银涨超2%，沪金涨2%，苹果、氧化铝、纸浆、液化气、纯碱、工业硅、原油、多晶硅涨超1%。玻璃跌超2%，集运欧线、焦炭、沥青、鸡蛋跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3001987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时13分 ~ 16时18分]"
+        },
+        {
+          "title": "最好吃的苹果方式",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E6%9C%80%E5%A5%BD%E5%90%83%E7%9A%84%E8%8B%B9%E6%9E%9C%E6%96%B9%E5%BC%8F&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26realpos%3D19%26band_rank%3D19%26stream_entry_id%3D31%26q%3D%25E6%259C%2580%25E5%25A5%25BD%25E5%2590%2583%25E7%259A%2584%25E8%258B%25B9%25E6%259E%259C%25E6%2596%25B9%25E5%25BC%258F%26dgr%3D0%26pos%3D20%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26lcate%3D5001%26display_time%3D1762748290%26pre_seqid%3D17627482900440270975626&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时20分 ~ 13时13分]"
+        },
+        {
+          "title": "苹果界有自己的小甜心",
+          "url": "https://www.douyin.com/hot/2301389",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
+          "title": "苹果煮水改善气色养护皮肤",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%8B%B9%E6%9E%9C%E7%85%AE%E6%B0%B4%E6%94%B9%E5%96%84%E6%B0%94%E8%89%B2%E5%85%BB%E6%8A%A4%E7%9A%AE%E8%82%A4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E8%258B%25B9%25E6%259E%259C%25E7%2585%25AE%25E6%25B0%25B4%25E6%2594%25B9%25E5%2596%2584%25E6%25B0%2594%25E8%2589%25B2%25E5%2585%25BB%25E6%258A%25A4%25E7%259A%25AE%25E8%2582%25A4%2523%26realpos%3D21%26cate%3D5001%26band_rank%3D21%26stream_entry_id%3D31%26flag%3D1%26lcate%3D5001%26dgr%3D0%26filter_type%3Drealtimehot%26pos%3D21%26c_type%3D31%26display_time%3D1762736350%26pre_seqid%3D17627363500580333299794&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时00分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约涨跌互现。碳酸锂涨超6%，沪银涨超2%，苹果、沪金、工业硅、PX涨超1%；跌幅方面，玻璃跌超3%，集运欧线跌近2%，焦煤、焦炭、沥青跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251110113035556800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时20分"
         }
       ]
     },
@@ -1747,11 +1941,12 @@
           "url": "https://wallstreetcn.com/livenews/3002065",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 18时14分]"
         },
         {
           "title": "台积电10月营收3674.7亿元新台币 同比增长16.9%",
@@ -1791,8 +1986,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时19分 ~ 17时17分]"
+          "appearance_count": 7,
+          "time_info": "[14时19分 ~ 18时14分]"
         },
         {
           "title": "日本央行10月会议意见摘要：一名委员表示，鉴于实际利率已大幅为负，有必要关注房地产价格的走势。",
@@ -1826,58 +2021,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 iPhone",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "商品期货收盘，碳酸锂主力合约涨超7%，沪银涨超2%，沪金涨2%，苹果、氧化铝、纸浆、液化气、纯碱、工业硅、原油、多晶硅涨超1%。玻璃跌超2%，集运欧线、焦炭、沥青、鸡蛋跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3001987",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时13分 ~ 16时18分]"
-        },
-        {
-          "title": "最好吃的苹果方式",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E6%9C%80%E5%A5%BD%E5%90%83%E7%9A%84%E8%8B%B9%E6%9E%9C%E6%96%B9%E5%BC%8F&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26realpos%3D19%26band_rank%3D19%26stream_entry_id%3D31%26q%3D%25E6%259C%2580%25E5%25A5%25BD%25E5%2590%2583%25E7%259A%2584%25E8%258B%25B9%25E6%259E%259C%25E6%2596%25B9%25E5%25BC%258F%26dgr%3D0%26pos%3D20%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26lcate%3D5001%26display_time%3D1762748290%26pre_seqid%3D17627482900440270975626&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时20分 ~ 13时13分]"
-        },
-        {
-          "title": "苹果煮水改善气色养护皮肤",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%8B%B9%E6%9E%9C%E7%85%AE%E6%B0%B4%E6%94%B9%E5%96%84%E6%B0%94%E8%89%B2%E5%85%BB%E6%8A%A4%E7%9A%AE%E8%82%A4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E8%258B%25B9%25E6%259E%259C%25E7%2585%25AE%25E6%25B0%25B4%25E6%2594%25B9%25E5%2596%2584%25E6%25B0%2594%25E8%2589%25B2%25E5%2585%25BB%25E6%258A%25A4%25E7%259A%25AE%25E8%2582%25A4%2523%26realpos%3D21%26cate%3D5001%26band_rank%3D21%26stream_entry_id%3D31%26flag%3D1%26lcate%3D5001%26dgr%3D0%26filter_type%3Drealtimehot%26pos%3D21%26c_type%3D31%26display_time%3D1762736350%26pre_seqid%3D17627363500580333299794&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时00分"
-        },
-        {
-          "title": "早盘收盘，国内期货主力合约涨跌互现。碳酸锂涨超6%，沪银涨超2%，苹果、沪金、工业硅、PX涨超1%；跌幅方面，玻璃跌超3%，集运欧线跌近2%，焦煤、焦炭、沥青跌超1%。",
-          "url": "https://flash.jin10.com/detail/20251110113035556800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时20分"
         }
       ]
     },
@@ -1990,11 +2133,12 @@
             14,
             12,
             9,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时20分 ~ 17时17分]"
+          "appearance_count": 9,
+          "time_info": "[12时20分 ~ 18时14分]"
         }
       ]
     },
