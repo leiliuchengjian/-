@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-11T15:13:21.909116+08:00",
-  "total_titles_processed": 1321,
+  "generated_at": "2025-11-11T16:16:27.501459+08:00",
+  "total_titles_processed": 1426,
   "failed_sources": [],
   "trends": [
     {
@@ -38,6 +38,19 @@
           "time_info": "[00时15分 ~ 14时19分]"
         },
         {
+          "title": "市场“大事件”：特朗普首次明确“关税返还”具体金额，每人2000美元重现“疫情支票”？",
+          "url": "https://wallstreetcn.com/articles/3759093",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时41分 ~ 16时16分]"
+        },
+        {
           "title": "巴菲特谢幕信：已捐13亿美元股票",
           "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E8%8F%B2%E7%89%B9%E8%B0%A2%E5%B9%95%E4%BF%A1%EF%BC%9A%E5%B7%B2%E6%8D%9013%E4%BA%BF%E7%BE%8E%E5%85%83%E8%82%A1%E7%A5%A8",
           "source": "百度热搜",
@@ -51,28 +64,16 @@
           "time_info": "[08时52分 ~ 13时14分]"
         },
         {
-          "title": "市场“大事件”：特朗普首次明确“关税返还”具体金额，每人2000美元重现“疫情支票”？",
-          "url": "https://wallstreetcn.com/articles/3759093",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时41分 ~ 15时13分]"
-        },
-        {
           "title": "“承诺给300万美元”！俄方：成功挫败英乌策反行动",
           "url": "https://news.ifeng.com/c/8oC55O37Uvz",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时19分 ~ 15时13分]"
+          "appearance_count": 3,
+          "time_info": "[14时19分 ~ 16时16分]"
         },
         {
           "title": "美元兑瑞郎短线走低，日内整体涨幅收窄至不足0.1%。 据媒体报道，瑞士接近与美国围绕15%的关税达成协议。",
@@ -114,7 +115,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -528,7 +529,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -657,7 +658,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 32,
+      "match_count": 36,
       "titles": [
         {
           "title": "复盘“五大泡沫指标”，高盛认为“当下更像1997而非1999，AI牛市还有下半场”",
@@ -696,11 +697,12 @@
             14,
             16,
             17,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时15分 ~ 15时13分]"
+          "appearance_count": 21,
+          "time_info": "[00时15分 ~ 16时16分]"
         },
         {
           "title": "台积电10月营收增速放缓 AI热潮可持续性再受质疑",
@@ -756,6 +758,18 @@
           "time_info": "[08时52分 ~ 14时19分]"
         },
         {
+          "title": "“把算力送入太空！” 中国企业卡位“太空AI”前沿赛道｜聚焦",
+          "url": "https://www.cls.cn/detail/2196710",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时19分 ~ 16时16分]"
+        },
+        {
           "title": "现在的 AI 能够给黑白漫画上色了吗？",
           "url": "https://www.zhihu.com/question/1450725457",
           "source": "知乎",
@@ -783,15 +797,18 @@
           "time_info": "[07时11分 ~ 12时17分]"
         },
         {
-          "title": "“把算力送入太空！” 中国企业卡位“太空AI”前沿赛道｜聚焦",
-          "url": "https://www.cls.cn/detail/2196710",
+          "title": "美国AI被电力卡了脖子？大量数据中心面临闲置风险 电力设备行业或迎机遇",
+          "url": "https://www.cls.cn/detail/2196681",
           "source": "财联社热门",
           "ranks": [
-            5
+            13,
+            11,
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时19分 ~ 15时13分]"
+          "appearance_count": 6,
+          "time_info": "[12时16分 ~ 16时16分]"
         },
         {
           "title": "市场消息：韩国拟建的大型数据中心或将成为首个由人工智能建设和运营的数据中心，该数据中心将由人工智能设计和运营，仅需极少的人工监管。",
@@ -838,19 +855,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
-        },
-        {
-          "title": "美国AI被电力卡了脖子？大量数据中心面临闲置风险 电力设备行业或迎机遇",
-          "url": "https://www.cls.cn/detail/2196681",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时16分 ~ 15时13分]"
         },
         {
           "title": "摩根大通：AI的5万亿美元成本将需要所有的债务市场（来满足）。",
@@ -956,13 +960,46 @@
           "time_info": "01时11分"
         },
         {
+          "title": "OpenAI挖走英特尔印度大将",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%8C%96%E8%B5%B0%E8%8B%B1%E7%89%B9%E5%B0%94%E5%8D%B0%E5%BA%A6%E5%A4%A7%E5%B0%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
+          "title": "2025乌镇峰会观察：AI大模型“上身”机器人 浙江本土科技力量成新焦点",
+          "url": "https://www.cls.cn/detail/2196822",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
+          "title": "“AI吞电巨兽”推动核电热潮！美能源部长表态全力支持：将获最多贷款",
+          "url": "https://www.cls.cn/detail/2196615",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
           "title": "受AI估值飙升推动 软银第二财季净利润激增",
           "url": "https://flash.jin10.com/detail/20251111145137340800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -995,7 +1032,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -1017,9 +1054,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
+        },
+        {
+          "title": "京东：双11期间数码AI产品成交额同比增长超过100%",
+          "url": "https://wallstreetcn.com/livenews/3002613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "李飞飞教授预言AI下一个十年",
@@ -1047,7 +1095,7 @@
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 17,
+      "match_count": 24,
       "titles": [
         {
           "title": "美联储米兰：12月降息50个基点更为合适，至少也应降25个基点",
@@ -1060,6 +1108,39 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[10时28分 ~ 15时13分]"
+        },
+        {
+          "title": "利率期货定价英国央行到2026年底将降息65个基点，高于英国就业数据公布前的57个基点。",
+          "url": "https://flash.jin10.com/detail/20251111154326536800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
+          "title": "交易员加大对英国央行的降息押注；市场预期12月将降息20个基点。",
+          "url": "https://flash.jin10.com/detail/20251111153416481800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
+          "title": "美银：泰国央行降息门槛或已提高",
+          "url": "https://flash.jin10.com/detail/20251111153308023800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "特朗普在FOX NEWS一段此前录制的采访中表示：物价很快就会下降；将充实国家战略储备。 50年期住房抵押贷款不是什么大问题，它可能有助于提高住房负担能力。",
@@ -1158,6 +1239,17 @@
           "time_info": "13时14分"
         },
         {
+          "title": "欧洲央行执委Elderson：通胀风险平衡。",
+          "url": "https://wallstreetcn.com/livenews/3002633",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
           "title": "加拿大削减移民计划 或减少降息需求",
           "url": "https://flash.jin10.com/detail/20251110233622495800",
           "source": "金十数据",
@@ -1191,6 +1283,28 @@
           "time_info": "07时11分"
         },
         {
+          "title": "韩国央行会议纪要：一名委员表示，有必要全面评估进一步宽松政策的潜在益处和副作用。",
+          "url": "https://flash.jin10.com/detail/20251111151353178800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
+          "title": "英国利率期货价格预期英国央行将在2026年底前降息65个基点，此前预期降息57个基点。",
+          "url": "https://wallstreetcn.com/livenews/3002619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
           "title": "美国圣路易联储主席Musalem（2025年FOMC票委）：继续降息的空间有限。 保持谨慎行动的态度具有重要意义。 感觉我们掌握了足够的信息来做决定。 实际联邦基金利率已经在过去一年下降250个基点。 降息将向劳动力市场提供保障。 继续侧重于压低通胀具有重要意义。 我们需要继续侧重于通胀。",
           "url": "https://wallstreetcn.com/livenews/3002217",
           "source": "华尔街见闻-快讯",
@@ -1200,6 +1314,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "交易员加大对英国央行的降息押注，预期12月将降息20个基点。",
+          "url": "https://wallstreetcn.com/livenews/3002616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "美联储理事米兰：自九月以来的所有数据都指向降息。",
@@ -1272,7 +1397,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -1283,7 +1408,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -1319,11 +1444,12 @@
           "source": "微博",
           "ranks": [
             14,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时14分 ~ 15时13分]"
+          "appearance_count": 4,
+          "time_info": "[13时14分 ~ 16时16分]"
         },
         {
           "title": "先锋领航三季度增持特斯拉 减持苹果",
@@ -1362,6 +1488,18 @@
           "time_info": "[04时14分 ~ 05时11分]"
         },
         {
+          "title": "iPhone 18 系列十大升级曝光，将使用 2nm 工艺芯片，首次采用钢壳电池，还有哪些看点？",
+          "url": "https://www.zhihu.com/question/1970403661520790690",
+          "source": "知乎",
+          "ranks": [
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时13分 ~ 16时16分]"
+        },
+        {
           "title": "曝富士康拆除iPhoneAir大部分生产线",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%9B%9D%E5%AF%8C%E5%A3%AB%E5%BA%B7%E6%8B%86%E9%99%A4iPhoneAir%E5%A4%A7%E9%83%A8%E5%88%86%E7%94%9F%E4%BA%A7%E7%BA%BF%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26pos%3D27%26lcate%3D5001%26filter_type%3Drealtimehot%26band_rank%3D26%26c_type%3D31%26realpos%3D26%26dgr%3D0%26cate%3D5001%26q%3D%2523%25E6%259B%259D%25E5%25AF%258C%25E5%25A3%25AB%25E5%25BA%25B7%25E6%258B%2586%25E9%2599%25A4iPhoneAir%25E5%25A4%25A7%25E9%2583%25A8%25E5%2588%2586%25E7%2594%259F%25E4%25BA%25A7%25E7%25BA%25BF%2523%26flag%3D1%26display_time%3D1762828117%26pre_seqid%3D176282811736601983536102&launchid=10000360-page_H5",
           "source": "微博",
@@ -1384,17 +1522,6 @@
           "time_info": "[12时16分 ~ 12时17分]"
         },
         {
-          "title": "iPhone 18 系列十大升级曝光，将使用 2nm 工艺芯片，首次采用钢壳电池，还有哪些看点？",
-          "url": "https://www.zhihu.com/question/1970403661520790690",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时13分"
-        },
-        {
           "title": "道指转跌，成分股家得宝、Salesforce、美国运通、宝洁、雪佛龙、可口可乐、联合健康、波音目前至多跌2%，苹果、3M、亚马逊、高盛、思科、微软、英伟达目前仍然至少涨超0.6%。",
           "url": "https://wallstreetcn.com/livenews/3002239",
           "source": "华尔街见闻-快讯",
@@ -1409,7 +1536,7 @@
     },
     {
       "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "【焦点复盘】沪指四连阳创年内收盘新高，涨价概念强者恒强，存储芯片概念再度爆发",
@@ -1437,13 +1564,24 @@
           "time_info": "08时53分"
         },
         {
+          "title": "港股收盘：恒生指数收涨0.18%，恒生科技指数涨0.15%。小鹏汽车涨近18%；华虹半导体跌超3%，中芯国际跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3002639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
           "title": "【创业板指高开低走跌1.4%，超硬材料、光伏板块逆势走强】市场全天震荡调整，深成指、创业板指均跌超1%。超硬材料概念逆势大涨，四方达、黄河旋风涨停。光伏板块集体走强，中来股份、协鑫集成等封板。大消费板块午后拉升，欢乐家、三元股份等涨停。下跌方面，存储芯片板块调整，香农芯创跌超10%；算力硬件股下挫，天孚通信跌超7%。个股涨跌互现，今日成交2.01万亿。截止收盘沪指跌0.39%，深成指跌1.03%，创业板指跌1.4%。",
           "url": "https://wallstreetcn.com/livenews/3002588",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -1520,6 +1658,105 @@
       ]
     },
     {
+      "keyword_group": "华为 小米 荣耀",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "小米汽车10月零售销量48654辆",
+          "url": "https://www.toutiao.com/trending/7570297906926747684/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            10,
+            15,
+            23,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 06时12分]"
+        },
+        {
+          "title": "欧盟正研究强制成员国移除华为和中兴设备，中方回应",
+          "url": "https://news.ifeng.com/c/8oCBMrJmR3z",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
+          "title": "外媒称欧盟正研究强制成员国移除华为中兴设备，外交部回应",
+          "url": "https://www.cls.cn/detail/2197114",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
+          "title": "小米SU7改款涨价近1万",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%B0%8F%E7%B1%B3SU7%E6%94%B9%E6%AC%BE%E6%B6%A8%E4%BB%B7%E8%BF%911%E4%B8%87&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%25E5%25B0%258F%25E7%25B1%25B3SU7%25E6%2594%25B9%25E6%25AC%25BE%25E6%25B6%25A8%25E4%25BB%25B7%25E8%25BF%25911%25E4%25B8%2587%26flag%3D0%26c_type%3D31%26pos%3D6%26cate%3D5001%26stream_entry_id%3D31%26realpos%3D6%26lcate%3D5001%26band_rank%3D6%26dgr%3D0%26filter_type%3Drealtimehot%26display_time%3D1762822297%26pre_seqid%3D17628222974510289870844&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时52分 ~ 08时53分]"
+        },
+        {
+          "title": "荣耀400系列全球发货量突破600万台",
+          "url": "https://www.toutiao.com/trending/7571065369415155731/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时16分 ~ 12时17分]"
+        },
+        {
+          "title": "汇丰：将小米集团(01810.HK)目标价从75.90港元下调至65.40港元。",
+          "url": "https://flash.jin10.com/detail/20251111152458984800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
+          "title": "华为Mate 70 Air今日开售",
+          "url": "https://wallstreetcn.com/livenews/3002430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        },
+        {
+          "title": "一辆小米SU7在常州街头起火",
+          "url": "https://www.toutiao.com/trending/7570637396262797318/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        }
+      ]
+    },
+    {
       "keyword_group": "英伟达 台积电 AMD 高通",
       "match_count": 7,
       "titles": [
@@ -1531,8 +1768,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时52分 ~ 15时13分]"
+          "appearance_count": 11,
+          "time_info": "[08时52分 ~ 16时16分]"
         },
         {
           "title": "美股收盘：美国政府有望结束停摆 纳指反弹2.3% 英伟达涨超5%",
@@ -1588,7 +1825,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -1680,7 +1917,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -1731,7 +1968,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -1742,7 +1979,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -1767,72 +2004,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "华为 小米 荣耀",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "小米汽车10月零售销量48654辆",
-          "url": "https://www.toutiao.com/trending/7570297906926747684/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            10,
-            15,
-            23,
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 06时12分]"
-        },
-        {
-          "title": "小米SU7改款涨价近1万",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%B0%8F%E7%B1%B3SU7%E6%94%B9%E6%AC%BE%E6%B6%A8%E4%BB%B7%E8%BF%911%E4%B8%87&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%25E5%25B0%258F%25E7%25B1%25B3SU7%25E6%2594%25B9%25E6%25AC%25BE%25E6%25B6%25A8%25E4%25BB%25B7%25E8%25BF%25911%25E4%25B8%2587%26flag%3D0%26c_type%3D31%26pos%3D6%26cate%3D5001%26stream_entry_id%3D31%26realpos%3D6%26lcate%3D5001%26band_rank%3D6%26dgr%3D0%26filter_type%3Drealtimehot%26display_time%3D1762822297%26pre_seqid%3D17628222974510289870844&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时52分 ~ 08时53分]"
-        },
-        {
-          "title": "荣耀400系列全球发货量突破600万台",
-          "url": "https://www.toutiao.com/trending/7571065369415155731/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时16分 ~ 12时17分]"
-        },
-        {
-          "title": "华为Mate 70 Air今日开售",
-          "url": "https://wallstreetcn.com/livenews/3002430",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "一辆小米SU7在常州街头起火",
-          "url": "https://www.toutiao.com/trending/7570637396262797318/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时13分"
         }
       ]
     },
@@ -1904,7 +2075,7 @@
     },
     {
       "keyword_group": "双十一 618 电商 优惠券",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "双十一商品到手价全凭运气",
@@ -1923,6 +2094,20 @@
           "time_info": "[08时52分 ~ 15时13分]"
         },
         {
+          "title": "劣质硬盘横行5大电商平台，澎湃记者购买6块：发货地和发货人手机号码均相同",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31928723",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            10,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时28分 ~ 16时16分]"
+        },
+        {
           "title": "双十一商品到手价全凭运气",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%8F%8C%E5%8D%81%E4%B8%80%E5%95%86%E5%93%81%E5%88%B0%E6%89%8B%E4%BB%B7%E5%85%A8%E5%87%AD%E8%BF%90%E6%B0%94%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D8%26flag%3D0%26lcate%3D5001%26pos%3D8%26band_rank%3D8%26filter_type%3Drealtimehot%26q%3D%2523%25E5%258F%258C%25E5%258D%2581%25E4%25B8%2580%25E5%2595%2586%25E5%2593%2581%25E5%2588%25B0%25E6%2589%258B%25E4%25BB%25B7%25E5%2585%25A8%25E5%2587%25AD%25E8%25BF%2590%25E6%25B0%2594%2523%26stream_entry_id%3D31%26dgr%3D0%26c_type%3D31%26cate%3D5001%26display_time%3D1762798539%26pre_seqid%3D176279853992002010245112&launchid=10000360-page_H5",
           "source": "微博",
@@ -1936,19 +2121,6 @@
           "time_info": "[02时16分 ~ 07时11分]"
         },
         {
-          "title": "劣质硬盘横行5大电商平台，澎湃记者购买6块：发货地和发货人手机号码均相同",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31928723",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时28分 ~ 15时13分]"
-        },
-        {
           "title": "双十一这3种套路千万小心",
           "url": "https://www.baidu.com/s?wd=%E5%8F%8C%E5%8D%81%E4%B8%80%E8%BF%993%E7%A7%8D%E5%A5%97%E8%B7%AF%E5%8D%83%E4%B8%87%E5%B0%8F%E5%BF%83",
           "source": "百度热搜",
@@ -1956,8 +2128,99 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时16分 ~ 15时13分]"
+          "appearance_count": 6,
+          "time_info": "[12时16分 ~ 16时16分]"
+        },
+        {
+          "title": "双十一就是买完你的买你的",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%8F%8C%E5%8D%81%E4%B8%80%E5%B0%B1%E6%98%AF%E4%B9%B0%E5%AE%8C%E4%BD%A0%E7%9A%84%E4%B9%B0%E4%BD%A0%E7%9A%84%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D28%26realpos%3D28%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26q%3D%2523%25E5%258F%258C%25E5%258D%2581%25E4%25B8%2580%25E5%25B0%25B1%25E6%2598%25AF%25E4%25B9%25B0%25E5%25AE%258C%25E4%25BD%25A0%25E7%259A%2584%25E4%25B9%25B0%25E4%25BD%25A0%25E7%259A%2584%2523%26cate%3D5001%26pos%3D28%26lcate%3D5001%26stream_entry_id%3D31%26dgr%3D0%26display_time%3D1762848817%26pre_seqid%3D176284881791102007453158&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "基础设施 基建 地铁 高铁",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "德国总理默茨被指将巨额国防基建贷款转用于福利与减税",
+          "url": "https://flash.jin10.com/detail/20251111133301464800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "国家发改委：83个基础设施REITs项目已发行上市 预计可带动新项目总投资超过1万亿元",
+          "url": "https://wallstreetcn.com/livenews/3002620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
+          "title": "当地州长表示，乌克兰无人机袭击损坏了俄罗斯萨拉托夫地区的民用基础设施。",
+          "url": "https://flash.jin10.com/detail/20251111080216596800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源汽车 电动汽车 智能驾驶",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "10月我国新能源汽车销量首次超总销量的50%",
+          "url": "https://wallstreetcn.com/livenews/3002545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 15时13分]"
+        },
+        {
+          "title": "周一（11月10日），彭博电动汽车价格回报指数涨1.32%，报3493.41点。",
+          "url": "https://wallstreetcn.com/livenews/3002338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时12分 ~ 07时11分]"
+        },
+        {
+          "title": "保持较高增长！10月我国新能源汽车销量首次超总销量的50%",
+          "url": "https://www.cls.cn/detail/2196971",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         }
       ]
     },
@@ -1986,64 +2249,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "德国总理默茨被指将巨额国防基建贷款转用于福利与减税",
-          "url": "https://flash.jin10.com/detail/20251111133301464800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "当地州长表示，乌克兰无人机袭击损坏了俄罗斯萨拉托夫地区的民用基础设施。",
-          "url": "https://flash.jin10.com/detail/20251111080216596800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源汽车 电动汽车 智能驾驶",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "10月我国新能源汽车销量首次超总销量的50%",
-          "url": "https://wallstreetcn.com/livenews/3002545",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时19分 ~ 15时13分]"
-        },
-        {
-          "title": "周一（11月10日），彭博电动汽车价格回报指数涨1.32%，报3493.41点。",
-          "url": "https://wallstreetcn.com/livenews/3002338",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时12分 ~ 07时11分]"
         }
       ]
     },
