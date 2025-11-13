@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T03:10:29.098026+08:00",
-  "total_titles_processed": 520,
+  "generated_at": "2025-11-14T04:14:23.766285+08:00",
+  "total_titles_processed": 562,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 37,
+      "match_count": 40,
       "titles": [
         {
           "title": "中国10月新增社融8100亿元，新增人民币贷款2200亿元，M2-M1剪刀差扩大",
@@ -16,19 +16,33 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 03时10分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 04时14分]"
         },
         {
-          "title": "现货钯金跌3%，报1413美元/盎司。 现货铂金跌超3%，至1555.55美元。",
-          "url": "https://wallstreetcn.com/livenews/3004343",
+          "title": "美政府重开利好消化，美股低开低走，标普500指数跌超1%，美元走软",
+          "url": "https://wallstreetcn.com/articles/3759298",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时13分 ~ 04时14分]"
+        },
+        {
+          "title": "WTI 12月原油期货收涨0.20美元，涨幅0.34%，报58.69美元/桶。 布伦特1月原油期货收涨0.30美元，涨幅0.48%，报63.01美元/桶。 中东Abu Dhabi Murban原油期货涨0.76%，报65.07美元/桶。 NYMEX 12月天然气期货收报4.6460美元/百万英热单位。 NYMEX 12月汽油期货收报1.9597美元/加仑，NYMEX 12月取暖油期货收报2.4646美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3004353",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时10分"
+          "time_info": "04时14分"
         },
         {
           "title": "美元兑瑞郎USD/CHF日内走低0.50%，现报0.7937。",
@@ -48,9 +62,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0965元，较周三夜盘收盘涨160点。成交量509.14亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3004345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
         },
         {
           "title": "美国小企业管理局（SBA）：特朗普政府关门妨碍SBA向小企业投放50亿美元（资金支持措施）。",
@@ -58,11 +83,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            18
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时16分 ~ 04时14分]"
+        },
+        {
+          "title": "现货钯金跌3%，报1413美元/盎司。 现货铂金跌超3%，至1555.55美元。",
+          "url": "https://wallstreetcn.com/livenews/3004343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时16分 ~ 03时10分]"
+          "time_info": "[03时10分 ~ 04时14分]"
         },
         {
           "title": "美国财政部拍卖250亿美元30年期国债，得标利率4.694%，投标倍数2.29。",
@@ -70,24 +108,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 03时10分]"
-        },
-        {
-          "title": "美政府重开利好消化，美股低开低走，标普500指数跌超1%，美元走软",
-          "url": "https://wallstreetcn.com/articles/3759298",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 03时10分]"
+          "appearance_count": 3,
+          "time_info": "[02时16分 ~ 04时14分]"
         },
         {
           "title": "LME期铜收涨12美元，报10956美元/吨。 LME期铝收涨2美元，报2896美元/吨。 LME期锌收跌20美元，报3055美元/吨。 LME期铅收跌18美元，报2078美元/吨。 LME期镍收跌72美元，报14981美元/吨。 LME期锡收跌167美元，报37232美元/吨。 LME期钴收平，报48570美元/吨。",
@@ -95,11 +121,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 03时10分]"
+          "appearance_count": 3,
+          "time_info": "[02时16分 ~ 04时14分]"
         },
         {
           "title": "巴西石油公司Petrobras计划2026-30年实施1060亿美元开支。",
@@ -114,6 +141,30 @@
           "time_info": "[02时16分 ~ 03时10分]"
         },
         {
+          "title": "现货黄金日内跌幅达0.5%，报4172.32美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3004334",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时10分 ~ 04时14分]"
+        },
+        {
+          "title": "上期所原油期货2512合约夜盘收跌0.62%，报451.60元人民币/桶。 沪金夜盘收涨0.11%，沪银收涨0.40%。",
+          "url": "https://wallstreetcn.com/livenews/3004333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时10分 ~ 04时14分]"
+        },
+        {
           "title": "周四（11月13日），韩元兑美元最终涨0.24%，报1465.26韩元。",
           "url": "https://wallstreetcn.com/livenews/3004311",
           "source": "华尔街见闻-快讯",
@@ -126,13 +177,49 @@
           "time_info": "[02时16分 ~ 03时10分]"
         },
         {
+          "title": "周四（11月13日），美联储隔夜逆回购协议（RRP）使用规模为37.61亿美元，上个交易日报58.86亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3004330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时10分 ~ 04时14分]"
+        },
+        {
+          "title": "美国克利夫兰联储主席Hammack（2026年FOMC票委）：美元走软让其更加符合“历史性的公允值”。",
+          "url": "https://wallstreetcn.com/livenews/3004329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时10分 ~ 04时14分]"
+        },
+        {
+          "title": "报道：欧盟考虑整合非美国家的美元储备，以期减少对美联储的依赖",
+          "url": "https://wallstreetcn.com/livenews/3004319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时10分 ~ 04时14分]"
+        },
+        {
           "title": "现货白银日内跌幅达2.00%，现报52.19美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251114023819866800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
         },
@@ -159,24 +246,13 @@
           "time_info": "00时16分"
         },
         {
-          "title": "现货黄金日内跌幅达0.5%，报4172.32美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3004334",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时10分"
-        },
-        {
           "title": "现货黄金日内跌超1.00%，现报4152.30美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251114023555094800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
         },
@@ -192,24 +268,13 @@
           "time_info": "00时16分"
         },
         {
-          "title": "上期所原油期货2512合约夜盘收跌0.62%，报451.60元人民币/桶。 沪金夜盘收涨0.11%，沪银收涨0.40%。",
-          "url": "https://wallstreetcn.com/livenews/3004333",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时10分"
-        },
-        {
           "title": "现货钯金日内跌幅达2.00%，现报1433.64美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251114023530668800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
         },
@@ -231,29 +296,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时10分"
-        },
-        {
-          "title": "周四（11月13日），美联储隔夜逆回购协议（RRP）使用规模为37.61亿美元，上个交易日报58.86亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3004330",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时10分"
-        },
-        {
-          "title": "美国克利夫兰联储主席Hammack（2026年FOMC票委）：美元走软让其更加符合“历史性的公允值”。",
-          "url": "https://wallstreetcn.com/livenews/3004329",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
         },
@@ -264,7 +307,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
         },
@@ -286,7 +329,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
         },
@@ -308,7 +351,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
         },
@@ -330,7 +373,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
         },
@@ -363,20 +406,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
         },
         {
-          "title": "报道：欧盟考虑整合非美国家的美元储备，以期减少对美联储的依赖",
-          "url": "https://wallstreetcn.com/livenews/3004319",
-          "source": "华尔街见闻-快讯",
+          "title": "以太坊回落至3200美元/枚下方，日内跌6.34%。",
+          "url": "https://flash.jin10.com/detail/20251114025011150800",
+          "source": "金十数据",
           "ranks": [
-            24
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时10分"
+          "time_info": "04时14分"
         },
         {
           "title": "欧洲官员们考虑集中美元 降低对美联储的依赖",
@@ -385,7 +428,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
         },
@@ -418,7 +461,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
         }
@@ -437,8 +480,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 03时10分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 04时14分]"
         },
         {
           "title": "腾讯电话会：2025年全年实际资本支出将低于指引，GPU储备足够内部使用，微信最终将推出一个AI智能体",
@@ -449,8 +492,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 03时10分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 04时14分]"
         },
         {
           "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
@@ -463,8 +506,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 03时10分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 04时14分]"
         },
         {
           "title": "美联储穆萨莱姆：人工智能似乎正在提高生产力，同时取代工人。",
@@ -473,7 +516,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
         },
@@ -483,11 +526,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            25
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时16分 ~ 04时14分]"
+        },
+        {
+          "title": "美国圣路易联储主席Musalem（2025年FOMC票委）：AI似乎支持生产力。 对“已经宣布的大部分裁员都与AI相关”保持怀疑态度，更有可能解释了自动化。",
+          "url": "https://wallstreetcn.com/livenews/3004338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时16分 ~ 03时10分]"
+          "time_info": "[03时10分 ~ 04时14分]"
         },
         {
           "title": "AI会如何改编游戏行业",
@@ -499,17 +555,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时15分 ~ 00时16分]"
-        },
-        {
-          "title": "美国圣路易联储主席Musalem（2025年FOMC票委）：AI似乎支持生产力。 对“已经宣布的大部分裁员都与AI相关”保持怀疑态度，更有可能解释了自动化。",
-          "url": "https://wallstreetcn.com/livenews/3004338",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时10分"
         },
         {
           "title": "马斯克：媒体关于xAI融资的报道“不实”。",
@@ -540,7 +585,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
         },
@@ -618,6 +663,18 @@
           "time_info": "[01时13分 ~ 02时16分]"
         },
         {
+          "title": "瑞士央行Tschudin：希望维持通胀在0%-2%。",
+          "url": "https://wallstreetcn.com/livenews/3004327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时10分 ~ 04时14分]"
+        },
+        {
           "title": "据知情人士透露，欧洲官员们考虑集中美元（pooling dollar），从而降低对美联储的依赖程度。 欧洲官员的担忧大约在4月份有所上升，但由于美联储的保证，随后又有所消退。 集中美元的做法面临实际困难，可能不可行。 欧洲金融稳定官员正在讨论，是否要创建一个替代美联储的资金支持机制，将美国以外国家持有的美元集中起来。 在特朗普政府的领导下，各国央行试图减少对美国的依赖。 白宫发言人表示：“美国总统特朗普已经‘多次重申他致力于维持美元的强势和力量’。”（路透）",
           "url": "https://wallstreetcn.com/livenews/3004319",
           "source": "华尔街见闻-快讯",
@@ -662,17 +719,6 @@
           "time_info": "02时16分"
         },
         {
-          "title": "瑞士央行Tschudin：希望维持通胀在0%-2%。",
-          "url": "https://wallstreetcn.com/livenews/3004327",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时10分"
-        },
-        {
           "title": "MPC委员Greene：美联储独立性面临的政治压力日益严重，需警惕对英国央行的威胁",
           "url": "https://wallstreetcn.com/livenews/3004260",
           "source": "华尔街见闻-快讯",
@@ -709,7 +755,7 @@
     },
     {
       "keyword_group": "苹果 iPhone",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "报道：苹果与腾讯达成小程序游戏支付协议，将收取15%佣金",
@@ -719,8 +765,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 03时10分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 04时14分]"
         },
         {
           "title": "淄博卖苹果大哥是J人吧",
@@ -731,8 +777,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 03时10分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 04时14分]"
+        },
+        {
+          "title": "苹果推出小程序合作伙伴计划：抽成降至15%",
+          "url": "https://flash.jin10.com/detail/20251114034042642800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
         },
         {
           "title": "特斯拉车载系统拟支持苹果CarPlay功能",
@@ -812,11 +869,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 03时10分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 04时14分]"
         },
         {
           "title": "因起火风险，特斯拉在美召回1.05万个Powerwall 2电池",
@@ -913,8 +971,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 03时10分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 04时14分]"
         },
         {
           "title": "悄悄关闭旗下基金，大空头Burry辟谣9亿美元做空英伟达和Palantir：一共才花了920万",
@@ -925,8 +983,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 03时10分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 04时14分]"
         },
         {
           "title": "猪队友？王义川质疑英伟达案涉图利，遭同党王世坚打脸",
@@ -936,8 +994,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 03时10分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 04时14分]"
         },
         {
           "title": "纳指跌幅扩大至2%、标普500指数现跌1.29%。甲骨文(ORCL.N)跌3.7%、英伟达(NVDA.O)跌4%。",
@@ -957,7 +1015,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
         },
@@ -971,6 +1029,68 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时15分 ~ 00时16分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体 芯片 集成电路",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "纳斯达克100指数跌超2%，费城半导体指数跌幅扩大至约4%。",
+          "url": "https://wallstreetcn.com/livenews/3004331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时10分 ~ 04时14分]"
+        },
+        {
+          "title": "英伟达下跌5%，费城半导体指数跌超4.5%。",
+          "url": "https://wallstreetcn.com/livenews/3004337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时10分"
+        },
+        {
+          "title": "英伟达下跌5%，费城半导体指数跌超4.5%。 纳斯达克中国金龙指数跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3004337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
+          "title": "费城半导体指数下跌4.5%",
+          "url": "https://flash.jin10.com/detail/20251114025015028800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
+          "title": "行业ETF美股盘初普遍下跌，半导体ETF跌1.2%，科技行业ETF跌0.7%，全球科技股指数ETF跌0.66%，能源业ETF涨0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3004250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
         }
       ]
     },
@@ -995,11 +1115,12 @@
           "url": "https://wallstreetcn.com/livenews/3004339",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时10分 ~ 04时14分]"
         },
         {
           "title": "哈塞特确认会公布十月就业报告 但将不含失业率数据",
@@ -1036,11 +1157,12 @@
           "ranks": [
             2,
             7,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 03时10分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 04时14分]"
         },
         {
           "title": "男子地铁站大便事发地成打卡点",
@@ -1051,8 +1173,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 03时10分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 04时14分]"
         },
         {
           "title": "Telus首席信息官：Telus正与潜在合作伙伴就人工智能基础设施的扩展进行洽谈。",
@@ -1064,45 +1186,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "英伟达下跌5%，费城半导体指数跌超4.5%。",
-          "url": "https://wallstreetcn.com/livenews/3004337",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时10分"
-        },
-        {
-          "title": "纳斯达克100指数跌超2%，费城半导体指数跌幅扩大至约4%。",
-          "url": "https://wallstreetcn.com/livenews/3004331",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时10分"
-        },
-        {
-          "title": "行业ETF美股盘初普遍下跌，半导体ETF跌1.2%，科技行业ETF跌0.7%，全球科技股指数ETF跌0.66%，能源业ETF涨0.6%。",
-          "url": "https://wallstreetcn.com/livenews/3004250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
         }
       ]
     },
@@ -1119,8 +1202,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 03时10分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 04时14分]"
         },
         {
           "title": "《沉默的荣耀》后劲为啥这么大",
@@ -1147,11 +1230,12 @@
           "ranks": [
             6,
             13,
-            30
+            30,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 03时10分]"
+          "appearance_count": 6,
+          "time_info": "[01时13分 ~ 04时14分]"
         }
       ]
     },
@@ -1168,8 +1252,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 03时10分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 04时14分]"
         }
       ]
     },
@@ -1186,8 +1270,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 03时10分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 04时14分]"
         }
       ]
     }
