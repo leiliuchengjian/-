@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T14:18:15.916185+08:00",
-  "total_titles_processed": 1281,
+  "generated_at": "2025-11-14T15:12:42.183876+08:00",
+  "total_titles_processed": 1343,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 76,
+      "match_count": 77,
       "titles": [
         {
           "title": "鹰派言论引发风险资产抛售，纳指跌超2%，比特币跌破10万美元，人民币涨破7.10",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时52分 ~ 14时18分]"
+          "appearance_count": 10,
+          "time_info": "[08时52分 ~ 15时12分]"
         },
         {
           "title": "美政府重开利好消化，美股低开低走，标普500指数跌超1%，美元走软",
@@ -39,11 +39,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时15分 ~ 14时18分]"
+          "appearance_count": 22,
+          "time_info": "[00时15分 ~ 15时12分]"
         },
         {
           "title": "美国被曝要求台投资3500亿至5500亿美元，台湾各界震惊",
@@ -53,19 +54,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时40分 ~ 14时18分]"
-        },
-        {
-          "title": "比特币现货ETF单日资金流出近8.7亿美元，创历史第二高",
-          "url": "https://flash.jin10.com/detail/20251114140922355800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时18分"
+          "appearance_count": 8,
+          "time_info": "[11时40分 ~ 15时12分]"
         },
         {
           "title": "比特币短线走低2000美元，跌破97000美元/枚，刷新5月8日以来新低，日内跌2.72%。",
@@ -77,17 +67,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
-        },
-        {
-          "title": "韩国贸易部：韩国与美国签署3500亿美元战略投资谅解备忘录，韩美将在2029年1月前遴选战略投资方案。韩国将在收到美方通知后45天内支付战略投资方案款项。",
-          "url": "https://wallstreetcn.com/livenews/3004626",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时18分"
         },
         {
           "title": "韩国总统顾问：若外汇市场出现不稳定，韩国可调整每年200亿美元的支付额。",
@@ -121,17 +100,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
-        },
-        {
-          "title": "韩国贸易部：韩国与美国签署3500亿美元战略投资谅解备忘录。",
-          "url": "https://flash.jin10.com/detail/20251114140448290800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时18分"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0965元，较周三夜盘收盘涨160点。成交量509.14亿美元。",
@@ -231,6 +199,18 @@
           "time_info": "[12时15分 ~ 14时18分]"
         },
         {
+          "title": "比特币现货ETF单日资金流出近8.7亿美元，创历史第二高",
+          "url": "https://flash.jin10.com/detail/20251114140922355800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时18分 ~ 15时12分]"
+        },
+        {
           "title": "网红券商Robinhood10月托管资产3430亿美元。 净存款56亿美元。",
           "url": "https://wallstreetcn.com/livenews/3004386",
           "source": "华尔街见闻-快讯",
@@ -253,6 +233,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时19分 ~ 07时11分]"
+        },
+        {
+          "title": "韩国贸易部：韩国与美国签署3500亿美元战略投资谅解备忘录，韩美将在2029年1月前遴选战略投资方案。韩国将在收到美方通知后45天内支付战略投资方案款项。",
+          "url": "https://wallstreetcn.com/livenews/3004626",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时18分 ~ 15时12分]"
+        },
+        {
+          "title": "韩国贸易部：韩国与美国签署3500亿美元战略投资谅解备忘录。",
+          "url": "https://flash.jin10.com/detail/20251114140448290800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时18分 ~ 15时12分]"
         },
         {
           "title": "周四（11月13日）纽约尾盘，现货白银跌1.71%，报52.3391美元/盎司，日内交投于54.3910-52.0741美元。 COMEX白银期货跌2.21%，报52.275美元/盎司。 COMEX铜期货跌0.96%，报5.0565美元/磅。 现货铂金跌2.07%，报1583.16美元/盎司；现货钯金跌2.78%，报1431.04美元/盎司。",
@@ -591,6 +595,17 @@
           "time_info": "03时10分"
         },
         {
+          "title": "伯克希尔哈撒韦周五发行2101亿日元（14亿美元）的日元债券，发行利差较上次发行有所下降。此次发行包括四种在美国证交会注册的高级无抵押债券，期限从3年到15年不等，总募资额超过4月发行的的900亿日元。",
+          "url": "https://wallstreetcn.com/livenews/3004638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
+        },
+        {
           "title": "英镑兑美元GBP/USD站上1.32，日内涨0.51%。",
           "url": "https://flash.jin10.com/detail/20251114003318169800",
           "source": "金十数据",
@@ -784,7 +799,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
         },
@@ -891,8 +906,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时52分 ~ 14时18分]"
+          "appearance_count": 10,
+          "time_info": "[08时52分 ~ 15时12分]"
         },
         {
           "title": "美股收盘：美联储降息预期骤降 科技股抛售加剧 纳指大跌2.3%",
@@ -1003,6 +1018,18 @@
           "time_info": "[11时41分 ~ 13时13分]"
         },
         {
+          "title": "印度卢比逼近历史低点 央行出手干预外汇市场",
+          "url": "https://flash.jin10.com/detail/20251114140201312800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时18分 ~ 15时12分]"
+        },
+        {
           "title": "交易员预计，美联储12月降息概率不足50%。",
           "url": "https://wallstreetcn.com/livenews/3004299",
           "source": "华尔街见闻-快讯",
@@ -1049,17 +1076,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时41分 ~ 12时15分]"
-        },
-        {
-          "title": "印度卢比逼近历史低点 央行出手干预外汇市场",
-          "url": "https://flash.jin10.com/detail/20251114140201312800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时18分"
         },
         {
           "title": "据知情人士透露，欧洲官员们考虑集中美元（pooling dollar），从而降低对美联储的依赖程度。 欧洲官员的担忧大约在4月份有所上升，但由于美联储的保证，随后又有所消退。 集中美元的做法面临实际困难，可能不可行。 欧洲金融稳定官员正在讨论，是否要创建一个替代美联储的资金支持机制，将美国以外国家持有的美元集中起来。 在特朗普政府的领导下，各国央行试图减少对美国的依赖。 白宫发言人表示：“美国总统特朗普已经‘多次重申他致力于维持美元的强势和力量’。”（路透）",
@@ -1240,11 +1256,25 @@
             6,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时15分 ~ 14时18分]"
+          "appearance_count": 22,
+          "time_info": "[00时15分 ~ 15时12分]"
+        },
+        {
+          "title": "华尔街警告声愈发强烈！专家：AI泡沫终将带来损失，信贷“蟑螂”比比皆是！",
+          "url": "https://www.cls.cn/detail/2200326",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时28分 ~ 15时12分]"
         },
         {
           "title": "AI造世界的时代来了",
@@ -1257,24 +1287,12 @@
             7,
             11,
             13,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时15分 ~ 14时18分]"
-        },
-        {
-          "title": "华尔街警告声愈发强烈！专家：AI泡沫终将带来损失，信贷“蟑螂”比比皆是！",
-          "url": "https://www.cls.cn/detail/2200326",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时28分 ~ 14时18分]"
+          "appearance_count": 22,
+          "time_info": "[00时15分 ~ 15时12分]"
         },
         {
           "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
@@ -1287,8 +1305,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时15分 ~ 14时18分]"
+          "appearance_count": 22,
+          "time_info": "[00时15分 ~ 15时12分]"
         },
         {
           "title": "美联储穆萨莱姆：人工智能似乎正在提高生产力，同时取代工人。",
@@ -1363,6 +1381,18 @@
           "time_info": "[03时10分 ~ 04时14分]"
         },
         {
+          "title": "甲骨文AI豪赌令投资者大感不安 成科技抛售潮的最大受害者",
+          "url": "https://flash.jin10.com/detail/20251114134034298800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时18分 ~ 15时12分]"
+        },
+        {
           "title": "Mira Murati旗下AI初创公司Thinking Machines Lab洽谈按500亿美元估值融资。",
           "url": "https://wallstreetcn.com/livenews/3004372",
           "source": "华尔街见闻-快讯",
@@ -1384,17 +1414,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时15分 ~ 00时16分]"
-        },
-        {
-          "title": "甲骨文AI豪赌令投资者大感不安 成科技抛售潮的最大受害者",
-          "url": "https://flash.jin10.com/detail/20251114134034298800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时18分"
         },
         {
           "title": "中信证券：AI投资机会扩散，关注算力产业链和AI应用",
@@ -1425,7 +1444,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
         },
@@ -1510,7 +1529,7 @@
     },
     {
       "keyword_group": "苹果 iPhone",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "报道：苹果与腾讯达成小程序游戏支付协议，将收取15%佣金",
@@ -1522,8 +1541,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时15分 ~ 14时18分]"
+          "appearance_count": 22,
+          "time_info": "[00时15分 ~ 15时12分]"
         },
         {
           "title": "淄博卖苹果大哥是J人吧",
@@ -1549,8 +1568,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时52分 ~ 14时18分]"
+          "appearance_count": 10,
+          "time_info": "[08时52分 ~ 15时12分]"
         },
         {
           "title": "iPhone Pocket开箱",
@@ -1562,8 +1581,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时40分 ~ 14时18分]"
+          "appearance_count": 8,
+          "time_info": "[11时40分 ~ 15时12分]"
         },
         {
           "title": "特斯拉“破戒”拥抱苹果？据称马斯克终于要让CarPlay上车",
@@ -1639,6 +1658,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时28分 ~ 11时40分]"
+        },
+        {
+          "title": "商品期货收盘，苹果、豆一主力合约涨超2%，瓶片、苯乙烯、PTA、乙二醇、原木、液化气涨超1%。甲醇跌超2%，玻璃、焦煤、沪锡、工业硅、沪镍、集运欧线、碳酸锂跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3004656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
         },
         {
           "title": "特斯拉车载系统拟支持苹果CarPlay功能",
@@ -1765,7 +1795,7 @@
     },
     {
       "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "特斯拉 model y 长续航版 821 公里 78.4 度电池，百公里仅耗电 9.5 度，如何看待这一成绩？",
@@ -1922,13 +1952,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "比亚迪海豹06DM-i超享版上市",
+          "url": "https://www.toutiao.com/trending/7571661668691673097/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
         }
       ]
     },
     {
       "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "瑞芯微：公司不同SoC均具备多类型DDR支持能力 下一代旗舰芯片计划明年推出",
+          "url": "https://wallstreetcn.com/livenews/3004665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
+        },
+        {
+          "title": "东芯股份：砺算科技首款图形渲染GPU芯片正在送样、推广中",
+          "url": "https://wallstreetcn.com/livenews/3004663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
+        },
         {
           "title": "韩国总统顾问：美国将给予韩国芯片关税优惠条件。 与美国达成共识，有必要确保汇市的稳定。 与美国同意若有稳定汇市之必要，可以调整提供给美国资金的金额与时间。",
           "url": "https://wallstreetcn.com/livenews/3004533",
@@ -1939,6 +2002,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
+        },
+        {
+          "title": "沪指跌近1%失守4000点，存储芯片板块集体调整",
+          "url": "https://wallstreetcn.com/livenews/3004659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
         },
         {
           "title": "纳斯达克100指数跌超2%，费城半导体指数跌幅扩大至约4%。",
@@ -2075,6 +2149,17 @@
           "time_info": "[11时41分 ~ 13时13分]"
         },
         {
+          "title": "10月70城最新房价出炉",
+          "url": "https://www.toutiao.com/trending/7571680206164000804/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时17分 ~ 15时12分]"
+        },
+        {
           "title": "国家统计局谈投资增速放缓：房地产行业调整的下拉作用比较明显",
           "url": "https://wallstreetcn.com/livenews/3004553",
           "source": "华尔街见闻-快讯",
@@ -2085,17 +2170,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时41分 ~ 12时15分]"
-        },
-        {
-          "title": "10月70城最新房价出炉",
-          "url": "https://www.toutiao.com/trending/7571680206164000804/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时17分 ~ 14时18分]"
         },
         {
           "title": "国家统计局：1-10月份，全国房地产开发投资73563亿元，同比下降14.7%",
@@ -2159,19 +2233,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时15分 ~ 14时18分]"
-        },
-        {
-          "title": "猪队友？王义川质疑英伟达案涉图利，遭同党王世坚打脸",
-          "url": "https://news.ifeng.com/c/8oFgqnUl7nU",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时15分 ~ 10时28分]"
+          "appearance_count": 22,
+          "time_info": "[00时15分 ~ 15时12分]"
         },
         {
           "title": "BBC拒绝赔偿特朗普 贝莱德三季度增持英伟达 | 环球市场",
@@ -2183,8 +2246,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时52分 ~ 14时18分]"
+          "appearance_count": 10,
+          "time_info": "[08时52分 ~ 15时12分]"
+        },
+        {
+          "title": "猪队友？王义川质疑英伟达案涉图利，遭同党王世坚打脸",
+          "url": "https://news.ifeng.com/c/8oFgqnUl7nU",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时15分 ~ 10时28分]"
         },
         {
           "title": "纳指跌幅扩大至2%、标普500指数现跌1.29%。甲骨文(ORCL.N)跌3.7%、英伟达(NVDA.O)跌4%。",
@@ -2344,8 +2418,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时17分 ~ 14时18分]"
+          "appearance_count": 3,
+          "time_info": "[14时17分 ~ 15时12分]"
         },
         {
           "title": "Telus首席信息官：Telus正与潜在合作伙伴就人工智能基础设施的扩展进行洽谈。",
@@ -2365,7 +2439,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
         },
@@ -2376,7 +2450,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
         }
@@ -2384,7 +2458,7 @@
     },
     {
       "keyword_group": "创业板",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "【焦点复盘】创业板指放量涨超2%，锂电、储能赛道持续火爆，“宁王”盘中一度飙升逾9%",
@@ -2424,6 +2498,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时41分 ~ 13时13分]"
+        },
+        {
+          "title": "上证指数收报3990.49点，跌0.97%。 深证成指收报13216.03点，跌1.93%。 创业板指收报3111.51点，跌2.82%。 沪深300收报4628.14点，跌1.57%。 科创50收报1361.23点，跌2.72%。 中证500收报7235.46点，跌1.63%。 中证1000收报7502.76点，跌1.16%。",
+          "url": "https://wallstreetcn.com/livenews/3004658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
         }
       ]
     },
@@ -2440,11 +2525,12 @@
             10,
             15,
             16,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时15分 ~ 14时18分]"
+          "appearance_count": 22,
+          "time_info": "[00时15分 ~ 15时12分]"
         },
         {
           "title": "《沉默的荣耀》后劲为啥这么大",
@@ -2515,11 +2601,12 @@
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%2321%E5%B2%81%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%B8%AE%E4%BA%BA%E8%B7%A8%E7%9C%81%E5%8F%96%E5%BF%AB%E9%80%92%E8%8E%B7%E5%88%91%E6%97%A0%E6%9C%9F%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26pos%3D15%26lcate%3D5001%26q%3D%252321%25E5%25B2%2581%25E5%25A4%25A7%25E5%25AD%25A6%25E7%2594%259F%25E5%25B8%25AE%25E4%25BA%25BA%25E8%25B7%25A8%25E7%259C%2581%25E5%258F%2596%25E5%25BF%25AB%25E9%2580%2592%25E8%258E%25B7%25E5%2588%2591%25E6%2597%25A0%25E6%259C%259F%2523%26flag%3D1%26filter_type%3Drealtimehot%26band_rank%3D14%26stream_entry_id%3D31%26cate%3D5001%26dgr%3D0%26realpos%3D14%26display_time%3D1763101015%26pre_seqid%3D17631010155920115099402&launchid=10000360-page_H5",
           "source": "微博",
           "ranks": [
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时17分 ~ 14时18分]"
+          "appearance_count": 3,
+          "time_info": "[14时17分 ~ 15时12分]"
         }
       ]
     }
