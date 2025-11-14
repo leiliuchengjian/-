@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T07:11:43.327739+08:00",
-  "total_titles_processed": 701,
+  "generated_at": "2025-11-14T08:52:42.009232+08:00",
+  "total_titles_processed": 841,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 56,
+      "match_count": 62,
       "titles": [
         {
           "title": "美政府重开利好消化，美股低开低走，标普500指数跌超1%，美元走软",
@@ -31,8 +31,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时15分 ~ 07时11分]"
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 08时52分]"
+        },
+        {
+          "title": "鹰派言论引发风险资产抛售，纳指跌超2%，比特币跌破10万美元，人民币涨破7.10",
+          "url": "https://wallstreetcn.com/articles/3759298",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
         },
         {
           "title": "美元兑瑞郎USD/CHF日内走低0.50%，现报0.7937。",
@@ -66,6 +77,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "韩元兑美元日内涨幅扩大至近1%，此前韩国称将采取措施稳定汇率。",
+          "url": "https://wallstreetcn.com/livenews/3004460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
         },
         {
           "title": "美国小企业管理局（SBA）：特朗普政府关门妨碍SBA向小企业投放50亿美元（资金支持措施）。",
@@ -311,6 +333,17 @@
           "time_info": "[03时10分 ~ 04时14分]"
         },
         {
+          "title": "韩元兑美元上涨近1%。",
+          "url": "https://flash.jin10.com/detail/20251114083616091800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
           "title": "现货白银日内跌幅达2.00%，现报52.19美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251114023819866800",
           "source": "金十数据",
@@ -331,6 +364,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
+        },
+        {
+          "title": "韩元兑美元大幅转升，韩国财长称准备采取措施稳定汇市，将讨论措施应对韩元贬值。",
+          "url": "https://flash.jin10.com/detail/20251114082141818800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
+          "title": "WTI原油站上59美元/桶，日内涨0.83%。",
+          "url": "https://flash.jin10.com/detail/20251114081908856800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
         },
         {
           "title": "英镑兑美元上涨0.5%，刷新两周高位至1.3195。",
@@ -361,9 +416,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "韩元兑美元转而上涨0.3%，此前韩国称将采取措施稳定汇率。",
+          "url": "https://wallstreetcn.com/livenews/3004455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
         },
         {
           "title": "现货黄金日内跌超1.00%，现报4152.30美元/盎司。",
@@ -655,8 +721,32 @@
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
+        {
+          "title": "美股收盘：美联储降息预期骤降 科技股抛售加剧 纳指大跌2.3%",
+          "url": "https://www.cls.cn/detail/2200254",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时18分 ~ 08时52分]"
+        },
+        {
+          "title": "【早报】吴清访问法国、巴西金融监管部门；降息悬念待解，美联储官员密集发声",
+          "url": "https://www.cls.cn/detail/2200278",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
         {
           "title": "市场消息：加拿大央行将于12月16日恢复购买国库券。",
           "url": "https://flash.jin10.com/detail/20251114043345518800",
@@ -724,18 +814,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时11分 ~ 06时19分]"
-        },
-        {
-          "title": "美股收盘：美联储降息预期骤降 科技股抛售加剧 纳指大跌2.3%",
-          "url": "https://www.cls.cn/detail/2200254",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时18分 ~ 07时11分]"
         },
         {
           "title": "交易员预计，美联储12月降息概率不足50%。",
@@ -915,12 +993,224 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        },
+        {
+          "title": "秘鲁央行将基准利率维持在4.25%不变。",
+          "url": "https://wallstreetcn.com/livenews/3004433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
+          "title": "日本经济财政大臣城内实：日元走弱会通过进口成本推动CPI上升。",
+          "url": "https://flash.jin10.com/detail/20251114074506681800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 iPhone",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "报道：苹果与腾讯达成小程序游戏支付协议，将收取15%佣金",
+          "url": "https://wallstreetcn.com/articles/3759322",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 08时52分]"
+        },
+        {
+          "title": "淄博卖苹果大哥是J人吧",
+          "url": "https://www.douyin.com/hot/2304052",
+          "source": "抖音",
+          "ranks": [
+            8,
+            5,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 08时52分]"
+        },
+        {
+          "title": "贝莱德三季度增持近1950万股英伟达，减持苹果",
+          "url": "https://wallstreetcn.com/livenews/3004409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 07时11分]"
+        },
+        {
+          "title": "苹果推出小程序合作伙伴计划：抽成降至15%",
+          "url": "https://flash.jin10.com/detail/20251114034042642800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时14分 ~ 05时11分]"
+        },
+        {
+          "title": "贝莱德三季度增持近1950万股英伟达 减持苹果",
+          "url": "https://flash.jin10.com/detail/20251114060338341800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 07时11分]"
+        },
+        {
+          "title": "iPhonePocket正式开售",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23iPhonePocket%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%94%AE%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26pos%3D9%26c_type%3D31%26cate%3D5001%26band_rank%3D8%26lcate%3D5001%26flag%3D2%26q%3D%2523iPhonePocket%25E6%25AD%25A3%25E5%25BC%258F%25E5%25BC%2580%25E5%2594%25AE%2523%26stream_entry_id%3D31%26dgr%3D0%26realpos%3D8%26display_time%3D1763081428%26pre_seqid%3D176308142832100560135&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
+          "title": "特斯拉车载系统拟支持苹果CarPlay功能",
+          "url": "https://flash.jin10.com/detail/20251114014129282800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时16分"
+        },
+        {
+          "title": "美国法院：现在，OpenAI与苹果公司必须面临马斯克旗下社交媒体平台X公司（原名推特）的反垄断官司。",
+          "url": "https://wallstreetcn.com/livenews/3004415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
+          "title": "对微信游戏等小程序抽佣15%！苹果推出“小程序合作伙伴计划”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31959387",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
+          "title": "苹果(AAPL.O)：所有美国职业足球大联盟比赛将向Apple TV订阅用户免费提供流媒体服务，无需额外付费。",
+          "url": "https://flash.jin10.com/detail/20251114053244385800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时19分"
+        },
+        {
+          "title": "法院文件显示，美国法官裁定苹果(AAPL.O)和OpenAI目前必须应对社交媒体平台“X”的反垄断诉讼。",
+          "url": "https://flash.jin10.com/detail/20251114061331126800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
+          "title": "据知情人士透露，特斯拉针对苹果公司车载互联解决方案Apple CarPlay系统开发支持功能，已经启动初步测试。 预计未来数月有望推出。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3004284",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时13分"
+        },
+        {
+          "title": "特斯拉拟在测试完成后，于未来数月推出苹果(AAPL.O)车载系统。",
+          "url": "https://flash.jin10.com/detail/20251114002238966800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时13分"
+        },
+        {
+          "title": "特斯拉应用户长期要求，开发对苹果CarPlay的支持。",
+          "url": "https://flash.jin10.com/detail/20251114002216855800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时13分"
+        },
+        {
+          "title": "13F报告显示，荷兰养老金巨头Apg Asset Management NV三季度增持Tractor Supply 361万股，增持Ingrersoll-Rand I 140万股，增持英特尔124万股，并增持博通、Arista Networks、英伟达、腾讯音乐ADR等。 减持花旗集团、艾伯维、Palantir、沃尔玛、百时美施贵宝、Brookfield、辉瑞制药、Rollins等，减持苹果44万股。 重仓股包括英伟达（在投资组合占比8.630%），微软（8.379%），苹果（6.374%），博通、亚马逊、摩根大通、礼来制药。",
+          "url": "https://wallstreetcn.com/livenews/3004297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时16分"
+        },
+        {
+          "title": "苹果腾讯敲定微信游戏抽成协议",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%8B%B9%E6%9E%9C%E8%85%BE%E8%AE%AF%E6%95%B2%E5%AE%9A%E5%BE%AE%E4%BF%A1%E6%B8%B8%E6%88%8F%E6%8A%BD%E6%88%90%E5%8D%8F%E8%AE%AE%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26realpos%3D26%26pos%3D27%26dgr%3D0%26filter_type%3Drealtimehot%26q%3D%2523%25E8%258B%25B9%25E6%259E%259C%25E8%2585%25BE%25E8%25AE%25AF%25E6%2595%25B2%25E5%25AE%259A%25E5%25BE%25AE%25E4%25BF%25A1%25E6%25B8%25B8%25E6%2588%258F%25E6%258A%25BD%25E6%2588%2590%25E5%258D%258F%25E8%25AE%25AE%2523%26c_type%3D31%26band_rank%3D26%26stream_entry_id%3D31%26cate%3D5001%26flag%3D0%26display_time%3D1763057200%26pre_seqid%3D176305720076101141889142&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时16分"
         }
       ]
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "腾讯电话会：2025年全年实际资本支出将低于指引，GPU储备足够内部使用，微信最终将推出一个AI智能体",
@@ -929,11 +1219,12 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时15分 ~ 07时11分]"
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 08时52分]"
         },
         {
           "title": "AI造世界的时代来了",
@@ -942,11 +1233,12 @@
           "ranks": [
             5,
             4,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时15分 ~ 07时11分]"
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 08时52分]"
         },
         {
           "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
@@ -959,8 +1251,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时15分 ~ 07时11分]"
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 08时52分]"
         },
         {
           "title": "美联储穆萨莱姆：人工智能似乎正在提高生产力，同时取代工人。",
@@ -1020,6 +1312,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时15分 ~ 00时16分]"
+        },
+        {
+          "title": "中信证券：AI投资机会扩散，关注算力产业链和AI应用",
+          "url": "https://wallstreetcn.com/livenews/3004456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
         },
         {
           "title": "马斯克：媒体关于xAI融资的报道“不实”。",
@@ -1101,175 +1404,8 @@
       ]
     },
     {
-      "keyword_group": "苹果 iPhone",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "报道：苹果与腾讯达成小程序游戏支付协议，将收取15%佣金",
-          "url": "https://wallstreetcn.com/articles/3759322",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时15分 ~ 07时11分]"
-        },
-        {
-          "title": "淄博卖苹果大哥是J人吧",
-          "url": "https://www.douyin.com/hot/2304052",
-          "source": "抖音",
-          "ranks": [
-            8,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时15分 ~ 07时11分]"
-        },
-        {
-          "title": "贝莱德三季度增持近1950万股英伟达，减持苹果",
-          "url": "https://wallstreetcn.com/livenews/3004409",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时19分 ~ 07时11分]"
-        },
-        {
-          "title": "苹果推出小程序合作伙伴计划：抽成降至15%",
-          "url": "https://flash.jin10.com/detail/20251114034042642800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时14分 ~ 05时11分]"
-        },
-        {
-          "title": "贝莱德三季度增持近1950万股英伟达 减持苹果",
-          "url": "https://flash.jin10.com/detail/20251114060338341800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时19分 ~ 07时11分]"
-        },
-        {
-          "title": "特斯拉车载系统拟支持苹果CarPlay功能",
-          "url": "https://flash.jin10.com/detail/20251114014129282800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "美国法院：现在，OpenAI与苹果公司必须面临马斯克旗下社交媒体平台X公司（原名推特）的反垄断官司。",
-          "url": "https://wallstreetcn.com/livenews/3004415",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "苹果(AAPL.O)：所有美国职业足球大联盟比赛将向Apple TV订阅用户免费提供流媒体服务，无需额外付费。",
-          "url": "https://flash.jin10.com/detail/20251114053244385800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时19分"
-        },
-        {
-          "title": "法院文件显示，美国法官裁定苹果(AAPL.O)和OpenAI目前必须应对社交媒体平台“X”的反垄断诉讼。",
-          "url": "https://flash.jin10.com/detail/20251114061331126800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "据知情人士透露，特斯拉针对苹果公司车载互联解决方案Apple CarPlay系统开发支持功能，已经启动初步测试。 预计未来数月有望推出。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3004284",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        },
-        {
-          "title": "特斯拉拟在测试完成后，于未来数月推出苹果(AAPL.O)车载系统。",
-          "url": "https://flash.jin10.com/detail/20251114002238966800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        },
-        {
-          "title": "特斯拉应用户长期要求，开发对苹果CarPlay的支持。",
-          "url": "https://flash.jin10.com/detail/20251114002216855800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        },
-        {
-          "title": "13F报告显示，荷兰养老金巨头Apg Asset Management NV三季度增持Tractor Supply 361万股，增持Ingrersoll-Rand I 140万股，增持英特尔124万股，并增持博通、Arista Networks、英伟达、腾讯音乐ADR等。 减持花旗集团、艾伯维、Palantir、沃尔玛、百时美施贵宝、Brookfield、辉瑞制药、Rollins等，减持苹果44万股。 重仓股包括英伟达（在投资组合占比8.630%），微软（8.379%），苹果（6.374%），博通、亚马逊、摩根大通、礼来制药。",
-          "url": "https://wallstreetcn.com/livenews/3004297",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "苹果腾讯敲定微信游戏抽成协议",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%8B%B9%E6%9E%9C%E8%85%BE%E8%AE%AF%E6%95%B2%E5%AE%9A%E5%BE%AE%E4%BF%A1%E6%B8%B8%E6%88%8F%E6%8A%BD%E6%88%90%E5%8D%8F%E8%AE%AE%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26realpos%3D26%26pos%3D27%26dgr%3D0%26filter_type%3Drealtimehot%26q%3D%2523%25E8%258B%25B9%25E6%259E%259C%25E8%2585%25BE%25E8%25AE%25AF%25E6%2595%25B2%25E5%25AE%259A%25E5%25BE%25AE%25E4%25BF%25A1%25E6%25B8%25B8%25E6%2588%258F%25E6%258A%25BD%25E6%2588%2590%25E5%258D%258F%25E8%25AE%25AE%2523%26c_type%3D31%26band_rank%3D26%26stream_entry_id%3D31%26cate%3D5001%26flag%3D0%26display_time%3D1763057200%26pre_seqid%3D176305720076101141889142&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "特斯拉 model y 长续航版 821 公里 78.4 度电池，百公里仅耗电 9.5 度，如何看待这一成绩？",
@@ -1346,6 +1482,17 @@
           "time_info": "[06时19分 ~ 07时11分]"
         },
         {
+          "title": "美股全线下挫 特斯拉跌超6%",
+          "url": "https://www.toutiao.com/trending/7571618548569735174/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
           "title": "特斯拉(TSLA.O)跌幅扩大至5%，其此前召回约10500套Powerwall 2交流电池储能系统。",
           "url": "https://flash.jin10.com/detail/20251113233121765800",
           "source": "金十数据",
@@ -1368,6 +1515,17 @@
           "time_info": "00时16分"
         },
         {
+          "title": "美股大跌 特斯拉跌超6%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%A4%A7%E8%B7%8C+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E8%B6%856%25",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
           "title": "美国消费品安全委员会：特斯拉(TSLA.O)召回Powerwall 2交流电池电源系统，原因是有火灾和燃烧危险。",
           "url": "https://flash.jin10.com/detail/20251113231247597800",
           "source": "金十数据",
@@ -1388,6 +1546,92 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英伟达 台积电 AMD 高通",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "科技股再度下挫，道指四连涨创新高，AMD大涨9%，黄金四连涨，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3759214",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 07时11分]"
+        },
+        {
+          "title": "悄悄关闭旗下基金，大空头Burry辟谣9亿美元做空英伟达和Palantir：一共才花了920万",
+          "url": "https://wallstreetcn.com/articles/3759326",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 08时52分]"
+        },
+        {
+          "title": "猪队友？王义川质疑英伟达案涉图利，遭同党王世坚打脸",
+          "url": "https://news.ifeng.com/c/8oFgqnUl7nU",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 08时52分]"
+        },
+        {
+          "title": "纳指跌幅扩大至2%、标普500指数现跌1.29%。甲骨文(ORCL.N)跌3.7%、英伟达(NVDA.O)跌4%。",
+          "url": "https://flash.jin10.com/detail/20251114014837187800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时16分"
+        },
+        {
+          "title": "英伟达(NVDA.O)跌幅扩大至5%。",
+          "url": "https://flash.jin10.com/detail/20251114024030801800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时10分"
+        },
+        {
+          "title": "“大空头”宣布关闭基金并披露做空英伟达、Palantir细节",
+          "url": "https://www.cls.cn/detail/2199634",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 00时16分]"
+        },
+        {
+          "title": "BBC拒绝赔偿特朗普 贝莱德三季度增持英伟达 | 环球市场",
+          "url": "https://www.cls.cn/detail/2200266",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
         }
       ]
     },
@@ -1465,80 +1709,6 @@
       ]
     },
     {
-      "keyword_group": "英伟达 台积电 AMD 高通",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "科技股再度下挫，道指四连涨创新高，AMD大涨9%，黄金四连涨，原油重挫",
-          "url": "https://wallstreetcn.com/articles/3759214",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时15分 ~ 07时11分]"
-        },
-        {
-          "title": "悄悄关闭旗下基金，大空头Burry辟谣9亿美元做空英伟达和Palantir：一共才花了920万",
-          "url": "https://wallstreetcn.com/articles/3759326",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时15分 ~ 07时11分]"
-        },
-        {
-          "title": "猪队友？王义川质疑英伟达案涉图利，遭同党王世坚打脸",
-          "url": "https://news.ifeng.com/c/8oFgqnUl7nU",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时15分 ~ 07时11分]"
-        },
-        {
-          "title": "纳指跌幅扩大至2%、标普500指数现跌1.29%。甲骨文(ORCL.N)跌3.7%、英伟达(NVDA.O)跌4%。",
-          "url": "https://flash.jin10.com/detail/20251114014837187800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "英伟达(NVDA.O)跌幅扩大至5%。",
-          "url": "https://flash.jin10.com/detail/20251114024030801800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时10分"
-        },
-        {
-          "title": "“大空头”宣布关闭基金并披露做空英伟达、Palantir细节",
-          "url": "https://www.cls.cn/detail/2199634",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 00时16分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "就业 裁员 招聘",
       "match_count": 5,
       "titles": [
@@ -1573,7 +1743,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -1657,8 +1827,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时15分 ~ 07时11分]"
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 08时52分]"
         },
         {
           "title": "《沉默的荣耀》后劲为啥这么大",
@@ -1671,6 +1841,34 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时15分 ~ 01时13分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "双十一 618 电商 优惠券",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "华泰证券：“双十一”电商GMV或温和增长 平台端延续分化表现",
+          "url": "https://wallstreetcn.com/livenews/3004452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
+          "title": "聚焦电商领域商标侵权问题 市场监管总局公开征求意见",
+          "url": "https://wallstreetcn.com/livenews/3004449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
         }
       ]
     },
@@ -1708,8 +1906,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时15分 ~ 07时11分]"
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 08时52分]"
         }
       ]
     },
