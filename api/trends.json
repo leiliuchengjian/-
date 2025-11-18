@@ -1,25 +1,11 @@
 {
-  "generated_at": "2025-11-18T22:15:47.275974+08:00",
-  "total_titles_processed": 1803,
-  "failed_sources": [
-    "toutiao",
-    "baidu",
-    "wallstreetcn-hot",
-    "thepaper",
-    "bilibili-hot-search",
-    "cls-hot",
-    "ifeng",
-    "jin10",
-    "wallstreetcn-quick",
-    "tieba",
-    "weibo",
-    "douyin",
-    "zhihu"
-  ],
+  "generated_at": "2025-11-18T23:13:18.805677+08:00",
+  "total_titles_processed": 1937,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 94,
+      "match_count": 101,
       "titles": [
         {
           "title": "美股三大指数齐跌，美债美元走强，金价三连跌，加密货币再大跌",
@@ -27,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[08时51分 ~ 20时22分]"
+          "appearance_count": 19,
+          "time_info": "[08时51分 ~ 23时13分]"
         },
         {
           "title": "美国务院批准约3.3亿美元对台军售，国防部：已提出严正交涉",
@@ -151,6 +138,17 @@
           "time_info": "[08时51分 ~ 13时12分]"
         },
         {
+          "title": "全球市场恐慌发酵：日本股债汇三杀，欧股全线下跌，比特币下破9万美元关口，金价反弹至4060美元",
+          "url": "https://wallstreetcn.com/articles/3759603",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时12分 ~ 23时13分]"
+        },
+        {
           "title": "美股三大指数下挫，美债美元走强，金价三连跌，加密货币再大跌",
           "url": "https://wallstreetcn.com/articles/3759498",
           "source": "华尔街见闻",
@@ -226,6 +224,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
+        },
+        {
+          "title": "丰田拟在美国五个州投资9.12亿美元，提振混合动力汽车生产",
+          "url": "https://wallstreetcn.com/livenews/3006605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "高盛预计，到2026/27年，TTF天然气价格将为29/20欧元/兆瓦时，JKM天然气价格将为10.50/7.30美元/百万英热单位，以刺激额外的天然气需求。",
@@ -801,6 +810,17 @@
           "time_info": "20时23分"
         },
         {
+          "title": "美国民主党参议员桑德斯敦促参议院民主党人在与共和党人就延长《平价医疗法案》税收抵免的谈判中团结一致。桑德斯希望民主党提出的方案能够延长《平价医疗法案》的税收抵免，废除共和党削减1万亿美元的医疗保健的计划，扩大医疗保险覆盖范围，并降低处方药价格。",
+          "url": "https://flash.jin10.com/detail/20251118224533830800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
           "title": "晨壹基金计划为其首只美元基金募资10亿美元。（路透）",
           "url": "https://wallstreetcn.com/livenews/3006357",
           "source": "华尔街见闻-快讯",
@@ -823,6 +843,17 @@
           "time_info": "07时11分"
         },
         {
+          "title": "恒天然：11月18日全球乳品贸易（GDT）拍卖价格指数下降3.0%，奶粉各合同期FAS拍卖均价3678美元/吨。 批发奶粉价格指数下降1.9%，报3452美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3006589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
           "title": "澳洲联储会议纪要：澳元汇率仍接近均衡水平的估计值。",
           "url": "https://flash.jin10.com/detail/20251118083241712800",
           "source": "金十数据",
@@ -832,6 +863,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时52分"
+        },
+        {
+          "title": "美国银行：将霍尼韦尔(HON.O)评级从买入下调至跑输大市评级；将目标价从265美元下调至205美元。",
+          "url": "https://flash.jin10.com/detail/20251118223716127800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "周一（11月17日）纽约尾盘，ICE原糖期货跌1.40%，ICE白糖期货跌2.02%。 ICE阿拉比卡咖啡期货涨0.99%，咖啡“C”期货涨1.03%。 纽约可可期货跌1.03%，报5401美元/吨。ICE棉花期货涨0.12%。",
@@ -1098,6 +1140,17 @@
           "time_info": "08时52分"
         },
         {
+          "title": "现货白银日内涨超1.00%，现报50.71美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251118222343898800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
           "title": "美元兑日元USD/JPY突破前高155.04，再创2月以来新高。",
           "url": "https://flash.jin10.com/detail/20251117230020744800",
           "source": "金十数据",
@@ -1120,6 +1173,17 @@
           "time_info": "06时11分"
         },
         {
+          "title": "美国连锁超市Kroger因门店关闭和自动化将在第三季度计提26亿美元减值损失。",
+          "url": "https://wallstreetcn.com/livenews/3006571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
           "title": "现货黄金日内跌幅达1%，报4004.27美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3006329",
           "source": "华尔街见闻-快讯",
@@ -1134,7 +1198,7 @@
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 49,
+      "match_count": 51,
       "titles": [
         {
           "title": "“新美联储通讯社”：不管降息与否，美联储12月会议都可能有至少3张反对票",
@@ -1149,8 +1213,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时27分 ~ 20时22分]"
+          "appearance_count": 17,
+          "time_info": "[10时27分 ~ 23时13分]"
         },
         {
           "title": "美联储理事沃勒支持12月降息，副主席Jefferson强调谨慎缓慢推进政策",
@@ -1633,6 +1697,17 @@
           "time_info": "11时40分"
         },
         {
+          "title": "英国央行首席经济学家Pill：在充满不确定的当下，需要奉行渐进式主义。",
+          "url": "https://wallstreetcn.com/livenews/3006584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
           "title": "泰国央行：泰国银行体系依然稳健。",
           "url": "https://flash.jin10.com/detail/20251118153150756800",
           "source": "金十数据",
@@ -1697,12 +1772,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "英国央行首席经济学家Pill：薪资增速显著高于与目标相一致的利率水平。 就业市场不同的指标释放出良莠不齐的信号。 薪资、价格形势与目标并不一致。 并不认为我自己的立场自上一次货币政策委员会（MPC）会议以来发生了太大的转变。 MPC称，中性利率处于2%-4%。",
+          "url": "https://wallstreetcn.com/livenews/3006579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         }
       ]
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 35,
+      "match_count": 40,
       "titles": [
         {
           "title": "千问APP正式上线，阿里要打造AI超级入口！",
@@ -1717,6 +1803,19 @@
           "time_info": "[00时15分 ~ 11时40分]"
         },
         {
+          "title": "你认为该图片是真实拍摄的还是由 AI 生成的？",
+          "url": "https://www.zhihu.com/question/1971246965376389265",
+          "source": "知乎",
+          "ranks": [
+            5,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时16分 ~ 23时13分]"
+        },
+        {
           "title": "英伟达周四清晨再临“大考”：面对AI泡沫担忧情绪 黄仁勋能否交出满分答卷？",
           "url": "https://www.cls.cn/detail/2203555",
           "source": "财联社热门",
@@ -1729,19 +1828,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[14时17分 ~ 20时23分]"
-        },
-        {
-          "title": "你认为该图片是真实拍摄的还是由 AI 生成的？",
-          "url": "https://www.zhihu.com/question/1971246965376389265",
-          "source": "知乎",
-          "ranks": [
-            5,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时16分 ~ 20时23分]"
         },
         {
           "title": "为什么现在画师几乎要被 ai 替代，而程序员行业不仅没被替代，反而看起来更繁荣了？",
@@ -1777,19 +1863,6 @@
           "time_info": "[10时27分 ~ 17时14分]"
         },
         {
-          "title": "白宫经济顾问哈塞特：AI提升生产率或致就业市场“平静期”，美联储是时候真正“以数据为驱动”",
-          "url": "https://wallstreetcn.com/articles/3759559",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时11分 ~ 20时22分]"
-        },
-        {
           "title": "新质观察｜谁来喂饱中国的AI？公共数据开放的关键一跃",
           "url": "https://m.thepaper.cn/newsDetail_forward_31984369",
           "source": "澎湃新闻",
@@ -1799,11 +1872,39 @@
             12,
             9,
             8,
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时27分 ~ 20时23分]"
+          "appearance_count": 18,
+          "time_info": "[10时27分 ~ 23时13分]"
+        },
+        {
+          "title": "一图看懂 | AI产业迎密集事件催化 应用概念股全景图来了",
+          "url": "https://www.cls.cn/detail/2203967",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时10分 ~ 23时13分]"
+        },
+        {
+          "title": "白宫经济顾问哈塞特：AI提升生产率或致就业市场“平静期”，美联储是时候真正“以数据为驱动”",
+          "url": "https://wallstreetcn.com/articles/3759559",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[07时11分 ~ 23时13分]"
         },
         {
           "title": "成龙去世照片系AI生成",
@@ -1816,18 +1917,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时15分 ~ 07时11分]"
-        },
-        {
-          "title": "一图看懂 | AI产业迎密集事件催化 应用概念股全景图来了",
-          "url": "https://www.cls.cn/detail/2203967",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时10分 ~ 20时23分]"
         },
         {
           "title": "如何看待谷歌用 AI 找 FFmpeg 的 bug 并逼维护者修复，遭怒怼「有本事自己修」？",
@@ -1854,6 +1943,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时15分 ~ 04时14分]"
+        },
+        {
+          "title": "【数据看盘】机构连续两日减持锂电产业链 多路资金激烈博弈AI应用股",
+          "url": "https://www.cls.cn/detail/2203937",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时10分 ~ 23时13分]"
         },
         {
           "title": "英伟达(NVDA.O)表示，与日本理化学研究所（RIKEN）推出了用于人工智能和量子计算的新型超级计算机，推动了日本的科学前沿。两台新的超级计算机将于2026年春季投入使用，而FugakuNEXT的目标则是在2030年投入使用。",
@@ -1900,6 +2002,18 @@
           "time_info": "18时14分"
         },
         {
+          "title": "【每日收评】创业板指震荡走低跌超1%，锂电股全线退潮，AI应用方向逆势活跃",
+          "url": "https://www.cls.cn/detail/2203836",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时14分 ~ 23时13分]"
+        },
+        {
           "title": "百度发布Q3财报：AI业务收入增速超50%，AI云同比增33%",
           "url": "https://wallstreetcn.com/livenews/3006401",
           "source": "华尔街见闻-快讯",
@@ -1935,27 +2049,27 @@
           "time_info": "[08时51分 ~ 16时16分]"
         },
         {
-          "title": "【数据看盘】机构连续两日减持锂电产业链 多路资金激烈博弈AI应用股",
-          "url": "https://www.cls.cn/detail/2203937",
-          "source": "财联社热门",
+          "title": "Plain Jane Remix编舞跳起来",
+          "url": "https://www.douyin.com/hot/2310465",
+          "source": "抖音",
           "ranks": [
-            13,
-            11
+            23,
+            25
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[19时10分 ~ 20时23分]"
+          "time_info": "[20时22分 ~ 23时13分]"
         },
         {
-          "title": "【每日收评】创业板指震荡走低跌超1%，锂电股全线退潮，AI应用方向逆势活跃",
-          "url": "https://www.cls.cn/detail/2203836",
+          "title": "美股三大期指盘前集体走低 AI怀疑论打压风险偏好 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2204220",
           "source": "财联社热门",
           "ranks": [
-            13
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时14分 ~ 20时23分]"
+          "appearance_count": 2,
+          "time_info": "[23时12分 ~ 23时13分]"
         },
         {
           "title": "惠誉：在人工智能驱动的需求、政策转变和并购的背景下，北美发电商的评级保持稳定。",
@@ -2006,15 +2120,15 @@
           "time_info": "[19时11分 ~ 20时23分]"
         },
         {
-          "title": "Plain Jane Remix编舞跳起来",
-          "url": "https://www.douyin.com/hot/2310465",
-          "source": "抖音",
+          "title": "AI 时代，提出好问题更重要还是知道真答案更重要？",
+          "url": "https://www.zhihu.com/question/1966326160255344700",
+          "source": "知乎",
           "ranks": [
-            23
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时22分 ~ 20时23分]"
+          "time_info": "[23时12分 ~ 23时13分]"
         },
         {
           "title": "美国银行全球基金经理调查：54%的受访者认为“美股七巨头”是当前最拥挤的交易，45%的受访者认为人工智能泡沫是最大的尾部风险。",
@@ -2116,6 +2230,28 @@
           "time_info": "19时11分"
         },
         {
+          "title": "美方高级官员：美国与沙特预计将达成国防、核能及人工智能相关协议",
+          "url": "https://flash.jin10.com/detail/20251118222538177800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
+          "title": "卢伟冰表示，行业每隔几年就会进入内存涨跌周期，本轮周期主要是由AI带动HPC需求暴增引发的变化。今年一二季度内存价格突然上涨，三季度价格猛涨，预估四季度涨幅将更大。（一财）",
+          "url": "https://wallstreetcn.com/livenews/3006574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
           "title": "夸克全面接入千问对话助手，将发布全新AI浏览器",
           "url": "https://wallstreetcn.com/livenews/3006333",
           "source": "华尔街见闻-快讯",
@@ -2125,12 +2261,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
+        },
+        {
+          "title": "Intuit将斥资超过1亿美元与OpenAI签订一份多年期合同，旨在将这家ChatGPT开发商的人工智能模型进一步整合到TurboTax等金融应用程序中。",
+          "url": "https://flash.jin10.com/detail/20251118222128333800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         }
       ]
     },
     {
       "keyword_group": "华为 小米 荣耀",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "华为Mate80系列发布在即 新款麒麟芯片或将亮相",
@@ -2162,6 +2309,20 @@
           "time_info": "[00时15分 ~ 07时11分]"
         },
         {
+          "title": "11.11 元秒杀到小米冰箱无法发货，小米回应「系统配置错误，补偿 30 元」，这一处置合理吗？",
+          "url": "https://www.zhihu.com/question/1974042951152793272",
+          "source": "知乎",
+          "ranks": [
+            12,
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时16分 ~ 23时13分]"
+        },
+        {
           "title": "荣耀终章｜全运五连冠，巩立姣是照亮中国女子投掷的那束光",
           "url": "https://m.thepaper.cn/newsDetail_forward_31980676",
           "source": "澎湃新闻",
@@ -2190,30 +2351,29 @@
           "time_info": "[00时15分 ~ 17时14分]"
         },
         {
-          "title": "11.11 元秒杀到小米冰箱无法发货，小米回应「系统配置错误，补偿 30 元」，这一处置合理吗？",
-          "url": "https://www.zhihu.com/question/1974042951152793272",
-          "source": "知乎",
-          "ranks": [
-            12,
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时16分 ~ 20时23分]"
-        },
-        {
           "title": "高管养水军?小米舆论战炸锅全网",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347235&amp;topic_name=%E9%AB%98%E7%AE%A1%E5%85%BB%E6%B0%B4%E5%86%9B%3F%E5%B0%8F%E7%B1%B3%E8%88%86%E8%AE%BA%E6%88%98%E7%82%B8%E9%94%85%E5%85%A8%E7%BD%91",
           "source": "贴吧",
           "ranks": [
             28,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时14分 ~ 20时23分]"
+          "appearance_count": 7,
+          "time_info": "[18时14分 ~ 23时13分]"
+        },
+        {
+          "title": "华为 Mate X7 正式官宣，如何看待华为即将推出的新品，你对华为 Mate X7 有哪些期待？",
+          "url": "https://www.zhihu.com/question/1974053509059084429",
+          "source": "知乎",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时10分 ~ 23时13分]"
         },
         {
           "title": "华为MateX7外观曝光",
@@ -2276,15 +2436,16 @@
           "time_info": "[19时11分 ~ 20时23分]"
         },
         {
-          "title": "华为 Mate X7 正式官宣，如何看待华为即将推出的新品，你对华为 Mate X7 有哪些期待？",
-          "url": "https://www.zhihu.com/question/1974053509059084429",
-          "source": "知乎",
+          "title": "小米三季度净利润113.11亿",
+          "url": "https://www.douyin.com/hot/2310534",
+          "source": "抖音",
           "ranks": [
-            9
+            14,
+            23
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[19时10分 ~ 20时23分]"
+          "time_info": "[20时22分 ~ 23时13分]"
         },
         {
           "title": "13999元华为手机掉火坑后还能用",
@@ -2323,6 +2484,17 @@
           "time_info": "[19时11分 ~ 20时23分]"
         },
         {
+          "title": "小米Q3经调整净利润同比大增80.9%创新高，电动汽车及AI等创新业务首次实现单季经营盈利 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3759633",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时12分 ~ 23时13分]"
+        },
+        {
           "title": "华为Mate X7搭载全新折叠玄武架构",
           "url": "https://wallstreetcn.com/livenews/3006210",
           "source": "华尔街见闻-快讯",
@@ -2333,17 +2505,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时40分 ~ 12时16分]"
-        },
-        {
-          "title": "小米三季度净利润113.11亿",
-          "url": "https://www.douyin.com/hot/2310534",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时22分 ~ 20时23分]"
         },
         {
           "title": "雷军在微博称，11月21日上午9点广州车展上将发布小米端到端辅助驾驶新版本——HAD 增强版。 这个版本进步很大。",
@@ -2493,7 +2654,7 @@
     },
     {
       "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "存储芯片疯狂涨价，PC与服务器厂商受伤！大摩：每涨10%，OEM毛利率就下降45-150个基点",
@@ -2508,6 +2669,17 @@
           "is_new": false,
           "appearance_count": 24,
           "time_info": "[00时15分 ~ 17时14分]"
+        },
+        {
+          "title": "美国三大股指跌超1%，费城半导体指数跌超2.2%。",
+          "url": "https://wallstreetcn.com/livenews/3006606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "龙头出手！全球最大硅光芯片代工厂诞生 光通信产业范式转向信号？",
@@ -2616,6 +2788,17 @@
           "time_info": "13时12分"
         },
         {
+          "title": "行业ETF美股盘初普跌，半导体ETF跌超1.4%，全球科技股指数ETF跌超1.2%，可选消费ETF跌超1.1%，科技行业ETF跌超0.9%，网络股指数ETF跌超0.7%。 在标普500指数的11个板块中，可选消费板块盘初跌0.95%，科技板块跌0.56%，能源板块跌0.38%，电信板块目前涨0.17%。",
+          "url": "https://wallstreetcn.com/livenews/3006592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
           "title": "美国总统特朗普：我们必须训练自己的人来制造芯片。",
           "url": "https://wallstreetcn.com/livenews/3006040",
           "source": "华尔街见闻-快讯",
@@ -2625,6 +2808,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "美股半导体板块普跌，纳微半导体(NVTS.O)跌1.7%、美光科技(MU.O)跌2.5%、台积电(TSM.N)跌1.5%。",
+          "url": "https://flash.jin10.com/detail/20251118223207687800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "美股存储芯片股美光科技涨超5％，再创历史新高；西部数据涨近4％，闪迪涨近8％。",
@@ -2652,7 +2846,7 @@
     },
     {
       "keyword_group": "苹果 iPhone",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "清仓英伟达！“白宫背后的科技大佬”Peter Thiel三季度大幅降仓，新买入微软和苹果",
@@ -2748,6 +2942,18 @@
           "time_info": "[00时15分 ~ 07时11分]"
         },
         {
+          "title": "iPhone中国销量强势增长！10月销量同比增长37% 市占高达25%",
+          "url": "https://www.cls.cn/detail/2203876",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时22分 ~ 23时13分]"
+        },
+        {
           "title": "新一代iPhone带动苹果10月份在华手机销量激增 当月市场份额达到25%",
           "url": "https://wallstreetcn.com/livenews/3006258",
           "source": "华尔街见闻-快讯",
@@ -2760,17 +2966,6 @@
           "time_info": "[13时12分 ~ 14时18分]"
         },
         {
-          "title": "iPhone中国销量强势增长！10月销量同比增长37% 市占高达25%",
-          "url": "https://www.cls.cn/detail/2203876",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时22分 ~ 20时23分]"
-        },
-        {
           "title": "美股七巨头收盘播报｜英伟达、苹果、Meta至多收跌将近1.9%",
           "url": "https://wallstreetcn.com/livenews/3006074",
           "source": "华尔街见闻-快讯",
@@ -2781,6 +2976,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时11分 ~ 07时11分]"
+        },
+        {
+          "title": "为什么 iPhone 的屏幕看起来更通透？",
+          "url": "https://www.zhihu.com/question/637587377",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时12分 ~ 23时13分]"
+        },
+        {
+          "title": "存储涨价 为何放过了苹果与联想",
+          "url": "https://www.toutiao.com/trending/7573972245656387610/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时12分 ~ 23时13分]"
         },
         {
           "title": "标普500指数初步收跌约1%，金融、能源、科技、原材料、工业板块至多跌约2%，电信板块仍然涨超0.9%。 纳斯达克100指数初步收跌0.9%，成分股中，Booking、Trade Desk、Shopify、高通初步至多收跌4.8%，安进则涨1.4%，再生元制药涨1.7%，谷歌C涨2.9%，谷歌A涨3.1%。 美国运通初步收跌约4.3%，Salesforce、IBM至多跌2.7%，领跌道指成分股，英伟达跌1.9%，苹果跌1.8%，安进与强生则涨超1%。 半导体指数跌1.5%，银行指数跌2.6%，小盘股指跌2.2%。",
@@ -2818,71 +3035,8 @@
       ]
     },
     {
-      "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "西门子与三星物产携手合作，推动下一代基础设施项目。",
-          "url": "https://flash.jin10.com/detail/20251118180000177800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
-          "title": "南京到无锡规划地铁通联不实",
-          "url": "https://www.toutiao.com/trending/7573844023547871273/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时14分 ~ 20时23分]"
-        },
-        {
-          "title": "“南京地铁要通到无锡”系谣言",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8D%97%E4%BA%AC%E5%9C%B0%E9%93%81%E8%A6%81%E9%80%9A%E5%88%B0%E6%97%A0%E9%94%A1%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时10分 ~ 20时23分]"
-        },
-        {
-          "title": "用火车站命名的地铁站的站名带一个「站」字好，还是带两个「站」字好？",
-          "url": "https://www.zhihu.com/question/1932511464956093406",
-          "source": "知乎",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时12分 ~ 14时18分]"
-        },
-        {
-          "title": "工信部：目标到2027年建成200个左右高标准数字园区，算力基础设施实现有效部署和应用",
-          "url": "https://wallstreetcn.com/livenews/3006472",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时11分 ~ 20时23分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "英伟达 台积电 AMD 高通",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "“一夜之间”，每个人都在卖英伟达",
@@ -2896,8 +3050,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时40分 ~ 20时22分]"
+          "appearance_count": 16,
+          "time_info": "[11时40分 ~ 23时13分]"
         },
         {
           "title": "美股期货回吐涨幅，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
@@ -2909,6 +3063,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时15分 ~ 03时09分]"
+        },
+        {
+          "title": "英伟达(NVDA.O)跌近3%，AMD(AMD.O)跌近5%。",
+          "url": "https://flash.jin10.com/detail/20251118225508306800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "法国Eviden携手AMD打造欧洲新超级计算机",
@@ -2943,6 +3108,69 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时51分 ~ 08时52分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "基础设施 基建 地铁 高铁",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "南京到无锡规划地铁通联不实",
+          "url": "https://www.toutiao.com/trending/7573844023547871273/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时14分 ~ 23时13分]"
+        },
+        {
+          "title": "“南京地铁要通到无锡”系谣言",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8D%97%E4%BA%AC%E5%9C%B0%E9%93%81%E8%A6%81%E9%80%9A%E5%88%B0%E6%97%A0%E9%94%A1%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时10分 ~ 23时13分]"
+        },
+        {
+          "title": "西门子与三星物产携手合作，推动下一代基础设施项目。",
+          "url": "https://flash.jin10.com/detail/20251118180000177800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
+          "title": "用火车站命名的地铁站的站名带一个「站」字好，还是带两个「站」字好？",
+          "url": "https://www.zhihu.com/question/1932511464956093406",
+          "source": "知乎",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时12分 ~ 14时18分]"
+        },
+        {
+          "title": "工信部：目标到2027年建成200个左右高标准数字园区，算力基础设施实现有效部署和应用",
+          "url": "https://wallstreetcn.com/livenews/3006472",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时11分 ~ 20时23分]"
         }
       ]
     },
