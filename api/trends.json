@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-27T17:13:53.554392+08:00",
-  "total_titles_processed": 1578,
+  "generated_at": "2025-11-27T18:13:33.671613+08:00",
+  "total_titles_processed": 1672,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 67,
+      "match_count": 69,
       "titles": [
         {
           "title": "一周内两度“撕报告”！小摩：美联储12月将降息 明年1月再降一次",
@@ -31,6 +31,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时14分 ~ 06时11分]"
+        },
+        {
+          "title": "三菱日联：初请数据难以撼动降息前景 金价守稳高位",
+          "url": "https://flash.jin10.com/detail/20251127175027884800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         },
         {
           "title": "美国财政部针对通胀保值国债（TIPS）缺乏10月CPI数据宣布应急计划：将针对TIPS市场提供10月CPI的“替代指数水平”。",
@@ -287,9 +298,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
+        },
+        {
+          "title": "荷兰银行：预算案公布后，英国央行更有可能在12月降息",
+          "url": "https://flash.jin10.com/detail/20251127174108037800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         },
         {
           "title": "新西兰联储主席Hawkesby：进一步降息的门槛很高，不能永远对降息敞开大门。",
@@ -408,7 +430,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
         },
@@ -768,7 +790,7 @@
     },
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 49,
+      "match_count": 51,
       "titles": [
         {
           "title": "中美元首近十年来首提军国主义",
@@ -1246,6 +1268,17 @@
           "time_info": "10时26分"
         },
         {
+          "title": "澳洲联邦银行：俄乌若停火，布油或较快跌至每桶60美元",
+          "url": "https://flash.jin10.com/detail/20251127173430955800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
           "title": "周三（11月26日）纽约尾盘（周四北京时间04:59），离岸人民币（CNH）兑美元报7.0690元，较周二纽约尾盘涨134 点，日内整体交投于7.0862-7.0671元区间。",
           "url": "https://wallstreetcn.com/livenews/3011075",
           "source": "华尔街见闻-快讯",
@@ -1312,6 +1345,17 @@
           "time_info": "07时11分"
         },
         {
+          "title": "机构：美元势将创四个月来最大单周跌幅，美联储路径成焦点",
+          "url": "https://flash.jin10.com/detail/20251127172118212800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
           "title": "据相关声明，印度全球论坛公布2.5亿美元基金，旨在将印度品牌推向全球市场。",
           "url": "https://flash.jin10.com/detail/20251127154640377800",
           "source": "金十数据",
@@ -1348,7 +1392,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 31,
+      "match_count": 36,
       "titles": [
         {
           "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
@@ -1463,6 +1507,19 @@
           "time_info": "[00时14分 ~ 17时13分]"
         },
         {
+          "title": "“AI新王”强势崛起！大摩：2027年谷歌TPU外销量或达100万颗",
+          "url": "https://www.cls.cn/detail/2212466",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时13分 ~ 18时13分]"
+        },
+        {
           "title": "多家手机厂商取消Air机型",
           "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E6%89%8B%E6%9C%BA%E5%8E%82%E5%95%86%E5%8F%96%E6%B6%88Air%E6%9C%BA%E5%9E%8B",
           "source": "百度热搜",
@@ -1507,18 +1564,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时14分 ~ 06时11分]"
-        },
-        {
-          "title": "“AI新王”强势崛起！大摩：2027年谷歌TPU外销量或达100万颗",
-          "url": "https://www.cls.cn/detail/2212466",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时13分 ~ 17时13分]"
         },
         {
           "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
@@ -1623,7 +1668,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
         },
@@ -1637,6 +1682,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
+        },
+        {
+          "title": "【每日收评】三大指数冲高回落涨跌不一，AI产业链分化加剧，锂电概念股再迎爆发",
+          "url": "https://www.cls.cn/detail/2212827",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         },
         {
           "title": "阿里巴巴发布夸克AI眼镜，将内置千问助手",
@@ -1672,6 +1728,28 @@
           "time_info": "00时14分"
         },
         {
+          "title": "王自如称选择用AI创业还债",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E7%A7%B0%E9%80%89%E6%8B%A9%E7%94%A8AI%E5%88%9B%E4%B8%9A%E8%BF%98%E5%80%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
+          "title": "我用AI开了家一人公司",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E5%BC%80%E4%BA%86%E5%AE%B6%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
           "title": "多家手机厂商取消Air机型",
           "url": "https://wallstreetcn.com/livenews/3011172",
           "source": "华尔街见闻-快讯",
@@ -1681,6 +1759,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
+        },
+        {
+          "title": "夸克AI眼镜带来的行业利好",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%B8%E5%85%8BAI%E7%9C%BC%E9%95%9C%E5%B8%A6%E6%9D%A5%E7%9A%84%E8%A1%8C%E4%B8%9A%E5%88%A9%E5%A5%BD%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         },
         {
           "title": "夸克AI眼镜正式发布 阿里巴巴加速AI战略落地消费端",
@@ -1716,6 +1805,17 @@
           "time_info": "16时18分"
         },
         {
+          "title": "TES官宣naiyou加入",
+          "url": "https://search.bilibili.com/all?keyword=TES%E5%AE%98%E5%AE%A3naiyou%E5%8A%A0%E5%85%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
           "title": "姚明邓亚萍合照诡异的像AI",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A7%9A%E6%98%8E%E9%82%93%E4%BA%9A%E8%90%8D%E5%90%88%E7%85%A7%E8%AF%A1%E5%BC%82%E7%9A%84%E5%83%8FAI%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -1741,7 +1841,7 @@
     },
     {
       "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股收盘：三大指数连涨四日 芯片股全线走强",
@@ -1794,6 +1894,18 @@
           "time_info": "[12时16分 ~ 13时13分]"
         },
         {
+          "title": "证监会：同意强一半导体（苏州）股份有限公司首次公开发行股票注册。",
+          "url": "https://wallstreetcn.com/livenews/3011453",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时13分 ~ 18时13分]"
+        },
+        {
           "title": "纳斯达克100指数涨幅扩大至1%，成分股Applovin涨5.6%，迈威尔科技涨5.4%，阿斯麦ADR涨4.8%，AMD涨3.6%，英特尔涨3.4%，谷歌A则跌1.2%。 标普500指数涨超0.8%，道指涨352点涨幅0.7%，纳指涨超0.9%。半导体指数涨2.8%。",
           "url": "https://wallstreetcn.com/livenews/3010979",
           "source": "华尔街见闻-快讯",
@@ -1804,17 +1916,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时11分 ~ 02时15分]"
-        },
-        {
-          "title": "证监会：同意强一半导体（苏州）股份有限公司首次公开发行股票注册。",
-          "url": "https://wallstreetcn.com/livenews/3011453",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时13分"
         },
         {
           "title": "天域半导体申请香港IPO。 寻求发行3000万股股票，发行价为每股58港元。",
@@ -1861,6 +1962,17 @@
           "time_info": "10时26分"
         },
         {
+          "title": "就安世半导体等经贸问题，商务部部长王文涛与欧方举行视频会谈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32049168",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
           "title": "行业ETF美股盘初多数上涨，半导体ETF涨1.73%，全球科技股指数ETF涨1.2%，科技行业ETF涨1.13%，银行业ETF回撤0.13%，区域银行ETF回调0.2%。",
           "url": "https://wallstreetcn.com/livenews/3010940",
           "source": "华尔街见闻-快讯",
@@ -1896,8 +2008,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时51分 ~ 17时13分]"
+          "appearance_count": 15,
+          "time_info": "[08时51分 ~ 18时13分]"
         },
         {
           "title": "“大空头 vs 英伟达”论战继续！“大空头”逐条反驳英伟达回应：不敢相信这来自全球市值最高公司",
@@ -1910,8 +2022,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时15分 ~ 17时13分]"
+          "appearance_count": 12,
+          "time_info": "[12时15分 ~ 18时13分]"
         },
         {
           "title": "周末私函“逐条”反驳“大空头”，周二发帖“自证”领先谷歌，英伟达有点慌了？",
@@ -2031,11 +2143,12 @@
             24,
             22,
             25,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时14分 ~ 17时13分]"
+          "appearance_count": 25,
+          "time_info": "[00时14分 ~ 18时13分]"
         },
         {
           "title": "炸翻全网!华为定档5K卷疯友商",
@@ -2079,11 +2192,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 17时13分]"
+          "appearance_count": 3,
+          "time_info": "[16时18分 ~ 18时13分]"
         },
         {
           "title": "恒生科技指数日内涨幅扩大至1%。华虹半导体涨超5%，中芯国际、小米涨超3%。",
@@ -2112,11 +2226,12 @@
             18,
             20,
             19,
-            29
+            29,
+            26
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时14分 ~ 17时13分]"
+          "appearance_count": 15,
+          "time_info": "[00时14分 ~ 18时13分]"
         },
         {
           "title": "根据新的法律，苹果公司在印度反垄断案件中可能面临高达380亿美元的罚款。",
@@ -2306,6 +2421,17 @@
           "time_info": "[11时40分 ~ 13时13分]"
         },
         {
+          "title": "AH股指数表现分化，创业板、恒科指冲高回落，锂电、固态电池走强，消费板块爆发，万科债上演“过山车”行情，铂钯期货首秀大涨",
+          "url": "https://wallstreetcn.com/articles/3760222",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时13分 ~ 18时13分]"
+        },
+        {
           "title": "上证指数收报3875.26点，涨0.29%。 深证成指收报12875.19点，跌0.25%。 创业板指收报3031.30点，跌0.44%。 沪深300收报4515.40点，跌0.05%。 科创50收报1310.70点，跌0.33%。 中证500收报6951.28点，跌0.20%。 中证1000收报7257.45点，涨0.12%。",
           "url": "https://wallstreetcn.com/livenews/3011357",
           "source": "华尔街见闻-快讯",
@@ -2315,17 +2441,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
-        },
-        {
-          "title": "AH股指数表现分化，创业板、恒科指冲高回落，锂电、固态电池走强，消费板块爆发，万科债上演“过山车”行情，铂钯期货首秀大涨",
-          "url": "https://wallstreetcn.com/articles/3760222",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时13分"
         }
       ]
     },
@@ -2388,8 +2503,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时26分 ~ 17时13分]"
+          "appearance_count": 14,
+          "time_info": "[10时26分 ~ 18时13分]"
         },
         {
           "title": "联邦快递(FDX.N)将在德克萨斯州裁员856人，此前一家客户转移了其业务。",
@@ -2478,6 +2593,19 @@
           "time_info": "[00时14分 ~ 15时14分]"
         },
         {
+          "title": "如何看待阿里最新财报，闪购营销费用增加 300 多亿收入却仅增 80 多亿，核心电商持续被抖音和拼多多赶超？",
+          "url": "https://www.zhihu.com/question/1977091164105638048",
+          "source": "知乎",
+          "ranks": [
+            11,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时17分 ~ 18时13分]"
+        },
+        {
           "title": "黑龙江发行5年期一般债地方债，规模2.8618亿元，发行利率1.8000%，边际倍数7.83倍，倍数预期1.80； 黑龙江发行20年期一般债地方债，规模17.9400亿元，发行利率2.3700%，边际倍数1.24倍，倍数预期2.40； 黑龙江发行10年期一般债地方债，规模33.0000亿元，发行利率1.9800%，边际倍数1.69倍，倍数预期2.00； 黑龙江发行30年期普通专项地方债，规模12.0000亿元，发行利率2.4500%，边际倍数5.00倍，倍数预期2.42。",
           "url": "https://wallstreetcn.com/livenews/3011201",
           "source": "华尔街见闻-快讯",
@@ -2488,18 +2616,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时26分 ~ 11时40分]"
-        },
-        {
-          "title": "如何看待阿里最新财报，闪购营销费用增加 300 多亿收入却仅增 80 多亿，核心电商持续被抖音和拼多多赶超？",
-          "url": "https://www.zhihu.com/question/1977091164105638048",
-          "source": "知乎",
-          "ranks": [
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时17分 ~ 17时13分]"
         }
       ]
     },
