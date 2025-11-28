@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-28T16:16:55.546010+08:00",
-  "total_titles_processed": 1369,
+  "generated_at": "2025-11-28T17:13:16.834082+08:00",
+  "total_titles_processed": 1464,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 60,
+      "match_count": 62,
       "titles": [
         {
           "title": "英国央行货币政策委员格林：消费者物价指数预期处于我们可解释的区间的上限。",
@@ -28,17 +28,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
-        },
-        {
-          "title": "日本央行计划在12月以与11月相同的速度购买债券。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3012043",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时16分"
         },
         {
           "title": "英国央行货币政策委员格林：企业对消费者物价指数的预期正在上升且处于较高水平。",
@@ -105,9 +94,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
+        },
+        {
+          "title": "菲律宾央行：2025年11月通胀率将稳定在1.1%至1.9%的区间内。",
+          "url": "https://flash.jin10.com/detail/20251128165038224800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
         },
         {
           "title": "英国央行货币政策委员格林：通胀数据正在影响市场预期。",
@@ -120,6 +120,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时10分 ~ 02时16分]"
+        },
+        {
+          "title": "日本央行计划在12月以与11月相同的速度购买债券。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3012043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 17时13分]"
         },
         {
           "title": "机构：美元可能在2026年因美联储的降息而下跌",
@@ -227,6 +239,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时16分 ~ 04时11分]"
+        },
+        {
+          "title": "法国11月CPI同比初值 0.9%，预期 1%，前值 0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3012026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 17时13分]"
         },
         {
           "title": "美联储12月降息25个基点的概率升至86.9%，现货黄金、白银多头占比分别达60%和70%。后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -375,7 +399,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -397,7 +421,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -419,7 +443,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -463,7 +487,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -501,17 +525,6 @@
           "time_info": "15时13分"
         },
         {
-          "title": "法国11月CPI同比初值 0.9%，预期 1%，前值 0.9%。",
-          "url": "https://wallstreetcn.com/livenews/3012026",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时16分"
-        },
-        {
           "title": "德国10月进口物价指数月率 0.2%，预期0%，前值0.2%。",
           "url": "https://flash.jin10.com/detail/20251128150031679800",
           "source": "金十数据",
@@ -529,7 +542,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -573,7 +586,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -584,7 +597,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -606,9 +619,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
+        },
+        {
+          "title": "哈萨克斯坦央行：计划在2026年将债券发行规模提高至1.5万亿坚戈。",
+          "url": "https://flash.jin10.com/detail/20251128161635379800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
         },
         {
           "title": "交易员：印度央行可能正抛售美元，以支持卢比。",
@@ -628,7 +652,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -639,7 +663,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -661,7 +685,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -702,7 +726,7 @@
     },
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 30,
+      "match_count": 35,
       "titles": [
         {
           "title": "中美元首近十年来首提“军国主义”",
@@ -766,9 +790,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
+        },
+        {
+          "title": "美团：第三季度销售及营销开支同比增加90.9%至人民币343亿元",
+          "url": "https://wallstreetcn.com/livenews/3012082",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
         },
         {
           "title": "现货黄金短线走高逾10美元，突破4180美元/盎司。",
@@ -993,6 +1028,17 @@
           "time_info": "07时11分"
         },
         {
+          "title": "美团第三季度营收955亿元人民币，预估974.7亿元人民币。 第三季度调整后净亏损160亿元人民币，预估亏损139.6亿元人民币。 第三季度核心本地商业收入674亿元人民币，预估692亿元人民币。 第三季度新业务收入280亿元人民币，预估285.5亿元人民币。 第三季度配送服务收入230亿元人民币，预估266.8亿元人民币。 第三季度佣金收入280亿元人民币，预估279.1亿元人民币。 第三季度销售费用343亿元人民币，预估330.5亿元人民币。 第三季度线上营销服务收入143亿元人民币，预估138.7亿元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3012067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        },
+        {
           "title": "现货铂金涨约1.6%，亚太早盘短线曾上扬约100美元",
           "url": "https://wallstreetcn.com/livenews/3011673",
           "source": "华尔街见闻-快讯",
@@ -1013,6 +1059,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报7.0794，较上一交易日官方收盘价涨12点，较上日夜盘收盘涨6点。",
+          "url": "https://wallstreetcn.com/livenews/3012064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
         },
         {
           "title": "周四（11月27日）纽约尾盘，现货黄金跌0.11%，报4157.61美元/盎司，交投区间为4168.85-4142.79美元。 COMEX黄金期货跌0.28%，报4153.60美元/盎司；2月合约跌0.30%，报4189.60美元，北京时间12:08跌至4174.60美元刷新日低。",
@@ -1048,6 +1105,28 @@
           "time_info": "10时26分"
         },
         {
+          "title": "现货黄金短线下挫约15美元后，又迅速拉升约13美元，现报4172.84美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3012047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        },
+        {
+          "title": "消息人士：印尼供应商预计12月出货的棕榈油出口税将下调超过每吨50美元，并将31万吨棕榈油的发货时间从11月推迟至12月。",
+          "url": "https://flash.jin10.com/detail/20251128161839681800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        },
+        {
           "title": "日本内阁批准追加1170亿美元预算用于一揽子计划。追加预算包括11.7万亿日元的新债券发行。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3011939",
           "source": "华尔街见闻-快讯",
@@ -1065,7 +1144,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         }
@@ -1073,7 +1152,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "一图看懂 | 谷歌TPU搅动AI“江湖”，它与英伟达GPU有何区别？",
@@ -1110,8 +1189,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时10分 ~ 16时16分]"
+          "appearance_count": 12,
+          "time_info": "[07时10分 ~ 17时13分]"
         },
         {
           "title": "OpenAI真要成“烧钱无底洞”？汇丰：到2030年仍难以盈利",
@@ -1127,19 +1206,6 @@
           "time_info": "[00时14分 ~ 08时50分]"
         },
         {
-          "title": "AI还原香港大埔火灾",
-          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时14分 ~ 16时16分]"
-        },
-        {
           "title": "进军AI硬件市场！阿里夸克AI眼镜售价1899元起，搭载千问大模型、深度整合生态服务",
           "url": "https://wallstreetcn.com/articles/3760242",
           "source": "华尔街见闻",
@@ -1152,6 +1218,20 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时14分 ~ 15时13分]"
+        },
+        {
+          "title": "AI还原香港大埔火灾",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            7,
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时14分 ~ 17时13分]"
         },
         {
           "title": "【焦点复盘】双创指数尾盘跳水终结3连涨，AI应用端表现降温，多款新品发布引爆消费电子板块",
@@ -1293,6 +1373,18 @@
           "time_info": "[14时18分 ~ 15时13分]"
         },
         {
+          "title": "首批科创创业人工智能ETF现一日结募",
+          "url": "https://wallstreetcn.com/livenews/3012037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 17时13分]"
+        },
+        {
           "title": "摩根大通姚橙：中国AI产业发展态势明朗，明年关键在于应用端创新和普及",
           "url": "https://wallstreetcn.com/livenews/3011659",
           "source": "华尔街见闻-快讯",
@@ -1303,6 +1395,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时11分 ~ 07时11分]"
+        },
+        {
+          "title": "谷歌已重启AI眼镜项目 AI眼镜产业链近期催化密集",
+          "url": "https://www.cls.cn/detail/2213392",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 17时13分]"
         },
         {
           "title": "夸克AI眼镜持续霸榜第一",
@@ -1326,17 +1429,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时16分 ~ 03时09分]"
-        },
-        {
-          "title": "首批科创创业人工智能ETF现一日结募",
-          "url": "https://wallstreetcn.com/livenews/3012037",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时16分"
         },
         {
           "title": "雷军称所有产业都值得AI再做一遍",
@@ -1422,7 +1514,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         }
@@ -1430,7 +1522,7 @@
     },
     {
       "keyword_group": "华为 小米 荣耀",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "小公司硬刚小米抄袭!胜诉再索赔",
@@ -1460,11 +1552,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAMate80%E6%99%A8%E6%9B%A6%E9%87%91%E7%89%88%E6%9C%AC%E5%B7%B2%E5%94%AE%E7%BD%84%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
           "ranks": [
-            2
+            2,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时16分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时16分 ~ 17时13分]"
         },
         {
           "title": "华为、中兴通讯在越南签署5G协议。（路透）",
@@ -1489,6 +1582,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时18分 ~ 15时13分]"
+        },
+        {
+          "title": "霍建华为什么是天选俞瑜",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9C%8D%E5%BB%BA%E5%8D%8E%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF%E5%A4%A9%E9%80%89%E4%BF%9E%E7%91%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 17时13分]"
         },
         {
           "title": "小米成毛利率提升最快车企",
@@ -1544,6 +1648,93 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 iPhone",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "苹果或面临380亿美元罚款",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%88%96%E9%9D%A2%E4%B8%B4380%E4%BA%BF%E7%BE%8E%E5%85%83%E7%BD%9A%E6%AC%BE",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            28,
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时18分 ~ 17时13分]"
+        },
+        {
+          "title": "葛荟婕回应大女儿小苹果恋爱",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%91%9B%E8%8D%9F%E5%A9%95%E5%9B%9E%E5%BA%94%E5%A4%A7%E5%A5%B3%E5%84%BF%E5%B0%8F%E8%8B%B9%E6%9E%9C%E6%81%8B%E7%88%B1%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时11分 ~ 07时11分]"
+        },
+        {
+          "title": "苹果：对欧盟DMA的预先指定通知提交了反驳意见",
+          "url": "https://wallstreetcn.com/livenews/3012060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        },
+        {
+          "title": "挑战苹果夹万物",
+          "url": "https://www.douyin.com/hot/2318198",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时15分"
+        },
+        {
+          "title": "苹果(AAPL.O)：与谷歌地图和WAZE等其他地图服务相比，苹果地图在欧盟的使用率非常有限。",
+          "url": "https://flash.jin10.com/detail/20251128161818417800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        },
+        {
+          "title": "苹果(AAPL.O)：已就《数字市场法案》预先指定通知提交了反驳意见。",
+          "url": "https://flash.jin10.com/detail/20251128161734525800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        },
+        {
+          "title": "苹果手机被偷一周收到骗子来电",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E8%A2%AB%E5%81%B7%E4%B8%80%E5%91%A8%E6%94%B6%E5%88%B0%E9%AA%97%E5%AD%90%E6%9D%A5%E7%94%B5&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时13分"
         }
       ]
     },
@@ -1699,59 +1890,6 @@
       ]
     },
     {
-      "keyword_group": "苹果 iPhone",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "苹果或面临380亿美元罚款",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%88%96%E9%9D%A2%E4%B8%B4380%E4%BA%BF%E7%BE%8E%E5%85%83%E7%BD%9A%E6%AC%BE",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            28,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时18分 ~ 16时16分]"
-        },
-        {
-          "title": "葛荟婕回应大女儿小苹果恋爱",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%91%9B%E8%8D%9F%E5%A9%95%E5%9B%9E%E5%BA%94%E5%A4%A7%E5%A5%B3%E5%84%BF%E5%B0%8F%E8%8B%B9%E6%9E%9C%E6%81%8B%E7%88%B1%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时11分 ~ 07时11分]"
-        },
-        {
-          "title": "挑战苹果夹万物",
-          "url": "https://www.douyin.com/hot/2318198",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
-          "title": "苹果手机被偷一周收到骗子来电",
-          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E8%A2%AB%E5%81%B7%E4%B8%80%E5%91%A8%E6%94%B6%E5%88%B0%E9%AA%97%E5%AD%90%E6%9D%A5%E7%94%B5&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时13分"
-        }
-      ]
-    },
-    {
       "keyword_group": "半导体 芯片 集成电路",
       "match_count": 4,
       "titles": [
@@ -1796,7 +1934,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         }
@@ -1845,6 +1983,46 @@
       ]
     },
     {
+      "keyword_group": "就业 裁员 招聘",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美联储褐皮书凸显美联储困境：就业市场疲软与通胀压力并存",
+          "url": "https://wallstreetcn.com/articles/3760203",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 07时11分]"
+        },
+        {
+          "title": "特朗普封杀移民？这次的风暴，会撕裂美国就业市场丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20251128164740683800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        },
+        {
+          "title": "法国三季度私营部门就业人数季环比终值 -0.1%，初值 -0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3012021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "双十一 618 电商 优惠券",
       "match_count": 3,
       "titles": [
@@ -1871,11 +2049,12 @@
           "ranks": [
             19,
             20,
-            16
+            16,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时18分 ~ 16时16分]"
+          "appearance_count": 5,
+          "time_info": "[14时18分 ~ 17时13分]"
         },
         {
           "title": "阿里电商业务会被拼多多“偷家”吗",
@@ -1887,35 +2066,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "就业 裁员 招聘",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美联储褐皮书凸显美联储困境：就业市场疲软与通胀压力并存",
-          "url": "https://wallstreetcn.com/articles/3760203",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 07时11分]"
-        },
-        {
-          "title": "法国三季度私营部门就业人数季环比终值 -0.1%，初值 -0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3012021",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时16分"
         }
       ]
     },
@@ -1963,11 +2113,12 @@
           "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%BA%B2%E8%87%AA%E5%B8%A6%E8%B4%A7%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E4%B8%8D%E9%A6%99%E5%90%97",
           "source": "百度热搜",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时13分 ~ 16时16分]"
+          "appearance_count": 4,
+          "time_info": "[15时13分 ~ 17时13分]"
         }
       ]
     },
