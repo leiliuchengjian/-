@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-29T07:11:22.259430+08:00",
-  "total_titles_processed": 549,
+  "generated_at": "2025-11-29T08:50:29.433925+08:00",
+  "total_titles_processed": 637,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "藏在人民币里的中式美学",
@@ -14,11 +14,12 @@
           "ranks": [
             6,
             3,
-            2
+            2,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时13分 ~ 07时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 08时50分]"
         },
         {
           "title": "美、布两油短线下挫0.6美元，现分别报58.44美元/桶和62.8美元/桶。",
@@ -26,11 +27,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            3
+            3,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时12分 ~ 07时11分]"
+          "appearance_count": 5,
+          "time_info": "[04时12分 ~ 08时50分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0740元，较周四夜盘收盘涨60点。成交量436.42亿美元。",
@@ -48,6 +50,20 @@
           "time_info": "[03时09分 ~ 07时11分]"
         },
         {
+          "title": "美联储在固定利率逆回购操作中总计接纳了8个对手方的75.61亿美元。",
+          "url": "https://flash.jin10.com/detail/20251129021813347800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            20,
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时09分 ~ 08时50分]"
+        },
+        {
           "title": "WTI 1月原油期货收报58.55美元/桶。 NYMEX 12月汽油期货收报1.8959美元/加仑，NYMEX 12月取暖油期货收报2.3330美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3012380",
           "source": "华尔街见闻-快讯",
@@ -59,28 +75,18 @@
           "time_info": "04时12分"
         },
         {
-          "title": "周五（11月28日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报7.0708元，较周四纽约尾盘涨36点，日内整体交投于7.0796-7.0669元区间，最近三个交易日持续上探7.06元。",
-          "url": "https://wallstreetcn.com/livenews/3012398",
+          "title": "周五（11月28日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘涨2.80%，报92430美元，11月份累跌16.09%。 CME以太币期货DCR主力合约涨1.60%，报3075美元，11月份累跌23.02%。 美股加密货币与加密货币关联指数11月份累跌21.92%，最终报71.30点。",
+          "url": "https://wallstreetcn.com/livenews/3012382",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "美联储在固定利率逆回购操作中总计接纳了8个对手方的75.61亿美元。",
-          "url": "https://flash.jin10.com/detail/20251129021813347800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            20,
-            21
+            5,
+            14,
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时09分 ~ 07时11分]"
+          "appearance_count": 4,
+          "time_info": "[05时10分 ~ 08时50分]"
         },
         {
           "title": "美联储11月26日当周贴现窗贷款余额77.9亿美元，之前一周61.0亿美元。",
@@ -88,11 +94,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            6
+            6,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时11分 ~ 07时11分]"
+          "appearance_count": 3,
+          "time_info": "[06时11分 ~ 08时50分]"
+        },
+        {
+          "title": "美联储：美国上周银行存款18.432万亿美元，之前一周18.505万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3012394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时11分 ~ 08时50分]"
         },
         {
           "title": "纽约期银向上触及56美元/盎司，日内涨4.46%。现货白银日内暴涨2美元，现报55.35美元/盎司，涨幅3.75%。",
@@ -117,31 +137,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时14分 ~ 01时10分]"
-        },
-        {
-          "title": "美联储：美国上周银行存款18.432万亿美元，之前一周18.505万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3012394",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时11分 ~ 07时11分]"
-        },
-        {
-          "title": "周五（11月28日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘涨2.80%，报92430美元，11月份累跌16.09%。 CME以太币期货DCR主力合约涨1.60%，报3075美元，11月份累跌23.02%。 美股加密货币与加密货币关联指数11月份累跌21.92%，最终报71.30点。",
-          "url": "https://wallstreetcn.com/livenews/3012382",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时10分 ~ 07时11分]"
         },
         {
           "title": "美元兑加元USD/CAD日内跌超0.50%，现报1.3955。",
@@ -178,6 +173,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时14分 ~ 01时10分]"
+        },
+        {
+          "title": "周五（11月28日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报7.0708元，较周四纽约尾盘涨36点，日内整体交投于7.0796-7.0669元区间，最近三个交易日持续上探7.06元。",
+          "url": "https://wallstreetcn.com/livenews/3012398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时11分 ~ 08时50分]"
         },
         {
           "title": "纽约金日内涨幅达1.0%，报4244.6美元/盎司。",
@@ -305,6 +312,18 @@
           "time_info": "[01时10分 ~ 02时16分]"
         },
         {
+          "title": "美元指数11月份跌超0.3%，重新逼近百月均线",
+          "url": "https://wallstreetcn.com/livenews/3012383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时11分 ~ 08时50分]"
+        },
+        {
           "title": "纽约期银日内大涨5.00%，现报56.29美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251129001657937800",
           "source": "金十数据",
@@ -341,6 +360,17 @@
           "time_info": "[02时16分 ~ 03时09分]"
         },
         {
+          "title": "现货黄金11月份涨5.9%，一度突破4240美元",
+          "url": "https://wallstreetcn.com/livenews/3012401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时50分"
+        },
+        {
           "title": "WTI 1月原油期货收报58.55美元/桶。 布伦特1月原油期货收报63.20美元/桶。 NYMEX 1月天然气期货收报4.85美元/百万英热单位。 NYMEX 12月汽油期货收报1.8959美元/加仑，NYMEX 12月取暖油期货收报2.3330美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3012380",
           "source": "华尔街见闻-快讯",
@@ -352,6 +382,17 @@
           "time_info": "05时10分"
         },
         {
+          "title": "纽约期银周五涨约6.5%突破57美元创历史新高，11月累涨16%",
+          "url": "https://wallstreetcn.com/livenews/3012402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时50分"
+        },
+        {
           "title": "现货白银日内涨幅达4.0%，报55.54美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3012329",
           "source": "华尔街见闻-快讯",
@@ -361,17 +402,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
-        },
-        {
-          "title": "美元指数11月份跌超0.3%，重新逼近百月均线",
-          "url": "https://wallstreetcn.com/livenews/3012383",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时11分"
         },
         {
           "title": "WTI原油日内涨幅达1.0%，报59.24美元/桶。",
@@ -441,11 +471,12 @@
           "ranks": [
             7,
             17,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时09分 ~ 07时11分]"
+          "appearance_count": 6,
+          "time_info": "[03时09分 ~ 08时50分]"
         },
         {
           "title": "周五（11月28日），降息赢家指数涨0.21%，报99.91点，本周累计上涨5.64%，11月份累计上涨3.57%。",
@@ -494,11 +525,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            9
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时11分 ~ 07时11分]"
+          "appearance_count": 3,
+          "time_info": "[06时11分 ~ 08时50分]"
         },
         {
           "title": "欧洲央行行长拉加德：利率处于合理水平",
@@ -538,11 +570,12 @@
             6,
             5,
             4,
-            3
+            3,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时10分 ~ 07时11分]"
+          "appearance_count": 10,
+          "time_info": "[01时10分 ~ 08时50分]"
         },
         {
           "title": "雷军发布小米购置税补贴重要提示",
@@ -554,8 +587,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时13分 ~ 07时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 08时50分]"
         },
         {
           "title": "雷军回应小米汽车续航测试",
@@ -623,8 +656,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时13分 ~ 07时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 08时50分]"
         },
         {
           "title": "半导体ETF+能源业ETF收涨1.3%，领跑美股行业ETF，11月网络股ETF、科技行业ETF跌超4.8%",
@@ -678,6 +711,47 @@
       ]
     },
     {
+      "keyword_group": "基础设施 基建 地铁 高铁",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "中国最长的跨市地铁要来了",
+          "url": "https://www.toutiao.com/trending/7577246973955670035/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 08时50分]"
+        },
+        {
+          "title": "中国最长的跨市地铁要来了",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%80%E9%95%BF%E7%9A%84%E8%B7%A8%E5%B8%82%E5%9C%B0%E9%93%81%E8%A6%81%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时50分"
+        },
+        {
+          "title": "印度阿达尼计划对谷歌公司位于印度南部的AI基础设施中心投资至多50亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3012294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时14分"
+        }
+      ]
+    },
+    {
       "keyword_group": "苹果 iPhone",
       "match_count": 3,
       "titles": [
@@ -721,6 +795,47 @@
       ]
     },
     {
+      "keyword_group": "人工智能 AI",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "AI要“上天”！一图看懂哪些巨头在争抢“太空算力”高地",
+          "url": "https://www.cls.cn/detail/2214152",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 08时50分]"
+        },
+        {
+          "title": "新兴市场股市料将面临2025年首次月度下跌，AI顾虑带来冲击",
+          "url": "https://wallstreetcn.com/livenews/3012331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时10分 ~ 02时16分]"
+        },
+        {
+          "title": "甲骨文等再贷380亿美元，“OpenAI链”数据中心圈子累计负债已达1000亿美元！",
+          "url": "https://wallstreetcn.com/articles/3760323",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时50分"
+        }
+      ]
+    },
+    {
       "keyword_group": "英伟达 台积电 AMD 高通",
       "match_count": 3,
       "titles": [
@@ -757,70 +872,12 @@
           "ranks": [
             2,
             11,
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时10分 ~ 07时11分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "中国最长的跨市地铁要来了",
-          "url": "https://www.toutiao.com/trending/7577246973955670035/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时13分 ~ 07时11分]"
-        },
-        {
-          "title": "印度阿达尼计划对谷歌公司位于印度南部的AI基础设施中心投资至多50亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3012294",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能 AI",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "AI要“上天”！一图看懂哪些巨头在争抢“太空算力”高地",
-          "url": "https://www.cls.cn/detail/2214152",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时13分 ~ 07时11分]"
-        },
-        {
-          "title": "新兴市场股市料将面临2025年首次月度下跌，AI顾虑带来冲击",
-          "url": "https://wallstreetcn.com/livenews/3012331",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时10分 ~ 02时16分]"
+          "appearance_count": 4,
+          "time_info": "[05时10分 ~ 08时50分]"
         }
       ]
     },
@@ -854,11 +911,29 @@
           "url": "https://www.zhihu.com/question/1977021045031605606",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时13分 ~ 07时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 08时50分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "考研 考公 国考",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "考公年龄放宽大龄考生紧急备考",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%80%83%E5%85%AC%E5%B9%B4%E9%BE%84%E6%94%BE%E5%AE%BD%E5%A4%A7%E9%BE%84%E8%80%83%E7%94%9F%E7%B4%A7%E6%80%A5%E5%A4%87%E8%80%83%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时50分"
         }
       ]
     },
@@ -874,11 +949,12 @@
             7,
             8,
             9,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时13分 ~ 07时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 08时50分]"
         }
       ]
     }
