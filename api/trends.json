@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T06:11:28.684181+08:00",
-  "total_titles_processed": 563,
+  "generated_at": "2025-12-02T07:11:54.184784+08:00",
+  "total_titles_processed": 605,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 22,
+      "match_count": 27,
       "titles": [
         {
           "title": "爱马仕继承人150亿美元财富失踪",
@@ -17,8 +17,19 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 06时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 07时11分]"
+        },
+        {
+          "title": "现货白银周二小幅低开，现报57.84美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251202070122711800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时11分"
         },
         {
           "title": "WTI 1月原油期货收涨0.77美元，涨幅超过1.31%，报59.32美元/桶。 中东Abu Dhabi Murban原油期货涨1.37%，报65.17美元/桶。 NYMEX 1月天然气期货收涨超1.46%，报4.9210美元/百万英热单位，投资者从喜忧参半的天气预报中寻找冬季取暖需求线索。 NYMEX 1月汽油期货收报1.8689美元/加仑，NYMEX 1月取暖油期货收报2.34美元/加仑。",
@@ -46,6 +57,19 @@
           "time_info": "[02时18分 ~ 05时10分]"
         },
         {
+          "title": "周一（12月1日）纽约尾盘，欧元兑美元涨0.08%，报1.1608，北京时间14:00之前大致持平，之后持续走高，21:05刷新日高至1.1652，之后逐步回吐涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3013210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时10分 ~ 07时11分]"
+        },
+        {
           "title": "加密货币市场跌势连绵，近10亿美元杠杆头寸被平仓",
           "url": "https://wallstreetcn.com/livenews/3013194",
           "source": "华尔街见闻-快讯",
@@ -59,16 +83,17 @@
           "time_info": "[04时12分 ~ 06时11分]"
         },
         {
-          "title": "周一（12月1日）纽约尾盘，欧元兑美元涨0.08%，报1.1608，北京时间14:00之前大致持平，之后持续走高，21:05刷新日高至1.1652，之后逐步回吐涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3013210",
+          "title": "周一（12月1日）纽约尾盘，美元兑日元跌0.44%，报155.49日元，日内交投区间为156.24-154.67日元，北京时间21:44刷新日低之后，逐步收复失地。 欧元兑日元跌0.35%，英镑兑日元跌0.59%。",
+          "url": "https://wallstreetcn.com/livenews/3013209",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            11
+            2,
+            12,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时10分 ~ 06时11分]"
+          "appearance_count": 3,
+          "time_info": "[05时10分 ~ 07时11分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0725元，较上周五夜盘收盘涨15点。成交量351.93亿美元。",
@@ -82,18 +107,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时12分 ~ 06时11分]"
-        },
-        {
-          "title": "周一（12月1日）纽约尾盘，美元兑日元跌0.44%，报155.49日元，日内交投区间为156.24-154.67日元，北京时间21:44刷新日低之后，逐步收复失地。 欧元兑日元跌0.35%，英镑兑日元跌0.59%。",
-          "url": "https://wallstreetcn.com/livenews/3013209",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时10分 ~ 06时11分]"
         },
         {
           "title": "现货白银日内大涨4.00%，现报58.62美元/盎司。",
@@ -243,13 +256,57 @@
           "time_info": "05时10分"
         },
         {
+          "title": "周一（12月1日）纽约尾盘（周二北京时间05:59），离岸人民币（CNH）兑美元报7.0719元，较上周五纽约尾盘跌11点，日内整体交投于7.0645-7.0732元区间。",
+          "url": "https://wallstreetcn.com/livenews/3013230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
+          "title": "周一（12月1日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘跌4.78%，报86595美元，日内大部分时间交投于57000美元下方。 CME以太币期货DCR主力合约跌8.35%，报2794美元， 美股加密货币与加密货币关联指数跌3.96%，报68.48点。 最近24小时，MarketVector数字资产100小盘指数跌6.00%，暂报17764.31点。",
+          "url": "https://wallstreetcn.com/livenews/3013229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
+          "title": "周一（12月1日）纽约尾盘，现货白银涨2.67%，报58.0014美元/盎司，北京时间00:46涨至58.8434美元刷新日高。 COMEX白银期货涨2.27%，报68.460美元/盎司，00:46涨至59.435美元创盘中历史新高。 COMEX铜期货大致持平，报5.2725美元/磅。 现货铂金跌0.33%，报1665.64美元/盎司；现货钯金跌1.81%，报1427.12美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3013228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
+          "title": "周一（12月1日）纽约尾盘，现货黄金跌0.18%，报4231.34美元/盎司，亚太盘初跌至4206.05美元刷新日低，之后反弹，美股开盘之前涨至4264.62美元刷新日高，之后走低。 COMEX黄金期货涨0.30%，报4267.60美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3013226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
           "title": "美元指数1日下跌",
           "url": "https://flash.jin10.com/detail/20251202051345483800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -289,8 +346,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 06时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 07时11分]"
         },
         {
           "title": "孙正义回应清仓英伟达：为了投AI，我是哭着卖的",
@@ -298,11 +355,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 06时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 07时11分]"
         },
         {
           "title": "“AI网购”时代即将到来！大摩：2030年近半数线上购物者将使用AI代理",
@@ -311,11 +369,12 @@
           "ranks": [
             12,
             11,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 06时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 07时11分]"
         },
         {
           "title": "郑恺上戏合影 AI生成",
@@ -327,8 +386,23 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 06时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 07时11分]"
+        },
+        {
+          "title": "顾客买鞋子仅退款拿AI视频当凭证",
+          "url": "https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E4%B9%B0%E9%9E%8B%E5%AD%90%E4%BB%85%E9%80%80%E6%AC%BE%E6%8B%BFAI%E8%A7%86%E9%A2%91%E5%BD%93%E5%87%AD%E8%AF%81",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            19,
+            21,
+            23,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 07时11分]"
         },
         {
           "title": "纳斯达克生物科技指数跌超2%。 成分股Sutro Biopharma目前下跌12.98%，Kyverna Therapeutics跌10.95%，Grail跌10.01%，Pyxis Oncology跌9.34%。 Ironwood医药则涨4.44%，Arrowhead Pharmaceuticals涨4.63%，Neumora Therapeutics涨6.92%，Q32 Bio涨92.69%。",
@@ -357,20 +431,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时14分 ~ 06时11分]"
-        },
-        {
-          "title": "顾客买鞋子仅退款拿AI视频当凭证",
-          "url": "https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E4%B9%B0%E9%9E%8B%E5%AD%90%E4%BB%85%E9%80%80%E6%AC%BE%E6%8B%BFAI%E8%A7%86%E9%A2%91%E5%BD%93%E5%87%AD%E8%AF%81",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            19,
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 06时11分]"
         },
         {
           "title": "微软CEO：将欧洲视为人工智能战略的关键地区",
@@ -470,7 +530,7 @@
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "日本股债双杀！央行行长强烈暗示12月加息：希望将利率提高至0.75%再谈以后",
@@ -480,8 +540,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 06时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 07时11分]"
         },
         {
           "title": "供应危机与降息预期夹击，白银和伦铜双双创历史新高",
@@ -491,19 +551,30 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 06时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 07时11分]"
         },
         {
-          "title": "新西兰联储主席布雷曼：近期的降息将促进新西兰经济增长。",
-          "url": "https://flash.jin10.com/detail/20251202055429080800",
+          "title": "韩国11月CPI月率 -0.2%，预期-0.25%，前值0.30%。",
+          "url": "https://flash.jin10.com/detail/20251202070048815800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
+          "title": "韩国11月CPI年率 2.4%，预期2.35%，前值2.40%。",
+          "url": "https://flash.jin10.com/detail/20251202070038863800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时11分"
+          "time_info": "07时11分"
         },
         {
           "title": "美国银行再度预计美联储12月将降息",
@@ -529,6 +600,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时12分 ~ 05时10分]"
+        },
+        {
+          "title": "新西兰联储主席布雷曼：近期的降息将促进新西兰经济增长。",
+          "url": "https://flash.jin10.com/detail/20251202055429080800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时11分]"
         },
         {
           "title": "欧洲央行管委科赫尔：我们应留足“弹药”，以便在必要时能够迅速作出反应。",
@@ -568,6 +651,30 @@
           "time_info": "[03时14分 ~ 05时10分]"
         },
         {
+          "title": "周一（12月1日），降息赢家指数涨0.17%，报100.08点，跳空低开之后，在美股盘初快速转涨。",
+          "url": "https://wallstreetcn.com/livenews/3013216",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时11分]"
+        },
+        {
+          "title": "新西兰联储主席布雷曼：在央行内部拥有充分的讨论空间至关重要。",
+          "url": "https://flash.jin10.com/detail/20251202053201378800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时11分]"
+        },
+        {
           "title": "英国央行货币政策委员会（MPC）成员Greene：若要支持降息，还需看到更大程度的就业疲软问题。",
           "url": "https://wallstreetcn.com/livenews/3013148",
           "source": "华尔街见闻-快讯",
@@ -580,26 +687,15 @@
           "time_info": "[01时14分 ~ 02时18分]"
         },
         {
-          "title": "周一（12月1日），降息赢家指数涨0.17%，报100.08点，跳空低开之后，在美股盘初快速转涨。",
-          "url": "https://wallstreetcn.com/livenews/3013216",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
-          "title": "新西兰联储主席布雷曼：在央行内部拥有充分的讨论空间至关重要。",
-          "url": "https://flash.jin10.com/detail/20251202053201378800",
+          "title": "美联储12月降息25个基点的概率为87.6%",
+          "url": "https://flash.jin10.com/detail/20251202060124213800",
           "source": "金十数据",
           "ranks": [
-            11
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时11分"
+          "time_info": "07时11分"
         },
         {
           "title": "美国11月ISM制造业物价支付指数 58.5，预期 57.5，前值 58。",
@@ -629,8 +725,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 06时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 07时11分]"
         },
         {
           "title": "小米汽车月销破4万辆 订单还够用吗",
@@ -643,8 +739,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 05时10分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 07时11分]"
         },
         {
           "title": "华强北华为Mate 80系列价格流出",
@@ -654,22 +750,24 @@
             21,
             27,
             20,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 06时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 07时11分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨0.96%，报7867.79点，全天持续走高。 热门中概股里，网易初步收涨4.9%，阿里巴巴涨4.4%，小马智行、新东方、文远知行、百度、拼多多至多涨3.4%，小鹏则跌2.2%，理想跌2.5%，小米集团ADR跌3%，蔚来跌5.7%。 ETF中，中概互联网指数ETF（KWEB）收涨1.12%，中国科技指数ETF（CQQQ）收涨0.67%。 德银嘉实沪深300指数ETF（ASHR）收涨0.77%，XtrackersHarvest中证50（ASHS）收涨0.66%。",
           "url": "https://wallstreetcn.com/livenews/3013211",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时11分]"
         },
         {
           "title": "人民日报谈小米集团高质量发展",
@@ -678,7 +776,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         }
@@ -700,8 +798,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 06时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 07时11分]"
         },
         {
           "title": "朱迪的理想9年来一直没有变",
@@ -712,11 +810,12 @@
             21,
             17,
             26,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 04时12分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 07时11分]"
         },
         {
           "title": "意大利交通部表示，特斯拉11月份新车注册量同比增长58.15%，1月至11月的新车注册量同比下降27.73%。",
@@ -787,11 +886,12 @@
           "url": "https://wallstreetcn.com/livenews/3013213",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时11分]"
         },
         {
           "title": "英伟达CEO黄仁勋：新思科技(SNPS.O)没有义务购买英伟达的芯片。",
@@ -860,8 +960,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 06时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 07时11分]"
         },
         {
           "title": "英伟达锁定EDA霸主！20亿美元入股新思科技扩大合作版图",
@@ -869,11 +969,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时10分 ~ 06时11分]"
+          "appearance_count": 3,
+          "time_info": "[05时10分 ~ 07时11分]"
         },
         {
           "title": "英伟达和新思科技的CEO们表示，最新（持股）交易旨在加速应用。 其中，英伟达CEO黄仁勋称，与新思科技的协议并非独家的。 新思科技CEO表示，来自英伟达的投资（给公司）带来选择性。",
@@ -886,6 +987,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时16分 ~ 01时14分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 iPhone",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "苹果宣布AI主管将离职，接班人曾在谷歌DeepMind和微软工作",
+          "url": "https://wallstreetcn.com/livenews/3013239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
+          "title": "苹果任命AI业务副总裁",
+          "url": "https://flash.jin10.com/detail/20251202061819637800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时11分"
         }
       ]
     },
@@ -930,8 +1059,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 06时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 07时11分]"
         },
         {
           "title": "国考姐贩毒40公斤,轻判8年遭质疑",
@@ -942,8 +1071,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 06时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 07时11分]"
         }
       ]
     },
@@ -957,11 +1086,12 @@
           "source": "抖音",
           "ranks": [
             24,
-            25
+            25,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 06时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 07时11分]"
         }
       ]
     },
@@ -978,8 +1108,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 06时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 07时11分]"
         }
       ]
     },
@@ -992,11 +1122,12 @@
           "url": "https://wallstreetcn.com/livenews/3013215",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时11分]"
         }
       ]
     },
