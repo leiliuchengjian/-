@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-01T16:19:09.134563+08:00",
-  "total_titles_processed": 1225,
+  "generated_at": "2025-12-01T17:19:24.947976+08:00",
+  "total_titles_processed": 1320,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 55,
+      "match_count": 56,
       "titles": [
         {
           "title": "周末要闻汇总：沪深300等指数样本定期调整公布，央行：持续打击虚拟货币相关非法金融活动",
@@ -63,11 +63,12 @@
             8,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时31分 ~ 16时19分]"
+          "appearance_count": 8,
+          "time_info": "[11时31分 ~ 17时19分]"
         },
         {
           "title": "中国央行：10月份，债券市场共发行各类债券63574.6亿元",
@@ -143,9 +144,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
+        },
+        {
+          "title": "日本股债双杀！央行行长强烈暗示12月加息：希望将利率提高至0.75%再谈以后",
+          "url": "https://wallstreetcn.com/articles/3760425",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时16分 ~ 17时19分]"
         },
         {
           "title": "泰国央行：要求金融机构加强对与黄金相关的外汇交易的管控。",
@@ -172,16 +185,28 @@
           "time_info": "[11时31分 ~ 12时42分]"
         },
         {
-          "title": "日本股债双杀！央行行长强烈暗示12月加息：希望将利率提高至0.75%再谈以后",
-          "url": "https://wallstreetcn.com/articles/3760425",
-          "source": "华尔街见闻",
+          "title": "泰国央行称已准备好应对泰铢波动 以限制其影响",
+          "url": "https://wallstreetcn.com/livenews/3012878",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            6
+            17,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时16分 ~ 16时19分]"
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 17时19分]"
+        },
+        {
+          "title": "日本内阁官房长官木原稔：货币政策属于日本央行的职权范围。",
+          "url": "https://wallstreetcn.com/livenews/3012875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 17时19分]"
         },
         {
           "title": "印尼央行官员：认为仍有进一步降息空间，但需静待时机与幅度。",
@@ -289,7 +314,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -371,15 +396,15 @@
           "time_info": "15时16分"
         },
         {
-          "title": "泰国央行称已准备好应对泰铢波动 以限制其影响",
-          "url": "https://wallstreetcn.com/livenews/3012878",
-          "source": "华尔街见闻-快讯",
+          "title": "泰国央行拟推新规缓解泰铢升值压力 将加强审查黄金相关资金流动",
+          "url": "https://flash.jin10.com/detail/20251201164707713800",
+          "source": "金十数据",
           "ranks": [
             17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时19分"
+          "time_info": "17时19分"
         },
         {
           "title": "泰国央行行长：与财政部合作良好，正努力解决结构性问题。",
@@ -426,17 +451,6 @@
           "time_info": "14时19分"
         },
         {
-          "title": "日本内阁官房长官木原稔：货币政策属于日本央行的职权范围。",
-          "url": "https://wallstreetcn.com/livenews/3012875",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
           "title": "巴克莱：预计美联储本月降息 前瞻性指引倾向于暂时按兵不动",
           "url": "https://flash.jin10.com/detail/20251201113516495800",
           "source": "金十数据",
@@ -476,7 +490,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -627,7 +641,7 @@
     },
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "人民币在过去一个月里为何升值加快？",
@@ -639,8 +653,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时12分 ~ 16时19分]"
+          "appearance_count": 21,
+          "time_info": "[00时12分 ~ 17时19分]"
         },
         {
           "title": "当国风变装遇上人民币设计美学",
@@ -670,8 +684,23 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时31分 ~ 17时19分]"
+        },
+        {
+          "title": "爱马仕继承人150亿美元财富失踪",
+          "url": "https://www.toutiao.com/trending/7577611751588626458/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            6,
+            10,
+            16,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[11时31分 ~ 16时19分]"
+          "time_info": "[12时42分 ~ 17时19分]"
         },
         {
           "title": "UP主分享人民币风格变装灵感",
@@ -688,21 +717,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时31分 ~ 16时19分]"
-        },
-        {
-          "title": "爱马仕继承人150亿美元财富失踪",
-          "url": "https://www.toutiao.com/trending/7577611751588626458/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            6,
-            10,
-            16,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时42分 ~ 16时19分]"
         },
         {
           "title": "现货黄金短线下挫20美元，回落至4210美元/盎司下方，日内跌0.19%。",
@@ -817,6 +831,18 @@
           "time_info": "[14时19分 ~ 15时16分]"
         },
         {
+          "title": "2600亿美元散户资金“无差别”买入 正在扭曲公司债市场",
+          "url": "https://wallstreetcn.com/livenews/3012894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 17时19分]"
+        },
+        {
           "title": "澳新银行：人民币明年末有望升至6.95元 料不会侵蚀出口竞争力",
           "url": "https://wallstreetcn.com/livenews/3012795",
           "source": "华尔街见闻-快讯",
@@ -827,6 +853,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时21分 ~ 14时19分]"
+        },
+        {
+          "title": "美元兑日元跌0.5%，报155.39点。",
+          "url": "https://wallstreetcn.com/livenews/3012885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 17时19分]"
         },
         {
           "title": "第一次见cos人民币",
@@ -853,15 +891,15 @@
           "time_info": "[13时21分 ~ 14时19分]"
         },
         {
-          "title": "2600亿美元散户资金“无差别”买入 正在扭曲公司债市场",
-          "url": "https://wallstreetcn.com/livenews/3012894",
+          "title": "在岸人民币兑美元北京时间16:30官方收报7.0725，较上一交易日官方收盘价涨69点，较上日夜盘收盘涨15点。",
+          "url": "https://wallstreetcn.com/livenews/3012912",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时19分"
+          "time_info": "17时19分"
         },
         {
           "title": "现货钯金日内涨幅扩大至2.00%，现报1482.22美元/盎司。",
@@ -892,18 +930,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "美元兑日元跌0.5%，报155.39点。",
-          "url": "https://wallstreetcn.com/livenews/3012885",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -914,7 +941,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -1032,7 +1059,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
@@ -1096,8 +1123,24 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时42分 ~ 16时19分]"
+          "appearance_count": 7,
+          "time_info": "[12时42分 ~ 17时19分]"
+        },
+        {
+          "title": "字节搅动端侧AI风云！豆包发布手机助手预览版 又一轮换机潮可期？",
+          "url": "https://www.cls.cn/detail/2215541",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时42分 ~ 17时19分]"
         },
         {
           "title": "海外大厂提价！AI催生钽电容缺口 国内厂商谁能接棒涨价红利？|行业观察",
@@ -1114,28 +1157,13 @@
           "time_info": "[09时02分 ~ 16时19分]"
         },
         {
-          "title": "字节搅动端侧AI风云！豆包发布手机助手预览版 又一轮换机潮可期？",
-          "url": "https://www.cls.cn/detail/2215541",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时42分 ~ 16时19分]"
-        },
-        {
           "title": "梅赛德斯-奔驰：今年将员工的人工智能使用率提高了一倍，目标是到2025年底达到50%的使用率。",
           "url": "https://flash.jin10.com/detail/20251201160943754800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -1184,6 +1212,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时31分 ~ 12时42分]"
+        },
+        {
+          "title": "软银CEO孙正义：当超级智能出现时，至少10%的全球GDP将由AI和AI机器人取代。",
+          "url": "https://wallstreetcn.com/livenews/3012910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "北京：加强“人工智能+政务服务”统筹建设，强化政务领域大模型顶层设计",
@@ -1267,8 +1306,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时12分 ~ 16时19分]"
+          "appearance_count": 23,
+          "time_info": "[00时12分 ~ 17时19分]"
         },
         {
           "title": "283.1万人参加国考笔试",
@@ -1312,11 +1351,12 @@
             16,
             18,
             21,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时12分 ~ 16时19分]"
+          "appearance_count": 23,
+          "time_info": "[00时12分 ~ 17时19分]"
         },
         {
           "title": "283.1万人参加国考笔试",
@@ -1343,6 +1383,18 @@
           "time_info": "[00时12分 ~ 05时10分]"
         },
         {
+          "title": "国考姐贩毒40公斤,轻判8年遭质疑",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347624&amp;topic_name=%E5%9B%BD%E8%80%83%E5%A7%90%E8%B4%A9%E6%AF%9240%E5%85%AC%E6%96%A4%2C%E8%BD%BB%E5%88%A48%E5%B9%B4%E9%81%AD%E8%B4%A8%E7%96%91",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时16分 ~ 17时19分]"
+        },
+        {
           "title": "国考结束",
           "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%80%83%E7%BB%93%E6%9D%9F&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -1352,18 +1404,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时12分 ~ 01时10分]"
-        },
-        {
-          "title": "国考姐贩毒40公斤,轻判8年遭质疑",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347624&amp;topic_name=%E5%9B%BD%E8%80%83%E5%A7%90%E8%B4%A9%E6%AF%9240%E5%85%AC%E6%96%A4%2C%E8%BD%BB%E5%88%A48%E5%B9%B4%E9%81%AD%E8%B4%A8%E7%96%91",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时16分 ~ 16时19分]"
         },
         {
           "title": "2026年度国考共283.1万人参加 考录比约74∶1",
@@ -1476,11 +1516,12 @@
             19,
             21,
             24,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时12分 ~ 16时19分]"
+          "appearance_count": 23,
+          "time_info": "[00时12分 ~ 17时19分]"
         },
         {
           "title": "碰撞轮毂飞!竟是小米保命绝招",
@@ -1497,6 +1538,22 @@
           "time_info": "[00时12分 ~ 15时16分]"
         },
         {
+          "title": "小米汽车将开放现车选购",
+          "url": "https://www.douyin.com/hot/2322868",
+          "source": "抖音",
+          "ranks": [
+            14,
+            10,
+            16,
+            15,
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时42分 ~ 17时19分]"
+        },
+        {
           "title": "小米汽车：11月新增17家门店",
           "url": "https://wallstreetcn.com/livenews/3012538",
           "source": "华尔街见闻-快讯",
@@ -1509,19 +1566,16 @@
           "time_info": "[00时13分 ~ 06时11分]"
         },
         {
-          "title": "小米汽车将开放现车选购",
-          "url": "https://www.douyin.com/hot/2322868",
-          "source": "抖音",
+          "title": "华为首款AI情绪陪伴玩具售罄缺货 AI端侧赛道投资价值凸现",
+          "url": "https://www.cls.cn/detail/2215245",
+          "source": "财联社热门",
           "ranks": [
-            14,
-            10,
-            16,
-            15,
-            5
+            13,
+            11
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[12时42分 ~ 16时19分]"
+          "time_info": "[12时42分 ~ 17时19分]"
         },
         {
           "title": "华为回应Mate80信号栏显示5A标识",
@@ -1536,17 +1590,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时02分 ~ 13时21分]"
-        },
-        {
-          "title": "华为首款AI情绪陪伴玩具售罄缺货 AI端侧赛道投资价值凸现",
-          "url": "https://www.cls.cn/detail/2215245",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时42分 ~ 16时19分]"
         },
         {
           "title": "小米汽车将开放“现车选购”",
@@ -1587,83 +1630,8 @@
       ]
     },
     {
-      "keyword_group": "苹果 iPhone",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "监管机构：苹果试图通过挑战处罚法来拖延印度反垄断案的审理",
-          "url": "https://wallstreetcn.com/livenews/3012907",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "中式苹果炖猪排",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%BC%8F%E8%8B%B9%E6%9E%9C%E7%82%96%E7%8C%AA%E6%8E%92",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 13时21分]"
-        },
-        {
-          "title": "曝iPhone折叠屏手机无折痕",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DiPhone%E6%8A%98%E5%8F%A0%E5%B1%8F%E6%89%8B%E6%9C%BA%E6%97%A0%E6%8A%98%E7%97%95%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时16分 ~ 16时19分]"
-        },
-        {
-          "title": "印度电信部要求苹果(AAPL.O)等智能手机制造商预装政府推出的网络安全应用程序。",
-          "url": "https://flash.jin10.com/detail/20251201134848484800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "反垄断监管机构向印度法院表示，苹果(AAPL.O)公司对反垄断处罚法的挑战旨在拖延正在进行的诉讼程序。",
-          "url": "https://flash.jin10.com/detail/20251201155156836800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "如何评价苹果将在 2027 年使用 Intel 18A-P 工艺制造低端 M 系列 SoC？",
-          "url": "https://www.zhihu.com/question/1978148539101114855",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        }
-      ]
-    },
-    {
       "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "广州沙园地铁站附近突发火情",
@@ -1713,6 +1681,17 @@
           "time_info": "[16时18分 ~ 16时19分]"
         },
         {
+          "title": "广州沙园地铁站附近起火",
+          "url": "https://www.douyin.com/hot/2323196",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
           "title": "俄罗斯外长就黑海码头遭袭发表声明：遭袭的民用能源基础设施在保障全球能源安全方面发挥着重要作用，且从未受到任何限制或约束。",
           "url": "https://flash.jin10.com/detail/20251130193417035800",
           "source": "金十数据",
@@ -1726,61 +1705,97 @@
       ]
     },
     {
-      "keyword_group": "新能源汽车 电动汽车 智能驾驶",
-      "match_count": 4,
+      "keyword_group": "苹果 iPhone",
+      "match_count": 6,
       "titles": [
         {
-          "title": "工信部：鼓励中国光伏、风电、锂电池、新能源汽车等优势企业“走出去”",
-          "url": "https://wallstreetcn.com/livenews/3012810",
+          "title": "监管机构：苹果试图通过挑战处罚法来拖延印度反垄断案的审理",
+          "url": "https://wallstreetcn.com/livenews/3012907",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            13
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时21分 ~ 14时19分]"
+          "time_info": "[16时19分 ~ 17时19分]"
         },
         {
-          "title": "工信部：鼓励中国光伏、风电、锂电池、新能源汽车等优势企业“走出去”",
-          "url": "https://www.cls.cn/detail/2215595",
-          "source": "财联社热门",
+          "title": "中式苹果炖猪排",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%BC%8F%E8%8B%B9%E6%9E%9C%E7%82%96%E7%8C%AA%E6%8E%92",
+          "source": "bilibili 热搜",
           "ranks": [
-            13,
-            6
+            19,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时16分 ~ 16时19分]"
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 13时21分]"
         },
         {
-          "title": "普京为何突然带货中国电动汽车",
-          "url": "https://www.toutiao.com/trending/7578661450617458212/",
-          "source": "今日头条",
+          "title": "曝iPhone折叠屏手机无折痕",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DiPhone%E6%8A%98%E5%8F%A0%E5%B1%8F%E6%89%8B%E6%9C%BA%E6%97%A0%E6%8A%98%E7%97%95%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
           "ranks": [
-            6
+            17,
+            14,
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时42分"
+          "appearance_count": 4,
+          "time_info": "[15时16分 ~ 17时19分]"
         },
         {
-          "title": "消息人士：Vinfast的增程电动汽车计划尚处于初步阶段。",
-          "url": "https://flash.jin10.com/detail/20251201135422296800",
+          "title": "印度电信部要求苹果(AAPL.O)等智能手机制造商预装政府推出的网络安全应用程序。",
+          "url": "https://flash.jin10.com/detail/20251201134848484800",
           "source": "金十数据",
           "ranks": [
-            6
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
+        },
+        {
+          "title": "反垄断监管机构向印度法院表示，苹果(AAPL.O)公司对反垄断处罚法的挑战旨在拖延正在进行的诉讼程序。",
+          "url": "https://flash.jin10.com/detail/20251201155156836800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "如何评价苹果将在 2027 年使用 Intel 18A-P 工艺制造低端 M 系列 SoC？",
+          "url": "https://www.zhihu.com/question/1978148539101114855",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时42分"
         }
       ]
     },
     {
       "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "挪威公路联合会：特斯拉11月份在挪威的新车注册量同比增长175%。",
+          "url": "https://flash.jin10.com/detail/20251201170106558800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
         {
           "title": "瑞典汽车产业协会(Mobility Sweden)数据显示，11月特斯拉(TSLA.O)在瑞典的新车注册量同比下降59%。",
           "url": "https://flash.jin10.com/detail/20251201155920791800",
@@ -1788,7 +1803,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -1802,6 +1817,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
+        },
+        {
+          "title": "理想汽车(LI.O)：理想i6的月产能将于2026年初达到2万辆。",
+          "url": "https://flash.jin10.com/detail/20251201163714045800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "据Mobility Denmark（原丹麦汽车进口商协会）数据，11月，特斯拉(TSLA.O)在丹麦的新车注册量同比下降49%。",
@@ -1824,6 +1850,70 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源汽车 电动汽车 智能驾驶",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "工信部：鼓励中国光伏、风电、锂电池、新能源汽车等优势企业“走出去”",
+          "url": "https://www.cls.cn/detail/2215595",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时16分 ~ 17时19分]"
+        },
+        {
+          "title": "工信部：鼓励中国光伏、风电、锂电池、新能源汽车等优势企业“走出去”",
+          "url": "https://wallstreetcn.com/livenews/3012810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 14时19分]"
+        },
+        {
+          "title": "普京为何突然带货中国电动汽车",
+          "url": "https://www.toutiao.com/trending/7578661450617458212/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
+          "title": "消息人士：Vinfast的增程电动汽车计划尚处于初步阶段。",
+          "url": "https://flash.jin10.com/detail/20251201135422296800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "如何评价「新能源汽车正进入下行周期」的观点？将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1978761406493979455",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         }
       ]
     },
@@ -1914,7 +2004,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         }
@@ -2045,11 +2135,12 @@
             2,
             3,
             6,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时31分 ~ 16时19分]"
+          "appearance_count": 8,
+          "time_info": "[11时31分 ~ 17时19分]"
         }
       ]
     },
