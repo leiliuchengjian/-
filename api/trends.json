@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-12-03T12:20:42.492447+08:00",
-  "total_titles_processed": 1085,
+  "generated_at": "2025-12-03T13:13:13.499935+08:00",
+  "total_titles_processed": 1138,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
       "match_count": 47,
       "titles": [
+        {
+          "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
+          "url": "https://wallstreetcn.com/articles/3760523",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时53分 ~ 13时13分]"
+        },
         {
           "title": "离岸汇率一度突破 7.06 ，这次人民币汇率大涨有何不同？对我们有何影响？",
           "url": "https://www.zhihu.com/question/1978893272014407271",
@@ -19,29 +31,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时16分 ~ 07时11分]"
-        },
-        {
-          "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
-          "url": "https://wallstreetcn.com/articles/3760523",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时53分 ~ 12时20分]"
-        },
-        {
-          "title": "印度卢比兑美元短暂跌至90.14，创历史新低。",
-          "url": "https://flash.jin10.com/detail/20251203115215694800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
         },
         {
           "title": "LME期铜收跌107美元，报11145美元/吨。 LME期铝收跌28美元，报2866美元/吨。 LME期锌收跌34美元，报3062美元/吨。",
@@ -136,6 +125,44 @@
           "time_info": "[01时15分 ~ 03时13分]"
         },
         {
+          "title": "印度卢比兑美元短暂跌至90.14，创历史新低。",
+          "url": "https://flash.jin10.com/detail/20251203115215694800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时20分 ~ 13时13分]"
+        },
+        {
+          "title": "印度卢比兑美元跌破90关口，继续创记录新低。",
+          "url": "https://wallstreetcn.com/livenews/3014145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时46分 ~ 13时13分]"
+        },
+        {
+          "title": "印度卢比兑美元汇率跌破90关口。",
+          "url": "https://flash.jin10.com/detail/20251203113249561800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时46分 ~ 13时13分]"
+        },
+        {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0725元，较周一夜盘收盘持平。成交量337.76亿美元。",
           "url": "https://wallstreetcn.com/livenews/3013876",
           "source": "华尔街见闻-快讯",
@@ -161,28 +188,17 @@
           "time_info": "[00时16分 ~ 01时15分]"
         },
         {
-          "title": "印度卢比兑美元跌破90关口，继续创记录新低。",
-          "url": "https://wallstreetcn.com/livenews/3014145",
+          "title": "新西兰联储上调贸易加权指数中的美元权重",
+          "url": "https://wallstreetcn.com/livenews/3014135",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            11
+            11,
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时46分 ~ 12时20分]"
-        },
-        {
-          "title": "印度卢比兑美元汇率跌破90关口。",
-          "url": "https://flash.jin10.com/detail/20251203113249561800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时46分 ~ 12时20分]"
+          "appearance_count": 3,
+          "time_info": "[11时46分 ~ 13时13分]"
         },
         {
           "title": "上期所原油期货2501合约夜盘收跌0.75%，报449.90元人民币/桶。 沪金夜盘收跌0.85%，沪银收涨1.10%。",
@@ -195,6 +211,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时13分 ~ 04时35分]"
+        },
+        {
+          "title": "现货白银一度升0.8%至纪录高点每盎司58.94美元。",
+          "url": "https://wallstreetcn.com/livenews/3014152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时20分 ~ 13时13分]"
         },
         {
           "title": "Prosus在11月24-28日当周按均价54.6114欧元回购股票181.0829万股，总体耗资0.989亿欧元（折合1.145亿美元）。 Naspers同期按均价1131.1265南非兰特回购58.7399万股，总体耗资6.644亿兰特（折合0.386亿美元）。",
@@ -269,18 +297,6 @@
           "time_info": "[10时31分 ~ 11时46分]"
         },
         {
-          "title": "新西兰联储上调贸易加权指数中的美元权重",
-          "url": "https://wallstreetcn.com/livenews/3014135",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时46分 ~ 12时20分]"
-        },
-        {
           "title": "戴尔创始人豪捐62.5亿美元 为美国儿童账户添上250美元启动金",
           "url": "https://www.cls.cn/detail/2217632",
           "source": "财联社热门",
@@ -351,17 +367,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时28分 ~ 06时11分]"
-        },
-        {
-          "title": "现货白银一度升0.8%至纪录高点每盎司58.94美元。",
-          "url": "https://wallstreetcn.com/livenews/3014152",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
         },
         {
           "title": "现货黄金短线跌势延续，最低跌至4163美元/盎司，日内跌约1.5%。",
@@ -554,7 +559,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "“豆包AI助手”手机售罄！生态挑战仍待破局 手机厂商或倾向于自研",
@@ -583,6 +588,18 @@
           "time_info": "[00时16分 ~ 08时53分]"
         },
         {
+          "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
+          "url": "https://wallstreetcn.com/articles/3760564",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时53分 ~ 13时13分]"
+        },
+        {
           "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
           "url": "https://wallstreetcn.com/articles/3760479",
           "source": "华尔街见闻",
@@ -605,8 +622,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时16分 ~ 12时20分]"
+          "appearance_count": 15,
+          "time_info": "[00时16分 ~ 13时13分]"
         },
         {
           "title": "谷歌揭秘了AI竞赛的底牌",
@@ -622,18 +639,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时16分 ~ 07时11分]"
-        },
-        {
-          "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
-          "url": "https://wallstreetcn.com/articles/3760564",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时53分 ~ 12时20分]"
         },
         {
           "title": "12 月 1 日豆包手机助手技术预览版发布，AI 直接嵌入操作系统底层有何意义？会对行业产生什么影响？",
@@ -662,28 +667,6 @@
           "time_info": "00时16分"
         },
         {
-          "title": "阿里千问App位列全球AI应用增速榜第一",
-          "url": "https://wallstreetcn.com/livenews/3014157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
-        },
-        {
-          "title": "惠誉：人工智能支出浪潮将支撑韩国存储芯片制造商的前景。",
-          "url": "https://flash.jin10.com/detail/20251203114922353800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
-        },
-        {
           "title": "市场消息：亚马逊紧急推出最新人工智能芯片，迎战英伟达和谷歌。",
           "url": "https://flash.jin10.com/detail/20251203000100879800",
           "source": "金十数据",
@@ -693,6 +676,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "端侧AI“上新潮”来了！哪些上市公司有望分羹产业链盛宴？",
+          "url": "https://www.cls.cn/detail/2217832",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时31分 ~ 13时13分]"
         },
         {
           "title": "OpenAI拉响最高警报：谷歌模型威胁巨大 全力改进ChatGPT",
@@ -743,6 +739,30 @@
           "time_info": "[02时19分 ~ 04时35分]"
         },
         {
+          "title": "阿里千问App位列全球AI应用增速榜第一",
+          "url": "https://wallstreetcn.com/livenews/3014157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时20分 ~ 13时13分]"
+        },
+        {
+          "title": "惠誉：人工智能支出浪潮将支撑韩国存储芯片制造商的前景。",
+          "url": "https://flash.jin10.com/detail/20251203114922353800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时20分 ~ 13时13分]"
+        },
+        {
           "title": "迈威尔科技将以大约32.5亿美元现金+股票收购Celestial AI。",
           "url": "https://wallstreetcn.com/livenews/3013912",
           "source": "华尔街见闻-快讯",
@@ -755,17 +775,16 @@
           "time_info": "[05时28分 ~ 06时11分]"
         },
         {
-          "title": "端侧AI“上新潮”来了！哪些上市公司有望分羹产业链盛宴？",
-          "url": "https://www.cls.cn/detail/2217832",
+          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
+          "url": "https://www.cls.cn/detail/2218001",
           "source": "财联社热门",
           "ranks": [
-            10,
-            8,
+            12,
             9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时31分 ~ 12时20分]"
+          "time_info": "[12时20分 ~ 13时13分]"
         },
         {
           "title": "AI手机概念股遇冷 热门公司先后“澄清” 哪些公司“豆包味”更浓？",
@@ -957,6 +976,17 @@
           "time_info": "07时11分"
         },
         {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-12-03）",
+          "url": "https://flash.jin10.com/detail/20251203115452067800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
           "title": "对AI泡沫的担忧加剧：甲骨文“恐慌指数”创2009年以来新高",
           "url": "https://wallstreetcn.com/livenews/3013942",
           "source": "华尔街见闻-快讯",
@@ -966,17 +996,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
-        },
-        {
-          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
-          "url": "https://www.cls.cn/detail/2218001",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
         },
         {
           "title": "法国公司Mistral AI正式发布Mistral 3模型",
@@ -1063,6 +1082,19 @@
           "time_info": "08时53分"
         },
         {
+          "title": "菲律宾央行行长：我们都同意2025年经济增长将会缓慢，可能在4-5%之间；经济复苏应于2026年启动，并于2027年重回正轨。",
+          "url": "https://flash.jin10.com/detail/20251203113841263800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时46分 ~ 13时13分]"
+        },
+        {
           "title": "周二（12月2日），降息赢家指数跌0.78%，报99.29点。",
           "url": "https://wallstreetcn.com/livenews/3013915",
           "source": "华尔街见闻-快讯",
@@ -1076,16 +1108,17 @@
           "time_info": "[05时28分 ~ 07时11分]"
         },
         {
-          "title": "菲律宾央行行长：我们都同意2025年经济增长将会缓慢，可能在4-5%之间；经济复苏应于2026年启动，并于2027年重回正轨。",
-          "url": "https://flash.jin10.com/detail/20251203113841263800",
+          "title": "菲律宾央行行长：经济复苏应于2026年启动，2027年重回正轨。",
+          "url": "https://flash.jin10.com/detail/20251203113807613800",
           "source": "金十数据",
           "ranks": [
-            2,
-            8
+            3,
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时46分 ~ 12时20分]"
+          "appearance_count": 3,
+          "time_info": "[11时46分 ~ 13时13分]"
         },
         {
           "title": "普渡大学数据显示，美国11月农业信心指数139，创6月以来新高，前值129。 现况指数下滑2个点，未来预期指数上扬15个点。 根据普渡大学商业农业中心主任 Michael Langemeier 的说法：“农作物价格的上涨以及对农产品出口更为乐观的展望，共同改善了未来的前景。”",
@@ -1100,16 +1133,16 @@
           "time_info": "[00时16分 ~ 01时15分]"
         },
         {
-          "title": "菲律宾央行行长：经济复苏应于2026年启动，2027年重回正轨。",
-          "url": "https://flash.jin10.com/detail/20251203113807613800",
+          "title": "菲律宾央行行长：经济增长前景放缓，12月降息概率进一步上升。",
+          "url": "https://flash.jin10.com/detail/20251203114004378800",
           "source": "金十数据",
           "ranks": [
-            3,
-            9
+            6,
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时46分 ~ 12时20分]"
+          "time_info": "[12时20分 ~ 13时13分]"
         },
         {
           "title": "美国总统特朗普：美联储主席应该降息。",
@@ -1146,17 +1179,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时46分 ~ 12时20分]"
-        },
-        {
-          "title": "菲律宾央行行长：经济增长前景放缓，12月降息概率进一步上升。",
-          "url": "https://flash.jin10.com/detail/20251203114004378800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
         },
         {
           "title": "美联储12月降息25个基点的概率为89.2%",
@@ -1217,7 +1239,7 @@
     },
     {
       "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "豆包AI助手\"理想丰满现实骨感\"？大摩：手机大厂更倾向自研，要落地很困难",
@@ -1237,11 +1259,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E5%8F%91%E5%B8%83%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%91%E6%AD%A5%E8%A7%86%E9%A2%91%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
           "ranks": [
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时31分 ~ 12时20分]"
+          "appearance_count": 5,
+          "time_info": "[10时31分 ~ 13时13分]"
         },
         {
           "title": "恒生科技指数日内跌超1%。蔚来、小鹏汽车跌超4%。",
@@ -1253,6 +1276,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
+        },
+        {
+          "title": "枪口瞄准特斯拉！大空头称其估值荒谬、薪酬计划损害股东",
+          "url": "https://wallstreetcn.com/articles/3760515",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时46分 ~ 13时13分]"
         },
         {
           "title": "特斯拉人形机器人跑步视频",
@@ -1267,16 +1302,15 @@
           "time_info": "[11时46分 ~ 12时20分]"
         },
         {
-          "title": "枪口瞄准特斯拉！大空头称其估值荒谬、薪酬计划损害股东",
-          "url": "https://wallstreetcn.com/articles/3760515",
-          "source": "华尔街见闻",
+          "title": "特斯拉发布人形机器人跑步视频",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E5%8F%91%E5%B8%83%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%91%E6%AD%A5%E8%A7%86%E9%A2%91",
+          "source": "百度热搜",
           "ranks": [
-            9,
-            8
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时46分 ~ 12时20分]"
+          "time_info": "[13时12分 ~ 13时13分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌0.6%。 热门中概股里，小鹏初步收跌7.5%，阿特斯太阳能跌5.9%，万国数据、蔚来、B站、世纪互联、阿里巴巴等至少跌约2%，华住则涨1%，文远知行涨2.7%，亚朵涨5.4%。 ETF中，CQQQ跌1.2%，KWEB跌0.9%。",
@@ -1321,6 +1355,103 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为 小米 荣耀",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "三星三折叠手机发布，罗永浩称其「比华为方案更厚，意义不明」，这款售价约 17305 元的手机值得买吗？",
+          "url": "https://www.zhihu.com/question/1979202117127389285",
+          "source": "知乎",
+          "ranks": [
+            10,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 10时31分]"
+        },
+        {
+          "title": "小米汽车罕见自谦,冲欧自评不够格",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347668&amp;topic_name=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E7%BD%95%E8%A7%81%E8%87%AA%E8%B0%A6%2C%E5%86%B2%E6%AC%A7%E8%87%AA%E8%AF%84%E4%B8%8D%E5%A4%9F%E6%A0%BC",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时16分 ~ 13时13分]"
+        },
+        {
+          "title": "小米高管疑似集体遭遇短信轰炸",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E9%AB%98%E7%AE%A1%E7%96%91%E4%BC%BC%E9%9B%86%E4%BD%93%E9%81%AD%E9%81%87%E7%9F%AD%E4%BF%A1%E8%BD%B0%E7%82%B8%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 10时31分]"
+        },
+        {
+          "title": "自卫队用华为,美日兄弟情当场漏风",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347652&amp;topic_name=%E8%87%AA%E5%8D%AB%E9%98%9F%E7%94%A8%E5%8D%8E%E4%B8%BA%2C%E7%BE%8E%E6%97%A5%E5%85%84%E5%BC%9F%E6%83%85%E5%BD%93%E5%9C%BA%E6%BC%8F%E9%A3%8E",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            17,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时16分 ~ 13时13分]"
+        },
+        {
+          "title": "谁买谁后悔?华为新机线下体验拉闸",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347650&amp;topic_name=%E8%B0%81%E4%B9%B0%E8%B0%81%E5%90%8E%E6%82%94%3F%E5%8D%8E%E4%B8%BA%E6%96%B0%E6%9C%BA%E7%BA%BF%E4%B8%8B%E4%BD%93%E9%AA%8C%E6%8B%89%E9%97%B8",
+          "source": "贴吧",
+          "ranks": [
+            17,
+            21,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时16分 ~ 13时13分]"
+        },
+        {
+          "title": "雷军突然开卖现车 小米彻底摊牌了",
+          "url": "https://www.toutiao.com/trending/7579141283130641926/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 08时53分]"
+        },
+        {
+          "title": "小鹏X9超级增程携手华为打造下一代增程发电机",
+          "url": "https://wallstreetcn.com/livenews/3014167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
         }
       ]
     },
@@ -1497,89 +1628,6 @@
       ]
     },
     {
-      "keyword_group": "华为 小米 荣耀",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "三星三折叠手机发布，罗永浩称其「比华为方案更厚，意义不明」，这款售价约 17305 元的手机值得买吗？",
-          "url": "https://www.zhihu.com/question/1979202117127389285",
-          "source": "知乎",
-          "ranks": [
-            10,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 10时31分]"
-        },
-        {
-          "title": "小米汽车罕见自谦,冲欧自评不够格",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347668&amp;topic_name=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E7%BD%95%E8%A7%81%E8%87%AA%E8%B0%A6%2C%E5%86%B2%E6%AC%A7%E8%87%AA%E8%AF%84%E4%B8%8D%E5%A4%9F%E6%A0%BC",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时16分 ~ 12时20分]"
-        },
-        {
-          "title": "小米高管疑似集体遭遇短信轰炸",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E9%AB%98%E7%AE%A1%E7%96%91%E4%BC%BC%E9%9B%86%E4%BD%93%E9%81%AD%E9%81%87%E7%9F%AD%E4%BF%A1%E8%BD%B0%E7%82%B8%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            9,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 10时31分]"
-        },
-        {
-          "title": "自卫队用华为,美日兄弟情当场漏风",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347652&amp;topic_name=%E8%87%AA%E5%8D%AB%E9%98%9F%E7%94%A8%E5%8D%8E%E4%B8%BA%2C%E7%BE%8E%E6%97%A5%E5%85%84%E5%BC%9F%E6%83%85%E5%BD%93%E5%9C%BA%E6%BC%8F%E9%A3%8E",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时16分 ~ 12时20分]"
-        },
-        {
-          "title": "谁买谁后悔?华为新机线下体验拉闸",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347650&amp;topic_name=%E8%B0%81%E4%B9%B0%E8%B0%81%E5%90%8E%E6%82%94%3F%E5%8D%8E%E4%B8%BA%E6%96%B0%E6%9C%BA%E7%BA%BF%E4%B8%8B%E4%BD%93%E9%AA%8C%E6%8B%89%E9%97%B8",
-          "source": "贴吧",
-          "ranks": [
-            17,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时16分 ~ 12时20分]"
-        },
-        {
-          "title": "雷军突然开卖现车 小米彻底摊牌了",
-          "url": "https://www.toutiao.com/trending/7579141283130641926/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 08时53分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "房地产 房价 楼市 LPR",
       "match_count": 4,
       "titles": [
@@ -1606,9 +1654,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时20分 ~ 13时13分]"
         },
         {
           "title": "澳洲联储主席布洛克：目前未看到房地产贷款方面存在问题。",
@@ -1697,11 +1745,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            12
+            12,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时46分 ~ 12时20分]"
+          "appearance_count": 3,
+          "time_info": "[11时46分 ~ 13时13分]"
         },
         {
           "title": "12月3日午间收评：创业板指冲高回落跌0.5%，超硬材料、煤炭板块逆势走强",
@@ -1709,11 +1758,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            13
+            13,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时46分 ~ 12时20分]"
+          "appearance_count": 3,
+          "time_info": "[11时46分 ~ 13时13分]"
         },
         {
           "title": "创业板指涨超1%，沪指跌0.03%，深成指涨0.47%，培育钻石、CPO、电池、多元金融等方向领涨，沪深京三市上涨个股近3100只。",
@@ -1744,6 +1794,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "缺电、缺人、缺设备，大摩：明年市场将转向解决AI基建瓶颈，看好能源基础设施",
+          "url": "https://wallstreetcn.com/articles/3760522",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时46分 ~ 13时13分]"
+        },
+        {
           "title": "当萌新入坑和平地铁逃生",
           "url": "https://search.bilibili.com/all?keyword=%E5%BD%93%E8%90%8C%E6%96%B0%E5%85%A5%E5%9D%91%E5%92%8C%E5%B9%B3%E5%9C%B0%E9%93%81%E9%80%83%E7%94%9F",
           "source": "bilibili 热搜",
@@ -1755,18 +1817,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时16分 ~ 07时11分]"
-        },
-        {
-          "title": "缺电、缺人、缺设备，大摩：明年市场将转向解决AI基建瓶颈，看好能源基础设施",
-          "url": "https://wallstreetcn.com/articles/3760522",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时46分 ~ 12时20分]"
         },
         {
           "title": "Upwind将与英伟达锁定下一代AI基础设施。",
@@ -1786,6 +1836,18 @@
       "keyword_group": "苹果 iPhone",
       "match_count": 3,
       "titles": [
+        {
+          "title": "排骨但是苹果味",
+          "url": "https://s.weibo.com/weibo?q=%E6%8E%92%E9%AA%A8%E4%BD%86%E6%98%AF%E8%8B%B9%E6%9E%9C%E5%91%B3&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时20分 ~ 13时13分]"
+        },
         {
           "title": "美股七巨头收盘播报｜苹果收涨约1.1%，Meta、英伟达等涨幅不到1%",
           "url": "https://wallstreetcn.com/livenews/3013920",
@@ -1809,17 +1871,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时19分 ~ 03时13分]"
-        },
-        {
-          "title": "排骨但是苹果味",
-          "url": "https://s.weibo.com/weibo?q=%E6%8E%92%E9%AA%A8%E4%BD%86%E6%98%AF%E8%8B%B9%E6%9E%9C%E5%91%B3&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
         }
       ]
     },
@@ -1827,19 +1878,6 @@
       "keyword_group": "考研 考公 国考",
       "match_count": 3,
       "titles": [
-        {
-          "title": "国考姐贩毒40公斤,轻判8年遭质疑",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347624&amp;topic_name=%E5%9B%BD%E8%80%83%E5%A7%90%E8%B4%A9%E6%AF%9240%E5%85%AC%E6%96%A4%2C%E8%BD%BB%E5%88%A48%E5%B9%B4%E9%81%AD%E8%B4%A8%E7%96%91",
-          "source": "贴吧",
-          "ranks": [
-            22,
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时16分 ~ 12时20分]"
-        },
         {
           "title": "不少应届硕士生选择「白天实验室，晚上刷行测」，甚至瞒着导师参加国考，如何看待这种选择？",
           "url": "https://www.zhihu.com/question/1979139368070448428",
@@ -1849,8 +1887,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时53分 ~ 12时20分]"
+          "appearance_count": 6,
+          "time_info": "[08时53分 ~ 13时13分]"
+        },
+        {
+          "title": "国考姐贩毒40公斤,轻判8年遭质疑",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347624&amp;topic_name=%E5%9B%BD%E8%80%83%E5%A7%90%E8%B4%A9%E6%AF%9240%E5%85%AC%E6%96%A4%2C%E8%BD%BB%E5%88%A48%E5%B9%B4%E9%81%AD%E8%B4%A8%E7%96%91",
+          "source": "贴吧",
+          "ranks": [
+            22,
+            24,
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时16分 ~ 13时13分]"
         },
         {
           "title": "吸毒封存利好考公,北大教授遭群嘲",
@@ -1917,8 +1969,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时31分 ~ 12时20分]"
+          "appearance_count": 5,
+          "time_info": "[10时31分 ~ 13时13分]"
         }
       ]
     }
