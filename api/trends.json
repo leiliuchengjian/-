@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T11:46:36.797505+08:00",
-  "total_titles_processed": 1041,
+  "generated_at": "2025-12-03T12:20:42.492447+08:00",
+  "total_titles_processed": 1085,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 45,
+      "match_count": 47,
       "titles": [
         {
           "title": "离岸汇率一度突破 7.06 ，这次人民币汇率大涨有何不同？对我们有何影响？",
@@ -29,8 +29,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时53分 ~ 11时46分]"
+          "appearance_count": 4,
+          "time_info": "[08时53分 ~ 12时20分]"
+        },
+        {
+          "title": "印度卢比兑美元短暂跌至90.14，创历史新低。",
+          "url": "https://flash.jin10.com/detail/20251203115215694800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
         },
         {
           "title": "LME期铜收跌107美元，报11145美元/吨。 LME期铝收跌28美元，报2866美元/吨。 LME期锌收跌34美元，报3062美元/吨。",
@@ -66,17 +77,6 @@
           "time_info": "00时16分"
         },
         {
-          "title": "印度卢比兑美元跌破90关口，继续创记录新低。",
-          "url": "https://wallstreetcn.com/livenews/3014145",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时46分"
-        },
-        {
           "title": "美联储在固定利率逆回购操作中总计接纳了11个对手方的56.2亿美元。",
           "url": "https://flash.jin10.com/detail/20251203021741174800",
           "source": "金十数据",
@@ -97,17 +97,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
-        },
-        {
-          "title": "印度卢比兑美元汇率跌破90关口。",
-          "url": "https://flash.jin10.com/detail/20251203113249561800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时46分"
         },
         {
           "title": "澳大利亚3年期国债收益率短线回落，澳元/美元短线走低，此前澳大利亚三季度GDP不及预期。",
@@ -170,6 +159,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时16分 ~ 01时15分]"
+        },
+        {
+          "title": "印度卢比兑美元跌破90关口，继续创记录新低。",
+          "url": "https://wallstreetcn.com/livenews/3014145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 12时20分]"
+        },
+        {
+          "title": "印度卢比兑美元汇率跌破90关口。",
+          "url": "https://flash.jin10.com/detail/20251203113249561800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 12时20分]"
         },
         {
           "title": "上期所原油期货2501合约夜盘收跌0.75%，报449.90元人民币/桶。 沪金夜盘收跌0.85%，沪银收涨1.10%。",
@@ -256,6 +269,18 @@
           "time_info": "[10时31分 ~ 11时46分]"
         },
         {
+          "title": "新西兰联储上调贸易加权指数中的美元权重",
+          "url": "https://wallstreetcn.com/livenews/3014135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 12时20分]"
+        },
+        {
           "title": "戴尔创始人豪捐62.5亿美元 为美国儿童账户添上250美元启动金",
           "url": "https://www.cls.cn/detail/2217632",
           "source": "财联社热门",
@@ -304,6 +329,18 @@
           "time_info": "[03时13分 ~ 04时35分]"
         },
         {
+          "title": "比特币一度涨至93000美元上方，创近两周高位。",
+          "url": "https://wallstreetcn.com/livenews/3014125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 12时20分]"
+        },
+        {
           "title": "WTI 1月原油期货收跌0.68美元，跌幅超过1.14%，报58.64美元/桶。 布伦特2月原油期货收跌0.72美元，跌幅大约1.14%，报62.45美元/桶。 中东Abu Dhabi Murban原油期货跌1.21%，报64.36美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3013891",
           "source": "华尔街见闻-快讯",
@@ -314,6 +351,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时28分 ~ 06时11分]"
+        },
+        {
+          "title": "现货白银一度升0.8%至纪录高点每盎司58.94美元。",
+          "url": "https://wallstreetcn.com/livenews/3014152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
         },
         {
           "title": "现货黄金短线跌势延续，最低跌至4163美元/盎司，日内跌约1.5%。",
@@ -349,17 +397,6 @@
           "time_info": "00时16分"
         },
         {
-          "title": "新西兰联储上调贸易加权指数中的美元权重",
-          "url": "https://wallstreetcn.com/livenews/3014135",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时46分"
-        },
-        {
           "title": "韩国将2026年外汇稳定债券发行上限提高至50亿美元",
           "url": "https://wallstreetcn.com/livenews/3013995",
           "source": "华尔街见闻-快讯",
@@ -391,17 +428,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
-        },
-        {
-          "title": "比特币一度涨至93000美元上方，创近两周高位。",
-          "url": "https://wallstreetcn.com/livenews/3014125",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时46分"
         },
         {
           "title": "花旗与华尔街看空美元派分道扬镳：建议新兴市场投资者寻求对冲美元潜在反弹的交易策略",
@@ -528,7 +554,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 35,
+      "match_count": 38,
       "titles": [
         {
           "title": "“豆包AI助手”手机售罄！生态挑战仍待破局 手机厂商或倾向于自研",
@@ -575,11 +601,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 11时46分]"
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 12时20分]"
         },
         {
           "title": "谷歌揭秘了AI竞赛的底牌",
@@ -597,6 +624,18 @@
           "time_info": "[00时16分 ~ 07时11分]"
         },
         {
+          "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
+          "url": "https://wallstreetcn.com/articles/3760564",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时53分 ~ 12时20分]"
+        },
+        {
           "title": "12 月 1 日豆包手机助手技术预览版发布，AI 直接嵌入操作系统底层有何意义？会对行业产生什么影响？",
           "url": "https://www.zhihu.com/question/1978921952010794441",
           "source": "知乎",
@@ -612,17 +651,6 @@
           "time_info": "[00时16分 ~ 05时28分]"
         },
         {
-          "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
-          "url": "https://wallstreetcn.com/articles/3760564",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时53分 ~ 11时46分]"
-        },
-        {
           "title": "亚马逊推出定制AI芯片Trainium3 英伟达迎战新一轮攻势",
           "url": "https://flash.jin10.com/detail/20251203001212473800",
           "source": "金十数据",
@@ -632,6 +660,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "阿里千问App位列全球AI应用增速榜第一",
+          "url": "https://wallstreetcn.com/livenews/3014157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        },
+        {
+          "title": "惠誉：人工智能支出浪潮将支撑韩国存储芯片制造商的前景。",
+          "url": "https://flash.jin10.com/detail/20251203114922353800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
         },
         {
           "title": "市场消息：亚马逊紧急推出最新人工智能芯片，迎战英伟达和谷歌。",
@@ -705,6 +755,19 @@
           "time_info": "[05时28分 ~ 06时11分]"
         },
         {
+          "title": "端侧AI“上新潮”来了！哪些上市公司有望分羹产业链盛宴？",
+          "url": "https://www.cls.cn/detail/2217832",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 12时20分]"
+        },
+        {
           "title": "AI手机概念股遇冷 热门公司先后“澄清” 哪些公司“豆包味”更浓？",
           "url": "https://www.cls.cn/detail/2217548",
           "source": "财联社热门",
@@ -727,18 +790,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时16分 ~ 01时15分]"
-        },
-        {
-          "title": "端侧AI“上新潮”来了！哪些上市公司有望分羹产业链盛宴？",
-          "url": "https://www.cls.cn/detail/2217832",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 11时46分]"
         },
         {
           "title": "英伟达高管：AI芯片出货主要用于扩容，驱动数据中心收入暴增",
@@ -872,6 +923,18 @@
           "time_info": "[01时15分 ~ 02时19分]"
         },
         {
+          "title": "联合国报告：人工智能管理差异或加剧国家间不平等",
+          "url": "https://wallstreetcn.com/livenews/3014113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 12时20分]"
+        },
+        {
           "title": "澳大利亚11月AIG建筑业表现指数 -18.7，前值-7.1。",
           "url": "https://flash.jin10.com/detail/20251203061415509800",
           "source": "金十数据",
@@ -905,6 +968,17 @@
           "time_info": "07时11分"
         },
         {
+          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
+          "url": "https://www.cls.cn/detail/2218001",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        },
+        {
           "title": "法国公司Mistral AI正式发布Mistral 3模型",
           "url": "https://flash.jin10.com/detail/20251202234346507800",
           "source": "金十数据",
@@ -927,24 +1001,13 @@
           "time_info": "06时11分"
         },
         {
-          "title": "联合国报告：人工智能管理差异或加剧国家间不平等",
-          "url": "https://wallstreetcn.com/livenews/3014113",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时46分"
-        },
-        {
           "title": "A股三大指数集体翻绿，创业板指盘初一度涨超1%，AI应用、商业航天、零售、锂矿等方向跌幅居前，沪深京三市下跌个股超4000只。",
           "url": "https://wallstreetcn.com/livenews/3014096",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
         }
@@ -952,7 +1015,7 @@
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "日本央行加息预期飙升，加密货币大跌，标普连涨终结，中概股逆市上涨，铜银钴走强",
@@ -978,17 +1041,6 @@
           "time_info": "[00时16分 ~ 07时11分]"
         },
         {
-          "title": "菲律宾央行行长：我们都同意2025年经济增长将会缓慢，可能在4-5%之间；经济复苏应于2026年启动，并于2027年重回正轨。",
-          "url": "https://flash.jin10.com/detail/20251203113841263800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时46分"
-        },
-        {
           "title": "韩国总统李在明：下半年经济快速增长预计将给物价带来上行压力。",
           "url": "https://wallstreetcn.com/livenews/3014005",
           "source": "华尔街见闻-快讯",
@@ -1011,17 +1063,6 @@
           "time_info": "08时53分"
         },
         {
-          "title": "菲律宾央行行长：经济复苏应于2026年启动，2027年重回正轨。",
-          "url": "https://flash.jin10.com/detail/20251203113807613800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时46分"
-        },
-        {
           "title": "周二（12月2日），降息赢家指数跌0.78%，报99.29点。",
           "url": "https://wallstreetcn.com/livenews/3013915",
           "source": "华尔街见闻-快讯",
@@ -1033,6 +1074,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时28分 ~ 07时11分]"
+        },
+        {
+          "title": "菲律宾央行行长：我们都同意2025年经济增长将会缓慢，可能在4-5%之间；经济复苏应于2026年启动，并于2027年重回正轨。",
+          "url": "https://flash.jin10.com/detail/20251203113841263800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 12时20分]"
         },
         {
           "title": "普渡大学数据显示，美国11月农业信心指数139，创6月以来新高，前值129。 现况指数下滑2个点，未来预期指数上扬15个点。 根据普渡大学商业农业中心主任 Michael Langemeier 的说法：“农作物价格的上涨以及对农产品出口更为乐观的展望，共同改善了未来的前景。”",
@@ -1047,6 +1100,18 @@
           "time_info": "[00时16分 ~ 01时15分]"
         },
         {
+          "title": "菲律宾央行行长：经济复苏应于2026年启动，2027年重回正轨。",
+          "url": "https://flash.jin10.com/detail/20251203113807613800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 12时20分]"
+        },
+        {
           "title": "美国总统特朗普：美联储主席应该降息。",
           "url": "https://flash.jin10.com/detail/20251203005837291800",
           "source": "金十数据",
@@ -1059,6 +1124,41 @@
           "time_info": "[01时15分 ~ 02时19分]"
         },
         {
+          "title": "泰国商务部：预计泰国12月整体CPI将下降。",
+          "url": "https://flash.jin10.com/detail/20251203112154426800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 12时20分]"
+        },
+        {
+          "title": "央行行长潘功胜会见国际货币基金组织第一副总裁丹·卡茨",
+          "url": "https://wallstreetcn.com/livenews/3014124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 12时20分]"
+        },
+        {
+          "title": "菲律宾央行行长：经济增长前景放缓，12月降息概率进一步上升。",
+          "url": "https://flash.jin10.com/detail/20251203114004378800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        },
+        {
           "title": "美联储12月降息25个基点的概率为89.2%",
           "url": "https://flash.jin10.com/detail/20251203060510439800",
           "source": "金十数据",
@@ -1068,28 +1168,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
-        },
-        {
-          "title": "泰国商务部：预计泰国12月整体CPI将下降。",
-          "url": "https://flash.jin10.com/detail/20251203112154426800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时46分"
-        },
-        {
-          "title": "央行行长潘功胜会见国际货币基金组织第一副总裁丹·卡茨",
-          "url": "https://wallstreetcn.com/livenews/3014124",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时46分"
         },
         {
           "title": "中国央行11月加大国债买入力度 专家料有助稳宏观经济运行",
@@ -1120,7 +1198,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
         },
@@ -1162,8 +1240,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 11时46分]"
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 12时20分]"
         },
         {
           "title": "恒生科技指数日内跌超1%。蔚来、小鹏汽车跌超4%。",
@@ -1181,11 +1259,24 @@
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%91%E6%AD%A5%E8%A7%86%E9%A2%91",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            6,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 12时20分]"
+        },
+        {
+          "title": "枪口瞄准特斯拉！大空头称其估值荒谬、薪酬计划损害股东",
+          "url": "https://wallstreetcn.com/articles/3760515",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 12时20分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌0.6%。 热门中概股里，小鹏初步收跌7.5%，阿特斯太阳能跌5.9%，万国数据、蔚来、B站、世纪互联、阿里巴巴等至少跌约2%，华住则涨1%，文远知行涨2.7%，亚朵涨5.4%。 ETF中，CQQQ跌1.2%，KWEB跌0.9%。",
@@ -1197,17 +1288,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
-        },
-        {
-          "title": "枪口瞄准特斯拉！大空头称其估值荒谬、薪酬计划损害股东",
-          "url": "https://wallstreetcn.com/articles/3760515",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时46分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.65%，报7808.98点。 热门中概股里，小鹏初步收跌7.5%，阿特斯太阳能跌5.9%，万国数据、蔚来、B站、世纪互联、阿里巴巴等至少跌约2%，华住则涨1%，文远知行涨2.7%，亚朵涨5.4%。 ETF中，中国科技指数ETF（CQQQ）收跌1.25%，中概互联网指数ETF（KWEB）收跌1.03%。 XtrackersHarvest中证50（ASHS）收跌1.11%，德银嘉实沪深300指数ETF（ASHR）收跌0.73%。",
@@ -1273,6 +1353,18 @@
           "time_info": "[06时11分 ~ 07时11分]"
         },
         {
+          "title": "英诺赛科与安森美半导体达成共同加速推进氮化镓产业生态建设的战略合作协议",
+          "url": "https://wallstreetcn.com/livenews/3014116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 12时20分]"
+        },
+        {
           "title": "受芯片股带动，日经指数上涨0.8%",
           "url": "https://wallstreetcn.com/livenews/3013992",
           "source": "华尔街见闻-快讯",
@@ -1304,17 +1396,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
-        },
-        {
-          "title": "英诺赛科与安森美半导体达成共同加速推进氮化镓产业生态建设的战略合作协议",
-          "url": "https://wallstreetcn.com/livenews/3014116",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时46分"
         },
         {
           "title": "半导体ETF涨超1%，在美股盘初领跑一众行业ETF，科技行业ETF涨超0.9%，全球科技股指数ETF涨超0.6%，网络股指数ETF涨约0.5%，能源业ETF跌超0.5%。",
@@ -1439,11 +1520,12 @@
           "source": "贴吧",
           "ranks": [
             7,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 11时46分]"
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 12时20分]"
         },
         {
           "title": "小米高管疑似集体遭遇短信轰炸",
@@ -1464,11 +1546,12 @@
           "source": "贴吧",
           "ranks": [
             13,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 11时46分]"
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 12时20分]"
         },
         {
           "title": "谁买谁后悔?华为新机线下体验拉闸",
@@ -1476,11 +1559,12 @@
           "source": "贴吧",
           "ranks": [
             17,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 11时46分]"
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 12时20分]"
         },
         {
           "title": "雷军突然开卖现车 小米彻底摊牌了",
@@ -1492,6 +1576,61 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时16分 ~ 08时53分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房地产 房价 楼市 LPR",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "2026年房价能否止跌回升",
+          "url": "https://www.toutiao.com/trending/7579218445288345098/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            25,
+            18,
+            24,
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 07时11分]"
+        },
+        {
+          "title": "不许说跌!魔都明令禁止唱衰房价",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347683&amp;topic_name=%E4%B8%8D%E8%AE%B8%E8%AF%B4%E8%B7%8C%21%E9%AD%94%E9%83%BD%E6%98%8E%E4%BB%A4%E7%A6%81%E6%AD%A2%E5%94%B1%E8%A1%B0%E6%88%BF%E4%BB%B7",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        },
+        {
+          "title": "澳洲联储主席布洛克：目前未看到房地产贷款方面存在问题。",
+          "url": "https://flash.jin10.com/detail/20251203061948395800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
+          "title": "房地产五年大洗牌 这3个趋势要认清",
+          "url": "https://www.toutiao.com/trending/7579148580322020900/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 04时35分]"
         }
       ]
     },
@@ -1557,22 +1696,24 @@
           "url": "https://wallstreetcn.com/livenews/3014143",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 12时20分]"
         },
         {
           "title": "12月3日午间收评：创业板指冲高回落跌0.5%，超硬材料、煤炭板块逆势走强",
           "url": "https://wallstreetcn.com/livenews/3014142",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 12时20分]"
         },
         {
           "title": "创业板指涨超1%，沪指跌0.03%，深成指涨0.47%，培育钻石、CPO、电池、多元金融等方向领涨，沪深京三市上涨个股近3100只。",
@@ -1599,50 +1740,6 @@
       ]
     },
     {
-      "keyword_group": "房地产 房价 楼市 LPR",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "2026年房价能否止跌回升",
-          "url": "https://www.toutiao.com/trending/7579218445288345098/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            25,
-            18,
-            24,
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 07时11分]"
-        },
-        {
-          "title": "澳洲联储主席布洛克：目前未看到房地产贷款方面存在问题。",
-          "url": "https://flash.jin10.com/detail/20251203061948395800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "房地产五年大洗牌 这3个趋势要认清",
-          "url": "https://www.toutiao.com/trending/7579148580322020900/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时34分 ~ 04时35分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "基础设施 基建 地铁 高铁",
       "match_count": 3,
       "titles": [
@@ -1660,6 +1757,18 @@
           "time_info": "[00时16分 ~ 07时11分]"
         },
         {
+          "title": "缺电、缺人、缺设备，大摩：明年市场将转向解决AI基建瓶颈，看好能源基础设施",
+          "url": "https://wallstreetcn.com/articles/3760522",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 12时20分]"
+        },
+        {
           "title": "Upwind将与英伟达锁定下一代AI基础设施。",
           "url": "https://wallstreetcn.com/livenews/3013804",
           "source": "华尔街见闻-快讯",
@@ -1670,63 +1779,12 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时16分 ~ 01时15分]"
-        },
-        {
-          "title": "缺电、缺人、缺设备，大摩：明年市场将转向解决AI基建瓶颈，看好能源基础设施",
-          "url": "https://wallstreetcn.com/articles/3760522",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "考研 考公 国考",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "国考姐贩毒40公斤,轻判8年遭质疑",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347624&amp;topic_name=%E5%9B%BD%E8%80%83%E5%A7%90%E8%B4%A9%E6%AF%9240%E5%85%AC%E6%96%A4%2C%E8%BD%BB%E5%88%A48%E5%B9%B4%E9%81%AD%E8%B4%A8%E7%96%91",
-          "source": "贴吧",
-          "ranks": [
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 11时46分]"
-        },
-        {
-          "title": "不少应届硕士生选择「白天实验室，晚上刷行测」，甚至瞒着导师参加国考，如何看待这种选择？",
-          "url": "https://www.zhihu.com/question/1979139368070448428",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时53分 ~ 11时46分]"
-        },
-        {
-          "title": "吸毒封存利好考公,北大教授遭群嘲",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347676&amp;topic_name=%E5%90%B8%E6%AF%92%E5%B0%81%E5%AD%98%E5%88%A9%E5%A5%BD%E8%80%83%E5%85%AC%2C%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%E9%81%AD%E7%BE%A4%E5%98%B2",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
         }
       ]
     },
     {
       "keyword_group": "苹果 iPhone",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股七巨头收盘播报｜苹果收涨约1.1%，Meta、英伟达等涨幅不到1%",
@@ -1751,6 +1809,59 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时19分 ~ 03时13分]"
+        },
+        {
+          "title": "排骨但是苹果味",
+          "url": "https://s.weibo.com/weibo?q=%E6%8E%92%E9%AA%A8%E4%BD%86%E6%98%AF%E8%8B%B9%E6%9E%9C%E5%91%B3&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "考研 考公 国考",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "国考姐贩毒40公斤,轻判8年遭质疑",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347624&amp;topic_name=%E5%9B%BD%E8%80%83%E5%A7%90%E8%B4%A9%E6%AF%9240%E5%85%AC%E6%96%A4%2C%E8%BD%BB%E5%88%A48%E5%B9%B4%E9%81%AD%E8%B4%A8%E7%96%91",
+          "source": "贴吧",
+          "ranks": [
+            22,
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 12时20分]"
+        },
+        {
+          "title": "不少应届硕士生选择「白天实验室，晚上刷行测」，甚至瞒着导师参加国考，如何看待这种选择？",
+          "url": "https://www.zhihu.com/question/1979139368070448428",
+          "source": "知乎",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时53分 ~ 12时20分]"
+        },
+        {
+          "title": "吸毒封存利好考公,北大教授遭群嘲",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347676&amp;topic_name=%E5%90%B8%E6%AF%92%E5%B0%81%E5%AD%98%E5%88%A9%E5%A5%BD%E8%80%83%E5%85%AC%2C%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%E9%81%AD%E7%BE%A4%E5%98%B2",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时31分"
         }
       ]
     },
@@ -1765,7 +1876,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
         }
@@ -1802,11 +1913,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 11时46分]"
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 12时20分]"
         }
       ]
     }
