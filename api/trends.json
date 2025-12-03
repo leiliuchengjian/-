@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T04:14:51.812178+08:00",
-  "total_titles_processed": 497,
+  "generated_at": "2025-12-04T05:12:12.406544+08:00",
+  "total_titles_processed": 532,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 04时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 05时12分]"
         },
         {
           "title": "小非农超预期降温，美股集体低开，美元短线跳水，伦铜涨破纪录，白银高位震荡，比特币短线V形反弹",
@@ -26,11 +26,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 04时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 05时12分]"
         },
         {
           "title": "人民币升值 创近一年新高",
@@ -54,9 +55,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "卫星初创公司K2 Space的估值料将膨胀两倍，至30亿美元。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3014622",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         },
         {
           "title": "美国天然气期货价格自2022年以来首次触及5美元高位。",
@@ -68,6 +80,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "上期所原油期货2501合约夜盘收涨0.36%，报450.90元人民币/桶。 沪金夜盘收跌0.12%，沪银收跌0.13%。",
+          "url": "https://wallstreetcn.com/livenews/3014597",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时12分 ~ 05时12分]"
         },
         {
           "title": "TikTok开启首个拉美项目，将在巴西投资逾370亿美元建数据中心",
@@ -83,28 +108,17 @@
           "time_info": "[02时18分 ~ 04时14分]"
         },
         {
-          "title": "上期所原油期货2501合约夜盘收涨0.36%，报450.90元人民币/桶。 沪金夜盘收跌0.12%，沪银收跌0.13%。",
-          "url": "https://wallstreetcn.com/livenews/3014597",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时12分 ~ 04时14分]"
-        },
-        {
           "title": "周三（12月3日），美联储隔夜逆回购协议（RRP）使用规模为25.14亿美元（交易对手多达40家），上个交易日报56.20亿美元。",
           "url": "https://wallstreetcn.com/livenews/3014595",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            15
+            15,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时12分 ~ 04时14分]"
+          "appearance_count": 3,
+          "time_info": "[03时12分 ~ 05时12分]"
         },
         {
           "title": "周三（12月3日，“紧急戒严”一周年），韩元兑美元最终跌0.22%，报1466.14韩元，日内交投于1471.24-1463.29韩元。",
@@ -132,6 +146,18 @@
           "time_info": "[03时12分 ~ 04时14分]"
         },
         {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0640元，较周二夜盘收盘涨85点。成交量475.67亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3014602",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时14分 ~ 05时12分]"
+        },
+        {
           "title": "英镑兑美元涨1%，创5月份以来最大盘中涨幅，报1.3347。",
           "url": "https://wallstreetcn.com/livenews/3014560",
           "source": "华尔街见闻-快讯",
@@ -156,15 +182,15 @@
           "time_info": "[01时16分 ~ 02时18分]"
         },
         {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0640元，较周二夜盘收盘涨85点。成交量475.67亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3014602",
+          "title": "美元指数跌0.5%，失守50日均线",
+          "url": "https://wallstreetcn.com/livenews/3014616",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时14分"
+          "time_info": "05时12分"
         },
         {
           "title": "NYMEX天然气期货涨至5美元，为2022年以来首次，日内当前涨超3%。",
@@ -187,136 +213,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "美联储降息预期推动人民币升值 专家警示不宜押注单边行情",
-          "url": "https://www.cls.cn/detail/2218729",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 04时14分]"
         },
         {
-          "title": "秘鲁央行表示在即期市场买入5100万美元。",
-          "url": "https://flash.jin10.com/detail/20251204024010464800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时12分 ~ 04时14分]"
-        },
-        {
-          "title": "美股“降息指数”涨超1.4%，刷新日高。 罗素2000指数涨1.4%。 纳斯达克生物科技指数涨1.8%。",
-          "url": "https://wallstreetcn.com/livenews/3014588",
+          "title": "美国原油期货收涨超0.5%，纽约天然气收涨3.2%、5美元关口得而复失",
+          "url": "https://wallstreetcn.com/livenews/3014610",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            10,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时18分 ~ 04时14分]"
-        },
-        {
-          "title": "俄罗斯12月1日当周CPI周环比上升0.04%，2025年迄今累计上升5.27%。 10月零售销售同比增长4.8%，预期上升2.1%。 10月失业率2.2%，预期2.3%。 9月薪资同比增长4.7%，预期上升3.4%。",
-          "url": "https://wallstreetcn.com/livenews/3014554",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时16分]"
-        },
-        {
-          "title": "报道：债券市场担心哈塞特通过激进降息来取悦特朗普，已就此警告财长贝森特",
-          "url": "https://wallstreetcn.com/livenews/3014596",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时12分 ~ 04时14分]"
-        },
-        {
-          "title": "西班牙经济部长：一旦欧洲央行副行长金多斯离任，西班牙将努力保持在欧洲央行执委会中的席位。",
-          "url": "https://flash.jin10.com/detail/20251204012156437800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 03时12分]"
-        },
-        {
-          "title": "欧洲央行行长拉加德：私人融资还不至于立即对欧盟构成系统性风险。",
-          "url": "https://wallstreetcn.com/livenews/3014549",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时16分]"
-        },
-        {
-          "title": "道指上涨425点，涨幅扩大至0.9%，美国ADP私人部门就业数据（小非农）欠佳，激发投资者对美联储的降息预期。 标普500指数 目前涨0.39%，纳指涨0.25%。",
-          "url": "https://wallstreetcn.com/livenews/3014600",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时14分"
-        },
-        {
-          "title": "拉加德：欧洲央行不会因俄罗斯被冻结资产问题违反欧盟条约",
-          "url": "https://flash.jin10.com/detail/20251203232812918800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        },
-        {
-          "title": "欧洲央行行长拉加德预计未来几个月通胀将维持在2%附近",
-          "url": "https://wallstreetcn.com/livenews/3014529",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "time_info": "05时12分"
         }
       ]
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
@@ -327,8 +240,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 04时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 05时12分]"
         },
         {
           "title": "AMD(AMD.O)CEO：内存短缺可能只是对人工智能市场的一个小干扰。",
@@ -352,6 +265,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时17分 ~ 01时16分]"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：特朗普总统的促增长能源政策“拯救了人工智能产业”。",
+          "url": "https://flash.jin10.com/detail/20251204032609838800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时14分 ~ 05时12分]"
         },
         {
           "title": "嘉信理财CEO：客户在询问我们如何在市场上涨后保护他们的财富。我们的投资者在人工智能领域赚了不少钱。",
@@ -402,15 +327,153 @@
           "time_info": "[02时18分 ~ 03时12分]"
         },
         {
-          "title": "英伟达CEO黄仁勋：特朗普总统的促增长能源政策“拯救了人工智能产业”。",
-          "url": "https://flash.jin10.com/detail/20251204032609838800",
-          "source": "金十数据",
+          "title": "OpenAI将收购AI模型训练工具初创公司Neptune",
+          "url": "https://wallstreetcn.com/livenews/3014617",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时14分"
+          "time_info": "05时12分"
+        },
+        {
+          "title": "OpenAI将收购AI模型训练工具初创公司Neptune",
+          "url": "https://flash.jin10.com/detail/20251204042941294800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "央行 降息 降准 CPI 物价",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "美联储降息预期推动人民币升值 专家警示不宜押注单边行情",
+          "url": "https://www.cls.cn/detail/2218729",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 05时12分]"
+        },
+        {
+          "title": "秘鲁央行表示在即期市场买入5100万美元。",
+          "url": "https://flash.jin10.com/detail/20251204024010464800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时12分 ~ 05时12分]"
+        },
+        {
+          "title": "报道：债券市场担心哈塞特通过激进降息来取悦特朗普，已就此警告财长贝森特",
+          "url": "https://wallstreetcn.com/livenews/3014596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时12分 ~ 05时12分]"
+        },
+        {
+          "title": "美股“降息指数”涨超1.4%，刷新日高。 罗素2000指数涨1.4%。 纳斯达克生物科技指数涨1.8%。",
+          "url": "https://wallstreetcn.com/livenews/3014588",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时18分 ~ 04时14分]"
+        },
+        {
+          "title": "俄罗斯12月1日当周CPI周环比上升0.04%，2025年迄今累计上升5.27%。 10月零售销售同比增长4.8%，预期上升2.1%。 10月失业率2.2%，预期2.3%。 9月薪资同比增长4.7%，预期上升3.4%。",
+          "url": "https://wallstreetcn.com/livenews/3014554",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 01时16分]"
+        },
+        {
+          "title": "西班牙经济部长：一旦欧洲央行副行长金多斯离任，西班牙将努力保持在欧洲央行执委会中的席位。",
+          "url": "https://flash.jin10.com/detail/20251204012156437800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 03时12分]"
+        },
+        {
+          "title": "欧洲央行行长拉加德：私人融资还不至于立即对欧盟构成系统性风险。",
+          "url": "https://wallstreetcn.com/livenews/3014549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 01时16分]"
+        },
+        {
+          "title": "道指上涨425点，涨幅扩大至0.9%，美国ADP私人部门就业数据（小非农）欠佳，激发投资者对美联储的降息预期。 标普500指数 目前涨0.39%，纳指涨0.25%。",
+          "url": "https://wallstreetcn.com/livenews/3014600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时14分 ~ 05时12分]"
+        },
+        {
+          "title": "拉加德：欧洲央行不会因俄罗斯被冻结资产问题违反欧盟条约",
+          "url": "https://flash.jin10.com/detail/20251203232812918800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时17分"
+        },
+        {
+          "title": "欧洲央行行长拉加德预计未来几个月通胀将维持在2%附近",
+          "url": "https://wallstreetcn.com/livenews/3014529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时17分"
         }
       ]
     },
@@ -446,33 +509,36 @@
           "url": "https://wallstreetcn.com/livenews/3014606",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时14分 ~ 05时12分]"
         },
         {
           "title": "英伟达CEO黄仁勋：刚刚与美国总统特朗普会面，讨论了出口管制问题，支持出口管制。",
           "url": "https://flash.jin10.com/detail/20251204030517175800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时14分 ~ 05时12分]"
         },
         {
           "title": "英伟达CEO黄仁勋：刚刚会见了美国总统特朗普。",
           "url": "https://wallstreetcn.com/livenews/3014604",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时14分 ~ 05时12分]"
         },
         {
           "title": "英伟达涨0.5%，此前一度下跌1.3%。",
@@ -480,6 +546,56 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体 芯片 集成电路",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "标普500指数初步收涨0.3%，能源板块涨1.8%，金融板块涨1.2%，可选消费板块涨0.8%，电信板块涨0.2%，科技板块跌0.4%。 纳斯达克100指数初步收涨0.2%，成分股中，微芯科技初步收涨12.7%，安森美半导体涨10.8%，迈威尔科技涨7.6%，Strategy涨4%，Meta则跌1.1%，美光、微软跌2.3%，再生元制药跌2.5%，PayPal跌2.7%，TTD跌3.2%，奈飞跌4.9%。 联合健康初步收涨4.9%，高盛涨2.6%，麦当劳、美国运通、安进至少涨2%，领跑道指成分股，英伟达则跌1%，波音跌1.5%，和微软表现最差。",
+          "url": "https://wallstreetcn.com/livenews/3014626",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "美国总统特朗普：美国很快将控制芯片市场的大部分份额。",
+          "url": "https://flash.jin10.com/detail/20251204043927981800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "美国商务部长卢特尼克：半导体初创企业xLight在努力促进芯片制造。",
+          "url": "https://flash.jin10.com/detail/20251203231827729800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时17分"
+        },
+        {
+          "title": "美国商务部长卢特尼克：我们的目标是将芯片制造带回美国。",
+          "url": "https://flash.jin10.com/detail/20251203231349576800",
+          "source": "金十数据",
+          "ranks": [
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -500,8 +616,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 04时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 05时12分]"
         },
         {
           "title": "美国11月ADP就业减少3.2万 美股三大期指集体上涨 | 今夜看点",
@@ -512,8 +628,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时15分 ~ 04时14分]"
+          "appearance_count": 7,
+          "time_info": "[01时15分 ~ 05时12分]"
         },
         {
           "title": "美国商务部长卢特尼克：政府停摆和大规模驱逐行动是11月ADP就业人数减少的原因",
@@ -552,8 +668,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 04时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 05时12分]"
         },
         {
           "title": "澎湃回声｜多家电商平台处置下架“儿童形象情趣玩偶”",
@@ -563,8 +679,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 04时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 05时12分]"
         },
         {
           "title": "澎湃报道电商平台售卖“儿童款”情趣玩偶，中国妇女报：红线不可逾越！平台不可装睡！",
@@ -574,8 +690,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 04时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 05时12分]"
         }
       ]
     },
@@ -591,8 +707,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 04时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 05时12分]"
         },
         {
           "title": "小米辣涨到28元1斤 市民：顶两斤肉",
@@ -601,11 +717,12 @@
           "ranks": [
             27,
             20,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时18分 ~ 04时14分]"
+          "appearance_count": 5,
+          "time_info": "[02时18分 ~ 05时12分]"
         }
       ]
     },
@@ -618,46 +735,77 @@
           "url": "https://flash.jin10.com/detail/20251204033530628800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时14分 ~ 05时12分]"
         },
         {
           "title": "重大“挖角”：苹果设计高管艾伦·戴伊被扎克伯格招至麾下Meta",
           "url": "https://wallstreetcn.com/livenews/3014609",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时14分 ~ 05时12分]"
         }
       ]
     },
     {
-      "keyword_group": "半导体 芯片 集成电路",
+      "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
       "match_count": 2,
       "titles": [
         {
-          "title": "美国商务部长卢特尼克：半导体初创企业xLight在努力促进芯片制造。",
-          "url": "https://flash.jin10.com/detail/20251203231827729800",
-          "source": "金十数据",
+          "title": "纳斯达克金龙中国指数初步收跌1.3%。 热门中概股里，阿特斯太阳能初步收跌8.9%，晶科能源跌5.8%，蔚来跌5.1%，小鹏跌3.8%，理想跌3.5%，新东方跌3.3%，网易有道涨2.4%，文远知行涨5.2%。 ETF中，CQQQ和KWEB跌1.2%。",
+          "url": "https://wallstreetcn.com/livenews/3014624",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时17分"
+          "time_info": "05时12分"
         },
         {
-          "title": "美国商务部长卢特尼克：我们的目标是将芯片制造带回美国。",
-          "url": "https://flash.jin10.com/detail/20251203231349576800",
-          "source": "金十数据",
+          "title": "理想AI眼镜Livis首发开箱",
+          "url": "https://www.douyin.com/hot/2325492",
+          "source": "抖音",
           "ranks": [
-            25
+            26,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时12分 ~ 05时12分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "创业板",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "A股震荡调整，创业板跌超1%，商业航天表现分化，超硬材料逆势大涨，港股恒科指跌超1%，30年期国债显著承压",
+          "url": "https://wallstreetcn.com/articles/3760597",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时11分 ~ 05时12分]"
+        },
+        {
+          "title": "【每日收评】创业板指震荡走低跌超1%，煤炭板块逆势活跃，高位人气股批量跌停",
+          "url": "https://www.cls.cn/detail/2218421",
+          "source": "财联社热门",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -677,8 +825,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 04时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 05时12分]"
         }
       ]
     },
@@ -702,40 +850,6 @@
       ]
     },
     {
-      "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "理想AI眼镜Livis首发开箱",
-          "url": "https://www.douyin.com/hot/2325492",
-          "source": "抖音",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时12分 ~ 04时14分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "创业板",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【每日收评】创业板指震荡走低跌超1%，煤炭板块逆势活跃，高位人气股批量跌停",
-          "url": "https://www.cls.cn/detail/2218421",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        }
-      ]
-    },
-    {
       "keyword_group": "大学生 毕业生",
       "match_count": 1,
       "titles": [
@@ -750,8 +864,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 04时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 05时12分]"
         }
       ]
     }
