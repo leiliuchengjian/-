@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T22:13:35.553633+08:00",
-  "total_titles_processed": 1988,
+  "generated_at": "2025-12-03T23:14:31.336436+08:00",
+  "total_titles_processed": 2079,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 79,
+      "match_count": 85,
       "titles": [
         {
           "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[08时53分 ~ 22时13分]"
+          "appearance_count": 21,
+          "time_info": "[08时53分 ~ 23时14分]"
         },
         {
           "title": "离岸汇率一度突破 7.06 ，这次人民币汇率大涨有何不同？对我们有何影响？",
@@ -77,6 +77,17 @@
           "time_info": "20时23分"
         },
         {
+          "title": "小非农超预期降温，美股期货上扬，美元短线跳水，伦铜涨破纪录，白银高位震荡，离岸人民币创14个月来高点",
+          "url": "https://wallstreetcn.com/articles/3760624",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "特朗普积极暗示美联储主席人选 美元汇率闻讯下跌",
           "url": "https://flash.jin10.com/detail/20251203160052958800",
           "source": "金十数据",
@@ -97,17 +108,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
-        },
-        {
-          "title": "现货黄金十分钟内涨逾10美元，现报4234.07美元/盎司，日内涨0.7%。",
-          "url": "https://wallstreetcn.com/livenews/3014497",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时13分"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了11个对手方的56.2亿美元。",
@@ -138,9 +138,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
+        },
+        {
+          "title": "美国财长贝森特：特朗普政府的监管改革将释放银行额外2.5万亿美元的贷款能力。",
+          "url": "https://flash.jin10.com/detail/20251203224703158800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "澳大利亚3年期国债收益率短线回落，澳元/美元短线走低，此前澳大利亚三季度GDP不及预期。",
@@ -279,6 +290,18 @@
           "time_info": "[14时19分 ~ 15时15分]"
         },
         {
+          "title": "现货黄金十分钟内涨逾10美元，现报4234.07美元/盎司，日内涨0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3014497",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时13分 ~ 23时14分]"
+        },
+        {
           "title": "格林达：参与认购沐曦股份76.44万股，认购金额约8000万元人民币",
           "url": "https://wallstreetcn.com/livenews/3014433",
           "source": "华尔街见闻-快讯",
@@ -302,6 +325,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时46分 ~ 13时13分]"
+        },
+        {
+          "title": "人民币升值 创近一年新高",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E5%B8%81%E5%8D%87%E5%80%BC+%E5%88%9B%E8%BF%91%E4%B8%80%E5%B9%B4%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            30,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时31分 ~ 23时14分]"
         },
         {
           "title": "上期所原油期货2501合约夜盘收跌0.75%，报449.90元人民币/桶。 沪金夜盘收跌0.85%，沪银收涨1.10%。",
@@ -496,25 +532,13 @@
           "time_info": "[05时28分 ~ 06时11分]"
         },
         {
-          "title": "人民币升值 创近一年新高",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E5%B8%81%E5%8D%87%E5%80%BC+%E5%88%9B%E8%BF%91%E4%B8%80%E5%B9%B4%E6%96%B0%E9%AB%98",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时31分 ~ 22时13分]"
-        },
-        {
           "title": "小非农超预期降温，美股期货上扬，美元短线跳水，伦铜涨破纪录，白银新高回落，离岸人民币创14个月来高点",
           "url": "https://wallstreetcn.com/articles/3760624",
           "source": "华尔街见闻",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         },
@@ -552,6 +576,17 @@
           "time_info": "18时15分"
         },
         {
+          "title": "比特币短线呈现出V形走势，重返93270美元一线，北京时间22:00前后几乎完全回吐日内稍早涨幅，逼近91500美元。",
+          "url": "https://wallstreetcn.com/livenews/3014520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "纽约期金失守4200美元/盎司，日内跌幅1.76%。",
           "url": "https://flash.jin10.com/detail/20251202235856284800",
           "source": "金十数据",
@@ -569,9 +604,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
+        },
+        {
+          "title": "世界银行发布国际债务报告，新兴国家债务缺口创50年来最大，新兴国家2024年外债达创纪录的8.9万亿美元。",
+          "url": "https://flash.jin10.com/detail/20251203224405477800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "新台币兑美元上涨0.3%至31.340。",
@@ -668,7 +714,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         },
@@ -737,6 +783,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "高盛策略师认为美元将进一步走弱",
+          "url": "https://wallstreetcn.com/livenews/3014509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "周二（12月2日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘涨5.42%，报91860美元，北京时间22:00之前大致持平，之后显著走高，03:41刷新日高至92705美元。 CME以太币期货DCR主力合约涨7.37%，报3000美元。 美股加密货币与加密货币关联指数跌2.70%，报66.63点。 最近24小时，MarketVector数字资产100小盘指数涨6.31%，暂报18906.56点。",
@@ -844,9 +901,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
+        },
+        {
+          "title": "彭博数据显示，比特币短线从93000美元上方跳水，逼近91500美元上方的平盘。",
+          "url": "https://wallstreetcn.com/livenews/3014504",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "美国汽油价格四年多以来首次跌破每加仑3美元",
@@ -910,9 +978,614 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "央行 降息 降准 CPI 物价",
+      "match_count": 53,
+      "titles": [
+        {
+          "title": "日本央行加息预期飙升，加密货币大跌，标普连涨终结，中概股逆市上涨，铜银钴走强",
+          "url": "https://wallstreetcn.com/articles/3760444",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 07时11分]"
+        },
+        {
+          "title": "央行“轮流砸盘”，美联储砸完日央行砸！日本12月会加息吗？",
+          "url": "https://wallstreetcn.com/articles/3760495",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 07时11分]"
+        },
+        {
+          "title": "经合组织：全球主要央行的降息将于明年结束，宽松空间已非常有限",
+          "url": "https://wallstreetcn.com/articles/3760545",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时17分 ~ 20时23分]"
+        },
+        {
+          "title": "日本金属工会寻求超纪录涨幅 将直接影响央行下一步行动",
+          "url": "https://flash.jin10.com/detail/20251203160211786800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "欧洲央行要求意大利政府重新审视黄金储备提案",
+          "url": "https://flash.jin10.com/detail/20251203200318876800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
+          "title": "美国9月进口物价指数月率将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20251203212000000800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时31分"
+        },
+        {
+          "title": "韩国总统李在明：下半年经济快速增长预计将给物价带来上行压力。",
+          "url": "https://wallstreetcn.com/livenews/3014005",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "韩国总统李在明：下半年经济快速增长预计将给物价带来上行压力。",
+          "url": "https://flash.jin10.com/detail/20251203083620933800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "菲律宾央行行长：我们都同意2025年经济增长将会缓慢，可能在4-5%之间；经济复苏应于2026年启动，并于2027年重回正轨。",
+          "url": "https://flash.jin10.com/detail/20251203113841263800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时46分 ~ 13时13分]"
+        },
+        {
+          "title": "周二（12月2日），降息赢家指数跌0.78%，报99.29点。",
+          "url": "https://wallstreetcn.com/livenews/3013915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时28分 ~ 07时11分]"
+        },
+        {
+          "title": "菲律宾央行行长：经济复苏应于2026年启动，2027年重回正轨。",
+          "url": "https://flash.jin10.com/detail/20251203113807613800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时46分 ~ 13时13分]"
+        },
+        {
+          "title": "普渡大学数据显示，美国11月农业信心指数139，创6月以来新高，前值129。 现况指数下滑2个点，未来预期指数上扬15个点。 根据普渡大学商业农业中心主任 Michael Langemeier 的说法：“农作物价格的上涨以及对农产品出口更为乐观的展望，共同改善了未来的前景。”",
+          "url": "https://wallstreetcn.com/livenews/3013815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 01时15分]"
+        },
+        {
+          "title": "野村控股上调印尼股票评级至超配 看好降息周期与内需增长",
+          "url": "https://flash.jin10.com/detail/20251203140308852800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 15时15分]"
+        },
+        {
+          "title": "菲律宾央行行长：经济增长前景放缓，12月降息概率进一步上升。",
+          "url": "https://flash.jin10.com/detail/20251203114004378800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时20分 ~ 13时13分]"
+        },
+        {
+          "title": "瑞士11月CPI同比 0%，预期 0.1%，前值 0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3014303",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时17分 ~ 17时16分]"
+        },
+        {
+          "title": "欧洲央行首席经济学家Lane：通胀风险并非单向的，我们最近也看到了一些意料之外的上行走势。",
+          "url": "https://wallstreetcn.com/livenews/3014427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 21时31分]"
+        },
+        {
+          "title": "美国总统特朗普：美联储主席应该降息。",
+          "url": "https://flash.jin10.com/detail/20251203005837291800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时15分 ~ 02时19分]"
+        },
+        {
+          "title": "泰国商务部：预计泰国12月整体CPI将下降。",
+          "url": "https://flash.jin10.com/detail/20251203112154426800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 12时20分]"
+        },
+        {
+          "title": "央行行长潘功胜会见国际货币基金组织第一副总裁丹·卡茨",
+          "url": "https://wallstreetcn.com/livenews/3014124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 12时20分]"
+        },
+        {
+          "title": "美联储降息预期推动人民币升值 专家警示不宜押注单边行情",
+          "url": "https://www.cls.cn/detail/2218729",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：将在12月11日递交银行（监管）简化方案。",
+          "url": "https://wallstreetcn.com/livenews/3014518",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
+          "title": "瑞士11月CPI环比 -0.2%，预期 -0.1%，前值 -0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3014302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：通胀率接近2%，核心通胀率与中期目标一致。 未来几个月通胀率将保持在2%左右。 经济前景面临的风险仍然是双面的。 前景更加平衡，但仍存在不确定性。",
+          "url": "https://wallstreetcn.com/livenews/3014486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
+          "title": "美联储12月降息25个基点的概率为89.2%",
+          "url": "https://flash.jin10.com/detail/20251203060510439800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
+          "title": "捷克央行行长米赫尔：捷克央行目前不打算调整利率，我们现在的立场比以往更加严格。",
+          "url": "https://flash.jin10.com/detail/20251203165325417800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：前景风险继续呈现双向性。",
+          "url": "https://flash.jin10.com/detail/20251203213440070800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
+          "title": "野村证券：预计韩国央行宽松周期已结束",
+          "url": "https://flash.jin10.com/detail/20251203133435000800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "通胀数据意外“归零” 瑞士央行维持零利率面临新挑战",
+          "url": "https://flash.jin10.com/detail/20251203154318767800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "欧洲央行首席经济学家连恩：欧元首年见顶后，欧元升值10%将导致通胀降低0.6个百分点。",
+          "url": "https://flash.jin10.com/detail/20251203183935909800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
+          "title": "ADP公布后：美联储12月降息25个基点的概率与公布前基本持平",
+          "url": "https://flash.jin10.com/detail/20251203213341206800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
+          "title": "欧洲央行敦促意大利重审将黄金储备归为人民财产的计划 此举或使其售储",
+          "url": "https://wallstreetcn.com/livenews/3014448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时31分"
+        },
+        {
+          "title": "欧洲央行首席经济学家连恩：欧元走强对通胀的影响将在三年内逐步显现。",
+          "url": "https://flash.jin10.com/detail/20251203183854565800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
+          "title": "机构：尽管通胀有所缓解，但瑞士央行不太可能降息",
+          "url": "https://flash.jin10.com/detail/20251203193825812800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：将根据新的挑战灵活应对，并在必要时考虑采用新的政策工具，以实现其物价稳定目标。",
+          "url": "https://flash.jin10.com/detail/20251203213305634800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
+          "title": "欧洲央行官员Dolenc：在没有经济冲击的情况下，当前利率水平是恰当的。",
+          "url": "https://flash.jin10.com/detail/20251203183721095800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
+          "title": "欧洲央行首席经济学家警告欧元区通胀存在“上行意外”",
+          "url": "https://flash.jin10.com/detail/20251203193333922800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
+          "title": "ADP公布前：美联储12月降息25个基点的概率为89.2%",
+          "url": "https://flash.jin10.com/detail/20251203211116207800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时31分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：我们预计未来几个月通胀率将维持在我们2%的目标附近。",
+          "url": "https://flash.jin10.com/detail/20251203213247033800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
+          "title": "中国央行11月加大国债买入力度 专家料有助稳宏观经济运行",
+          "url": "https://wallstreetcn.com/livenews/3013988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "中国央行逆回购操作今日净回笼1340亿元",
+          "url": "https://wallstreetcn.com/livenews/3014031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "欧洲央行首席经济学家连恩：试图应对被明确预期为暂时性的短期偏差，将适得其反。",
+          "url": "https://flash.jin10.com/detail/20251203183614884800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：核心通胀指标仍与我们2%的中期目标一致。",
+          "url": "https://flash.jin10.com/detail/20251203213226596800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
+          "title": "美国财长贝森特：经济某些领域已出现疲软，需要降息。",
+          "url": "https://flash.jin10.com/detail/20251203223835757800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
+          "title": "欧洲央行首席经济学家连恩：无论起因为何，只要偏离目标的程度足够大且持续时间足够长，就需采取货币政策应对。",
+          "url": "https://flash.jin10.com/detail/20251203183544910800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：经济活动增长应受益于家庭支出增加以及韧性和包容性更强的劳动力市场。",
+          "url": "https://flash.jin10.com/detail/20251203213203611800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
+          "title": "美国9月进口物价指数年率 0.3%，预期0.4%，前值0.00%。",
+          "url": "https://flash.jin10.com/detail/20251203213120496800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
+          "title": "美国9月出口物价指数年率 3.8%，前值3.40%。",
+          "url": "https://flash.jin10.com/detail/20251203213112193800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
+          "title": "泰国商务部：泰国11月整体CPI较上年同期下降0.5%；泰国11月核心CPI较上年同期增长0.7%。",
+          "url": "https://flash.jin10.com/detail/20251203110221554800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
+          "title": "美国9月出口物价指数月率 0%，预期0.1%，前值由0.30%修正为0.1%。",
+          "url": "https://flash.jin10.com/detail/20251203213003461800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
+          "title": "瑞士11月CPI月率 -0.2%，预期-0.20%，前值-0.30%。",
+          "url": "https://flash.jin10.com/detail/20251203153002152800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "美国9月进口物价指数月率 0%，预期0.10%，前值由0.30%修正为0.1%。",
+          "url": "https://flash.jin10.com/detail/20251203213003439800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
+          "title": "瑞士11月CPI年率 0%，预期0.10%，前值0.10%。",
+          "url": "https://flash.jin10.com/detail/20251203153002127800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "摩根大通预计美债收益率明年将上升，降息预期料减弱",
+          "url": "https://wallstreetcn.com/livenews/3013963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
         }
       ]
     },
@@ -942,8 +1615,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[08时53分 ~ 22时13分]"
+          "appearance_count": 21,
+          "time_info": "[08时53分 ~ 23时14分]"
         },
         {
           "title": "从DeepSeek“上新”看AI演进 大模型将成“全能管家”？",
@@ -1435,7 +2108,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         },
@@ -1530,337 +2203,124 @@
       ]
     },
     {
-      "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 50,
+      "keyword_group": "就业 裁员 招聘",
+      "match_count": 16,
       "titles": [
         {
-          "title": "日本央行加息预期飙升，加密货币大跌，标普连涨终结，中概股逆市上涨，铜银钴走强",
-          "url": "https://wallstreetcn.com/articles/3760444",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 07时11分]"
-        },
-        {
-          "title": "央行“轮流砸盘”，美联储砸完日央行砸！日本12月会加息吗？",
-          "url": "https://wallstreetcn.com/articles/3760495",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 07时11分]"
-        },
-        {
-          "title": "经合组织：全球主要央行的降息将于明年结束，宽松空间已非常有限",
-          "url": "https://wallstreetcn.com/articles/3760545",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时17分 ~ 20时23分]"
-        },
-        {
-          "title": "日本金属工会寻求超纪录涨幅 将直接影响央行下一步行动",
-          "url": "https://flash.jin10.com/detail/20251203160211786800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时17分"
-        },
-        {
-          "title": "欧洲央行要求意大利政府重新审视黄金储备提案",
-          "url": "https://flash.jin10.com/detail/20251203200318876800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "美国9月进口物价指数月率将于十分钟后公布。",
-          "url": "https://flash.jin10.com/detail/20251203212000000800",
-          "source": "金十数据",
+          "title": "美国11月标普全球服务业PMI终值降至54.1，创6月份以来新低，就业分项指数终值达到52.1、创6月份以来新高、连续九个月扩张。",
+          "url": "https://wallstreetcn.com/livenews/3014525",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
+          "title": "美国自动数据处理公司ADP：10月就业人数修正为4.7万，此前为4.2万。",
+          "url": "https://flash.jin10.com/detail/20251203211937587800",
+          "source": "金十数据",
+          "ranks": [
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },
         {
-          "title": "韩国总统李在明：下半年经济快速增长预计将给物价带来上行压力。",
-          "url": "https://wallstreetcn.com/livenews/3014005",
-          "source": "华尔街见闻-快讯",
+          "title": "新兴市场货币受美国ADP就业数据提振，创下日内高位。",
+          "url": "https://flash.jin10.com/detail/20251203211909750800",
+          "source": "金十数据",
           "ranks": [
-            2
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时53分"
+          "time_info": "21时31分"
         },
         {
-          "title": "韩国总统李在明：下半年经济快速增长预计将给物价带来上行压力。",
-          "url": "https://flash.jin10.com/detail/20251203083620933800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "菲律宾央行行长：我们都同意2025年经济增长将会缓慢，可能在4-5%之间；经济复苏应于2026年启动，并于2027年重回正轨。",
-          "url": "https://flash.jin10.com/detail/20251203113841263800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时46分 ~ 13时13分]"
-        },
-        {
-          "title": "周二（12月2日），降息赢家指数跌0.78%，报99.29点。",
-          "url": "https://wallstreetcn.com/livenews/3013915",
+          "title": "提醒：北京时间21:15，将公布美国11月ADP就业人数。",
+          "url": "https://wallstreetcn.com/livenews/3014469",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            9,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时28分 ~ 07时11分]"
-        },
-        {
-          "title": "菲律宾央行行长：经济复苏应于2026年启动，2027年重回正轨。",
-          "url": "https://flash.jin10.com/detail/20251203113807613800",
-          "source": "金十数据",
           "ranks": [
             3,
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时46分 ~ 13时13分]"
-        },
-        {
-          "title": "普渡大学数据显示，美国11月农业信心指数139，创6月以来新高，前值129。 现况指数下滑2个点，未来预期指数上扬15个点。 根据普渡大学商业农业中心主任 Michael Langemeier 的说法：“农作物价格的上涨以及对农产品出口更为乐观的展望，共同改善了未来的前景。”",
-          "url": "https://wallstreetcn.com/livenews/3013815",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            18
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时16分 ~ 01时15分]"
+          "time_info": "[21时31分 ~ 22时13分]"
         },
         {
-          "title": "野村控股上调印尼股票评级至超配 看好降息周期与内需增长",
-          "url": "https://flash.jin10.com/detail/20251203140308852800",
+          "title": "美债收益率小幅走低 市场聚焦ADP就业和ISM服务业数据",
+          "url": "https://flash.jin10.com/detail/20251203144426116800",
           "source": "金十数据",
           "ranks": [
-            4,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时19分 ~ 15时15分]"
-        },
-        {
-          "title": "菲律宾央行行长：经济增长前景放缓，12月降息概率进一步上升。",
-          "url": "https://flash.jin10.com/detail/20251203114004378800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时20分 ~ 13时13分]"
-        },
-        {
-          "title": "瑞士11月CPI同比 0%，预期 0.1%，前值 0.1%。",
-          "url": "https://wallstreetcn.com/livenews/3014303",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时17分 ~ 17时16分]"
-        },
-        {
-          "title": "欧洲央行首席经济学家Lane：通胀风险并非单向的，我们最近也看到了一些意料之外的上行走势。",
-          "url": "https://wallstreetcn.com/livenews/3014427",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时23分 ~ 21时31分]"
-        },
-        {
-          "title": "美国总统特朗普：美联储主席应该降息。",
-          "url": "https://flash.jin10.com/detail/20251203005837291800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时15分 ~ 02时19分]"
-        },
-        {
-          "title": "泰国商务部：预计泰国12月整体CPI将下降。",
-          "url": "https://flash.jin10.com/detail/20251203112154426800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时46分 ~ 12时20分]"
-        },
-        {
-          "title": "央行行长潘功胜会见国际货币基金组织第一副总裁丹·卡茨",
-          "url": "https://wallstreetcn.com/livenews/3014124",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时46分 ~ 12时20分]"
-        },
-        {
-          "title": "瑞士11月CPI环比 -0.2%，预期 -0.1%，前值 -0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3014302",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时17分"
+          "time_info": "15时15分"
         },
         {
-          "title": "欧洲央行行长拉加德：通胀率接近2%，核心通胀率与中期目标一致。 未来几个月通胀率将保持在2%左右。 经济前景面临的风险仍然是双面的。 前景更加平衡，但仍存在不确定性。",
-          "url": "https://wallstreetcn.com/livenews/3014486",
-          "source": "华尔街见闻-快讯",
+          "title": "意外下滑！美国11月ADP就业人数减少3.2万人，创2023年3月以来最大降幅，小企业失业人数激增",
+          "url": "https://wallstreetcn.com/articles/3760652",
+          "source": "华尔街见闻",
           "ranks": [
-            10
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时13分"
+          "time_info": "23时14分"
         },
         {
-          "title": "美联储12月降息25个基点的概率为89.2%",
-          "url": "https://flash.jin10.com/detail/20251203060510439800",
+          "title": "美国11月ADP就业数据疲软，美国国债延续涨势。",
+          "url": "https://flash.jin10.com/detail/20251203211804384800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时31分"
+        },
+        {
+          "title": "金十数据整理：ADP报告重要行业就业人数变化一览",
+          "url": "https://flash.jin10.com/detail/20251203211722750800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时31分"
+        },
+        {
+          "title": "美国11月ADP就业减少3.2万 美股三大期指集体上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2218814",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
+          "title": "美国11月私营企业就业人数减少3.2万人",
+          "url": "https://flash.jin10.com/detail/20251203211716645800",
           "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时11分"
+          "time_info": "21时31分"
         },
         {
-          "title": "捷克央行行长米赫尔：捷克央行目前不打算调整利率，我们现在的立场比以往更加严格。",
-          "url": "https://flash.jin10.com/detail/20251203165325417800",
+          "title": "美国11月ADP就业人数 -3.2万人，预期1万人，前值4.2万人。",
+          "url": "https://flash.jin10.com/detail/20251203211502420800",
           "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时16分"
-        },
-        {
-          "title": "欧洲央行行长拉加德：前景风险继续呈现双向性。",
-          "url": "https://flash.jin10.com/detail/20251203213440070800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        },
-        {
-          "title": "野村证券：预计韩国央行宽松周期已结束",
-          "url": "https://flash.jin10.com/detail/20251203133435000800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "通胀数据意外“归零” 瑞士央行维持零利率面临新挑战",
-          "url": "https://flash.jin10.com/detail/20251203154318767800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时17分"
-        },
-        {
-          "title": "欧洲央行首席经济学家连恩：欧元首年见顶后，欧元升值10%将导致通胀降低0.6个百分点。",
-          "url": "https://flash.jin10.com/detail/20251203183935909800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时12分"
-        },
-        {
-          "title": "ADP公布后：美联储12月降息25个基点的概率与公布前基本持平",
-          "url": "https://flash.jin10.com/detail/20251203213341206800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        },
-        {
-          "title": "欧洲央行敦促意大利重审将黄金储备归为人民财产的计划 此举或使其售储",
-          "url": "https://wallstreetcn.com/livenews/3014448",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
@@ -1869,235 +2329,59 @@
           "time_info": "21时31分"
         },
         {
-          "title": "欧洲央行首席经济学家连恩：欧元走强对通胀的影响将在三年内逐步显现。",
-          "url": "https://flash.jin10.com/detail/20251203183854565800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时12分"
-        },
-        {
-          "title": "机构：尽管通胀有所缓解，但瑞士央行不太可能降息",
-          "url": "https://flash.jin10.com/detail/20251203193825812800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "欧洲央行行长拉加德：将根据新的挑战灵活应对，并在必要时考虑采用新的政策工具，以实现其物价稳定目标。",
-          "url": "https://flash.jin10.com/detail/20251203213305634800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        },
-        {
-          "title": "欧洲央行官员Dolenc：在没有经济冲击的情况下，当前利率水平是恰当的。",
-          "url": "https://flash.jin10.com/detail/20251203183721095800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时12分"
-        },
-        {
-          "title": "欧洲央行首席经济学家警告欧元区通胀存在“上行意外”",
-          "url": "https://flash.jin10.com/detail/20251203193333922800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "ADP公布前：美联储12月降息25个基点的概率为89.2%",
-          "url": "https://flash.jin10.com/detail/20251203211116207800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时31分"
-        },
-        {
-          "title": "欧洲央行行长拉加德：我们预计未来几个月通胀率将维持在我们2%的目标附近。",
-          "url": "https://flash.jin10.com/detail/20251203213247033800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        },
-        {
-          "title": "中国央行11月加大国债买入力度 专家料有助稳宏观经济运行",
-          "url": "https://wallstreetcn.com/livenews/3013988",
+          "title": "美国11月ADP就业报告速评",
+          "url": "https://wallstreetcn.com/livenews/3014478",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "中国央行逆回购操作今日净回笼1340亿元",
-          "url": "https://wallstreetcn.com/livenews/3014031",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "欧洲央行首席经济学家连恩：试图应对被明确预期为暂时性的短期偏差，将适得其反。",
-          "url": "https://flash.jin10.com/detail/20251203183614884800",
-          "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时12分"
-        },
-        {
-          "title": "欧洲央行行长拉加德：核心通胀指标仍与我们2%的中期目标一致。",
-          "url": "https://flash.jin10.com/detail/20251203213226596800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
           "time_info": "22时13分"
         },
         {
-          "title": "欧洲央行首席经济学家连恩：无论起因为何，只要偏离目标的程度足够大且持续时间足够长，就需采取货币政策应对。",
-          "url": "https://flash.jin10.com/detail/20251203183544910800",
-          "source": "金十数据",
+          "title": "美国11月ADP就业人数变动 -3.2万人，预期 1万人，前值 4.2万人。",
+          "url": "https://wallstreetcn.com/livenews/3014473",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时12分"
-        },
-        {
-          "title": "欧洲央行行长拉加德：经济活动增长应受益于家庭支出增加以及韧性和包容性更强的劳动力市场。",
-          "url": "https://flash.jin10.com/detail/20251203213203611800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
           "time_info": "22时13分"
         },
         {
-          "title": "美国9月进口物价指数年率 0.3%，预期0.4%，前值0.00%。",
-          "url": "https://flash.jin10.com/detail/20251203213120496800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        },
-        {
-          "title": "美国9月出口物价指数年率 3.8%，前值3.40%。",
-          "url": "https://flash.jin10.com/detail/20251203213112193800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        },
-        {
-          "title": "泰国商务部：泰国11月整体CPI较上年同期下降0.5%；泰国11月核心CPI较上年同期增长0.7%。",
-          "url": "https://flash.jin10.com/detail/20251203110221554800",
+          "title": "美国11月ADP就业人数将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20251203210500001800",
           "source": "金十数据",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
+          "time_info": "21时31分"
+        },
+        {
+          "title": "国务院台办：将为台湾法律界人士来大陆就业发展提供更广阔的空间。（央视新闻）",
+          "url": "https://wallstreetcn.com/livenews/3014101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
           "time_info": "11时46分"
         },
         {
-          "title": "美国9月出口物价指数月率 0%，预期0.1%，前值由0.30%修正为0.1%。",
-          "url": "https://flash.jin10.com/detail/20251203213003461800",
+          "title": "美国ADP报告释放劳动力市场恶化信号 11月就业人数意外下降",
+          "url": "https://flash.jin10.com/detail/20251203212401237800",
           "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        },
-        {
-          "title": "瑞士11月CPI月率 -0.2%，预期-0.20%，前值-0.30%。",
-          "url": "https://flash.jin10.com/detail/20251203153002152800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时17分"
-        },
-        {
-          "title": "美国9月进口物价指数月率 0%，预期0.10%，前值由0.30%修正为0.1%。",
-          "url": "https://flash.jin10.com/detail/20251203213003439800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        },
-        {
-          "title": "瑞士11月CPI年率 0%，预期0.10%，前值0.10%。",
-          "url": "https://flash.jin10.com/detail/20251203153002127800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时17分"
-        },
-        {
-          "title": "摩根大通预计美债收益率明年将上升，降息预期料减弱",
-          "url": "https://wallstreetcn.com/livenews/3013963",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时53分"
+          "time_info": "22时13分"
         }
       ]
     },
@@ -2271,158 +2555,8 @@
       ]
     },
     {
-      "keyword_group": "就业 裁员 招聘",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "美国自动数据处理公司ADP：10月就业人数修正为4.7万，此前为4.2万。",
-          "url": "https://flash.jin10.com/detail/20251203211937587800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时31分"
-        },
-        {
-          "title": "新兴市场货币受美国ADP就业数据提振，创下日内高位。",
-          "url": "https://flash.jin10.com/detail/20251203211909750800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时31分"
-        },
-        {
-          "title": "提醒：北京时间21:15，将公布美国11月ADP就业人数。",
-          "url": "https://wallstreetcn.com/livenews/3014469",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时31分 ~ 22时13分]"
-        },
-        {
-          "title": "美债收益率小幅走低 市场聚焦ADP就业和ISM服务业数据",
-          "url": "https://flash.jin10.com/detail/20251203144426116800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时15分"
-        },
-        {
-          "title": "美国11月ADP就业数据疲软，美国国债延续涨势。",
-          "url": "https://flash.jin10.com/detail/20251203211804384800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时31分"
-        },
-        {
-          "title": "金十数据整理：ADP报告重要行业就业人数变化一览",
-          "url": "https://flash.jin10.com/detail/20251203211722750800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时31分"
-        },
-        {
-          "title": "美国11月私营企业就业人数减少3.2万人",
-          "url": "https://flash.jin10.com/detail/20251203211716645800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时31分"
-        },
-        {
-          "title": "美国11月ADP就业人数 -3.2万人，预期1万人，前值4.2万人。",
-          "url": "https://flash.jin10.com/detail/20251203211502420800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时31分"
-        },
-        {
-          "title": "美国11月ADP就业报告速评",
-          "url": "https://wallstreetcn.com/livenews/3014478",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        },
-        {
-          "title": "美国11月ADP就业人数变动 -3.2万人，预期 1万人，前值 4.2万人。",
-          "url": "https://wallstreetcn.com/livenews/3014473",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        },
-        {
-          "title": "美国11月ADP就业人数将于十分钟后公布。",
-          "url": "https://flash.jin10.com/detail/20251203210500001800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时31分"
-        },
-        {
-          "title": "国务院台办：将为台湾法律界人士来大陆就业发展提供更广阔的空间。（央视新闻）",
-          "url": "https://wallstreetcn.com/livenews/3014101",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时46分"
-        },
-        {
-          "title": "美国ADP报告释放劳动力市场恶化信号 11月就业人数意外下降",
-          "url": "https://flash.jin10.com/detail/20251203212401237800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        }
-      ]
-    },
-    {
       "keyword_group": "华为 小米 荣耀",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "三星三折叠手机发布，罗永浩称其「比华为方案更厚，意义不明」，这款售价约 17305 元的手机值得买吗？",
@@ -2466,11 +2600,12 @@
             20,
             21,
             23,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时16分 ~ 22时13分]"
+          "appearance_count": 30,
+          "time_info": "[00时16分 ~ 23时14分]"
         },
         {
           "title": "自卫队用华为,美日兄弟情当场漏风",
@@ -2578,6 +2713,17 @@
           "time_info": "[15时14分 ~ 15时15分]"
         },
         {
+          "title": "南向资金追踪｜单日成交额创近10个月新低 短线连续流入小米和阿里",
+          "url": "https://www.cls.cn/detail/2218573",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "中国外文局与华为签署合作协议",
           "url": "https://wallstreetcn.com/livenews/3014449",
           "source": "华尔街见闻-快讯",
@@ -2592,7 +2738,7 @@
     },
     {
       "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "价值36亿！半导体大佬虞仁荣再度大手笔捐赠股份",
@@ -2629,6 +2775,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时46分 ~ 12时20分]"
+        },
+        {
+          "title": "能源业ETF涨0.65%，在美股盘初领跑行业ETF，半导体ETF则跌0.22%，科技行业ETF跌0.6%，全球科技股指数ETF跌0.72%。",
+          "url": "https://wallstreetcn.com/livenews/3014514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "佰维存储：国家集成电路产业投资基金二期减持464.6万股公司股份",
@@ -2689,7 +2846,7 @@
     },
     {
       "keyword_group": "英伟达 台积电 AMD 高通",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美股三大指数小幅高开 英伟达涨超1%",
@@ -2761,6 +2918,17 @@
           "time_info": "05时28分"
         },
         {
+          "title": "纳斯达克100股指期货美股盘前转跌，英伟达（盘前）转跌。",
+          "url": "https://wallstreetcn.com/livenews/3014503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "谷歌的TPU要干掉英伟达吗",
           "url": "https://www.toutiao.com/trending/7579260643052621321/",
           "source": "今日头条",
@@ -2787,11 +2955,12 @@
             8,
             9,
             11,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[12时20分 ~ 22时13分]"
+          "appearance_count": 18,
+          "time_info": "[12时20分 ~ 23时14分]"
         },
         {
           "title": "2026年房价能否止跌回升",
@@ -2848,6 +3017,83 @@
           "source": "金十数据",
           "ranks": [
             21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "基础设施 基建 地铁 高铁",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "天津发行30年期其他专项地方债，规模1.5000亿元，发行利率2.5500%，边际倍数2.80倍，倍数预期2.45； 天津发行30年期医疗专项地方债，规模0.7000亿元，发行利率2.5500%，边际倍数1.50倍，倍数预期2.45； 天津发行20年期其他专项地方债，规模10.0000亿元，发行利率2.5100%，边际倍数1.20倍，倍数预期2.46； 天津发行20年期市政基建专项地方债，规模3.0000亿元，发行利率2.5000%，边际倍数4.33倍，倍数预期2.45； 天津发行20年期棚改专项地方债，规模0.4000亿元，发行利率2.5000%，边际倍数1.00倍，倍数预期2.45； 天津发行20年期其他专项地方债，规模1.1000亿元，发行利率2.4600%，边际倍数1.50倍，倍数预期2.45； 天津发行20年期轨交专项地方债，规模1.0000亿元，发行利率2.4700%，边际倍数5.00倍，倍数预期2.45； 天津发行15年期轨交专项地方债，规模7.0000亿元，发行利率2.3900%，边际倍数2.81倍，倍数预期2.36； 天津发行10年期其他专项地方债，规模0.3000亿元，发行利率2.0900%，边际倍数3.00倍，倍数预期2.04； 天津发行10年期水务专项地方债，规模0.4000亿元，发行利率2.0900%，边际倍数1.50倍，倍数预期2.04； 天津发行10年期医疗专项地方债，规模0.6000亿元，发行利率2.0700%，边际倍数1.00倍，倍数预期2.04； 天津发行20年期其他专项地方债，规模22.0000亿元，发行利率2.5000%，边际倍数4.17倍，倍数预期2.46； 天津发行10年期一般债地方债，规模37.0000亿元，发行利率2.0200%，边际倍数1.76倍，倍数预期2.04； 天津发行30年期普通专项地方债，规模13.0000亿元，发行利率2.5000%，边际倍数1.61倍，倍数预期2.47。",
+          "url": "https://wallstreetcn.com/livenews/3014310",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时17分 ~ 17时16分]"
+        },
+        {
+          "title": "缺电、缺人、缺设备，大摩：明年市场将转向解决AI基建瓶颈，看好能源基础设施",
+          "url": "https://wallstreetcn.com/articles/3760522",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时46分 ~ 13时13分]"
+        },
+        {
+          "title": "当萌新入坑和平地铁逃生",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BD%93%E8%90%8C%E6%96%B0%E5%85%A5%E5%9D%91%E5%92%8C%E5%B9%B3%E5%9C%B0%E9%93%81%E9%80%83%E7%94%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 07时11分]"
+        },
+        {
+          "title": "Upwind将与英伟达锁定下一代AI基础设施。",
+          "url": "https://wallstreetcn.com/livenews/3013804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 01时15分]"
+        },
+        {
+          "title": "匈牙利外长西雅尔多：乌克兰对俄罗斯能源基础设施的袭击“令人发指”，此举对匈牙利的能源供应构成威胁。",
+          "url": "https://flash.jin10.com/detail/20251203223712884800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
+          "title": "天津发行1年期一般债地方债，规模48.0506亿元，发行利率1.5100%，边际倍数2.66倍，倍数预期1.52； 天津发行2年期一般债地方债，规模43.8715亿元，发行利率1.5200%，边际倍数1.31倍，倍数预期1.56； 天津发行7年期市政基建专项地方债，规模0.6000亿元，发行利率1.8400%，边际倍数1.00倍，倍数预期1.88； 天津发行7年期其他专项地方债，规模11.4100亿元，发行利率1.8900%，边际倍数160.00倍，倍数预期1.89； 天津发行5年期其他专项地方债，规模5.0000亿元，发行利率1.7200%，边际倍数1.18倍，倍数预期1.77； 天津发行5年期土储专项地方债，规模66.6700亿元，发行利率1.8000%，边际倍数2.06倍，倍数预期1.77； 天津发行3年期土储专项地方债，规模6.0100亿元，发行利率1.5400%，边际倍数1.20倍，倍数预期1.63。",
+          "url": "https://wallstreetcn.com/livenews/3014250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -2941,11 +3187,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时14分 ~ 22时13分]"
+          "appearance_count": 9,
+          "time_info": "[18时14分 ~ 23时14分]"
         },
         {
           "title": "上证指数早盘收报3894.22点，跌0.09%。 深证成指早盘收报13031.26点，跌0.19%。 创业板指早盘收报3055.91点，跌0.50%。 沪深300早盘收报4553.74点，跌0.01%。 科创50早盘收报1314.15点，跌0.45%。 中证500早盘收报7035.17点，跌0.07%。 中证1000早盘收报7276.82点，跌0.50%。",
@@ -3009,72 +3256,6 @@
       ]
     },
     {
-      "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "天津发行30年期其他专项地方债，规模1.5000亿元，发行利率2.5500%，边际倍数2.80倍，倍数预期2.45； 天津发行30年期医疗专项地方债，规模0.7000亿元，发行利率2.5500%，边际倍数1.50倍，倍数预期2.45； 天津发行20年期其他专项地方债，规模10.0000亿元，发行利率2.5100%，边际倍数1.20倍，倍数预期2.46； 天津发行20年期市政基建专项地方债，规模3.0000亿元，发行利率2.5000%，边际倍数4.33倍，倍数预期2.45； 天津发行20年期棚改专项地方债，规模0.4000亿元，发行利率2.5000%，边际倍数1.00倍，倍数预期2.45； 天津发行20年期其他专项地方债，规模1.1000亿元，发行利率2.4600%，边际倍数1.50倍，倍数预期2.45； 天津发行20年期轨交专项地方债，规模1.0000亿元，发行利率2.4700%，边际倍数5.00倍，倍数预期2.45； 天津发行15年期轨交专项地方债，规模7.0000亿元，发行利率2.3900%，边际倍数2.81倍，倍数预期2.36； 天津发行10年期其他专项地方债，规模0.3000亿元，发行利率2.0900%，边际倍数3.00倍，倍数预期2.04； 天津发行10年期水务专项地方债，规模0.4000亿元，发行利率2.0900%，边际倍数1.50倍，倍数预期2.04； 天津发行10年期医疗专项地方债，规模0.6000亿元，发行利率2.0700%，边际倍数1.00倍，倍数预期2.04； 天津发行20年期其他专项地方债，规模22.0000亿元，发行利率2.5000%，边际倍数4.17倍，倍数预期2.46； 天津发行10年期一般债地方债，规模37.0000亿元，发行利率2.0200%，边际倍数1.76倍，倍数预期2.04； 天津发行30年期普通专项地方债，规模13.0000亿元，发行利率2.5000%，边际倍数1.61倍，倍数预期2.47。",
-          "url": "https://wallstreetcn.com/livenews/3014310",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时17分 ~ 17时16分]"
-        },
-        {
-          "title": "缺电、缺人、缺设备，大摩：明年市场将转向解决AI基建瓶颈，看好能源基础设施",
-          "url": "https://wallstreetcn.com/articles/3760522",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时46分 ~ 13时13分]"
-        },
-        {
-          "title": "当萌新入坑和平地铁逃生",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BD%93%E8%90%8C%E6%96%B0%E5%85%A5%E5%9D%91%E5%92%8C%E5%B9%B3%E5%9C%B0%E9%93%81%E9%80%83%E7%94%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28,
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 07时11分]"
-        },
-        {
-          "title": "Upwind将与英伟达锁定下一代AI基础设施。",
-          "url": "https://wallstreetcn.com/livenews/3013804",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 01时15分]"
-        },
-        {
-          "title": "天津发行1年期一般债地方债，规模48.0506亿元，发行利率1.5100%，边际倍数2.66倍，倍数预期1.52； 天津发行2年期一般债地方债，规模43.8715亿元，发行利率1.5200%，边际倍数1.31倍，倍数预期1.56； 天津发行7年期市政基建专项地方债，规模0.6000亿元，发行利率1.8400%，边际倍数1.00倍，倍数预期1.88； 天津发行7年期其他专项地方债，规模11.4100亿元，发行利率1.8900%，边际倍数160.00倍，倍数预期1.89； 天津发行5年期其他专项地方债，规模5.0000亿元，发行利率1.7200%，边际倍数1.18倍，倍数预期1.77； 天津发行5年期土储专项地方债，规模66.6700亿元，发行利率1.8000%，边际倍数2.06倍，倍数预期1.77； 天津发行3年期土储专项地方债，规模6.0100亿元，发行利率1.5400%，边际倍数1.20倍，倍数预期1.63。",
-          "url": "https://wallstreetcn.com/livenews/3014250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时17分"
-        }
-      ]
-    },
-    {
       "keyword_group": "考研 考公 国考",
       "match_count": 5,
       "titles": [
@@ -3126,7 +3307,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         },
@@ -3160,11 +3341,12 @@
             7,
             6,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[10时31分 ~ 22时13分]"
+          "appearance_count": 20,
+          "time_info": "[10时31分 ~ 23时14分]"
         },
         {
           "title": "澎湃回声｜多家电商平台处置下架“儿童形象情趣玩偶”",
@@ -3178,8 +3360,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时17分 ~ 22时13分]"
+          "appearance_count": 11,
+          "time_info": "[16时17分 ~ 23时14分]"
         },
         {
           "title": "澎湃报道电商平台售卖“儿童款”情趣玩偶，中国妇女报：红线不可逾越！平台不可装睡！",
@@ -3193,8 +3375,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时17分 ~ 22时13分]"
+          "appearance_count": 11,
+          "time_info": "[16时17分 ~ 23时14分]"
         },
         {
           "title": "飞天茅台电商低至1399元？ 实探：线下经销商1799元/瓶",
@@ -3328,11 +3510,12 @@
           "source": "微博",
           "ranks": [
             15,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时31分 ~ 22时13分]"
+          "appearance_count": 3,
+          "time_info": "[21时31分 ~ 23时14分]"
         }
       ]
     }
