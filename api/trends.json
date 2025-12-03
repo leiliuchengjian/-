@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T18:15:04.369463+08:00",
-  "total_titles_processed": 1629,
+  "generated_at": "2025-12-03T19:12:02.046487+08:00",
+  "total_titles_processed": 1707,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 60,
+      "match_count": 61,
       "titles": [
         {
           "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时53分 ~ 18时15分]"
+          "appearance_count": 16,
+          "time_info": "[08时53分 ~ 19时12分]"
         },
         {
           "title": "离岸汇率一度突破 7.06 ，这次人民币汇率大涨有何不同？对我们有何影响？",
@@ -53,17 +53,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
-        },
-        {
-          "title": "伦铜日内涨幅达2%，现报11375.60美元/吨，续创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3014376",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时15分"
         },
         {
           "title": "特朗普积极暗示美联储主席人选 美元汇率闻讯下跌",
@@ -157,6 +146,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时20分 ~ 13时13分]"
+        },
+        {
+          "title": "伦铜日内涨幅达2%，现报11375.60美元/吨，续创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3014376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 19时12分]"
         },
         {
           "title": "印度卢比兑美元跌破90关口，继续创记录新低。",
@@ -444,7 +445,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         },
@@ -491,6 +492,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
+        },
+        {
+          "title": "财政部将于12月在香港发行70亿元人民币国债",
+          "url": "https://wallstreetcn.com/livenews/3014391",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
         },
         {
           "title": "现货白银失守58美元/盎司，日内跌幅0.78%。",
@@ -705,7 +717,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 42,
+      "match_count": 47,
       "titles": [
         {
           "title": "“豆包AI助手”手机售罄！生态挑战仍待破局 手机厂商或倾向于自研",
@@ -729,8 +741,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时53分 ~ 18时15分]"
+          "appearance_count": 16,
+          "time_info": "[08时53分 ~ 19时12分]"
         },
         {
           "title": "从DeepSeek“上新”看AI演进 大模型将成“全能管家”？",
@@ -756,8 +768,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时20分 ~ 18时15分]"
+          "appearance_count": 13,
+          "time_info": "[12时20分 ~ 19时12分]"
         },
         {
           "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
@@ -840,6 +852,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "OpenAI：面向企业及商用客户的ChatGPT服务当前出现错误率升高。",
+          "url": "https://wallstreetcn.com/livenews/3014402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
         },
         {
           "title": "市场消息：亚马逊紧急推出最新人工智能芯片，迎战英伟达和谷歌。",
@@ -1139,6 +1162,17 @@
           "time_info": "07时11分"
         },
         {
+          "title": "OpenAI：我们已全面恢复运营，目前未发现任何影响系统的故障。",
+          "url": "https://flash.jin10.com/detail/20251203185658782800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
           "title": "澳大利亚11月AIG/PWC制造业表现指数 -18，前值-22。",
           "url": "https://flash.jin10.com/detail/20251203061409183800",
           "source": "金十数据",
@@ -1161,6 +1195,17 @@
           "time_info": "13时13分"
         },
         {
+          "title": "OpenAI：企业及机构在使用ChatGPT时遭遇对话错误；已采取缓解措施并持续监控恢复情况。",
+          "url": "https://flash.jin10.com/detail/20251203185148537800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
           "title": "对AI泡沫的担忧加剧：甲骨文“恐慌指数”创2009年以来新高",
           "url": "https://wallstreetcn.com/livenews/3013942",
           "source": "华尔街见闻-快讯",
@@ -1170,6 +1215,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "OpenAI：目前出现了一些问题。",
+          "url": "https://flash.jin10.com/detail/20251203185037298800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
+          "title": "OpenAI：ChatGPT在商业和企业领域出现较高错误率。",
+          "url": "https://flash.jin10.com/detail/20251203184353377800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
         },
         {
           "title": "法国公司Mistral AI正式发布Mistral 3模型",
@@ -1219,7 +1286,7 @@
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 27,
+      "match_count": 32,
       "titles": [
         {
           "title": "日本央行加息预期飙升，加密货币大跌，标普连涨终结，中概股逆市上涨，铜银钴走强",
@@ -1254,6 +1321,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
+        },
+        {
+          "title": "经合组织：全球主要央行的降息将于明年结束，宽松空间已非常有限",
+          "url": "https://wallstreetcn.com/articles/3760545",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时17分 ~ 19时12分]"
         },
         {
           "title": "韩国总统李在明：下半年经济快速增长预计将给物价带来上行压力。",
@@ -1339,18 +1418,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时19分 ~ 15时15分]"
-        },
-        {
-          "title": "经合组织：全球主要央行的降息将于明年结束，宽松空间已非常有限",
-          "url": "https://wallstreetcn.com/articles/3760545",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时17分 ~ 18时15分]"
         },
         {
           "title": "菲律宾央行行长：经济增长前景放缓，12月降息概率进一步上升。",
@@ -1468,6 +1535,39 @@
           "time_info": "16时17分"
         },
         {
+          "title": "欧洲央行首席经济学家连恩：欧元首年见顶后，欧元升值10%将导致通胀降低0.6个百分点。",
+          "url": "https://flash.jin10.com/detail/20251203183935909800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
+          "title": "欧洲央行首席经济学家连恩：欧元走强对通胀的影响将在三年内逐步显现。",
+          "url": "https://flash.jin10.com/detail/20251203183854565800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
+          "title": "欧洲央行官员Dolenc：在没有经济冲击的情况下，当前利率水平是恰当的。",
+          "url": "https://flash.jin10.com/detail/20251203183721095800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
           "title": "中国央行11月加大国债买入力度 专家料有助稳宏观经济运行",
           "url": "https://wallstreetcn.com/livenews/3013988",
           "source": "华尔街见闻-快讯",
@@ -1488,6 +1588,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
+        },
+        {
+          "title": "欧洲央行首席经济学家连恩：试图应对被明确预期为暂时性的短期偏差，将适得其反。",
+          "url": "https://flash.jin10.com/detail/20251203183614884800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
+          "title": "欧洲央行首席经济学家连恩：无论起因为何，只要偏离目标的程度足够大且持续时间足够长，就需采取货币政策应对。",
+          "url": "https://flash.jin10.com/detail/20251203183544910800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
         },
         {
           "title": "泰国商务部：泰国11月整体CPI较上年同期下降0.5%；泰国11月核心CPI较上年同期增长0.7%。",
@@ -1537,7 +1659,7 @@
     },
     {
       "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "豆包AI助手\"理想丰满现实骨感\"？大摩：手机大厂更倾向自研，要落地很困难",
@@ -1637,6 +1759,17 @@
           "time_info": "[11时46分 ~ 12时20分]"
         },
         {
+          "title": "德国联邦机动车管理局：特斯拉11月在德国的新车销量下降20.2%至1763辆。",
+          "url": "https://flash.jin10.com/detail/20251203185403530800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
           "title": "纳斯达克金龙中国指数初步收跌0.6%。 热门中概股里，小鹏初步收跌7.5%，阿特斯太阳能跌5.9%，万国数据、蔚来、B站、世纪互联、阿里巴巴等至少跌约2%，华住则涨1%，文远知行涨2.7%，亚朵涨5.4%。 ETF中，CQQQ跌1.2%，KWEB跌0.9%。",
           "url": "https://wallstreetcn.com/livenews/3013907",
           "source": "华尔街见闻-快讯",
@@ -1716,8 +1849,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时16分 ~ 18时15分]"
+          "appearance_count": 25,
+          "time_info": "[00时16分 ~ 19时12分]"
         },
         {
           "title": "小米高管疑似集体遭遇短信轰炸",
@@ -1747,8 +1880,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时16分 ~ 18时15分]"
+          "appearance_count": 25,
+          "time_info": "[00时16分 ~ 19时12分]"
         },
         {
           "title": "谁买谁后悔?华为新机线下体验拉闸",
@@ -1765,8 +1898,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时16分 ~ 18时15分]"
+          "appearance_count": 25,
+          "time_info": "[00时16分 ~ 19时12分]"
         },
         {
           "title": "雷军突然开卖现车 小米彻底摊牌了",
@@ -1839,7 +1972,7 @@
     },
     {
       "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "价值36亿！半导体大佬虞仁荣再度大手笔捐赠股份",
@@ -1876,6 +2009,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时46分 ~ 12时20分]"
+        },
+        {
+          "title": "佰维存储：国家集成电路产业投资基金二期减持464.6万股公司股份",
+          "url": "https://wallstreetcn.com/livenews/3014386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
         },
         {
           "title": "受芯片股带动，日经指数上涨0.8%",
@@ -2020,11 +2164,12 @@
           "ranks": [
             2,
             5,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时20分 ~ 18时15分]"
+          "appearance_count": 13,
+          "time_info": "[12时20分 ~ 19时12分]"
         },
         {
           "title": "2026年房价能否止跌回升",
@@ -2061,8 +2206,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时16分 ~ 18时15分]"
+          "appearance_count": 5,
+          "time_info": "[17时16分 ~ 19时12分]"
         },
         {
           "title": "房地产五年大洗牌 这3个趋势要认清",
@@ -2089,6 +2234,81 @@
       ]
     },
     {
+      "keyword_group": "新能源汽车 电动汽车 智能驾驶",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "沃尔沃汽车：11月纯电动汽车销量同比增长4%。",
+          "url": "https://flash.jin10.com/detail/20251203160124209800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "美国总统特朗普：我和马斯克相处得很好。 但我就是不希望只有电动汽车。",
+          "url": "https://wallstreetcn.com/livenews/3013871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时13分 ~ 05时28分]"
+        },
+        {
+          "title": "周二（12月2日），彭博电动汽车价格回报指数跌0.58%，报3401.93点。 北京时间09:28过后跳空走低，日内持续低位震荡。 成分股中，普拉格动力公司涨约10%，MP材料涨超4%，特斯拉表现进入倒数前十。",
+          "url": "https://wallstreetcn.com/livenews/3013914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 06时11分]"
+        },
+        {
+          "title": "首次中新新能源汽车对话在新西兰惠灵顿召开",
+          "url": "https://wallstreetcn.com/livenews/3014397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
+          "title": "浙江“十五五”规划建议：聚焦具身智能、智能驾驶等重点领域建设全国领先的核心产业集群",
+          "url": "https://wallstreetcn.com/livenews/3013987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "美国总统特朗普：（被问及马斯克相关问题时）我只是不希望只有电动汽车。",
+          "url": "https://flash.jin10.com/detail/20251203025043007800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时35分"
+        }
+      ]
+    },
+    {
       "keyword_group": "创业板",
       "match_count": 6,
       "titles": [
@@ -2106,6 +2326,17 @@
           "time_info": "[11时46分 ~ 13时13分]"
         },
         {
+          "title": "【每日收评】创业板指震荡走低跌超1%，煤炭板块逆势活跃，高位人气股批量跌停",
+          "url": "https://www.cls.cn/detail/2218421",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时14分 ~ 19时12分]"
+        },
+        {
           "title": "12月3日午间收评：创业板指冲高回落跌0.5%，超硬材料、煤炭板块逆势走强",
           "url": "https://wallstreetcn.com/livenews/3014142",
           "source": "华尔街见闻-快讯",
@@ -2117,17 +2348,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时46分 ~ 13时13分]"
-        },
-        {
-          "title": "【每日收评】创业板指震荡走低跌超1%，煤炭板块逆势活跃，高位人气股批量跌停",
-          "url": "https://www.cls.cn/detail/2218421",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时14分 ~ 18时15分]"
         },
         {
           "title": "创业板指涨超1%，沪指跌0.03%，深成指涨0.47%，培育钻石、CPO、电池、多元金融等方向领涨，沪深京三市上涨个股近3100只。",
@@ -2231,70 +2451,6 @@
       ]
     },
     {
-      "keyword_group": "新能源汽车 电动汽车 智能驾驶",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "沃尔沃汽车：11月纯电动汽车销量同比增长4%。",
-          "url": "https://flash.jin10.com/detail/20251203160124209800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时17分"
-        },
-        {
-          "title": "美国总统特朗普：我和马斯克相处得很好。 但我就是不希望只有电动汽车。",
-          "url": "https://wallstreetcn.com/livenews/3013871",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时13分 ~ 05时28分]"
-        },
-        {
-          "title": "周二（12月2日），彭博电动汽车价格回报指数跌0.58%，报3401.93点。 北京时间09:28过后跳空走低，日内持续低位震荡。 成分股中，普拉格动力公司涨约10%，MP材料涨超4%，特斯拉表现进入倒数前十。",
-          "url": "https://wallstreetcn.com/livenews/3013914",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 06时11分]"
-        },
-        {
-          "title": "浙江“十五五”规划建议：聚焦具身智能、智能驾驶等重点领域建设全国领先的核心产业集群",
-          "url": "https://wallstreetcn.com/livenews/3013987",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "美国总统特朗普：（被问及马斯克相关问题时）我只是不希望只有电动汽车。",
-          "url": "https://flash.jin10.com/detail/20251203025043007800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时35分"
-        }
-      ]
-    },
-    {
       "keyword_group": "苹果 iPhone",
       "match_count": 4,
       "titles": [
@@ -2366,8 +2522,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时31分 ~ 18时15分]"
+          "appearance_count": 15,
+          "time_info": "[10时31分 ~ 19时12分]"
         },
         {
           "title": "澎湃回声｜多家电商平台处置下架“儿童形象情趣玩偶”",
@@ -2375,11 +2531,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时17分 ~ 18时15分]"
+          "appearance_count": 6,
+          "time_info": "[16时17分 ~ 19时12分]"
         },
         {
           "title": "澎湃报道电商平台售卖“儿童款”情趣玩偶，中国妇女报：红线不可逾越！平台不可装睡！",
@@ -2387,11 +2544,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时17分 ~ 18时15分]"
+          "appearance_count": 6,
+          "time_info": "[16时17分 ~ 19时12分]"
         },
         {
           "title": "电商平台处置下架儿童形象情趣玩偶",
