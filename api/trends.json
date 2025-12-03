@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-12-04T00:17:23.900676+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-04T01:16:08.072005+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
           "url": "https://wallstreetcn.com/articles/3760523",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 01时16分]"
         },
         {
           "title": "小非农超预期降温，美股集体低开，美元短线跳水，伦铜涨破纪录，白银高位震荡，比特币短线V形反弹",
@@ -26,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 01时16分]"
         },
         {
           "title": "美国天然气期货价格自2022年以来首次触及5美元高位。",
@@ -39,6 +40,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "人民币升值 创近一年新高",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E5%B8%81%E5%8D%87%E5%80%BC+%E5%88%9B%E8%BF%91%E4%B8%80%E5%B9%B4%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 01时16分]"
         },
         {
           "title": "NYMEX天然气期货涨至5美元，为2022年以来首次，日内当前涨超3%。",
@@ -63,15 +76,26 @@
           "time_info": "00时17分"
         },
         {
-          "title": "人民币升值 创近一年新高",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E5%B8%81%E5%8D%87%E5%80%BC+%E5%88%9B%E8%BF%91%E4%B8%80%E5%B9%B4%E6%96%B0%E9%AB%98",
-          "source": "百度热搜",
+          "title": "英镑兑美元涨1%，创5月份以来最大盘中涨幅，报1.3347。",
+          "url": "https://wallstreetcn.com/livenews/3014560",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时17分"
+          "time_info": "01时16分"
+        },
+        {
+          "title": "美元兑日元跌0.5%，报155.10。",
+          "url": "https://wallstreetcn.com/livenews/3014559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时16分"
         }
       ]
     },
@@ -80,37 +104,40 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "俄罗斯12月1日当周CPI周环比上升0.04%，2025年迄今累计上升5.27%。 10月零售销售同比增长4.8%，预期上升2.1%。 10月失业率2.2%，预期2.3%。 9月薪资同比增长4.7%，预期上升3.4%。",
-          "url": "https://wallstreetcn.com/livenews/3014554",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        },
-        {
           "title": "美联储降息预期推动人民币升值 专家警示不宜押注单边行情",
           "url": "https://www.cls.cn/detail/2218729",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 01时16分]"
+        },
+        {
+          "title": "俄罗斯12月1日当周CPI周环比上升0.04%，2025年迄今累计上升5.27%。 10月零售销售同比增长4.8%，预期上升2.1%。 10月失业率2.2%，预期2.3%。 9月薪资同比增长4.7%，预期上升3.4%。",
+          "url": "https://wallstreetcn.com/livenews/3014554",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 01时16分]"
         },
         {
           "title": "欧洲央行行长拉加德：私人融资还不至于立即对欧盟构成系统性风险。",
           "url": "https://wallstreetcn.com/livenews/3014549",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 01时16分]"
         },
         {
           "title": "拉加德：欧洲央行不会因俄罗斯被冻结资产问题违反欧盟条约",
@@ -138,8 +165,20 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
+          "url": "https://wallstreetcn.com/articles/3760564",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 01时16分]"
+        },
         {
           "title": "AMD(AMD.O)CEO：内存短缺可能只是对人工智能市场的一个小干扰。",
           "url": "https://flash.jin10.com/detail/20251203234739548800",
@@ -156,18 +195,70 @@
           "url": "https://wallstreetcn.com/livenews/3014555",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 01时16分]"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：国会山之行是为了回答关于AI的问题。",
+          "url": "https://wallstreetcn.com/livenews/3014561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "就业 裁员 招聘",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "意外下滑！美国11月ADP就业人数减少3.2万人，创2023年3月以来最大降幅，小企业失业人数激增",
+          "url": "https://wallstreetcn.com/articles/3760652",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 01时16分]"
+        },
+        {
+          "title": "美国11月ADP就业减少3.2万 美股三大期指集体上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2218814",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时15分 ~ 01时16分]"
+        },
+        {
+          "title": "美国商务部长卢特尼克：政府停摆和大规模驱逐行动是11月ADP就业人数减少的原因",
+          "url": "https://wallstreetcn.com/livenews/3014540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
         },
         {
-          "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
-          "url": "https://wallstreetcn.com/articles/3760564",
-          "source": "华尔街见闻",
+          "title": "美国商务部长卢特尼克：不应当将ADP就业数据（小非农）出现负值归咎于（总统特朗普挑起的）关税。 只要关税没有超过15%，价格就不会变动。 政府关门事件造成独特的10月（经济形势）。 我们将在最高法院赢得关税官司。 在应对进口问题上，我们还有其他工具。",
+          "url": "https://wallstreetcn.com/livenews/3014532",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -195,11 +286,12 @@
           "url": "https://wallstreetcn.com/livenews/3014552",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 01时16分]"
         },
         {
           "title": "英伟达涨0.5%，此前一度下跌1.3%。",
@@ -207,45 +299,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "就业 裁员 招聘",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "意外下滑！美国11月ADP就业人数减少3.2万人，创2023年3月以来最大降幅，小企业失业人数激增",
-          "url": "https://wallstreetcn.com/articles/3760652",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        },
-        {
-          "title": "美国商务部长卢特尼克：政府停摆和大规模驱逐行动是11月ADP就业人数减少的原因",
-          "url": "https://wallstreetcn.com/livenews/3014540",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        },
-        {
-          "title": "美国商务部长卢特尼克：不应当将ADP就业数据（小非农）出现负值归咎于（总统特朗普挑起的）关税。 只要关税没有超过15%，价格就不会变动。 政府关门事件造成独特的10月（经济形势）。 我们将在最高法院赢得关税官司。 在应对进口问题上，我们还有其他工具。",
-          "url": "https://wallstreetcn.com/livenews/3014532",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -265,8 +318,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 01时16分]"
         },
         {
           "title": "澎湃回声｜多家电商平台处置下架“儿童形象情趣玩偶”",
@@ -276,8 +329,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 01时16分]"
         },
         {
           "title": "澎湃报道电商平台售卖“儿童款”情趣玩偶，中国妇女报：红线不可逾越！平台不可装睡！",
@@ -287,8 +340,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 01时16分]"
         }
       ]
     },
@@ -332,8 +385,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 01时16分]"
         }
       ]
     },
@@ -349,8 +402,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 01时16分]"
         }
       ]
     },
@@ -380,11 +433,12 @@
           "url": "https://s.weibo.com/weibo?q=%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%BA%8A%E4%B8%8A%E4%BA%94%E4%BB%B6%E5%A5%97&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 01时16分]"
         }
       ]
     }
