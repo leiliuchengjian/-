@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T20:19:32.216092+08:00",
-  "total_titles_processed": 1181,
+  "generated_at": "2025-12-07T21:19:31.270773+08:00",
+  "total_titles_processed": 1247,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时12分 ~ 20时19分]"
+          "appearance_count": 29,
+          "time_info": "[00时12分 ~ 21时19分]"
         },
         {
           "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
@@ -262,8 +262,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时53分 ~ 20时19分]"
+          "appearance_count": 14,
+          "time_info": "[11时53分 ~ 21时19分]"
         },
         {
           "title": "涉案金额超10亿美元，明尼苏达州系列社会福利诈骗案震动美国",
@@ -351,7 +351,7 @@
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "央行数据显示，11月末外汇储备报33463.72亿美元。",
@@ -403,8 +403,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时14分 ~ 20时19分]"
+          "appearance_count": 7,
+          "time_info": "[16时14分 ~ 21时19分]"
+        },
+        {
+          "title": "中国11月外汇储备规模环比上涨0.09%，央行连续第13个月增持黄金",
+          "url": "https://wallstreetcn.com/articles/3760861",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时11分 ~ 21时19分]"
         },
         {
           "title": "欧洲央行管委雷恩：中期通胀风险偏向下行 不应为降息设置“不必要的束缚”",
@@ -440,19 +454,6 @@
           "time_info": "[16时14分 ~ 18时11分]"
         },
         {
-          "title": "中国11月外汇储备规模环比上涨0.09%，央行连续第13个月增持黄金",
-          "url": "https://wallstreetcn.com/articles/3760861",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时11分 ~ 20时19分]"
-        },
-        {
           "title": "中国央行连续第13个月增持黄金",
           "url": "https://flash.jin10.com/detail/20251207100145052800",
           "source": "金十数据",
@@ -472,11 +473,23 @@
           "source": "金十数据",
           "ranks": [
             6,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时10分 ~ 20时19分]"
+          "appearance_count": 3,
+          "time_info": "[19时10分 ~ 21时19分]"
+        },
+        {
+          "title": "以色列央行：以色列11月外汇储备为2314.25亿美元，10月为2319.54亿美元。",
+          "url": "https://flash.jin10.com/detail/20251207200844766800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
         }
       ]
     },
@@ -536,11 +549,12 @@
           "source": "微博",
           "ranks": [
             19,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时09分 ~ 20时19分]"
+          "appearance_count": 4,
+          "time_info": "[19时09分 ~ 21时19分]"
         },
         {
           "title": "苏州地铁全网寻找用围巾擦地女孩",
@@ -598,11 +612,12 @@
             1,
             8,
             29,
-            27
+            27,
+            21
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时55分 ~ 19时10分]"
+          "appearance_count": 14,
+          "time_info": "[10时55分 ~ 21时19分]"
         },
         {
           "title": "荷兰大臣：没想到中方叫停芯片出口",
@@ -637,6 +652,21 @@
           "time_info": "[12时26分 ~ 19时10分]"
         },
         {
+          "title": "荷兰经济大臣就安世半导体接受质询，坦承对中方反制措施“措手不及”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32124420",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            14,
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时14分 ~ 21时19分]"
+        },
+        {
           "title": "聚焦“海洋芯片”自主研发 全国高校首个船海核领域集成电路学院成立",
           "url": "https://flash.jin10.com/detail/20251207124222744800",
           "source": "金十数据",
@@ -650,20 +680,64 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时11分 ~ 17时11分]"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 iPhone",
+      "match_count": 4,
+      "titles": [
         {
-          "title": "荷兰经济大臣就安世半导体接受质询，坦承对中方反制措施“措手不及”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32124420",
-          "source": "澎湃新闻",
+          "title": "当赵露思遇上苹果",
+          "url": "https://www.douyin.com/hot/2328867",
+          "source": "抖音",
           "ranks": [
-            19,
-            14,
-            10,
-            8
+            21,
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时14分 ~ 20时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 07时11分]"
+        },
+        {
+          "title": "苹果CEO库克被曝手部间歇性颤抖 在公司内部引发关注",
+          "url": "https://flash.jin10.com/detail/20251207105148330800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            8,
+            18,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时54分 ~ 15时11分]"
+        },
+        {
+          "title": "苹果(AAPL.O)硬件技术高级副总裁Johny Srouji近日向CEO库克表示，他正考虑在不久的将来离职。",
+          "url": "https://flash.jin10.com/detail/20251207083121209800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时55分 ~ 12时26分]"
+        },
+        {
+          "title": "数十年来人事从未如此动荡！苹果爆发高管离职潮，库克去向备受关注",
+          "url": "https://wallstreetcn.com/articles/3760859",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
         }
       ]
     },
@@ -772,53 +846,6 @@
       ]
     },
     {
-      "keyword_group": "苹果 iPhone",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "当赵露思遇上苹果",
-          "url": "https://www.douyin.com/hot/2328867",
-          "source": "抖音",
-          "ranks": [
-            21,
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 07时11分]"
-        },
-        {
-          "title": "苹果CEO库克被曝手部间歇性颤抖 在公司内部引发关注",
-          "url": "https://flash.jin10.com/detail/20251207105148330800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            8,
-            18,
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时54分 ~ 15时11分]"
-        },
-        {
-          "title": "苹果(AAPL.O)硬件技术高级副总裁Johny Srouji近日向CEO库克表示，他正考虑在不久的将来离职。",
-          "url": "https://flash.jin10.com/detail/20251207083121209800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时55分 ~ 12时26分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "就业 裁员 招聘",
       "match_count": 2,
       "titles": [
@@ -841,11 +868,12 @@
           "url": "https://flash.jin10.com/detail/20251207190606127800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时19分 ~ 21时19分]"
         }
       ]
     },
@@ -871,7 +899,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时19分"
         }
@@ -929,8 +957,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时26分 ~ 20时19分]"
+          "appearance_count": 12,
+          "time_info": "[12时26分 ~ 21时19分]"
         }
       ]
     },
