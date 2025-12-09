@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T08:53:50.397506+08:00",
-  "total_titles_processed": 843,
+  "generated_at": "2025-12-09T10:44:00.878930+08:00",
+  "total_titles_processed": 968,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "外贸增速大幅回升！中国11月以美元计价出口同比转增5.9%，进口同比增1.9%",
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 08时53分]"
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 10时44分]"
         },
         {
           "title": "LME期铜收涨15美元，报11636美元/吨。 LME期铝收跌10美元，报2888美元/吨。 LME期锌收涨23美元，报3121美元/吨。 LME期铅收跌4美元，报1998美元/吨。 LME期镍收跌10美元，报14840美元/吨。 LME期锡收跌184美元，报39884美元/吨。 LME期钴收平，报52220美元/吨。",
@@ -358,6 +358,28 @@
           "time_info": "03时10分"
         },
         {
+          "title": "人民币兑美元中间价报7.0773，下调9点；上一交易日中间价7.0764，上一交易日官方收盘价7.0713，上日夜盘报收7.0730。",
+          "url": "https://wallstreetcn.com/livenews/3017251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
+          "title": "国产创新药今年BD出海金额破千亿美元",
+          "url": "https://wallstreetcn.com/livenews/3017248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
           "title": "国际金银短线异动，现货黄金短线走低17美元，向下触及4180美元/盎司，日内跌0.38%。现货白银短线下挫0.4美元，现报57.74美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251208230824054800",
           "source": "金十数据",
@@ -394,7 +416,7 @@
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 19,
+      "match_count": 23,
       "titles": [
         {
           "title": "美国债市现“三十年罕见之分歧”：美联储降息前夜，美长债收益率却“不跌反涨”",
@@ -414,11 +436,23 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 08时53分]"
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 10时44分]"
+        },
+        {
+          "title": "据路透调查：27位经济学家中有26位预计菲律宾央行将于12月11日将基准利率下调25个基点至4.50%。",
+          "url": "https://flash.jin10.com/detail/20251209100535141800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
         },
         {
           "title": "荷兰国际：英国央行降息叠加政治风险 英镑势将走弱",
@@ -430,6 +464,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "据路透调查：多数经济学家预计，菲律宾央行将于2026年第一季度将关键政策利率下调至4.25%。",
+          "url": "https://flash.jin10.com/detail/20251209100525094800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
         },
         {
           "title": "欧洲央行批评意大利修订黄金储备提案，担忧央行独立性受损",
@@ -586,6 +631,17 @@
           "time_info": "07时11分"
         },
         {
+          "title": "中国央行公开市场开展1173亿元7天期逆回购操作，操作利率1.40%，与前次持平。今日1563亿元逆回购到期。",
+          "url": "https://wallstreetcn.com/livenews/3017259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
           "title": "交易员预计欧洲央行2026年加息概率降低至25%，受央行执委Schnabel鹰派讲话影响",
           "url": "https://wallstreetcn.com/livenews/3017044",
           "source": "华尔街见闻-快讯",
@@ -617,12 +673,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
+        },
+        {
+          "title": "韩国总理金民锡呼吁央行和政府在汇率、通胀方面协同行动。",
+          "url": "https://wallstreetcn.com/livenews/3017242",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
         }
       ]
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "如何看待各大 App 禁止豆包手机登陆，AI 手机会是「兵家必争之地」吗？",
@@ -642,11 +709,12 @@
           "url": "https://www.cls.cn/detail/2223368",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时53分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时53分 ~ 10时44分]"
         },
         {
           "title": "摩根大通CEO戴蒙召集亚马逊创始人贝佐斯等人组建顾问超级小组，助力提高美国韧性的计划。10月，摩根大通的负责人宣布了一项1.5万亿美元的计划，旨在加强美国的稀土和人工智能等关键技术。",
@@ -673,6 +741,42 @@
           "time_info": "[06时11分 ~ 07时11分]"
         },
         {
+          "title": "任正非最新讲话谈及 AI，称别盯着「发明」要盯着「应用」，算力过剩的时代一定会到来，如何理解这些观点？",
+          "url": "https://www.zhihu.com/question/1980286689260900620",
+          "source": "知乎",
+          "ranks": [
+            17,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时53分 ~ 10时44分]"
+        },
+        {
+          "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
+          "url": "https://www.cls.cn/detail/2223387",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时53分 ~ 10时44分]"
+        },
+        {
+          "title": "仅仅成立两个月 这家AI计算机初创公司估值高达45亿美元",
+          "url": "https://www.cls.cn/detail/2223334",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时53分 ~ 10时44分]"
+        },
+        {
           "title": "OpenAI报告称：企业人工智能应用激增",
           "url": "https://wallstreetcn.com/livenews/3017061",
           "source": "华尔街见闻-快讯",
@@ -695,6 +799,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时11分 ~ 07时11分]"
+        },
+        {
+          "title": "AI 冲击下多所大学停招、撤销外语类本科专业，怎样看待这一调整？外语专业未来前景的怎么样？",
+          "url": "https://www.zhihu.com/question/1980612606218756126",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 10时44分]"
         },
         {
           "title": "达利欧：中东正迅速成为全球最具影响力的AI中心之一",
@@ -720,15 +835,15 @@
           "time_info": "00时15分"
         },
         {
-          "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
-          "url": "https://www.cls.cn/detail/2223387",
-          "source": "财联社热门",
+          "title": "摩根大通CEO戴蒙：（谈人工智能）也许有一天，我们会工作不那么辛苦，但生活却更加美好。",
+          "url": "https://flash.jin10.com/detail/20251209093951615800",
+          "source": "金十数据",
           "ranks": [
-            11
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时53分"
+          "time_info": "10时44分"
         },
         {
           "title": "谷歌：首款人工智能眼镜将于2026年问世",
@@ -742,26 +857,15 @@
           "time_info": "03时10分"
         },
         {
-          "title": "仅仅成立两个月 这家AI计算机初创公司估值高达45亿美元",
-          "url": "https://www.cls.cn/detail/2223334",
-          "source": "财联社热门",
+          "title": "Aware 首席信息官警告人工智能融资将亮起 \"橙色 \"灯",
+          "url": "https://wallstreetcn.com/livenews/3017286",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "任正非最新讲话谈及 AI，称别盯着「发明」要盯着「应用」，算力过剩的时代一定会到来，如何理解这些观点？",
-          "url": "https://www.zhihu.com/question/1980286689260900620",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时53分"
+          "time_info": "10时44分"
         },
         {
           "title": "谷歌(GOOG.O)：首款人工智能眼镜将于明年上市。",
@@ -810,9 +914,161 @@
       ]
     },
     {
+      "keyword_group": "半导体 芯片 集成电路",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "英伟达获准对华出售H200芯片",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%8E%B7%E5%87%86%E5%AF%B9%E5%8D%8E%E5%87%BA%E5%94%AEH200%E8%8A%AF%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 10时44分]"
+        },
+        {
+          "title": "英伟达获准对华出售H200芯片",
+          "url": "https://www.toutiao.com/trending/7581268464330375231/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "可选消费ETF收跌超1.4%，领跌美股行业ETF，半导体ETF涨超1.1%",
+          "url": "https://wallstreetcn.com/livenews/3017172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时11分]"
+        },
+        {
+          "title": "美国部分芯片股盘后走强，英伟达(NVDA.O)涨1.2%，AMD(AMD.O)涨近1%，英特尔(INTC.O)涨0.4%。",
+          "url": "https://flash.jin10.com/detail/20251209053351805800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时11分]"
+        },
+        {
+          "title": "特朗普宣布允许英伟达向中国出售 H200 芯片，如何评价这一政策转向？将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1981651554999169255",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 10时44分]"
+        },
+        {
+          "title": "美国三大股指悉数下跌，标普跌0.3%刷新日低。 费城半导体涨幅收窄至0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3017065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 01时14分]"
+        },
+        {
+          "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
+          "url": "https://www.cls.cn/detail/2223487",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 10时44分]"
+        },
+        {
+          "title": "英伟达获准对华出售H200芯片",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%8E%B7%E5%87%86%E5%AF%B9%E5%8D%8E%E5%87%BA%E5%94%AEH200%E8%8A%AF%E7%89%87",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "英伟达获准对华出售H200芯片",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%8E%B7%E5%87%86%E5%AF%B9%E5%8D%8E%E5%87%BA%E5%94%AEH200%E8%8A%AF%E7%89%87%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "香港恒生指数开盘涨0.06%，报25780.97点；恒生科技指数跌0.11%。中芯国际、华虹半导体、快手等跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3017258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
+          "title": "行业ETF美股盘初涨跌各异，半导体ETF涨1.57%，全球科技股指数ETF涨1.12%，科技行业ETF涨1.10%，网络股指数涨0.11%，能源业ETF则跌0.48%，可选消费ETF跌0.85%。",
+          "url": "https://wallstreetcn.com/livenews/3017046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "道指收跌超0.4%，半导体指数涨1.1%，投资者等待美联储政策会议",
+          "url": "https://wallstreetcn.com/livenews/3017157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
       "match_count": 9,
       "titles": [
+        {
+          "title": "王传福称「比亚迪是龙头老大，可以被别人欺负一下，但不能欺负别人」，这透露出怎样的企业哲学？",
+          "url": "https://www.zhihu.com/question/1981087153627886557",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时53分 ~ 10时44分]"
+        },
         {
           "title": "「马斯克兵败印度」特斯拉 2 个月只卖出 100 多辆，印度市场有何商业特点，什么商品在印度才会有竞争力？",
           "url": "https://www.zhihu.com/question/1980922285369094626",
@@ -843,17 +1099,6 @@
           "time_info": "[02时18分 ~ 07时11分]"
         },
         {
-          "title": "王传福称「比亚迪是龙头老大，可以被别人欺负一下，但不能欺负别人」，这透露出怎样的企业哲学？",
-          "url": "https://www.zhihu.com/question/1981087153627886557",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
           "title": "美股七巨头收盘播报｜特斯拉收跌约3.4%，谷歌A跌约2.3%，英伟达涨超1.7%",
           "url": "https://wallstreetcn.com/livenews/3017167",
           "source": "华尔街见闻-快讯",
@@ -870,22 +1115,36 @@
           "url": "https://www.zhihu.com/question/1980924593326792808",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时53分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时53分 ~ 10时44分]"
         },
         {
           "title": "比亚迪 11 月首次跻身韩国进口车汽车月销量前五，超越雷克萨斯、丰田、大众，这释放了哪些信号？",
           "url": "https://www.zhihu.com/question/1979627712625800414",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时53分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时53分 ~ 10时44分]"
+        },
+        {
+          "title": "美股三大指数集体收跌 特斯拉跌超3%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E8%B6%853%25",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时53分 ~ 10时44分]"
         },
         {
           "title": "美股收盘：三大股指收跌 特斯拉跌超3%",
@@ -905,123 +1164,15 @@
           "ranks": [
             23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "美股三大指数集体收跌 特斯拉跌超3%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E8%B6%853%25",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "英伟达获准对华出售H200芯片",
-          "url": "https://www.toutiao.com/trending/7581268464330375231/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "可选消费ETF收跌超1.4%，领跌美股行业ETF，半导体ETF涨超1.1%",
-          "url": "https://wallstreetcn.com/livenews/3017172",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时11分 ~ 07时11分]"
-        },
-        {
-          "title": "美国部分芯片股盘后走强，英伟达(NVDA.O)涨1.2%，AMD(AMD.O)涨近1%，英特尔(INTC.O)涨0.4%。",
-          "url": "https://flash.jin10.com/detail/20251209053351805800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时11分 ~ 07时11分]"
-        },
-        {
-          "title": "美国三大股指悉数下跌，标普跌0.3%刷新日低。 费城半导体涨幅收窄至0.7%。",
-          "url": "https://wallstreetcn.com/livenews/3017065",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时14分]"
-        },
-        {
-          "title": "英伟达获准对华出售H200芯片",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%8E%B7%E5%87%86%E5%AF%B9%E5%8D%8E%E5%87%BA%E5%94%AEH200%E8%8A%AF%E7%89%87",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "英伟达获准对华出售H200芯片",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%8E%B7%E5%87%86%E5%AF%B9%E5%8D%8E%E5%87%BA%E5%94%AEH200%E8%8A%AF%E7%89%87%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "行业ETF美股盘初涨跌各异，半导体ETF涨1.57%，全球科技股指数ETF涨1.12%，科技行业ETF涨1.10%，网络股指数涨0.11%，能源业ETF则跌0.48%，可选消费ETF跌0.85%。",
-          "url": "https://wallstreetcn.com/livenews/3017046",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "道指收跌超0.4%，半导体指数涨1.1%，投资者等待美联储政策会议",
-          "url": "https://wallstreetcn.com/livenews/3017157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
+          "time_info": "08时53分"
         }
       ]
     },
     {
       "keyword_group": "英伟达 台积电 AMD 高通",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
@@ -1030,9 +1181,20 @@
           "ranks": [
             2
           ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时53分 ~ 10时44分]"
+        },
+        {
+          "title": "英伟达：向商业客户供应H200是一种值得肯定的举措",
+          "url": "https://wallstreetcn.com/livenews/3017314",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时53分"
+          "time_info": "10时44分"
         },
         {
           "title": "英伟达美股盘后涨1.4%。英特尔涨0.37%，AMD涨0.67%。",
@@ -1069,6 +1231,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时11分 ~ 07时11分]"
+        },
+        {
+          "title": "英伟达盘后涨1.2%",
+          "url": "https://www.toutiao.com/trending/7580642994786058282/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 10时44分]"
         },
         {
           "title": "英伟达美股盘后涨幅扩大至2.7%。",
@@ -1110,18 +1283,6 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "一份高铁定向班面试名单，未通过名单与百度人名大全高度重合，为何会出现这一现象？暴露出哪些问题？",
-          "url": "https://www.zhihu.com/question/1981266085098518283",
-          "source": "知乎",
-          "ranks": [
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 08时53分]"
-        },
-        {
           "title": "美股三大期指涨跌不一 黄仁勋不满美国基建速度 | 今夜看点",
           "url": "https://www.cls.cn/detail/2223257",
           "source": "财联社热门",
@@ -1131,8 +1292,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 08时53分]"
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 10时44分]"
+        },
+        {
+          "title": "一份高铁定向班面试名单，未通过名单与百度人名大全高度重合，为何会出现这一现象？暴露出哪些问题？",
+          "url": "https://www.zhihu.com/question/1981266085098518283",
+          "source": "知乎",
+          "ranks": [
+            7,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 10时44分]"
         },
         {
           "title": "高铁商务座一擦全是黑印 12306回应",
@@ -1173,6 +1347,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为 小米 荣耀",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "恒生科技指数日内跌幅扩大至1%，百度跌超3%，哔哩哔哩跌近3%，华虹半导体、中芯国际、小米等跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3017307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
+          "title": "小米三款新车齐曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E4%B8%89%E6%AC%BE%E6%96%B0%E8%BD%A6%E9%BD%90%E6%9B%9D%E5%85%89%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时53分 ~ 10时44分]"
+        },
+        {
+          "title": "小米中国区多业务人事调整",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E4%B8%AD%E5%9B%BD%E5%8C%BA%E5%A4%9A%E4%B8%9A%E5%8A%A1%E4%BA%BA%E4%BA%8B%E8%B0%83%E6%95%B4%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 10时44分]"
+        },
+        {
+          "title": "小米汽车11月零售销量46249辆",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A611%E6%9C%88%E9%9B%B6%E5%94%AE%E9%94%80%E9%87%8F46249%E8%BE%86%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
         }
       ]
     },
@@ -1228,36 +1453,8 @@
       ]
     },
     {
-      "keyword_group": "华为 小米 荣耀",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "小米三款新车齐曝光",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E4%B8%89%E6%AC%BE%E6%96%B0%E8%BD%A6%E9%BD%90%E6%9B%9D%E5%85%89%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "小米汽车11月零售销量46249辆",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A611%E6%9C%88%E9%9B%B6%E5%94%AE%E9%94%80%E9%87%8F46249%E8%BE%86%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        }
-      ]
-    },
-    {
       "keyword_group": "创业板",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "A股高开高走，创业板涨超2%，算力硬件、券商爆发，港股恒指跌1.2%，30年期国债期货拉升，万科债上涨，双焦暴跌",
@@ -1269,8 +1466,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 08时53分]"
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 10时44分]"
         },
         {
           "title": "【每日收评】两市成交额重返2万亿！创业板指涨超2.5%，算力硬件、商业航天联袂领涨",
@@ -1283,6 +1480,28 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时15分 ~ 06时11分]"
+        },
+        {
+          "title": "创业板指涨超1%，沪指跌0.04%，深成指涨0.31%，算力硬件、创新药、影视、商业航天等方向领涨，沪深京三市上涨个股超2200只。",
+          "url": "https://wallstreetcn.com/livenews/3017296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
+          "title": "上证指数开盘报3916.51点，跌0.19%。 深证成指开盘报13295.62点，跌0.26%。 创业板指开盘报3183.61点，跌0.21%。 沪深300开盘报4611.38点，跌0.22%。 科创50开盘报1338.85点，跌0.88%。 中证500开盘报7150.97点，跌0.30%。 中证1000开盘报7400.93点，跌0.30%。",
+          "url": "https://wallstreetcn.com/livenews/3017261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
         }
       ]
     },
@@ -1295,11 +1514,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347810&amp;topic_name=%E4%BD%B3%E8%83%BD%E5%91%98%E5%B7%A5%E7%88%86%E5%86%B2%E6%9C%BA%E5%9C%BA%E5%90%AB%E6%B3%AA%E8%B0%A2%E4%B8%BB%E8%A3%81%E5%91%98",
           "source": "贴吧",
           "ranks": [
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 08时53分]"
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 10时44分]"
         },
         {
           "title": "奈飞(NFLX.O)首席执行官：不会在与华纳兄弟探索公司(WBD.O)的交易中裁员。我们不是裁员，而是在创造就业机会。",
@@ -1311,6 +1531,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "双十一 618 电商 优惠券",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "据韩联社：韩国警方突袭韩国电商巨头Coupang办公室。",
+          "url": "https://flash.jin10.com/detail/20251209101625108800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
+          "title": "韩国警方突击搜查了韩国头部电商平台Coupang办公地点。（韩联社）",
+          "url": "https://wallstreetcn.com/livenews/3017306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
         }
       ]
     },
