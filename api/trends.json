@@ -1,11 +1,876 @@
 {
-  "generated_at": "2025-12-10T19:11:43.766948+08:00",
-  "total_titles_processed": 1798,
+  "generated_at": "2025-12-10T20:23:31.953865+08:00",
+  "total_titles_processed": 1896,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "央行 降息 降准 CPI 物价",
+      "match_count": 75,
+      "titles": [
+        {
+          "title": "美联储传声筒：面对罕见分歧 鲍威尔明日可能“先降息再设限”",
+          "url": "https://www.cls.cn/detail/2224490",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 08时55分]"
+        },
+        {
+          "title": "美联储今夜降息无悬念！华尔街紧盯鲍威尔 这一表述或定调明年政策走向",
+          "url": "https://www.cls.cn/detail/2224813",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时47分 ~ 17时16分]"
+        },
+        {
+          "title": "美银：市场或已不信“鹰派降息”，哈塞特带来“买谣言，卖事实”交易机会",
+          "url": "https://wallstreetcn.com/articles/3760994",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时16分 ~ 14时19分]"
+        },
+        {
+          "title": "11月CPI同比上涨0.7%，为2024年3月份以来最高，PPI环比上涨0.1%",
+          "url": "https://www.cls.cn/detail/2224777",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7,
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[10时47分 ~ 18时14分]"
+        },
+        {
+          "title": "“影子联储主席”哈塞特：美联储有“充足空间”降息，那意味着降幅超过25基点",
+          "url": "https://wallstreetcn.com/articles/3761037",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[05时10分 ~ 20时23分]"
+        },
+        {
+          "title": "特朗普：降息是新美联储主席的试金石，可能通过调整关税降低部分商品价格",
+          "url": "https://wallstreetcn.com/articles/3761018",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 25,
+          "time_info": "[00时16分 ~ 20时23分]"
+        },
+        {
+          "title": "中国11月CPI同比上涨0.7%，创2024年3月来最高，PPI同比降幅略有扩大",
+          "url": "https://wallstreetcn.com/articles/3761060",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时15分 ~ 20时23分]"
+        },
+        {
+          "title": "日本央行行长植田和男称，美国经济经受住了特朗普关税的考验。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3017988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "美国总统特朗普：股票市场和401(k)正在上涨，但对物价水平存在误解；实际上，价格正在大幅下跌。",
+          "url": "https://flash.jin10.com/detail/20251210083231703800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "哈塞特：美联储有充足空间大幅降息",
+          "url": "https://flash.jin10.com/detail/20251209234224868800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "韩国央行委员警告：不能对韩元贬值坐视不理",
+          "url": "https://flash.jin10.com/detail/20251210140446551800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "金十整理：预计美联储将“鹰式降息” 12月剧本没那么简单",
+          "url": "https://flash.jin10.com/detail/20251210154917384800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "交易员加大对欧洲央行收紧政策的押注，预计2026年加息的可能性为50%。",
+          "url": "https://flash.jin10.com/detail/20251210165042431800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        },
+        {
+          "title": "英国央行副行长隆巴尔代利：英国央行不得不裁减部分员工。",
+          "url": "https://flash.jin10.com/detail/20251209234154850800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "金十整理：美联储2025年票委近期观点一览 超半数并不着急降息",
+          "url": "https://flash.jin10.com/detail/20251210140346606800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "韩国央行货币政策委员：面对韩元贬值“不能坐视不理”。",
+          "url": "https://flash.jin10.com/detail/20251210140222790800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "日本首相高市早苗：期待日本央行实施恰当的货币政策，以可持续、稳定地实现其价格目标，并与政府密切合作。",
+          "url": "https://flash.jin10.com/detail/20251210164800564800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：欧元区经济已相当接近潜在水平。",
+          "url": "https://flash.jin10.com/detail/20251210185803838800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时11分"
+        },
+        {
+          "title": "法国央行月报：虽然预算存疑，但预计经济将在年底增长。",
+          "url": "https://wallstreetcn.com/livenews/3017856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时09分 ~ 05时10分]"
+        },
+        {
+          "title": "加皇银行：预计美联储本次会议将降息 随后可能“无需进一步降息”",
+          "url": "https://flash.jin10.com/detail/20251210113515737800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 13时14分]"
+        },
+        {
+          "title": "日本央行行长植田和男表示，截至9月末，日本央行持有的ETF市值预计约为83万亿日元。 截至9月末，日本央行所持ETF的未实现盈利规模预计约为46万亿日元。",
+          "url": "https://wallstreetcn.com/livenews/3018169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 14时19分]"
+        },
+        {
+          "title": "欧洲央行行长拉加德：欧洲央行必须关注通胀，同时将经济纳入考量。",
+          "url": "https://wallstreetcn.com/livenews/3018422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时11分 ~ 20时23分]"
+        },
+        {
+          "title": "欧洲央行管委Panetta：国际货币系统可能会从美元转向好几种现有的全球性货币。",
+          "url": "https://wallstreetcn.com/livenews/3017813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时14分 ~ 02时15分]"
+        },
+        {
+          "title": "“影子美联储主席”哈塞特：美联储有“充足空间”降息，那意味着降幅超过25基点",
+          "url": "https://wallstreetcn.com/articles/3761037",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时15分 ~ 04时12分]"
+        },
+        {
+          "title": "多国央行明年恐纷纷转向加息！降息的美联储反而将成为“异类”？",
+          "url": "https://www.cls.cn/detail/2224839",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时17分 ~ 17时16分]"
+        },
+        {
+          "title": "特朗普放话：降息将是新任美联储主席的试金石",
+          "url": "https://www.cls.cn/detail/2224581",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时12分 ~ 08时55分]"
+        },
+        {
+          "title": "欧洲央行行长拉加德：欧元区经济相当接近潜力。",
+          "url": "https://wallstreetcn.com/livenews/3018415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时11分 ~ 20时23分]"
+        },
+        {
+          "title": "Carlyle的CFO Redett：（预计）美联储将继续降息。",
+          "url": "https://wallstreetcn.com/livenews/3017808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时14分 ~ 02时15分]"
+        },
+        {
+          "title": "美国劳工统计局（BLS）：12月消费者物价指数（CPI）将于1月13日发布。",
+          "url": "https://wallstreetcn.com/livenews/3017807",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时14分 ~ 02时15分]"
+        },
+        {
+          "title": "交易员对欧洲央行收紧货币政策的押注升温，料2026年加息概率50%。",
+          "url": "https://wallstreetcn.com/livenews/3018342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 18时14分]"
+        },
+        {
+          "title": "金十期货整理 | 多数机构指出市场对美联储降息预期基本交易结束，后市需关注哪方面进展？",
+          "url": "https://flash.jin10.com/detail/20251210112304275800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 12时25分]"
+        },
+        {
+          "title": "英国央行预计预算案将降低通胀率 或为下周利率决策铺路",
+          "url": "https://wallstreetcn.com/livenews/3018113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 12时25分]"
+        },
+        {
+          "title": "交易员不再预期欧洲央行2026年会降息。",
+          "url": "https://wallstreetcn.com/livenews/3018335",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 18时14分]"
+        },
+        {
+          "title": "瑞典央行：瑞典央行已决定2026年黄金和外汇储备的战略配置保持不变。",
+          "url": "https://flash.jin10.com/detail/20251210173200560800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
+          "title": "周二（12月9日），降息赢家指数跌0.37%，报97.42点。 “特朗普关税输家”指数涨0.38%，散户抱团概念股指数/迷因股（meme stock）指数涨0.83%。",
+          "url": "https://wallstreetcn.com/livenews/3017890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "加拿大央行决议前瞻：料将按兵不动，声明或明确宽松周期结束",
+          "url": "https://flash.jin10.com/detail/20251210164200599800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        },
+        {
+          "title": "机构首席投资官：不管本周是否降息 美联储宽松倾向应会保持",
+          "url": "https://flash.jin10.com/detail/20251210144026701800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时16分"
+        },
+        {
+          "title": "交易员不再预期欧洲央行在2026年会降息。",
+          "url": "https://flash.jin10.com/detail/20251210164005141800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        },
+        {
+          "title": "英国央行副行长隆巴尔代利：通胀上行风险犹存，应放慢降息步伐",
+          "url": "https://flash.jin10.com/detail/20251209230934669800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "三菱日联高管Seki：预计日本央行将大约每六个月上调一次利率，每次上调25个基点。日本央行需及早且稳步地迈向货币正常化，以防范恶性循环。",
+          "url": "https://flash.jin10.com/detail/20251210064628827800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "欧洲央行管委兼法国央行行长Villeroy：没有理由在短期内提高欧洲央行的利率。 欧洲央行必须在未来的会议中保持灵活。 下周将欧洲央行利率保持在现有水平是明智的。",
+          "url": "https://wallstreetcn.com/livenews/3018278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "欧洲央行管委维勒鲁瓦：近期没有加息的理由",
+          "url": "https://flash.jin10.com/detail/20251210162505770800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        },
+        {
+          "title": "英国央行货币政策委员丁格拉：预算的整体影响不大，但方向正确。",
+          "url": "https://flash.jin10.com/detail/20251209230632525800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "美国劳工统计局：12月消费者物价指数（CPI）将于1月13日发布。",
+          "url": "https://flash.jin10.com/detail/20251210002522878800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "波兰央行官员利特维纽克：降息空间微乎其微。",
+          "url": "https://flash.jin10.com/detail/20251210141926823800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时16分"
+        },
+        {
+          "title": "英国央行官员Ramsden：职位申请人数增加，薪资压力放缓。",
+          "url": "https://wallstreetcn.com/livenews/3017797",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "白宫国家经济委员会主任凯文·哈塞特：现在降息是正确的举措。降息还有很大空间。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3017965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "英国央行行长贝利将于十分钟后发表讲话。",
+          "url": "https://flash.jin10.com/detail/20251210183500000800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时11分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：欧盟理事会拟议的对乌克兰方案最接近符合国际规则。",
+          "url": "https://flash.jin10.com/detail/20251210191517400800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
+          "title": "英债价格普遍上涨，英国央行官员表态对降息预期构成支撑",
+          "url": "https://wallstreetcn.com/livenews/3017819",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时15分"
+        },
+        {
+          "title": "德国据悉承认希望渺茫 但仍全力角逐首位本国籍欧洲央行行长",
+          "url": "https://flash.jin10.com/detail/20251210132724469800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：支持乌克兰是我们的职责。",
+          "url": "https://flash.jin10.com/detail/20251210191456999800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
+          "title": "欧洲央行管委Simkus：数据显示通胀和GDP风险基本平衡。 利率在未来几次会议上或许可维持在2%。 通胀位于目标水平之际，没有必要调整利率。",
+          "url": "https://wallstreetcn.com/livenews/3018269",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "俄罗斯央行：所有可持续因素均指向2026年年度通胀将进一步放缓。",
+          "url": "https://flash.jin10.com/detail/20251210001617566800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "美联储降息预期推动铜价反弹",
+          "url": "https://flash.jin10.com/detail/20251210110244664800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时52分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：国防是欧盟联合融资的完美案例。",
+          "url": "https://flash.jin10.com/detail/20251210191302771800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
+          "title": "英国央行官员Lombardelli：预算会让通胀在2026年下降0.4%-0.5%。 更宽松的财政政策将推高GDP。",
+          "url": "https://wallstreetcn.com/livenews/3017770",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "俄罗斯央行：通胀风险占据主导。",
+          "url": "https://flash.jin10.com/detail/20251210001539691800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "据英国金融时报：德国承认角逐欧洲央行行长一职面临高门槛，但仍决心“积极参与”这场未有德国人胜任过的欧盟职位竞争。",
+          "url": "https://flash.jin10.com/detail/20251210132113741800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "欧洲央行管委维勒鲁瓦：欧洲央行在未来的会议必须保持灵活。",
+          "url": "https://flash.jin10.com/detail/20251210152852068800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：欧洲央行必须关注通胀，同时将经济纳入考量。",
+          "url": "https://flash.jin10.com/detail/20251210190808638800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
+          "title": "美联储本周降息25个基点的概率为87.6%",
+          "url": "https://flash.jin10.com/detail/20251210060636585800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "欧洲央行管委维勒鲁瓦：明智之举是将欧洲央行利率维持在当前水平。",
+          "url": "https://flash.jin10.com/detail/20251210152640922800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日有793亿元7天期逆回购到期，中国11月CPI；晚上有加拿大央行利率决议；明天凌晨有美联储利率决定。",
+          "url": "https://flash.jin10.com/detail/20251210075418287800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "法国央行：预计第四季度的季度增长率为0.2%。",
+          "url": "https://flash.jin10.com/detail/20251210030340476800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "花旗首席财务官预计美联储将于本周降息。",
+          "url": "https://flash.jin10.com/detail/20251210041259610800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时10分"
+        },
+        {
+          "title": "日本11月国内企业商品物价指数年率 2.7%，预期2.70%，前值2.70%。",
+          "url": "https://flash.jin10.com/detail/20251210075003663800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "美国10年期国债收益率短线从4.15%反弹至4.18%上方，在北京时间23:00发布美国职位空缺数据后刷新日高。 两年期美债收益率也从日低3.5628%附近拉升至3.6064%，刷新日高；“影子美联储主席”、白宫顾问哈塞特谈论美联储降息问题、自己对特朗普政策利率态度的看法并未带来“丝毫”波动。",
+          "url": "https://wallstreetcn.com/livenews/3017796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "日本11月国内企业商品物价指数月率 0.3%，预期0.30%，前值0.40%。",
+          "url": "https://flash.jin10.com/detail/20251210075003638800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "日本央行行长植田和男：截至9月底，日本央行持有的交易所交易基金未实现利润估计约为46万亿日元。",
+          "url": "https://flash.jin10.com/detail/20251210130715797800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "日本央行行长植田和男：截至9月底，日本央行持有的交易所交易基金市值估计约为83万亿日元。",
+          "url": "https://flash.jin10.com/detail/20251210130703877800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "日本11月国内企业商品物价指数同比 2.7%，预期 2.7%，前值 2.7%。",
+          "url": "https://wallstreetcn.com/livenews/3017952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "英国央行官员Mann：通胀顽固性一直都是我的关键看法。",
+          "url": "https://wallstreetcn.com/livenews/3017760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "日本11月国内企业商品物价指数环比 0.3%，预期 0.3%，前值 0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3017951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "提醒：英国央行官员们出席议会听证会。",
+          "url": "https://wallstreetcn.com/livenews/3017759",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 73,
+      "match_count": 74,
       "titles": [
         {
           "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
@@ -15,8 +880,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时54分 ~ 19时11分]"
+          "appearance_count": 16,
+          "time_info": "[08时54分 ~ 20时23分]"
         },
         {
           "title": "涨势远超黄金！白银史上首次站上60美元，发生了什么？",
@@ -30,8 +895,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时51分 ~ 19时11分]"
+          "appearance_count": 13,
+          "time_info": "[11时51分 ~ 20时23分]"
         },
         {
           "title": "派拉蒙计划以1084亿美元收购华纳",
@@ -89,6 +954,19 @@
           "time_info": "[07时22分 ~ 14时19分]"
         },
         {
+          "title": "中国贸易顺差破万亿美元",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E8%B4%B8%E6%98%93%E9%A1%BA%E5%B7%AE%E7%A0%B4%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时15分 ~ 20时23分]"
+        },
+        {
           "title": "美利率决议前市场谨慎，摩根大通拖累道指，白银突破60美元创新高，加密货币涨",
           "url": "https://wallstreetcn.com/articles/3760999",
           "source": "华尔街见闻",
@@ -143,19 +1021,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
-        },
-        {
-          "title": "中国贸易顺差破万亿美元",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E8%B4%B8%E6%98%93%E9%A1%BA%E5%B7%AE%E7%A0%B4%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时15分 ~ 19时11分]"
         },
         {
           "title": "美利率决议前市场谨慎，美股指集体低开，美债收益率高位回落，美元企稳，现货黄金重新站上4200美元",
@@ -233,17 +1098,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
-        },
-        {
-          "title": "宁德时代：拟注册发行不超过人民币100亿元（含100亿元）的债券。",
-          "url": "https://wallstreetcn.com/livenews/3018420",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时11分"
         },
         {
           "title": "周二（12月9日），韩元兑美元最终涨0.02%，报1469.62韩元。 日内交投于1472.40-1465.73韩元区间，北京时间14:50出现一波显著的拉升行情。",
@@ -330,6 +1184,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时25分 ~ 13时14分]"
+        },
+        {
+          "title": "宁德时代：拟注册发行不超过人民币100亿元（含100亿元）的债券。",
+          "url": "https://wallstreetcn.com/livenews/3018420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时11分 ~ 20时23分]"
         },
         {
           "title": "摩根大通资产管理寻求将8.4亿美元规模的多只市政债券基金转化为ETFs（交易所交易基金）。",
@@ -695,6 +1561,17 @@
           "time_info": "03时09分"
         },
         {
+          "title": "SpaceX 筹划上市，目标估值已达 1.5 万亿美元，如何评价 SpaceX 的商业前景？",
+          "url": "https://www.zhihu.com/question/1982027691034108583",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
           "title": "现货铂金上涨3%，至每盎司1692.10美元",
           "url": "https://flash.jin10.com/detail/20251210001222972800",
           "source": "金十数据",
@@ -862,827 +1739,8 @@
       ]
     },
     {
-      "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 71,
-      "titles": [
-        {
-          "title": "美联储传声筒：面对罕见分歧 鲍威尔明日可能“先降息再设限”",
-          "url": "https://www.cls.cn/detail/2224490",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 08时55分]"
-        },
-        {
-          "title": "美联储今夜降息无悬念！华尔街紧盯鲍威尔 这一表述或定调明年政策走向",
-          "url": "https://www.cls.cn/detail/2224813",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时47分 ~ 17时16分]"
-        },
-        {
-          "title": "美银：市场或已不信“鹰派降息”，哈塞特带来“买谣言，卖事实”交易机会",
-          "url": "https://wallstreetcn.com/articles/3760994",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时16分 ~ 14时19分]"
-        },
-        {
-          "title": "11月CPI同比上涨0.7%，为2024年3月份以来最高，PPI环比上涨0.1%",
-          "url": "https://www.cls.cn/detail/2224777",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7,
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时47分 ~ 18时14分]"
-        },
-        {
-          "title": "“影子联储主席”哈塞特：美联储有“充足空间”降息，那意味着降幅超过25基点",
-          "url": "https://wallstreetcn.com/articles/3761037",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[05时10分 ~ 19时11分]"
-        },
-        {
-          "title": "特朗普：降息是新美联储主席的试金石，可能通过调整关税降低部分商品价格",
-          "url": "https://wallstreetcn.com/articles/3761018",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时16分 ~ 19时11分]"
-        },
-        {
-          "title": "中国11月CPI同比上涨0.7%，创2024年3月来最高，PPI同比降幅略有扩大",
-          "url": "https://wallstreetcn.com/articles/3761060",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时15分 ~ 19时11分]"
-        },
-        {
-          "title": "日本央行行长植田和男称，美国经济经受住了特朗普关税的考验。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3017988",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "美国总统特朗普：股票市场和401(k)正在上涨，但对物价水平存在误解；实际上，价格正在大幅下跌。",
-          "url": "https://flash.jin10.com/detail/20251210083231703800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "哈塞特：美联储有充足空间大幅降息",
-          "url": "https://flash.jin10.com/detail/20251209234224868800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "韩国央行委员警告：不能对韩元贬值坐视不理",
-          "url": "https://flash.jin10.com/detail/20251210140446551800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "金十整理：预计美联储将“鹰式降息” 12月剧本没那么简单",
-          "url": "https://flash.jin10.com/detail/20251210154917384800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时17分"
-        },
-        {
-          "title": "交易员加大对欧洲央行收紧政策的押注，预计2026年加息的可能性为50%。",
-          "url": "https://flash.jin10.com/detail/20251210165042431800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时16分"
-        },
-        {
-          "title": "欧洲央行行长拉加德：欧洲央行必须关注通胀，同时将经济纳入考量。",
-          "url": "https://wallstreetcn.com/livenews/3018422",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "英国央行副行长隆巴尔代利：英国央行不得不裁减部分员工。",
-          "url": "https://flash.jin10.com/detail/20251209234154850800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "金十整理：美联储2025年票委近期观点一览 超半数并不着急降息",
-          "url": "https://flash.jin10.com/detail/20251210140346606800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "韩国央行货币政策委员：面对韩元贬值“不能坐视不理”。",
-          "url": "https://flash.jin10.com/detail/20251210140222790800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "日本首相高市早苗：期待日本央行实施恰当的货币政策，以可持续、稳定地实现其价格目标，并与政府密切合作。",
-          "url": "https://flash.jin10.com/detail/20251210164800564800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时16分"
-        },
-        {
-          "title": "欧洲央行行长拉加德：欧元区经济已相当接近潜在水平。",
-          "url": "https://flash.jin10.com/detail/20251210185803838800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "法国央行月报：虽然预算存疑，但预计经济将在年底增长。",
-          "url": "https://wallstreetcn.com/livenews/3017856",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时09分 ~ 05时10分]"
-        },
-        {
-          "title": "加皇银行：预计美联储本次会议将降息 随后可能“无需进一步降息”",
-          "url": "https://flash.jin10.com/detail/20251210113515737800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时52分 ~ 13时14分]"
-        },
-        {
-          "title": "日本央行行长植田和男表示，截至9月末，日本央行持有的ETF市值预计约为83万亿日元。 截至9月末，日本央行所持ETF的未实现盈利规模预计约为46万亿日元。",
-          "url": "https://wallstreetcn.com/livenews/3018169",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时14分 ~ 14时19分]"
-        },
-        {
-          "title": "欧洲央行管委Panetta：国际货币系统可能会从美元转向好几种现有的全球性货币。",
-          "url": "https://wallstreetcn.com/livenews/3017813",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 02时15分]"
-        },
-        {
-          "title": "“影子美联储主席”哈塞特：美联储有“充足空间”降息，那意味着降幅超过25基点",
-          "url": "https://wallstreetcn.com/articles/3761037",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时15分 ~ 04时12分]"
-        },
-        {
-          "title": "多国央行明年恐纷纷转向加息！降息的美联储反而将成为“异类”？",
-          "url": "https://www.cls.cn/detail/2224839",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时17分 ~ 17时16分]"
-        },
-        {
-          "title": "特朗普放话：降息将是新任美联储主席的试金石",
-          "url": "https://www.cls.cn/detail/2224581",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时12分 ~ 08时55分]"
-        },
-        {
-          "title": "Carlyle的CFO Redett：（预计）美联储将继续降息。",
-          "url": "https://wallstreetcn.com/livenews/3017808",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 02时15分]"
-        },
-        {
-          "title": "美国劳工统计局（BLS）：12月消费者物价指数（CPI）将于1月13日发布。",
-          "url": "https://wallstreetcn.com/livenews/3017807",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 02时15分]"
-        },
-        {
-          "title": "交易员对欧洲央行收紧货币政策的押注升温，料2026年加息概率50%。",
-          "url": "https://wallstreetcn.com/livenews/3018342",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时16分 ~ 18时14分]"
-        },
-        {
-          "title": "金十期货整理 | 多数机构指出市场对美联储降息预期基本交易结束，后市需关注哪方面进展？",
-          "url": "https://flash.jin10.com/detail/20251210112304275800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 12时25分]"
-        },
-        {
-          "title": "英国央行预计预算案将降低通胀率 或为下周利率决策铺路",
-          "url": "https://wallstreetcn.com/livenews/3018113",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 12时25分]"
-        },
-        {
-          "title": "交易员不再预期欧洲央行2026年会降息。",
-          "url": "https://wallstreetcn.com/livenews/3018335",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时16分 ~ 18时14分]"
-        },
-        {
-          "title": "瑞典央行：瑞典央行已决定2026年黄金和外汇储备的战略配置保持不变。",
-          "url": "https://flash.jin10.com/detail/20251210173200560800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
-          "title": "周二（12月9日），降息赢家指数跌0.37%，报97.42点。 “特朗普关税输家”指数涨0.38%，散户抱团概念股指数/迷因股（meme stock）指数涨0.83%。",
-          "url": "https://wallstreetcn.com/livenews/3017890",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "欧洲央行行长拉加德：欧元区经济相当接近潜力。",
-          "url": "https://wallstreetcn.com/livenews/3018415",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "加拿大央行决议前瞻：料将按兵不动，声明或明确宽松周期结束",
-          "url": "https://flash.jin10.com/detail/20251210164200599800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时16分"
-        },
-        {
-          "title": "机构首席投资官：不管本周是否降息 美联储宽松倾向应会保持",
-          "url": "https://flash.jin10.com/detail/20251210144026701800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时16分"
-        },
-        {
-          "title": "交易员不再预期欧洲央行在2026年会降息。",
-          "url": "https://flash.jin10.com/detail/20251210164005141800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时16分"
-        },
-        {
-          "title": "英国央行副行长隆巴尔代利：通胀上行风险犹存，应放慢降息步伐",
-          "url": "https://flash.jin10.com/detail/20251209230934669800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "三菱日联高管Seki：预计日本央行将大约每六个月上调一次利率，每次上调25个基点。日本央行需及早且稳步地迈向货币正常化，以防范恶性循环。",
-          "url": "https://flash.jin10.com/detail/20251210064628827800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "欧洲央行管委兼法国央行行长Villeroy：没有理由在短期内提高欧洲央行的利率。 欧洲央行必须在未来的会议中保持灵活。 下周将欧洲央行利率保持在现有水平是明智的。",
-          "url": "https://wallstreetcn.com/livenews/3018278",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时17分"
-        },
-        {
-          "title": "欧洲央行管委维勒鲁瓦：近期没有加息的理由",
-          "url": "https://flash.jin10.com/detail/20251210162505770800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时16分"
-        },
-        {
-          "title": "英国央行货币政策委员丁格拉：预算的整体影响不大，但方向正确。",
-          "url": "https://flash.jin10.com/detail/20251209230632525800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "美国劳工统计局：12月消费者物价指数（CPI）将于1月13日发布。",
-          "url": "https://flash.jin10.com/detail/20251210002522878800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "波兰央行官员利特维纽克：降息空间微乎其微。",
-          "url": "https://flash.jin10.com/detail/20251210141926823800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时16分"
-        },
-        {
-          "title": "英国央行官员Ramsden：职位申请人数增加，薪资压力放缓。",
-          "url": "https://wallstreetcn.com/livenews/3017797",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "白宫国家经济委员会主任凯文·哈塞特：现在降息是正确的举措。降息还有很大空间。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3017965",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "英国央行行长贝利将于十分钟后发表讲话。",
-          "url": "https://flash.jin10.com/detail/20251210183500000800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "英债价格普遍上涨，英国央行官员表态对降息预期构成支撑",
-          "url": "https://wallstreetcn.com/livenews/3017819",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时15分"
-        },
-        {
-          "title": "德国据悉承认希望渺茫 但仍全力角逐首位本国籍欧洲央行行长",
-          "url": "https://flash.jin10.com/detail/20251210132724469800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "欧洲央行管委Simkus：数据显示通胀和GDP风险基本平衡。 利率在未来几次会议上或许可维持在2%。 通胀位于目标水平之际，没有必要调整利率。",
-          "url": "https://wallstreetcn.com/livenews/3018269",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时17分"
-        },
-        {
-          "title": "俄罗斯央行：所有可持续因素均指向2026年年度通胀将进一步放缓。",
-          "url": "https://flash.jin10.com/detail/20251210001617566800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "美联储降息预期推动铜价反弹",
-          "url": "https://flash.jin10.com/detail/20251210110244664800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时52分"
-        },
-        {
-          "title": "英国央行官员Lombardelli：预算会让通胀在2026年下降0.4%-0.5%。 更宽松的财政政策将推高GDP。",
-          "url": "https://wallstreetcn.com/livenews/3017770",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "俄罗斯央行：通胀风险占据主导。",
-          "url": "https://flash.jin10.com/detail/20251210001539691800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "据英国金融时报：德国承认角逐欧洲央行行长一职面临高门槛，但仍决心“积极参与”这场未有德国人胜任过的欧盟职位竞争。",
-          "url": "https://flash.jin10.com/detail/20251210132113741800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "欧洲央行管委维勒鲁瓦：欧洲央行在未来的会议必须保持灵活。",
-          "url": "https://flash.jin10.com/detail/20251210152852068800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时17分"
-        },
-        {
-          "title": "美联储本周降息25个基点的概率为87.6%",
-          "url": "https://flash.jin10.com/detail/20251210060636585800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "欧洲央行管委维勒鲁瓦：明智之举是将欧洲央行利率维持在当前水平。",
-          "url": "https://flash.jin10.com/detail/20251210152640922800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时17分"
-        },
-        {
-          "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日有793亿元7天期逆回购到期，中国11月CPI；晚上有加拿大央行利率决议；明天凌晨有美联储利率决定。",
-          "url": "https://flash.jin10.com/detail/20251210075418287800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "法国央行：预计第四季度的季度增长率为0.2%。",
-          "url": "https://flash.jin10.com/detail/20251210030340476800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时12分"
-        },
-        {
-          "title": "花旗首席财务官预计美联储将于本周降息。",
-          "url": "https://flash.jin10.com/detail/20251210041259610800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时10分"
-        },
-        {
-          "title": "日本11月国内企业商品物价指数年率 2.7%，预期2.70%，前值2.70%。",
-          "url": "https://flash.jin10.com/detail/20251210075003663800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "美国10年期国债收益率短线从4.15%反弹至4.18%上方，在北京时间23:00发布美国职位空缺数据后刷新日高。 两年期美债收益率也从日低3.5628%附近拉升至3.6064%，刷新日高；“影子美联储主席”、白宫顾问哈塞特谈论美联储降息问题、自己对特朗普政策利率态度的看法并未带来“丝毫”波动。",
-          "url": "https://wallstreetcn.com/livenews/3017796",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "日本11月国内企业商品物价指数月率 0.3%，预期0.30%，前值0.40%。",
-          "url": "https://flash.jin10.com/detail/20251210075003638800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "日本央行行长植田和男：截至9月底，日本央行持有的交易所交易基金未实现利润估计约为46万亿日元。",
-          "url": "https://flash.jin10.com/detail/20251210130715797800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "日本央行行长植田和男：截至9月底，日本央行持有的交易所交易基金市值估计约为83万亿日元。",
-          "url": "https://flash.jin10.com/detail/20251210130703877800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "日本11月国内企业商品物价指数同比 2.7%，预期 2.7%，前值 2.7%。",
-          "url": "https://wallstreetcn.com/livenews/3017952",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "英国央行官员Mann：通胀顽固性一直都是我的关键看法。",
-          "url": "https://wallstreetcn.com/livenews/3017760",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "日本11月国内企业商品物价指数环比 0.3%，预期 0.3%，前值 0.4%。",
-          "url": "https://wallstreetcn.com/livenews/3017951",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "提醒：英国央行官员们出席议会听证会。",
-          "url": "https://wallstreetcn.com/livenews/3017759",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        }
-      ]
-    },
-    {
       "keyword_group": "人工智能 AI",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "掀桌！豆包被“围攻”后，智谱把手机Agent开源，让人人皆可打造AI手机",
@@ -1696,6 +1754,20 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时16分 ~ 11时52分]"
+        },
+        {
+          "title": "摩尔线程联创李丰曾推出「马勒戈币（MGD）」，后更名为「羊驼币」，他是怎么从币圈辗转到 AI 圈的？",
+          "url": "https://www.zhihu.com/question/1981300590727356751",
+          "source": "知乎",
+          "ranks": [
+            8,
+            5,
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时15分 ~ 20时23分]"
         },
         {
           "title": "美批准向中国出售英伟达H200人工智能芯片，外交部回应",
@@ -1741,20 +1813,6 @@
           "time_info": "[00时16分 ~ 08时55分]"
         },
         {
-          "title": "摩尔线程联创李丰曾推出「马勒戈币（MGD）」，后更名为「羊驼币」，他是怎么从币圈辗转到 AI 圈的？",
-          "url": "https://www.zhihu.com/question/1981300590727356751",
-          "source": "知乎",
-          "ranks": [
-            8,
-            5,
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时15分 ~ 19时11分]"
-        },
-        {
           "title": "四川“十五五”规划建议：加快发展人工智能、低空经济等新兴产业",
           "url": "https://www.cls.cn/detail/2224818",
           "source": "财联社热门",
@@ -1781,6 +1839,20 @@
           "time_info": "[00时16分 ~ 07时22分]"
         },
         {
+          "title": "罗永浩闫俊杰谈中美AI发展差异",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BD%97%E6%B0%B8%E6%B5%A9%E9%97%AB%E4%BF%8A%E6%9D%B0%E8%B0%88%E4%B8%AD%E7%BE%8EAI%E5%8F%91%E5%B1%95%E5%B7%AE%E5%BC%82",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            21,
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时17分 ~ 20时23分]"
+        },
+        {
           "title": "【明日主题前瞻】一天一个价，存储芯片或迎以AI驱动的新一轮景气周期",
           "url": "https://www.cls.cn/detail/2224154",
           "source": "财联社热门",
@@ -1791,19 +1863,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时13分 ~ 06时12分]"
-        },
-        {
-          "title": "罗永浩闫俊杰谈中美AI发展差异",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BD%97%E6%B0%B8%E6%B5%A9%E9%97%AB%E4%BF%8A%E6%9D%B0%E8%B0%88%E4%B8%AD%E7%BE%8EAI%E5%8F%91%E5%B1%95%E5%B7%AE%E5%BC%82",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            21,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时17分 ~ 19时11分]"
         },
         {
           "title": "智谱开源“会操作手机的AI”",
@@ -1915,6 +1974,17 @@
           "time_info": "07时22分"
         },
         {
+          "title": "白银首破60美元大关之际 行业重磅报告揭示：AI是关键推手之一",
+          "url": "https://www.cls.cn/detail/2225488",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
           "title": "OpenAI：Denise Dresser将加入OpenAI担任首席营收官。",
           "url": "https://flash.jin10.com/detail/20251210024251829800",
           "source": "金十数据",
@@ -1924,6 +1994,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "导演陆川：将与MiniMax联合开发AI漫剧项目，合作落地院线电影和剧集",
+          "url": "https://wallstreetcn.com/livenews/3018434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "四川“十五五”规划建议：加快发展人工智能、低空经济、智能网联汽车、核医疗等新兴产业",
@@ -1954,7 +2035,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
         },
@@ -2024,8 +2105,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时15分 ~ 19时11分]"
+          "appearance_count": 5,
+          "time_info": "[17时15分 ~ 20时23分]"
         },
         {
           "title": "市场消息：英伟达(NVDA.O)位置验证软件将率先应用于Blackwell芯片。",
@@ -2075,6 +2156,17 @@
           "time_info": "[11时52分 ~ 13时14分]"
         },
         {
+          "title": "英伟达被曝开发“芯片定位”技术",
+          "url": "https://news.ifeng.com/c/8oyQ1CN6GlB",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时11分 ~ 20时23分]"
+        },
+        {
           "title": "中方回应美将对华出售英伟达H200芯片",
           "url": "https://www.toutiao.com/trending/7581381032269021211/",
           "source": "今日头条",
@@ -2120,17 +2212,6 @@
           "time_info": "14时19分"
         },
         {
-          "title": "英伟达被曝开发“芯片定位”技术",
-          "url": "https://news.ifeng.com/c/8oyQ1CN6GlB",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
           "title": "韩国考虑投资31亿美元建立芯片代工厂 以发展本土产业",
           "url": "https://wallstreetcn.com/livenews/3018270",
           "source": "华尔街见闻-快讯",
@@ -2167,7 +2248,7 @@
     },
     {
       "keyword_group": "房地产 房价 楼市 LPR",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "「住宅限高令」密集出台，最高「80 米、 26 层」成大趋势，如何看待这一转变？将怎样影响房地产模式？",
@@ -2180,8 +2261,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时54分 ~ 19时11分]"
+          "appearance_count": 16,
+          "time_info": "[08时54分 ~ 20时23分]"
         },
         {
           "title": "金十数据整理：每日房地产行业动态汇总（2025-12-10）",
@@ -2195,6 +2276,18 @@
           "time_info": "16时17分"
         },
         {
+          "title": "A股探底回升，房地产掀涨停潮，万科股债齐升，零售股全天强势，摩尔线程涨超15%，港股收涨，有色大涨",
+          "url": "https://wallstreetcn.com/articles/3761064",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时15分 ~ 20时23分]"
+        },
+        {
           "title": "A股收评：物业房地产等概念走强",
           "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E7%89%A9%E4%B8%9A%E6%88%BF%E5%9C%B0%E4%BA%A7%E7%AD%89%E6%A6%82%E5%BF%B5%E8%B5%B0%E5%BC%BA",
           "source": "百度热搜",
@@ -2204,17 +2297,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时15分 ~ 17时16分]"
-        },
-        {
-          "title": "A股探底回升，房地产掀涨停潮，万科股债齐升，零售股全天强势，摩尔线程涨超15%，港股收涨，有色大涨",
-          "url": "https://wallstreetcn.com/articles/3761064",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时15分 ~ 19时11分]"
         },
         {
           "title": "A股港股午后集体拉升 房地产板块涨幅居前",
@@ -2296,6 +2378,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
+        },
+        {
+          "title": "挪威主权财富基金房地产负责人表示，目前没有积极计划直接投资数据中心。",
+          "url": "https://flash.jin10.com/detail/20251210190252760800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         }
       ]
     },
@@ -2310,11 +2403,12 @@
           "ranks": [
             9,
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时15分 ~ 19时11分]"
+          "appearance_count": 8,
+          "time_info": "[15时15分 ~ 20时23分]"
         },
         {
           "title": "小米将承担门店调整损失约2726万元",
@@ -2523,7 +2617,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
         }
@@ -2547,6 +2641,19 @@
           "time_info": "[11时51分 ~ 17时16分]"
         },
         {
+          "title": "王传福回应比亚迪国内销量下滑，他称后面会有重磅技术发布，这会是怎样的技术？能否扭转其在国内的颓势？",
+          "url": "https://www.zhihu.com/question/1981134593068390187",
+          "source": "知乎",
+          "ranks": [
+            13,
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时14分 ~ 20时23分]"
+        },
+        {
           "title": "特斯拉CEO埃隆·马斯克：欧盟委员会应该解散，由民选机构取代，欧盟主席也应该由直接选举产生。目前的体制是官僚统治，而非民主。",
           "url": "https://flash.jin10.com/detail/20251210025325726800",
           "source": "金十数据",
@@ -2557,18 +2664,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时09分 ~ 04时12分]"
-        },
-        {
-          "title": "王传福回应比亚迪国内销量下滑，他称后面会有重磅技术发布，这会是怎样的技术？能否扭转其在国内的颓势？",
-          "url": "https://www.zhihu.com/question/1981134593068390187",
-          "source": "知乎",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时14分 ~ 19时11分]"
         },
         {
           "title": "特斯拉CEO埃隆·马斯克：人工智能的竞争是有史以来最顶尖激烈的较量。硬件的部署速度，尤其是机器人领域，是关键所在。",
@@ -2618,7 +2713,7 @@
     },
     {
       "keyword_group": "就业 裁员 招聘",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "利率决议前夕“小非农”ADP回暖，周均新增就业4750人",
@@ -2629,8 +2724,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时54分 ~ 19时11分]"
+          "appearance_count": 16,
+          "time_info": "[08时54分 ~ 20时23分]"
         },
         {
           "title": "佳能员工爆冲机场含泪谢主裁员",
@@ -2675,9 +2770,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
+        },
+        {
+          "title": "新华视评·关注新就业群体｜算法不能只算“效率”，更要算“权利”",
+          "url": "https://wallstreetcn.com/livenews/3018428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "美国劳工统计局：12月实际收入数据将于1月13日公布，就业状况报告将于1月9日公布。",
@@ -2790,6 +2896,17 @@
           "time_info": "[00时16分 ~ 07时22分]"
         },
         {
+          "title": "中国时速350公里高铁最长隧道贯通",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%97%B6%E9%80%9F350%E5%85%AC%E9%87%8C%E9%AB%98%E9%93%81%E6%9C%80%E9%95%BF%E9%9A%A7%E9%81%93%E8%B4%AF%E9%80%9A",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时11分 ~ 20时23分]"
+        },
+        {
           "title": "高铁坐过站如何正确处理",
           "url": "https://www.toutiao.com/trending/7581455708601909290/",
           "source": "今日头条",
@@ -2802,17 +2919,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时16分 ~ 08时55分]"
-        },
-        {
-          "title": "中国时速350公里高铁最长隧道贯通",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%97%B6%E9%80%9F350%E5%85%AC%E9%87%8C%E9%AB%98%E9%93%81%E6%9C%80%E9%95%BF%E9%9A%A7%E9%81%93%E8%B4%AF%E9%80%9A",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时11分"
         },
         {
           "title": "动物城闪电为何开车不坐地铁",
@@ -2840,7 +2946,7 @@
     },
     {
       "keyword_group": "新能源汽车 电动汽车 智能驾驶",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "“免费捡菜”、充“劣质电”致新能源汽车自燃等均为谣言，多部门坚决整治",
@@ -2875,6 +2981,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "英国财政大臣里夫斯：我们没有进一步提高电动汽车税的计划，在实现向电动汽车转型之前，不会采取这一举措。",
+          "url": "https://flash.jin10.com/detail/20251210193141500800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "新能源汽车购置税政策调整在即，车市消费热度持续上升",
@@ -3034,11 +3151,12 @@
           "url": "https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E5%87%86%E8%80%83%E8%AF%81%20%E9%A2%9C%E6%96%87%E5%AD%97&t=31&band_rank=16&Refer=top",
           "source": "微博",
           "ranks": [
-            16
+            16,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时11分 ~ 20时23分]"
         }
       ]
     },
@@ -3059,11 +3177,12 @@
             22,
             23,
             24,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时16分 ~ 19时11分]"
+          "appearance_count": 25,
+          "time_info": "[00时16分 ~ 20时23分]"
         }
       ]
     },
