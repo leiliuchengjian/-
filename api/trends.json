@@ -1,12 +1,35 @@
 {
-  "generated_at": "2025-12-11T01:15:47.094262+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2025-12-11T02:19:03.311050+08:00",
+  "total_titles_processed": 450,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 20,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "今夜美联储决议“剧本”：决议降息，鲍威尔“鹰派讲话”，哈塞特、贝森特“鸽派对冲”？",
+          "url": "https://wallstreetcn.com/articles/3760887",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 02时19分]"
+        },
+        {
+          "title": "欧洲央行管委Makhlouf：“相信”中期通胀将处于2%。",
+          "url": "https://wallstreetcn.com/livenews/3018577",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        },
         {
           "title": "加拿大央行行长麦克勒姆：我们确实需要实现贸易多元化。",
           "url": "https://flash.jin10.com/detail/20251211000505368800",
@@ -19,16 +42,28 @@
           "time_info": "00时17分"
         },
         {
+          "title": "欧洲央行管委马赫鲁夫：“有信心”中期通胀将稳定在2%。",
+          "url": "https://flash.jin10.com/detail/20251211020034287800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        },
+        {
           "title": "加拿大央行行长Macklem：我们的确需要将贸易多样化。",
           "url": "https://wallstreetcn.com/livenews/3018554",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时19分]"
         },
         {
           "title": "俄罗斯11月CPI环比上升0.42%，预期上升0.50%。 11月CPI同比上升6.64%，预期上升6.76%。 11月核心CPI环比上升0.32%，同比上升6.12%。 12月8日当周CPI周环比上升0.05%，2025年迄今累计上升5.31%。",
@@ -36,34 +71,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            15
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时15分]"
-        },
-        {
-          "title": "今夜美联储决议“剧本”：决议降息，鲍威尔“鹰派讲话”，哈塞特、贝森特“鸽派对冲”？",
-          "url": "https://wallstreetcn.com/articles/3760887",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时15分]"
-        },
-        {
-          "title": "加拿大央行行长Macklem：美国政府关门事件造成缺乏标准的出口数据，加重后期修正的风险。",
-          "url": "https://wallstreetcn.com/livenews/3018548",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时19分]"
         },
         {
           "title": "11月份我国CPI同比上涨0.7%",
@@ -73,8 +86,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 02时19分]"
         },
         {
           "title": "全球长债收益率飙升至16年新高，市场押注全球降息周期即将终结",
@@ -84,8 +97,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 02时19分]"
         },
         {
           "title": "中国11月CPI同比上涨0.7%，创2024年3月来最高，PPI同比降幅略有扩大",
@@ -95,8 +108,21 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 02时19分]"
+        },
+        {
+          "title": "加拿大央行行长Macklem：美国政府关门事件造成缺乏标准的出口数据，加重后期修正的风险。",
+          "url": "https://wallstreetcn.com/livenews/3018548",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时19分]"
         },
         {
           "title": "加拿大央行行长Macklem：近期就业数据还没有改变央行对经济前景的看法。",
@@ -104,11 +130,35 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            21
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时19分]"
+        },
+        {
+          "title": "加拿大央行高级副行长Rogers：央行在住房市场看到“更好的平衡”。 预计（住房）市场的高价状态将继续出现修正。 在地区住房市场，仍然存在一定程度上的失衡问题。",
+          "url": "https://wallstreetcn.com/livenews/3018556",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时15分]"
+          "time_info": "[01时15分 ~ 02时19分]"
+        },
+        {
+          "title": "美联储降息预期升温",
+          "url": "https://www.toutiao.com/trending/7582206018617085481/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 02时19分]"
         },
         {
           "title": "加拿大央行行长麦克勒姆：央行预计经济闲置产能将“缓慢”得到消化。",
@@ -122,15 +172,26 @@
           "time_info": "00时17分"
         },
         {
-          "title": "加拿大央行高级副行长Rogers：央行在住房市场看到“更好的平衡”。 预计（住房）市场的高价状态将继续出现修正。 在地区住房市场，仍然存在一定程度上的失衡问题。",
-          "url": "https://wallstreetcn.com/livenews/3018556",
-          "source": "华尔街见闻-快讯",
+          "title": "机构：华尔街预计美联储将采取“鹰派降息”",
+          "url": "https://flash.jin10.com/detail/20251211015527274800",
+          "source": "金十数据",
           "ranks": [
-            11
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时15分"
+          "time_info": "02时19分"
+        },
+        {
+          "title": "瑞银：美联储即将到来的降息可能会提振股市",
+          "url": "https://flash.jin10.com/detail/20251211015042966800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时19分"
         },
         {
           "title": "加拿大央行行长麦克勒姆：第三季度GDP数据表明产出缺口正在缩小。",
@@ -205,7 +266,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
         },
@@ -227,7 +288,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
         }
@@ -235,18 +296,19 @@
     },
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
           "url": "https://wallstreetcn.com/articles/3760999",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 02时19分]"
         },
         {
           "title": "涨势远超黄金！白银史上首次站上60美元，发生了什么？",
@@ -256,8 +318,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 02时19分]"
         },
         {
           "title": "中国贸易顺差破万亿美元",
@@ -268,8 +330,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 02时19分]"
         },
         {
           "title": "美元指数DXY向下触及99，日内跌0.24%。",
@@ -278,9 +340,42 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "LME期铜收涨70美元，报11556美元/吨。 LME期铝收涨10美元，报2867美元/吨。 LME期锌收跌8美元，报3082美元/吨。 LME期铅收涨2美元，报1980美元/吨。 LME期镍收跌82美元，报14652美元/吨。 LME期锡收涨146美元，报4004美元/吨。 LME期钴收涨570美元，报52790美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3018575",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        },
+        {
+          "title": "2025 年 1-11 月贸易顺差突破 1 万亿美元创历史新高，对美进出口跌幅持续扩大，如果看待这一趋势？",
+          "url": "https://www.zhihu.com/question/1981351408461713790",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 02时19分]"
+        },
+        {
+          "title": "美元兑瑞郎USD/CHF日内走低0.50%，现报0.8021。",
+          "url": "https://flash.jin10.com/detail/20251211015244873800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时19分"
         },
         {
           "title": "SpaceX若以$1.5万亿美元估值上市马斯克财富将翻倍",
@@ -311,15 +406,152 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
         }
       ]
     },
     {
+      "keyword_group": "人工智能 AI",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "白银首破60美元大关之际 行业重磅报告揭示：AI是关键推手之一",
+          "url": "https://www.cls.cn/detail/2225488",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 02时19分]"
+        },
+        {
+          "title": "Meta转向！扎克伯格亲自挂帅，引入阿里Qwen训练，从开源走向盈利型闭源AI",
+          "url": "https://wallstreetcn.com/articles/3761127",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 02时19分]"
+        },
+        {
+          "title": "Blue Owl Capital高管Craig Packer：数据中心是一个“实实在在地具有吸引力的领域”。 银行业利用SRTs（重大风险转移）来管控数据中心风险，这样做是“睿智的”。 零售产品的资金流入偏高。 软件（在投资组合中的表现）是本公司表现“最强”的一个方面。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3018538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 01时15分]"
+        },
+        {
+          "title": "罗永浩闫俊杰谈中美AI发展差异",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BD%97%E6%B0%B8%E6%B5%A9%E9%97%AB%E4%BF%8A%E6%9D%B0%E8%B0%88%E4%B8%AD%E7%BE%8EAI%E5%8F%91%E5%B1%95%E5%B7%AE%E5%BC%82",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 02时19分]"
+        },
+        {
+          "title": "黑石集团总裁：企业对面临人工智能颠覆风险的业务持谨慎态度。",
+          "url": "https://flash.jin10.com/detail/20251211013151029800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：将把Gemini 3引入Stitch——我们的实验性AI驱动设计工具。",
+          "url": "https://flash.jin10.com/detail/20251211012928783800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 iPhone",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "苹果CEO库克与美国国会山成员们讨论智能手机关于用户/机主年龄的问题。 库克认为，苹果主张的年龄要求意在保护儿童。（PunchBowl）",
+          "url": "https://wallstreetcn.com/livenews/3018572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        },
+        {
+          "title": "苹果公司CEO库克被看到出现在美国国会山。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3018552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时19分]"
+        },
+        {
+          "title": "市场消息：苹果(AAPL.O)CEO蒂姆·库克被看到现身美国国会。",
+          "url": "https://flash.jin10.com/detail/20251211000305160800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时17分"
+        },
+        {
+          "title": "据Punchbowl：苹果(AAPL.O)CEO库克力推苹果的年龄分级方法，称其有助于保护儿童。",
+          "url": "https://flash.jin10.com/detail/20251211011343878800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        },
+        {
+          "title": "据Punchbowl：苹果(AAPL.O)公司首席执行官与立法者讨论了智能手机（使用）年龄规则。",
+          "url": "https://flash.jin10.com/detail/20251211011231769800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "外媒称中方正考虑限制获取英伟达H200芯片，外交部回应",
@@ -329,8 +561,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 02时19分]"
         },
         {
           "title": "英伟达被曝开发“芯片定位”技术",
@@ -340,8 +572,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 02时19分]"
+        },
+        {
+          "title": "英伟达被曝开发“芯片定位”技术",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%A2%AB%E6%9B%9D%E5%BC%80%E5%8F%91%E2%80%9C%E8%8A%AF%E7%89%87%E5%AE%9A%E4%BD%8D%E2%80%9D%E6%8A%80%E6%9C%AF",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时15分 ~ 02时19分]"
         },
         {
           "title": "英特尔和AMD被指控“蓄意无视”，未能阻止其芯片流入俄制武器",
@@ -356,85 +600,15 @@
           "time_info": "[00时17分 ~ 01时15分]"
         },
         {
-          "title": "英伟达被曝开发“芯片定位”技术",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%A2%AB%E6%9B%9D%E5%BC%80%E5%8F%91%E2%80%9C%E8%8A%AF%E7%89%87%E5%AE%9A%E4%BD%8D%E2%80%9D%E6%8A%80%E6%9C%AF",
-          "source": "百度热搜",
+          "title": "黑石集团首席运营官：芯片、数据中心和电力领域的资本需求极其巨大，而我们恰恰具备独特的优势来抓住这一机遇。",
+          "url": "https://flash.jin10.com/detail/20251211013556775800",
+          "source": "金十数据",
           "ranks": [
-            28
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能 AI",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "白银首破60美元大关之际 行业重磅报告揭示：AI是关键推手之一",
-          "url": "https://www.cls.cn/detail/2225488",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时15分]"
-        },
-        {
-          "title": "Meta转向！扎克伯格亲自挂帅，引入阿里Qwen训练，从开源走向盈利型闭源AI",
-          "url": "https://wallstreetcn.com/articles/3761127",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时15分]"
-        },
-        {
-          "title": "Blue Owl Capital高管Craig Packer：数据中心是一个“实实在在地具有吸引力的领域”。 银行业利用SRTs（重大风险转移）来管控数据中心风险，这样做是“睿智的”。 零售产品的资金流入偏高。 软件（在投资组合中的表现）是本公司表现“最强”的一个方面。（彭博电视）",
-          "url": "https://wallstreetcn.com/livenews/3018538",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 iPhone",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "苹果公司CEO库克被看到出现在美国国会山。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3018552",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时15分]"
-        },
-        {
-          "title": "市场消息：苹果(AAPL.O)CEO蒂姆·库克被看到现身美国国会。",
-          "url": "https://flash.jin10.com/detail/20251211000305160800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "time_info": "02时19分"
         }
       ]
     },
@@ -451,8 +625,25 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 02时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "基础设施 基建 地铁 高铁",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "法院命令显示，美国法官驳回特朗普政府要求驳回加州对40亿美元高铁资金撤销案的动议。",
+          "url": "https://flash.jin10.com/detail/20251211015008871800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时19分"
         }
       ]
     },
@@ -469,8 +660,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 02时19分]"
         }
       ]
     }
