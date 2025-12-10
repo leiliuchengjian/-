@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T08:55:12.456636+08:00",
-  "total_titles_processed": 889,
+  "generated_at": "2025-12-10T10:47:33.398599+08:00",
+  "total_titles_processed": 1025,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 57,
+      "match_count": 61,
       "titles": [
         {
           "title": "派拉蒙计划以1084亿美元收购华纳",
@@ -18,11 +18,12 @@
             15,
             9,
             21,
-            3
+            3,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 08时55分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 10时47分]"
         },
         {
           "title": "美利率决议前市场谨慎，劳动力数据提振美股上涨，现货白银突破60美元创新高，加密货币转涨",
@@ -43,8 +44,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时54分 ~ 08时55分]"
+          "appearance_count": 3,
+          "time_info": "[08时54分 ~ 10时47分]"
         },
         {
           "title": "美利率决议前市场谨慎，摩根大通拖累道指，白银突破60美元创新高，加密货币涨",
@@ -175,7 +176,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -229,6 +230,19 @@
           "time_info": "[01时14分 ~ 02时15分]"
         },
         {
+          "title": "美联储决议前夕贵金属大幅飙升：白银史上首次站上60美元",
+          "url": "https://www.cls.cn/detail/2224674",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时22分 ~ 10时47分]"
+        },
+        {
           "title": "纽约白银期货涨穿60美元整数位心理关口，创历史新高",
           "url": "https://wallstreetcn.com/livenews/3017788",
           "source": "华尔街见闻-快讯",
@@ -241,16 +255,16 @@
           "time_info": "[00时16分 ~ 01时14分]"
         },
         {
-          "title": "美联储决议前夕贵金属大幅飙升：白银史上首次站上60美元",
-          "url": "https://www.cls.cn/detail/2224674",
+          "title": "SpaceX据悉以1.5万亿美元估值进行IPO 白银首次站上60美元 | 环球市场",
+          "url": "https://www.cls.cn/detail/2224727",
           "source": "财联社热门",
           "ranks": [
-            10,
-            6
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时22分 ~ 08时55分]"
+          "time_info": "[08时54分 ~ 10时47分]"
         },
         {
           "title": "摩根大通资产管理寻求将8.4亿美元规模的多只市政债券基金转化为ETFs（交易所交易基金）。",
@@ -354,17 +368,6 @@
           "time_info": "[04时12分 ~ 05时10分]"
         },
         {
-          "title": "SpaceX据悉以1.5万亿美元估值进行IPO 白银首次站上60美元 | 环球市场",
-          "url": "https://www.cls.cn/detail/2224727",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时54分 ~ 08时55分]"
-        },
-        {
           "title": "WTI 1月原油期货收跌0.63美元，跌幅1.07%，报58.25美元/桶。 布伦特2月原油期货收跌0.55美元，跌幅0.88%，报61.94美元/桶。 NYMEX 1月天然气期货收报4.5740美元/百万英热单位。 NYMEX 1月汽油期货收报1.7897美元/加仑，NYMEX 1月取暖油期货收报2.2601美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3017866",
           "source": "华尔街见闻-快讯",
@@ -423,6 +426,17 @@
           "time_info": "01时14分"
         },
         {
+          "title": "日本经济财政大臣城内实表示，汇率波动由多种因素决定。 日元贬值有利有弊。",
+          "url": "https://wallstreetcn.com/livenews/3018091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时47分"
+        },
+        {
           "title": "纽约期银首次站上60美元/盎司",
           "url": "https://flash.jin10.com/detail/20251209232809950800",
           "source": "金十数据",
@@ -432,6 +446,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "日本首相高市早苗表示，将就过度、无序的汇率波动采取适当行动。 外汇市场稳定波动、反应基本面很重要。 不会对外汇水平发表谈论。",
+          "url": "https://wallstreetcn.com/livenews/3018086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时47分"
         },
         {
           "title": "GE Vernova Inc.（GEV）将股票回购规模从60亿美元提高至100亿美元，派息幅度翻倍至每股0.50美元。",
@@ -588,6 +613,17 @@
           "time_info": "07时22分"
         },
         {
+          "title": "印尼卢比兑美元早盘下跌0.15%报16,670，此前一位美国官员表示美印贸易协议面临破裂风险。",
+          "url": "https://wallstreetcn.com/livenews/3018057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时47分"
+        },
+        {
           "title": "美元指数9日上涨",
           "url": "https://flash.jin10.com/detail/20251210051531645800",
           "source": "金十数据",
@@ -663,12 +699,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "复星医药在陆港两地上涨，A股和港股分别上涨近4%和近6%。此前公司公告称，子公司与辉瑞就GLP-1R激动剂签订许可协议，最高可获5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3018040",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时47分"
         }
       ]
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "美联储传声筒：面对罕见分歧 鲍威尔明日可能“先降息再设限”",
@@ -691,8 +738,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 08时55分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 10时47分]"
         },
         {
           "title": "特朗普：降息是新美联储主席的试金石，可能通过调整关税降低部分商品价格",
@@ -705,8 +752,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 08时55分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 10时47分]"
         },
         {
           "title": "“影子联储主席”哈塞特：美联储有“充足空间”降息，那意味着降幅超过25基点",
@@ -716,11 +763,12 @@
             8,
             7,
             6,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时10分 ~ 08时55分]"
+          "appearance_count": 6,
+          "time_info": "[05时10分 ~ 10时47分]"
         },
         {
           "title": "日本央行行长植田和男称，美国经济经受住了特朗普关税的考验。（英国金融时报）",
@@ -729,7 +777,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -740,7 +788,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -754,6 +802,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "美联储今夜降息无悬念！华尔街紧盯鲍威尔 这一表述或定调明年政策走向",
+          "url": "https://www.cls.cn/detail/2224813",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时47分"
         },
         {
           "title": "英国央行副行长隆巴尔代利：英国央行不得不裁减部分员工。",
@@ -851,6 +910,17 @@
           "time_info": "06时12分"
         },
         {
+          "title": "11月CPI同比上涨0.7%，为2024年3月份以来最高，PPI环比上涨0.1%",
+          "url": "https://www.cls.cn/detail/2224777",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时47分"
+        },
+        {
           "title": "英国央行副行长隆巴尔代利：通胀上行风险犹存，应放慢降息步伐",
           "url": "https://flash.jin10.com/detail/20251209230934669800",
           "source": "金十数据",
@@ -912,7 +982,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -978,7 +1048,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -1011,7 +1081,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -1033,7 +1103,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -1044,7 +1114,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -1066,7 +1136,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -1085,7 +1155,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "掀桌！豆包被“围攻”后，智谱把手机Agent开源，让人人皆可打造AI手机",
@@ -1097,8 +1167,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 08时55分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 10时47分]"
         },
         {
           "title": "美批准向中国出售英伟达H200人工智能芯片，外交部回应",
@@ -1110,8 +1180,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 08时55分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 10时47分]"
         },
         {
           "title": "NMIXX翻唱UP主AI版大东北",
@@ -1191,6 +1261,18 @@
           "time_info": "[03时09分 ~ 05时10分]"
         },
         {
+          "title": "智谱开源“会操作手机的AI”",
+          "url": "https://www.douyin.com/hot/2331460",
+          "source": "抖音",
+          "ranks": [
+            21,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时54分 ~ 10时47分]"
+        },
+        {
           "title": "新质观察｜AI附体手机：一场笨拙而暴烈的数字越狱",
           "url": "https://m.thepaper.cn/newsDetail_forward_32131597",
           "source": "澎湃新闻",
@@ -1226,17 +1308,6 @@
           "time_info": "[03时09分 ~ 04时12分]"
         },
         {
-          "title": "智谱开源“会操作手机的AI”",
-          "url": "https://www.douyin.com/hot/2331460",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时54分 ~ 08时55分]"
-        },
-        {
           "title": "瞄准中国科技股，全球资金寻找AI“新战场”",
           "url": "https://wallstreetcn.com/livenews/3017925",
           "source": "华尔街见闻-快讯",
@@ -1259,13 +1330,24 @@
           "time_info": "03时09分"
         },
         {
+          "title": "四川“十五五”规划建议：加快发展人工智能、低空经济等新兴产业",
+          "url": "https://www.cls.cn/detail/2224818",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时47分"
+        },
+        {
           "title": "四川“十五五”规划建议：加快发展人工智能、低空经济、智能网联汽车、核医疗等新兴产业",
           "url": "https://wallstreetcn.com/livenews/3017971",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -1367,7 +1449,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -1393,11 +1475,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347810&amp;topic_name=%E4%BD%B3%E8%83%BD%E5%91%98%E5%B7%A5%E7%88%86%E5%86%B2%E6%9C%BA%E5%9C%BA%E5%90%AB%E6%B3%AA%E8%B0%A2%E4%B8%BB%E8%A3%81%E5%91%98",
           "source": "贴吧",
           "ranks": [
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 08时55分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 10时47分]"
         },
         {
           "title": "美国劳工统计局确认12月通胀及就业数据将于明年1月公布",
@@ -1418,8 +1501,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时54分 ~ 08时55分]"
+          "appearance_count": 3,
+          "time_info": "[08时54分 ~ 10时47分]"
         },
         {
           "title": "美国10月职位空缺数升至五个月来最高水平，或缓解就业恶化担忧",
@@ -1447,6 +1530,63 @@
       ]
     },
     {
+      "keyword_group": "基础设施 基建 地铁 高铁",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "这座新一线城市的地铁终于脱单了",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E5%BA%A7%E6%96%B0%E4%B8%80%E7%BA%BF%E5%9F%8E%E5%B8%82%E7%9A%84%E5%9C%B0%E9%93%81%E7%BB%88%E4%BA%8E%E8%84%B1%E5%8D%95%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            17,
+            12,
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 07时22分]"
+        },
+        {
+          "title": "高铁坐过站如何正确处理",
+          "url": "https://www.toutiao.com/trending/7581455708601909290/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            18,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 08时55分]"
+        },
+        {
+          "title": "动物城闪电为何开车不坐地铁",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8A%A8%E7%89%A9%E5%9F%8E%E9%97%AA%E7%94%B5%E4%B8%BA%E4%BD%95%E5%BC%80%E8%BD%A6%E4%B8%8D%E5%9D%90%E5%9C%B0%E9%93%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 08时55分]"
+        },
+        {
+          "title": "我国时速350公里高铁最长隧道贯通",
+          "url": "https://wallstreetcn.com/livenews/3018062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时47分"
+        }
+      ]
+    },
+    {
       "keyword_group": "新能源汽车 电动汽车 智能驾驶",
       "match_count": 4,
       "titles": [
@@ -1459,8 +1599,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时22分 ~ 08时55分]"
+          "appearance_count": 4,
+          "time_info": "[07时22分 ~ 10时47分]"
         },
         {
           "title": "余承东：中国智能电动汽车发展加速",
@@ -1549,134 +1689,8 @@
       ]
     },
     {
-      "keyword_group": "房地产 房价 楼市 LPR",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "鹤岗房价2年涨超20%",
-          "url": "https://www.baidu.com/s?wd=%E9%B9%A4%E5%B2%97%E6%88%BF%E4%BB%B72%E5%B9%B4%E6%B6%A8%E8%B6%8520%25",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 01时14分]"
-        },
-        {
-          "title": "「住宅限高令」密集出台，最高「80 米、 26 层」成大趋势，如何看待这一转变？将怎样影响房地产模式？",
-          "url": "https://www.zhihu.com/question/1981781106769551593",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时54分 ~ 08时55分]"
-        },
-        {
-          "title": "经济日报：全面客观看待房地产市场变化",
-          "url": "https://wallstreetcn.com/livenews/3017970",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "这座新一线城市的地铁终于脱单了",
-          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E5%BA%A7%E6%96%B0%E4%B8%80%E7%BA%BF%E5%9F%8E%E5%B8%82%E7%9A%84%E5%9C%B0%E9%93%81%E7%BB%88%E4%BA%8E%E8%84%B1%E5%8D%95%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            17,
-            12,
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 07时22分]"
-        },
-        {
-          "title": "高铁坐过站如何正确处理",
-          "url": "https://www.toutiao.com/trending/7581455708601909290/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            18,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 08时55分]"
-        },
-        {
-          "title": "动物城闪电为何开车不坐地铁",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8A%A8%E7%89%A9%E5%9F%8E%E9%97%AA%E7%94%B5%E4%B8%BA%E4%BD%95%E5%BC%80%E8%BD%A6%E4%B8%8D%E5%9D%90%E5%9C%B0%E9%93%81",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时54分 ~ 08时55分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大模型 ChatGPT Kimi Sora OpenAI",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "Gemini 3赢了下载却输了习惯？ChatGPT仍垄断90%移动端会话，日均打开超8次",
-          "url": "https://wallstreetcn.com/articles/3760995",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时54分 ~ 08时55分]"
-        },
-        {
-          "title": "ChatGPT周活跃用户数接近9亿。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3017782",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 01时14分]"
-        },
-        {
-          "title": "据The Information：ChatGPT周活跃用户接近9亿。",
-          "url": "https://flash.jin10.com/detail/20251209230341120800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        }
-      ]
-    },
-    {
       "keyword_group": "英伟达 台积电 AMD 高通",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
@@ -1704,11 +1718,145 @@
           "time_info": "[00时16分 ~ 08时55分]"
         },
         {
+          "title": "国台办回应赖清德当局出卖台积电",
+          "url": "https://wallstreetcn.com/livenews/3018095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时47分"
+        },
+        {
           "title": "【焦点复盘】市场再陷缩量普跌，资金持续抱团英伟达链，商业航天概念表现分化",
           "url": "https://www.cls.cn/detail/2224158",
           "source": "财联社热门",
           "ranks": [
             6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房地产 房价 楼市 LPR",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "「住宅限高令」密集出台，最高「80 米、 26 层」成大趋势，如何看待这一转变？将怎样影响房地产模式？",
+          "url": "https://www.zhihu.com/question/1981781106769551593",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时54分 ~ 10时47分]"
+        },
+        {
+          "title": "鹤岗房价2年涨超20%",
+          "url": "https://www.baidu.com/s?wd=%E9%B9%A4%E5%B2%97%E6%88%BF%E4%BB%B72%E5%B9%B4%E6%B6%A8%E8%B6%8520%25",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 01时14分]"
+        },
+        {
+          "title": "经济日报：全面客观看待房地产市场变化",
+          "url": "https://wallstreetcn.com/livenews/3017970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为 小米 荣耀",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "王者荣耀",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 05时10分]"
+        },
+        {
+          "title": "小米将承担门店调整损失约2726万元",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%B0%86%E6%89%BF%E6%8B%85%E9%97%A8%E5%BA%97%E8%B0%83%E6%95%B4%E6%8D%9F%E5%A4%B1%E7%BA%A62726%E4%B8%87%E5%85%83%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时47分"
+        },
+        {
+          "title": "小米将关闭部分低效且亏损门店",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%B0%86%E5%85%B3%E9%97%AD%E9%83%A8%E5%88%86%E4%BD%8E%E6%95%88%E4%B8%94%E4%BA%8F%E6%8D%9F%E9%97%A8%E5%BA%97%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大模型 ChatGPT Kimi Sora OpenAI",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "Gemini 3赢了下载却输了习惯？ChatGPT仍垄断90%移动端会话，日均打开超8次",
+          "url": "https://wallstreetcn.com/articles/3760995",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时54分 ~ 10时47分]"
+        },
+        {
+          "title": "ChatGPT周活跃用户数接近9亿。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3017782",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 01时14分]"
+        },
+        {
+          "title": "据The Information：ChatGPT周活跃用户接近9亿。",
+          "url": "https://flash.jin10.com/detail/20251209230341120800",
+          "source": "金十数据",
+          "ranks": [
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1748,25 +1896,6 @@
       ]
     },
     {
-      "keyword_group": "华为 小米 荣耀",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "王者荣耀",
-          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 05时10分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "苹果 iPhone",
       "match_count": 1,
       "titles": [
@@ -1793,11 +1922,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347831&amp;topic_name=%E9%BB%91%E7%B2%89%E7%96%AF%E7%8B%82%E9%80%80%E8%B4%A7%E5%BC%80%E5%9B%A2%E5%88%B6%E8%A3%81vivo",
           "source": "贴吧",
           "ranks": [
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 08时55分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 10时47分]"
         }
       ]
     },
@@ -1837,8 +1967,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 08时55分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 10时47分]"
         }
       ]
     },
