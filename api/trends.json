@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T07:10:46.958160+08:00",
-  "total_titles_processed": 742,
+  "generated_at": "2025-12-11T08:55:47.577049+08:00",
+  "total_titles_processed": 888,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 57,
+      "match_count": 69,
       "titles": [
         {
           "title": "今夜美联储决议“剧本”：决议降息，鲍威尔“鹰派讲话”，哈塞特、贝森特“鸽派对冲”？",
@@ -21,6 +21,18 @@
           "time_info": "[00时17分 ~ 07时10分]"
         },
         {
+          "title": "全球长债收益率飙升至16年新高，市场押注全球降息周期即将终结",
+          "url": "https://wallstreetcn.com/articles/3761104",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 08时55分]"
+        },
+        {
           "title": "11月份我国CPI同比上涨0.7%",
           "url": "https://www.toutiao.com/trending/7581397259183620138/",
           "source": "今日头条",
@@ -28,19 +40,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 07时10分]"
-        },
-        {
-          "title": "全球长债收益率飙升至16年新高，市场押注全球降息周期即将终结",
-          "url": "https://wallstreetcn.com/articles/3761104",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 06时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 08时55分]"
         },
         {
           "title": "美联储如期降息25个基点 预计2026年仅降息一次",
@@ -49,11 +50,12 @@
           "ranks": [
             11,
             6,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时14分 ~ 07时10分]"
+          "appearance_count": 6,
+          "time_info": "[04时14分 ~ 08时55分]"
         },
         {
           "title": "中国11月CPI同比上涨0.7%，创2024年3月来最高，PPI同比降幅略有扩大",
@@ -63,8 +65,52 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 04时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时17分 ~ 08时55分]"
+        },
+        {
+          "title": "美联储宣布降息25个基点",
+          "url": "https://www.toutiao.com/trending/7582204302019100714/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "美联储再降息25个基点",
+          "url": "https://www.douyin.com/hot/2332890",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "美联储宣布降息25个基点",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%81%94%E5%82%A8%E5%AE%A3%E5%B8%83%E9%99%8D%E6%81%AF25%E4%B8%AA%E5%9F%BA%E7%82%B9",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "美联储降息，鲍威尔言论比预期温和，美股三大指数收涨，白银再创新高，原油V形反转",
+          "url": "https://wallstreetcn.com/articles/3761091",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         },
         {
           "title": "美联储点阵图中值：2026年将累计降息25个基点",
@@ -76,6 +122,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
+        },
+        {
+          "title": "美联储再降息25个基点",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%81%94%E5%82%A8%E5%86%8D%E9%99%8D%E6%81%AF25%E4%B8%AA%E5%9F%BA%E7%82%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         },
         {
           "title": "美联储降息日，标普500指数初步收涨0.6%，工业、原材料板块涨超1.8%，可选消费、保健、金融、能源板块涨超1%，科技板块微涨。 纳斯达克100指数初步收涨0.3%，成分股中，ODFL涨5.5%，Shopify涨5.3%，再生元制药涨5.3%，美光科技涨4.5%，华纳兄弟探索WBD涨4.5%，Strategy跌1.8%，微软跌2.8%，Applovin跌3%，奈飞、Doordash、MercadoLibre至少跌4.3%。 耐克初步收涨3.8%，卡特彼勒涨3.4%，领跑道指成分股，亚马逊涨1.7%，微软表现垫底。",
@@ -118,7 +175,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         },
@@ -193,6 +250,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时17分 ~ 03时11分]"
+        },
+        {
+          "title": "美联储如期再降息25基点，但三票委反对，仍预计明年降息一次，启动RMP买短债400亿",
+          "url": "https://wallstreetcn.com/articles/3761132",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时10分 ~ 08时55分]"
         },
         {
           "title": "欧洲央行管委Makhlouf：“相信”中期通胀将处于2%。",
@@ -293,6 +362,17 @@
           "time_info": "[02时18分 ~ 02时19分]"
         },
         {
+          "title": "美联储如期降息25个基点：暗示明年降息1次（声明全文）",
+          "url": "https://news.ifeng.com/c/8ozPXqVyrp2",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
           "title": "加拿大央行行长麦克勒姆：央行预计经济闲置产能将“缓慢”得到消化。",
           "url": "https://flash.jin10.com/detail/20251211000356301800",
           "source": "金十数据",
@@ -315,15 +395,15 @@
           "time_info": "03时11分"
         },
         {
-          "title": "美联储如期再降息25基点，但三票委反对，仍预计明年降息一次，启动RMP买短债400亿",
-          "url": "https://wallstreetcn.com/articles/3761132",
-          "source": "华尔街见闻",
+          "title": "特朗普回应美联储降息：幅度太小",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E7%BE%8E%E8%81%94%E5%82%A8%E9%99%8D%E6%81%AF%EF%BC%9A%E5%B9%85%E5%BA%A6%E5%A4%AA%E5%B0%8F",
+          "source": "百度热搜",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时10分"
+          "time_info": "08时55分"
         },
         {
           "title": "机构：华尔街预计美联储将采取“鹰派降息”",
@@ -346,6 +426,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "美联储宣布降息25个基点",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%81%94%E5%82%A8%E5%AE%A3%E5%B8%83%E9%99%8D%E6%81%AF25%E4%B8%AA%E5%9F%BA%E7%82%B9%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         },
         {
           "title": "鲍威尔：需要谨慎地评估家庭就业数据。 那些没能收集到的数据可能会造成（数据）扭曲/失真。 技术性因素可能会扭曲CPI和家庭就业数据。",
@@ -381,6 +472,28 @@
           "time_info": "06时20分"
         },
         {
+          "title": "美联储年底降息传递两个关键信息",
+          "url": "https://www.toutiao.com/trending/7582328164052107300/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "特朗普炮轰美联储决议：降息幅度太小，本应至少翻倍！",
+          "url": "https://www.cls.cn/detail/2225986",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
           "title": "巴西央行维持基准利率在15%不变。",
           "url": "https://wallstreetcn.com/livenews/3018676",
           "source": "华尔街见闻-快讯",
@@ -398,7 +511,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         },
@@ -431,7 +544,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         },
@@ -453,7 +566,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         },
@@ -623,6 +736,17 @@
           "time_info": "04时14分"
         },
         {
+          "title": "华泰证券：预计美联储未来或暂停降息",
+          "url": "https://flash.jin10.com/detail/20251211080344787800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
           "title": "加拿大央行行长麦克勒姆：联邦预算不会加剧通胀压力。",
           "url": "https://flash.jin10.com/detail/20251210234819933800",
           "source": "金十数据",
@@ -645,6 +769,17 @@
           "time_info": "04时14分"
         },
         {
+          "title": "中金：预计美联储或将在2026年继续降息 下一次降息或在3月",
+          "url": "https://wallstreetcn.com/livenews/3018736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
           "title": "加拿大央行高级副行长罗杰斯：区域住房市场仍存在一些失衡。",
           "url": "https://flash.jin10.com/detail/20251211001500016800",
           "source": "金十数据",
@@ -659,7 +794,7 @@
     },
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 34,
+      "match_count": 43,
       "titles": [
         {
           "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
@@ -674,24 +809,24 @@
           "time_info": "[00时17分 ~ 07时10分]"
         },
         {
-          "title": "涨势远超黄金！白银史上首次站上60美元，发生了什么？",
-          "url": "https://wallstreetcn.com/articles/3761054",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 07时10分]"
-        },
-        {
           "title": "中国贸易顺差破万亿美元",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E8%B4%B8%E6%98%93%E9%A1%BA%E5%B7%AE%E7%A0%B4%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
           "source": "bilibili 热搜",
           "ranks": [
             5,
             4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 08时55分]"
+        },
+        {
+          "title": "涨势远超黄金！白银史上首次站上60美元，发生了什么？",
+          "url": "https://wallstreetcn.com/articles/3761054",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
           ],
           "is_new": false,
           "appearance_count": 10,
@@ -729,9 +864,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
+        },
+        {
+          "title": "2025 年 1-11 月贸易顺差突破 1 万亿美元创历史新高，对美进出口跌幅持续扩大，如何看待这一趋势？",
+          "url": "https://www.zhihu.com/question/1981351408461713790",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         },
         {
           "title": "上期所原油期货2501合约夜盘收跌0.86%，报440.50元人民币/桶。 沪金夜盘收跌0.12%，沪银收涨0.78%。",
@@ -743,6 +889,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
+        },
+        {
+          "title": "澳元兑美元小幅走低10点，稍早发布的澳大利亚就业人数意外下降。",
+          "url": "https://wallstreetcn.com/livenews/3018764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         },
         {
           "title": "甲骨文(ORCL.N)第二财季营收161亿美元，去年同期140.59亿美元。",
@@ -827,6 +984,28 @@
           "time_info": "02时19分"
         },
         {
+          "title": "甲骨文业绩不及预期，资本开支比预期多约150亿美元，盘后重挫超10% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3761138",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "澳元兑美元AUD/USD小幅走弱，澳洲11月失业率低于预期。",
+          "url": "https://flash.jin10.com/detail/20251211083044814800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
           "title": "现货白银短线走高0.5美元，现报60.64美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251211030200216800",
           "source": "金十数据",
@@ -866,7 +1045,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         },
@@ -877,7 +1056,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         },
@@ -913,6 +1092,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "现货白银突破62美元/盎司，再创历史新高，日内涨超0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3018749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         },
         {
           "title": "Adobe(ADBE.O)预计明年第一季度营收62.5亿至63亿美元。预计2026财年总收入为259亿美元至261亿美元。",
@@ -954,7 +1144,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         },
@@ -970,13 +1160,35 @@
           "time_info": "04时14分"
         },
         {
+          "title": "现货白银刷新历史高点至每盎司61.97美元，日内涨近0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3018745",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "现货白银首次突破62美元",
+          "url": "https://flash.jin10.com/detail/20251211081242635800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
           "title": "甲骨文：季度自由现金流（FCF）为-100亿美元。 预计年度资本开支将比原来预料的多出大约150亿美元。 预计第三财季营收将增长19%-21%，云增长40%-44%。 维持2026财年年度销售预期在670亿美元不变。 公司承诺将维持（债券）投资级评级。",
           "url": "https://wallstreetcn.com/livenews/3018686",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         },
@@ -1009,9 +1221,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
+        },
+        {
+          "title": "现货黄金突破4240美元/盎司，日内涨0.28%。",
+          "url": "https://flash.jin10.com/detail/20251211081222217800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0661元，较周二夜盘收盘跌28点。成交量309.01亿美元。",
@@ -1023,6 +1246,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "欧元兑美元升至两个月高点1.1703。 英镑兑美元升至一个半月高点1.3391。",
+          "url": "https://wallstreetcn.com/livenews/3018737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         },
         {
           "title": "SpaceX若以$1.5万亿美元估值上市，马斯克有望成为全球首位“万亿富翁”",
@@ -1050,8 +1284,22 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 12,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "Meta转向！扎克伯格亲自挂帅，引入阿里Qwen训练，从开源走向盈利型闭源AI",
+          "url": "https://wallstreetcn.com/articles/3761127",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 08时55分]"
+        },
         {
           "title": "白银首破60美元大关之际 行业重磅报告揭示：AI是关键推手之一",
           "url": "https://www.cls.cn/detail/2225488",
@@ -1065,17 +1313,15 @@
           "time_info": "[00时17分 ~ 07时10分]"
         },
         {
-          "title": "Meta转向！扎克伯格亲自挂帅，引入阿里Qwen训练，从开源走向盈利型闭源AI",
-          "url": "https://wallstreetcn.com/articles/3761127",
-          "source": "华尔街见闻",
+          "title": "网警查处一起AI生成虚假低俗视频案",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%AD%A6%E6%9F%A5%E5%A4%84%E4%B8%80%E8%B5%B7AI%E7%94%9F%E6%88%90%E8%99%9A%E5%81%87%E4%BD%8E%E4%BF%97%E8%A7%86%E9%A2%91%E6%A1%88%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
           "ranks": [
-            8,
-            7,
-            6
+            3
           ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 07时10分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         },
         {
           "title": "罗永浩闫俊杰谈中美AI发展差异",
@@ -1083,11 +1329,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             27,
-            18
+            18,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时18分 ~ 06时20分]"
+          "appearance_count": 4,
+          "time_info": "[02时18分 ~ 08时55分]"
         },
         {
           "title": "Blue Owl Capital高管Craig Packer：数据中心是一个“实实在在地具有吸引力的领域”。 银行业利用SRTs（重大风险转移）来管控数据中心风险，这样做是“睿智的”。 零售产品的资金流入偏高。 软件（在投资组合中的表现）是本公司表现“最强”的一个方面。（彭博电视）",
@@ -1102,15 +1349,48 @@
           "time_info": "[00时17分 ~ 01时15分]"
         },
         {
+          "title": "网警：男子AI生成车展低俗视频被拘",
+          "url": "https://www.toutiao.com/trending/7582391057200074250/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "网警：男子AI生成车展低俗视频被拘",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E8%AD%A6%EF%BC%9A%E7%94%B7%E5%AD%90AI%E7%94%9F%E6%88%90%E8%BD%A6%E5%B1%95%E4%BD%8E%E4%BF%97%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8B%98",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
           "title": "AIDC储能2030年出货量或达今年20倍",
           "url": "https://wallstreetcn.com/livenews/3018700",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
+        },
+        {
+          "title": "Pinterest首席执行官Bill Ready表示， Pinterest通过依靠开源模型，节省了使用知名品牌AI的90%成本。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3018762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         },
         {
           "title": "OpenAI：ChatGPT用户在安卓设备上遭遇错误率飙升。",
@@ -1119,7 +1399,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         },
@@ -1133,6 +1413,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
+        },
+        {
+          "title": "美国能源部拨款超3.2亿美元，加大对人工智能科学投资",
+          "url": "https://wallstreetcn.com/livenews/3018753",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         },
         {
           "title": "黑石集团总裁：企业对面临人工智能颠覆风险的业务持谨慎态度。",
@@ -1179,6 +1470,17 @@
           "time_info": "05时13分"
         },
         {
+          "title": "Adobe(ADBE.O)首席财务官：客户互动正随着AI应用的普及而日益增强。企业客户正推动增长",
+          "url": "https://flash.jin10.com/detail/20251211080718903800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
           "title": "鲍威尔：就业增长被夸，这并没有争议。 人工智能（AI）可能是就业疲软的原因之一，但其影响程度并不大。 AI对就业的影响肯定没有体现在裁员中。",
           "url": "https://wallstreetcn.com/livenews/3018632",
           "source": "华尔街见闻-快讯",
@@ -1188,6 +1490,244 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体 芯片 集成电路",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "外媒称中方正考虑限制获取英伟达H200芯片，外交部回应",
+          "url": "https://www.cls.cn/detail/2225351",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 05时13分]"
+        },
+        {
+          "title": "英伟达被曝开发“芯片定位”技术",
+          "url": "https://news.ifeng.com/c/8oyQ1CN6GlB",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 07时10分]"
+        },
+        {
+          "title": "英伟达被曝开发“芯片定位”技术",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%A2%AB%E6%9B%9D%E5%BC%80%E5%8F%91%E2%80%9C%E8%8A%AF%E7%89%87%E5%AE%9A%E4%BD%8D%E2%80%9D%E6%8A%80%E6%9C%AF",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            17,
+            16,
+            19,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时15分 ~ 07时10分]"
+        },
+        {
+          "title": "【早报】美联储宣布：降息25个基点！鲍威尔重磅发声；中方正考虑限制获取英伟达H200芯片？外交部回应",
+          "url": "https://www.cls.cn/detail/2225988",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "标普500指数涨超0.6%，刷新日高，道指涨491点涨幅超过1%，纳指涨0.3%，生物科技指数涨1.1%，半导体指数涨1.2%，银行指数涨2.4%。",
+          "url": "https://wallstreetcn.com/livenews/3018622",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
+          "title": "英特尔和AMD被指控“蓄意无视”，未能阻止其芯片流入俄制武器",
+          "url": "https://wallstreetcn.com/livenews/3018537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 01时15分]"
+        },
+        {
+          "title": "美国对中国大陆芯片出口抽成25%，台湾又要“接盘”？",
+          "url": "https://news.ifeng.com/c/8ozNb3RIbCJ",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "黑石集团首席运营官：芯片、数据中心和电力领域的资本需求极其巨大，而我们恰恰具备独特的优势来抓住这一机遇。",
+          "url": "https://flash.jin10.com/detail/20251211013556775800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        },
+        {
+          "title": "中信建投：未来PCB将更加类似于半导体，价值量将稳步提升",
+          "url": "https://wallstreetcn.com/livenews/3018751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "韩国12月1-10日出口同比增长17.3%，进口同比增长8%，贸易逆差为7000万美元。 韩国12月1-10日日均出口同比增长3.5%。 韩国12月1-10日芯片出口同比增长45.9%。 韩国12月1-10日对中国出口同比增长12.9%，对美国出口同比下降3.2%。",
+          "url": "https://wallstreetcn.com/livenews/3018744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "就业 裁员 招聘",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "鲍威尔：购债规模未来几个月或维持较高水平，就业市场逐步降温但慢于预期，目前利率下能耐心等待（附全文）",
+          "url": "https://wallstreetcn.com/articles/3761134",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "鲍威尔：失业率可能仅仅会上升十分之一至十分之二。 我们觉得，最近数月的就业人口增幅被扩大6万。 劳动力市场降温幅度比想象的更加循序渐进。",
+          "url": "https://wallstreetcn.com/livenews/3018620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
+          "title": "澳大利亚11月就业参与率 66.7%，预期 67%，前值 67%。",
+          "url": "https://wallstreetcn.com/livenews/3018760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "澳大利亚11月兼职就业人口 3.52万人，前值-1.31万人。",
+          "url": "https://flash.jin10.com/detail/20251211083150508800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "澳大利亚11月就业人口变动 -2.13万人，预期 2万人，前值 4.22万人。",
+          "url": "https://wallstreetcn.com/livenews/3018759",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "澳大利亚11月兼职就业人口变动 3.52万人，前值 -1.31万人。",
+          "url": "https://wallstreetcn.com/livenews/3018758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "澳大利亚11月季调后就业参与率 66.7%，预期67.00%，前值67.00%。",
+          "url": "https://flash.jin10.com/detail/20251211083002973800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "澳大利亚11月全职就业人口变动 -5.65万人，前值 5.53万人。",
+          "url": "https://wallstreetcn.com/livenews/3018757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "澳大利亚11月全职就业人口 -5.65万人，前值5.53万人。",
+          "url": "https://flash.jin10.com/detail/20251211083002972800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "澳大利亚11月就业人口 -2.13万人，预期2万人，前值4.22万人。",
+          "url": "https://flash.jin10.com/detail/20251211083002947800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         }
       ]
     },
@@ -1268,80 +1808,32 @@
       ]
     },
     {
-      "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 6,
+      "keyword_group": "房地产 房价 楼市 LPR",
+      "match_count": 2,
       "titles": [
         {
-          "title": "外媒称中方正考虑限制获取英伟达H200芯片，外交部回应",
-          "url": "https://www.cls.cn/detail/2225351",
-          "source": "财联社热门",
+          "title": "A股探底回升，房地产掀涨停潮，万科股债齐升，零售股全天强势，摩尔线程涨超15%，港股收涨，有色大涨",
+          "url": "https://wallstreetcn.com/articles/3761064",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            7,
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 05时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 08时55分]"
         },
         {
-          "title": "英伟达被曝开发“芯片定位”技术",
-          "url": "https://news.ifeng.com/c/8oyQ1CN6GlB",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 07时10分]"
-        },
-        {
-          "title": "英伟达被曝开发“芯片定位”技术",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%A2%AB%E6%9B%9D%E5%BC%80%E5%8F%91%E2%80%9C%E8%8A%AF%E7%89%87%E5%AE%9A%E4%BD%8D%E2%80%9D%E6%8A%80%E6%9C%AF",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            17,
-            16,
-            19,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时15分 ~ 07时10分]"
-        },
-        {
-          "title": "标普500指数涨超0.6%，刷新日高，道指涨491点涨幅超过1%，纳指涨0.3%，生物科技指数涨1.1%，半导体指数涨1.2%，银行指数涨2.4%。",
-          "url": "https://wallstreetcn.com/livenews/3018622",
+          "title": "英国11月三个月RICS房价指数 -16，预期 -21，前值 -19。",
+          "url": "https://wallstreetcn.com/livenews/3018741",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            24
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时14分"
-        },
-        {
-          "title": "英特尔和AMD被指控“蓄意无视”，未能阻止其芯片流入俄制武器",
-          "url": "https://wallstreetcn.com/livenews/3018537",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时15分]"
-        },
-        {
-          "title": "黑石集团首席运营官：芯片、数据中心和电力领域的资本需求极其巨大，而我们恰恰具备独特的优势来抓住这一机遇。",
-          "url": "https://flash.jin10.com/detail/20251211013556775800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
+          "time_info": "08时55分"
         }
       ]
     },
@@ -1405,25 +1897,6 @@
       ]
     },
     {
-      "keyword_group": "房地产 房价 楼市 LPR",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "A股探底回升，房地产掀涨停潮，万科股债齐升，零售股全天强势，摩尔线程涨超15%，港股收涨，有色大涨",
-          "url": "https://wallstreetcn.com/articles/3761064",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 07时10分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "基础设施 基建 地铁 高铁",
       "match_count": 1,
       "titles": [
@@ -1454,23 +1927,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "就业 裁员 招聘",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "鲍威尔：失业率可能仅仅会上升十分之一至十分之二。 我们觉得，最近数月的就业人口增幅被扩大6万。 劳动力市场降温幅度比想象的更加循序渐进。",
-          "url": "https://wallstreetcn.com/livenews/3018620",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时14分"
         }
       ]
     }
