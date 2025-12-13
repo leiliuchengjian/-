@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-13T10:28:39.755047+08:00",
-  "total_titles_processed": 809,
+  "generated_at": "2025-12-13T11:44:12.304724+08:00",
+  "total_titles_processed": 885,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "中国11月新增社融2.49万亿元，新增人民币贷款3900亿元，M2-M1剪刀差扩大",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时13分 ~ 10时28分]"
+          "appearance_count": 17,
+          "time_info": "[00时13分 ~ 11时44分]"
         },
         {
           "title": "高盛：明年黄金目标价看至4900美元",
@@ -37,6 +37,17 @@
           "time_info": "[00时13分 ~ 07时12分]"
         },
         {
+          "title": "博通、甲骨文引发科技股抛售，纳指一度跌超2%，美元跌破98，期银一度跌超5%",
+          "url": "https://wallstreetcn.com/articles/3761271",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时51分 ~ 11时44分]"
+        },
+        {
           "title": "美股盘中跌幅扩大，纳指跌超1.5%，博通跌超10%，铜银续创新高，现货黄金重新站上4300美元",
           "url": "https://wallstreetcn.com/articles/3761271",
           "source": "华尔街见闻",
@@ -48,15 +59,15 @@
           "time_info": "[00时13分 ~ 01时12分]"
         },
         {
-          "title": "博通、甲骨文引发科技股抛售，纳指一度跌超2%，美元跌破98，期银一度跌超5%",
-          "url": "https://wallstreetcn.com/articles/3761271",
-          "source": "华尔街见闻",
+          "title": "法院文件显示，加利福尼亚州起诉特朗普政府，因其撤销超3300万美元联邦拨款，这些拨款原用于针对非美国居民的卡车司机英语能力要求规定。",
+          "url": "https://flash.jin10.com/detail/20251213102355663800",
+          "source": "金十数据",
           "ranks": [
-            1
+            3
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时51分 ~ 10时28分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
         },
         {
           "title": "瑞银(UBS.N)：对达美航空(DAL.N)进行覆盖，给予“买入”评级，目标价90美元。",
@@ -153,11 +164,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            9
+            9,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时51分 ~ 10时28分]"
+          "appearance_count": 3,
+          "time_info": "[08时51分 ~ 11时44分]"
         },
         {
           "title": "周五（12月12日）），美联储隔夜逆回购协议（RRP）使用规模为8.38亿美元，上个交易日报28.74亿美元。",
@@ -227,6 +239,19 @@
           "time_info": "[02时18分 ~ 05时11分]"
         },
         {
+          "title": "备忘录显示，SpaceX将内部人士股票发行价格定在每股421美元，此次内部人士股票交易的估值约为8000亿美元。",
+          "url": "https://flash.jin10.com/detail/20251213082411749800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时51分 ~ 11时44分]"
+        },
+        {
           "title": "周五（12月12日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘跌1.67%，报90470美元，本周累计上涨0.92%。 CME以太币期货DCR主力合约跌4.15%，报3096美元，本周累涨2.16%。",
           "url": "https://wallstreetcn.com/livenews/3020156",
           "source": "华尔街见闻-快讯",
@@ -266,18 +291,6 @@
           "time_info": "[03时11分 ~ 05时11分]"
         },
         {
-          "title": "备忘录显示，SpaceX将内部人士股票发行价格定在每股421美元，此次内部人士股票交易的估值约为8000亿美元。",
-          "url": "https://flash.jin10.com/detail/20251213082411749800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时51分 ~ 10时28分]"
-        },
-        {
           "title": "现货黄金短线跳水近50美元，暂报4303.52美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3020061",
           "source": "华尔街见闻-快讯",
@@ -300,6 +313,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时12分 ~ 02时18分]"
+        },
+        {
+          "title": "SpaceX批准内部股票交易 估值达到约8000亿美元",
+          "url": "https://flash.jin10.com/detail/20251213090039133800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 11时44分]"
         },
         {
           "title": "现货白银日内跌幅达3.0%，报61.63美元/盎司。",
@@ -393,17 +418,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
-        },
-        {
-          "title": "SpaceX批准内部股票交易 估值达到约8000亿美元",
-          "url": "https://flash.jin10.com/detail/20251213090039133800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时28分"
         },
         {
           "title": "伦敦金属交易所（LME）三个月期铜价下跌3%，至每吨11519美元。",
@@ -511,8 +525,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时13分 ~ 10时28分]"
+          "appearance_count": 17,
+          "time_info": "[00时13分 ~ 11时44分]"
         },
         {
           "title": "博通电话会浇灭投资者高预期，730亿美元的AI订单被嫌少，CEO坦言别高估定制芯片",
@@ -540,6 +554,18 @@
           "time_info": "[01时11分 ~ 06时12分]"
         },
         {
+          "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
+          "url": "https://www.cls.cn/detail/2228565",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时11分 ~ 11时44分]"
+        },
+        {
           "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
           "url": "https://wallstreetcn.com/articles/3761213",
           "source": "华尔街见闻",
@@ -550,6 +576,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时13分 ~ 02时18分]"
+        },
+        {
+          "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
+          "url": "https://www.cls.cn/detail/2228537",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时11分 ~ 11时44分]"
         },
         {
           "title": "甲骨文发言人声明：对OpenAI的（数据中心）“合同承诺”并没有推迟。 公司对承诺与项目扩建仍然有信心。",
@@ -578,16 +618,16 @@
           "time_info": "[07时11分 ~ 07时12分]"
         },
         {
-          "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
-          "url": "https://www.cls.cn/detail/2228565",
-          "source": "财联社热门",
+          "title": "担忧雪上加霜！甲骨文被爆部分数据中心推迟至2028年竣工，AI股大跌",
+          "url": "https://wallstreetcn.com/articles/3761309",
+          "source": "华尔街见闻",
           "ranks": [
             7,
-            1
+            4
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[07时11分 ~ 10时28分]"
+          "time_info": "[08时51分 ~ 11时44分]"
         },
         {
           "title": "网络状况监测网站DownDetector：用户报告显示，OpenAI在美国地区出现故障。",
@@ -607,24 +647,12 @@
           "url": "https://www.toutiao.com/trending/7582600366945632265/",
           "source": "今日头条",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时28分"
-        },
-        {
-          "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
-          "url": "https://www.cls.cn/detail/2228537",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            5
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时11分 ~ 10时28分]"
+          "appearance_count": 3,
+          "time_info": "[10时28分 ~ 11时44分]"
         },
         {
           "title": "白宫“加密和AI沙皇”为特朗普AI法规站场，称其旨在减轻企业合规负担",
@@ -654,18 +682,6 @@
           "time_info": "[01时12分 ~ 04时13分]"
         },
         {
-          "title": "担忧雪上加霜！甲骨文被爆部分数据中心推迟至2028年竣工，AI股大跌",
-          "url": "https://wallstreetcn.com/articles/3761309",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时51分 ~ 10时28分]"
-        },
-        {
           "title": "美国白宫人工智能（AI）事务主管David Sacks捍卫总特朗普关于AI的行政命令。（彭博电视）",
           "url": "https://wallstreetcn.com/livenews/3020086",
           "source": "华尔街见闻-快讯",
@@ -691,6 +707,18 @@
           "time_info": "[03时10分 ~ 05时11分]"
         },
         {
+          "title": "“中国可能都做不到”！AI泡沫充斥得州：超220GW大项目申请到2030年入电网",
+          "url": "https://wallstreetcn.com/articles/3761315",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时28分 ~ 11时44分]"
+        },
+        {
           "title": "报道称甲骨文对OpenAI的部分数据中心竣工时间推后一年，半导体指数跌超4%",
           "url": "https://wallstreetcn.com/livenews/3020070",
           "source": "华尔街见闻-快讯",
@@ -703,24 +731,13 @@
           "time_info": "[01时12分 ~ 02时18分]"
         },
         {
-          "title": "“中国可能都做不到”！AI泡沫充斥得州：超220GW大项目申请到2030年入电网",
-          "url": "https://wallstreetcn.com/articles/3761315",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时28分"
-        },
-        {
           "title": "谷歌推出AI语音同声传译功能 不知道对方是哪国人也能用",
           "url": "https://www.cls.cn/detail/2228546",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         },
@@ -773,8 +790,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时13分 ~ 10时28分]"
+          "appearance_count": 17,
+          "time_info": "[00时13分 ~ 11时44分]"
         },
         {
           "title": "“鹰派风暴”即将来袭？消息人士：日本央行下周加息板上钉钉 更多鹰声已在路上",
@@ -792,6 +809,18 @@
           "time_info": "[00时13分 ~ 10时28分]"
         },
         {
+          "title": "【早报】央行、金融监管总局重磅发声；11月金融数据出炉",
+          "url": "https://www.cls.cn/detail/2228569",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时51分 ~ 11时44分]"
+        },
+        {
           "title": "摩根大通(JPM.N)CEO戴蒙：哈塞特很有可能会降息。",
           "url": "https://flash.jin10.com/detail/20251213034241107800",
           "source": "金十数据",
@@ -803,18 +832,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时13分 ~ 08时51分]"
-        },
-        {
-          "title": "【早报】央行、金融监管总局重磅发声；11月金融数据出炉",
-          "url": "https://www.cls.cn/detail/2228569",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时51分 ~ 10时28分]"
         },
         {
           "title": "昔日“鸽派”意外投反对票 美联储古尔斯比：降息前应等更多通胀数据",
@@ -867,6 +884,18 @@
           "time_info": "[03时11分 ~ 06时12分]"
         },
         {
+          "title": "欧盟就无限期冻结俄央行资产达成一致 为向乌克兰贷款扫除障碍",
+          "url": "https://www.cls.cn/detail/2228557",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时51分 ~ 11时44分]"
+        },
+        {
           "title": "俄罗斯央行在莫斯科就被冻结资产起诉欧洲清算银行",
           "url": "https://wallstreetcn.com/livenews/3020063",
           "source": "华尔街见闻-快讯",
@@ -884,18 +913,6 @@
           "source": "华尔街见闻",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时51分 ~ 10时28分]"
-        },
-        {
-          "title": "欧盟就无限期冻结俄央行资产达成一致 为向乌克兰贷款扫除障碍",
-          "url": "https://www.cls.cn/detail/2228557",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -1024,6 +1041,55 @@
           "time_info": "[06时12分 ~ 08时51分]"
         },
         {
+          "title": "报道：英特尔将以约16亿美元收购芯片公司SambaNova",
+          "url": "https://wallstreetcn.com/livenews/3020164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时51分 ~ 11时44分]"
+        },
+        {
+          "title": "纳斯达克公司：艾尔建制药、费罗维亚尔、英斯迈德、单片功率系统、希捷科技、西部数据将被纳入纳斯达克100指数。 百健、CDW公司、格芯、lululemon、安森美半导体、TradeDesk将被移出纳斯达克100指数。",
+          "url": "https://wallstreetcn.com/livenews/3020177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 11时44分]"
+        },
+        {
+          "title": "中国驻美国大使谢锋会见美国超威半导体公司董事会主席兼首席执行官苏姿丰",
+          "url": "https://wallstreetcn.com/livenews/3020176",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 11时44分]"
+        },
+        {
+          "title": "纳斯达克公司：百健、CDW公司、格芯、露露乐蒙（lululemon）、安森美半导体、TradeDesk将被移出纳斯达克100指数。",
+          "url": "https://flash.jin10.com/detail/20251213090544920800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 11时44分]"
+        },
+        {
           "title": "戴尔科技计划上调旗下所有商用产品的价格。 戴尔将于12月17日提价，这与内存芯片需求有关。（Business Insider）",
           "url": "https://wallstreetcn.com/livenews/3020059",
           "source": "华尔街见闻-快讯",
@@ -1034,51 +1100,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时14分 ~ 01时12分]"
-        },
-        {
-          "title": "报道：英特尔将以约16亿美元收购芯片公司SambaNova",
-          "url": "https://wallstreetcn.com/livenews/3020164",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时51分 ~ 10时28分]"
-        },
-        {
-          "title": "纳斯达克公司：艾尔建制药、费罗维亚尔、英斯迈德、单片功率系统、希捷科技、西部数据将被纳入纳斯达克100指数。 百健、CDW公司、格芯、lululemon、安森美半导体、TradeDesk将被移出纳斯达克100指数。",
-          "url": "https://wallstreetcn.com/livenews/3020177",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时28分"
-        },
-        {
-          "title": "中国驻美国大使谢锋会见美国超威半导体公司董事会主席兼首席执行官苏姿丰",
-          "url": "https://wallstreetcn.com/livenews/3020176",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时28分"
-        },
-        {
-          "title": "纳斯达克公司：百健、CDW公司、格芯、露露乐蒙（lululemon）、安森美半导体、TradeDesk将被移出纳斯达克100指数。",
-          "url": "https://flash.jin10.com/detail/20251213090544920800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时28分"
         },
         {
           "title": "据美媒Insider：戴尔(DELL.N)计划上调全线商用产品价格，涨价与内存芯片需求有关。",
@@ -1146,8 +1167,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时13分 ~ 10时28分]"
+          "appearance_count": 17,
+          "time_info": "[00时13分 ~ 11时44分]"
         },
         {
           "title": "小米回应“小米公司不让卖小米”",
@@ -1229,8 +1250,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时51分 ~ 10时28分]"
+          "appearance_count": 4,
+          "time_info": "[08时51分 ~ 11时44分]"
         }
       ]
     },
@@ -1287,6 +1308,46 @@
       ]
     },
     {
+      "keyword_group": "基础设施 基建 地铁 高铁",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "AI基础设施概念股普遍下跌，报道称甲骨文与OpenAI相关的某些数据中心完工时间被延后一年。 博通跌12%，甲骨文跌6.5%，英伟达跌2.4%。 费城半导体指数跌4.56%，Astera Labs跌13%，相干公司Coherent跌10%，Rambus跌8.5%，美光科技跌7%。",
+          "url": "https://wallstreetcn.com/livenews/3020076",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时12分 ~ 02时18分]"
+        },
+        {
+          "title": "重庆地铁回应“鞠躬式窗口”争议",
+          "url": "https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E5%9C%B0%E9%93%81%E5%9B%9E%E5%BA%94%E2%80%9C%E9%9E%A0%E8%BA%AC%E5%BC%8F%E7%AA%97%E5%8F%A3%E2%80%9D%E4%BA%89%E8%AE%AE",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时43分 ~ 11时44分]"
+        },
+        {
+          "title": "土耳其外交部声明：土耳其呼吁安排暂停针对黑海航行安全和能源/港口基础设施的袭击，以防止事态升级。",
+          "url": "https://flash.jin10.com/detail/20251213014004407800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "房地产 房价 楼市 LPR",
       "match_count": 2,
       "titles": [
@@ -1319,31 +1380,32 @@
       ]
     },
     {
-      "keyword_group": "基础设施 基建 地铁 高铁",
+      "keyword_group": "新能源汽车 电动汽车 智能驾驶",
       "match_count": 2,
       "titles": [
         {
-          "title": "AI基础设施概念股普遍下跌，报道称甲骨文与OpenAI相关的某些数据中心完工时间被延后一年。 博通跌12%，甲骨文跌6.5%，英伟达跌2.4%。 费城半导体指数跌4.56%，Astera Labs跌13%，相干公司Coherent跌10%，Rambus跌8.5%，美光科技跌7%。",
-          "url": "https://wallstreetcn.com/livenews/3020076",
+          "title": "周五（12月12日），彭博电动汽车价格回报指数涨1.00%，报3478.36点。 本周，该指数累计上涨1.49%，周一和周五涨幅突出。",
+          "url": "https://wallstreetcn.com/livenews/3020143",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14,
-            24
+            9,
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时12分 ~ 08时51分]"
+        },
+        {
+          "title": "30-40 万新能源汽车市场竞争日益升温，若想兼具格调与实用，哪款更值得入手？",
+          "url": "https://www.zhihu.com/question/1982603963074355711",
+          "source": "知乎",
+          "ranks": [
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时12分 ~ 02时18分]"
-        },
-        {
-          "title": "土耳其外交部声明：土耳其呼吁安排暂停针对黑海航行安全和能源/港口基础设施的袭击，以防止事态升级。",
-          "url": "https://flash.jin10.com/detail/20251213014004407800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
+          "time_info": "[11时43分 ~ 11时44分]"
         }
       ]
     },
@@ -1393,25 +1455,6 @@
       ]
     },
     {
-      "keyword_group": "新能源汽车 电动汽车 智能驾驶",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周五（12月12日），彭博电动汽车价格回报指数涨1.00%，报3478.36点。 本周，该指数累计上涨1.49%，周一和周五涨幅突出。",
-          "url": "https://wallstreetcn.com/livenews/3020143",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            15,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时12分 ~ 08时51分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "大模型 ChatGPT Kimi Sora OpenAI",
       "match_count": 1,
       "titles": [
@@ -1423,8 +1466,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时13分 ~ 10时28分]"
+          "appearance_count": 17,
+          "time_info": "[00时13分 ~ 11时44分]"
         }
       ]
     },
@@ -1459,6 +1502,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时13分 ~ 00时14分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "考研 考公 国考",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "考研最后几天背书背不进去怎么办？",
+          "url": "https://www.zhihu.com/question/1981151039114719669",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时43分 ~ 11时44分]"
         }
       ]
     }
