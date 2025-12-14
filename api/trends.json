@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T22:11:01.257936+08:00",
-  "total_titles_processed": 1410,
+  "generated_at": "2025-12-14T23:11:30.914210+08:00",
+  "total_titles_processed": 1446,
   "failed_sources": [],
   "trends": [
     {
@@ -103,8 +103,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时13分 ~ 22时11分]"
+          "appearance_count": 15,
+          "time_info": "[13时13分 ~ 23时11分]"
         },
         {
           "title": "媒体：“声音被偷”？滥用AI要不得",
@@ -185,6 +185,22 @@
           "time_info": "[00时13分 ~ 07时11分]"
         },
         {
+          "title": "中信证券：AI训练、推理需求贡献驱动力，持续看好一线云厂商2026年投资机遇",
+          "url": "https://wallstreetcn.com/livenews/3020397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            9,
+            16,
+            21,
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时12分 ~ 23时11分]"
+        },
+        {
           "title": "广东人工智能核心产业规模达2200亿元",
           "url": "https://wallstreetcn.com/livenews/3020340",
           "source": "华尔街见闻-快讯",
@@ -210,21 +226,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时13分 ~ 05时10分]"
-        },
-        {
-          "title": "中信证券：AI训练、推理需求贡献驱动力，持续看好一线云厂商2026年投资机遇",
-          "url": "https://wallstreetcn.com/livenews/3020397",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            9,
-            16,
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时12分 ~ 22时11分]"
         },
         {
           "title": "宋雪涛2026美股展望：AI泡沫的内部熔点与外部拐点",
@@ -315,7 +316,7 @@
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "【早报】央行、金融监管总局重磅发声；11月金融数据出炉",
@@ -332,18 +333,6 @@
           "time_info": "[00时13分 ~ 19时10分]"
         },
         {
-          "title": "超级央行周来了！日本带头加息，发达国家央行“降息周期”进入尾声，明年美联储“独自降息”？",
-          "url": "https://wallstreetcn.com/articles/3761359",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时11分 ~ 22时11分]"
-        },
-        {
           "title": "下周重磅日程：超级央行周，中美关键数据，字节火山引擎和摩尔线程大会备受关注",
           "url": "https://wallstreetcn.com/articles/3761256",
           "source": "华尔街见闻",
@@ -355,8 +344,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时11分 ~ 22时11分]"
+          "appearance_count": 10,
+          "time_info": "[17时11分 ~ 23时11分]"
+        },
+        {
+          "title": "超级央行周来了！日本带头加息，发达国家央行“降息周期”进入尾声，明年美联储“独自降息”？",
+          "url": "https://wallstreetcn.com/articles/3761359",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[15时11分 ~ 23时11分]"
         },
         {
           "title": "美联储在2026年将比预期更多降息，这是理由",
@@ -397,8 +398,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时10分 ~ 22时11分]"
+          "appearance_count": 7,
+          "time_info": "[19时10分 ~ 23时11分]"
         },
         {
           "title": "10月净买入49吨！央行购金依然强劲，高盛：“代币化黄金”目前还非金价主力",
@@ -409,8 +410,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时21分 ~ 22时11分]"
+          "appearance_count": 5,
+          "time_info": "[21时21分 ~ 23时11分]"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——美国非农与CPI联袂登场、英欧日三大央行收官决议",
@@ -418,11 +419,23 @@
           "source": "金十数据",
           "ranks": [
             8,
-            13
+            13,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时22分 ~ 22时11分]"
+          "appearance_count": 3,
+          "time_info": "[21时22分 ~ 23时11分]"
+        },
+        {
+          "title": "高盛：英国央行内部存分歧，行长贝利或投下关键一票",
+          "url": "https://flash.jin10.com/detail/20251214215514164800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         }
       ]
     },
@@ -471,6 +484,19 @@
           "time_info": "[16时15分 ~ 19时10分]"
         },
         {
+          "title": "科威特石油部长：在当前情况下，科威特认为每桶60至68美元的油价是合理的。",
+          "url": "https://flash.jin10.com/detail/20251214203047950800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时22分 ~ 23时11分]"
+        },
+        {
           "title": "SpaceX IPO内部定价曝光：421美元一股，估值8000亿美元",
           "url": "https://wallstreetcn.com/articles/3761347",
           "source": "华尔街见闻",
@@ -492,18 +518,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时59分 ~ 10时57分]"
-        },
-        {
-          "title": "科威特石油部长：在当前情况下，科威特认为每桶60至68美元的油价是合理的。",
-          "url": "https://flash.jin10.com/detail/20251214203047950800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时22分 ~ 22时11分]"
         },
         {
           "title": "霉霉给员工发近2亿美元奖金",
@@ -542,11 +556,12 @@
           "url": "https://flash.jin10.com/detail/20251214212919727800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时11分 ~ 23时11分]"
         },
         {
           "title": "你们觉得考研最后几天还可以做什么？",
@@ -584,6 +599,121 @@
       ]
     },
     {
+      "keyword_group": "华为 小米 荣耀",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "谭案说法｜用“雷氏营销”卖小米，为何被小米投诉？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32171752",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            17,
+            16,
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 27,
+          "time_info": "[00时13分 ~ 20时20分]"
+        },
+        {
+          "title": "探访“小米公司不让卖小米”涉事村庄",
+          "url": "https://www.toutiao.com/trending/7582649111980032046/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时57分 ~ 12时33分]"
+        },
+        {
+          "title": "探访小米公司不让卖小米涉事村庄",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%8E%A2%E8%AE%BF%E5%B0%8F%E7%B1%B3%E5%85%AC%E5%8F%B8%E4%B8%8D%E8%AE%A9%E5%8D%96%E5%B0%8F%E7%B1%B3%E6%B6%89%E4%BA%8B%E6%9D%91%E5%BA%84%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时57分 ~ 11时58分]"
+        },
+        {
+          "title": "小米汽车突然变道闯红灯",
+          "url": "https://www.toutiao.com/trending/7583269383649542186/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 iPhone",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "iPhone17中国市场卖爆",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone17%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E5%8D%96%E7%88%86%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            26,
+            19,
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时57分 ~ 15时12分]"
+        },
+        {
+          "title": "泽连斯基手持最新款iPhone在前线自拍",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%89%8B%E6%8C%81%E6%9C%80%E6%96%B0%E6%AC%BEiPhone%E5%9C%A8%E5%89%8D%E7%BA%BF%E8%87%AA%E6%8B%8D",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            14,
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时57分 ~ 14时17分]"
+        },
+        {
+          "title": "iPhone的相册你真的会用吗",
+          "url": "https://s.weibo.com/weibo?q=iPhone%E7%9A%84%E7%9B%B8%E5%86%8C%E4%BD%A0%E7%9C%9F%E7%9A%84%E4%BC%9A%E7%94%A8%E5%90%97&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时59分 ~ 10时57分]"
+        },
+        {
+          "title": "iPhone面容ID还可以这么用",
+          "url": "https://s.weibo.com/weibo?q=iPhone%E9%9D%A2%E5%AE%B9ID%E8%BF%98%E5%8F%AF%E4%BB%A5%E8%BF%99%E4%B9%88%E7%94%A8&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        }
+      ]
+    },
+    {
       "keyword_group": "大学生 毕业生",
       "match_count": 4,
       "titles": [
@@ -602,8 +732,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[10时57分 ~ 22时11分]"
+          "appearance_count": 19,
+          "time_info": "[10时57分 ~ 23时11分]"
         },
         {
           "title": "大学生春晚招募令",
@@ -696,99 +826,6 @@
       ]
     },
     {
-      "keyword_group": "华为 小米 荣耀",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "谭案说法｜用“雷氏营销”卖小米，为何被小米投诉？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32171752",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            17,
-            16,
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时13分 ~ 20时20分]"
-        },
-        {
-          "title": "探访“小米公司不让卖小米”涉事村庄",
-          "url": "https://www.toutiao.com/trending/7582649111980032046/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            18,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时57分 ~ 12时33分]"
-        },
-        {
-          "title": "探访小米公司不让卖小米涉事村庄",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%8E%A2%E8%AE%BF%E5%B0%8F%E7%B1%B3%E5%85%AC%E5%8F%B8%E4%B8%8D%E8%AE%A9%E5%8D%96%E5%B0%8F%E7%B1%B3%E6%B6%89%E4%BA%8B%E6%9D%91%E5%BA%84%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时57分 ~ 11时58分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 iPhone",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "iPhone17中国市场卖爆",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone17%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E5%8D%96%E7%88%86%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21,
-            26,
-            19,
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时57分 ~ 15时12分]"
-        },
-        {
-          "title": "泽连斯基手持最新款iPhone在前线自拍",
-          "url": "https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%89%8B%E6%8C%81%E6%9C%80%E6%96%B0%E6%AC%BEiPhone%E5%9C%A8%E5%89%8D%E7%BA%BF%E8%87%AA%E6%8B%8D",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            14,
-            17,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时57分 ~ 14时17分]"
-        },
-        {
-          "title": "iPhone的相册你真的会用吗",
-          "url": "https://s.weibo.com/weibo?q=iPhone%E7%9A%84%E7%9B%B8%E5%86%8C%E4%BD%A0%E7%9C%9F%E7%9A%84%E4%BC%9A%E7%94%A8%E5%90%97&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时59分 ~ 10时57分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "房地产 房价 楼市 LPR",
       "match_count": 2,
       "titles": [
@@ -823,11 +860,12 @@
             16,
             14,
             10,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时13分 ~ 22时11分]"
+          "appearance_count": 12,
+          "time_info": "[13时13分 ~ 23时11分]"
         }
       ]
     },
@@ -835,6 +873,18 @@
       "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
       "match_count": 2,
       "titles": [
+        {
+          "title": "蔚来在上海建成500座充换电站",
+          "url": "https://wallstreetcn.com/livenews/3020419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时11分 ~ 23时11分]"
+        },
         {
           "title": "特斯拉教练车现身杭州 学费五千多",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E6%95%99%E7%BB%83%E8%BD%A6%E7%8E%B0%E8%BA%AB%E6%9D%AD%E5%B7%9E+%E5%AD%A6%E8%B4%B9%E4%BA%94%E5%8D%83%E5%A4%9A",
@@ -848,17 +898,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[08时59分 ~ 12时33分]"
-        },
-        {
-          "title": "蔚来在上海建成500座充换电站",
-          "url": "https://wallstreetcn.com/livenews/3020419",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时11分"
         }
       ]
     },
@@ -875,8 +914,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[10时57分 ~ 22时11分]"
+          "appearance_count": 20,
+          "time_info": "[10时57分 ~ 23时11分]"
         },
         {
           "title": "近一个月这些上市公司被“踏破门槛”！算力芯片“双龙头”获机构组团调研，机构来访接待量居前的个股名单一览",
@@ -889,8 +928,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时32分 ~ 22时11分]"
+          "appearance_count": 17,
+          "time_info": "[12时32分 ~ 23时11分]"
         }
       ]
     },
@@ -925,6 +964,23 @@
       ]
     },
     {
+      "keyword_group": "创业板",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "事关胜宏科技、金力永磁等多只热门股，深证成指、创业板指等指数样本股明日调整",
+          "url": "https://www.cls.cn/detail/2229026",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        }
+      ]
+    },
+    {
       "keyword_group": "福瑞 Furry 兽展 兽人",
       "match_count": 1,
       "titles": [
@@ -939,8 +995,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时32分 ~ 22时11分]"
+          "appearance_count": 17,
+          "time_info": "[12时32分 ~ 23时11分]"
         }
       ]
     },
