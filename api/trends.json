@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-15T12:43:56.353190+08:00",
-  "total_titles_processed": 894,
+  "generated_at": "2025-12-15T13:18:40.749517+08:00",
+  "total_titles_processed": 940,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "下周重磅日程：超级央行周，中美关键数据，字节火山引擎和摩尔线程大会备受关注",
@@ -52,11 +52,12 @@
             9,
             8,
             6,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时12分 ~ 12时43分]"
+          "appearance_count": 15,
+          "time_info": "[00时12分 ~ 13时18分]"
         },
         {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：如果沃什出任美联储主席，希望他能（在利率政策问题上）与总统特朗普对话。 即便（我）担任美联储主席，也乐意于与特朗普对话。 经济数据表明，美国CPI朝着美联储2%目标靠拢。 美联储的职责是保持独立。 我们不会有10月家庭（就业）调查。",
@@ -123,15 +124,15 @@
           "time_info": "10时55分"
         },
         {
-          "title": "路透调查：大多数受访经济学家表示，泰国央行将在2026年第一季度将关键政策利率下调至1.00%。",
-          "url": "https://flash.jin10.com/detail/20251215120731781800",
-          "source": "金十数据",
+          "title": "日本央行：央行已经通过与商界领袖接触，收集有关企业2026财年相对于2025财年薪资增长立场的信息。大多数企业似乎都认为，2026财年加薪幅度应与2025财年持平或相近。 企业对于薪资增长的看法是出于在劳动力持续严重短缺下须要留住员工。",
+          "url": "https://wallstreetcn.com/livenews/3020693",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时43分"
+          "time_info": "13时18分"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——美国非农与CPI联袂登场、英欧日三大央行收官决议",
@@ -146,16 +147,29 @@
           "time_info": "[00时13分 ~ 04时12分]"
         },
         {
+          "title": "路透调查：大多数受访经济学家表示，泰国央行将在2026年第一季度将关键政策利率下调至1.00%。",
+          "url": "https://flash.jin10.com/detail/20251215120731781800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 13时18分]"
+        },
+        {
           "title": "泰国财政部：已与央行商讨应对泰铢事宜。",
           "url": "https://flash.jin10.com/detail/20251215114923208800",
           "source": "金十数据",
           "ranks": [
             6,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时43分]"
+          "appearance_count": 3,
+          "time_info": "[12时01分 ~ 13时18分]"
         },
         {
           "title": "美联储降息大辩论：美债能否再创佳绩 全看本周非农脸色？",
@@ -339,7 +353,7 @@
     },
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "比特币下跌1.6%，刷新日低，逼近88500美元。",
@@ -367,6 +381,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
+        },
+        {
+          "title": "派杰投资：将可口可乐(KO.N)目标价从81美元上调至87美元。",
+          "url": "https://flash.jin10.com/detail/20251215123056176800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
         },
         {
           "title": "科威特石油部长：在当前情况下，科威特认为每桶60至68美元的油价是合理的。",
@@ -399,11 +424,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时43分]"
+          "appearance_count": 3,
+          "time_info": "[12时01分 ~ 13时18分]"
         },
         {
           "title": "纽元兑美元NZD/USD日内走低0.50%，现报0.5772。",
@@ -427,6 +453,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        },
+        {
+          "title": "在岸、离岸人民币对美元汇率创下14个月以来新高",
+          "url": "https://wallstreetcn.com/livenews/3020687",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
         },
         {
           "title": "中国外汇交易中心（CFETS）：12月2日人民币汇率指数按周涨0.06至97.71。",
@@ -575,11 +612,12 @@
           "url": "https://flash.jin10.com/detail/20251215115553831800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 13时18分]"
         },
         {
           "title": "年终排名将揭晓，绩优基金“角力”AI重仓股",
@@ -621,7 +659,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
         },
@@ -672,9 +710,90 @@
       ]
     },
     {
+      "keyword_group": "创业板",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "事关胜宏科技、金力永磁等多只热门股，深证成指、创业板指等指数样本股明日调整",
+          "url": "https://www.cls.cn/detail/2229026",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时12分 ~ 12时01分]"
+        },
+        {
+          "title": "证监会：启动实施深化创业板改革，加快科创板“1+6”改革举措落地。推动私募基金行业高质量发展，尽快落地商业不动产REITs试点，研究推出新的重点期货品种。坚持扶优限劣，加快打造一流投资银行和投资机构。稳步扩大制度型开放，优化合格境外投资者制度和互联互通机制，提高境外上市备案质效。",
+          "url": "https://wallstreetcn.com/livenews/3020678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        },
+        {
+          "title": "上证指数早盘收报3884.93点，跌0.11%。 深证成指早盘收报13164.03点，跌0.71%。 创业板指早盘收报3153.07点，跌1.29%。 沪深300早盘收报4573.30点，跌0.17%。 科创50早盘收报1331.33点，跌1.30%。 中证500早盘收报7137.42点，跌0.45%。 中证1000早盘收报7335.05点，跌0.49%。",
+          "url": "https://wallstreetcn.com/livenews/3020660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时01分 ~ 13时18分]"
+        },
+        {
+          "title": "12月15日午间收评：创业板指半日跌1.29%，大消费板块逆势走强",
+          "url": "https://wallstreetcn.com/livenews/3020659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时01分 ~ 13时18分]"
+        },
+        {
+          "title": "证监会：启动实施深化创业板改革 加快科创板“1+6”改革举措落地",
+          "url": "https://wallstreetcn.com/livenews/3020678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "华为 小米 荣耀",
       "match_count": 4,
       "titles": [
+        {
+          "title": "如何评价格力、小米、奥克斯、美的等空调企业推动铝代铜国家标准落地？将产生哪些影响？",
+          "url": "https://www.zhihu.com/question/1982910183408682974",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时57分 ~ 13时18分]"
+        },
         {
           "title": "极氪、小米、问界等超20家车企宣布兜底购置税，最高省1.5万",
           "url": "https://wallstreetcn.com/livenews/3020424",
@@ -691,18 +810,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时13分 ~ 06时11分]"
-        },
-        {
-          "title": "如何评价格力、小米、奥克斯、美的等空调企业推动铝代铜国家标准落地？将产生哪些影响？",
-          "url": "https://www.zhihu.com/question/1982910183408682974",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时57分 ~ 12时43分]"
         },
         {
           "title": "华为nova15来了",
@@ -761,11 +868,12 @@
           "url": "https://wallstreetcn.com/livenews/3020668",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 13时18分]"
         },
         {
           "title": "IFR援引知情人士报道，豪威集成电路已开始为香港上市进行预路演，拟募资约10亿美元。",
@@ -777,62 +885,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "创业板",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "事关胜宏科技、金力永磁等多只热门股，深证成指、创业板指等指数样本股明日调整",
-          "url": "https://www.cls.cn/detail/2229026",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时12分 ~ 12时01分]"
-        },
-        {
-          "title": "证监会：启动实施深化创业板改革，加快科创板“1+6”改革举措落地。推动私募基金行业高质量发展，尽快落地商业不动产REITs试点，研究推出新的重点期货品种。坚持扶优限劣，加快打造一流投资银行和投资机构。稳步扩大制度型开放，优化合格境外投资者制度和互联互通机制，提高境外上市备案质效。",
-          "url": "https://wallstreetcn.com/livenews/3020678",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时43分"
-        },
-        {
-          "title": "上证指数早盘收报3884.93点，跌0.11%。 深证成指早盘收报13164.03点，跌0.71%。 创业板指早盘收报3153.07点，跌1.29%。 沪深300早盘收报4573.30点，跌0.17%。 科创50早盘收报1331.33点，跌1.30%。 中证500早盘收报7137.42点，跌0.45%。 中证1000早盘收报7335.05点，跌0.49%。",
-          "url": "https://wallstreetcn.com/livenews/3020660",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时43分]"
-        },
-        {
-          "title": "12月15日午间收评：创业板指半日跌1.29%，大消费板块逆势走强",
-          "url": "https://wallstreetcn.com/livenews/3020659",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时43分]"
         }
       ]
     },
@@ -876,11 +928,12 @@
           "source": "金十数据",
           "ranks": [
             14,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时43分]"
+          "appearance_count": 3,
+          "time_info": "[12时01分 ~ 13时18分]"
         }
       ]
     },
@@ -954,8 +1007,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时43分]"
+          "appearance_count": 3,
+          "time_info": "[12时01分 ~ 13时18分]"
         }
       ]
     },
@@ -984,11 +1037,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%98%A5%E6%99%9A%E6%8B%9B%E5%8B%9F%E4%BB%A4",
           "source": "bilibili 热搜",
           "ranks": [
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 13时18分]"
         }
       ]
     },
@@ -1050,8 +1104,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时12分 ~ 12时43分]"
+          "appearance_count": 15,
+          "time_info": "[00时12分 ~ 13时18分]"
         }
       ]
     },
