@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T02:28:54.926637+08:00",
-  "total_titles_processed": 466,
+  "generated_at": "2025-12-16T03:13:36.725981+08:00",
+  "total_titles_processed": 513,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "OpenAI聘请谷歌高管，负责主导并购业务。（The Information）",
@@ -19,13 +19,24 @@
           "time_info": "01时18分"
         },
         {
+          "title": "美国亚特兰大联储宣布，开始寻找新的联储主席。 遴选委员会将由董事会主席Gregory Haile牵头。 此前报道称，该地区联储的现任主席Raphael Bostic将于2026年2月底离职。",
+          "url": "https://wallstreetcn.com/livenews/3021142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
           "title": "OpenAI：从谷歌挖来Albert Lee。",
           "url": "https://flash.jin10.com/detail/20251216015417172800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
         },
@@ -50,19 +61,32 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 03时13分]"
         },
         {
           "title": "美国纽约联储主席威廉姆斯：AI估值偏高，但有一个真实的推动因素。",
           "url": "https://wallstreetcn.com/livenews/3021124",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 03时13分]"
+        },
+        {
+          "title": "OpenAI聘请谷歌高管Alberta Lee，负责主导并购业务（M&A）。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3021118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 03时13分]"
         },
         {
           "title": "化肥概念股美股早盘下跌，特朗普政府上周末撤销对白俄罗斯钾肥的制裁，美国财政部周一对该国钾肥公司发放通用许可证。 Nutrien跌4.1%, Mosaic跌3.1%，Intrepid Potash跌1.0%，FMC跌5.5%, CF Industries Holdings跌2.0%。",
@@ -85,17 +109,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
-        },
-        {
-          "title": "OpenAI聘请谷歌高管Alberta Lee，负责主导并购业务（M&A）。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3021118",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时28分"
         },
         {
           "title": "美国纽约联储主席威廉姆斯：就业市场近期出现周期动态，而非受到人工智能（AI）的冲击。 的确认为美国处于所谓的K型经济。",
@@ -129,12 +142,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
+        },
+        {
+          "title": "OpenAI： Albert Lee将于周二出任企业发展副总裁，并向首席财务官Sarah Friar汇报。",
+          "url": "https://flash.jin10.com/detail/20251216023339316800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
         }
       ]
     },
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "市场消息：贝莱德失去荷兰养老基金PME一项价值59亿美元的资产管理委托。",
@@ -148,26 +172,30 @@
           "time_info": "01时18分"
         },
         {
+          "title": "人民币“破7”在即吗",
+          "url": "https://www.toutiao.com/trending/7584057916517256740/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            16,
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 03时13分]"
+        },
+        {
           "title": "比特币日内跌幅达3.5%，报85725美元。",
           "url": "https://wallstreetcn.com/livenews/3021132",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时28分"
-        },
-        {
-          "title": "LME期铜收涨140美元，报11656美元/吨。 LME期铝收跌2美元，报2866美元/吨。 LME期锌收跌32美元，报3094美元/吨。 LME期铅收跌27美元，报1941美元/吨。 LME期镍收跌241美元，报14346美元/吨。 LME期锡收跌390美元，报40947美元/吨。 LME期钴收平，报52790美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3021129",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 03时13分]"
         },
         {
           "title": "离岸人民币兑美元突破7.04元。",
@@ -182,39 +210,74 @@
           "time_info": "[00时17分 ~ 01时18分]"
         },
         {
-          "title": "人民币“破7”在即吗",
-          "url": "https://www.toutiao.com/trending/7584057916517256740/",
-          "source": "今日头条",
+          "title": "LME期铜收涨140美元，报11656美元/吨。 LME期铝收跌2美元，报2866美元/吨。 LME期锌收跌32美元，报3094美元/吨。 LME期铅收跌27美元，报1941美元/吨。 LME期镍收跌241美元，报14346美元/吨。 LME期锡收跌390美元，报40947美元/吨。 LME期钴收平，报52790美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3021129",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15,
-            16,
-            10
+            5,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时28分]"
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 03时13分]"
         },
         {
           "title": "周一（12月15日），韩元兑美元最终涨0.60%，报1468.91韩元。 韩元全天处于上涨状态，北京时间17:00显著走高、17:36刷新日高至1463.04韩元。",
           "url": "https://wallstreetcn.com/livenews/3021127",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 03时13分]"
         },
         {
           "title": "美国纽约联储主席威廉姆斯：随着时间的推移，储备金规模可能会从2.9万亿美元增长。",
           "url": "https://wallstreetcn.com/livenews/3021125",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 03时13分]"
+        },
+        {
+          "title": "报道：贝莱德失去荷兰养老基金PME 59亿美元的授权委托",
+          "url": "https://wallstreetcn.com/livenews/3021117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 03时13分]"
+        },
+        {
+          "title": "沪银夜盘收涨0.7%，持稳于白天所创历史最高位15192元人民币附近",
+          "url": "https://wallstreetcn.com/livenews/3021136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时28分"
+          "time_info": "03时13分"
+        },
+        {
+          "title": "周一（12月15日），美联储隔夜逆回购协议（RRP）使用规模为26.01亿美元，上个交易日报8.38亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3021135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
         },
         {
           "title": "随着俄乌和平谈判取得进展，美国原油期货日内下跌1美元。",
@@ -226,17 +289,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
-        },
-        {
-          "title": "报道：贝莱德失去荷兰养老基金PME 59亿美元的授权委托",
-          "url": "https://wallstreetcn.com/livenews/3021117",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时28分"
         },
         {
           "title": "现货黄金跌破4290美元/盎司，日内跌0.25%。",
@@ -264,7 +316,7 @@
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 7,
+      "match_count": 12,
       "titles": [
         {
           "title": "美国波士顿联储主席Collins：上周支持FOMC降息25个基点的决定。 但自己仍然对偏高的通胀感到担心。",
@@ -273,9 +325,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
+        },
+        {
+          "title": "阿根廷央行将于明年修改汇率区间体系",
+          "url": "https://wallstreetcn.com/livenews/3021138",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "阿根廷央行将调整其汇率交易区间机制，并于明年年初启动外汇储备积累计划，受此消息影响，阿根廷2035年到期的美元计价债券价格盘中一度升至当日高点。",
+          "url": "https://flash.jin10.com/detail/20251216025531857800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
         },
         {
           "title": "美国纽约联储主席（享有FOMC永久投票权、号称美联储三把手）威廉姆斯：降息意味着，政策在进入2026年之际准备就绪。 关税造成的（通胀）影响在很大程度上是一次性的，预计（关税的通胀影响）将在2026年消退。 关税对通胀的影响并不会蔓延至其他领域。 必须在避免影响到就业市场的情况下实现2%通胀目标。 就业市场面临的下行风险在最近数月加重。 数据表明，劳动力需求的趋软程度超过供应（的趋软程度）。",
@@ -289,13 +363,24 @@
           "time_info": "00时17分"
         },
         {
+          "title": "美联储Collins：上周支持降息是一个艰难的决定",
+          "url": "https://wallstreetcn.com/livenews/3021131",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
           "title": "美联储柯林斯称通胀前景变化促使其支持降息",
           "url": "https://flash.jin10.com/detail/20251216013446140800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
         },
@@ -328,9 +413,31 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
+        },
+        {
+          "title": "市场消息：阿根廷央行将于2026年调整汇率波动区间机制。阿根廷计划自2026年起，按月度CPI的涨幅同步扩大外汇汇率波动区间。",
+          "url": "https://flash.jin10.com/detail/20251216024521827800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "市场消息：阿根廷央行启动货币计划新阶段，旨在根据货币需求变化及外汇市场流动性状况积累国际储备。",
+          "url": "https://flash.jin10.com/detail/20251216024333541800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
         },
         {
           "title": "美联储威廉姆斯：就业放缓和通胀风险缓解支持美联储降息",
@@ -358,8 +465,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 03时13分]"
         },
         {
           "title": "英伟达收购开源工作负荷管理供应商Schedmd。",
@@ -408,7 +515,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
         },
@@ -437,8 +544,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 03时13分]"
         },
         {
           "title": "中国1—11月全国房地产开发投资同比下降15.9%，新建商品房销售面积同比下降7.8%",
@@ -449,8 +556,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 03时13分]"
         }
       ]
     },
@@ -497,8 +604,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 03时13分]"
         }
       ]
     },
@@ -511,11 +618,12 @@
           "url": "https://wallstreetcn.com/livenews/3021130",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 03时13分]"
         }
       ]
     },
@@ -548,8 +656,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 03时13分]"
         }
       ]
     },
@@ -565,8 +673,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 03时13分]"
         }
       ]
     },
@@ -582,8 +690,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 03时13分]"
         }
       ]
     }
