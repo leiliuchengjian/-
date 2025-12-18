@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T08:51:30.069456+08:00",
-  "total_titles_processed": 821,
+  "generated_at": "2025-12-18T10:45:24.812769+08:00",
+  "total_titles_processed": 955,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 48,
+      "match_count": 54,
       "titles": [
         {
           "title": "非农数据喜忧参半，标普三连跌，科技股反弹撑纳指，人民币创14个月新高，原油重挫",
@@ -26,11 +26,12 @@
             6,
             7,
             3,
-            2
+            2,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 08时51分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 10时45分]"
         },
         {
           "title": "市场静待更多数据，美股早盘震荡下挫，地缘政治扰动，原油重新站上60美元，金银铜铂钯齐涨，白银飙涨近4%再创新高",
@@ -64,11 +65,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时11分 ~ 08时51分]"
+          "appearance_count": 3,
+          "time_info": "[07时11分 ~ 10时45分]"
         },
         {
           "title": "韩国表示，外汇市场波动加剧令人担忧。将继续24小时监测市场和汇率走势。 韩国将在必要时采取措施应对金融市场和外汇市场波动。",
@@ -77,7 +79,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
         },
@@ -88,7 +90,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
         },
@@ -202,6 +204,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时13分 ~ 05时12分]"
+        },
+        {
+          "title": "刚宣布封锁委内瑞拉，特朗普又威胁对俄新制裁，布油重回60美元！",
+          "url": "https://wallstreetcn.com/articles/3761566",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时51分 ~ 10时45分]"
         },
         {
           "title": "周三（12月17日）纽约尾盘，ICE美元指数涨0.24%，报98.381点，日内交投区间为98.175-98.639点，亚太时段持续走高、北京时间16:05刷新日高，经过一段时间的高位震荡之后，20:00-00:00逐步回吐涨幅。 彭博美元指数涨0.20%，报1207.27点，日内交投区间为1204.77-1209.06点。",
@@ -402,7 +416,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
         },
@@ -418,24 +432,13 @@
           "time_info": "00时16分"
         },
         {
-          "title": "刚宣布封锁委内瑞拉，特朗普又威胁对俄新制裁，布油重回60美元！",
-          "url": "https://wallstreetcn.com/articles/3761566",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时51分"
-        },
-        {
           "title": "韩国将宣布放宽政策以增加美元流动性",
           "url": "https://flash.jin10.com/detail/20251218081439073800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
         },
@@ -451,6 +454,39 @@
           "time_info": "05时12分"
         },
         {
+          "title": "特朗普宣布为100万美国军人提供1776美元/人“战士红利”",
+          "url": "https://flash.jin10.com/detail/20251218102827985800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "现货黄金短线小幅走高7美元，现报4334美元/盎司；美元指数DXY现报98.39。",
+          "url": "https://flash.jin10.com/detail/20251218102220011800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "现货铂金涨超3%，至1958美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3022757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
           "title": "美光科技(MU.O) CEO：预计2026年资本支出将增至200亿美元，高于此前预计的180亿美元。",
           "url": "https://flash.jin10.com/detail/20251218054918723800",
           "source": "金十数据",
@@ -460,6 +496,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "美、布两油均跌1%，现报56.13美元/桶和60.18美元/桶。",
+          "url": "https://flash.jin10.com/detail/20251218102025814800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         },
         {
           "title": "周三（12月17日）纽约尾盘（周四北京时间05:59），离岸人民币（CNH）兑美元报7.0402元，较周二纽约尾盘跌39点，日内整体交投于7.0324-7.0431元区间。",
@@ -550,6 +597,17 @@
           "time_info": "06时12分"
         },
         {
+          "title": "美国总统特朗普：145万美国军人将获得一次性1776美元的“战士红利”。",
+          "url": "https://flash.jin10.com/detail/20251218101258552800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
           "title": "美国参议院正式通过总额达9006亿美元的2026财年国防授权法案，将送交特朗普签署成为法律。",
           "url": "https://flash.jin10.com/detail/20251218012702878800",
           "source": "金十数据",
@@ -570,6 +628,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "现货铂金涨3%，至1955.35美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251218101016505800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         }
       ]
     },
@@ -586,8 +655,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时12分 ~ 08时51分]"
+          "appearance_count": 4,
+          "time_info": "[06时12分 ~ 10时45分]"
         },
         {
           "title": "谷歌发布效率更高的Gemini 3 AI模型。",
@@ -618,7 +687,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
         },
@@ -700,7 +769,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
         },
@@ -733,7 +802,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
         },
@@ -744,7 +813,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
         },
@@ -878,7 +947,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
         },
@@ -897,7 +966,7 @@
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "美联储理事沃勒：仍有50-100BP降息空间，但无需急于行动",
@@ -906,9 +975,31 @@
           "ranks": [
             5
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时51分 ~ 10时45分]"
+        },
+        {
+          "title": "特朗普：美联储新主席将会认同大幅降息",
+          "url": "https://flash.jin10.com/detail/20251218104117576800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时51分"
+          "time_info": "10时45分"
+        },
+        {
+          "title": "白银续创新高后，多头情绪有所消退，黄金继续震荡，今晚的CPI或给市场指明方向，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251218103516493800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         },
         {
           "title": "俄罗斯11月PPI环比下降0.9%，同比下降1.1%。 12月15日当周CPI周环比上升0.05%，2025年迄今累计上升5.37%。",
@@ -980,12 +1071,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "日本官房长官木原稔：货币政策具体细则将交由日本央行决定。 正密切关注包括长期利率在内的市场走势。",
+          "url": "https://wallstreetcn.com/livenews/3022749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         }
       ]
     },
     {
       "keyword_group": "华为 小米 荣耀",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "华为Mate80为啥价格突崩",
@@ -1009,22 +1111,24 @@
           "ranks": [
             15,
             16,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 08时51分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 10时45分]"
         },
         {
           "title": "AI天才少女罗福莉小米首秀",
           "url": "https://www.toutiao.com/trending/7584807839307140654/",
           "source": "今日头条",
           "ranks": [
-            8
+            8,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时51分 ~ 10时45分]"
         },
         {
           "title": "小米突发新模型，主打“极致性价比”，罗福莉：“这只是我们AGI图线路上的第二步”",
@@ -1033,9 +1137,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时51分 ~ 10时45分]"
         },
         {
           "title": "小米、华为、理想报案，警方抓获12人",
@@ -1044,9 +1148,31 @@
           "ranks": [
             11
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时51分 ~ 10时45分]"
+        },
+        {
+          "title": "小米华为理想先后报警 12人被抓",
+          "url": "https://www.toutiao.com/trending/7584842544207953962/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时51分"
+          "time_info": "10时45分"
+        },
+        {
+          "title": "小米创办人、董事长兼CEO雷军在微博发文称，小米17Ultra，下周正式发布。",
+          "url": "https://wallstreetcn.com/livenews/3022756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         },
         {
           "title": "小米发布最新MiMo大模型",
@@ -1055,7 +1181,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
         }
@@ -1063,8 +1189,20 @@
     },
     {
       "keyword_group": "就业 裁员 招聘",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "张韶涵前造型师回应裁员裁到大动脉",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9F%B6%E6%B6%B5%E5%89%8D%E9%80%A0%E5%9E%8B%E5%B8%88%E5%9B%9E%E5%BA%94%E8%A3%81%E5%91%98%E8%A3%81%E5%88%B0%E5%A4%A7%E5%8A%A8%E8%84%89%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时51分 ~ 10时45分]"
+        },
         {
           "title": "美联储博斯蒂克：美联储的政策对结构性就业变革无济于事。",
           "url": "https://flash.jin10.com/detail/20251218020015213800",
@@ -1102,15 +1240,15 @@
           "time_info": "[02时19分 ~ 03时13分]"
         },
         {
-          "title": "张韶涵前造型师回应裁员裁到大动脉",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9F%B6%E6%B6%B5%E5%89%8D%E9%80%A0%E5%9E%8B%E5%B8%88%E5%9B%9E%E5%BA%94%E8%A3%81%E5%91%98%E8%A3%81%E5%88%B0%E5%A4%A7%E5%8A%A8%E8%84%89%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
+          "title": "张韶涵巡演造型被嘲裁员裁到大动脉",
+          "url": "https://www.toutiao.com/trending/7584150387918405683/",
+          "source": "今日头条",
           "ranks": [
-            11
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时51分"
+          "time_info": "10时45分"
         },
         {
           "title": "美国非农就业报告发布次日，标普500指数收跌78.83点，跌幅1.16%，报6721.43点。 道琼斯工业平均指数收跌228.29点，跌幅0.47%，报47885.97点。 纳斯达克综合指数（纳指）收跌418.139点，跌幅1.81%，报22693.323点。 纳斯达克100指数收跌485.334点，跌幅1.93%，报24647.606点。",
@@ -1164,7 +1302,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
         },
@@ -1188,7 +1326,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
         }
@@ -1270,9 +1408,37 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房地产 房价 楼市 LPR",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "房地产迎来中长期发展空间",
+          "url": "https://www.toutiao.com/trending/7584356453227446278/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时51分"
+        },
+        {
+          "title": "封关下的海南楼市众生相",
+          "url": "https://www.toutiao.com/trending/7584978931368034350/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         }
       ]
     },
@@ -1316,7 +1482,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
         },
@@ -1325,11 +1491,40 @@
           "url": "https://www.baidu.com/s?wd=%E7%82%92%E4%BD%9C%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%B4%9F%E9%9D%A2%E4%BF%A1%E6%81%AF%E5%9B%A2%E4%BC%99%E8%A2%AB%E6%89%93%E6%8E%89",
           "source": "百度热搜",
           "ranks": [
-            19
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时51分 ~ 10时45分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大模型 ChatGPT Kimi Sora OpenAI",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "火山引擎正式发布豆包大模型1.8",
+          "url": "https://wallstreetcn.com/livenews/3022769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时51分"
+          "time_info": "10时45分"
+        },
+        {
+          "title": "【豆包大模型日均使用量超过50万亿】火山引擎2025原动力大会上，火山引擎总裁谭待透露，豆包大模型日均使用量超过50万亿，自发布以来增长417倍。“万亿Tokens俱乐部”成员突破100家。",
+          "url": "https://wallstreetcn.com/livenews/3022763",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         }
       ]
     },
@@ -1358,25 +1553,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 08时51分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "房地产 房价 楼市 LPR",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "房地产迎来中长期发展空间",
-          "url": "https://www.toutiao.com/trending/7584356453227446278/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时51分"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 10时45分]"
         }
       ]
     }
