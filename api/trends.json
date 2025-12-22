@@ -1,379 +1,55 @@
 {
-  "generated_at": "2025-12-22T23:13:19.154821+08:00",
-  "total_titles_processed": 1923,
+  "generated_at": "2025-12-23T00:15:10.254041+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 82,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "如果人民币开始持续升值......",
-          "url": "https://wallstreetcn.com/articles/3761793",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时12分 ~ 14时21分]"
-        },
         {
           "title": "中金：恒科和人民币谁“错”了？",
           "url": "https://wallstreetcn.com/articles/3761809",
           "source": "华尔街见闻",
           "ranks": [
-            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时58分 ~ 23时13分]"
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 00时15分]"
         },
         {
-          "title": "35亿美元大单引爆美股商业航天？SDA加速布局太空防御网 低轨商业卫星成关键",
-          "url": "https://www.cls.cn/detail/2235916",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时03分 ~ 18时14分]"
-        },
-        {
-          "title": "美国全面加速太空军备：特朗普定调“太空优势”，35亿美元卫星订单紧随其后",
-          "url": "https://wallstreetcn.com/articles/3761799",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时12分 ~ 18时14分]"
-        },
-        {
-          "title": "3500亿美元交易额创纪录，推升对日本并购市场前景的乐观情绪",
-          "url": "https://wallstreetcn.com/livenews/3024452",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时16分 ~ 07时11分]"
-        },
-        {
-          "title": "黄奇帆：今后十年人民币将逐步升值",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E5%A5%87%E5%B8%86%EF%BC%9A%E4%BB%8A%E5%90%8E%E5%8D%81%E5%B9%B4%E4%BA%BA%E6%B0%91%E5%B8%81%E5%B0%86%E9%80%90%E6%AD%A5%E5%8D%87%E5%80%BC",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            6,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时58分 ~ 15时17分]"
-        },
-        {
-          "title": "黄奇帆：今后十年人民币将逐步升值",
-          "url": "https://www.toutiao.com/trending/7585764966561972251/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            6,
-            8,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时57分 ~ 13时17分]"
-        },
-        {
-          "title": "WTI原油期货突破58美元/桶，日内涨2.62%。",
-          "url": "https://flash.jin10.com/detail/20251222214650693800",
+          "title": "现货黄金向上触及4430美元/盎司，日内涨2.11%。",
+          "url": "https://flash.jin10.com/detail/20251222234509712800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        },
-        {
-          "title": "现货钯金站上1800美元/盎司，为2023年1月以来首次，今年迄今累涨超100%。",
-          "url": "https://flash.jin10.com/detail/20251222103847265800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时58分"
-        },
-        {
-          "title": "现货白银站上69美元关口",
-          "url": "https://flash.jin10.com/detail/20251222113503491800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
-          "title": "布伦特原油站上62美元/桶，日内涨2.23%。",
-          "url": "https://flash.jin10.com/detail/20251222214644815800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        },
-        {
-          "title": "加密货币交易所交易产品（ETPs）最近一周资金外流8.913亿美元，结束之前连续三周流入的趋势。 ETPs投资者最近一个月资金流入18.2亿美元，过去一年流入467亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3025037",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时13分"
+          "time_info": "00时15分"
         },
         {
-          "title": "印度政府声明：未来15年，新西兰将在印度投资200亿美元。",
-          "url": "https://flash.jin10.com/detail/20251222140823725800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "布伦特原油日内涨幅达2.00%，现报61.87美元/桶。",
-          "url": "https://flash.jin10.com/detail/20251222211258396800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时29分"
-        },
-        {
-          "title": "欧元兑美元EUR/USD日内涨幅扩大至0.50%，现报1.1766。",
-          "url": "https://flash.jin10.com/detail/20251222224123718800",
-          "source": "金十数据",
+          "title": "谷歌母公司Alphabet将以47.5亿美元（现金+债务）收购数据中心的能源/电力供应商Intersect。",
+          "url": "https://wallstreetcn.com/livenews/3025054",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时13分"
+          "time_info": "00时15分"
         },
         {
-          "title": "美国天然气期货日内涨超3.00%，现报4.104美元/百万英热。",
-          "url": "https://flash.jin10.com/detail/20251222135851117800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "策略师：美债收益率走势或限制美元跌幅",
-          "url": "https://flash.jin10.com/detail/20251222200201188800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "现货钯金日内大涨6.00%，现报1793.56美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251222103604265800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时58分"
-        },
-        {
-          "title": "美元指数DXY日内下跌0.50%，现报98.24。英镑兑美元GBP/USD涨至1.3457，创10月17日以来新高。",
-          "url": "https://flash.jin10.com/detail/20251222223718248800",
-          "source": "金十数据",
+          "title": "英国首富重组170亿美元家族办公室帝国",
+          "url": "https://wallstreetcn.com/livenews/3025052",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时13分"
-        },
-        {
-          "title": "埃里森将为派拉蒙竞购华纳兄弟探索提供404亿美元担保。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3024981",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时29分"
-        },
-        {
-          "title": "现货黄金日内涨幅达2%，报4425.49美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3024985",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 22时13分]"
-        },
-        {
-          "title": "美元兑日元短线走低，日本财务大臣称在对日元采取大胆行动方面拥有“自主权”",
-          "url": "https://wallstreetcn.com/livenews/3024983",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 22时13分]"
-        },
-        {
-          "title": "泰铢兑美元进一步上涨至31.2350，为2021年6月中旬以来的高点。",
-          "url": "https://wallstreetcn.com/livenews/3024706",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 14时21分]"
-        },
-        {
-          "title": "现货黄金首次站上4400美元/盎司关口，日内涨约1.4%。",
-          "url": "https://wallstreetcn.com/livenews/3024703",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 14时21分]"
-        },
-        {
-          "title": "一纸判决，千亿回归：马斯克成为史上首位7000亿美元富豪",
-          "url": "https://wallstreetcn.com/articles/3761794",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时58分 ~ 15时17分]"
-        },
-        {
-          "title": "凌云光：拟不超过500万美元认购智谱香港IPO",
-          "url": "https://wallstreetcn.com/livenews/3024940",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 21时29分]"
-        },
-        {
-          "title": "纽约银突破69美元，日内涨2.35%。",
-          "url": "https://wallstreetcn.com/livenews/3024633",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 12时03分]"
-        },
-        {
-          "title": "现货铂金日内上涨逾5%，报2085.95美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3024973",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 22时13分]"
-        },
-        {
-          "title": "霍尼韦尔预计全年调整后销售额为375亿-377亿美元，此前预期为407亿-409亿美元。 霍尼韦尔预计全年调整后每股收益为9.70-9.80美元（剔除先进材料业务影响后）。 霍尼韦尔预计第四季度调整后销售额为98亿-100亿美元，此前预期为101亿-103亿美元。 霍尼韦尔预计第四季度调整后每股收益为2.48-2.58美元，此前预期为2.52-2.62美元。 霍尼韦尔美股盘前跌超3%。",
-          "url": "https://wallstreetcn.com/livenews/3024927",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 21时29分]"
-        },
-        {
-          "title": "黄奇帆称，今后十年人民币将逐步升值至 6.0 左右，背后可能有哪些因素支撑？将对经济产生哪些影响？",
-          "url": "https://www.zhihu.com/question/1986446902292660591",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时28分 ~ 21时29分]"
-        },
-        {
-          "title": "在岸人民币兑美元北京时间16:30官方收报7.0382，较上一交易日官方收盘价涨28点，较上日夜盘收盘涨26点。",
-          "url": "https://wallstreetcn.com/livenews/3024823",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 18时14分]"
+          "time_info": "00时15分"
         },
         {
           "title": "现货黄金首次站上4400美元/盎司，今年迄今累涨逾67%",
@@ -384,1320 +60,164 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时28分 ~ 21时29分]"
+          "time_info": "[00时14分 ~ 00时15分]"
         },
         {
-          "title": "日本最高外汇事务官：若汇率出现过度波动 当局将采取“适当”行动",
-          "url": "https://flash.jin10.com/detail/20251222084439619800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
-        },
-        {
-          "title": "WTI原油期货日内涨超1.00%，现报57.09美元/桶。",
-          "url": "https://flash.jin10.com/detail/20251222103428242800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时58分"
-        },
-        {
-          "title": "LME三个月期铜升至每吨11,996美元的纪录新高。",
-          "url": "https://flash.jin10.com/detail/20251222134304664800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "现货黄金日内大涨2.00%，现报4425.71美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251222211141802800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时29分"
-        },
-        {
-          "title": "纽元兑美元NZD/USD日内涨幅达0.50%，现报0.5783。",
-          "url": "https://flash.jin10.com/detail/20251222155705055800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "美元兑日元USD/JPY短线下挫50点，一度跌至156.84。",
-          "url": "https://flash.jin10.com/detail/20251222211126853800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时29分"
-        },
-        {
-          "title": "纽约期银向上触及69美元/盎司，日内涨2.24%。",
-          "url": "https://flash.jin10.com/detail/20251222103147024800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时58分"
-        },
-        {
-          "title": "现货黄金突破4390美元/盎司，日内涨1.19%。",
-          "url": "https://flash.jin10.com/detail/20251222112015743800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
-          "title": "现货黄金首次站上4400美元关口",
-          "url": "https://flash.jin10.com/detail/20251222125107382800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "澳元兑美元AUD/USD日内涨幅达0.50%，现报0.6639。",
-          "url": "https://flash.jin10.com/detail/20251222155345062800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "WTI原油日内涨幅扩大至2.00%，现报57.62美元/桶。布伦特原油日内上涨1.83%，现报61.76美元/桶。",
-          "url": "https://flash.jin10.com/detail/20251222195316734800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "美国天然气期货日内下跌3.00%，现报3.864美元/百万英热。",
-          "url": "https://flash.jin10.com/detail/20251222223616405800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时13分"
-        },
-        {
-          "title": "中信证券：推动人民币升值的因素逐渐增多 可关注三条线索",
-          "url": "https://www.cls.cn/detail/2235646",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时58分"
-        },
-        {
-          "title": "WTI原油站上57美元/桶，日内涨0.91%。",
-          "url": "https://flash.jin10.com/detail/20251222103131293800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时58分"
-        },
-        {
-          "title": "泰铢兑美元进一步升值至31.2350，为自2021年6月中旬以来的最高水平。",
-          "url": "https://flash.jin10.com/detail/20251222125043989800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "中国外汇交易中心（CFETS）：12月19日人民币汇率指数按周涨0.17至97.88。",
-          "url": "https://wallstreetcn.com/livenews/3024522",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
-        },
-        {
-          "title": "纽约期金日内涨超1.00%，现报4432.00美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251222124920436800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "泰铢兑美元汇率进一步升值至31.200，创下自2021年6月中旬以来的最高水平。",
-          "url": "https://flash.jin10.com/detail/20251222133839780800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "WTI原油期货日内涨幅扩大至2.00%，现报57.66美元/桶。",
-          "url": "https://flash.jin10.com/detail/20251222194624876800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "印尼盾兑美元汇率跌至16,755，为自11月19日以来最低水平。",
-          "url": "https://flash.jin10.com/detail/20251222103019907800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时58分"
-        },
-        {
-          "title": "现货铂金上涨3%，至2,033美元/盎司。现货钯金上涨4%至1,782.05美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3024625",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时58分"
-        },
-        {
-          "title": "布伦特原油日内涨超1.00%，现报61.26美元/桶。",
-          "url": "https://flash.jin10.com/detail/20251222133458338800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "奈飞：获得50亿美元无担保循环信贷额度，可能将资金用于支付华纳兄弟探索公司交易价格的现金部分。",
-          "url": "https://wallstreetcn.com/livenews/3024925",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "WTI原油日内涨幅扩大至1.00%，现报57.06美元/桶。",
-          "url": "https://flash.jin10.com/detail/20251222133400105800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "花旗：将Alphabet(GOOGL.O)目标价从343美元上调至350美元。",
-          "url": "https://flash.jin10.com/detail/20251222193139544800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "现货黄金向上触及4420美元/盎司，日内涨1.88%。",
-          "url": "https://flash.jin10.com/detail/20251222150107843800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时17分"
-        },
-        {
-          "title": "机构：欧元兑美元或维持区间震荡",
-          "url": "https://flash.jin10.com/detail/20251222183921216800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "纽约期金向上触及4450美元/盎司，日内涨1.4%。",
-          "url": "https://wallstreetcn.com/livenews/3024754",
+          "title": "加密货币交易所交易产品（ETPs）最近一周资金外流8.913亿美元，结束之前连续三周流入的趋势。 ETPs投资者最近一个月资金流入18.2亿美元，过去一年流入467亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3025037",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时17分"
-        },
-        {
-          "title": "巴西经济学家预计2025年通胀率为4.33%，此前预计为4.36%。预计2025年GDP增长2.26%，此前预计为2.25%。预计2026年底巴西基准利率为12.25%，此前预计为12.13%。预计到2025年底雷亚尔兑美元汇率为5.43，此前预计为5.40。",
-          "url": "https://flash.jin10.com/detail/20251222192705468800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "英镑兑美元GBP/USD日内涨超0.50%，现报1.3446。",
-          "url": "https://flash.jin10.com/detail/20251222222541312800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时13分"
-        },
-        {
-          "title": "LME铜价升至纪录高位，接近每吨12,000美元。",
-          "url": "https://wallstreetcn.com/livenews/3024648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
-          "title": "现货白银周一早盘升至67.5美元/盎司，再创历史新高。",
-          "url": "https://flash.jin10.com/detail/20251222080954615800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
-        },
-        {
-          "title": "派拉蒙表示，将监管反向终止费从50亿美元提高至58亿美元。拉里·埃里森已同意在交易完成前不撤销埃里森家族信托或对其资产进行不利转让。该要约的条件之一是华纳兄弟探索公司继续全资持有其全球网络业务。",
-          "url": "https://flash.jin10.com/detail/20251222210257144800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时29分"
-        },
-        {
-          "title": "据CNBC：Trian和General Catalyst将以每股49美元的现金收购资产管理公司Janus Henderson，对后者的估值约为74亿美元，比上周五收盘价溢价6.5%。",
-          "url": "https://flash.jin10.com/detail/20251222221304108800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时13分"
-        },
-        {
-          "title": "派拉蒙修正收购邀约：拉里·埃里森提供404亿美元“不可撤销担保”",
-          "url": "https://wallstreetcn.com/livenews/3024981",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        },
-        {
-          "title": "纽约期银日内涨幅达3.00%，现报69.52美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251222121715043800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "现货铂金延续涨势，日内上涨近5%，至2073.63美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251222182725940800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "英镑兑美元GBP/USD站上1.34，日内涨0.16%。",
-          "url": "https://flash.jin10.com/detail/20251222121147900800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "派拉蒙表示，拉里·埃里森已同意为该收购要约提供404亿美元股权融资的不可撤销个人担保。",
-          "url": "https://flash.jin10.com/detail/20251222210126326800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时29分"
-        },
-        {
-          "title": "日本最高外汇事务官员三村淳：汇率近期出现单边、快速的走势。 将对过度波动采取适当行动。 对外汇市场波动深感担忧。",
-          "url": "https://wallstreetcn.com/livenews/3024505",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
-        },
-        {
-          "title": "纽约期金向上触及4450美元/盎司，日内涨1.43%。",
-          "url": "https://flash.jin10.com/detail/20251222145538435800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时17分"
-        },
-        {
-          "title": "派拉蒙修改对华纳的每股30美元全现金要约。",
-          "url": "https://flash.jin10.com/detail/20251222210056167800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时29分"
-        },
-        {
-          "title": "纽约期银日内涨超2.00%，现报68.86美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251222100546404800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时58分"
-        },
-        {
-          "title": "泰铢兑美元最高升至31.310，创下自2021年6月中旬以来的新高。",
-          "url": "https://wallstreetcn.com/livenews/3024600",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时58分"
-        },
-        {
-          "title": "泰铢兑美元汇率升至31.2950，为自2021年6月中旬以来首次。",
-          "url": "https://flash.jin10.com/detail/20251222115151744800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "现货铂金延续涨势，日内上涨逾5%，报2085.95美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251222204950886800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时29分"
-        },
-        {
-          "title": "现货黄金突破4350美元/盎司，日内涨0.26%。",
-          "url": "https://flash.jin10.com/detail/20251222073151121800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
-        },
-        {
-          "title": "美国国土安全部在节假日期间将自愿离境补助金提高至3000美元。",
-          "url": "https://flash.jin10.com/detail/20251222204227674800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时29分"
-        },
-        {
-          "title": "美元兑日元走低0.29%报157.30。",
-          "url": "https://wallstreetcn.com/livenews/3024591",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时58分"
-        },
-        {
-          "title": "奈飞为590亿美元过桥贷款进行部分再融资 支持竞购华纳兄弟",
-          "url": "https://wallstreetcn.com/livenews/3024925",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时29分"
+          "time_info": "00时15分"
         }
       ]
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 54,
+      "match_count": 4,
       "titles": [
         {
           "title": "央行发布一次性信用修复政策，细则详解",
-          "url": "https://www.cls.cn/detail/2235872",
-          "source": "财联社热门",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32226444",
+          "source": "澎湃新闻",
           "ranks": [
-            6,
-            4,
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时58分 ~ 17时19分]"
-        },
-        {
-          "title": "日本央行加息后日元「全线溃败」，市场为何「不买账」？",
-          "url": "https://www.zhihu.com/question/1985926686844413851",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4,
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时58分 ~ 20时24分]"
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 00时15分]"
         },
         {
           "title": "明年1月1日起正式实施！央行：单笔逾期金额在1万元以下可一次性修复信用！",
           "url": "https://wallstreetcn.com/articles/3761817",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9,
-            6,
-            5,
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[13时17分 ~ 23时13分]"
-        },
-        {
-          "title": "央行发布一次性信用修复政策，细则详解",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32226444",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            12,
-            11,
-            10,
-            9,
-            7,
-            6,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时58分 ~ 23时13分]"
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 00时15分]"
         },
         {
           "title": "央行送温暖,欠款还清可抹征信",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348210&amp;topic_name=%E5%A4%AE%E8%A1%8C%E9%80%81%E6%B8%A9%E6%9A%96%2C%E6%AC%A0%E6%AC%BE%E8%BF%98%E6%B8%85%E5%8F%AF%E6%8A%B9%E5%BE%81%E4%BF%A1",
           "source": "贴吧",
           "ranks": [
-            19,
-            21,
-            20,
-            22,
             23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时19分 ~ 23时13分]"
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 00时15分]"
         },
         {
-          "title": "“降息预期+地缘冲突”推动，黄金站上4400，白银续刷历史新高，现货铂金自2008年以来首次升破2000美元",
-          "url": "https://wallstreetcn.com/articles/3761821",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时20分 ~ 16时19分]"
-        },
-        {
-          "title": "降息窗口暂闭？美联储大鹰派发声：未来几个月没必要调整利率",
-          "url": "https://www.cls.cn/detail/2235843",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时17分 ~ 16时19分]"
-        },
-        {
-          "title": "欧洲央行管委武伊契奇：通胀和增长风险均衡。",
-          "url": "https://flash.jin10.com/detail/20251222190230791800",
+          "title": "俄罗斯央行将12月23日的官方卢布汇率定为1美元兑79.3146卢布（此前汇率为1美元兑80.7220卢布）。",
+          "url": "https://flash.jin10.com/detail/20251222230155500800",
           "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "考研 考公 国考",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "男子考公笔试综合成绩均第一却落选",
+          "url": "https://www.toutiao.com/trending/7586634048140394537/",
+          "source": "今日头条",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时11分"
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 00时15分]"
         },
         {
-          "title": "欧洲央行管委卡兹米尔：欧洲央行保持灵活，必要时随时准备行动。",
-          "url": "https://flash.jin10.com/detail/20251222180032099800",
-          "source": "金十数据",
+          "title": "多次考研失利你会放弃吗",
+          "url": "https://www.toutiao.com/trending/7586379535877324854/",
+          "source": "今日头条",
           "ranks": [
-            2
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时14分"
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 00时15分]"
         },
         {
-          "title": "欧洲央行管委武伊契奇：利率的下一步行动可能朝任何方向发展。",
-          "url": "https://flash.jin10.com/detail/20251222190227800800",
-          "source": "金十数据",
+          "title": "如何评价今年的考研数学",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E4%BB%8A%E5%B9%B4%E7%9A%84%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6",
+          "source": "bilibili 热搜",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "美联储理事米兰：你必须承认，美联储主席鲍威尔从联邦公开市场委员会那里争取到了三次降息。",
-          "url": "https://flash.jin10.com/detail/20251222214549038800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        },
-        {
-          "title": "中国央行：一次性信用修复政策实行“免申即享”，个人无需申请和操作",
-          "url": "https://wallstreetcn.com/livenews/3024528",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
-        },
-        {
-          "title": "希腊央行：希腊10月旅游收入升至22.52亿欧元，高于2024年同期的20.82亿欧元。希腊10月经常账户赤字为10.88亿欧元，2024年同期为6.39亿欧元。",
-          "url": "https://flash.jin10.com/detail/20251222170226240800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时19分"
-        },
-        {
-          "title": "印度央行公报：在全球贸易持续充满不确定性之际，印度经济展现出非凡的韧性。",
-          "url": "https://flash.jin10.com/detail/20251222214437887800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        },
-        {
-          "title": "符合哪些条件的逾期信息可以适用一次性信用修复政策？央行：主要有四个方面的适用条件",
-          "url": "https://wallstreetcn.com/livenews/3024526",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
-        },
-        {
-          "title": "欧洲央行管委Vujcic：利率的下一步行动可能是双向的。 通胀和（经济）增长风险是平衡的。",
-          "url": "https://wallstreetcn.com/livenews/3024921",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
             15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时11分 ~ 20时24分]"
+          "time_info": "[00时14分 ~ 00时15分]"
         },
         {
-          "title": "印度央行：通胀仍然低于目标。",
-          "url": "https://wallstreetcn.com/livenews/3025004",
-          "source": "华尔街见闻-快讯",
+          "title": "考研结束,一人一句话送给27考生",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348180&amp;topic_name=%E8%80%83%E7%A0%94%E7%BB%93%E6%9D%9F%2C%E4%B8%80%E4%BA%BA%E4%B8%80%E5%8F%A5%E8%AF%9D%E9%80%81%E7%BB%9927%E8%80%83%E7%94%9F",
+          "source": "贴吧",
           "ranks": [
-            3,
-            25
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时13分 ~ 23时13分]"
-        },
+          "time_info": "[00时14分 ~ 00时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
+      "match_count": 3,
+      "titles": [
         {
-          "title": "欧洲央行Simkus：通胀受控且经济扩张 利率决策“相当明确”",
-          "url": "https://wallstreetcn.com/livenews/3024864",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时14分 ~ 19时11分]"
-        },
-        {
-          "title": "“降息预期+地缘冲突”推动，黄金、白银续刷历史新高，现货铂金自2008年以来首次升破2000美元",
+          "title": "科技股反弹引领市场！美股高开，“Mag7”普涨，特斯拉创盘中历史高位，油价反弹超2%",
           "url": "https://wallstreetcn.com/articles/3761821",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            7
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时03分 ~ 13时17分]"
+          "time_info": "[00时14分 ~ 00时15分]"
         },
         {
-          "title": "欧洲央行管委Kazimir称央行目前感到安心 但随时准备必要时采取行动",
-          "url": "https://wallstreetcn.com/livenews/3024903",
+          "title": "特斯拉涨约3.6%，刷新盘中历史高位至496.74美元，盘中市值大约1.65万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3025030",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时11分 ~ 20时24分]"
-        },
-        {
-          "title": "央行邹澜：将进一步推动证券、保险等金融领域信用信息的归集共享应用",
-          "url": "https://wallstreetcn.com/livenews/3024689",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 14时21分]"
-        },
-        {
-          "title": "日本国债在日本央行加息后延续跌势",
-          "url": "https://flash.jin10.com/detail/20251222103352429800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时58分"
-        },
-        {
-          "title": "美联储理事米兰：随着我们逐步降息，我有必要对50个基点的降息幅度提出异议的情况会随时间推移而减少。",
-          "url": "https://flash.jin10.com/detail/20251222214320227800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        },
-        {
-          "title": "地缘紧张局势叠加美联储降息预期 金银继续走高",
-          "url": "https://flash.jin10.com/detail/20251222083843701800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
-        },
-        {
-          "title": "美联储理事米兰：我还没决定是投票支持降息25个基点还是50个基点。",
-          "url": "https://flash.jin10.com/detail/20251222214308943800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        },
-        {
-          "title": "美联储理事米兰：近期数据应该会促使人们向鸽派方向转变。 全年CPI都存在严重的向上偏差。 住房CPI因政府关门受到一定程度的扭曲。 公众未能更新观点反映出机构公信力不足。 我认为短期内不会出现经济衰退。 如果我们不调整政策，我们将面临日益严重的经济衰退风险。 我还没决定是投票支持降息25个基点还是50个基点。 若1月31日前无人获确认任命，我预计将继续留任美联储。 不得不称赞鲍威尔在降息问题上的努力。 美联储在平衡物价与就业市场方面做得不够好。",
-          "url": "https://wallstreetcn.com/livenews/3024994",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        },
-        {
-          "title": "央行发布关于实施一次性信用修复政策有关安排的通知",
-          "url": "https://flash.jin10.com/detail/20251222083120668800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
-        },
-        {
-          "title": "欧洲央行管委西姆库斯：中期通胀率将保持在2%附近。经济增长有所改善，但仍然低迷。",
-          "url": "https://flash.jin10.com/detail/20251222165406499800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时19分"
-        },
-        {
-          "title": "支持个人信用重塑！央行发布一次性信用修复政策",
-          "url": "https://wallstreetcn.com/livenews/3024520",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
-        },
-        {
-          "title": "日本内阁官房长官木原稔：正在密切关注利率上升带来的影响，同时与日本央行保持合作。",
-          "url": "https://wallstreetcn.com/livenews/3024626",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时58分"
-        },
-        {
-          "title": "印度央行10月在现货外汇市场净卖出118.8亿美元。",
-          "url": "https://flash.jin10.com/detail/20251222213935999800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        },
-        {
-          "title": "欧洲央行管委武伊契奇：克罗地亚通胀率预计2026年为3.1%，2027年为2.3%。",
-          "url": "https://flash.jin10.com/detail/20251222183906172800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "印尼央行：11月货币供应量（M2）同比增长8.3%。",
-          "url": "https://flash.jin10.com/detail/20251222123908848800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "斯洛伐克央行将2026年通胀预期下调至3.4%，此前为3.6%。",
-          "url": "https://flash.jin10.com/detail/20251222210356171800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时29分"
-        },
-        {
-          "title": "日本内阁官房长官木原稔：在与日本央行合作的同时，密切关注利率上升的影响。",
-          "url": "https://flash.jin10.com/detail/20251222101920485800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时58分"
-        },
-        {
-          "title": "欧洲央行管委武伊契奇：克罗地亚通胀率预计在未来两年放缓。",
-          "url": "https://flash.jin10.com/detail/20251222183432382800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "美联储理事米兰：支持降息50个基点的必要性有所减弱",
-          "url": "https://flash.jin10.com/detail/20251222221448120800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时13分"
-        },
-        {
-          "title": "美联储理事米兰：全年CPI存在大量上行偏差。",
-          "url": "https://flash.jin10.com/detail/20251222213441399800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        },
-        {
-          "title": "日本内阁官房长官木原稔：日本央行最新的货币政策决定旨在实现可持续的2%通胀目标。 不会对外汇走势置评。 看到外汇市场快速、单边波动。 汇率以稳定的方式反映基本面很重要。 将针对外汇采取适宜行动。 总体而言，日元疲软有助于提升企业海外销售额，但会通过高昂的进口成本加重民众生活负担。",
-          "url": "https://wallstreetcn.com/livenews/3024614",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时58分"
-        },
-        {
-          "title": "欧洲央行管委武伊契奇：克罗地亚经济增长将在2026年放缓至2.8%。",
-          "url": "https://flash.jin10.com/detail/20251222182753995800",
-          "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "央行副行长邹澜：一次性信用修复政策不区分贷款机构",
-          "url": "https://wallstreetcn.com/livenews/3024611",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时58分"
-        },
-        {
-          "title": "中信建投：美国CPI超预期降温 继续助推有色牛市",
-          "url": "https://flash.jin10.com/detail/20251222080714097800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
-        },
-        {
-          "title": "日本内阁官房长官木原稔：日本央行最新的货币政策决定旨在实现可持续的2%通胀目标。",
-          "url": "https://flash.jin10.com/detail/20251222101406369800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时58分"
-        },
-        {
-          "title": "欧洲央行管委武伊契奇：克罗地亚经济增长将于2025年第四季度回升。",
-          "url": "https://flash.jin10.com/detail/20251222182642398800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "马来西亚11月CPI同比上涨1.4%，预期为上涨1.5%；11月CPI环比为0.0%。",
-          "url": "https://flash.jin10.com/detail/20251222120220766800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "加拿大11月工业品物价指数年率 6.1%，前值6%。",
-          "url": "https://flash.jin10.com/detail/20251222213007610800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        },
-        {
-          "title": "央行副行长邹澜：截至11月末央行征信系统已收录8.1亿自然人信贷信息",
-          "url": "https://wallstreetcn.com/livenews/3024608",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时58分"
-        },
-        {
-          "title": "加拿大11月工业品物价指数月率 0.9%，预期0.3%，前值1.50%。",
-          "url": "https://flash.jin10.com/detail/20251222213007584800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        },
-        {
-          "title": "印度央行公报：通胀率一直低于目标。",
-          "url": "https://flash.jin10.com/detail/20251222220334972800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时13分"
+          "time_info": "00时15分"
         },
         {
-          "title": "中国央行在香港发行400亿元人民币6个月期央行票据 息率1.67%",
-          "url": "https://wallstreetcn.com/livenews/3024736",
+          "title": "纳斯达克金龙中国指数盘初涨约0.4%。 热门中概股阿特斯太阳能涨超10%，携程涨超2.2%，晶科能源涨约2%，大全新能源涨超1.3%，理想、网易至多涨超0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3025021",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时17分"
-        },
-        {
-          "title": "泰国央行行长：明年通胀目标区间维持在1%至3%。",
-          "url": "https://flash.jin10.com/detail/20251222115657244800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "本周央行公开市场将有4575亿元逆回购到期",
-          "url": "https://wallstreetcn.com/livenews/3024499",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
-        },
-        {
-          "title": "美联储理事米兰：美联储在平衡物价和就业市场方面做得并不出色。",
-          "url": "https://flash.jin10.com/detail/20251222215445021800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时13分"
-        },
-        {
-          "title": "印度央行公告：高频指标显示，节后月份11月的整体经济活动保持坚挺。",
-          "url": "https://flash.jin10.com/detail/20251222215049665800",
-          "source": "金十数据",
           "ranks": [
             30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时13分"
+          "time_info": "00时15分"
         }
       ]
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 35,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "付鹏：决定2026全球资产涨跌的关键—AI“高速路”上，真有车跑吗? | Alpha峰会",
-          "url": "https://wallstreetcn.com/articles/3761783",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时12分 ~ 08时58分]"
-        },
-        {
-          "title": "OpenAI 被曝正寻求千亿美元融资，单季亏损超 120 亿美元，公司进入「红色代码」紧急状态，透露哪些信息？",
-          "url": "https://www.zhihu.com/question/1985011347914774514",
-          "source": "知乎",
-          "ranks": [
-            3,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时12分 ~ 08时58分]"
-        },
-        {
-          "title": "挑战复刻AI可食用岩浆",
-          "url": "https://www.douyin.com/hot/2343202",
-          "source": "抖音",
-          "ranks": [
-            7,
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时12分 ~ 08时58分]"
-        },
-        {
-          "title": "哈尔滨大雪人穿雨衣系AI生成",
-          "url": "https://www.douyin.com/hot/2343306",
-          "source": "抖音",
-          "ranks": [
-            12,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时12分 ~ 10时58分]"
-        },
-        {
-          "title": "a16z年度重磅报告：OpenAI艰难守擂，谷歌火力全开，用户只选一个",
-          "url": "https://wallstreetcn.com/articles/3761798",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时12分 ~ 19时11分]"
-        },
-        {
-          "title": "告别低通胀、AI接力新需求叙事，改革红利提振消费率......十大券商一文展望2026中国经济",
-          "url": "https://wallstreetcn.com/articles/3761246",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时12分 ~ 08时58分]"
-        },
-        {
-          "title": "2025美股十大震撼事件：从关税风暴到AI狂潮 70万亿市场的盛宴与危机",
-          "url": "https://www.cls.cn/detail/2236150",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7,
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时17分 ~ 22时13分]"
-        },
-        {
-          "title": "哈尔滨网红大雪人穿雨衣？系AI生成",
-          "url": "https://www.toutiao.com/trending/7585558853728190474/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时12分 ~ 07时11分]"
-        },
-        {
-          "title": "英语兔的年报DNA里有AI",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E8%AF%AD%E5%85%94%E7%9A%84%E5%B9%B4%E6%8A%A5DNA%E9%87%8C%E6%9C%89AI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            24,
-            18,
-            21,
-            13,
-            23,
-            14,
-            19,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时09分 ~ 18时14分]"
-        },
         {
           "title": "AI定格|2025·强国脉动",
           "url": "https://www.toutiao.com/trending/7586532944194502707/",
@@ -1706,1122 +226,120 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时28分 ~ 23时13分]"
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 00时15分]"
         },
         {
           "title": "AI大模型独角兽招股书深度拆解：MiniMax to C，智谱 to B",
           "url": "https://wallstreetcn.com/articles/3761823",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            8,
-            5,
-            6
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时14分 ~ 23时13分]"
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 00时15分]"
         },
         {
           "title": "UP主用AI改写三体名场面",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%94%B9%E5%86%99%E4%B8%89%E4%BD%93%E5%90%8D%E5%9C%BA%E9%9D%A2",
           "source": "bilibili 热搜",
           "ranks": [
-            4,
-            24,
-            13,
-            12,
-            30,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时03分 ~ 20时24分]"
-        },
-        {
-          "title": "线上考试疑用AI，韩国高校再曝集体作弊丑闻",
-          "url": "https://news.ifeng.com/c/8pI4dhdsa8y",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时20分 ~ 19时11分]"
-        },
-        {
-          "title": "报道：OpenAI业务利润率至10月已提升至70%",
-          "url": "https://wallstreetcn.com/livenews/3024451",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            6,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时16分 ~ 07时11分]"
-        },
-        {
-          "title": "最快IPO AI公司诞生！MiniMax通过港交所聆讯 不足4年用户突破2亿",
-          "url": "https://www.cls.cn/detail/2235733",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时57分 ~ 14时21分]"
-        },
-        {
-          "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
-          "url": "https://wallstreetcn.com/articles/3761792",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时58分 ~ 15时17分]"
-        },
-        {
-          "title": "现代汽车集团将阐述通过人机协作加速人工智能机器人商业化的战略。",
-          "url": "https://flash.jin10.com/detail/20251222150907994800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时17分"
-        },
-        {
-          "title": "面对无法规避的交通事故，AI 的决策原则应优先「对驾驶者负责」还是「社会利益最大化」？",
-          "url": "https://www.zhihu.com/question/1972372550760784385",
-          "source": "知乎",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时14分 ~ 21时29分]"
-        },
-        {
-          "title": "南亚新材：拟定增募资不超过9亿元，用于基于AI算力的高阶高频高速覆铜板研发及产业化项目、补充流动资金。",
-          "url": "https://wallstreetcn.com/livenews/3024853",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 18时14分]"
-        },
-        {
-          "title": "线上考试疑用AI，韩国高校再曝集体作弊丑闻",
-          "url": "https://wallstreetcn.com/livenews/3024707",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
             16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时17分 ~ 14时21分]"
-        },
-        {
-          "title": "如何适当提醒过度迷信 AI 的老板？",
-          "url": "https://www.zhihu.com/question/1984781101030478834",
-          "source": "知乎",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时57分 ~ 10时58分]"
-        },
-        {
-          "title": "澎湃AI晚新闻丨2025年12月21日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32225231",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时28分 ~ 22时13分]"
-        },
-        {
-          "title": "东方港湾董事长但斌：“AI泡沫论”是噪音，远离融资炒股",
-          "url": "https://wallstreetcn.com/livenews/3024907",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时11分 ~ 20时24分]"
-        },
-        {
-          "title": "夸克AI眼镜G1开启预售，最低1999元",
-          "url": "https://wallstreetcn.com/livenews/3024838",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 18时14分]"
-        },
-        {
-          "title": "麦迪科技：带有丰富表情的AI陪伴机器人即将发布",
-          "url": "https://wallstreetcn.com/livenews/3024716",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "华泰证券：建议继续布局春季躁动 关注AI链等景气改善方向",
-          "url": "https://wallstreetcn.com/livenews/3024514",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
-        },
-        {
-          "title": "亿纬锂能投资10亿建设钠电总部，同步布局机器人AI中心",
-          "url": "https://wallstreetcn.com/livenews/3024959",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时29分"
-        },
-        {
-          "title": "印度民航部：已注意到印度航空AI-887航班在起飞后不久因技术问题发生的事件。",
-          "url": "https://flash.jin10.com/detail/20251222131626437800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "印度航空：航班AI887，一架从德里飞往孟买的波音777客机，因技术问题于12月22日起飞后返航德里。",
-          "url": "https://flash.jin10.com/detail/20251222122308407800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "滴普科技与沐曦股份将在企业级大模型AI应用领域携手合作",
-          "url": "https://wallstreetcn.com/livenews/3024889",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "据美国财经媒体Semafor：美国白宫人工智能和加密货币顾问萨克斯和美国特使威特科夫可能因阿联酋交易面临道德调查。",
-          "url": "https://flash.jin10.com/detail/20251222172447436800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
-          "title": "洛克希德马丁(LMT.N)与ManTech合作，推进美国作战飞机机队基于人工智能的保障工作。",
-          "url": "https://flash.jin10.com/detail/20251222220740547800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时13分"
-        },
-        {
-          "title": "MiniMax稀宇科技副总裁薛子钊：M2模型成为AI编程领域最大国产模型",
-          "url": "https://wallstreetcn.com/livenews/3024776",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-12-22）",
-          "url": "https://flash.jin10.com/detail/20251222115948930800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "让AI成为你的情绪垃圾桶",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%AE%A9AI%E6%88%90%E4%B8%BA%E4%BD%A0%E7%9A%84%E6%83%85%E7%BB%AA%E5%9E%83%E5%9C%BE%E6%A1%B6%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "华为 小米 荣耀",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "媒体报道华为 Pura80Pro+ 新机充电电池爆炸，售后凭照鉴定「人为致损」拒保，实际情况如何？",
-          "url": "https://www.zhihu.com/question/1985806313826043181",
-          "source": "知乎",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时24分 ~ 23时13分]"
-        },
-        {
-          "title": "小米17 Ultra前瞻汇总",
-          "url": "https://www.douyin.com/hot/2343771",
-          "source": "抖音",
-          "ranks": [
-            7,
-            6,
-            11,
-            12,
-            9,
-            15,
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时58分 ~ 18时14分]"
-        },
-        {
-          "title": "有消费者称华为 Pura80Pro+ 新机充电电池爆炸，售后凭照鉴定「人为致损」拒保，实际情况如何？",
-          "url": "https://www.zhihu.com/question/1985806313826043181",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时14分 ~ 19时11分]"
-        },
-        {
-          "title": "华为 Pura80Pro+ 新机充电电池爆炸，售后凭照鉴定「人为致损」合理吗？",
-          "url": "https://www.zhihu.com/question/1985806313826043181",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时19分"
-        },
-        {
-          "title": "小米手机：小米17 Ultra 新品发布会正式定档12月25日19:00。",
-          "url": "https://wallstreetcn.com/livenews/3024942",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 21时29分]"
-        },
-        {
-          "title": "华为nova15售价2699元起",
-          "url": "https://www.toutiao.com/trending/7586175594354737195/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            8,
-            18,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时19分 ~ 20时24分]"
-        },
-        {
-          "title": "如何评价华为新发布的 nova 15 系列？有哪些惊喜的功能和升级点？",
-          "url": "https://www.zhihu.com/question/1986444056365118255",
-          "source": "知乎",
-          "ranks": [
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时19分 ~ 19时11分]"
-        },
-        {
-          "title": "华为nova 15真机开箱",
-          "url": "https://www.douyin.com/hot/2344325",
-          "source": "抖音",
-          "ranks": [
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 18时14分]"
-        },
-        {
-          "title": "华为推出全屋智能套装 最低9999元起",
-          "url": "https://www.toutiao.com/trending/7586584778670325801/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时12分 ~ 23时13分]"
-        },
-        {
-          "title": "小米给汽车经销商发超1亿元“红包”？ 官方回应：仅针对“车融合店”",
-          "url": "https://wallstreetcn.com/livenews/3024938",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 21时29分]"
-        },
-        {
-          "title": "华为nova 15全系支持无网通信",
-          "url": "https://www.douyin.com/hot/2344346",
-          "source": "抖音",
-          "ranks": [
-            11,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时14分 ~ 20时24分]"
-        },
-        {
-          "title": "小米17Ultra新一代夜神",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B317Ultra%E6%96%B0%E4%B8%80%E4%BB%A3%E5%A4%9C%E7%A5%9E%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时14分 ~ 19时11分]"
-        },
-        {
-          "title": "如何评价荣耀 WIN 新品首次搭载 10000mAh 电池？这对行业和用户体验可能意味着什么？",
-          "url": "https://www.zhihu.com/question/1986403827147097591",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "华为nova 15定价2699元起",
-          "url": "https://wallstreetcn.com/livenews/3024783",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "小米集团(01810.HK)12月22日以1.495亿港元回购380万股。",
-          "url": "https://flash.jin10.com/detail/20251222182542779800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "华为nova15全系大大大大升级",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAnova15%E5%85%A8%E7%B3%BB%E5%A4%A7%E5%A4%A7%E5%A4%A7%E5%A4%A7%E5%8D%87%E7%BA%A7%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时11分"
+          "time_info": "[00时14分 ~ 00时15分]"
         }
       ]
     },
     {
       "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 12,
+      "match_count": 2,
       "titles": [
         {
           "title": "中国高铁第一大省又易主了",
           "url": "https://www.toutiao.com/trending/7586547749613473331/",
           "source": "今日头条",
           "ranks": [
-            2,
-            1,
-            8,
-            9,
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时17分 ~ 23时13分]"
-        },
-        {
-          "title": "广州地铁树洞每句都这么好哭",
-          "url": "https://www.douyin.com/hot/2342839",
-          "source": "抖音",
-          "ranks": [
-            6,
-            8,
-            7,
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时12分 ~ 07时11分]"
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 00时15分]"
         },
         {
           "title": "如何看待地铁每公里每年运营成本高达约 1500 万元？",
           "url": "https://www.zhihu.com/question/1985342741803192929",
           "source": "知乎",
           "ranks": [
-            13,
-            11
+            13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[13时17分 ~ 23时13分]"
-        },
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 00时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为 小米 荣耀",
+      "match_count": 2,
+      "titles": [
         {
-          "title": "中国高铁第一大省又易主了",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%AB%98%E9%93%81%E7%AC%AC%E4%B8%80%E5%A4%A7%E7%9C%81%E5%8F%88%E6%98%93%E4%B8%BB%E4%BA%86",
-          "source": "百度热搜",
+          "title": "媒体报道华为 Pura80Pro+ 新机充电电池爆炸，售后凭照鉴定「人为致损」拒保，实际情况如何？",
+          "url": "https://www.zhihu.com/question/1985806313826043181",
+          "source": "知乎",
           "ranks": [
-            4,
-            6,
-            7,
-            9
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时20分 ~ 19时11分]"
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 00时15分]"
         },
         {
-          "title": "乌称敖德萨州基础设施遭袭",
-          "url": "https://wallstreetcn.com/livenews/3024429",
-          "source": "华尔街见闻-快讯",
+          "title": "华为推出全屋智能套装 最低9999元起",
+          "url": "https://www.toutiao.com/trending/7586584778670325801/",
+          "source": "今日头条",
           "ranks": [
-            16,
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 06时11分]"
-        },
-        {
-          "title": "乌称敖德萨州基础设施遭袭",
-          "url": "https://flash.jin10.com/detail/20251221184128354800",
-          "source": "金十数据",
-          "ranks": [
-            20,
             29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时13分 ~ 05时10分]"
-        },
-        {
-          "title": "台湾传出地铁系统接获炸弹预告，台铁：已全面加强戒备",
-          "url": "https://news.ifeng.com/c/8pI4dhdsZw9",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时18分 ~ 19时11分]"
-        },
-        {
-          "title": "广湛高铁正式通车",
-          "url": "https://www.toutiao.com/trending/7586501329654415401/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时17分 ~ 14时21分]"
-        },
-        {
-          "title": "汕汕高铁实现全线贯通运营",
-          "url": "https://wallstreetcn.com/livenews/3024693",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            26
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时17分 ~ 14时21分]"
-        },
-        {
-          "title": "地铁逃生旧封锁区返场",
-          "url": "https://www.douyin.com/hot/2342393",
-          "source": "抖音",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 03时09分]"
-        },
-        {
-          "title": "广州至湛江高铁正式开通运营，粤西纳入大湾区90分钟生活圈",
-          "url": "https://wallstreetcn.com/livenews/3024646",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
-          "title": "上海地铁运营里程即将突破900公里：18号线二期本月底开通初期运营",
-          "url": "https://wallstreetcn.com/livenews/3024744",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时17分"
+          "time_info": "[00时14分 ~ 00时15分]"
         }
       ]
     },
     {
       "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 12,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "三星发布全球首款2nm智能手机芯片 或将用于Galaxy S26",
-          "url": "https://www.cls.cn/detail/2235586",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时12分 ~ 08时58分]"
-        },
-        {
-          "title": "重磅！全球首款2nm手机芯片诞生",
-          "url": "https://www.baidu.com/s?wd=%E9%87%8D%E7%A3%85%EF%BC%81%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE2nm%E6%89%8B%E6%9C%BA%E8%8A%AF%E7%89%87%E8%AF%9E%E7%94%9F",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            22,
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时12分 ~ 08时58分]"
-        },
         {
           "title": "【焦点复盘】创业板指高开高走涨逾2%，半导体产业链“王者归来”，机器人概念午后异动",
           "url": "https://www.cls.cn/detail/2236551",
           "source": "财联社热门",
           "ranks": [
-            9,
-            10,
-            8,
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时14分 ~ 23时13分]"
-        },
-        {
-          "title": "金十图示：2025年12月22日（周一）富时中国A50指数成分股午盘收盘行情一览：成分股涨跌互现，半导体、光伏设备等板块飘红",
-          "url": "https://flash.jin10.com/detail/20251222113412914800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
-          "title": "商务部新闻发言人就安世半导体问题答记者问",
-          "url": "https://wallstreetcn.com/livenews/3025009",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            23
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时13分 ~ 23时13分]"
-        },
-        {
-          "title": "港股芯片股盘中大涨，中芯国际一度涨超8%，华虹半导体一度涨近7%。",
-          "url": "https://wallstreetcn.com/livenews/3024678",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时03分 ~ 13时17分]"
-        },
-        {
-          "title": "我国科学家实现光芯片研究新突破 光芯片短缺或将持续至2026年底",
-          "url": "https://www.cls.cn/detail/2235822",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时17分 ~ 16时19分]"
-        },
-        {
-          "title": "美股盘前，半导体股多数上涨，美光科技涨约3%，AMD、英伟达、台积电、英特尔涨约1%。",
-          "url": "https://wallstreetcn.com/livenews/3024841",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 18时14分]"
-        },
-        {
-          "title": "商务部用中国古话回应安世半导体问题",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%95%86%E5%8A%A1%E9%83%A8%E7%94%A8%E4%B8%AD%E5%9B%BD%E5%8F%A4%E8%AF%9D%E5%9B%9E%E5%BA%94%E5%AE%89%E4%B8%96%E5%8D%8A%E5%AF%BC%E4%BD%93%E9%97%AE%E9%A2%98%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时12分 ~ 23时13分]"
-        },
-        {
-          "title": "科创板半导体龙头掀并购热潮：产业链整合加速，并购迈向理性繁荣",
-          "url": "https://www.cls.cn/detail/2236063",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时14分"
+          "time_info": "[00时14分 ~ 00时15分]"
         },
         {
           "title": "行业ETF美股盘初普遍上涨，半导体ETF、能源业ETF至多涨1.53%，全球科技股指数ETF、银行业ETF、科技行业ETF至多涨0.89%，网络股指数ETF涨0.76%。",
           "url": "https://wallstreetcn.com/livenews/3025022",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时13分"
-        },
-        {
-          "title": "三星发布全球首款2nm手机芯片",
-          "url": "https://www.toutiao.com/trending/7586205142566109226/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "考研 考公 国考",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "一高数押中考研数学题",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E9%AB%98%E6%95%B0%E6%8A%BC%E4%B8%AD%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6%E9%A2%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时12分 ~ 13时17分]"
-        },
-        {
-          "title": "考研结束,一人一句话送给27考生",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348180&amp;topic_name=%E8%80%83%E7%A0%94%E7%BB%93%E6%9D%9F%2C%E4%B8%80%E4%BA%BA%E4%B8%80%E5%8F%A5%E8%AF%9D%E9%80%81%E7%BB%9927%E8%80%83%E7%94%9F",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            6,
-            9,
-            14,
-            15,
-            16,
-            17,
-            19,
-            21,
-            23,
-            27,
-            29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时12分 ~ 23时13分]"
-        },
-        {
-          "title": "博士UP主毕业考研全纪录",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8D%9A%E5%A3%ABUP%E4%B8%BB%E6%AF%95%E4%B8%9A%E8%80%83%E7%A0%94%E5%85%A8%E7%BA%AA%E5%BD%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2,
-            24,
-            28,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时17分 ~ 18时14分]"
-        },
-        {
-          "title": "考研数学",
-          "url": "https://www.douyin.com/hot/2343004",
-          "source": "抖音",
-          "ranks": [
-            18,
-            11,
-            25,
-            21,
-            24,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时12分 ~ 07时11分]"
-        },
-        {
-          "title": "2026 考研初试结束，考完试的你感觉如何，后续有什么打算？",
-          "url": "https://www.zhihu.com/question/1986130890544419610",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时12分 ~ 07时11分]"
-        },
-        {
-          "title": "难度爆表!考研英语大猛1虐哭考生",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348159&amp;topic_name=%E9%9A%BE%E5%BA%A6%E7%88%86%E8%A1%A8%21%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E5%A4%A7%E7%8C%9B1%E8%99%90%E5%93%AD%E8%80%83%E7%94%9F",
-          "source": "贴吧",
-          "ranks": [
-            23,
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时12分 ~ 10时58分]"
-        },
-        {
-          "title": "男子35岁当老总53岁升本科55岁考研",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%9035%E5%B2%81%E5%BD%93%E8%80%81%E6%80%BB53%E5%B2%81%E5%8D%87%E6%9C%AC%E7%A7%9155%E5%B2%81%E8%80%83%E7%A0%94",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            15,
-            7,
-            6,
-            10,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时19分 ~ 23时13分]"
-        },
-        {
-          "title": "男子35岁当老总53岁升本科55岁考研",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%9035%E5%B2%81%E5%BD%93%E8%80%81%E6%80%BB53%E5%B2%81%E5%8D%87%E6%9C%AC%E7%A7%9155%E5%B2%81%E8%80%83%E7%A0%94%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时17分 ~ 16时19分]"
-        },
-        {
-          "title": "如何评价今年的考研数学",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E4%BB%8A%E5%B9%B4%E7%9A%84%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时24分 ~ 23时13分]"
-        },
-        {
-          "title": "博士UP谈考研感受",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8D%9A%E5%A3%ABUP%E8%B0%88%E8%80%83%E7%A0%94%E6%84%9F%E5%8F%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时11分 ~ 08时58分]"
-        },
-        {
-          "title": "多次考研失利你会放弃吗",
-          "url": "https://www.toutiao.com/trending/7586379535877324854/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时12分 ~ 23时13分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "房地产 房价 楼市 LPR",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "金十整理：下周重要事件与数据预告——中国一年期LPR、美国GDP数据将公布；全球多市场因圣诞假期密集休市",
-          "url": "https://flash.jin10.com/detail/20251221213926741800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            17,
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 07时11分]"
-        },
-        {
-          "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日中国将公布至12月22日一年期LPR、英国将公布三季度GDP数据",
-          "url": "https://flash.jin10.com/detail/20251222085106744800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
-        },
-        {
-          "title": "孟晓苏：国家下场整治唱衰楼市",
-          "url": "https://www.toutiao.com/trending/7585231803288649771/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            23,
-            25,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时09分 ~ 07时11分]"
-        },
-        {
-          "title": "中央经济工作会议勾勒房地产发展新逻辑：从“止跌回稳”到“着力稳定”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32222649",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 01时10分]"
-        },
-        {
-          "title": "金十数据整理：每日房地产行业动态汇总（2025-12-22）",
-          "url": "https://flash.jin10.com/detail/20251222154323237800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "本周重要事件与数据预告：LPR、美国GDP；全球多个市场因假期休市",
-          "url": "https://flash.jin10.com/detail/20251222080821102800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "特斯拉CEO埃隆·马斯克：特斯拉无人出租车未受旧金山停电影响。",
-          "url": "https://flash.jin10.com/detail/20251222043920328800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            3,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时10分 ~ 07时11分]"
-        },
-        {
-          "title": "特斯拉人形机器人“上岗”卖爆米花",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E2%80%9C%E4%B8%8A%E5%B2%97%E2%80%9D%E5%8D%96%E7%88%86%E7%B1%B3%E8%8A%B1",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            19,
-            17,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时58分 ~ 14时21分]"
-        },
-        {
-          "title": "Matrix可再生能源公司与特斯拉签署协议，在英国合作开发电池储能项目。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3024986",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 22时13分]"
-        },
-        {
-          "title": "特斯拉涨约3.6%，刷新盘中历史高位至496.74美元，盘中市值大约1.65万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3025030",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时13分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数盘初涨约0.4%。 热门中概股阿特斯太阳能涨超10%，携程涨超2.2%，晶科能源涨约2%，大全新能源涨超1.3%，理想、网易至多涨超0.5%。",
-          "url": "https://wallstreetcn.com/livenews/3025021",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时13分"
+          "time_info": "00时15分"
         }
       ]
     },
     {
       "keyword_group": "英伟达 台积电 AMD 高通",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
         {
           "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
@@ -2831,287 +349,36 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时19分 ~ 23时13分]"
-        },
-        {
-          "title": "科技股反弹引领市场！美股期货走高，“Mag7”普涨，英伟达盘前涨2%，甲骨文涨超2%，油价反弹超2%",
-          "url": "https://wallstreetcn.com/articles/3761821",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时28分 ~ 23时13分]"
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 00时15分]"
         },
         {
           "title": "贵金属携手迭创新高 英伟达率科技股延续反弹势头 | 今夜看点",
           "url": "https://www.cls.cn/detail/2236882",
           "source": "财联社热门",
           "ranks": [
-            13,
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时13分 ~ 23时13分]"
-        },
-        {
-          "title": "英伟达美股盘前拉升， 现涨近2%",
-          "url": "https://wallstreetcn.com/livenews/3024963",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            29
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时29分 ~ 22时13分]"
-        },
-        {
-          "title": "美股开盘，道指涨0.1%，标普500指数涨0.4%，纳指涨0.6%。科技股走高，英伟达(NVDA.O)涨1.5%，美光科技(MU.O)涨4%，甲骨文(ORCL.N)涨2.3%。华纳兄弟探索(WBD.O)涨3.5%，派拉蒙竞购华纳兄弟获拉里·埃里森404亿美元担保。纳斯达克中国金龙指数涨0.2%，阿里巴巴(BABA.N)涨0.3%，百度(BIDU.O)涨0.1%。",
-          "url": "https://flash.jin10.com/detail/20251222223037991800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 iPhone",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "苹果(AAPL.O)：强烈反对意大利反垄断监管机构的决定，将提出上诉。",
-          "url": "https://flash.jin10.com/detail/20251222184939369800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "意大利反垄断监管机构因苹果涉嫌在应用“追踪透明度”政策中滥用市场支配地位，对其处以9800万欧元罚款。",
-          "url": "https://flash.jin10.com/detail/20251222150344819800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时17分"
-        },
-        {
-          "title": "商务部国际贸易谈判代表兼副部长李成钢会见美国苹果公司首席运营官萨比赫·汗",
-          "url": "https://wallstreetcn.com/livenews/3024738",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时17分"
-        },
-        {
-          "title": "欧盟对苹果发布iOS 26.3测试版更新表示欢迎",
-          "url": "https://flash.jin10.com/detail/20251222205731805800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "创业板",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "AH股高开高走，创业板涨超2%，贵金属、CPO、智驾走强，拓荆科技市值破千亿，沪银续创新高",
-          "url": "https://wallstreetcn.com/articles/3761822",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时24分 ~ 23时13分]"
-        },
-        {
-          "title": "上证指数早盘收报3915.20点，涨0.64%。 深证成指早盘收报13318.80点，涨1.36%。 创业板指早盘收报3178.51点，涨1.80%。 沪深300早盘收报4604.43点，涨0.79%。 科创50早盘收报1334.12点，涨1.95%。 中证500早盘收报7265.85点，涨1.34%。 中证1000早盘收报7425.89点，涨1.31%。",
-          "url": "https://wallstreetcn.com/livenews/3024668",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时03分 ~ 13时17分]"
-        },
-        {
-          "title": "12月22日午间收评：创业板指半日涨1.8%，海南板块近20股涨停",
-          "url": "https://wallstreetcn.com/livenews/3024667",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时03分 ~ 13时17分]"
-        },
-        {
-          "title": "上证指数收报3917.36点，涨0.69%。 深证成指收报13332.73点，涨1.47%。 创业板指收报3191.98点，涨2.23%。 沪深300收报4611.62点，涨0.95%。 科创50收报1335.25点，涨2.04%。 中证500收报7255.66点，涨1.20%。 中证1000收报7408.35点，涨1.07%。",
-          "url": "https://wallstreetcn.com/livenews/3024763",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时17分"
+          "time_info": "[00时14分 ~ 00时15分]"
         }
       ]
     },
     {
       "keyword_group": "大模型 ChatGPT Kimi Sora OpenAI",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "MiniMax首次披露业绩！将与智谱争夺大模型“第一股”",
           "url": "https://wallstreetcn.com/articles/3761813",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时18分 ~ 23时13分]"
-        },
-        {
-          "title": "“全球大模型第一股”来了？智谱“家底”曝光 营收3.12亿估值243 亿",
-          "url": "https://www.cls.cn/detail/2235451",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时12分 ~ 07时11分]"
-        },
-        {
-          "title": "Kimi 月活不足豆包 5%，被指「跌下神坛」，如何评价 Kimi 的表现？为何用户会大幅度下滑？",
-          "url": "https://www.zhihu.com/question/1984935867001889123",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大学生 毕业生",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "一大学生爱吃路边摊确诊胃癌晚期",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%88%B1%E5%90%83%E8%B7%AF%E8%BE%B9%E6%91%8A%E7%A1%AE%E8%AF%8A%E8%83%83%E7%99%8C%E6%99%9A%E6%9C%9F",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            17,
-            13,
-            12,
-            14,
-            24,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时09分 ~ 18时14分]"
-        },
-        {
-          "title": "大学生比较认真地学习 Linux 选择双系统，u 盘启动还是虚拟机？",
-          "url": "https://www.zhihu.com/question/1986036979931043774",
-          "source": "知乎",
-          "ranks": [
-            18
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时18分 ~ 16时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "双十一 618 电商 优惠券",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "顺丰退出抖音退货业务，京东、中通、圆通等将接盘，背后涉及哪些市场博弈？会重塑电商退货物流的竞争格局吗？",
-          "url": "https://www.zhihu.com/question/1985745395947701748",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2,
-            4,
-            5,
-            6,
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时12分 ~ 08时58分]"
-        },
-        {
-          "title": "美团暂停 B2C 电商业务「团好货」，曾多年尝试用外卖导流电商，为什么没成功？反映出即时零售什么趋势？",
-          "url": "https://www.zhihu.com/question/1983900756697376164",
-          "source": "知乎",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 12时03分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "就业 裁员 招聘",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "张韶涵回应裁员裁到大动脉",
-          "url": "https://www.toutiao.com/trending/7585255894837968959/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时12分 ~ 12时03分]"
+          "time_info": "[00时14分 ~ 00时15分]"
         }
       ]
     }
