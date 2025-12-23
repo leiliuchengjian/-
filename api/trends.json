@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T07:12:29.068796+08:00",
-  "total_titles_processed": 652,
+  "generated_at": "2025-12-23T08:55:56.266338+08:00",
+  "total_titles_processed": 791,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 37,
+      "match_count": 41,
       "titles": [
         {
           "title": "中金：恒科和人民币谁“错”了？",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        },
+        {
+          "title": "中信证券：2027年全球液冷市场空间将达到218亿美元",
+          "url": "https://wallstreetcn.com/livenews/3025217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         },
         {
           "title": "谷歌母公司Alphabet将以47.5亿美元（现金+债务）收购数据中心的能源/电力供应商Intersect。",
@@ -127,6 +138,18 @@
           "time_info": "[00时15分 ~ 02时17分]"
         },
         {
+          "title": "现货黄金首次站上4400美元/盎司，今年迄今累涨逾67%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32227407",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 08时55分]"
+        },
+        {
           "title": "富国银行(WFC.N)计划参与日交易量达3.9万亿美元的期权市场清算。",
           "url": "https://flash.jin10.com/detail/20251223025611959800",
           "source": "金十数据",
@@ -164,17 +187,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时11分 ~ 05时11分]"
-        },
-        {
-          "title": "现货黄金首次站上4400美元/盎司，今年迄今累涨逾67%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32227407",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 01时11分]"
         },
         {
           "title": "美元指数22日下跌",
@@ -361,9 +373,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "纽约期金一度突破4500美元/盎司，日内涨近0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3025199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "国际黄金期货涨至4500美元",
+          "url": "https://flash.jin10.com/detail/20251223081555554800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         },
         {
           "title": "艺电（EA）股东们投票，批准出售550亿美元股权（每股210美元）给沙特主权财富基金（PIF）的交易。",
@@ -372,7 +406,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -410,13 +444,24 @@
           "time_info": "01时11分"
         },
         {
+          "title": "加拿大养老金计划投资委员会（CPP）和高盛将在欧洲数据中心投资26亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3025183",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
           "title": "周一（12月22日）纽约尾盘（周二北京时间05:59），离岸人民币（CNH）兑美元报7.0311元，较上周五纽约尾盘涨31点，日内整体交投于7.0369-7.0298元区间。 亚太盘初，离岸人民币逼近2024年10月2日顶部7.0061元和当年9月30日顶部6.9735元。",
           "url": "https://wallstreetcn.com/livenews/3025147",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -438,7 +483,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         }
@@ -446,7 +491,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 15,
+      "match_count": 23,
       "titles": [
         {
           "title": "AI定格|2025·强国脉动",
@@ -456,8 +501,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 07时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 08时55分]"
         },
         {
           "title": "UP主用AI改写三体名场面",
@@ -470,8 +515,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 07时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 08时55分]"
         },
         {
           "title": "AI大模型独角兽招股书深度拆解：MiniMax to C，智谱 to B",
@@ -482,8 +527,31 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 07时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 08时55分]"
+        },
+        {
+          "title": "利用AI造谣中国女篮两男子刑拘",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%88%A9%E7%94%A8AI%E9%80%A0%E8%B0%A3%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E4%B8%A4%E7%94%B7%E5%AD%90%E5%88%91%E6%8B%98%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "美股收盘：三大指数连涨三日 AI概念走强美光升超4%",
+          "url": "https://www.cls.cn/detail/2237037",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时11分 ~ 08时55分]"
         },
         {
           "title": "美银CEO：人工智能的经济效益正加速显现",
@@ -550,6 +618,18 @@
           "time_info": "[03时11分 ~ 05时11分]"
         },
         {
+          "title": "财晓得｜推开未来之门：AI视野下的2030上海城市图景",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32229845",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时11分 ~ 08时55分]"
+        },
+        {
           "title": "美国五角大楼将与马斯克旗下xAI拓展AI Arsenal。",
           "url": "https://wallstreetcn.com/livenews/3025118",
           "source": "华尔街见闻-快讯",
@@ -560,17 +640,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时11分 ~ 06时12分]"
-        },
-        {
-          "title": "美股收盘：三大指数连涨三日 AI概念走强美光升超4%",
-          "url": "https://www.cls.cn/detail/2237037",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时11分 ~ 07时12分]"
         },
         {
           "title": "美国联邦贸易委员会（FTC）：为响应美国总统特朗普的人工智能行动计划，已重新启动并搁置对Rytr的最终命令。",
@@ -597,15 +666,59 @@
           "time_info": "[04时13分 ~ 05时11分]"
         },
         {
-          "title": "财晓得｜推开未来之门：AI视野下的2030上海城市图景",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32229845",
-          "source": "澎湃新闻",
+          "title": "利用AI造谣“中国女篮”，两男子刑拘",
+          "url": "https://www.toutiao.com/trending/7586636403350523428/",
+          "source": "今日头条",
           "ranks": [
-            20
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时11分 ~ 07时12分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "两男子用AI造谣中国女篮被刑拘",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E7%94%B7%E5%AD%90%E7%94%A8AI%E9%80%A0%E8%B0%A3%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E8%A2%AB%E5%88%91%E6%8B%98",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "用AI造谣中国女篮两男子被刑拘",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E9%80%A0%E8%B0%A3%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E4%B8%A4%E7%94%B7%E5%AD%90%E8%A2%AB%E5%88%91%E6%8B%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "两男子用AI造谣中国女篮被刑拘",
+          "url": "https://www.douyin.com/hot/2344497",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "加码AI算力与电力布局！Alphabet斥资47.5亿美元收购Intersect",
+          "url": "https://www.cls.cn/detail/2236998",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         },
         {
           "title": "美国总统特朗普：新的舰艇将“高程度地由人工智能控制”。",
@@ -614,7 +727,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -625,15 +738,37 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "报道：英伟达 、SK海力士与群联电子共同开发AI固态硬盘",
+          "url": "https://wallstreetcn.com/livenews/3025196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "报道：英伟达 、SK海力士与群联电子共同开发AI固态硬盘",
+          "url": "https://flash.jin10.com/detail/20251223081442090800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         }
       ]
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "央行发布一次性信用修复政策，细则详解",
@@ -643,19 +778,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 07时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 08时55分]"
         },
         {
           "title": "明年1月1日起正式实施！央行：单笔逾期金额在1万元以下可一次性修复信用！",
           "url": "https://wallstreetcn.com/articles/3761817",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 07时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 08时55分]"
         },
         {
           "title": "央行送温暖,欠款还清可抹征信",
@@ -665,8 +801,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 07时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 08时55分]"
         },
         {
           "title": "欧洲央行执委Schnabel：（我）不曾说过应该加息。 在可预见的未来不存在加息预期。 利率可能会在相当一段时期内保持稳定。",
@@ -678,6 +814,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        },
+        {
+          "title": "降息预期+地缘冲突推动资金涌向贵金属 黄金白银同日改写历史",
+          "url": "https://www.cls.cn/detail/2237020",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         },
         {
           "title": "欧洲央行执委施纳贝尔：我并没有说过应该加息。",
@@ -727,6 +874,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时11分 ~ 04时13分]"
+        },
+        {
+          "title": "澳洲联储会议纪要：10月CPI表明，第四季度通胀风险也可能高于预期。",
+          "url": "https://flash.jin10.com/detail/20251223083041281800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         },
         {
           "title": "欧洲央行执委施纳贝尔澄清立场：未暗示加息，强调利率将长期维稳",
@@ -787,7 +945,7 @@
     },
     {
       "keyword_group": "英伟达 台积电 AMD 高通",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
@@ -797,8 +955,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 07时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 08时55分]"
         },
         {
           "title": "贵金属携手迭创新高 英伟达率科技股延续反弹势头 | 今夜看点",
@@ -807,11 +965,12 @@
           "ranks": [
             12,
             10,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 07时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 08时55分]"
         },
         {
           "title": "量子计算概念股普遍走高，D-Wave涨超20%，Ionq涨12.9%，ARQQ涨6.6%，昆腾QMCO涨3.7%，甲骨文涨2.6%，量子ETF涨1.5%，英伟达涨1%。",
@@ -882,12 +1041,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时11分 ~ 04时13分]"
+        },
+        {
+          "title": "七年来首次！三星、海力士毛利率或超过台积电 存储迎来“高光时刻”",
+          "url": "https://www.cls.cn/detail/2236877",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         }
       ]
     },
     {
       "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "科技股反弹引领市场！美股高开，“Mag7”普涨，特斯拉创盘中历史高位，油价反弹超2%",
@@ -907,11 +1077,23 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时11分 ~ 07时12分]"
+          "appearance_count": 9,
+          "time_info": "[01时11分 ~ 08时55分]"
+        },
+        {
+          "title": "\"圣诞行情\"开启，标普逼近历史高位，特斯拉盘中新高，金银铜齐新高，原油大涨",
+          "url": "https://wallstreetcn.com/articles/3761821",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         },
         {
           "title": "特斯拉涨约3.6%，刷新盘中历史高位至496.74美元，盘中市值大约1.65万亿美元。",
@@ -938,65 +1120,8 @@
       ]
     },
     {
-      "keyword_group": "考研 考公 国考",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "男子考公笔试综合成绩均第一却落选",
-          "url": "https://www.toutiao.com/trending/7586634048140394537/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 07时12分]"
-        },
-        {
-          "title": "如何评价今年的考研数学",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E4%BB%8A%E5%B9%B4%E7%9A%84%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            10,
-            11,
-            5,
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 07时12分]"
-        },
-        {
-          "title": "考研结束,一人一句话送给27考生",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348180&amp;topic_name=%E8%80%83%E7%A0%94%E7%BB%93%E6%9D%9F%2C%E4%B8%80%E4%BA%BA%E4%B8%80%E5%8F%A5%E8%AF%9D%E9%80%81%E7%BB%9927%E8%80%83%E7%94%9F",
-          "source": "贴吧",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 07时12分]"
-        },
-        {
-          "title": "多次考研失利你会放弃吗",
-          "url": "https://www.toutiao.com/trending/7586379535877324854/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 01时11分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "中国高铁第一大省又易主了",
@@ -1019,11 +1144,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 07时12分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 08时55分]"
         },
         {
           "title": "高铁乘客自曝提醒小孩太吵反被其家长打，警方已介入调查，真实情况如何？该如何界定家长行为？",
@@ -1033,17 +1159,29 @@
             16,
             13,
             4,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时13分 ~ 07时12分]"
+          "appearance_count": 6,
+          "time_info": "[04时13分 ~ 08时55分]"
+        },
+        {
+          "title": "印度政府计划向主权基金——印度国家投资与基础设施基金（NIIF）投资3,000亿卢比。",
+          "url": "https://wallstreetcn.com/livenews/3025198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         }
       ]
     },
     {
       "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "【焦点复盘】创业板指高开高走涨逾2%，半导体产业链“王者归来”，机器人概念午后异动",
@@ -1066,11 +1204,23 @@
             14,
             11,
             9,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时11分 ~ 07时12分]"
+          "appearance_count": 9,
+          "time_info": "[01时11分 ~ 08时55分]"
+        },
+        {
+          "title": "报道：芯片制造商壁仞科技的香港IPO面向散户发售部分获47倍超额认购",
+          "url": "https://wallstreetcn.com/livenews/3025187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         },
         {
           "title": "行业ETF美股盘初普遍上涨，半导体ETF、能源业ETF至多涨1.53%，全球科技股指数ETF、银行业ETF、科技行业ETF至多涨0.89%，网络股指数ETF涨0.76%。",
@@ -1086,8 +1236,66 @@
       ]
     },
     {
+      "keyword_group": "考研 考公 国考",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "男子考公笔试综合成绩均第一却落选",
+          "url": "https://www.toutiao.com/trending/7586634048140394537/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 08时55分]"
+        },
+        {
+          "title": "如何评价今年的考研数学",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E4%BB%8A%E5%B9%B4%E7%9A%84%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            10,
+            11,
+            5,
+            17,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 08时55分]"
+        },
+        {
+          "title": "考研结束,一人一句话送给27考生",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348180&amp;topic_name=%E8%80%83%E7%A0%94%E7%BB%93%E6%9D%9F%2C%E4%B8%80%E4%BA%BA%E4%B8%80%E5%8F%A5%E8%AF%9D%E9%80%81%E7%BB%9927%E8%80%83%E7%94%9F",
+          "source": "贴吧",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 08时55分]"
+        },
+        {
+          "title": "多次考研失利你会放弃吗",
+          "url": "https://www.toutiao.com/trending/7586379535877324854/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 01时11分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "华为 小米 荣耀",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "媒体报道华为 Pura80Pro+ 新机充电电池爆炸，售后凭照鉴定「人为致损」拒保，实际情况如何？",
@@ -1115,6 +1323,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时14分 ~ 02时17分]"
+        },
+        {
+          "title": "王者荣耀",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         }
       ]
     },
