@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T22:13:00.543458+08:00",
-  "total_titles_processed": 1800,
+  "generated_at": "2025-12-26T23:12:55.015377+08:00",
+  "total_titles_processed": 1877,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 64,
+      "match_count": 66,
       "titles": [
         {
           "title": "人民币年底升值加速！离岸升破7.0大关，在岸升破7.01关口，均创下去年9月底来新高",
@@ -53,11 +53,12 @@
           "ranks": [
             7,
             5,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[06时11分 ~ 22时13分]"
+          "appearance_count": 24,
+          "time_info": "[06时11分 ~ 23时12分]"
         },
         {
           "title": "人民币升值，只是开始？",
@@ -98,8 +99,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[10时48分 ~ 22时13分]"
+          "appearance_count": 20,
+          "time_info": "[10时48分 ~ 23时12分]"
         },
         {
           "title": "人民币重返6时代 钱袋子正在被重写",
@@ -149,6 +150,22 @@
           "time_info": "[00时14分 ~ 06时11分]"
         },
         {
+          "title": "37%美国人拿不出400美元应急",
+          "url": "https://www.toutiao.com/trending/7587665279485329451/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            8,
+            12,
+            19,
+            27,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时19分 ~ 23时12分]"
+        },
+        {
           "title": "离岸人民币汇率升破7",
           "url": "https://www.baidu.com/s?wd=%E7%A6%BB%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B1%87%E7%8E%87%E5%8D%87%E7%A0%B47",
           "source": "百度热搜",
@@ -161,21 +178,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时11分 ~ 07时12分]"
-        },
-        {
-          "title": "37%美国人拿不出400美元应急",
-          "url": "https://www.toutiao.com/trending/7587665279485329451/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            8,
-            12,
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时19分 ~ 18时13分]"
         },
         {
           "title": "离岸人民币兑美元升穿 7.0 关口，是什么在助推这波上涨，其叠加国际金属涨价潮，对哪些行业有较大影响？",
@@ -239,17 +241,6 @@
           "time_info": "08时55分"
         },
         {
-          "title": "白银或迎“狂热期”：资深投资者看涨至300美元",
-          "url": "https://wallstreetcn.com/livenews/3027363",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        },
-        {
           "title": "美元兑瑞郎USD/CHF向上触及0.79，日内涨0.35%。",
           "url": "https://flash.jin10.com/detail/20251226160802758800",
           "source": "金十数据",
@@ -298,24 +289,13 @@
           "time_info": "07时12分"
         },
         {
-          "title": "WTI原油日内走低1.00%，现报57.88美元/桶。",
-          "url": "https://flash.jin10.com/detail/20251226220101696800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        },
-        {
           "title": "布伦特原油日内下跌1.00%，现报61.67美元/桶。WTI原油回落至58美元/桶下方，日内跌0.86%。",
           "url": "https://flash.jin10.com/detail/20251226220026433800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         },
@@ -375,6 +355,18 @@
           "time_info": "[10时48分 ~ 13时15分]"
         },
         {
+          "title": "白银或迎“狂热期”：资深投资者看涨至300美元",
+          "url": "https://wallstreetcn.com/livenews/3027363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时13分 ~ 23时12分]"
+        },
+        {
           "title": "布油、美油短线走低约0.1美元，现分别报61.82美元/桶、58.44美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3027159",
           "source": "华尔街见闻-快讯",
@@ -399,6 +391,31 @@
           "time_info": "[19时11分 ~ 20时22分]"
         },
         {
+          "title": "WTI原油日内走低1.00%，现报57.88美元/桶。",
+          "url": "https://flash.jin10.com/detail/20251226220101696800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时13分 ~ 23时12分]"
+        },
+        {
+          "title": "人民币破7之后",
+          "url": "https://wallstreetcn.com/articles/3762109",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时27分 ~ 23时12分]"
+        },
+        {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0058元，较周三夜盘收盘涨228点。成交量359.43亿美元。",
           "url": "https://wallstreetcn.com/livenews/3026822",
           "source": "华尔街见闻-快讯",
@@ -410,18 +427,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时11分 ~ 07时12分]"
-        },
-        {
-          "title": "人民币破7之后",
-          "url": "https://wallstreetcn.com/articles/3762109",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时27分 ~ 22时13分]"
         },
         {
           "title": "现货铂金上涨8%至每盎司2,413.62美元，创纪录新高。",
@@ -448,6 +453,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时54分 ~ 13时15分]"
+        },
+        {
+          "title": "海南封关后海南存的人民币是不是离岸人民币？",
+          "url": "https://www.zhihu.com/question/1984996494777025659",
+          "source": "知乎",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时12分 ~ 23时12分]"
         },
         {
           "title": "伊拉克国家石油营销组织SOMO：伊拉克11月石油出口总额达65亿美元。",
@@ -507,17 +524,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时54分 ~ 12时32分]"
-        },
-        {
-          "title": "海南封关后海南存的人民币是不是离岸人民币？",
-          "url": "https://www.zhihu.com/question/1984996494777025659",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时12分 ~ 22时13分]"
         },
         {
           "title": "韩元兑美元汇率升至11月4日以来最高水平。",
@@ -593,9 +599,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
+        },
+        {
+          "title": "现货钯金日内暴涨10.00%，现报1865.13美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251226225807430800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "人民币汇率",
@@ -675,6 +692,17 @@
           "time_info": "08时55分"
         },
         {
+          "title": "布伦特原油日内跌幅达1%，报61.18美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3027368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "美元兑日元USD/JPY升破156。",
           "url": "https://flash.jin10.com/detail/20251226075130860800",
           "source": "金十数据",
@@ -725,7 +753,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         },
@@ -791,6 +819,19 @@
       "match_count": 38,
       "titles": [
         {
+          "title": "央行报告：着力健全有利于“长钱长投”的制度政策环境 显著提高各类中长期资金实际投资A股的规模和比例",
+          "url": "https://www.cls.cn/detail/2241471",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时27分 ~ 23时12分]"
+        },
+        {
           "title": "埃及央行降息100个基点，为2025年第五次宽松",
           "url": "https://wallstreetcn.com/livenews/3026801",
           "source": "华尔街见闻-快讯",
@@ -822,6 +863,19 @@
           "time_info": "[01时11分 ~ 06时11分]"
         },
         {
+          "title": "今日中间价远低于市场预期，偏离度创2018年以来最大！央行亮姿态：人民币升太快了吗？",
+          "url": "https://wallstreetcn.com/articles/3762126",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时11分 ~ 23时12分]"
+        },
+        {
           "title": "中信证券：央行对数量目标淡化趋势延续",
           "url": "https://flash.jin10.com/detail/20251226083836582800",
           "source": "金十数据",
@@ -846,18 +900,6 @@
           "time_info": "[03时09分 ~ 06时11分]"
         },
         {
-          "title": "央行报告：着力健全有利于“长钱长投”的制度政策环境 显著提高各类中长期资金实际投资A股的规模和比例",
-          "url": "https://www.cls.cn/detail/2241471",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时27分 ~ 22时13分]"
-        },
-        {
           "title": "东京通胀降温幅度超预期 但不太可能阻止日本央行继续加息",
           "url": "https://flash.jin10.com/detail/20251226081032911800",
           "source": "金十数据",
@@ -867,19 +909,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
-        },
-        {
-          "title": "今日中间价远低于市场预期，偏离度创2018年以来最大！央行亮姿态：人民币升太快了吗？",
-          "url": "https://wallstreetcn.com/articles/3762126",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时11分 ~ 22时13分]"
         },
         {
           "title": "埃及央行将贷款利率从22%下调100个基点至21%。",
@@ -1247,7 +1276,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "国家发改委：国家创业投资引导基金将对集成电路、人工智能、航空航天、低空经济等领域的早期项目和企业加大投资力度",
@@ -1305,8 +1334,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时48分 ~ 20时22分]"
+          "appearance_count": 17,
+          "time_info": "[10时48分 ~ 23时12分]"
         },
         {
           "title": "画师全跑光,马斯克AI贴脸盗图",
@@ -1380,7 +1409,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         },
@@ -1474,6 +1503,17 @@
           "time_info": "[11时54分 ~ 13时15分]"
         },
         {
+          "title": "174名北大学生迎特殊考试：对决AI",
+          "url": "https://www.baidu.com/s?wd=174%E5%90%8D%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%BF%8E%E7%89%B9%E6%AE%8A%E8%80%83%E8%AF%95%EF%BC%9A%E5%AF%B9%E5%86%B3AI",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时12分 ~ 23时12分]"
+        },
+        {
           "title": "工业和信息化部：今年人工智能核心产业规模超万亿元",
           "url": "https://wallstreetcn.com/livenews/3027068",
           "source": "华尔街见闻-快讯",
@@ -1496,17 +1536,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时11分 ~ 20时22分]"
-        },
-        {
-          "title": "174名北大学生迎特殊考试：对决AI",
-          "url": "https://www.baidu.com/s?wd=174%E5%90%8D%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%BF%8E%E7%89%B9%E6%AE%8A%E8%80%83%E8%AF%95%EF%BC%9A%E5%AF%B9%E5%86%B3AI",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时12分 ~ 22时13分]"
         },
         {
           "title": "天禧AI从助手到队友",
@@ -1564,6 +1593,17 @@
           "time_info": "10时49分"
         },
         {
+          "title": "美股开盘，道指跌0.04%，标普500指数涨0.04%，纳指涨0.1%，英伟达(NVDA.O)涨0.8%，公司与Groq达成一项非独家技术许可协议。矿业股跟随近期金属涨势，科尔黛伦矿业(CDE.N)涨3.4%， 泛美白银(PAAS.O)涨1.9%。存储概念股上涨，美光科技(MU.O)涨0.8%，闪迪(SNDK.O)涨3.5%，Omdia预期AI需求推动NAND明年涨价40%。",
+          "url": "https://flash.jin10.com/detail/20251226223046972800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "泰国央行行长Vitai：由于与美国达成的协议，泰国央行不能操纵泰铢。 线上黄金交易推动泰铢上涨。",
           "url": "https://wallstreetcn.com/livenews/3027117",
           "source": "华尔街见闻-快讯",
@@ -1573,12 +1613,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
+        },
+        {
+          "title": "2025年度AI好用工具",
+          "url": "https://search.bilibili.com/all?keyword=2025%E5%B9%B4%E5%BA%A6AI%E5%A5%BD%E7%94%A8%E5%B7%A5%E5%85%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         }
       ]
     },
     {
       "keyword_group": "华为 小米 荣耀",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "卢伟冰将7999元小米新机口误成799",
@@ -1672,6 +1723,18 @@
           "time_info": "[12时31分 ~ 20时22分]"
         },
         {
+          "title": "华为悬赏300万元求解难题",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E6%82%AC%E8%B5%8F300%E4%B8%87%E5%85%83%E6%B1%82%E8%A7%A3%E9%9A%BE%E9%A2%98",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时12分 ~ 23时12分]"
+        },
+        {
           "title": "奖金300万元，华为第六届奥林帕斯奖正式启动全球征集",
           "url": "https://wallstreetcn.com/livenews/3027323",
           "source": "华尔街见闻-快讯",
@@ -1714,11 +1777,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时27分 ~ 22时13分]"
+          "appearance_count": 4,
+          "time_info": "[21时27分 ~ 23时12分]"
         },
         {
           "title": "小米17 Ultra支持在iPhone上操控",
@@ -1780,17 +1844,6 @@
           "time_info": "[10时48分 ~ 10时49分]"
         },
         {
-          "title": "华为悬赏300万元求解难题",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E6%82%AC%E8%B5%8F300%E4%B8%87%E5%85%83%E6%B1%82%E8%A7%A3%E9%9A%BE%E9%A2%98",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时12分 ~ 22时13分]"
-        },
-        {
           "title": "荣耀WIN系列发布：配备185Hz高刷电竞屏，售价2699元起",
           "url": "https://wallstreetcn.com/livenews/3027292",
           "source": "华尔街见闻-快讯",
@@ -1833,6 +1886,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
+        },
+        {
+          "title": "小米17 Ultra涨价还值得买吗",
+          "url": "https://www.toutiao.com/trending/7588044232389037587/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
+          "title": "小米17Ultra徕卡版有什么不一样",
+          "url": "https://www.douyin.com/hot/2347928",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         }
       ]
     },
@@ -1910,6 +1985,17 @@
           "time_info": "[01时11分 ~ 07时12分]"
         },
         {
+          "title": "5万公里！中国高铁运营里程新突破",
+          "url": "https://www.baidu.com/s?wd=5%E4%B8%87%E5%85%AC%E9%87%8C%EF%BC%81%E4%B8%AD%E5%9B%BD%E9%AB%98%E9%93%81%E8%BF%90%E8%90%A5%E9%87%8C%E7%A8%8B%E6%96%B0%E7%AA%81%E7%A0%B4",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时12分 ~ 23时12分]"
+        },
+        {
           "title": "东南亚股市收盘播报｜越南股市收跌超2.2%，尾盘重挫，温纳集团宣布退出南北高铁项目",
           "url": "https://wallstreetcn.com/livenews/3026818",
           "source": "华尔街见闻-快讯",
@@ -1922,17 +2008,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时17分 ~ 06时11分]"
-        },
-        {
-          "title": "5万公里！中国高铁运营里程新突破",
-          "url": "https://www.baidu.com/s?wd=5%E4%B8%87%E5%85%AC%E9%87%8C%EF%BC%81%E4%B8%AD%E5%9B%BD%E9%AB%98%E9%93%81%E8%BF%90%E8%90%A5%E9%87%8C%E7%A8%8B%E6%96%B0%E7%AA%81%E7%A0%B4",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时12分 ~ 22时13分]"
         },
         {
           "title": "据以色列时报：以色列国防军击毙涉嫌参与重建恐怖基础设施的真主党成员。",
@@ -1967,11 +2042,12 @@
           "url": "https://www.toutiao.com/trending/7588115421392277028/",
           "source": "今日头条",
           "ranks": [
-            7
+            7,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时12分 ~ 22时13分]"
+          "appearance_count": 3,
+          "time_info": "[22时12分 ~ 23时12分]"
         },
         {
           "title": "推进中朝韩高铁项目的最大障碍是什么",
@@ -2044,7 +2120,7 @@
     },
     {
       "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "兮璞材料“抢跑”上市 向日葵跨界半导体“暗礁”隐现",
@@ -2122,6 +2198,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
+        },
+        {
+          "title": "行业ETF美股盘初涨跌各异，生物科技指数ETF、能源业ETF、网络股指数ETF、可选消费ETF至多跌0.47%，银行业ETF、半导体ETF、科技行业ETF至多涨0.23%。",
+          "url": "https://wallstreetcn.com/livenews/3027380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "深技大半导体微纳加工中心落成，打造大湾区化合物半导体光电产业支撑平台",
@@ -2356,6 +2443,123 @@
       ]
     },
     {
+      "keyword_group": "新能源汽车 电动汽车 智能驾驶",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "LG新能源：弗雷德里希斯贝格电池动力系统（Freudenberg Battery Power Systems）取消电动汽车电池供应协议，原因系该公司已放弃电池业务计划。被取消的合同预计金额约为3.92万亿韩元。",
+          "url": "https://flash.jin10.com/detail/20251226164211880800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
+        {
+          "title": "全球销量前十电动汽车8款来自中国",
+          "url": "https://www.toutiao.com/trending/7587201669700583430/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
+          "title": "全球首个电动汽车电耗限值强制性标准明年起实施",
+          "url": "https://wallstreetcn.com/livenews/3026963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "国家发改委：对新能源汽车、锂电池、光伏等“新三样”产业，关键在于规范秩序、创新引领",
+          "url": "https://wallstreetcn.com/livenews/3026952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "全球销量前十电动汽车8款来自中国",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%94%80%E9%87%8F%E5%89%8D%E5%8D%81%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A68%E6%AC%BE%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 iPhone",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "为什么北京经济第一强区海淀至今没有苹果直营店？",
+          "url": "https://www.zhihu.com/question/1986410191810490956",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2,
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时55分 ~ 15时15分]"
+        },
+        {
+          "title": "王橹杰 请保持苹果肌扁平",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A9%B9%E6%9D%B0%20%E8%AF%B7%E4%BF%9D%E6%8C%81%E8%8B%B9%E6%9E%9C%E8%82%8C%E6%89%81%E5%B9%B3&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时14分 ~ 19时11分]"
+        },
+        {
+          "title": "苹果手机11月中国销售同比翻番",
+          "url": "https://wallstreetcn.com/livenews/3027184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时14分 ~ 18时13分]"
+        },
+        {
+          "title": "苹果(AAPL.O)上涨0.3%，11月中国销售同比翻番。",
+          "url": "https://flash.jin10.com/detail/20251226223410966800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "英伟达 台积电 AMD 高通",
       "match_count": 4,
       "titles": [
@@ -2409,82 +2613,37 @@
       ]
     },
     {
-      "keyword_group": "苹果 iPhone",
+      "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
       "match_count": 3,
       "titles": [
         {
-          "title": "为什么北京经济第一强区海淀至今没有苹果直营店？",
-          "url": "https://www.zhihu.com/question/1986410191810490956",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2,
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时55分 ~ 15时15分]"
-        },
-        {
-          "title": "王橹杰 请保持苹果肌扁平",
-          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A9%B9%E6%9D%B0%20%E8%AF%B7%E4%BF%9D%E6%8C%81%E8%8B%B9%E6%9E%9C%E8%82%8C%E6%89%81%E5%B9%B3&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14,
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时14分 ~ 19时11分]"
-        },
-        {
-          "title": "苹果手机11月中国销售同比翻番",
-          "url": "https://wallstreetcn.com/livenews/3027184",
+          "title": "纳斯达克金龙中国指数盘初涨0.44%。 热门中概股叮咚买菜涨8.46%，小鹏涨3.78%，理想涨2.59%，蔚来涨1.1%，阿特斯太阳能、百胜中国、百度、阿里巴巴、贝壳、京东、华住、万国数据等至多涨0.74%。 再鼎医药跌1.83%，文远知行跌1.93%，小马智行跌3.89%。",
+          "url": "https://wallstreetcn.com/livenews/3027381",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            27
+            4
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时14分 ~ 18时13分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源汽车 电动汽车 智能驾驶",
-      "match_count": 3,
-      "titles": [
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
         {
-          "title": "LG新能源：弗雷德里希斯贝格电池动力系统（Freudenberg Battery Power Systems）取消电动汽车电池供应协议，原因系该公司已放弃电池业务计划。被取消的合同预计金额约为3.92万亿韩元。",
-          "url": "https://flash.jin10.com/detail/20251226164211880800",
+          "title": "纳斯达克中国金龙指数上涨0.3%，小鹏汽车(XPEV.N)涨超5%，蔚来汽车(NIO.N)、理想汽车(LI.O)涨超2%，阿里巴巴(BABA.N)涨0.8%。",
+          "url": "https://flash.jin10.com/detail/20251226225038654800",
           "source": "金十数据",
           "ranks": [
-            7
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时14分"
+          "time_info": "23时12分"
         },
         {
-          "title": "全球首个电动汽车电耗限值强制性标准明年起实施",
-          "url": "https://wallstreetcn.com/livenews/3026963",
-          "source": "华尔街见闻-快讯",
+          "title": "马斯克将把特斯拉使命从可持续富足改成“惊人富足”",
+          "url": "https://flash.jin10.com/detail/20251226095802386800",
+          "source": "金十数据",
           "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "国家发改委：对新能源汽车、锂电池、光伏等“新三样”产业，关键在于规范秩序、创新引领",
-          "url": "https://wallstreetcn.com/livenews/3026952",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -2494,8 +2653,19 @@
     },
     {
       "keyword_group": "双十一 618 电商 优惠券",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "韩国电商Coupang美股盘初涨11%，创5月7日以来最佳盘中表现。",
+          "url": "https://wallstreetcn.com/livenews/3027382",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
         {
           "title": "交通运输部：前11个月我国交通出行人数达618.7亿人次",
           "url": "https://wallstreetcn.com/livenews/3027229",
@@ -2520,23 +2690,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时14分 ~ 02时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "马斯克将把特斯拉使命从可持续富足改成“惊人富足”",
-          "url": "https://flash.jin10.com/detail/20251226095802386800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
         }
       ]
     },
