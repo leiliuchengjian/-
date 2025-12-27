@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T08:54:02.098586+08:00",
-  "total_titles_processed": 643,
+  "generated_at": "2025-12-27T10:46:25.178201+08:00",
+  "total_titles_processed": 753,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时13分 ~ 08时54分]"
+          "appearance_count": 15,
+          "time_info": "[00时13分 ~ 10时46分]"
         },
         {
           "title": "人民币破7之后",
@@ -68,11 +68,12 @@
             27,
             22,
             16,
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时13分 ~ 08时54分]"
+          "appearance_count": 15,
+          "time_info": "[00时13分 ~ 10时46分]"
         },
         {
           "title": "机构：金银上行趋势强劲，白银年底有望触及80美元",
@@ -163,6 +164,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时17分 ~ 07时11分]"
+        },
+        {
+          "title": "手握5.5万亿美元巨资，飞速崛起的华尔街大金主：家族办公室！",
+          "url": "https://wallstreetcn.com/articles/3762125",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时53分 ~ 10时46分]"
         },
         {
           "title": "现货白银日内涨幅达6.5%，报76.58美元/盎司。",
@@ -440,17 +453,6 @@
           "time_info": "[02时17分 ~ 04时13分]"
         },
         {
-          "title": "手握5.5万亿美元巨资，飞速崛起的华尔街大金主：家族办公室！",
-          "url": "https://wallstreetcn.com/articles/3762125",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时53分 ~ 08时54分]"
-        },
-        {
           "title": "现货白银站上76美元",
           "url": "https://flash.jin10.com/detail/20251226235611110800",
           "source": "金十数据",
@@ -641,134 +643,9 @@
       ]
     },
     {
-      "keyword_group": "人工智能 AI",
+      "keyword_group": "华为 小米 荣耀",
       "match_count": 8,
       "titles": [
-        {
-          "title": "AI音乐MV绩效改进计划",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%9F%B3%E4%B9%90MV%E7%BB%A9%E6%95%88%E6%94%B9%E8%BF%9B%E8%AE%A1%E5%88%92",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22,
-            21,
-            20,
-            17,
-            28,
-            23,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时13分 ~ 08时54分]"
-        },
-        {
-          "title": "174名北大学生迎特殊考试：对决AI",
-          "url": "https://www.baidu.com/s?wd=174%E5%90%8D%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%BF%8E%E7%89%B9%E6%AE%8A%E8%80%83%E8%AF%95%EF%BC%9A%E5%AF%B9%E5%86%B3AI",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            13,
-            16,
-            18,
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时13分 ~ 08时54分]"
-        },
-        {
-          "title": "科研创新 idea 要不要告诉 AI?",
-          "url": "https://www.zhihu.com/question/1914008682825520046",
-          "source": "知乎",
-          "ranks": [
-            19,
-            17,
-            16,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时09分 ~ 07时11分]"
-        },
-        {
-          "title": "国家数据局：拓展适应人工智能发展的高质量数据集流通交易方式",
-          "url": "https://wallstreetcn.com/livenews/3027404",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            12,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时17分]"
-        },
-        {
-          "title": "2025年度AI好用工具",
-          "url": "https://search.bilibili.com/all?keyword=2025%E5%B9%B4%E5%BA%A6AI%E5%A5%BD%E7%94%A8%E5%B7%A5%E5%85%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            24,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时17分 ~ 07时11分]"
-        },
-        {
-          "title": "周五（12月26日），人工智能（AI）赢家指数跌0.19%，报286.82点，本周累计上涨1.91%，整体持续走高。 AI软件先驱指数跌0.08%，报127.02点，本周累涨0.46%，23日美股盘初显著下挫——当时彻底回吐22日的涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3027489",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时54分"
-        },
-        {
-          "title": "普京：将应用人工智能技术巩固俄武器装备优势",
-          "url": "https://wallstreetcn.com/livenews/3027484",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时54分"
-        },
-        {
-          "title": "人工智能专家历经波折回到中国",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%93%E5%AE%B6%E5%8E%86%E7%BB%8F%E6%B3%A2%E6%8A%98%E5%9B%9E%E5%88%B0%E4%B8%AD%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "华为 小米 荣耀",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "华为悬赏300万元求解难题",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E6%82%AC%E8%B5%8F300%E4%B8%87%E5%85%83%E6%B1%82%E8%A7%A3%E9%9A%BE%E9%A2%98",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时13分 ~ 08时54分]"
-        },
         {
           "title": "华为：全球悬赏300万元解决AI时代的存储难题",
           "url": "https://www.cls.cn/detail/2241363",
@@ -779,8 +656,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时13分 ~ 08时54分]"
+          "appearance_count": 15,
+          "time_info": "[00时13分 ~ 10时46分]"
+        },
+        {
+          "title": "华为悬赏300万元求解难题",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E6%82%AC%E8%B5%8F300%E4%B8%87%E5%85%83%E6%B1%82%E8%A7%A3%E9%9A%BE%E9%A2%98",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时13分 ~ 10时46分]"
         },
         {
           "title": "卢伟冰将7999元小米新机口误成799",
@@ -828,6 +718,145 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时53分 ~ 08时54分]"
+        },
+        {
+          "title": "小米新机涨价 华为旗舰新机逆市降价",
+          "url": "https://www.toutiao.com/trending/7588087252739178515/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
+          "title": "华为悬赏300万元求解AI难题",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E6%82%AC%E8%B5%8F300%E4%B8%87%E5%85%83%E6%B1%82%E8%A7%A3AI%E9%9A%BE%E9%A2%98%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能 AI",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "AI音乐MV绩效改进计划",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%9F%B3%E4%B9%90MV%E7%BB%A9%E6%95%88%E6%94%B9%E8%BF%9B%E8%AE%A1%E5%88%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            21,
+            20,
+            17,
+            28,
+            23,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时13分 ~ 10时46分]"
+        },
+        {
+          "title": "174名北大学生迎特殊考试：对决AI",
+          "url": "https://www.baidu.com/s?wd=174%E5%90%8D%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%BF%8E%E7%89%B9%E6%AE%8A%E8%80%83%E8%AF%95%EF%BC%9A%E5%AF%B9%E5%86%B3AI",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            13,
+            16,
+            18,
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时13分 ~ 08时54分]"
+        },
+        {
+          "title": "科研创新 idea 要不要告诉 AI?",
+          "url": "https://www.zhihu.com/question/1914008682825520046",
+          "source": "知乎",
+          "ranks": [
+            19,
+            17,
+            16,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[03时09分 ~ 07时11分]"
+        },
+        {
+          "title": "2025年度AI好用工具",
+          "url": "https://search.bilibili.com/all?keyword=2025%E5%B9%B4%E5%BA%A6AI%E5%A5%BD%E7%94%A8%E5%B7%A5%E5%85%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            24,
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时17分 ~ 10时46分]"
+        },
+        {
+          "title": "国家数据局：拓展适应人工智能发展的高质量数据集流通交易方式",
+          "url": "https://wallstreetcn.com/livenews/3027404",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 02时17分]"
+        },
+        {
+          "title": "周五（12月26日），人工智能（AI）赢家指数跌0.19%，报286.82点，本周累计上涨1.91%，整体持续走高。 AI软件先驱指数跌0.08%，报127.02点，本周累涨0.46%，23日美股盘初显著下挫——当时彻底回吐22日的涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3027489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 10时46分]"
+        },
+        {
+          "title": "普京：将应用人工智能技术巩固俄武器装备优势",
+          "url": "https://wallstreetcn.com/livenews/3027484",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 10时46分]"
+        },
+        {
+          "title": "人工智能专家历经波折回到中国",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%93%E5%AE%B6%E5%8E%86%E7%BB%8F%E6%B3%A2%E6%8A%98%E5%9B%9E%E5%88%B0%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时11分"
         }
       ]
     },
@@ -901,7 +930,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时54分"
         }
@@ -919,8 +948,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时13分 ~ 08时54分]"
+          "appearance_count": 15,
+          "time_info": "[00时13分 ~ 10时46分]"
         },
         {
           "title": "今日中间价远低于市场预期，偏离度创2018年以来最大！央行亮姿态：人民币升太快了吗？",
@@ -931,8 +960,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时13分 ~ 08时54分]"
+          "appearance_count": 15,
+          "time_info": "[00时13分 ~ 10时46分]"
         },
         {
           "title": "乌拉圭央行行长暗示2026年将进一步降息。",
@@ -978,7 +1007,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时54分"
         }
@@ -986,7 +1015,7 @@
     },
     {
       "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "5万公里！中国高铁运营里程新突破",
@@ -996,8 +1025,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时13分 ~ 08时54分]"
+          "appearance_count": 15,
+          "time_info": "[00时13分 ~ 10时46分]"
         },
         {
           "title": "唐驳虎：越南南北高铁8天不到就梦碎",
@@ -1028,6 +1057,78 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时13分 ~ 08时54分]"
+        },
+        {
+          "title": "陕北革命老区迈入“高铁时代”",
+          "url": "https://www.toutiao.com/trending/7587347580143222847/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
+          "title": "北京地铁颜色快不够用了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%81%E9%A2%9C%E8%89%B2%E5%BF%AB%E4%B8%8D%E5%A4%9F%E7%94%A8%E4%BA%86%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大学生 毕业生",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "6名大学生坠落事故调查结果",
+          "url": "https://search.bilibili.com/all?keyword=6%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9D%A0%E8%90%BD%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
+          "title": "6名大学生坠落事故调查结果",
+          "url": "https://www.douyin.com/hot/2348815",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
+          "title": "6名大学生参观矿企坠亡调查报告公布",
+          "url": "https://www.toutiao.com/trending/7588352922468106276/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
+          "title": "6名大学生坠落事故调查结果",
+          "url": "https://s.weibo.com/weibo?q=%236%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9D%A0%E8%90%BD%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
         }
       ]
     },
@@ -1127,7 +1228,7 @@
     },
     {
       "keyword_group": "就业 裁员 招聘",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "你见过动物跨界“再就业”吗",
@@ -1141,6 +1242,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时11分 ~ 07时11分]"
+        },
+        {
+          "title": "新西兰总理：我们承诺在第一任期内与印度达成自由贸易协定，我们做到了。这项具有里程碑意义的协议意味着更多就业机会、更高收入和更多出口，因为它将为14亿印度消费者敞开大门。",
+          "url": "https://flash.jin10.com/detail/20251227090931205800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
         }
       ]
     },
