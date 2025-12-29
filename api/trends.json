@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-29T07:11:57.322836+08:00",
-  "total_titles_processed": 495,
+  "generated_at": "2025-12-29T09:01:03.160512+08:00",
+  "total_titles_processed": 655,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 8,
+      "match_count": 21,
       "titles": [
         {
           "title": "彭博社：中国游客锐减，恐使日本损失超过12亿美元旅游收入",
@@ -24,11 +24,12 @@
           "url": "https://wallstreetcn.com/articles/3762200",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 07时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 09时01分]"
         },
         {
           "title": "白银飙至80美元 马斯克急了",
@@ -53,9 +54,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "现货白银日内振幅达9美元",
+          "url": "https://flash.jin10.com/detail/20251229083619190800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         },
         {
           "title": "现货白银开盘暴力拉升 突破82美元",
@@ -64,7 +76,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -75,7 +87,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -91,6 +103,116 @@
           "time_info": "[00时13分 ~ 01时11分]"
         },
         {
+          "title": "现货铂金短线暴跌逾100美元，跌幅扩大至7.2%。",
+          "url": "https://flash.jin10.com/detail/20251229083125936800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "现货白银短线跌幅扩大，日跌幅至5%，现报74.98美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251229083041742800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "贵金属全线转跌，现货钯金大跌6.8%，下破1800美元/盎司；现货铂金跌幅扩大至4%。",
+          "url": "https://flash.jin10.com/detail/20251229082743722800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "现货黄金跌破4500美元/盎司，日内跌0.71%。",
+          "url": "https://flash.jin10.com/detail/20251229082307889800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "中国外汇交易中心（CFETS）：12月26日人民币汇率指数按周跌0.24至97.64。",
+          "url": "https://wallstreetcn.com/livenews/3027756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "现货白银大幅回调 巨震6.5美元",
+          "url": "https://flash.jin10.com/detail/20251229082224640800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "现货白银盘中一度跌破75美元/盎司关口，日内跌超5%。 现货黄金盘中一度跌破4480美元/盎司，日内跌超1%。 现货铂金跌超7%，现货钯金跌近7%。",
+          "url": "https://wallstreetcn.com/livenews/3027754",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "现货白银跌破81美元，较纪录高位83.8美元/盎司回落近3美元，日内涨幅收窄至2.6%。",
+          "url": "https://flash.jin10.com/detail/20251229081120787800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "现货白银跳水！从涨6%到跌2%，短线走低超5美元",
+          "url": "https://wallstreetcn.com/livenews/3027750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "美元兑日元USD/JPY短线下挫近40点，最新报156.08。",
+          "url": "https://flash.jin10.com/detail/20251229080736282800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
           "title": "多因素支撑人民币汇率走强 双向波动仍将是常态",
           "url": "https://flash.jin10.com/detail/20251229053733557800",
           "source": "金十数据",
@@ -100,25 +222,230 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "中证报：多因素支撑人民币汇率走强，双向波动仍将是常态",
+          "url": "https://wallstreetcn.com/livenews/3027741",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "现货钯金快速下跌，跌破1900美元/盎司，日内跌2%。",
+          "url": "https://flash.jin10.com/detail/20251229075835971800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "央行 降息 降准 CPI 物价",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "叙利亚央行发行新货币 与现行货币兑换比为1比100",
+          "url": "https://flash.jin10.com/detail/20251229043515114800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时11分 ~ 06时11分]"
+        },
+        {
+          "title": "土耳其央行将扩大关键债券组合以增强“灵活性”",
+          "url": "https://wallstreetcn.com/livenews/3027642",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 03时09分]"
+        },
+        {
+          "title": "日本央行会议意见摘要：一位委员表示称日本实质政策利率全球最低，因此从外汇市场对通胀的影响来看，加息是合适的。",
+          "url": "https://flash.jin10.com/detail/20251229081015848800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "日本央行会议意见摘要：一名委员表示，将实际利率维持在偏离均衡水平，可能会导致资源配置扭曲，并影响可持续增长。",
+          "url": "https://flash.jin10.com/detail/20251229080031994800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "日本央行会议意见摘要：一名委员表示，实际工资很可能在明年上半年转为正增长。",
+          "url": "https://flash.jin10.com/detail/20251229080016582800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "日本央行12月会议意见摘要：一位委员表示，日元疲软和长期利率上升在一定程度上可能是由于政策利率相较于通胀率过低所致。 一位委员表示，及时加息将抑制未来的通胀压力和债券收益率上升。 即使政策利率上调至0.75%，但日本的实际利率仍将深度为负。 一位委员表示，尽管政策利率将维持深度负值水平，但日本央行必须密切监测加息对经济和市场的影响。 一位委员表示，日本央行必须稳步提高利率以免落后于形势。 一位委员表示，日本央行在调整货币政策力度时应密切关注经济、物价和金融状况，而不是预设具体的加息节奏。 一位委员表示，日本实质政策利率全球最低，因此从外汇市场对通胀的影响来看，加息是合适的。 一位委员表示，将实际利率维持在偏离均衡水准的水平可能会导致资源分配扭曲，并对可持续增长产生影响。",
+          "url": "https://wallstreetcn.com/livenews/3027740",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "日本央行会议意见摘要：一名委员表示，日本央行必须稳步加息，以避免落后于形势。",
+          "url": "https://flash.jin10.com/detail/20251229075613230800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "日本央行会议意见摘要：一名委员表示，即使政策利率上调至0.75%，日本的实际利率仍将处于深度负值范围。",
+          "url": "https://flash.jin10.com/detail/20251229075548562800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "日本央行会议意见摘要：一名委员表示，及时加息将抑制未来的通胀压力和债券收益率上升。",
+          "url": "https://flash.jin10.com/detail/20251229075539349800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "日本央行会议意见摘要：一名委员表示，日元走软和长期利率上升在一定程度上可能是因为——政策利率相对于通胀率被维持得过低。",
+          "url": "https://flash.jin10.com/detail/20251229075535938800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "日本央行会议意见摘要：一名委员表示，鉴于海外利率环境可能发生变化，日本央行在制定政策时必须灵活应对。",
+          "url": "https://flash.jin10.com/detail/20251229075432117800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "日本央行会议意见摘要：一名委员表示，及时调整利率将带来持续稳定的增长。",
+          "url": "https://flash.jin10.com/detail/20251229075429719800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "中国央行公开市场本周6227亿元逆回购到期",
+          "url": "https://wallstreetcn.com/livenews/3027732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "日本央行会议意见摘要：一名委员表示，日本央行在一段时间内必须以每隔几个月加息一次左右的速度加息。",
+          "url": "https://flash.jin10.com/detail/20251229075426845800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "日本央行会议意见摘要：一名委员表示，日本经济正处于财政政策和货币政策可以相互补充的阶段。",
+          "url": "https://flash.jin10.com/detail/20251229075357166800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "日本央行会议意见摘要：一名委员表示，很难事先准确确定日本的中性利率水平位于何处。",
+          "url": "https://flash.jin10.com/detail/20251229075345812800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "日本央行会议意见摘要：一名委员表示，政策利率距离中性水平仍有相当一段距离。",
+          "url": "https://flash.jin10.com/detail/20251229075319373800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         }
       ]
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "用一个字证明自己不是AI",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8%E4%B8%80%E4%B8%AA%E5%AD%97%E8%AF%81%E6%98%8E%E8%87%AA%E5%B7%B1%E4%B8%8D%E6%98%AFAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 07时11分]"
-        },
         {
           "title": "2025最全AI成果盘点",
           "url": "https://search.bilibili.com/all?keyword=2025%E6%9C%80%E5%85%A8AI%E6%88%90%E6%9E%9C%E7%9B%98%E7%82%B9",
@@ -126,11 +453,25 @@
           "ranks": [
             3,
             5,
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 07时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 09时01分]"
+        },
+        {
+          "title": "用一个字证明自己不是AI",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8%E4%B8%80%E4%B8%AA%E5%AD%97%E8%AF%81%E6%98%8E%E8%87%AA%E5%B7%B1%E4%B8%8D%E6%98%AFAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 09时01分]"
         },
         {
           "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
@@ -142,6 +483,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时13分 ~ 07时11分]"
+        },
+        {
+          "title": "摄影大赛一等奖作品被指AI生成",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%91%84%E5%BD%B1%E5%A4%A7%E8%B5%9B%E4%B8%80%E7%AD%89%E5%A5%96%E4%BD%9C%E5%93%81%E8%A2%AB%E6%8C%87AI%E7%94%9F%E6%88%90%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时00分 ~ 09时01分]"
         },
         {
           "title": "广州在全国率先设立区级人工智能发展局",
@@ -182,7 +534,7 @@
     },
     {
       "keyword_group": "华为 小米 荣耀",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "小米副董事长拟套现不超20亿美元，知情人士：他想成立投资基金",
@@ -210,6 +562,19 @@
           "time_info": "[03时09分 ~ 07时11分]"
         },
         {
+          "title": "小米联合创始人拟减持不超20亿美元",
+          "url": "https://www.douyin.com/hot/2350310",
+          "source": "抖音",
+          "ranks": [
+            26,
+            23,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时11分 ~ 09时01分]"
+        },
+        {
           "title": "小米集团：联合创始人林斌计划减持不超20亿美元公司B类普通股",
           "url": "https://wallstreetcn.com/livenews/3027643",
           "source": "华尔街见闻-快讯",
@@ -222,16 +587,69 @@
           "time_info": "[00时13分 ~ 03时09分]"
         },
         {
-          "title": "小米联合创始人拟减持不超20亿美元",
-          "url": "https://www.douyin.com/hot/2350310",
-          "source": "抖音",
+          "title": "当小米选择“沉默” 它在专注什么",
+          "url": "https://www.toutiao.com/trending/7589057569604242998/",
+          "source": "今日头条",
           "ranks": [
-            26,
-            23
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时11分 ~ 07时11分]"
+          "time_info": "[09时00分 ~ 09时01分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "基础设施 基建 地铁 高铁",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "英伟达800伏电压“革命”：全球数据中心面临史上最大规模基础设施改造",
+          "url": "https://wallstreetcn.com/articles/3762212",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 09时01分]"
+        },
+        {
+          "title": "备战？美媒披露印度在中印边境大兴基建",
+          "url": "https://news.ifeng.com/c/8pSdXaU9aCy",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 09时01分]"
+        },
+        {
+          "title": "如何评价济南地铁 4 、 6（东段）、 8 号线开通运营？对经十路等拥堵路段分流效果如何？公交会减少吗？",
+          "url": "https://www.zhihu.com/question/1988138641067876958",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时00分 ~ 09时01分]"
+        },
+        {
+          "title": "中国央行将出台《关于进一步加强数字人民币管理服务体系和相关金融基础设施建设的行动方案》",
+          "url": "https://wallstreetcn.com/livenews/3027745",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         }
       ]
     },
@@ -270,66 +688,6 @@
       ]
     },
     {
-      "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "英伟达800伏电压“革命”：全球数据中心面临史上最大规模基础设施改造",
-          "url": "https://wallstreetcn.com/articles/3762212",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 07时11分]"
-        },
-        {
-          "title": "备战？美媒披露印度在中印边境大兴基建",
-          "url": "https://news.ifeng.com/c/8pSdXaU9aCy",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 07时11分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "叙利亚央行发行新货币 与现行货币兑换比为1比100",
-          "url": "https://flash.jin10.com/detail/20251229043515114800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时11分 ~ 06时11分]"
-        },
-        {
-          "title": "土耳其央行将扩大关键债券组合以增强“灵活性”",
-          "url": "https://wallstreetcn.com/livenews/3027642",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 03时09分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "苹果 iPhone",
       "match_count": 1,
       "titles": [
@@ -362,8 +720,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 07时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 09时01分]"
         }
       ]
     },
@@ -381,11 +739,46 @@
             9,
             18,
             6,
-            14
+            14,
+            25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 07时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 09时01分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大模型 ChatGPT Kimi Sora OpenAI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "ChatGPT帮他杀死83岁母亲？",
+          "url": "https://news.ifeng.com/c/8pTGEplZnSO",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时00分 ~ 09时01分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体 芯片 集成电路",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "这些赛道 芯片巨头不玩了",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E8%B5%9B%E9%81%93+%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4%E4%B8%8D%E7%8E%A9%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时00分 ~ 09时01分]"
         }
       ]
     },
@@ -404,8 +797,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 07时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 09时01分]"
         }
       ]
     },
@@ -423,8 +816,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 07时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 09时01分]"
         }
       ]
     }
