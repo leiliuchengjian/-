@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-30T15:15:46.714855+08:00",
-  "total_titles_processed": 1258,
+  "generated_at": "2025-12-30T16:17:43.319966+08:00",
+  "total_titles_processed": 1336,
   "failed_sources": [],
   "trends": [
     {
@@ -65,11 +65,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时14分 ~ 15时15分]"
+          "appearance_count": 23,
+          "time_info": "[00时14分 ~ 16时17分]"
         },
         {
           "title": "Lyn Alden：白银2026年可能冲击100美元，但不再是“低风险高回报”机会",
@@ -100,6 +101,19 @@
           "time_info": "[00时14分 ~ 07时12分]"
         },
         {
+          "title": "金价跌至每盎司 4346 美元，白银跌幅一度逼近 9%，为何国际金、银价格会大幅下跌？",
+          "url": "https://www.zhihu.com/question/1989248950952288367",
+          "source": "知乎",
+          "ranks": [
+            11,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时34分 ~ 16时17分]"
+        },
+        {
           "title": "刘晓春：数字人民币需突破支付局限",
           "url": "https://www.toutiao.com/trending/7589245652937215539/",
           "source": "今日头条",
@@ -113,19 +127,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时14分 ~ 06时12分]"
-        },
-        {
-          "title": "金价跌至每盎司 4346 美元，白银跌幅一度逼近 9%，为何国际金、银价格会大幅下跌？",
-          "url": "https://www.zhihu.com/question/1989248950952288367",
-          "source": "知乎",
-          "ranks": [
-            11,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时34分 ~ 15时15分]"
         },
         {
           "title": "金属全线回落，白银较日高暴跌16%，黄金逼近4300美元，沪金跌破千元关口",
@@ -724,7 +725,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
@@ -867,7 +868,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
@@ -941,7 +942,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "年终盘点|DeepSeek点燃AI热，贵金属引领周期逆袭，商业航天奏响年末最强音......一文看懂2025年A股热炒题材",
@@ -967,6 +968,20 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时14分 ~ 10时51分]"
+        },
+        {
+          "title": "原告向法庭出示带豆包生成伪证被训诫，这一处罚合理吗? 若未来 AI 造假无破绽，司法与公众该如何应对？",
+          "url": "https://www.zhihu.com/question/1988511175416239504",
+          "source": "知乎",
+          "ranks": [
+            13,
+            8,
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时51分 ~ 16时17分]"
         },
         {
           "title": "2025最全AI成果盘点",
@@ -1017,31 +1032,46 @@
           "time_info": "[01时11分 ~ 10时51分]"
         },
         {
-          "title": "原告向法庭出示带豆包生成伪证被训诫，这一处罚合理吗? 若未来 AI 造假无破绽，司法与公众该如何应对？",
-          "url": "https://www.zhihu.com/question/1988511175416239504",
-          "source": "知乎",
-          "ranks": [
-            13,
-            8,
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时51分 ~ 15时15分]"
-        },
-        {
           "title": "AI智能体超级并购来了！跻身Meta第三大收购案 商业化拐点还有多远？",
           "url": "https://www.cls.cn/detail/2243572",
           "source": "财联社热门",
           "ranks": [
             11,
             12,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时57分 ~ 15时15分]"
+          "appearance_count": 8,
+          "time_info": "[11时57分 ~ 16时17分]"
+        },
+        {
+          "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
+          "url": "https://wallstreetcn.com/articles/3762279",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时16分 ~ 16时17分]"
+        },
+        {
+          "title": "盘点2025年度AI大事件",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B92025%E5%B9%B4%E5%BA%A6AI%E5%A4%A7%E4%BA%8B%E4%BB%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            4,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时57分 ~ 16时17分]"
         },
         {
           "title": "“AI教父”拉响警报",
@@ -1071,20 +1101,6 @@
           "time_info": "[11时57分 ~ 13时17分]"
         },
         {
-          "title": "盘点2025年度AI大事件",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B92025%E5%B9%B4%E5%BA%A6AI%E5%A4%A7%E4%BA%8B%E4%BB%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            4,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时57分 ~ 15时15分]"
-        },
-        {
           "title": "泰柬与AI如何影响全球经济",
           "url": "https://search.bilibili.com/all?keyword=%E6%B3%B0%E6%9F%AC%E4%B8%8EAI%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%85%A8%E7%90%83%E7%BB%8F%E6%B5%8E",
           "source": "bilibili 热搜",
@@ -1097,19 +1113,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时51分 ~ 13时17分]"
-        },
-        {
-          "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
-          "url": "https://wallstreetcn.com/articles/3762279",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时16分 ~ 15时15分]"
         },
         {
           "title": "东部战区发布的AI视频意味深长",
@@ -1167,8 +1170,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时19分 ~ 15时15分]"
+          "appearance_count": 3,
+          "time_info": "[14时19分 ~ 16时17分]"
         },
         {
           "title": "Meta宣布收购AI智能体公司Manus AI智能体商业价值愈发显著",
@@ -1217,6 +1220,28 @@
           "time_info": "07时12分"
         },
         {
+          "title": "【午报】三大指数缩量整理涨跌不一，AI智能体、机器人概念双双走强",
+          "url": "https://www.cls.cn/detail/2243744",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "教育部：计划明年出台人工智能赋能教育相关政策文件 系统部署推进人工智能教育和应用",
+          "url": "https://wallstreetcn.com/livenews/3028621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
           "title": "工信部：推动人工智能、400G/800G光传送等前沿技术在交换中心部署和应用",
           "url": "https://wallstreetcn.com/livenews/3028446",
           "source": "华尔街见闻-快讯",
@@ -1241,8 +1266,135 @@
       ]
     },
     {
+      "keyword_group": "央行 降息 降准 CPI 物价",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "西班牙12月CPI月率初值 0.3%，预期0.30%，前值0.20%。",
+          "url": "https://flash.jin10.com/detail/20251230160235660800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "泰国央行：11月私人消费指数环比下降0.3%。",
+          "url": "https://flash.jin10.com/detail/20251230150150201800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
+          "title": "西班牙12月调和CPI月率初值 0.3%，预期0.30%，前值0.00%。",
+          "url": "https://flash.jin10.com/detail/20251230160208169800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "泰国央行：泰国11月进口较上年同期增长17.3%。",
+          "url": "https://flash.jin10.com/detail/20251230150145843800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
+          "title": "西班牙12月调和CPI年率初值 3%，预期3.00%，前值3.20%。",
+          "url": "https://flash.jin10.com/detail/20251230160002509800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "西班牙12月CPI年率初值 2.9%，预期2.80%，前值3.00%。",
+          "url": "https://flash.jin10.com/detail/20251230160002508800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "周一（12月29日），降息赢家指数跌0.71%，报99.67点。 “特朗普关税输家”指数跌0.57%，报112.08点。 “特朗普金融指数”跌1.33%，报174.82点。 散户抱团概念股指数/迷因股（meme stock）指数跌2.43%，报15.64点。",
+          "url": "https://wallstreetcn.com/livenews/3028346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "美国至12月19日当周外国央行持有美国国债 -153.4亿美元，前值-102.13亿美元。",
+          "url": "https://flash.jin10.com/detail/20251230054107490800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "央行出台一次性信用修复政策，经济日报：绝非“征信洗白”",
+          "url": "https://wallstreetcn.com/livenews/3028376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "中国央行今日开展3125亿元7天逆回购操作，净投放2532亿元",
+          "url": "https://wallstreetcn.com/livenews/3028432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时51分"
+        },
+        {
+          "title": "伊朗央行行长已于周一辞职，此前该国货币兑美元汇率跌至历史新低，引发自2022年以来规模最大的抗议活动，席卷德黑兰及其他多个城市。",
+          "url": "https://flash.jin10.com/detail/20251230015948375800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时10分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "宝马销冠试行特斯拉「一口价」8 天卖出 11 台，这对传统车企销售模式有何借鉴意义？",
@@ -1268,8 +1420,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时55分 ~ 15时15分]"
+          "appearance_count": 10,
+          "time_info": "[08时55分 ~ 16时17分]"
         },
         {
           "title": "美股收盘：三大股指齐跌 特斯拉跌超3%",
@@ -1331,6 +1483,17 @@
           "time_info": "[13时16分 ~ 13时17分]"
         },
         {
+          "title": "何小鹏9大场景美国对比特斯拉",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BD%95%E5%B0%8F%E9%B9%8F9%E5%A4%A7%E5%9C%BA%E6%99%AF%E7%BE%8E%E5%9B%BD%E5%AF%B9%E6%AF%94%E7%89%B9%E6%96%AF%E6%8B%89%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
           "title": "恒指开盘基本持平，恒生科技指数涨0.38%。蔚来涨超5%，百度涨超3%。中芯国际涨2.8%，此前公告称，拟向5名股东发行5.47亿股股份购买中芯北方49.00%股权，交易价格406亿元。",
           "url": "https://wallstreetcn.com/livenews/3028429",
           "source": "华尔街见闻-快讯",
@@ -1344,165 +1507,8 @@
       ]
     },
     {
-      "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "泰国央行：11月私人消费指数环比下降0.3%。",
-          "url": "https://flash.jin10.com/detail/20251230150150201800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时15分"
-        },
-        {
-          "title": "泰国央行：泰国11月进口较上年同期增长17.3%。",
-          "url": "https://flash.jin10.com/detail/20251230150145843800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时15分"
-        },
-        {
-          "title": "周一（12月29日），降息赢家指数跌0.71%，报99.67点。 “特朗普关税输家”指数跌0.57%，报112.08点。 “特朗普金融指数”跌1.33%，报174.82点。 散户抱团概念股指数/迷因股（meme stock）指数跌2.43%，报15.64点。",
-          "url": "https://wallstreetcn.com/livenews/3028346",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "美国至12月19日当周外国央行持有美国国债 -153.4亿美元，前值-102.13亿美元。",
-          "url": "https://flash.jin10.com/detail/20251230054107490800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "央行出台一次性信用修复政策，经济日报：绝非“征信洗白”",
-          "url": "https://wallstreetcn.com/livenews/3028376",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "中国央行今日开展3125亿元7天逆回购操作，净投放2532亿元",
-          "url": "https://wallstreetcn.com/livenews/3028432",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时51分"
-        },
-        {
-          "title": "伊朗央行行长已于周一辞职，此前该国货币兑美元汇率跌至历史新低，引发自2022年以来规模最大的抗议活动，席卷德黑兰及其他多个城市。",
-          "url": "https://flash.jin10.com/detail/20251230015948375800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "华为 小米 荣耀",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "华为发布新年致辞，孟晚舟：战略聚焦，以质取胜",
-          "url": "https://wallstreetcn.com/livenews/3028466",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时51分 ~ 11时57分]"
-        },
-        {
-          "title": "华为新年致辞出炉！孟晚舟：智能时代的新征程已经开启",
-          "url": "https://www.cls.cn/detail/2243658",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时19分 ~ 15时15分]"
-        },
-        {
-          "title": "孟晚舟新年致辞谈华为2026战略",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%9F%E6%99%9A%E8%88%9F%E6%96%B0%E5%B9%B4%E8%87%B4%E8%BE%9E%E8%B0%88%E5%8D%8E%E4%B8%BA2026%E6%88%98%E7%95%A5%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 13时17分]"
-        },
-        {
-          "title": "孟晚舟新年致辞谈华为战略方向",
-          "url": "https://www.baidu.com/s?wd=%E5%AD%9F%E6%99%9A%E8%88%9F%E6%96%B0%E5%B9%B4%E8%87%B4%E8%BE%9E%E8%B0%88%E5%8D%8E%E4%B8%BA%E6%88%98%E7%95%A5%E6%96%B9%E5%90%91",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.67%，报7636.97点，跳空低开过后，逐步收复失地。 热门中概股里，小米初步收跌3.7%，阿里巴巴跌2.4%，理想、腾讯、小鹏、百胜中国跌超1%，网易涨0.8%，百度涨1.6%，蔚来涨4.8%。 ETF中，中概互联网指数ETF（KWEB）收跌1.03%，中国科技指数ETF（CQQQ）收跌0.69%。 XtrackersHarvest中证50（ASHS）收跌1.22%，德银嘉实沪深300指数ETF（ASHR）收跌1.03%。",
-          "url": "https://wallstreetcn.com/livenews/3028329",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "京东与华为达成战略合作",
-          "url": "https://wallstreetcn.com/livenews/3028588",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时15分"
-        }
-      ]
-    },
-    {
       "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "中国新型芯片绕开光刻机卡脖子环节",
@@ -1523,9 +1529,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
+        },
+        {
+          "title": "恒生指数收盘涨0.86%，半导体股涨幅居前",
+          "url": "https://wallstreetcn.com/livenews/3028645",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         },
         {
           "title": "金十图示：2025年12月30日（周二）富时中国A50指数成分股午盘收盘行情一览：银行、保险、酿酒、证券几乎全面飘绿，半导体、石油板块逆势走高",
@@ -1576,6 +1593,82 @@
       ]
     },
     {
+      "keyword_group": "华为 小米 荣耀",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "华为新年致辞出炉！孟晚舟：智能时代的新征程已经开启",
+          "url": "https://www.cls.cn/detail/2243658",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时19分 ~ 16时17分]"
+        },
+        {
+          "title": "华为发布新年致辞，孟晚舟：战略聚焦，以质取胜",
+          "url": "https://wallstreetcn.com/livenews/3028466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时51分 ~ 11时57分]"
+        },
+        {
+          "title": "京东与华为达成战略合作",
+          "url": "https://wallstreetcn.com/livenews/3028588",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时15分 ~ 16时17分]"
+        },
+        {
+          "title": "孟晚舟新年致辞谈华为2026战略",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%9F%E6%99%9A%E8%88%9F%E6%96%B0%E5%B9%B4%E8%87%B4%E8%BE%9E%E8%B0%88%E5%8D%8E%E4%B8%BA2026%E6%88%98%E7%95%A5%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时16分 ~ 13时17分]"
+        },
+        {
+          "title": "孟晚舟新年致辞谈华为战略方向",
+          "url": "https://www.baidu.com/s?wd=%E5%AD%9F%E6%99%9A%E8%88%9F%E6%96%B0%E5%B9%B4%E8%87%B4%E8%BE%9E%E8%B0%88%E5%8D%8E%E4%B8%BA%E6%88%98%E7%95%A5%E6%96%B9%E5%90%91",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.67%，报7636.97点，跳空低开过后，逐步收复失地。 热门中概股里，小米初步收跌3.7%，阿里巴巴跌2.4%，理想、腾讯、小鹏、百胜中国跌超1%，网易涨0.8%，百度涨1.6%，蔚来涨4.8%。 ETF中，中概互联网指数ETF（KWEB）收跌1.03%，中国科技指数ETF（CQQQ）收跌0.69%。 XtrackersHarvest中证50（ASHS）收跌1.22%，德银嘉实沪深300指数ETF（ASHR）收跌1.03%。",
+          "url": "https://wallstreetcn.com/livenews/3028329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "创业板",
       "match_count": 5,
       "titles": [
@@ -1584,11 +1677,12 @@
           "url": "https://wallstreetcn.com/livenews/3028609",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时15分 ~ 16时17分]"
         },
         {
           "title": "上证指数早盘收报3961.21点，跌0.10%。 深证成指早盘收报13568.09点，涨0.23%。 创业板指早盘收报3220.56点，跌0.06%。 沪深300早盘收报4638.90点，跌0.01%。 科创50早盘收报1353.12点，涨0.50%。 中证500早盘收报7455.58点，涨0.34%。 中证1000早盘收报7611.03点，涨0.22%。",
@@ -1720,11 +1814,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时19分 ~ 15时15分]"
+          "appearance_count": 3,
+          "time_info": "[14时19分 ~ 16时17分]"
         }
       ]
     },
