@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-30T12:35:04.719255+08:00",
-  "total_titles_processed": 1037,
+  "generated_at": "2025-12-30T13:17:07.781649+08:00",
+  "total_titles_processed": 1096,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 69,
+      "match_count": 72,
       "titles": [
         {
           "title": "美股指集体低开，纳指跌超0.7%，现货黄金单日跌超100美元，白银暴跌8%，伦铜逼近13000美元",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时14分 ~ 10时51分]"
+        },
+        {
+          "title": "金属全线回落，白银较日高暴跌16%，黄金逼近4300美元，矿业股普跌",
+          "url": "https://wallstreetcn.com/articles/3762216",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时55分 ~ 13时17分]"
         },
         {
           "title": "数字人民币迎来重大调整",
@@ -57,8 +68,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时14分 ~ 12时35分]"
+          "appearance_count": 20,
+          "time_info": "[00时14分 ~ 13时17分]"
         },
         {
           "title": "Lyn Alden：白银2026年可能冲击100美元，但不再是“低风险高回报”机会",
@@ -87,17 +98,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时14分 ~ 07时12分]"
-        },
-        {
-          "title": "金属全线回落，白银较日高暴跌16%，黄金逼近4300美元，矿业股普跌",
-          "url": "https://wallstreetcn.com/articles/3762216",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时55分 ~ 12时35分]"
         },
         {
           "title": "刘晓春：数字人民币需突破支付局限",
@@ -139,6 +139,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时14分 ~ 07时12分]"
+        },
+        {
+          "title": "现货铂金涨超3%，至2175.10美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251230124750557800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         },
         {
           "title": "美国天然气期货日内涨幅扩大至3.00%，现报3.994美元/百万英热。",
@@ -309,6 +320,18 @@
           "time_info": "[06时12分 ~ 07时12分]"
         },
         {
+          "title": "金价跌至每盎司 4346 美元，白银跌幅一度逼近 9%，为何国际金、银价格会大幅下跌？",
+          "url": "https://www.zhihu.com/question/1989248950952288367",
+          "source": "知乎",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时34分 ~ 13时17分]"
+        },
+        {
           "title": "伊朗里亚尔 (Iranian Rial)兑美元跌至145万，创历史新低。",
           "url": "https://wallstreetcn.com/livenews/3028272",
           "source": "华尔街见闻-快讯",
@@ -422,17 +445,6 @@
           "time_info": "[00时14分 ~ 01时12分]"
         },
         {
-          "title": "金价跌至每盎司 4346 美元，白银跌幅一度逼近 9%，为何国际金、银价格会大幅下跌？",
-          "url": "https://www.zhihu.com/question/1989248950952288367",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时34分 ~ 12时35分]"
-        },
-        {
           "title": "现货白银持续走高，日内涨超3%，现报74.28美元/盎司。纽约期银站上74美元/盎司，日内大涨5%。",
           "url": "https://flash.jin10.com/detail/20251230112351975800",
           "source": "金十数据",
@@ -500,6 +512,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
+        },
+        {
+          "title": "在岸人民币兑美元升破7，为2023年5月来最高。",
+          "url": "https://wallstreetcn.com/livenews/3028542",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
+          "title": "现货铂金涨超3%至2175.10美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3028541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         },
         {
           "title": "Meta数十亿美元收购Manus",
@@ -824,7 +858,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "年终盘点|DeepSeek点燃AI热，贵金属引领周期逆袭，商业航天奏响年末最强音......一文看懂2025年A股热炒题材",
@@ -900,6 +934,19 @@
           "time_info": "[01时11分 ~ 10时51分]"
         },
         {
+          "title": "原告向法庭出示带豆包生成伪证被训诫，这一处罚合理吗? 若未来 AI 造假无破绽，司法与公众该如何应对？",
+          "url": "https://www.zhihu.com/question/1988511175416239504",
+          "source": "知乎",
+          "ranks": [
+            13,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时51分 ~ 13时17分]"
+        },
+        {
           "title": "“AI教父”拉响警报",
           "url": "https://www.baidu.com/s?wd=%E2%80%9CAI%E6%95%99%E7%88%B6%E2%80%9D%E6%8B%89%E5%93%8D%E8%AD%A6%E6%8A%A5",
           "source": "百度热搜",
@@ -919,11 +966,37 @@
           "source": "金十数据",
           "ranks": [
             2,
-            3
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 12时35分]"
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 13时17分]"
+        },
+        {
+          "title": "泰柬与AI如何影响全球经济",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B3%B0%E6%9F%AC%E4%B8%8EAI%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%85%A8%E7%90%83%E7%BB%8F%E6%B5%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            27,
+            26,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时51分 ~ 13时17分]"
+        },
+        {
+          "title": "据华尔街日报：Meta即将完成对人工智能初创公司Manus的收购，交易金额超过20亿美元。",
+          "url": "https://flash.jin10.com/detail/20251230123238264800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         },
         {
           "title": "东部战区发布的AI视频意味深长",
@@ -948,6 +1021,30 @@
           "time_info": "07时12分"
         },
         {
+          "title": "盘点2025年度AI大事件",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B92025%E5%B9%B4%E5%BA%A6AI%E5%A4%A7%E4%BA%8B%E4%BB%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 13时17分]"
+        },
+        {
+          "title": "AI智能体超级并购来了！跻身Meta第三大收购案 商业化拐点还有多远？",
+          "url": "https://www.cls.cn/detail/2243572",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时57分 ~ 13时17分]"
+        },
+        {
           "title": "成立不到3年，被Meta数十亿美元收购！Manus成为“AI时代中国创业新标杆”",
           "url": "https://wallstreetcn.com/articles/3762279",
           "source": "华尔街见闻",
@@ -961,41 +1058,15 @@
           "time_info": "[10时51分 ~ 12时35分]"
         },
         {
-          "title": "原告向法庭出示带豆包生成伪证被训诫，这一处罚合理吗? 若未来 AI 造假无破绽，司法与公众该如何应对？",
-          "url": "https://www.zhihu.com/question/1988511175416239504",
-          "source": "知乎",
+          "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
+          "url": "https://wallstreetcn.com/articles/3762279",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            8
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时51分 ~ 12时35分]"
-        },
-        {
-          "title": "泰柬与AI如何影响全球经济",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B3%B0%E6%9F%AC%E4%B8%8EAI%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%85%A8%E7%90%83%E7%BB%8F%E6%B5%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            27,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时51分 ~ 12时35分]"
-        },
-        {
-          "title": "AI智能体超级并购来了！跻身Meta第三大收购案 商业化拐点还有多远？",
-          "url": "https://www.cls.cn/detail/2243572",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时57分 ~ 12时35分]"
+          "appearance_count": 2,
+          "time_info": "[13时16分 ~ 13时17分]"
         },
         {
           "title": "马斯克与内塔尼亚胡讨论AI和自动驾驶合作，将于明年3月访问以色列",
@@ -1020,6 +1091,17 @@
           "time_info": "07时12分"
         },
         {
+          "title": "Meta正以逾20亿美元收购人工智能初创公司Manus。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3028532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
           "title": "工信部：推动人工智能、400G/800G光传送等前沿技术在交换中心部署和应用",
           "url": "https://wallstreetcn.com/livenews/3028446",
           "source": "华尔街见闻-快讯",
@@ -1040,23 +1122,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
-        },
-        {
-          "title": "盘点2025年度AI大事件",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B92025%E5%B9%B4%E5%BA%A6AI%E5%A4%A7%E4%BA%8B%E4%BB%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时57分"
         }
       ]
     },
     {
       "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "宝马销冠试行特斯拉「一口价」8 天卖出 11 台，这对传统车企销售模式有何借鉴意义？",
@@ -1075,6 +1146,17 @@
           "time_info": "[00时14分 ~ 08时55分]"
         },
         {
+          "title": "将推出飞行汽车？比亚迪高管否认",
+          "url": "https://www.toutiao.com/trending/7588521891170664467/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时55分 ~ 13时17分]"
+        },
+        {
           "title": "美股收盘：三大股指齐跌 特斯拉跌超3%",
           "url": "https://flash.jin10.com/detail/20251230050055980800",
           "source": "金十数据",
@@ -1084,17 +1166,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
-        },
-        {
-          "title": "将推出飞行汽车？比亚迪高管否认",
-          "url": "https://www.toutiao.com/trending/7588521891170664467/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时55分 ~ 12时35分]"
         },
         {
           "title": "特斯拉尾盘下跌2.9%。据报道，“木头姐”Cathie Wood出售价值3000万美元的特斯拉股票。",
@@ -1109,6 +1180,19 @@
           "time_info": "[05时11分 ~ 06时12分]"
         },
         {
+          "title": "特斯拉官微公开新款Model Y高性能版设计手稿",
+          "url": "https://wallstreetcn.com/livenews/3028512",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 13时17分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜特斯拉收跌3.27%，英伟达跌1.21%",
           "url": "https://wallstreetcn.com/livenews/3028341",
           "source": "华尔街见闻-快讯",
@@ -1121,16 +1205,15 @@
           "time_info": "[06时12分 ~ 07时12分]"
         },
         {
-          "title": "特斯拉官微公开新款Model Y高性能版设计手稿",
-          "url": "https://wallstreetcn.com/livenews/3028512",
-          "source": "华尔街见闻-快讯",
+          "title": "豪华真旗舰就选问界M9",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B1%AA%E5%8D%8E%E7%9C%9F%E6%97%97%E8%88%B0%E5%B0%B1%E9%80%89%E9%97%AE%E7%95%8CM9%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
           "ranks": [
-            5,
-            15
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时57分 ~ 12时35分]"
+          "time_info": "[13时16分 ~ 13时17分]"
         },
         {
           "title": "恒指开盘基本持平，恒生科技指数涨0.38%。蔚来涨超5%，百度涨超3%。中芯国际涨2.8%，此前公告称，拟向5名股东发行5.47亿股股份购买中芯北方49.00%股权，交易价格406亿元。",
@@ -1167,11 +1250,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 12时35分]"
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 13时17分]"
         },
         {
           "title": "上海天数智芯半导体股份有限公司（Iluvatar Corex Semiconductor）申请香港IPO。 寻求发行2540万股股票，发行价每股144.60港元。 预计股票将从1月8日开始交易。",
@@ -1270,6 +1354,57 @@
       ]
     },
     {
+      "keyword_group": "华为 小米 荣耀",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "华为发布新年致辞，孟晚舟：战略聚焦，以质取胜",
+          "url": "https://wallstreetcn.com/livenews/3028466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时51分 ~ 11时57分]"
+        },
+        {
+          "title": "孟晚舟新年致辞谈华为2026战略",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%9F%E6%99%9A%E8%88%9F%E6%96%B0%E5%B9%B4%E8%87%B4%E8%BE%9E%E8%B0%88%E5%8D%8E%E4%B8%BA2026%E6%88%98%E7%95%A5%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时16分 ~ 13时17分]"
+        },
+        {
+          "title": "孟晚舟新年致辞谈华为战略方向",
+          "url": "https://www.baidu.com/s?wd=%E5%AD%9F%E6%99%9A%E8%88%9F%E6%96%B0%E5%B9%B4%E8%87%B4%E8%BE%9E%E8%B0%88%E5%8D%8E%E4%B8%BA%E6%88%98%E7%95%A5%E6%96%B9%E5%90%91",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.67%，报7636.97点，跳空低开过后，逐步收复失地。 热门中概股里，小米初步收跌3.7%，阿里巴巴跌2.4%，理想、腾讯、小鹏、百胜中国跌超1%，网易涨0.8%，百度涨1.6%，蔚来涨4.8%。 ETF中，中概互联网指数ETF（KWEB）收跌1.03%，中国科技指数ETF（CQQQ）收跌0.69%。 XtrackersHarvest中证50（ASHS）收跌1.22%，德银嘉实沪深300指数ETF（ASHR）收跌1.03%。",
+          "url": "https://wallstreetcn.com/livenews/3028329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "创业板",
       "match_count": 4,
       "titles": [
@@ -1323,46 +1458,6 @@
       ]
     },
     {
-      "keyword_group": "华为 小米 荣耀",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "华为发布新年致辞，孟晚舟：战略聚焦，以质取胜",
-          "url": "https://wallstreetcn.com/livenews/3028466",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时51分 ~ 11时57分]"
-        },
-        {
-          "title": "孟晚舟新年致辞谈华为战略方向",
-          "url": "https://www.baidu.com/s?wd=%E5%AD%9F%E6%99%9A%E8%88%9F%E6%96%B0%E5%B9%B4%E8%87%B4%E8%BE%9E%E8%B0%88%E5%8D%8E%E4%B8%BA%E6%88%98%E7%95%A5%E6%96%B9%E5%90%91",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.67%，报7636.97点，跳空低开过后，逐步收复失地。 热门中概股里，小米初步收跌3.7%，阿里巴巴跌2.4%，理想、腾讯、小鹏、百胜中国跌超1%，网易涨0.8%，百度涨1.6%，蔚来涨4.8%。 ETF中，中概互联网指数ETF（KWEB）收跌1.03%，中国科技指数ETF（CQQQ）收跌0.69%。 XtrackersHarvest中证50（ASHS）收跌1.22%，德银嘉实沪深300指数ETF（ASHR）收跌1.03%。",
-          "url": "https://wallstreetcn.com/livenews/3028329",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        }
-      ]
-    },
-    {
       "keyword_group": "苹果 iPhone",
       "match_count": 2,
       "titles": [
@@ -1384,11 +1479,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%AA%E6%96%B0%E5%B9%B4%E8%A2%AB%E8%8B%B9%E6%9E%9C%E5%B8%82%E4%BF%98%E8%8E%B7%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时34分 ~ 12时35分]"
+          "appearance_count": 4,
+          "time_info": "[12时34分 ~ 13时17分]"
         }
       ]
     },
