@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-01T05:11:25.917352+08:00",
-  "total_titles_processed": 517,
+  "generated_at": "2026-01-01T06:12:33.032620+08:00",
+  "total_titles_processed": 548,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "数字人民币将于 2026 年起全面升级，本次改革有哪些亮点？新增计息制度等对居民日用有何影响？",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 05时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 06时12分]"
         },
         {
           "title": "关于数字人民币 国有六大行集体宣布",
@@ -26,11 +26,23 @@
             15,
             16,
             22,
-            18
+            18,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 05时11分]"
+          "appearance_count": 8,
+          "time_info": "[01时10分 ~ 06时12分]"
+        },
+        {
+          "title": "周三（12月31日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘跌0.10%，报88175美元，12月份累计下跌3.81%。 CME以太币期货DCR主力合约涨0.86%，报2997.50美元，12月份累跌2.36%。",
+          "url": "https://wallstreetcn.com/livenews/3029491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
         },
         {
           "title": "LME期铜收跌136美元，报12423美元/吨。 LME期铝收涨16美元，报2996美元/吨。 LME期锌收跌6美元，报3118美元/吨。 LME期铅收涨1美元，报2011美元/吨。 LME期镍收跌182美元，报16646美元/吨。 LME期锡收跌1398美元，报40556美元/吨。 LME期钴收平，报53355美元/吨。",
@@ -42,6 +54,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至12月23日当周，对冲基金所持欧元多头头寸增加至29,098手合约，创逾五年来最高，价值大约43亿美元。",
+          "url": "https://flash.jin10.com/detail/20260101052422897800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：对冲基金所持欧元多头头寸增加至29,098手合约，创逾五年来最高，价值大约43亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3029488",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "美国投资公司协会（ICI）：美国货币市场资产达到7.73万亿美元，创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3029457",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时10分 ~ 06时12分]"
+        },
+        {
+          "title": "周三（12月31日），美联储隔夜逆回购协议（RRP）使用规模为1059.93亿美元（交易对手49家），上个交易日报126.05亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3029454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14,
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时10分 ~ 06时12分]"
         },
         {
           "title": "周三（12月31日），韩元兑美元最终跌0.35%，报1444.62韩元。 2025年，韩元累计上涨将近2.30%，月线图上呈现出冲高回落走势。",
@@ -71,17 +133,17 @@
           "time_info": "[03时10分 ~ 05时11分]"
         },
         {
-          "title": "美国投资公司协会（ICI）：美国货币市场资产达到7.73万亿美元，创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3029457",
-          "source": "华尔街见闻-快讯",
+          "title": "纽约期银日内重挫10.00%，现报70.12美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260101033700648800",
+          "source": "金十数据",
           "ranks": [
-            1,
-            11,
-            20
+            2,
+            14,
+            30
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[03时10分 ~ 05时11分]"
+          "time_info": "[04时13分 ~ 06时12分]"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了49个对手方的1059.93亿美元。",
@@ -97,41 +159,17 @@
           "time_info": "[03时10分 ~ 05时11分]"
         },
         {
-          "title": "周三（12月31日），美联储隔夜逆回购协议（RRP）使用规模为1059.93亿美元（交易对手49家），上个交易日报126.05亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3029454",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时10分 ~ 05时11分]"
-        },
-        {
-          "title": "纽约期银日内重挫10.00%，现报70.12美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260101033700648800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时13分 ~ 05时11分]"
-        },
-        {
           "title": "彭博美元指数四连涨，但全年表现为2017年以来最差",
           "url": "https://wallstreetcn.com/livenews/3029468",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时13分 ~ 05时11分]"
+          "appearance_count": 3,
+          "time_info": "[04时13分 ~ 06时12分]"
         },
         {
           "title": "纽约期银跌穿70美元整数位心理关口",
@@ -139,11 +177,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时13分 ~ 05时11分]"
+          "appearance_count": 3,
+          "time_info": "[04时13分 ~ 06时12分]"
         },
         {
           "title": "布伦特原油日内跌幅达1.0%，报60.71美元/桶。",
@@ -151,11 +190,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时13分 ~ 05时11分]"
+          "appearance_count": 3,
+          "time_info": "[04时13分 ~ 06时12分]"
         },
         {
           "title": "比特币跌穿87600美元刷新日低，日内稍早持续震荡上行，北京时间22:09还曾涨至89081.91美元刷新日高，之后相对显著地持续下挫。 彭博数据显示，狗狗币短线跳水，日内整体跌超5.13%，刷新日低至0.1164美元。",
@@ -171,6 +211,19 @@
           "time_info": "[01时10分 ~ 03时10分]"
         },
         {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9879元，较周二夜盘收盘涨63点。成交量376.32亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3029459",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时13分 ~ 06时12分]"
+        },
+        {
           "title": "澳元兑美元AUD/USD日内下跌0.50%，现报0.6659。",
           "url": "https://flash.jin10.com/detail/20251231235207972800",
           "source": "金十数据",
@@ -183,16 +236,28 @@
           "time_info": "[00时15分 ~ 01时10分]"
         },
         {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9879元，较周二夜盘收盘涨63点。成交量376.32亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3029459",
-          "source": "华尔街见闻-快讯",
+          "title": "纽约期银跌破70美元大关",
+          "url": "https://flash.jin10.com/detail/20260101041219229800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            19
+            11,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时13分 ~ 05时11分]"
+          "time_info": "[05时11分 ~ 06时12分]"
+        },
+        {
+          "title": "现货白银日内重挫8%，逼近失守70美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260101040806081800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时11分 ~ 06时12分]"
         },
         {
           "title": "澳元/美元日内跌幅达0.5%，报0.6663。",
@@ -251,28 +316,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
-        },
-        {
-          "title": "纽约期银跌破70美元大关",
-          "url": "https://flash.jin10.com/detail/20260101041219229800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "现货白银日内重挫8%，逼近失守70美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260101040806081800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时11分"
         }
       ]
     },
@@ -288,8 +331,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 05时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 06时12分]"
         },
         {
           "title": "【焦点复盘】银行等权重板块护盘，沪指追平日线连阳历史纪录，AI软硬件分化再现",
@@ -299,8 +342,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 05时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 06时12分]"
         },
         {
           "title": "【每日收评】沪指11连阳收官！商业航天卷土重来，AI应用端强势延续",
@@ -311,8 +354,21 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 05时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 06时12分]"
+        },
+        {
+          "title": "法国总统马克龙：呼吁欧洲在AI和量子计算技术领域实现独立。",
+          "url": "https://wallstreetcn.com/livenews/3029462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时13分 ~ 06时12分]"
         },
         {
           "title": "法国总统马克龙马呼吁欧洲在人工智能和量子技术领域保持独立。",
@@ -325,18 +381,57 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时13分 ~ 05时11分]"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
+      "match_count": 4,
+      "titles": [
         {
-          "title": "法国总统马克龙：呼吁欧洲在AI和量子计算技术领域实现独立。",
-          "url": "https://wallstreetcn.com/livenews/3029462",
+          "title": "纳斯达克金龙中国指数初步收跌1.1%。 热门中概股里，蔚来初步收跌7.3%，小鹏跌4.7%，文远知行跌2.5%，网易、理想、百度、新东方、小马智行跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3029482",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            18
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数跌幅扩大至1.1%。 热门中概股蔚来跌7.7%，小鹏跌5.5%，理想跌4.6%，网易跌2.1%，百度跌1.4%，阿里跌1%。",
+          "url": "https://wallstreetcn.com/livenews/3029407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时13分 ~ 05时11分]"
+          "time_info": "[00时15分 ~ 01时10分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌1.13%，报7529.74点，12月份累计下跌3.38%，四季度累计下跌12.81%，2025年累计上涨超过11.33%。 热门中概股里，蔚来初步收跌7.3%，小鹏跌4.7%，文远知行跌2.5%，网易、理想、百度、新东方、小马智行跌超1%。 ETF中，中概互联网指数ETF（KWEB）收跌0.99%，中国科技指数ETF（CQQQ）收跌0.63%，德银嘉实沪深300指数ETF（ASHR）收跌0.33%，XtrackersHarvest中证50（ASHS）收涨0.30%。 2025年，ASHS累涨39.49%，CQQQ涨35.05%，ASHR涨27.13%，KWEB涨23.54%。",
+          "url": "https://wallstreetcn.com/livenews/3029482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数盘初跌0.76%。 热门中概股蔚来跌5%，小鹏跌4.46%，理想跌3.6%，新东方跌2.1%，网易跌1.5%，百度跌1%，文远知行跌0.6%，阿里跌0.3%，百胜中国涨0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3029402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
         }
       ]
     },
@@ -354,8 +449,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 05时11分]"
+          "appearance_count": 8,
+          "time_info": "[01时10分 ~ 06时12分]"
         },
         {
           "title": "元旦王者荣耀这些皮肤限免",
@@ -364,11 +459,12 @@
           "ranks": [
             18,
             17,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时09分 ~ 05时11分]"
+          "appearance_count": 6,
+          "time_info": "[03时09分 ~ 06时12分]"
         },
         {
           "title": "你觉得小米和OPPO风格互换了吗",
@@ -380,46 +476,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时14分 ~ 00时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "纳斯达克金龙中国指数初步收跌1.1%。 热门中概股里，蔚来初步收跌7.3%，小鹏跌4.7%，文远知行跌2.5%，网易、理想、百度、新东方、小马智行跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3029482",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数跌幅扩大至1.1%。 热门中概股蔚来跌7.7%，小鹏跌5.5%，理想跌4.6%，网易跌2.1%，百度跌1.4%，阿里跌1%。",
-          "url": "https://wallstreetcn.com/livenews/3029407",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时10分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数盘初跌0.76%。 热门中概股蔚来跌5%，小鹏跌4.46%，理想跌3.6%，新东方跌2.1%，网易跌1.5%，百度跌1%，文远知行跌0.6%，阿里跌0.3%，百胜中国涨0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3029402",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
         }
       ]
     },
@@ -446,11 +502,12 @@
             18,
             24,
             29,
-            26
+            26,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 05时11分]"
+          "appearance_count": 8,
+          "time_info": "[01时10分 ~ 06时12分]"
         },
         {
           "title": "华虹半导体：拟以82.7亿元人民币收购华力微电子股权",
@@ -490,11 +547,12 @@
             20,
             22,
             23,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时10分 ~ 05时11分]"
+          "appearance_count": 7,
+          "time_info": "[01时10分 ~ 06时12分]"
         },
         {
           "title": "瑞士央行第三季度克制货币干预",
@@ -513,7 +571,7 @@
     },
     {
       "keyword_group": "房地产 房价 楼市 LPR",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "1 月 1 日起个人将购买 2 年以上（含 2 年）的住房对外销售的，免征增值税，对楼市有哪些影响？",
@@ -523,8 +581,19 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 05时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 06时12分]"
+        },
+        {
+          "title": "标普500指数的11个板块全线收跌，房地产板块跌1%，原材料、工业、信息技术/科技、可选消费板块跌0.88%-0.8%，能源板块跌0.52%表现“顺数第二”，电信板块跌0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3029489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
         }
       ]
     },
@@ -571,11 +640,29 @@
           "url": "https://wallstreetcn.com/livenews/3029484",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时11分 ~ 06时12分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英伟达 台积电 AMD 高通",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股科技巨头收盘播报｜2025年AMD涨超77%，谷歌A涨约66%，台积电涨月56%，英伟达涨幅不足39%",
+          "url": "https://wallstreetcn.com/livenews/3029487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时11分"
+          "time_info": "06时12分"
         }
       ]
     },
@@ -588,11 +675,12 @@
           "url": "https://wallstreetcn.com/articles/3762357",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 05时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时14分 ~ 06时12分]"
         }
       ]
     }
