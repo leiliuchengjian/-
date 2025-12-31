@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T19:12:27.223115+08:00",
-  "total_titles_processed": 1616,
+  "generated_at": "2025-12-31T20:22:54.736581+08:00",
+  "total_titles_processed": 1710,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 86,
+      "match_count": 87,
       "titles": [
         {
           "title": "静待美联储会议纪要，美股指集体低开，现货黄金反弹至4400美元，白银涨逾5%，在岸人民币破7",
@@ -76,6 +76,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时15分 ~ 07时11分]"
+        },
+        {
+          "title": "数字人民币将于 2026 年起全面升级，本次改革有哪些亮点？新增计息制度等对居民日用有何影响？",
+          "url": "https://www.zhihu.com/question/1988984379352039846",
+          "source": "知乎",
+          "ranks": [
+            8,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时12分 ~ 20时22分]"
         },
         {
           "title": "美联储调查：预计未来12 个月内美联储将购买2200亿美元短期国债",
@@ -150,7 +163,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -164,18 +177,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
-        },
-        {
-          "title": "数字人民币将于 2026 年起全面升级，本次改革有哪些亮点？新增计息制度等对居民日用有何影响？",
-          "url": "https://www.zhihu.com/question/1988984379352039846",
-          "source": "知乎",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时12分 ~ 19时12分]"
         },
         {
           "title": "现货白银日内涨幅达8.0%，报77.91美元/盎司。 纽约银日内涨幅达10.5%，报77.86美元/盎司。",
@@ -904,6 +905,17 @@
           "time_info": "08时57分"
         },
         {
+          "title": "微博：拟在未来一年内回购不超过2亿美元股份",
+          "url": "https://wallstreetcn.com/livenews/3029317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
           "title": "人民币兑美元短线走低，在岸人民币兑美元和离岸人民币兑美元均抹去涨幅。",
           "url": "https://wallstreetcn.com/livenews/3029165",
           "source": "华尔街见闻-快讯",
@@ -1100,11 +1112,12 @@
             15,
             14,
             13,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时51分 ~ 19时12分]"
+          "appearance_count": 16,
+          "time_info": "[10时51分 ~ 20时22分]"
         },
         {
           "title": "【焦点复盘】科创50指数收涨超1%，国产算力概念全天亮眼，AI智能体概念异军突起",
@@ -1153,7 +1166,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -1252,6 +1265,32 @@
           "time_info": "[06时12分 ~ 07时11分]"
         },
         {
+          "title": "【每日收评】沪指11连阳收官！商业航天卷土重来，AI应用端强势延续",
+          "url": "https://www.cls.cn/detail/2245529",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时12分 ~ 20时22分]"
+        },
+        {
+          "title": "【焦点复盘】银行等权重板块护盘，沪指追平日线连阳历史纪录，AI软硬件分化再现",
+          "url": "https://www.cls.cn/detail/2245628",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时12分 ~ 20时22分]"
+        },
+        {
           "title": "12月31日午间收评：创业板指半日跌超1%，AI应用端逆势走强",
           "url": "https://wallstreetcn.com/livenews/3029072",
           "source": "华尔街见闻-快讯",
@@ -1277,18 +1316,6 @@
           "time_info": "[02时18分 ~ 04时13分]"
         },
         {
-          "title": "【每日收评】沪指11连阳收官！商业航天卷土重来，AI应用端强势延续",
-          "url": "https://www.cls.cn/detail/2245529",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时12分 ~ 19时12分]"
-        },
-        {
           "title": "马斯克旗下xAI就AI训练数据法律起诉美国加州检察官。",
           "url": "https://wallstreetcn.com/livenews/3028878",
           "source": "华尔街见闻-快讯",
@@ -1300,18 +1327,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时18分 ~ 04时13分]"
-        },
-        {
-          "title": "【焦点复盘】银行等权重板块护盘，沪指追平日线连阳历史纪录，AI软硬件分化再现",
-          "url": "https://www.cls.cn/detail/2245628",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时12分 ~ 19时12分]"
         },
         {
           "title": "英伟达拟以最高30亿美元的价格收购以色列AI21 Labs",
@@ -1569,8 +1584,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[08时56分 ~ 19时12分]"
+          "appearance_count": 18,
+          "time_info": "[08时56分 ~ 20时22分]"
         },
         {
           "title": "美联储会议纪要：大部分官员认为随着时间的推移继续降息是适宜的。",
@@ -1632,6 +1647,19 @@
           "time_info": "[18时13分 ~ 19时12分]"
         },
         {
+          "title": "全面降息下的“存款搬家”",
+          "url": "https://www.toutiao.com/trending/7589904767824973355/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时12分 ~ 20时22分]"
+        },
+        {
           "title": "美联储部分官员对明年初进一步降息持谨慎态度",
           "url": "https://flash.jin10.com/detail/20251231034515935800",
           "source": "金十数据",
@@ -1668,18 +1696,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时51分 ~ 11时57分]"
-        },
-        {
-          "title": "全面降息下的“存款搬家”",
-          "url": "https://www.toutiao.com/trending/7589904767824973355/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时12分 ~ 19时12分]"
         },
         {
           "title": "周二（12月30日），降息赢家指数跌0.33%，报99.34点。 “特朗普关税输家”指数跌0.70%，报111.29点。 “特朗普金融指数”跌0.60%，报173.74点。 散户抱团概念股指数/迷因股（meme stock）指数跌0.97%，报15.49点。",
@@ -1736,7 +1752,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -1791,7 +1807,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -1835,8 +1851,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时51分 ~ 19时12分]"
+          "appearance_count": 16,
+          "time_info": "[10时51分 ~ 20时22分]"
         },
         {
           "title": "英媒：美政府已颁发许可证，批准韩企向中国出口芯片制造设备",
@@ -2004,7 +2020,7 @@
     },
     {
       "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "小孩哥坐地铁上学睡过23个站",
@@ -2103,9 +2119,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
+        },
+        {
+          "title": "芬兰警方：已就水下关键基础设施受损事件立即展开调查。",
+          "url": "https://flash.jin10.com/detail/20251231191030032800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         },
         {
           "title": "伊朗称成功挫败针对其通信基础设施的大规模网络攻击",
@@ -2114,7 +2141,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -2340,7 +2367,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         }
@@ -2429,8 +2456,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时15分 ~ 19时12分]"
+          "appearance_count": 20,
+          "time_info": "[00时15分 ~ 20时22分]"
         },
         {
           "title": "金十数据整理：每日房地产行业动态汇总（2025-12-31）",
@@ -2461,7 +2488,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         }
@@ -2509,6 +2536,64 @@
       ]
     },
     {
+      "keyword_group": "新能源汽车 电动汽车 智能驾驶",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "中国汽车制造商11月在欧洲电动汽车市场拿下了创纪录的12.8%的份额。",
+          "url": "https://wallstreetcn.com/livenews/3029333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
+          "title": "周二（12月30日），彭博电动汽车价格回报指数跌0.23%，报3458.80点。 北京时间09:32，指数显著下跌，刷新日低至3438.18点，13:08出现一波显著的反弹行情，13:55刷新日高至3482.11点。",
+          "url": "https://wallstreetcn.com/livenews/3028921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时12分 ~ 06时12分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大模型 ChatGPT Kimi Sora OpenAI",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "报道称Kimi完成5亿美元新融资，杨植麟：账上有超百亿元人民币",
+          "url": "https://wallstreetcn.com/livenews/3029189",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时18分 ~ 17时17分]"
+        },
+        {
+          "title": "Kimi母公司拟赴港借壳上市？接近月之暗面人士：假消息",
+          "url": "https://wallstreetcn.com/livenews/3029300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        }
+      ]
+    },
+    {
       "keyword_group": "城市更新 旧城改造 城中村改造 保障房",
       "match_count": 1,
       "titles": [
@@ -2546,42 +2631,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时15分 ~ 07时11分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源汽车 电动汽车 智能驾驶",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周二（12月30日），彭博电动汽车价格回报指数跌0.23%，报3458.80点。 北京时间09:32，指数显著下跌，刷新日低至3438.18点，13:08出现一波显著的反弹行情，13:55刷新日高至3482.11点。",
-          "url": "https://wallstreetcn.com/livenews/3028921",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时12分 ~ 06时12分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大模型 ChatGPT Kimi Sora OpenAI",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "报道称Kimi完成5亿美元新融资，杨植麟：账上有超百亿元人民币",
-          "url": "https://wallstreetcn.com/livenews/3029189",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 17时17分]"
         }
       ]
     },
