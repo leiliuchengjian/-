@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T08:56:50.208479+08:00",
-  "total_titles_processed": 856,
+  "generated_at": "2026-01-06T10:53:54.958786+08:00",
+  "total_titles_processed": 1010,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 51,
+      "match_count": 57,
       "titles": [
         {
           "title": "1万多张2元人民币拍出83.16万元",
@@ -32,6 +32,18 @@
           "time_info": "[00时16分 ~ 08时56分]"
         },
         {
+          "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
+          "url": "https://wallstreetcn.com/articles/3762559",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时11分 ~ 10时53分]"
+        },
+        {
           "title": "1万多张2元人民币拍出83.16万元",
           "url": "https://www.toutiao.com/trending/7591512300159959059/",
           "source": "今日头条",
@@ -48,18 +60,6 @@
           "time_info": "[00时16分 ~ 07时12分]"
         },
         {
-          "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
-          "url": "https://wallstreetcn.com/articles/3762559",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时11分 ~ 08时56分]"
-        },
-        {
           "title": "WTI 2月原油期货收报58.32美元/桶。 NYMEX 2月天然气期货收报3.5230美元/百万英热单位。 NYMEX 2月汽油期货收报1.72美元/加仑，NYMEX 2月取暖油期货收报2.1428美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3031081",
           "source": "华尔街见闻-快讯",
@@ -69,6 +69,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
+        },
+        {
+          "title": "现货铂金涨近3%，报2339.20美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260106103523677800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
         },
         {
           "title": "现货金银周二小幅高开，分别报4451美元/盎司和76.73美元/盎司。",
@@ -384,7 +395,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -395,7 +406,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -420,6 +431,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "现货钯金日内涨幅扩大至2.00%，现报1739.26美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260106102829007800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
+        {
+          "title": "纽约期银日内涨幅达1.00%，现报77.43美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260106102803282800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
         },
         {
           "title": "周一（1月5日）纽约尾盘，ICE美元指数跌0.17%，刷新日低至98.259点，日内稍早一度持续走高，北京时间21:42刷新日高至98.861点，之后快速回落。 彭博美元指数跌0.13%，报1202.93点，日内交投区间为1209.04-1202.58点。",
@@ -466,6 +499,17 @@
           "time_info": "06时12分"
         },
         {
+          "title": "现货白银日内涨幅扩大至1.00%，现报77.37美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260106102301348800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
+        {
           "title": "现货白银日内涨幅达6.0%，报77.02美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3030971",
           "source": "华尔街见闻-快讯",
@@ -475,6 +519,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "新加坡元兑美元上涨0.1%至1.2810，为2025年9月19日以来最强水位。",
+          "url": "https://wallstreetcn.com/livenews/3031274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
         },
         {
           "title": "微芯科技(MCHP.O)：预计第三季度销售额达11.9亿美元，正准备在三月扩大工厂产能以降低费用。",
@@ -532,6 +587,17 @@
           "time_info": "05时12分"
         },
         {
+          "title": "现货白银向上触及77美元关口",
+          "url": "https://flash.jin10.com/detail/20260106101057936800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
+        {
           "title": "伦铝日内涨幅扩大至2.00%，现报3080.10美元/吨。",
           "url": "https://flash.jin10.com/detail/20260105232359739800",
           "source": "金十数据",
@@ -549,7 +615,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -601,7 +667,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
@@ -614,8 +680,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 08时56分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 10时53分]"
+        },
+        {
+          "title": "蹭“人工智能”热点，16倍大牛股被上交所监管警示",
+          "url": "https://www.cls.cn/detail/2248455",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 10时53分]"
         },
         {
           "title": "B站AI大赛开始了",
@@ -628,23 +707,12 @@
             14,
             8,
             1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时15分 ~ 08时56分]"
-        },
-        {
-          "title": "蹭“人工智能”热点，16倍大牛股被上交所监管警示",
-          "url": "https://www.cls.cn/detail/2248455",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
+            5,
+            25
           ],
           "is_new": false,
           "appearance_count": 11,
-          "time_info": "[00时16分 ~ 08时56分]"
+          "time_info": "[01时15分 ~ 10时53分]"
         },
         {
           "title": "AI说啥我穿啥",
@@ -653,11 +721,12 @@
           "ranks": [
             28,
             17,
-            19
+            19,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时18分 ~ 08时56分]"
+          "appearance_count": 10,
+          "time_info": "[02时18分 ~ 10时53分]"
         },
         {
           "title": "智谱AI在厦门投资成立新公司",
@@ -666,7 +735,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -695,6 +764,18 @@
           "time_info": "[06时12分 ~ 07时12分]"
         },
         {
+          "title": "欧盟怒斥“令人作呕”、多国启动调查 马斯克的AI又闯祸",
+          "url": "https://www.cls.cn/detail/2248593",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 10时53分]"
+        },
+        {
           "title": "OpenAI家务机器人售价2万美元",
           "url": "https://wallstreetcn.com/livenews/3031066",
           "source": "华尔街见闻-快讯",
@@ -706,6 +787,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时14分 ~ 05时12分]"
+        },
+        {
+          "title": "黄仁勋：AI超级芯片平台Rubin全面投产",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9AAI%E8%B6%85%E7%BA%A7%E8%8A%AF%E7%89%87%E5%B9%B3%E5%8F%B0Rubin%E5%85%A8%E9%9D%A2%E6%8A%95%E4%BA%A7",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 10时53分]"
         },
         {
           "title": "惠普新3K笔记本比Macbook Air更薄",
@@ -731,15 +824,15 @@
           "time_info": "07时12分"
         },
         {
-          "title": "欧盟怒斥“令人作呕”、多国启动调查 马斯克的AI又闯祸",
-          "url": "https://www.cls.cn/detail/2248593",
-          "source": "财联社热门",
+          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
+          "url": "https://wallstreetcn.com/articles/3762605",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时56分"
+          "time_info": "10时53分"
         },
         {
           "title": "英伟达CEO黄仁勋：模型“Alpamayo”是全球首款具备思考、推理和自主驾驶能力的智能汽车AI系统。该系统采用端到端训练模式，从摄像头输入到执行器输出实现全流程训练。",
@@ -858,7 +951,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -880,18 +973,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
-          "title": "黄仁勋：AI超级芯片平台Rubin全面投产",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9AAI%E8%B6%85%E7%BA%A7%E8%8A%AF%E7%89%87%E5%B9%B3%E5%8F%B0Rubin%E5%85%A8%E9%9D%A2%E6%8A%95%E4%BA%A7",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -932,7 +1014,7 @@
     },
     {
       "keyword_group": "英伟达 台积电 AMD 高通",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股指集体高开，台积电涨超3%再创新高，伦铜触及1.3万美元创新高，现货白银涨6%，现货黄金突破4450美元，原油转涨",
@@ -945,6 +1027,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时16分 ~ 06时12分]"
+        },
+        {
+          "title": "禾赛科技宣布，公司已被英伟达选定为“NVIDIA DRIVE AGX Hyperion 10平台”的激光雷达合作伙伴。禾赛港股涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3031306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
         },
         {
           "title": "英伟达CEO黄仁勋：英伟达将为2025款梅赛德斯-奔驰CLA车型提供全栈式自动驾驶解决方案。",
@@ -995,6 +1088,17 @@
           "time_info": "[06时12分 ~ 07时12分]"
         },
         {
+          "title": "英伟达发布新一代Rubin平台，推理成本较Blackwell降10倍，已全面投产拟下半年发货",
+          "url": "https://wallstreetcn.com/articles/3762610",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
+        {
           "title": "英伟达(NVDA.O)：多家顶尖交通与科技合作伙伴基于公司的L4级无人驾驶出租车就绪平台展开开发，平台由英伟达HALOS工具提供支持。",
           "url": "https://flash.jin10.com/detail/20260106070010832800",
           "source": "金十数据",
@@ -1034,7 +1138,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -1072,13 +1176,24 @@
           "time_info": "07时12分"
         },
         {
+          "title": "高盛上调台积电目标价 营收和资本支出有望持续加速",
+          "url": "https://flash.jin10.com/detail/20260106101530805800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
+        {
           "title": "英伟达CEO黄仁勋：收购GROQ资产“不会影响我们的核心业务”，但可能会带来“新的事物”。",
           "url": "https://flash.jin10.com/detail/20260106073538316800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -1096,89 +1211,104 @@
       ]
     },
     {
-      "keyword_group": "华为 小米 荣耀",
-      "match_count": 6,
+      "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
+      "match_count": 8,
       "titles": [
         {
-          "title": "雷军聊小米汽车试验室",
-          "url": "https://www.douyin.com/hot/2358389",
-          "source": "抖音",
+          "title": "六大车企去年成绩单：比亚迪460万辆销量居首，上汽、吉利斩获两位数增幅",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32313092",
+          "source": "澎湃新闻",
           "ranks": [
-            8,
-            7,
-            5,
-            4,
-            6,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 08时56分]"
-        },
-        {
-          "title": "小米公关部徐洁云发文致歉，确认与争议博主「万能的大熊」有过接触，并已终止合作，此事对小米影响有多大？",
-          "url": "https://www.zhihu.com/question/1991644899557208954",
-          "source": "知乎",
-          "ranks": [
-            11,
-            13,
-            12,
-            8
+            1
           ],
           "is_new": false,
           "appearance_count": 10,
-          "time_info": "[01时15分 ~ 08时56分]"
+          "time_info": "[00时16分 ~ 07时12分]"
         },
         {
-          "title": "南向资金追踪｜单日净买入超187亿港元创近阶段新高 减持腾讯加仓快手和小米",
-          "url": "https://www.cls.cn/detail/2248202",
+          "title": "新年第一周连发三款新车 比亚迪欲靠“长续航”稳定插混基本盘？",
+          "url": "https://www.cls.cn/detail/2248257",
           "source": "财联社热门",
           "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 06时12分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收涨0.5%。 热门中概股里，文远知行、拼多多初步收涨3%，小马智行涨2.6%，美团涨1.9%，理想、腾讯、京东、阿里涨幅不到1%，小鹏、网易则跌超1%，百胜中国跌2.8%，小米跌3%，蔚来跌5.1%。",
-          "url": "https://wallstreetcn.com/livenews/3031095",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时12分"
-        },
-        {
-          "title": "小米回应网传KOL合作：跟相关KOL有过接触，立即终止可能进行的任何形式合作。（澎湃）",
-          "url": "https://wallstreetcn.com/livenews/3030979",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
+            12,
+            11,
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 07时12分]"
         },
         {
-          "title": "纳斯达克金龙中国指数收涨0.49%，报7898.24点。 热门中概股里，文远知行、拼多多初步收涨3%，小马智行涨2.6%，美团涨1.9%，理想、腾讯、京东、阿里涨幅不到1%，小鹏、网易则跌超1%，百胜中国跌2.8%，小米跌3%，蔚来跌5.1%。 ETF中，中国科技指数ETF（CQQQ）收涨2.47%，中概互联网指数ETF（KWEB）收涨2.30%。 XtrackersHarvest中证50（ASHS）收涨1.57%，德银嘉实沪深300指数ETF（ASHR）收涨1.02%。",
-          "url": "https://wallstreetcn.com/livenews/3031095",
+          "title": "特斯拉",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%96%AF%E6%8B%89&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
+        {
+          "title": "特斯拉ModelYL首次推出5年0息",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89ModelYL%E9%A6%96%E6%AC%A1%E6%8E%A8%E5%87%BA5%E5%B9%B40%E6%81%AF%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
+        {
+          "title": "最新数据显示，特斯拉(TSLA.O)12月英国新车销量同比下降29.4%至6323辆。",
+          "url": "https://flash.jin10.com/detail/20260106080316265800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "蔚来公司第100万台量产车下线，李斌称未来将保持每年40%-50%销量增长",
+          "url": "https://wallstreetcn.com/livenews/3031285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
+        {
+          "title": "英国汽车制造商与贸易商协会初步数据显示，12月英国新车注册量同比增长3.8%，达146,102辆。特斯拉12月在英国的汽车销量跌29.4%。",
+          "url": "https://wallstreetcn.com/livenews/3031182",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时12分"
+          "time_info": "08时56分"
+        },
+        {
+          "title": "特斯拉中国微博发文称，1月31日前下订Model 3和Model Y、Model Y L车型可申请5年0息或7年超低息金融特惠方案。",
+          "url": "https://wallstreetcn.com/livenews/3031258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
         }
       ]
     },
     {
       "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "高通扩展PC芯片布局，新款处理器瞄准中端笔记本电脑",
@@ -1236,73 +1366,127 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "恒生科技指数涨幅扩大至2%，商汤、京东健康涨超6%，华虹半导体涨近6%。",
+          "url": "https://wallstreetcn.com/livenews/3031266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
+        {
+          "title": "恒指涨幅扩大至1%，恒生科技指数涨1.6%。京东健康涨超6%，商汤涨超5%，华虹半导体涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/3031255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
+        {
+          "title": "三星、海力士存储芯片或涨价70%",
+          "url": "https://www.toutiao.com/trending/7591707872086474794/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
         }
       ]
     },
     {
-      "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 5,
+      "keyword_group": "华为 小米 荣耀",
+      "match_count": 6,
       "titles": [
         {
-          "title": "丹麦央行表示，12月未干预外汇市场。",
-          "url": "https://flash.jin10.com/detail/20260106000012671800",
-          "source": "金十数据",
+          "title": "雷军聊小米汽车试验室",
+          "url": "https://www.douyin.com/hot/2358389",
+          "source": "抖音",
           "ranks": [
-            2
+            8,
+            7,
+            5,
+            4,
+            6,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 08时56分]"
         },
         {
-          "title": "英国12月BRC商店物价指数年率 0.7%，前值0.60%。",
-          "url": "https://flash.jin10.com/detail/20260106080118751800",
-          "source": "金十数据",
+          "title": "小米公关部徐洁云发文致歉，确认与争议博主「万能的大熊」有过接触，并已终止合作，此事对小米影响有多大？",
+          "url": "https://www.zhihu.com/question/1991644899557208954",
+          "source": "知乎",
           "ranks": [
-            10
+            11,
+            13,
+            12,
+            8,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时56分"
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时15分 ~ 10时53分]"
         },
         {
-          "title": "市场消息：美国法官驳回亚马逊(AMZN.O)公司撤销诉讼的请求，诉讼指控该零售商在疫情期间哄抬物价。",
-          "url": "https://flash.jin10.com/detail/20260106042634181800",
-          "source": "金十数据",
+          "title": "南向资金追踪｜单日净买入超187亿港元创近阶段新高 减持腾讯加仓快手和小米",
+          "url": "https://www.cls.cn/detail/2248202",
+          "source": "财联社热门",
           "ranks": [
-            20
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 06时12分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收涨0.5%。 热门中概股里，文远知行、拼多多初步收涨3%，小马智行涨2.6%，美团涨1.9%，理想、腾讯、京东、阿里涨幅不到1%，小鹏、网易则跌超1%，百胜中国跌2.8%，小米跌3%，蔚来跌5.1%。",
+          "url": "https://wallstreetcn.com/livenews/3031095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
         },
         {
-          "title": "谢克尔走强后，以色列意外降息震动市场",
-          "url": "https://wallstreetcn.com/livenews/3031000",
+          "title": "小米回应网传KOL合作：跟相关KOL有过接触，立即终止可能进行的任何形式合作。（澎湃）",
+          "url": "https://wallstreetcn.com/livenews/3030979",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "美国12月ISM制造业物价支付指数 58.5，预期 58.7，前值 58.5。",
-          "url": "https://wallstreetcn.com/livenews/3030963",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨0.49%，报7898.24点。 热门中概股里，文远知行、拼多多初步收涨3%，小马智行涨2.6%，美团涨1.9%，理想、腾讯、京东、阿里涨幅不到1%，小鹏、网易则跌超1%，百胜中国跌2.8%，小米跌3%，蔚来跌5.1%。 ETF中，中国科技指数ETF（CQQQ）收涨2.47%，中概互联网指数ETF（KWEB）收涨2.30%。 XtrackersHarvest中证50（ASHS）收涨1.57%，德银嘉实沪深300指数ETF（ASHR）收涨1.02%。",
+          "url": "https://wallstreetcn.com/livenews/3031095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时12分"
         }
       ]
     },
     {
       "keyword_group": "苹果 iPhone",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "段永平再晒苹果持仓，14 年累计收益率超 16 倍，狂赚超 3400 万美元，具有哪些参考性？",
@@ -1348,63 +1532,113 @@
           "url": "https://www.douyin.com/hot/2358511",
           "source": "抖音",
           "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "六大车企去年成绩单：比亚迪460万辆销量居首，上汽、吉利斩获两位数增幅",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32313092",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 07时12分]"
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 10时53分]"
         },
         {
-          "title": "新年第一周连发三款新车 比亚迪欲靠“长续航”稳定插混基本盘？",
-          "url": "https://www.cls.cn/detail/2248257",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 07时12分]"
-        },
-        {
-          "title": "最新数据显示，特斯拉(TSLA.O)12月英国新车销量同比下降29.4%至6323辆。",
-          "url": "https://flash.jin10.com/detail/20260106080316265800",
-          "source": "金十数据",
+          "title": "苹果马年手机壳449元",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E9%A9%AC%E5%B9%B4%E6%89%8B%E6%9C%BA%E5%A3%B3449%E5%85%83%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
+          "time_info": "10时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "央行 降息 降准 CPI 物价",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "丹麦央行表示，12月未干预外汇市场。",
+          "url": "https://flash.jin10.com/detail/20260106000012671800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "英国12月BRC商店物价指数年率 0.7%，前值0.60%。",
+          "url": "https://flash.jin10.com/detail/20260106080118751800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
           "time_info": "08时56分"
         },
         {
-          "title": "英国汽车制造商与贸易商协会初步数据显示，12月英国新车注册量同比增长3.8%，达146,102辆。特斯拉12月在英国的汽车销量跌29.4%。",
-          "url": "https://wallstreetcn.com/livenews/3031182",
+          "title": "市场消息：美国法官驳回亚马逊(AMZN.O)公司撤销诉讼的请求，诉讼指控该零售商在疫情期间哄抬物价。",
+          "url": "https://flash.jin10.com/detail/20260106042634181800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "谢克尔走强后，以色列意外降息震动市场",
+          "url": "https://wallstreetcn.com/livenews/3031000",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时15分"
+        },
+        {
+          "title": "美国12月ISM制造业物价支付指数 58.5，预期 58.7，前值 58.5。",
+          "url": "https://wallstreetcn.com/livenews/3030963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房地产 房价 楼市 LPR",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "房价见底了吗",
+          "url": "https://www.toutiao.com/trending/7591820186785680902/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时15分 ~ 07时12分]"
+        },
+        {
+          "title": "2026年楼市见底信号出现了吗",
+          "url": "https://www.toutiao.com/trending/7592038594089324068/",
+          "source": "今日头条",
+          "ranks": [
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时56分"
+          "time_info": "10时53分"
         }
       ]
     },
@@ -1487,27 +1721,9 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "房地产 房价 楼市 LPR",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "房价见底了吗",
-          "url": "https://www.toutiao.com/trending/7591820186785680902/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时15分 ~ 07时12分]"
         }
       ]
     },
