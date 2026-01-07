@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T07:12:36.944745+08:00",
-  "total_titles_processed": 714,
+  "generated_at": "2026-01-07T08:57:20.520726+08:00",
+  "total_titles_processed": 868,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 46,
+      "match_count": 51,
       "titles": [
         {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
@@ -18,6 +18,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时16分 ~ 06时12分]"
+        },
+        {
+          "title": "当下商品交易两条主线——“去美元”买黄金，“强安全”买金属",
+          "url": "https://wallstreetcn.com/articles/3762649",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时13分 ~ 08时57分]"
         },
         {
           "title": "WTI 2月原油期货收跌1.19美元，跌幅2.04%，报57.13美元/桶。 NYMEX 2月天然气期货收报3.35美元/百万英热单位。 NYMEX 2月汽油期货收报1.7006美元/加仑，NYMEX 2月取暖油期货收报2.0830美元/加仑。",
@@ -40,19 +54,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
-        },
-        {
-          "title": "当下商品交易两条主线——“去美元”买黄金，“强安全”买金属",
-          "url": "https://wallstreetcn.com/articles/3762649",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时13分 ~ 07时12分]"
         },
         {
           "title": "周二（1月6日），美联储隔夜逆回购协议（RRP）使用规模为25.82亿美元（交易对手10家），上个交易日报64.85亿美元。",
@@ -330,13 +331,24 @@
           "time_info": "01时17分"
         },
         {
+          "title": "达利欧年度复盘：美元等法币贬值，美股高回报只是“计价幻觉”，黄金跑赢一切",
+          "url": "https://wallstreetcn.com/articles/3762638",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
           "title": "以色列自加沙停火三个月以来首次重返全球债券市场，融资60亿美元，获得投资者超过200亿美元认购。",
           "url": "https://wallstreetcn.com/livenews/3031934",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -358,7 +370,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -413,7 +425,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -462,6 +474,17 @@
           "time_info": "02时18分"
         },
         {
+          "title": "WTI原油日内跌幅达2.00%，现报55.84美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260107082058505800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
           "title": "Prosus在12月29日-1月2日当周按均价53.4137欧元回购股票77.4742万，合计将近0.414亿欧元（折合0.641亿美元）。 Naspers同期按均价1115.6887南非兰特回购股票19.0342万，合计超2.123亿兰特（折合0.128亿美元）。",
           "url": "https://wallstreetcn.com/livenews/3031766",
           "source": "华尔街见闻-快讯",
@@ -506,6 +529,28 @@
           "time_info": "04时14分"
         },
         {
+          "title": "人民币汇率“涨声”不断，三类资产配置价值升温",
+          "url": "https://wallstreetcn.com/livenews/3031954",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "现货黄金站上4500美元/盎司，日内涨约0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3031952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
           "title": "沪镍主力合约日内大涨6.00%，现报144990.00元/吨。 LME期铅日内涨幅达2.00%，现报2064.03美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3031755",
           "source": "华尔街见闻-快讯",
@@ -526,6 +571,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "现货白银盘中最高涨至82.01美元/盎司，日内涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/3031949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
         },
         {
           "title": "Kalshi年化成交额达到1000亿美元。（NYT Dealbook）",
@@ -552,8 +608,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 07时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 08时57分]"
         },
         {
           "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
@@ -573,11 +629,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             14,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时13分 ~ 07时12分]"
+          "appearance_count": 6,
+          "time_info": "[04时13分 ~ 08时57分]"
         },
         {
           "title": "京瓷公司：在2026年国际消费电子展上推出全新人工智能、物联网和传感器解决方案。",
@@ -611,6 +668,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "美股收盘：道指、标普均创历史新高 芯片股借AI东风飙升",
+          "url": "https://www.cls.cn/detail/2249896",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时12分 ~ 08时57分]"
         },
         {
           "title": "XAI：本轮融资的战略投资者包括英伟达(NVDA.O)和思科投资。",
@@ -649,15 +718,16 @@
           "time_info": "[00时16分 ~ 01时17分]"
         },
         {
-          "title": "美股收盘：道指、标普均创历史新高 芯片股借AI东风飙升",
-          "url": "https://www.cls.cn/detail/2249896",
-          "source": "财联社热门",
+          "title": "苏姿丰CES演讲全文来了！尧字节时代来临，Helios登场，“未来四年，要实现AI性能1000倍的提升”！",
+          "url": "https://wallstreetcn.com/articles/3762643",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            9,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时12分 ~ 08时57分]"
         },
         {
           "title": "环球音乐与英伟达合作开展人工智能音乐创作与研究。",
@@ -680,17 +750,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
-        },
-        {
-          "title": "苏姿丰CES演讲全文来了！尧字节时代来临，Helios登场，“未来四年，要实现AI性能1000倍的提升”！",
-          "url": "https://wallstreetcn.com/articles/3762643",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时12分"
         },
         {
           "title": "xAI在E轮融资募集200亿美元，英伟达和思科战略投资",
@@ -776,7 +835,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -816,6 +875,324 @@
       ]
     },
     {
+      "keyword_group": "华为 小米 荣耀",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "小米就接触 KOL 一事发布处罚声明，经办人员被辞退，许斐和徐洁云取消奖金，怎样看待小米这一处罚？",
+          "url": "https://www.zhihu.com/question/1992010161733199440",
+          "source": "知乎",
+          "ranks": [
+            18,
+            13,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时16分 ~ 07时12分]"
+        },
+        {
+          "title": "计划投放KOL遭粉丝抵制 小米通报",
+          "url": "https://www.baidu.com/s?wd=%E8%AE%A1%E5%88%92%E6%8A%95%E6%94%BEKOL%E9%81%AD%E7%B2%89%E4%B8%9D%E6%8A%B5%E5%88%B6+%E5%B0%8F%E7%B1%B3%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 07时12分]"
+        },
+        {
+          "title": "王者荣耀2025年营收超20亿美元",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%802025%E5%B9%B4%E8%90%A5%E6%94%B6%E8%B6%8520%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            19,
+            21,
+            30,
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 05时12分]"
+        },
+        {
+          "title": "小米就接触争议博主一事发布处罚声明，经办人员被辞退，许斐和徐洁云取消奖金，怎样看待小米这一处罚？",
+          "url": "https://www.zhihu.com/question/1992010161733199440",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "小米徐洁云被通报批评",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%BE%90%E6%B4%81%E4%BA%91%E8%A2%AB%E9%80%9A%E6%8A%A5%E6%89%B9%E8%AF%84%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "小米发布处罚声明",
+          "url": "https://wallstreetcn.com/livenews/3031784",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 01时17分]"
+        },
+        {
+          "title": "李在明用小米手机晒自拍，刘劲松“意外”闯入",
+          "url": "https://news.ifeng.com/c/8piFwnPibtu",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "小米KOL事件涉事人员被辞退处罚",
+          "url": "https://www.toutiao.com/trending/7591998451161038894/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "新一代小米SU7预计2026年4月上市",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E4%B8%80%E4%BB%A3%E5%B0%8F%E7%B1%B3SU7%E9%A2%84%E8%AE%A12026%E5%B9%B44%E6%9C%88%E4%B8%8A%E5%B8%82",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "小米汽车：新一代SU7预计2026年4月上市。",
+          "url": "https://wallstreetcn.com/livenews/3031963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "小米回应终止与万能的大熊合作",
+          "url": "https://wallstreetcn.com/livenews/3031762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.78%，报7836.43点。 热门中概股里，阿里巴巴初步收跌3.3%，小米跌2.9%，百度跌2.1%，理想跌2%，蔚来跌1.8%，新东方跌0.8%，腾讯跌0.1%，百胜中国涨1.6%，文远知行涨2.6%，拼多多涨3.3%，小马智行涨5.5%。 ETF中，XtrackersHarvest中证50（ASHS）收涨1.33%，德银嘉实沪深300指数ETF（ASHR）收涨1.13%。 中国科技指数ETF（CQQQ）收涨0.31%，中概互联网指数ETF（KWEB）收跌0.30%。",
+          "url": "https://wallstreetcn.com/livenews/3031886",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "小米KOL事件经办人员被辞退",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3KOL%E4%BA%8B%E4%BB%B6%E7%BB%8F%E5%8A%9E%E4%BA%BA%E5%91%98%E8%A2%AB%E8%BE%9E%E9%80%80%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "小米许斐徐洁云被取消2025年度奖金",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E8%AE%B8%E6%96%90%E5%BE%90%E6%B4%81%E4%BA%91%E8%A2%AB%E5%8F%96%E6%B6%882025%E5%B9%B4%E5%BA%A6%E5%A5%96%E9%87%91%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "央行 降息 降准 CPI 物价",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "央行：继续实施适度宽松的货币政策 加大逆周期和跨周期调节力度",
+          "url": "https://www.cls.cn/detail/2249476",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 07时12分]"
+        },
+        {
+          "title": "谢光启出任央行货政司司长 以“学术派、重研究”著称",
+          "url": "https://flash.jin10.com/detail/20260107083500325800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "澳大利亚11月季调后CPI月率 0.2%，前值0.3%。",
+          "url": "https://flash.jin10.com/detail/20260107083303538800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "澳元兑美元小幅走低报0.6726。稍早发布的澳大利亚11月CPI同比仅为0.3%，远不及预期。",
+          "url": "https://wallstreetcn.com/livenews/3031980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "澳大利亚11月季调后CPI年率 3.5%，前值3.9%。",
+          "url": "https://flash.jin10.com/detail/20260107083259917800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "谢光启出任央行货政司司长",
+          "url": "https://wallstreetcn.com/livenews/3031979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "澳大利亚11月CPI同比 0.3%，预期 3.6%，前值 3.8%。",
+          "url": "https://wallstreetcn.com/livenews/3031978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "立陶宛将提名Sadzius为欧洲央行副主席。",
+          "url": "https://wallstreetcn.com/livenews/3031779",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "澳大利亚11月未季调CPI年率 3.4%，预期3.65%，前值3.80%。",
+          "url": "https://flash.jin10.com/detail/20260107083033416800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "澳大利亚11月未季调CPI月率 0%，预期0.25%，前值0%。",
+          "url": "https://flash.jin10.com/detail/20260107083028597800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "立陶宛方面将提名萨齐乌斯（Sadzius）担任欧洲央行副行长。",
+          "url": "https://flash.jin10.com/detail/20260106233640476800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日将公布欧元区12月CPI初值及美国12月ADP就业人数等多项数据。",
+          "url": "https://flash.jin10.com/detail/20260107082911993800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "澳大利亚11月未季调CPI年率将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260107082000000800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        }
+      ]
+    },
+    {
       "keyword_group": "英伟达 台积电 AMD 高通",
       "match_count": 10,
       "titles": [
@@ -838,11 +1215,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 07时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 08时57分]"
         },
         {
           "title": "英伟达发布DLSS 4.5",
@@ -852,8 +1230,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 07时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 08时57分]"
         },
         {
           "title": "AMD的CEO苏姿丰：计算在4-5年增长100倍。",
@@ -933,87 +1311,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "华为 小米 荣耀",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "小米就接触 KOL 一事发布处罚声明，经办人员被辞退，许斐和徐洁云取消奖金，怎样看待小米这一处罚？",
-          "url": "https://www.zhihu.com/question/1992010161733199440",
-          "source": "知乎",
-          "ranks": [
-            18,
-            13,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时16分 ~ 07时12分]"
-        },
-        {
-          "title": "计划投放KOL遭粉丝抵制 小米通报",
-          "url": "https://www.baidu.com/s?wd=%E8%AE%A1%E5%88%92%E6%8A%95%E6%94%BEKOL%E9%81%AD%E7%B2%89%E4%B8%9D%E6%8A%B5%E5%88%B6+%E5%B0%8F%E7%B1%B3%E9%80%9A%E6%8A%A5",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 07时12分]"
-        },
-        {
-          "title": "王者荣耀2025年营收超20亿美元",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%802025%E5%B9%B4%E8%90%A5%E6%94%B6%E8%B6%8520%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            19,
-            21,
-            30,
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 05时12分]"
-        },
-        {
-          "title": "小米发布处罚声明",
-          "url": "https://wallstreetcn.com/livenews/3031784",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 01时17分]"
-        },
-        {
-          "title": "小米回应终止与万能的大熊合作",
-          "url": "https://wallstreetcn.com/livenews/3031762",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.78%，报7836.43点。 热门中概股里，阿里巴巴初步收跌3.3%，小米跌2.9%，百度跌2.1%，理想跌2%，蔚来跌1.8%，新东方跌0.8%，腾讯跌0.1%，百胜中国涨1.6%，文远知行涨2.6%，拼多多涨3.3%，小马智行涨5.5%。 ETF中，XtrackersHarvest中证50（ASHS）收涨1.33%，德银嘉实沪深300指数ETF（ASHR）收涨1.13%。 中国科技指数ETF（CQQQ）收涨0.31%，中概互联网指数ETF（KWEB）收跌0.30%。",
-          "url": "https://wallstreetcn.com/livenews/3031886",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1140,54 +1437,15 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         }
       ]
     },
     {
-      "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "央行：继续实施适度宽松的货币政策 加大逆周期和跨周期调节力度",
-          "url": "https://www.cls.cn/detail/2249476",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 07时12分]"
-        },
-        {
-          "title": "立陶宛将提名Sadzius为欧洲央行副主席。",
-          "url": "https://wallstreetcn.com/livenews/3031779",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "立陶宛方面将提名萨齐乌斯（Sadzius）担任欧洲央行副行长。",
-          "url": "https://flash.jin10.com/detail/20260106233640476800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "巴菲特为什么清仓了比亚迪？",
@@ -1205,6 +1463,17 @@
           "time_info": "[00时16分 ~ 07时12分]"
         },
         {
+          "title": "特斯拉市值一夜蒸发超4300亿元",
+          "url": "https://www.toutiao.com/trending/7592391355918192191/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
           "title": "美股收盘：道指、标普500创新高 特斯拉跌4%",
           "url": "https://flash.jin10.com/detail/20260107050201861800",
           "source": "金十数据",
@@ -1220,8 +1489,19 @@
     },
     {
       "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "男子地铁上拿着多沓现金数钱",
+          "url": "https://www.toutiao.com/trending/7591415848506949678/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
         {
           "title": "西门子与英伟达扩大合作伙伴关系，将打造工业AI OS（人工智能操作系统）。 英伟达将提供AI基础设施，西门子将提供AI专家、硬件、软件。",
           "url": "https://wallstreetcn.com/livenews/3031819",
@@ -1232,6 +1512,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房地产 房价 楼市 LPR",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "融创房地产：3只公司债券将于1月7日开市起复牌",
+          "url": "https://wallstreetcn.com/livenews/3031968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
         }
       ]
     },
