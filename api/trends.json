@@ -1,22 +1,37 @@
 {
-  "generated_at": "2026-01-08T14:20:23.215008+08:00",
-  "total_titles_processed": 1296,
+  "generated_at": "2026-01-08T15:18:10.337348+08:00",
+  "total_titles_processed": 1393,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 65,
+      "match_count": 66,
       "titles": [
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
           "url": "https://wallstreetcn.com/articles/3762734",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时56分 ~ 15时18分]"
+        },
+        {
+          "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
+          "url": "https://wallstreetcn.com/articles/3762789",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5,
+            4
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[08时56分 ~ 14时20分]"
+          "time_info": "[11时58分 ~ 15时18分]"
         },
         {
           "title": "特朗普提出将美军费提至1.5万亿美元",
@@ -26,24 +41,12 @@
             2,
             5,
             6,
-            7
+            7,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时58分 ~ 14时20分]"
-        },
-        {
-          "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
-          "url": "https://wallstreetcn.com/articles/3762789",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时58分 ~ 14时20分]"
+          "appearance_count": 7,
+          "time_info": "[11时58分 ~ 15时18分]"
         },
         {
           "title": "现货白银十五分钟下跌近1美元，报77.56美元/盎司，日跌幅0.8%。",
@@ -74,7 +77,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -96,9 +99,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
+        },
+        {
+          "title": "欧元兑美元EUR/USD、英镑兑美元GBP/USD短线波动暂不大。",
+          "url": "https://flash.jin10.com/detail/20260108150147120800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         },
         {
           "title": "周三（1月7日），美联储隔夜逆回购协议（RRP）使用规模为45.82亿美元（交易对手8家），上个交易日报25.82亿美元。",
@@ -391,7 +405,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -468,7 +482,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -600,7 +614,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -688,7 +702,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -721,7 +735,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -732,7 +746,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -743,7 +757,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         }
@@ -751,7 +765,7 @@
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "央行将开展1.1万亿买断式逆回购操作",
@@ -789,6 +803,18 @@
           "time_info": "[00时18分 ~ 11时58分]"
         },
         {
+          "title": "【早报】央行今日开展1.1万亿元买断式逆回购操作；多家上市公司预计2025年业绩亏损",
+          "url": "https://www.cls.cn/detail/2251192",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时56分 ~ 15时18分]"
+        },
+        {
           "title": "央行宣布！11000亿元买断式逆回购",
           "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%E5%AE%A3%E5%B8%83%EF%BC%8111000%E4%BA%BF%E5%85%83%E4%B9%B0%E6%96%AD%E5%BC%8F%E9%80%86%E5%9B%9E%E8%B4%AD",
           "source": "百度热搜",
@@ -801,18 +827,6 @@
           "time_info": "[00时18分 ~ 08时56分]"
         },
         {
-          "title": "【早报】央行今日开展1.1万亿元买断式逆回购操作；多家上市公司预计2025年业绩亏损",
-          "url": "https://www.cls.cn/detail/2251192",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时56分 ~ 14时20分]"
-        },
-        {
           "title": "央行连续14个月增持黄金",
           "url": "https://www.douyin.com/hot/2360100",
           "source": "抖音",
@@ -822,11 +836,12 @@
             10,
             13,
             15,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时18分 ~ 14时20分]"
+          "appearance_count": 19,
+          "time_info": "[00时18分 ~ 15时18分]"
         },
         {
           "title": "央行连续14个月增持黄金",
@@ -935,7 +950,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -1028,6 +1043,28 @@
           "time_info": "08时56分"
         },
         {
+          "title": "日本央行大阪分行行长：尽管部分零售商因销售额下滑而忧心忡忡，但很难量化赴日旅行受限的影响。",
+          "url": "https://flash.jin10.com/detail/20260108144015559800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "日本央行大阪分行行长：难以评估日元疲软对西部地区经济的影响，因为各行业受到的影响各不相同。",
+          "url": "https://flash.jin10.com/detail/20260108143922507800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
           "title": "美国财政部顾问Lavorgna：希望美联储继续降息。",
           "url": "https://flash.jin10.com/detail/20260108002202921800",
           "source": "金十数据",
@@ -1042,7 +1079,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "八部门联合发文，事关“人工智能+制造”",
@@ -1089,11 +1126,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时53分 ~ 14时20分]"
+          "appearance_count": 8,
+          "time_info": "[10时53分 ~ 15时18分]"
         },
         {
           "title": "含AI量极高！工信部推动工业互联网改造升级 智能体、人形机器人获点名",
@@ -1306,6 +1344,17 @@
           "time_info": "08时56分"
         },
         {
+          "title": "京东成立“变色龙业务部”，第二批自研AI玩具将于1月中旬全面上线",
+          "url": "https://wallstreetcn.com/livenews/3033016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
           "title": "Arm控股成立“Physical AI”部门，进军机器人领域。（路透）",
           "url": "https://wallstreetcn.com/livenews/3032673",
           "source": "华尔街见闻-快讯",
@@ -1320,7 +1369,7 @@
     },
     {
       "keyword_group": "华为 小米 荣耀",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "如何看待小米 SU7 改款新车将于 26 年 4 月上市，会在原来基础上提升哪些配置？",
@@ -1417,6 +1466,29 @@
           "time_info": "[11时58分 ~ 13时17分]"
         },
         {
+          "title": "荣耀之战",
+          "url": "https://s.weibo.com/weibo?q=%E8%8D%A3%E8%80%80%E4%B9%8B%E6%88%98&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时20分 ~ 15时18分]"
+        },
+        {
+          "title": "小米前高管王腾宣布创业",
+          "url": "https://www.douyin.com/hot/2360658",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 15时18分]"
+        },
+        {
           "title": "纳斯达克金龙中国指数初步收跌1.5%。 热门中概股里，新东方初步收涨0.4%，百度涨0.3%，蔚来涨0.1%，拼多多、小米、腾讯音乐、京东、美团跌超1%，阿里巴巴跌2.6%，网易跌3%。",
           "url": "https://wallstreetcn.com/livenews/3032690",
           "source": "华尔街见闻-快讯",
@@ -1439,17 +1511,6 @@
           "time_info": "08时56分"
         },
         {
-          "title": "荣耀之战",
-          "url": "https://s.weibo.com/weibo?q=%E8%8D%A3%E8%80%80%E4%B9%8B%E6%88%98&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
           "title": "尚界Z7官图发布 剑指小米SU7",
           "url": "https://www.toutiao.com/trending/7592414329543233030/",
           "source": "今日头条",
@@ -1463,123 +1524,8 @@
       ]
     },
     {
-      "keyword_group": "苹果 iPhone",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "iPhone13全系开启限时半价换电池",
-          "url": "https://www.douyin.com/hot/2360141",
-          "source": "抖音",
-          "ranks": [
-            10,
-            11,
-            12,
-            15,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[04时14分 ~ 14时20分]"
-        },
-        {
-          "title": "高盛(GS.N)宣布，将苹果信用卡项目过渡至摩根大通(JPM.N)，预计过渡将在大约24个月内完成。",
-          "url": "https://flash.jin10.com/detail/20260108065214356800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "消息人士称，摩根大通(JPM.N)达成协议接管苹果(AAPL.O)信用卡计划。",
-          "url": "https://flash.jin10.com/detail/20260108044010737800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时12分 ~ 06时12分]"
-        },
-        {
-          "title": "时隔七年 谷歌市值重新超越苹果",
-          "url": "https://flash.jin10.com/detail/20260108054913345800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时12分 ~ 07时12分]"
-        },
-        {
-          "title": "iPhone 13全系开启限时半价换电池",
-          "url": "https://www.toutiao.com/trending/7591775414457303103/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时18分 ~ 05时12分]"
-        },
-        {
-          "title": "iPhone 13全系开启限时半价换电池",
-          "url": "https://s.weibo.com/weibo?q=iPhone%2013%E5%85%A8%E7%B3%BB%E5%BC%80%E5%90%AF%E9%99%90%E6%97%B6%E5%8D%8A%E4%BB%B7%E6%8D%A2%E7%94%B5%E6%B1%A0&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时56分 ~ 10时53分]"
-        },
-        {
-          "title": "摩根大通达成一份协议，将接盘苹果信用卡业务。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3032681",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时12分"
-        },
-        {
-          "title": "谷歌 2019 年以来首次市值超苹果公司，反映出怎样的市场逻辑？",
-          "url": "https://www.zhihu.com/question/1992511254795870608",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
-          "title": "谷歌母公司Alphabet市值超越苹果，为2019年以来首次",
-          "url": "https://wallstreetcn.com/livenews/3032700",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        }
-      ]
-    },
-    {
       "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "直击存储芯片风口：A股头部公司及“预备队”各家优势一览",
@@ -1631,6 +1577,17 @@
           "time_info": "08时56分"
         },
         {
+          "title": "金十图示：2026年01月08日（周四）富时中国A50指数成分股今日收盘行情一览：银行、保险、石油板块全天走势疲软，半导体板块寒武纪、海光信息强势上涨。",
+          "url": "https://flash.jin10.com/detail/20260108150253965800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
           "title": "中国半导体行业协会魏少军谈英伟达H200芯片：绝不动摇国产化道路信心与决心",
           "url": "https://wallstreetcn.com/livenews/3032884",
           "source": "华尔街见闻-快讯",
@@ -1657,6 +1614,17 @@
           "time_info": "[11时58分 ~ 13时17分]"
         },
         {
+          "title": "存储芯片价格失控！华尔街再调预期：2026年DRAM或暴涨88%，NAND涨74%",
+          "url": "https://wallstreetcn.com/articles/3762731",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 15时18分]"
+        },
+        {
           "title": "A股半导体产业链震荡走强，矽电股份、海光信息、中科蓝讯涨超10%，臻镭科技、芯原股份、芯源微、寒武纪、沐曦股份等均涨超5%。",
           "url": "https://wallstreetcn.com/livenews/3032861",
           "source": "华尔街见闻-快讯",
@@ -1681,59 +1649,186 @@
       ]
     },
     {
-      "keyword_group": "英伟达 台积电 AMD 高通",
-      "match_count": 5,
+      "keyword_group": "苹果 iPhone",
+      "match_count": 9,
       "titles": [
         {
-          "title": "英伟达发布DLSS 4.5",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%8F%91%E5%B8%83DLSS%204.5",
-          "source": "bilibili 热搜",
+          "title": "iPhone13全系开启限时半价换电池",
+          "url": "https://www.douyin.com/hot/2360141",
+          "source": "抖音",
           "ranks": [
-            21
+            10,
+            11,
+            12,
+            15,
+            16,
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时18分 ~ 14时20分]"
+          "appearance_count": 13,
+          "time_info": "[04时14分 ~ 15时18分]"
         },
         {
-          "title": "英伟达(NVDA.O)回吐部分涨幅，现涨1.6%。",
-          "url": "https://flash.jin10.com/detail/20260107234859746800",
+          "title": "高盛(GS.N)宣布，将苹果信用卡项目过渡至摩根大通(JPM.N)，预计过渡将在大约24个月内完成。",
+          "url": "https://flash.jin10.com/detail/20260108065214356800",
           "source": "金十数据",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时19分"
+          "time_info": "07时12分"
         },
         {
-          "title": "英伟达涨幅迅速收窄至0.8%，盘初一度涨2.2%。",
-          "url": "https://wallstreetcn.com/livenews/3032591",
+          "title": "消息人士称，摩根大通(JPM.N)达成协议接管苹果(AAPL.O)信用卡计划。",
+          "url": "https://flash.jin10.com/detail/20260108044010737800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时12分 ~ 06时12分]"
+        },
+        {
+          "title": "时隔七年 谷歌市值重新超越苹果",
+          "url": "https://flash.jin10.com/detail/20260108054913345800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时12分 ~ 07时12分]"
+        },
+        {
+          "title": "iPhone 13全系开启限时半价换电池",
+          "url": "https://www.toutiao.com/trending/7591775414457303103/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时18分 ~ 05时12分]"
+        },
+        {
+          "title": "谷歌 2019 年以来首次市值超苹果公司，反映出怎样的市场逻辑？",
+          "url": "https://www.zhihu.com/question/1992511254795870608",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时20分 ~ 15时18分]"
+        },
+        {
+          "title": "iPhone 13全系开启限时半价换电池",
+          "url": "https://s.weibo.com/weibo?q=iPhone%2013%E5%85%A8%E7%B3%BB%E5%BC%80%E5%90%AF%E9%99%90%E6%97%B6%E5%8D%8A%E4%BB%B7%E6%8D%A2%E7%94%B5%E6%B1%A0&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 10时53分]"
+        },
+        {
+          "title": "摩根大通达成一份协议，将接盘苹果信用卡业务。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3032681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "谷歌母公司Alphabet市值超越苹果，为2019年以来首次",
+          "url": "https://wallstreetcn.com/livenews/3032700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房地产 房价 楼市 LPR",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "英国12月Halifax季调后房价指数月率录得-0.6%，为2023年8月以来最大降幅。",
+          "url": "https://flash.jin10.com/detail/20260108150114082800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "标普500指数初步收跌0.3%，公用事业板块跌2.3%，工业、预料、金融、房地产、能源、日用品板块至多跌超1.9%，科技板块持平，电信板块涨0.7%，保健板块涨1%。 纳斯达克100指数初步大致收平，成分股中，英特尔涨6.1%，CrowdStrike涨4.8%，再生元制药涨4.7%，派拓网络涨4.4%，MPWR跌4.9%，希捷科技跌6.6%，CSGP跌8%，西部数据跌8.9%。 卡特彼勒初步收跌4.2%，耐克跌3.1%，霍尼韦尔跌2.9%，领跌道指成分股，英伟达、微软、Salesforce、强生、再生元制药至少涨0.8%。",
+          "url": "https://wallstreetcn.com/livenews/3032688",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时19分"
+          "time_info": "05时12分"
         },
         {
-          "title": "现代Mobis与高通签署谅解备忘录，合作开发汽车解决方案。",
-          "url": "https://flash.jin10.com/detail/20260108020222862800",
+          "title": "英国12月Halifax季调后房价指数月率 -0.6%，预期0.2%，前值由0%修正为-0.1%。",
+          "url": "https://flash.jin10.com/detail/20260108150035091800",
           "source": "金十数据",
           "ranks": [
-            19
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时14分"
+          "time_info": "15时18分"
         },
         {
-          "title": "大摩：英伟达散热方案评论冲击HVAC与电力板块",
-          "url": "https://wallstreetcn.com/livenews/3032575",
+          "title": "英国12月Halifax季调后房价指数年率 0.3%，预期1.1%，前值由0.7%修正为0.6%。",
+          "url": "https://flash.jin10.com/detail/20260108150035061800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "英国12月Halifax季调后房价指数月率将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260108145000000800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "丁祖昱：房地产行业止跌回稳是确定的，2026年一定会出现新的转机",
+          "url": "https://wallstreetcn.com/livenews/3032567",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1743,7 +1838,7 @@
     },
     {
       "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "深圳地铁 11 号线普通车厢人满为患，商务车厢几乎空无一人，票价约为普通车厢三倍，该票价设置合理吗？",
@@ -1804,12 +1899,84 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时36分 ~ 12时37分]"
+        },
+        {
+          "title": "贵州：统筹省级财政专项资金等，支持县域加快开发区供排水等产业配套基础设施项目建设",
+          "url": "https://wallstreetcn.com/livenews/3033023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英伟达 台积电 AMD 高通",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "英伟达发布DLSS 4.5",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%8F%91%E5%B8%83DLSS%204.5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时18分 ~ 15时18分]"
+        },
+        {
+          "title": "英伟达(NVDA.O)回吐部分涨幅，现涨1.6%。",
+          "url": "https://flash.jin10.com/detail/20260107234859746800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时19分"
+        },
+        {
+          "title": "英伟达涨幅迅速收窄至0.8%，盘初一度涨2.2%。",
+          "url": "https://wallstreetcn.com/livenews/3032591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时19分"
+        },
+        {
+          "title": "现代Mobis与高通签署谅解备忘录，合作开发汽车解决方案。",
+          "url": "https://flash.jin10.com/detail/20260108020222862800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
+          "title": "大摩：英伟达散热方案评论冲击HVAC与电力板块",
+          "url": "https://wallstreetcn.com/livenews/3032575",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时19分"
         }
       ]
     },
     {
       "keyword_group": "创业板",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "深成指、创业板指午后均跌超1%，沪指跌0.42%，保险、券商、锂矿、贵金属等板块跌幅居前，沪深京三市下跌个股超2100只。",
@@ -1818,7 +1985,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -1836,6 +2003,17 @@
           "time_info": "[11时58分 ~ 13时17分]"
         },
         {
+          "title": "上证指数收报4082.98点，跌0.07%。 深证成指收报13959.48点，跌0.51%。 创业板指收报3302.31点，跌0.82%。 沪深300收报4737.65点，跌0.82%。 科创50收报1455.17点，涨0.82%。 中证500收报7894.54点，涨0.25%。 中证1000收报7971.59点，涨0.82%。",
+          "url": "https://wallstreetcn.com/livenews/3033034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
           "title": "创业板指跌超1%，沪指跌0.27%，深成指跌0.72%，券商、保险、零售、CPO等板块跌幅居前，沪深京三市下跌个股超3000只。",
           "url": "https://wallstreetcn.com/livenews/3032833",
           "source": "华尔街见闻-快讯",
@@ -1849,30 +2027,41 @@
       ]
     },
     {
-      "keyword_group": "房地产 房价 楼市 LPR",
-      "match_count": 2,
+      "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
+      "match_count": 3,
       "titles": [
         {
-          "title": "标普500指数初步收跌0.3%，公用事业板块跌2.3%，工业、预料、金融、房地产、能源、日用品板块至多跌超1.9%，科技板块持平，电信板块涨0.7%，保健板块涨1%。 纳斯达克100指数初步大致收平，成分股中，英特尔涨6.1%，CrowdStrike涨4.8%，再生元制药涨4.7%，派拓网络涨4.4%，MPWR跌4.9%，希捷科技跌6.6%，CSGP跌8%，西部数据跌8.9%。 卡特彼勒初步收跌4.2%，耐克跌3.1%，霍尼韦尔跌2.9%，领跌道指成分股，英伟达、微软、Salesforce、强生、再生元制药至少涨0.8%。",
-          "url": "https://wallstreetcn.com/livenews/3032688",
+          "title": "智谱AI CEO张鹏谈梁文锋选择彻底开源：有技术上的理想，没想靠它挣钱",
+          "url": "https://wallstreetcn.com/livenews/3033026",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时12分"
+          "time_info": "15时18分"
         },
         {
-          "title": "丁祖昱：房地产行业止跌回稳是确定的，2026年一定会出现新的转机",
-          "url": "https://wallstreetcn.com/livenews/3032567",
+          "title": "蔚来今年将进军澳大利亚和新西兰市场，蔚来将于3月进入泰国市场。（道琼斯）",
+          "url": "https://wallstreetcn.com/livenews/3032969",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时19分"
+          "time_info": "14时20分"
+        },
+        {
+          "title": "据特斯拉官方微博，特斯拉上海超级工厂第500万台电驱系统今日下线。",
+          "url": "https://wallstreetcn.com/livenews/3033022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         }
       ]
     },
@@ -1880,6 +2069,19 @@
       "keyword_group": "就业 裁员 招聘",
       "match_count": 2,
       "titles": [
+        {
+          "title": "“小非农”温和复苏，美国12月ADP就业人数增长4.1万人，扭转前月下滑趋势",
+          "url": "https://wallstreetcn.com/articles/3762767",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时53分 ~ 15时18分]"
+        },
         {
           "title": "ADP就业温和复苏，纳指期货跌幅收窄，欧美债价格上行，金银跌幅扩大，油价承压",
           "url": "https://wallstreetcn.com/articles/3762734",
@@ -1890,18 +2092,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时18分 ~ 04时14分]"
-        },
-        {
-          "title": "“小非农”温和复苏，美国12月ADP就业人数增长4.1万人，扭转前月下滑趋势",
-          "url": "https://wallstreetcn.com/articles/3762767",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时53分 ~ 14时20分]"
         }
       ]
     },
@@ -1944,23 +2134,6 @@
       ]
     },
     {
-      "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "蔚来今年将进军澳大利亚和新西兰市场，蔚来将于3月进入泰国市场。（道琼斯）",
-          "url": "https://wallstreetcn.com/livenews/3032969",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        }
-      ]
-    },
-    {
       "keyword_group": "大模型 ChatGPT Kimi Sora OpenAI",
       "match_count": 1,
       "titles": [
@@ -1974,6 +2147,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "双十一 618 电商 优惠券",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "抖音电商：2026年商家扶持政策升级，使用“千川·乘方”技术服务费减免至0.6%",
+          "url": "https://wallstreetcn.com/livenews/3033015",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         }
       ]
     }
