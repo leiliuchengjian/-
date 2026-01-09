@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T16:18:20.577294+08:00",
-  "total_titles_processed": 1530,
+  "generated_at": "2026-01-09T17:19:42.964723+08:00",
+  "total_titles_processed": 1635,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 72,
+      "match_count": 75,
       "titles": [
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
@@ -50,11 +50,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时57分 ~ 16时18分]"
+          "appearance_count": 11,
+          "time_info": "[08时57分 ~ 17时19分]"
         },
         {
           "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
@@ -62,11 +63,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时58分 ~ 16时18分]"
+          "appearance_count": 8,
+          "time_info": "[11时58分 ~ 17时19分]"
         },
         {
           "title": "美联储：美国未经季节性调整的商业票据未偿余额增加441亿美元。",
@@ -551,7 +553,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
         },
@@ -666,6 +668,17 @@
           "time_info": "05时13分"
         },
         {
+          "title": "美元兑日元上涨0.5%至157.66。",
+          "url": "https://wallstreetcn.com/livenews/3033944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
           "title": "美国总统特朗普：石油公司至少将支出1000亿美元。",
           "url": "https://flash.jin10.com/detail/20260109101550647800",
           "source": "金十数据",
@@ -683,7 +696,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
         },
@@ -765,6 +778,17 @@
           "time_info": "10时55分"
         },
         {
+          "title": "新街研究：将亚马逊(AMZN.O)目标价从340美元上调至350美元。",
+          "url": "https://flash.jin10.com/detail/20260109165111249800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
           "title": "布伦特原油日内涨幅达4.0%，报62.36美元/桶。 WTI原油日内涨幅达3.5%，报57.86美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3033527",
           "source": "华尔街见闻-快讯",
@@ -829,12 +853,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.9821，较上一交易日官方收盘价跌14点，较上日夜盘收盘涨14点。",
+          "url": "https://wallstreetcn.com/livenews/3033929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         }
       ]
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
         {
           "title": "加速AI落地 谷歌为Gmail引入更多Gemini功能",
@@ -886,8 +921,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时18分 ~ 16时18分]"
+          "appearance_count": 5,
+          "time_info": "[13时18分 ~ 17时19分]"
         },
         {
           "title": "“短缺终将导致过剩”！a16z安德森2026年展望：AI芯片将迎来产能爆发与价格崩塌",
@@ -927,6 +962,18 @@
           "time_info": "[12时38分 ~ 13时18分]"
         },
         {
+          "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨80%",
+          "url": "https://wallstreetcn.com/articles/3762915",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时18分 ~ 17时19分]"
+        },
+        {
           "title": "“中国OpenAI”登陆港交所 2026将成大模型资本化关键年?",
           "url": "https://www.cls.cn/detail/2252286",
           "source": "财联社热门",
@@ -948,6 +995,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时38分 ~ 13时18分]"
+        },
+        {
+          "title": "市值近900亿港元！MiniMax今日上市 AI大模型进入“上海时刻”",
+          "url": "https://www.cls.cn/detail/2252812",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时18分 ~ 17时19分]"
         },
         {
           "title": "英国首相斯塔默发誓，要对马斯克旗下社交媒体平台X（原名推特）采取“紧急”行动。 斯塔默希望，马斯克能就自家人工智能（AI）工具Grok生成的、涉及儿童的性化图像（含有性暗示的图像）“改正自身表现”。 “这简直是耻辱，太恶心了，绝对不能就这么算了！”",
@@ -985,17 +1044,6 @@
           "time_info": "07时12分"
         },
         {
-          "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨80%",
-          "url": "https://wallstreetcn.com/articles/3762915",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时18分"
-        },
-        {
           "title": "OpenAI的应用内支付结算计划的推进速度低于预期，因为该公司在统一商家数据方面遇到了困难。",
           "url": "https://flash.jin10.com/detail/20260109024531943800",
           "source": "金十数据",
@@ -1018,6 +1066,17 @@
           "time_info": "08时57分"
         },
         {
+          "title": "广西：加快建设“AI＋金属新材料”、“AI＋生物育种””等标杆级应用平台",
+          "url": "https://wallstreetcn.com/livenews/3033950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
           "title": "微软与Shopify、PayPal、Stripe推出零售AI Copilot Checkout。 微软将在Copilot.com内赋能“会话内购买”，而无需引导购物者切换到外部网站。",
           "url": "https://wallstreetcn.com/livenews/3033517",
           "source": "华尔街见闻-快讯",
@@ -1029,15 +1088,15 @@
           "time_info": "04时14分"
         },
         {
-          "title": "市值近900亿港元！MiniMax今日上市 AI大模型进入“上海时刻”",
-          "url": "https://www.cls.cn/detail/2252812",
+          "title": "【每日收评】沪指时隔10年重新站上4100点！ 两市成交额突破3万亿，AI应用迎全线爆发",
+          "url": "https://www.cls.cn/detail/2253101",
           "source": "财联社热门",
           "ranks": [
-            13
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时18分"
+          "time_info": "17时19分"
         },
         {
           "title": "报道：英伟达+OpenAI支持的数据中心公司Nscale考虑融资20亿美元",
@@ -1060,6 +1119,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        },
+        {
+          "title": "机构：在AI与关税夹击下，美国12月非农就业增长料疲弱",
+          "url": "https://flash.jin10.com/detail/20260109170031939800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "微软报告：DeepSeek人工智能在发展中国家崭露头角",
@@ -1126,12 +1196,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
+        },
+        {
+          "title": "金靖章若楠剧宣诡异的像AI",
+          "url": "https://www.douyin.com/hot/2362078",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         }
       ]
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "贝森特：美联储不应推迟降息，美国将取消对部分委内瑞拉实体制裁",
@@ -1139,11 +1220,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时54分 ~ 15时18分]"
+          "appearance_count": 9,
+          "time_info": "[10时54分 ~ 17时19分]"
         },
         {
           "title": "捷克央行会议纪要：委员会成员认为，来自海外经济发展的若干下行风险正对通胀构成压力。",
@@ -1152,7 +1234,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
         },
@@ -1221,9 +1303,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
+        },
+        {
+          "title": "国家统计局：12月份CPI上涨0.8% PPI环比涨幅扩大",
+          "url": "https://www.cls.cn/detail/2252530",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "周四（1月8日），降息赢家指数涨2.69%，报104.68点。 “特朗普关税输家”指数涨2.71%，报119.13点。 “特朗普金融指数”涨0.37%，报179.91点。 散户抱团概念股指数/迷因股（meme stock）指数涨1.97%，报16.42点。",
@@ -1259,6 +1352,17 @@
           "time_info": "02时16分"
         },
         {
+          "title": "印度央行行长：印度央行在监管职能中存在更有效利用数据的空间。",
+          "url": "https://flash.jin10.com/detail/20260109165558353800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
           "title": "墨西哥央行会议纪要：部分委员认为美国贸易政策存在不确定性。大多数委员预计墨西哥劳动力市场将趋于降温。",
           "url": "https://flash.jin10.com/detail/20260108230627267800",
           "source": "金十数据",
@@ -1279,6 +1383,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "金价随降息预期波动走高 市场高度聚焦美联储新掌门人选",
+          "url": "https://flash.jin10.com/detail/20260109164632594800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "国家统计局：CPI环比由降转涨，PPI环比上涨0.2%",
@@ -1375,6 +1490,17 @@
           "time_info": "[00时17分 ~ 05时13分]"
         },
         {
+          "title": "坚持吃煮苹果1个月身体会有这些变化",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9D%9A%E6%8C%81%E5%90%83%E7%85%AE%E8%8B%B9%E6%9E%9C1%E4%B8%AA%E6%9C%88%E8%BA%AB%E4%BD%93%E4%BC%9A%E6%9C%89%E8%BF%99%E4%BA%9B%E5%8F%98%E5%8C%96%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时18分 ~ 17时19分]"
+        },
+        {
           "title": "每天1个苹果身体会发生什么变化",
           "url": "https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A91%E4%B8%AA%E8%8B%B9%E6%9E%9C%E8%BA%AB%E4%BD%93%E4%BC%9A%E5%8F%91%E7%94%9F%E4%BB%80%E4%B9%88%E5%8F%98%E5%8C%96%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -1397,17 +1523,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时13分 ~ 07时12分]"
-        },
-        {
-          "title": "坚持吃煮苹果1个月身体会有这些变化",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%9D%9A%E6%8C%81%E5%90%83%E7%85%AE%E8%8B%B9%E6%9E%9C1%E4%B8%AA%E6%9C%88%E8%BA%AB%E4%BD%93%E4%BC%9A%E6%9C%89%E8%BF%99%E4%BA%9B%E5%8F%98%E5%8C%96%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时18分 ~ 16时18分]"
         },
         {
           "title": "郑商所苹果主力合约涨超2%，报9729元/吨。",
@@ -1446,7 +1561,7 @@
     },
     {
       "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "上海地铁现黄牛占座后有偿让座",
@@ -1484,11 +1599,12 @@
           "ranks": [
             15,
             14,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时38分 ~ 16时18分]"
+          "appearance_count": 6,
+          "time_info": "[12时38分 ~ 17时19分]"
         },
         {
           "title": "地铁保洁员跪着擦地引网友心疼",
@@ -1544,9 +1660,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
+        },
+        {
+          "title": "乌称俄袭击其关键基础设施",
+          "url": "https://www.toutiao.com/trending/7592156298758782982/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "乌克兰空军：俄罗斯在周五的袭击中向乌克兰的关键基础设施发射了36枚导弹和242架无人机。",
@@ -1563,7 +1690,7 @@
     },
     {
       "keyword_group": "华为 小米 荣耀",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "小米17官宣降价",
@@ -1594,11 +1721,12 @@
           "source": "今日头条",
           "ranks": [
             4,
-            5
+            5,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时18分 ~ 16时18分]"
+          "appearance_count": 3,
+          "time_info": "[15时18分 ~ 17时19分]"
         },
         {
           "title": "小米汽车发文表示，小米YU7连续4个月中大型SUV销量第一。",
@@ -1646,6 +1774,17 @@
           "time_info": "15时18分"
         },
         {
+          "title": "王者荣耀最好上分的一集",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%9C%80%E5%A5%BD%E4%B8%8A%E5%88%86%E7%9A%84%E4%B8%80%E9%9B%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收涨1.09%，报7796.71点。 热门中概股里，阿里巴巴初步收涨5.3%，新东方涨5.6%，小鹏涨3.1%，京东涨2.2%，小米、文远知行、百胜中国、小马智行至少涨0.7%，理想跌0.7%，腾讯跌0.8%，蔚来跌1%，美团跌2%，百度跌3.9%。 ETF中，中概互联网指数ETF（KWEB）收涨1.13%，中国科技指数ETF（CQQQ）收涨0.67%。 XtrackersHarvest中证50（ASHS）收涨0.88%，德银嘉实沪深300指数ETF（ASHR）收跌0.03%。",
           "url": "https://wallstreetcn.com/livenews/3033554",
           "source": "华尔街见闻-快讯",
@@ -1681,8 +1820,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时57分 ~ 16时18分]"
+          "appearance_count": 11,
+          "time_info": "[08时57分 ~ 17时19分]"
         },
         {
           "title": "联想全球创新科技大会集齐英伟达、英特尔、 AMD 、高通四大芯片巨头 CEO 同台，释放了什么信号？",
@@ -1882,82 +2021,42 @@
       ]
     },
     {
-      "keyword_group": "就业 裁员 招聘",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "经济学家：12月非农数据难改2025年就业增长为几十年来最疲软的事实",
-          "url": "https://flash.jin10.com/detail/20260109113453495800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 12时38分]"
-        },
-        {
-          "title": "美联储：美国12月短期通胀预期走高，就业感知恶化",
-          "url": "https://wallstreetcn.com/livenews/3033450",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时20分]"
-        },
-        {
-          "title": "2026年首个非农夜：今晚美国就业数据会出“幺蛾子”吗？",
-          "url": "https://www.cls.cn/detail/2252869",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时18分"
-        },
-        {
-          "title": "Saxo Markets首席投资策略师Charu Chanana：2026年开局强劲后，市场正喘息调整，在周五美国就业报告公布前，无人愿意增添新的风险。 美联储政策争论尚未落幕，地区安全事件持续令市场保持谨慎布局。",
-          "url": "https://wallstreetcn.com/livenews/3033431",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        },
-        {
-          "title": "美国通胀预期上升就业前景恶化 或阻碍美联储本月调整利率",
-          "url": "https://flash.jin10.com/detail/20260109002119191800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        }
-      ]
-    },
-    {
       "keyword_group": "新能源汽车 电动汽车 智能驾驶",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "乘联分会：中国2025年新能源汽车零售销量同比增长17.6%",
           "url": "https://wallstreetcn.com/livenews/3033919",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时18分 ~ 17时19分]"
+        },
+        {
+          "title": "市场监管总局：将进一步加快新能源汽车、锂电池和光伏产业相关国家标准研制",
+          "url": "https://wallstreetcn.com/livenews/3033946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时18分"
+          "time_info": "17时19分"
+        },
+        {
+          "title": "马斯克：大力发展电动汽车、光伏储能，我说的那些设想都被中国实现了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32342568",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "周四（1月8日），彭博电动汽车价格回报指数跌0.94%，报3571.19点。 亚太早盘，指数持续下挫，北京时间10:00以来持续低位震荡，美股开盘刷新日低至3560.03点。 MobilEye Global跌8.5%，Ola Electric Mobility Ltd.跌4.37%，意法半导体跌2.79%，Sona Blw Precision Forgings Ltd.跌2.31%，MP材料、美国雅宝ALB、“特斯拉劲敌”Rivian至少跌超1%，宝马跌0.49%，特斯拉则涨1%，Lucid集团涨2.3%，Solid Power跌4.86%，沃尔沃汽车集团涨5.44%，微宏控股涨11.90%。",
@@ -1991,6 +2090,70 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "就业 裁员 招聘",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "经济学家：12月非农数据难改2025年就业增长为几十年来最疲软的事实",
+          "url": "https://flash.jin10.com/detail/20260109113453495800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 12时38分]"
+        },
+        {
+          "title": "2026年首个非农夜：今晚美国就业数据会出“幺蛾子”吗？",
+          "url": "https://www.cls.cn/detail/2252869",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时18分 ~ 17时19分]"
+        },
+        {
+          "title": "美联储：美国12月短期通胀预期走高，就业感知恶化",
+          "url": "https://wallstreetcn.com/livenews/3033450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 01时20分]"
+        },
+        {
+          "title": "Saxo Markets首席投资策略师Charu Chanana：2026年开局强劲后，市场正喘息调整，在周五美国就业报告公布前，无人愿意增添新的风险。 美联储政策争论尚未落幕，地区安全事件持续令市场保持谨慎布局。",
+          "url": "https://wallstreetcn.com/livenews/3033431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时17分"
+        },
+        {
+          "title": "美国通胀预期上升就业前景恶化 或阻碍美联储本月调整利率",
+          "url": "https://flash.jin10.com/detail/20260109002119191800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时20分"
         }
       ]
     },
@@ -2030,7 +2193,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
         }
@@ -2048,11 +2211,12 @@
             12,
             9,
             8,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时38分 ~ 16时18分]"
+          "appearance_count": 6,
+          "time_info": "[12时38分 ~ 17时19分]"
         },
         {
           "title": "金十数据整理：每日房地产行业动态汇总（2026-01-09）",
@@ -2061,7 +2225,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
         }
@@ -2132,11 +2296,12 @@
             3,
             6,
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时58分 ~ 16时18分]"
+          "appearance_count": 8,
+          "time_info": "[11时58分 ~ 17时19分]"
         }
       ]
     }
