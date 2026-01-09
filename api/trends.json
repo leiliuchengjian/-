@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T06:12:53.205792+08:00",
-  "total_titles_processed": 662,
+  "generated_at": "2026-01-10T07:12:33.566865+08:00",
+  "total_titles_processed": 696,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 39,
+      "match_count": 42,
       "titles": [
         {
           "title": "12月非农不及预期，美股三大股指开盘涨跌不一，纽约银日内涨幅达5.0%，美元指数短线下挫，基本金属铜铝继续攀升，嘉能可上涨10%",
@@ -29,8 +29,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 06时12分]"
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 07时12分]"
         },
         {
           "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
@@ -38,22 +38,24 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 06时12分]"
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 07时12分]"
         },
         {
           "title": "独家|王健林“以时间换空间” 万达4亿美元债成功展期2年",
           "url": "https://www.cls.cn/detail/2253497",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 06时12分]"
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 07时12分]"
         },
         {
           "title": "布伦特原油站上64美元/桶，为去年12月8日以来首次，日内涨1.72%。",
@@ -78,15 +80,15 @@
           "time_info": "04时15分"
         },
         {
-          "title": "周五（1月9日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报6.9760元，较周四纽约尾盘涨62点，日内整体交投于6.9843-6.9717元区间，美国非农就业报告出炉时刷新日低，瞬间反弹，并快速刷新日高。",
-          "url": "https://wallstreetcn.com/livenews/3034438",
-          "source": "华尔街见闻-快讯",
+          "title": "非农数据”温和“，标普新高，美元指数四连涨，黄金重回4500关口",
+          "url": "https://wallstreetcn.com/articles/3762954",
+          "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时12分"
+          "time_info": "07时12分"
         },
         {
           "title": "周五（1月9日），韩元兑美元最终跌0.47%，报1459.11韩元，美国非农就业报告发布后一度小幅回升，本周累计下跌1.01%，整体持续走低。",
@@ -147,6 +149,18 @@
           "time_info": "[03时14分 ~ 04时15分]"
         },
         {
+          "title": "周五（1月9日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报6.9760元，较周四纽约尾盘涨62点，日内整体交投于6.9843-6.9717元区间，美国非农就业报告出炉时刷新日低，瞬间反弹，并快速刷新日高。",
+          "url": "https://wallstreetcn.com/livenews/3034438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时12分 ~ 07时12分]"
+        },
+        {
           "title": "WTI原油期货日内大涨3.00%，现报59.50美元/桶。",
           "url": "https://flash.jin10.com/detail/20260109235835387800",
           "source": "金十数据",
@@ -157,6 +171,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时16分 ~ 01时16分]"
+        },
+        {
+          "title": "特朗普施压大型石油公司在委内瑞拉投资1000亿美元",
+          "url": "https://flash.jin10.com/detail/20260110042928179800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时12分 ~ 07时12分]"
         },
         {
           "title": "WTI原油日内涨幅达3.0%，报59.38美元/桶。 委内瑞拉危机数日后，石油交易员又迎来伊朗风险。",
@@ -231,17 +256,6 @@
           "time_info": "[03时14分 ~ 04时15分]"
         },
         {
-          "title": "特朗普施压大型石油公司在委内瑞拉投资1000亿美元",
-          "url": "https://flash.jin10.com/detail/20260110042928179800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时12分 ~ 06时12分]"
-        },
-        {
           "title": "特朗普重返白宫，六大银行预计将获利1570亿美元",
           "url": "https://wallstreetcn.com/livenews/3034372",
           "source": "华尔街见闻-快讯",
@@ -286,6 +300,17 @@
           "time_info": "03时14分"
         },
         {
+          "title": "美国盯上委内瑞拉，不只是为了油，更是为了“拯救美元”",
+          "url": "https://wallstreetcn.com/articles/3762921",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
           "title": "谷歌(GOOG.O)市值盘中突破4万亿美元。",
           "url": "https://flash.jin10.com/detail/20260110003148423800",
           "source": "金十数据",
@@ -314,7 +339,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -361,6 +386,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "特朗普强推千亿美元委内瑞拉石油复兴计划，美能源巨头反应冷淡",
+          "url": "https://wallstreetcn.com/livenews/3034440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.94%，暂报4077.63点，最近七个自然日累计上涨7.54%，1月3-6日平滑地持续上涨，6-8日持续回撤。 MarketVectorTM数字资产100中盘指数跌0.49%，报3799.01点，最近七天累涨2.37%。 MarketVector数字资产100指数涨0.58%，报19000.72点，最近七天累涨1.89%。 最近七天，比特币累涨1.72%，1月5日曾达到94785.88美元；以太坊期内持平，6日曾涨至306.405美元。 Solana累涨6.02%，狗狗币累涨1.58%，XRP累涨5.6%。",
@@ -454,7 +490,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "《纽约时报》整版报道中国AI胰腺癌早筛，美国网友震惊",
@@ -464,8 +500,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 06时12分]"
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 07时12分]"
         },
         {
           "title": "【数据看盘】顶级游资扎堆金风科技 北向资金联手机构“爆买”AI应用概念股",
@@ -476,8 +512,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 06时12分]"
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 07时12分]"
         },
         {
           "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
@@ -485,11 +521,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 06时12分]"
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 07时12分]"
         },
         {
           "title": "【每日收评】沪指时隔10年重新站上4100点！ 两市成交额突破3万亿，AI应用迎全线爆发",
@@ -502,6 +539,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时15分 ~ 06时12分]"
+        },
+        {
+          "title": "【焦点复盘】沪指放量涨近1%，全市场超150股涨逾10%，AI应用人气股实现20cm5连板",
+          "url": "https://www.cls.cn/detail/2253184",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 07时12分]"
         },
         {
           "title": "如何分辨AI音乐骗局",
@@ -517,19 +566,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 06时12分]"
-        },
-        {
-          "title": "【焦点复盘】沪指放量涨近1%，全市场超150股涨逾10%，AI应用人气股实现20cm5连板",
-          "url": "https://www.cls.cn/detail/2253184",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 06时12分]"
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 07时12分]"
         },
         {
           "title": "MiniMax刷新AI公司最快上市纪录背后：“年轻人的事业”在上海生根发芽",
@@ -538,11 +576,12 @@
           "ranks": [
             17,
             16,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 06时12分]"
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 07时12分]"
         },
         {
           "title": "有数｜全球最快上市的AI公司来了！人工智能高地拼的是什么？",
@@ -556,6 +595,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时15分 ~ 06时12分]"
+        },
+        {
+          "title": "内部备忘录显示：美国司法部成立人工智能（AI）执法工作组，希望借机对抗州一级的监管。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3034456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         },
         {
           "title": "人工智能云初创公司Lambda在上市前计划进行3.5亿美元的融资。",
@@ -615,6 +665,17 @@
           "time_info": "[04时14分 ~ 04时15分]"
         },
         {
+          "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
+          "url": "https://wallstreetcn.com/articles/3762982",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
           "title": "SB ENERGY：OpenAI、软银集团和公司还建立了一种非排他性的首选合作伙伴关系，以开发数据中心建设的新模式。",
           "url": "https://flash.jin10.com/detail/20260110031815505800",
           "source": "金十数据",
@@ -663,8 +724,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 06时12分]"
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 07时12分]"
         },
         {
           "title": "东北为何成为低物价天堂？",
@@ -675,11 +736,12 @@
             19,
             14,
             15,
-            16
+            16,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 06时12分]"
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 07时12分]"
         },
         {
           "title": "欧洲央行二号人物职位吸引六个欧元区国家竞逐",
@@ -818,7 +880,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -872,8 +934,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 06时12分]"
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 07时12分]"
         },
         {
           "title": "苹果煮水喝孩子越喝越长个儿",
@@ -885,8 +947,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时18分 ~ 06时12分]"
+          "appearance_count": 9,
+          "time_info": "[02时18分 ~ 07时12分]"
         },
         {
           "title": "苹果收涨，结束此前连续七个交易日下跌的趋势。",
@@ -928,7 +990,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         }
@@ -968,8 +1030,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 06时12分]"
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 07时12分]"
+        },
+        {
+          "title": "华为Mate 70系列直降1800元",
+          "url": "https://www.toutiao.com/trending/7593142040096440326/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时12分 ~ 07时12分]"
         },
         {
           "title": "小米汽车深夜怒怼“绿化带战神”",
@@ -981,17 +1055,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时15分 ~ 00时16分]"
-        },
-        {
-          "title": "华为Mate 70系列直降1800元",
-          "url": "https://www.toutiao.com/trending/7593142040096440326/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时12分"
         }
       ]
     },
@@ -1121,7 +1184,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         }
@@ -1136,11 +1199,12 @@
           "url": "https://wallstreetcn.com/livenews/3034439",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时12分 ~ 07时12分]"
         },
         {
           "title": "英伟达挖角谷歌云业务高管",
@@ -1185,8 +1249,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 06时12分]"
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 07时12分]"
         }
       ]
     }
