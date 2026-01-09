@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-09T11:59:13.634475+08:00",
-  "total_titles_processed": 1120,
+  "generated_at": "2026-01-09T12:38:46.950970+08:00",
+  "total_titles_processed": 1193,
   "failed_sources": [],
   "trends": [
     {
@@ -53,8 +53,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时57分 ~ 11时59分]"
+          "appearance_count": 6,
+          "time_info": "[08时57分 ~ 12时38分]"
         },
         {
           "title": "美联储：美国未经季节性调整的商业票据未偿余额增加441亿美元。",
@@ -304,11 +304,12 @@
           "url": "https://wallstreetcn.com/articles/3762899",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时58分 ~ 11时59分]"
+          "appearance_count": 3,
+          "time_info": "[11时58分 ~ 12时38分]"
         },
         {
           "title": "WTI原油日内大涨4.00%，现报58.65美元/桶。",
@@ -495,7 +496,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
         },
@@ -734,7 +735,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "加速AI落地 谷歌为Gmail引入更多Gemini功能",
@@ -761,6 +762,30 @@
           "time_info": "[00时17分 ~ 04时14分]"
         },
         {
+          "title": "便利店卖“鞋底豆干” 网友：以为是AI",
+          "url": "https://www.baidu.com/s?wd=%E4%BE%BF%E5%88%A9%E5%BA%97%E5%8D%96%E2%80%9C%E9%9E%8B%E5%BA%95%E8%B1%86%E5%B9%B2%E2%80%9D+%E7%BD%91%E5%8F%8B%EF%BC%9A%E4%BB%A5%E4%B8%BA%E6%98%AFAI",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时57分 ~ 12时38分]"
+        },
+        {
+          "title": "野村：人工智能需求上升利好亚洲多国经济",
+          "url": "https://flash.jin10.com/detail/20260109122240989800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
           "title": "“短缺终将导致过剩”！a16z安德森2026年展望：AI芯片将迎来产能爆发与价格崩塌",
           "url": "https://wallstreetcn.com/articles/3762810",
           "source": "华尔街见闻",
@@ -772,19 +797,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时12分 ~ 08时57分]"
-        },
-        {
-          "title": "便利店卖“鞋底豆干” 网友：以为是AI",
-          "url": "https://www.baidu.com/s?wd=%E4%BE%BF%E5%88%A9%E5%BA%97%E5%8D%96%E2%80%9C%E9%9E%8B%E5%BA%95%E8%B1%86%E5%B9%B2%E2%80%9D+%E7%BD%91%E5%8F%8B%EF%BC%9A%E4%BB%A5%E4%B8%BA%E6%98%AFAI",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            30,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时57分 ~ 11时59分]"
         },
         {
           "title": "据英国电讯报：马斯克旗下的社交媒体平台“X”可能因人工智能聊天机器人争议在英国被禁。",
@@ -843,6 +855,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-01-09）",
+          "url": "https://flash.jin10.com/detail/20260109115848045800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
         },
         {
           "title": "OpenAI的应用内支付结算计划的推进速度低于预期，因为该公司在统一商家数据方面遇到了困难。",
@@ -947,8 +970,20 @@
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "贝森特：美联储不应推迟降息，美国将取消对部分委内瑞拉实体制裁",
+          "url": "https://wallstreetcn.com/articles/3762887",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时54分 ~ 12时38分]"
+        },
         {
           "title": "美联储理事米兰：预计2026年将降息约150个基点，利率“明显高于中性水平”",
           "url": "https://wallstreetcn.com/articles/3762881",
@@ -962,17 +997,6 @@
           "time_info": "[08时57分 ~ 11时59分]"
         },
         {
-          "title": "贝森特：美联储不应推迟降息，美国将取消对部分委内瑞拉实体制裁",
-          "url": "https://wallstreetcn.com/articles/3762887",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时54分 ~ 11时59分]"
-        },
-        {
           "title": "2025年全年CPI与上年持平",
           "url": "https://www.baidu.com/s?wd=2025%E5%B9%B4%E5%85%A8%E5%B9%B4CPI%E4%B8%8E%E4%B8%8A%E5%B9%B4%E6%8C%81%E5%B9%B3",
           "source": "百度热搜",
@@ -980,8 +1004,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时54分 ~ 11时59分]"
+          "appearance_count": 5,
+          "time_info": "[10时54分 ~ 12时38分]"
         },
         {
           "title": "美国至1月9日当周外国央行持有美国国债 322.18亿美元，前值-180.23亿美元。",
@@ -1028,6 +1052,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "野村：泰国央行料将于2月降息25个基点",
+          "url": "https://flash.jin10.com/detail/20260109114634262800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
         },
         {
           "title": "刚果民主共和国央行将主要利率下调至15%。",
@@ -1109,17 +1144,6 @@
           "time_info": "[01时19分 ~ 04时14分]"
         },
         {
-          "title": "早盘收盘，国内期货主力合约跌多涨少，低硫燃料油涨超3%，SC原油涨超2%，燃料油、苹果、沪铝涨超1%。跌幅方面，多晶硅跌超7%，沪镍跌超4%，烧碱、硅铁、BR橡胶、焦炭、纯碱、沪银跌超2%，氧化铝、20号胶、橡胶跌近2%。",
-          "url": "https://flash.jin10.com/detail/20260109113055726800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时59分"
-        },
-        {
           "title": "约翰·特纳斯（John Ternus）是接替苹果长期首席执行官库克的热门人选。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3033469",
           "source": "华尔街见闻-快讯",
@@ -1142,6 +1166,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时13分 ~ 07时12分]"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约跌多涨少，低硫燃料油涨超3%，SC原油涨超2%，燃料油、苹果、沪铝涨超1%。跌幅方面，多晶硅跌超7%，沪镍跌超4%，烧碱、硅铁、BR橡胶、焦炭、纯碱、沪银跌超2%，氧化铝、20号胶、橡胶跌近2%。",
+          "url": "https://flash.jin10.com/detail/20260109113055726800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 12时38分]"
         },
         {
           "title": "三九天喝苹果水",
@@ -1193,6 +1229,95 @@
       ]
     },
     {
+      "keyword_group": "半导体 芯片 集成电路",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "临近周五，美股轮动加剧，芯片股两连阴、小盘股指新高，地缘风险撑原油强劲反弹",
+          "url": "https://wallstreetcn.com/articles/3762848",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时57分 ~ 12时38分]"
+        },
+        {
+          "title": "联想全球创新科技大会集齐英伟达、英特尔、 AMD 、高通四大芯片巨头 CEO 同台，释放了什么信号？",
+          "url": "https://www.zhihu.com/question/1992286512562270761",
+          "source": "知乎",
+          "ranks": [
+            18,
+            16,
+            17,
+            14,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[01时19分 ~ 08时57分]"
+        },
+        {
+          "title": "金十图示：2026年01月09日（周五）富时中国A50指数成分股午盘收盘行情一览：银行股全线下跌，酿酒、半导体、石油等板块涨跌不一，有色金属、煤炭股上涨",
+          "url": "https://flash.jin10.com/detail/20260109113209288800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 12时38分]"
+        },
+        {
+          "title": "泰国制定25年“泰国制造”半导体发展路线图",
+          "url": "https://flash.jin10.com/detail/20260109115236663800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
+          "title": "标普500指数转涨，道指涨163点涨幅0.3%，纳指跌0.6%，半导体指数跌1.9%。",
+          "url": "https://wallstreetcn.com/livenews/3033426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时17分"
+        },
+        {
+          "title": "标普500指数收涨0.53点，涨幅0.01%，报6921.46点。 道琼斯工业平均指数收涨270.03点，涨幅0.55%，报49266.11点。 纳斯达克综合指数（纳指）收跌104.259点，跌幅0.44%，报23480.016点。 纳斯达克100指数收跌146.794点，跌幅0.57%，报25507.102点。 纳斯达克生物科技指数收跌2.29%，报136.33点。 费城半导体指数收跌1.83%，报7436.098点。 费城证交所KBW银行指数收涨0.76%，报171.28点。 道琼斯KBW地区银行指数收涨2.01%，报130.48点。",
+          "url": "https://wallstreetcn.com/livenews/3033552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "高通将从2027年起为德国大众汽车提供车载娱乐芯片",
+          "url": "https://wallstreetcn.com/livenews/3033420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时17分"
+        }
+      ]
+    },
+    {
       "keyword_group": "英伟达 台积电 AMD 高通",
       "match_count": 7,
       "titles": [
@@ -1206,8 +1331,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时57分 ~ 11时59分]"
+          "appearance_count": 6,
+          "time_info": "[08时57分 ~ 12时38分]"
         },
         {
           "title": "英伟达市值一夜蒸发6900亿元",
@@ -1215,11 +1340,12 @@
           "source": "百度热搜",
           "ranks": [
             6,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时57分 ~ 11时59分]"
+          "appearance_count": 6,
+          "time_info": "[08时57分 ~ 12时38分]"
         },
         {
           "title": "消息人士：英伟达支持的数据中心公司Nscale据悉寻求20亿美元融资",
@@ -1280,85 +1406,8 @@
       ]
     },
     {
-      "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "临近周五，美股轮动加剧，芯片股两连阴、小盘股指新高，地缘风险撑原油强劲反弹",
-          "url": "https://wallstreetcn.com/articles/3762848",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时57分 ~ 11时59分]"
-        },
-        {
-          "title": "联想全球创新科技大会集齐英伟达、英特尔、 AMD 、高通四大芯片巨头 CEO 同台，释放了什么信号？",
-          "url": "https://www.zhihu.com/question/1992286512562270761",
-          "source": "知乎",
-          "ranks": [
-            18,
-            16,
-            17,
-            14,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时19分 ~ 08时57分]"
-        },
-        {
-          "title": "金十图示：2026年01月09日（周五）富时中国A50指数成分股午盘收盘行情一览：银行股全线下跌，酿酒、半导体、石油等板块涨跌不一，有色金属、煤炭股上涨",
-          "url": "https://flash.jin10.com/detail/20260109113209288800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时59分"
-        },
-        {
-          "title": "标普500指数转涨，道指涨163点涨幅0.3%，纳指跌0.6%，半导体指数跌1.9%。",
-          "url": "https://wallstreetcn.com/livenews/3033426",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        },
-        {
-          "title": "标普500指数收涨0.53点，涨幅0.01%，报6921.46点。 道琼斯工业平均指数收涨270.03点，涨幅0.55%，报49266.11点。 纳斯达克综合指数（纳指）收跌104.259点，跌幅0.44%，报23480.016点。 纳斯达克100指数收跌146.794点，跌幅0.57%，报25507.102点。 纳斯达克生物科技指数收跌2.29%，报136.33点。 费城半导体指数收跌1.83%，报7436.098点。 费城证交所KBW银行指数收涨0.76%，报171.28点。 道琼斯KBW地区银行指数收涨2.01%，报130.48点。",
-          "url": "https://wallstreetcn.com/livenews/3033552",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时13分"
-        },
-        {
-          "title": "高通将从2027年起为德国大众汽车提供车载娱乐芯片",
-          "url": "https://wallstreetcn.com/livenews/3033420",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        }
-      ]
-    },
-    {
       "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "上海地铁现黄牛占座后有偿让座",
@@ -1381,11 +1430,12 @@
           "source": "百度热搜",
           "ranks": [
             25,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时54分 ~ 11时59分]"
+          "appearance_count": 5,
+          "time_info": "[10时54分 ~ 12时38分]"
         },
         {
           "title": "水利部：力争2026年水利基础设施建设和投资持续保持大规模、高水平态势",
@@ -1409,6 +1459,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "上海地铁现黄牛占座后有偿让座，怎样看待这种现象？这种做法违法吗？",
+          "url": "https://www.zhihu.com/question/1992694873300623616",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
         },
         {
           "title": "武汉地铁车厢出现裸体男子？地铁客服：暂不掌握该情况，若属实将与警方沟通处理",
@@ -1447,8 +1508,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时58分 ~ 11时59分]"
+          "appearance_count": 3,
+          "time_info": "[11时58分 ~ 12时38分]"
         },
         {
           "title": "小米开年冰火两重天",
@@ -1495,11 +1556,12 @@
           "url": "https://flash.jin10.com/detail/20260109113453495800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 12时38分]"
         },
         {
           "title": "美联储：美国12月短期通胀预期走高，就业感知恶化",
@@ -1577,6 +1639,23 @@
       ]
     },
     {
+      "keyword_group": "房地产 房价 楼市 LPR",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "独家|房地产融资协调机制迎重磅调整 符合条件“白名单”项目贷款可展期5年",
+          "url": "https://www.cls.cn/detail/2252571",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
       "match_count": 1,
       "titles": [
@@ -1607,11 +1686,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E7%AE%97%E5%8A%9B%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%A4%A7%E6%A8%A1%E5%9E%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            26
+            26,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时54分 ~ 10时55分]"
+          "appearance_count": 3,
+          "time_info": "[10时54分 ~ 12时38分]"
         }
       ]
     },
@@ -1624,11 +1704,12 @@
           "url": "https://wallstreetcn.com/livenews/3033737",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 12时38分]"
         }
       ]
     },
@@ -1641,11 +1722,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348892&amp;topic_name=%E6%A0%A1%E6%8B%9B%E6%B3%84%E6%84%A4%21%E5%A4%9A%E7%9B%8A%E6%8B%89%E9%BB%91%E5%B9%BF%E5%B7%A5%E6%AF%95%E4%B8%9A%E7%94%9F",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时58分 ~ 11时59分]"
+          "appearance_count": 3,
+          "time_info": "[11时58分 ~ 12时38分]"
         }
       ]
     }
