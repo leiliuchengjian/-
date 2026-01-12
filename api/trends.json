@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T22:17:27.071691+08:00",
-  "total_titles_processed": 1805,
+  "generated_at": "2026-01-12T23:17:26.927276+08:00",
+  "total_titles_processed": 1902,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 60,
+      "match_count": 62,
       "titles": [
         {
           "title": "鲍威尔遭刑事调查冲击全球市场：美元急跌、金价升破4600美元",
@@ -56,8 +56,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时36分 ~ 22时17分]"
+          "appearance_count": 3,
+          "time_info": "[21时36分 ~ 23时17分]"
         },
         {
           "title": "现货白银日内大涨4.00%，现报83.14美元/盎司。",
@@ -330,7 +330,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -363,7 +363,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -385,7 +385,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -440,7 +440,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -467,13 +467,24 @@
           "time_info": "09时00分"
         },
         {
+          "title": "花旗：将Palantir(PLTR.N)评级从“中性”上调至“买入”；将目标价从210美元上调至235美元。",
+          "url": "https://flash.jin10.com/detail/20260112225949302800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "美元指数日内跌超0.50%，现报98.68。",
           "url": "https://wallstreetcn.com/livenews/3035384",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -495,7 +506,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -542,6 +553,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
+        },
+        {
+          "title": "智利国家铜业公司董事长：债务约为240亿美元；年度投资已增至50亿美元。",
+          "url": "https://flash.jin10.com/detail/20260112225345099800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "韩元兑美元汇率跌破1470。",
@@ -627,7 +649,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -660,7 +682,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -690,7 +712,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 50,
+      "match_count": 55,
       "titles": [
         {
           "title": "中国“AI四巨头”罕见同台，阿里、腾讯、Kimi与智谱“论剑”：大模型的下一步与中国反超的可能性",
@@ -702,6 +724,18 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时13分 ~ 11时05分]"
+        },
+        {
+          "title": "A股成交额再创新高！沪指豪取17连阳，AI应用、商业航天大爆发，港股智谱狂飙30%，沪银涨超14%",
+          "url": "https://wallstreetcn.com/articles/3763068",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时19分 ~ 23时17分]"
         },
         {
           "title": "新“易中天”来了！GEO概念爆发 AI投资向应用价值迁移？",
@@ -718,16 +752,17 @@
           "time_info": "[13时23分 ~ 19时13分]"
         },
         {
-          "title": "A股成交额再创新高！沪指豪取17连阳，AI应用、商业航天大爆发，港股智谱狂飙30%，沪银涨超14%",
-          "url": "https://wallstreetcn.com/articles/3763068",
-          "source": "华尔街见闻",
+          "title": "AI应用概念股掀起涨停潮，一图看懂利好催化有哪些？",
+          "url": "https://www.cls.cn/detail/2254949",
+          "source": "财联社热门",
           "ranks": [
-            5,
-            4
+            3,
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时19分 ~ 22时17分]"
+          "appearance_count": 7,
+          "time_info": "[18时16分 ~ 23时17分]"
         },
         {
           "title": "正探索延伸至AI漫剧新赛道 AIGC概念股录得6天3板 本周机构密集调研相关上市公司",
@@ -742,19 +777,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[08时59分 ~ 15时20分]"
-        },
-        {
-          "title": "AI应用概念股掀起涨停潮，一图看懂利好催化有哪些？",
-          "url": "https://www.cls.cn/detail/2254949",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时16分 ~ 22时17分]"
         },
         {
           "title": "AI登顶LOL韩服,Faker劲敌来袭",
@@ -773,8 +795,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时13分 ~ 22时17分]"
+          "appearance_count": 29,
+          "time_info": "[00时13分 ~ 23时17分]"
         },
         {
           "title": "AI真的来了，经济扛得住吗？——“大空头”、“AI巨头”与“顶尖科技博主”的一场激辩",
@@ -841,6 +863,19 @@
           "time_info": "[00时13分 ~ 07时11分]"
         },
         {
+          "title": "疑似马斯克AI登顶LOL韩服集锦",
+          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%E9%9B%86%E9%94%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时20分 ~ 23时17分]"
+        },
+        {
           "title": "中国大模型分化成趋势？智能体如何突破？唐杰、姚顺雨、杨植麟等AI顶流齐聚探讨",
           "url": "https://m.thepaper.cn/newsDetail_forward_32360244",
           "source": "澎湃新闻",
@@ -894,17 +929,21 @@
           "time_info": "[00时14分 ~ 06时11分]"
         },
         {
-          "title": "疑似马斯克AI登顶LOL韩服集锦",
-          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%E9%9B%86%E9%94%A6",
+          "title": "UP主复盘疑似马斯克AI操作",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%9B%98%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E6%93%8D%E4%BD%9C",
           "source": "bilibili 热搜",
           "ranks": [
-            11,
-            13,
-            12
+            22,
+            20,
+            28,
+            23,
+            25,
+            24,
+            29
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[15时20分 ~ 22时17分]"
+          "time_info": "[15时20分 ~ 23时17分]"
         },
         {
           "title": "【每日收评】三大指数均涨超1%，两市成交额达3.6万亿，AI应用与商业航天双双爆发",
@@ -922,33 +961,53 @@
           "time_info": "[17时23分 ~ 22时17分]"
         },
         {
-          "title": "UP主复盘疑似马斯克AI操作",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%9B%98%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E6%93%8D%E4%BD%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22,
-            20,
-            28,
-            23,
-            25,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时20分 ~ 21时36分]"
-        },
-        {
           "title": "【数据看盘】多只中证A500相关ETF上周份额大减 机构和游资激烈博弈AI应用概念股",
           "url": "https://www.cls.cn/detail/2255010",
           "source": "财联社热门",
           "ranks": [
             10,
             9,
-            8
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时16分 ~ 23时17分]"
+        },
+        {
+          "title": "【焦点复盘】北证50放量涨超5%，全市场超300股涨超10%，GEO概念领涨AI应用端",
+          "url": "https://www.cls.cn/detail/2254978",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            7
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[18时16分 ~ 22时17分]"
+          "time_info": "[19时12分 ~ 23时17分]"
+        },
+        {
+          "title": "法国兴业银行逐步淘汰自有人工智能工具，转而使用微软的Copilot。",
+          "url": "https://flash.jin10.com/detail/20260112230611686800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "英伟达与礼来制药宣布联合创新AI实验室。 （双方）未来五年将向AI医药实验室投资至多10亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3035434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "用户与AI聊黄开发者获刑",
@@ -978,18 +1037,6 @@
           "time_info": "[04时13分 ~ 07时11分]"
         },
         {
-          "title": "【焦点复盘】北证50放量涨超5%，全市场超300股涨超10%，GEO概念领涨AI应用端",
-          "url": "https://www.cls.cn/detail/2254978",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时12分 ~ 22时17分]"
-        },
-        {
           "title": "A股三大股指午后均涨超1%，创业板指现涨1.8%，AI应用、文化传媒等板块涨幅居前。",
           "url": "https://wallstreetcn.com/livenews/3035027",
           "source": "华尔街见闻-快讯",
@@ -1000,6 +1047,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时23分 ~ 15时20分]"
+        },
+        {
+          "title": "新“易中天”行情来势汹汹 业内忧GEO低质滥用引发AI“水军”现象",
+          "url": "https://www.cls.cn/detail/2255330",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时17分 ~ 23时17分]"
         },
         {
           "title": "谷歌联合沃尔玛等零售商扩展AI模型购物功能",
@@ -1026,6 +1085,19 @@
           "time_info": "[12时42分 ~ 13时23分]"
         },
         {
+          "title": "下一个万亿级AI应用？浙江数字规划力挺AI4S 助推科研范式变革",
+          "url": "https://www.cls.cn/detail/2254799",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时25分 ~ 23时17分]"
+        },
+        {
           "title": "万字解析中国AI产业",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E8%A7%A3%E6%9E%90%E4%B8%AD%E5%9B%BDAI%E4%BA%A7%E4%B8%9A",
           "source": "bilibili 热搜",
@@ -1049,18 +1121,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时42分 ~ 17时23分]"
-        },
-        {
-          "title": "下一个万亿级AI应用？浙江数字规划力挺AI4S 助推科研范式变革",
-          "url": "https://www.cls.cn/detail/2254799",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时25分 ~ 22时17分]"
         },
         {
           "title": "野村证券：AI网络设备供应商或迎持续强劲需求",
@@ -1121,15 +1181,26 @@
           "time_info": "15时20分"
         },
         {
-          "title": "新“易中天”行情来势汹汹 业内忧GEO低质滥用引发AI“水军”现象",
-          "url": "https://www.cls.cn/detail/2255330",
-          "source": "财联社热门",
+          "title": "蚂蚁国际和谷歌共推“通用商业协议”，打通“AI购物”全流程",
+          "url": "https://wallstreetcn.com/livenews/3035425",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时17分"
+          "time_info": "23时17分"
+        },
+        {
+          "title": "英伟达(NVDA.O)将在未来五年内与礼来(LLY.N)共同投资10亿美元建立人工智能药物实验室。",
+          "url": "https://flash.jin10.com/detail/20260112230042713800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "汉得信息：公司AI产品与服务业务目前尚处起步阶段，仍不占整体营业收入的主体",
@@ -1149,7 +1220,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -1284,6 +1355,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
+        },
+        {
+          "title": "张文宏：我拒绝把AI引入医院病历系统，医生需要训练专业诊断能力",
+          "url": "https://wallstreetcn.com/livenews/3035404",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "韩服93%胜率账号是AI吗",
@@ -1502,7 +1584,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -1664,82 +1746,8 @@
       ]
     },
     {
-      "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "据港交所文件，1月12日，深圳市威兆半导体股份有限公司向港交所递交上市申请书，独家保荐人为广发证券。",
-          "url": "https://wallstreetcn.com/livenews/3035374",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时36分 ~ 22时17分]"
-        },
-        {
-          "title": "金十图示：2026年01月12日（周一）富时中国A50指数成分股午盘收盘行情一览：银行、石油、煤炭股走低，半导体、酿酒板块飘红",
-          "url": "https://flash.jin10.com/detail/20260112113304095800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 13时23分]"
-        },
-        {
-          "title": "国博电子：从公司营收结构来看，公司有源相控阵 T/R 组件和系列化射频集成电路产品主要应用于雷达探测等特种领域，目前在民用通信卫星领域的营收占比较小，相关产业未来发展存在不可预见性。",
-          "url": "https://wallstreetcn.com/livenews/3035257",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时13分"
-        },
-        {
-          "title": "佰维存储：国家集成电路基金二期拟减持不超2%公司股份。",
-          "url": "https://wallstreetcn.com/livenews/3035302",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "国芯科技：国家集成电路产业投资基金拟减持不超过2.37%。",
-          "url": "https://wallstreetcn.com/livenews/3035381",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时17分"
-        },
-        {
-          "title": "商业航天概念继续走强，巨力索具、杭萧钢构3连板，通宇通讯、电科芯片涨停，信科移动、星图测控、泰胜风能等涨超10%。",
-          "url": "https://wallstreetcn.com/livenews/3034873",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时05分"
-        }
-      ]
-    },
-    {
       "keyword_group": "英伟达 台积电 AMD 高通",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "英伟达要求中国客户预付全款",
@@ -1799,11 +1807,175 @@
           "time_info": "20时25分"
         },
         {
+          "title": "美股跌幅收窄，纳指转涨。AMD(AMD.O)现涨1.8%、诺和诺德(NVO.N)涨1.81%。",
+          "url": "https://flash.jin10.com/detail/20260112225800934800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "花旗：将台积电目标价从1800新台币上调至2450新台币。",
           "url": "https://flash.jin10.com/detail/20260112100129743800",
           "source": "金十数据",
           "ranks": [
             26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "基础设施 基建 地铁 高铁",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "成都地铁带扶手座椅获赞，不少人称遏制了一人占多座的不文明现象，你觉得带扶手好吗？值得推广到更多城市吗？",
+          "url": "https://www.zhihu.com/question/1993403424373432717",
+          "source": "知乎",
+          "ranks": [
+            1,
+            2,
+            3,
+            7,
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 07时11分]"
+        },
+        {
+          "title": "浙江：打造低空数字基础设施 融合5G-A、北斗导航等技术路径建设低空通信等配套设施",
+          "url": "https://wallstreetcn.com/livenews/3035010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时23分 ~ 15时20分]"
+        },
+        {
+          "title": "浙江：前瞻布局时空信息基础设施 支持民营企业依托自有卫星星座参与卫星物联网业务",
+          "url": "https://wallstreetcn.com/livenews/3035009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时23分 ~ 15时20分]"
+        },
+        {
+          "title": "英伟达(NVDA.O)和礼来(LLY.N)表示，联合创新实验室基础设施将基于英伟达BioNeMo平台和英伟达Vera Rubin架构构建。",
+          "url": "https://flash.jin10.com/detail/20260112230215579800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "英伟达(NVDA.O)：与赛默飞合作，构建可扩展的自主实验室基础设施，以实现科学发现。",
+          "url": "https://flash.jin10.com/detail/20260112230134401800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "乌克兰能源公司DTEK表示，俄罗斯昨夜袭击了乌克兰南部敖德萨地区的能源基础设施。",
+          "url": "https://flash.jin10.com/detail/20260112155300859800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体 芯片 集成电路",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "据港交所文件，1月12日，深圳市威兆半导体股份有限公司向港交所递交上市申请书，独家保荐人为广发证券。",
+          "url": "https://wallstreetcn.com/livenews/3035374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 22时17分]"
+        },
+        {
+          "title": "金十图示：2026年01月12日（周一）富时中国A50指数成分股午盘收盘行情一览：银行、石油、煤炭股走低，半导体、酿酒板块飘红",
+          "url": "https://flash.jin10.com/detail/20260112113304095800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 13时23分]"
+        },
+        {
+          "title": "国博电子：从公司营收结构来看，公司有源相控阵 T/R 组件和系列化射频集成电路产品主要应用于雷达探测等特种领域，目前在民用通信卫星领域的营收占比较小，相关产业未来发展存在不可预见性。",
+          "url": "https://wallstreetcn.com/livenews/3035257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
+          "title": "佰维存储：国家集成电路基金二期拟减持不超2%公司股份。",
+          "url": "https://wallstreetcn.com/livenews/3035302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "国芯科技：国家集成电路产业投资基金拟减持不超过2.37%。",
+          "url": "https://wallstreetcn.com/livenews/3035381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
+          "title": "商业航天概念继续走强，巨力索具、杭萧钢构3连板，通宇通讯、电科芯片涨停，信科移动、星图测控、泰胜风能等涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3034873",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1875,77 +2047,9 @@
       ]
     },
     {
-      "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "成都地铁带扶手座椅获赞，不少人称遏制了一人占多座的不文明现象，你觉得带扶手好吗？值得推广到更多城市吗？",
-          "url": "https://www.zhihu.com/question/1993403424373432717",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2,
-            3,
-            7,
-            12,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时13分 ~ 07时11分]"
-        },
-        {
-          "title": "浙江：打造低空数字基础设施 融合5G-A、北斗导航等技术路径建设低空通信等配套设施",
-          "url": "https://wallstreetcn.com/livenews/3035010",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时23分 ~ 15时20分]"
-        },
-        {
-          "title": "浙江：前瞻布局时空信息基础设施 支持民营企业依托自有卫星星座参与卫星物联网业务",
-          "url": "https://wallstreetcn.com/livenews/3035009",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时23分 ~ 15时20分]"
-        },
-        {
-          "title": "乌克兰能源公司DTEK表示，俄罗斯昨夜袭击了乌克兰南部敖德萨地区的能源基础设施。",
-          "url": "https://flash.jin10.com/detail/20260112155300859800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        }
-      ]
-    },
-    {
       "keyword_group": "新能源汽车 电动汽车 智能驾驶",
       "match_count": 4,
       "titles": [
-        {
-          "title": "中欧电动汽车案磋商进展",
-          "url": "https://www.douyin.com/hot/2365467",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时23分 ~ 22时17分]"
-        },
         {
           "title": "商务部关于中欧电动汽车案磋商进展的通报",
           "url": "https://www.cls.cn/detail/2254919",
@@ -1953,11 +2057,24 @@
           "ranks": [
             12,
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时12分 ~ 22时17分]"
+          "appearance_count": 6,
+          "time_info": "[19时12分 ~ 23时17分]"
+        },
+        {
+          "title": "中欧电动汽车案磋商进展",
+          "url": "https://www.douyin.com/hot/2365467",
+          "source": "抖音",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时23分 ~ 23时17分]"
         },
         {
           "title": "商务部通报中欧电动汽车案磋商进展：有必要向中国出口商提供关于价格承诺的通用指导",
@@ -1985,49 +2102,8 @@
       ]
     },
     {
-      "keyword_group": "苹果 iPhone",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "“死了么”下载费用从一元涨至八元，曾被苹果AppStore多次清榜",
-          "url": "https://wallstreetcn.com/livenews/3034732",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 04时13分]"
-        },
-        {
-          "title": "iPhone 4突然又火了",
-          "url": "https://www.douyin.com/hot/2365559",
-          "source": "抖音",
-          "ranks": [
-            23,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时36分 ~ 22时17分]"
-        },
-        {
-          "title": "iPhone4突然又火了",
-          "url": "https://www.douyin.com/hot/2365559",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "比亚迪加推 210km 纯电续航 DM-i 车型，纯电续航翻倍，将给插混市场带来哪些冲击？",
@@ -2061,6 +2137,17 @@
           "time_info": "[16时19分 ~ 21时36分]"
         },
         {
+          "title": "iShares MSCI中国ETF上涨1.6%，iShares中国大盘股ETF上涨1.5%。热门中概股延续涨势，阿里巴巴(BABA.N)涨超7%、小鹏汽车(XPEV.N)涨超4%、蔚来汽车(NIO.N)涨近4%。",
+          "url": "https://flash.jin10.com/detail/20260112225556093800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "能量奇点研制出20特斯拉纯导冷结构高温超导磁体",
           "url": "https://wallstreetcn.com/livenews/3035075",
           "source": "华尔街见闻-快讯",
@@ -2070,6 +2157,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 iPhone",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "“死了么”下载费用从一元涨至八元，曾被苹果AppStore多次清榜",
+          "url": "https://wallstreetcn.com/livenews/3034732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 04时13分]"
+        },
+        {
+          "title": "iPhone 4突然又火了",
+          "url": "https://www.douyin.com/hot/2365559",
+          "source": "抖音",
+          "ranks": [
+            23,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时36分 ~ 23时17分]"
+        },
+        {
+          "title": "iPhone4突然又火了",
+          "url": "https://www.douyin.com/hot/2365559",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         }
       ]
     },
@@ -2142,9 +2270,26 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "就业 裁员 招聘",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国12月谘商会就业趋势指数 104.27，前值105.8。",
+          "url": "https://flash.jin10.com/detail/20260112230025629800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         }
       ]
     }
