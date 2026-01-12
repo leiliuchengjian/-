@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T04:15:14.014135+08:00",
-  "total_titles_processed": 575,
+  "generated_at": "2026-01-13T05:12:47.008813+08:00",
+  "total_titles_processed": 623,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
         {
           "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，黄金突破4620美元，现货白银涨超6%，铜逼近新高，油价回调",
@@ -15,41 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 04时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 05时12分]"
         },
         {
           "title": "吉利德科学：公司在2025年实现1.5亿美元的Yeztugo业绩指引。",
           "url": "https://wallstreetcn.com/livenews/3035550",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "WTI原油日内涨幅达1.0%，报59.53美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3035548",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "布伦特原油日内涨幅达1.0%，报63.98美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3035546",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时15分 ~ 05时12分]"
         },
         {
           "title": "布伦特原油向上触及64美元/桶，日内涨1.31%。",
@@ -88,6 +67,18 @@
           "time_info": "[03时16分 ~ 04时15分]"
         },
         {
+          "title": "WTI原油日内涨幅达1.0%，报59.53美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3035548",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时15分 ~ 05时12分]"
+        },
+        {
           "title": "美国财政部拍390亿美元10年期国债，得标利率4.173%（12月9日为4.175%），投标倍数2.55（前次为2.55）。",
           "url": "https://wallstreetcn.com/livenews/3035509",
           "source": "华尔街见闻-快讯",
@@ -98,6 +89,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时19分 ~ 03时16分]"
+        },
+        {
+          "title": "布伦特原油日内涨幅达1.0%，报63.98美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3035546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时15分 ~ 05时12分]"
         },
         {
           "title": "澳元/美元日内涨幅达0.5%，报0.6718。",
@@ -172,6 +175,17 @@
           "time_info": "[03时16分 ~ 04时15分]"
         },
         {
+          "title": "美元指数12日下跌",
+          "url": "https://flash.jin10.com/detail/20260113045153898800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
           "title": "市场消息：伊朗向俄罗斯运送了价值27亿美元的导弹。",
           "url": "https://flash.jin10.com/detail/20260113004457906800",
           "source": "金十数据",
@@ -189,7 +203,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
         },
@@ -203,6 +217,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
+        },
+        {
+          "title": "美元指数跌约0.3%",
+          "url": "https://wallstreetcn.com/livenews/3035557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         },
         {
           "title": "澳元兑美元AUD/USD日内涨超0.50%，现报0.6719。",
@@ -225,6 +250,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
+        },
+        {
+          "title": "巴克莱：将微软(MSFT.O)目标价从625.00美元/股下调至610.00美元/股，维持超配评级。",
+          "url": "https://flash.jin10.com/detail/20260113041745436800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         },
         {
           "title": "美国天然气期货日内大涨6.00%，现报3.360美元/百万英热。",
@@ -282,6 +318,17 @@
           "time_info": "00时17分"
         },
         {
+          "title": "WTI 2月原油期货收涨0.38美元，涨幅0.64%，报59.50美元/桶。 布伦特3月原油期货收报63.87美元/桶。 中东Abu Dhabi Murban原油期货涨0.30%，报63.69美元/桶。 NYMEX 2月天然气期货收报3.4090美元/百万英热单位。 NYMEX 2月汽油期货收报1.7938美元/加仑，NYMEX 2月取暖油期货收报2.1544美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3035543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
           "title": "Alphabet(GOOG.O)市值首次突破4万亿美元。",
           "url": "https://flash.jin10.com/detail/20260112232659435800",
           "source": "金十数据",
@@ -296,7 +343,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "新“易中天”行情来势汹汹 业内忧GEO低质滥用引发AI“水军”现象",
@@ -307,8 +354,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 04时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 05时12分]"
         },
         {
           "title": "张文宏：拒绝把AI引入医院病历系统",
@@ -318,8 +365,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 04时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 05时12分]"
         },
         {
           "title": "【数据看盘】多只中证A500相关ETF上周份额大减 机构和游资激烈博弈AI应用概念股",
@@ -330,8 +377,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 04时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 05时12分]"
         },
         {
           "title": "A股成交额再创新高！沪指豪取17连阳，AI应用、商业航天大爆发，港股智谱狂飙30%，沪银涨超14%",
@@ -341,8 +388,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 04时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 05时12分]"
         },
         {
           "title": "【焦点复盘】北证50放量涨超5%，全市场超300股涨超10%，GEO概念领涨AI应用端",
@@ -353,8 +400,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 04时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 05时12分]"
         },
         {
           "title": "下一个万亿级AI应用？浙江数字规划力挺AI4S 助推科研范式变革",
@@ -366,8 +413,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 04时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 05时12分]"
         },
         {
           "title": "疑似马斯克AI登顶LOL韩服集锦",
@@ -377,8 +424,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 04时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 05时12分]"
         },
         {
           "title": "韩服93%胜率账号是AI吗",
@@ -394,8 +441,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 04时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 05时12分]"
         },
         {
           "title": "UP主复盘疑似马斯克AI操作",
@@ -409,8 +456,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 04时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 05时12分]"
         },
         {
           "title": "AI登顶LOL韩服,Faker劲敌来袭",
@@ -420,8 +467,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 04时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 05时12分]"
         },
         {
           "title": "AI应用概念股掀起涨停潮，一图看懂利好催化有哪些？",
@@ -433,6 +480,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "马斯克最新访谈：瓦特是未来货币，电力优势将令中国AI算力一骑绝尘",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32368937",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时14分 ~ 05时12分]"
         },
         {
           "title": "追赶AI浪潮 Meta斥资数百亿打造全球顶级算力版图",
@@ -459,15 +517,37 @@
           "time_info": "[02时19分 ~ 03时16分]"
         },
         {
-          "title": "马斯克最新访谈：瓦特是未来货币，电力优势将令中国AI算力一骑绝尘",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32368937",
-          "source": "澎湃新闻",
+          "title": "OpenAI宣布，收购了医疗保健初创公司Torch。 据The Information报道，这笔交易大约1亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3035563",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时14分 ~ 04时15分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "据The Information：OpenAI同意以约1亿美元收购AI医疗应用Torch。",
+          "url": "https://flash.jin10.com/detail/20260113044327822800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "OpenAI：我们收购了Torch，一家整合实验室结果、药物和就诊记录的医疗初创公司。",
+          "url": "https://flash.jin10.com/detail/20260113044010049800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         },
         {
           "title": "Alphabet盘中市值突破4万亿美元，受益于AI热潮",
@@ -520,6 +600,18 @@
       "match_count": 10,
       "titles": [
         {
+          "title": "iPhone 4突然又火了",
+          "url": "https://www.douyin.com/hot/2365559",
+          "source": "抖音",
+          "ranks": [
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 05时12分]"
+        },
+        {
           "title": "iPhone相册自带手写体",
           "url": "https://s.weibo.com/weibo?q=iPhone%E7%9B%B8%E5%86%8C%E8%87%AA%E5%B8%A6%E6%89%8B%E5%86%99%E4%BD%93&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -529,18 +621,6 @@
             10,
             18,
             20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 04时15分]"
-        },
-        {
-          "title": "iPhone 4突然又火了",
-          "url": "https://www.douyin.com/hot/2365559",
-          "source": "抖音",
-          "ranks": [
-            19,
-            22
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -612,7 +692,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
         },
@@ -760,6 +840,45 @@
       ]
     },
     {
+      "keyword_group": "就业 裁员 招聘",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "消息人士：花旗集团(C.N)本周将裁员约1000人，这是首席执行官简·弗雷泽为控制成本、提高回报而采取的措施之一。",
+          "url": "https://flash.jin10.com/detail/20260113045240238800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "Meta Platforms计划在Reality Labs业务裁员大约10%。 该公司料将在本周宣布裁员计划。 Meta打算将部分VR产品资金调拨到可穿戴设备。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3035560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "据《纽约时报》：Meta Platforms(META.O)计划在Reality Labs裁员约10%。",
+          "url": "https://flash.jin10.com/detail/20260113043224846800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "华为 小米 荣耀",
       "match_count": 1,
       "titles": [
@@ -768,11 +887,12 @@
           "url": "https://www.cls.cn/detail/2255115",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时16分 ~ 04时15分]"
+          "appearance_count": 7,
+          "time_info": "[01时16分 ~ 05时12分]"
         }
       ]
     },
@@ -788,8 +908,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 04时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 05时12分]"
         }
       ]
     },
