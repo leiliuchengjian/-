@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T08:53:16.208632+08:00",
-  "total_titles_processed": 875,
+  "generated_at": "2026-01-13T10:52:40.289536+08:00",
+  "total_titles_processed": 999,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，黄金突破4620美元，现货白银涨超6%，铜逼近新高，油价回调",
@@ -36,7 +36,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
         },
@@ -161,6 +161,30 @@
           "time_info": "[04时15分 ~ 05时12分]"
         },
         {
+          "title": "金银再创历史新高 谷歌市值首破4万亿美元 | 环球市场",
+          "url": "https://www.cls.cn/detail/2255551",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时52分 ~ 10时52分]"
+        },
+        {
+          "title": "人民币汇率创近32个月新高",
+          "url": "https://www.douyin.com/hot/2365877",
+          "source": "抖音",
+          "ranks": [
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时52分 ~ 10时52分]"
+        },
+        {
           "title": "美元指数12日下跌",
           "url": "https://flash.jin10.com/detail/20260113045153898800",
           "source": "金十数据",
@@ -245,17 +269,6 @@
           "time_info": "[02时19分 ~ 03时16分]"
         },
         {
-          "title": "人民币汇率创近32个月新高",
-          "url": "https://www.douyin.com/hot/2365877",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时52分 ~ 08时53分]"
-        },
-        {
           "title": "美元指数跌约0.3%",
           "url": "https://wallstreetcn.com/livenews/3035557",
           "source": "华尔街见闻-快讯",
@@ -266,17 +279,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时12分 ~ 06时12分]"
-        },
-        {
-          "title": "金银再创历史新高 谷歌市值首破4万亿美元 | 环球市场",
-          "url": "https://www.cls.cn/detail/2255551",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时52分 ~ 08时53分]"
         },
         {
           "title": "周一（1月12日），美联储隔夜逆回购协议（RRP）使用规模为34.02亿美元（交易对手11家），上个交易日报32.80亿美元。",
@@ -344,6 +346,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "日本政府发言人：近期出现单边且剧烈的汇率波动。汇率应以稳定方式变动，反映基本面。",
+          "url": "https://flash.jin10.com/detail/20260113100745248800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
         },
         {
           "title": "澳元兑美元AUD/USD日内涨超0.50%，现报0.6719。",
@@ -470,7 +483,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "新“易中天”行情来势汹汹 业内忧GEO低质滥用引发AI“水军”现象",
@@ -485,18 +498,6 @@
           "time_info": "[00时17分 ~ 08时53分]"
         },
         {
-          "title": "张文宏：拒绝把AI引入医院病历系统",
-          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E6%96%87%E5%AE%8F%EF%BC%9A%E6%8B%92%E7%BB%9D%E6%8A%8AAI%E5%BC%95%E5%85%A5%E5%8C%BB%E9%99%A2%E7%97%85%E5%8E%86%E7%B3%BB%E7%BB%9F",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时17分 ~ 08时53分]"
-        },
-        {
           "title": "A股成交额再创新高！沪指豪取17连阳，AI应用、商业航天大爆发，港股智谱狂飙30%，沪银涨超14%",
           "url": "https://wallstreetcn.com/articles/3763068",
           "source": "华尔街见闻",
@@ -505,8 +506,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时17分 ~ 08时53分]"
+          "appearance_count": 13,
+          "time_info": "[00时17分 ~ 10时52分]"
         },
         {
           "title": "【数据看盘】多只中证A500相关ETF上周份额大减 机构和游资激烈博弈AI应用概念股",
@@ -519,6 +520,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时17分 ~ 07时10分]"
+        },
+        {
+          "title": "张文宏：拒绝把AI引入医院病历系统",
+          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E6%96%87%E5%AE%8F%EF%BC%9A%E6%8B%92%E7%BB%9D%E6%8A%8AAI%E5%BC%95%E5%85%A5%E5%8C%BB%E9%99%A2%E7%97%85%E5%8E%86%E7%B3%BB%E7%BB%9F",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时17分 ~ 10时52分]"
         },
         {
           "title": "【焦点复盘】北证50放量涨超5%，全市场超300股涨超10%，GEO概念领涨AI应用端",
@@ -570,8 +584,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 07时10分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 10时52分]"
         },
         {
           "title": "UP主复盘疑似马斯克AI操作",
@@ -584,11 +598,12 @@
             29,
             26,
             23,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时17分 ~ 08时53分]"
+          "appearance_count": 13,
+          "time_info": "[00时17分 ~ 10时52分]"
         },
         {
           "title": "AI登顶LOL韩服,Faker劲敌来袭",
@@ -596,11 +611,12 @@
           "source": "贴吧",
           "ranks": [
             22,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时17分 ~ 08时53分]"
+          "appearance_count": 13,
+          "time_info": "[00时17分 ~ 10时52分]"
         },
         {
           "title": "马斯克最新访谈：瓦特是未来货币，电力优势将令中国AI算力一骑绝尘",
@@ -620,11 +636,12 @@
           "url": "https://www.toutiao.com/trending/7594611746107854346/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时52分 ~ 08时53分]"
+          "appearance_count": 3,
+          "time_info": "[08时52分 ~ 10时52分]"
         },
         {
           "title": "AI应用概念股掀起涨停潮，一图看懂利好催化有哪些？",
@@ -638,16 +655,40 @@
           "time_info": "00时17分"
         },
         {
+          "title": "美防长称马斯克旗下AI聊天机器人将接入五角大楼系统",
+          "url": "https://wallstreetcn.com/livenews/3035759",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
+          "title": "英伟达与礼来共投10亿美元 建设AI药物研发实验室",
+          "url": "https://www.cls.cn/detail/2255501",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时52分 ~ 10时52分]"
+        },
+        {
           "title": "万字解析中国AI产业",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E8%A7%A3%E6%9E%90%E4%B8%AD%E5%9B%BDAI%E4%BA%A7%E4%B8%9A",
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时10分 ~ 08时53分]"
+          "appearance_count": 4,
+          "time_info": "[07时10分 ~ 10时52分]"
         },
         {
           "title": "追赶AI浪潮 Meta斥资数百亿打造全球顶级算力版图",
@@ -660,17 +701,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时16分 ~ 04时15分]"
-        },
-        {
-          "title": "英伟达与礼来共投10亿美元 建设AI药物研发实验室",
-          "url": "https://www.cls.cn/detail/2255501",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时52分 ~ 08时53分]"
         },
         {
           "title": "OpenAI宣布，收购了医疗保健初创公司Torch。 据The Information报道，这笔交易大约1亿美元。",
@@ -763,6 +793,17 @@
           "time_info": "00时17分"
         },
         {
+          "title": "如何看待最新 2025-2026 年 csrankings 人工智能排名南京大学位居全国第 1 名？",
+          "url": "https://www.zhihu.com/question/1991915523580135211",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
           "title": "诺华制药(NVS.N)CEO：对与合作伙伴共同探索人工智能赋能方式持开放态度。",
           "url": "https://flash.jin10.com/detail/20260113013427671800",
           "source": "金十数据",
@@ -799,8 +840,19 @@
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "机构：印度央行具备进一步放松政策的空间",
+          "url": "https://flash.jin10.com/detail/20260113101954105800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
         {
           "title": "中信证券：2026年美联储或降息50bps左右",
           "url": "https://wallstreetcn.com/livenews/3035663",
@@ -808,7 +860,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
         },
@@ -860,13 +912,24 @@
           "time_info": "02时19分"
         },
         {
+          "title": "美联储主席鲍威尔遭刑事调查，称「调查是降息施压借口」，有何内幕？美国降息步伐会因此被打乱吗？",
+          "url": "https://www.zhihu.com/question/1993988032261543744",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
           "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日将公布美国12月CPI数据，圣路易联储主席穆萨莱姆将发表讲话。",
           "url": "https://flash.jin10.com/detail/20260113075841359800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
         },
@@ -951,7 +1014,7 @@
     },
     {
       "keyword_group": "苹果 iPhone",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "iPhone 4突然又火了",
@@ -964,8 +1027,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时17分 ~ 08时53分]"
+          "appearance_count": 13,
+          "time_info": "[00时17分 ~ 10时52分]"
         },
         {
           "title": "iPhone相册自带手写体",
@@ -982,6 +1045,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时17分 ~ 07时10分]"
+        },
+        {
+          "title": "iPhone官宣接入Gemini",
+          "url": "https://search.bilibili.com/all?keyword=iPhone%E5%AE%98%E5%AE%A3%E6%8E%A5%E5%85%A5Gemini",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
         },
         {
           "title": "苹果2025年全球智能手机市场份额夺冠",
@@ -1036,11 +1110,12 @@
           "url": "https://wallstreetcn.com/articles/3763115",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时52分 ~ 08时53分]"
+          "appearance_count": 3,
+          "time_info": "[08时52分 ~ 10时52分]"
         },
         {
           "title": "苹果谷歌官宣合作",
@@ -1167,7 +1242,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
         },
@@ -1178,7 +1253,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
         }
@@ -1186,7 +1261,7 @@
     },
     {
       "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "英伟达回应路透1月8日关于H200芯片的报道称：我们不要求预付款，绝不会要求客户为未收到的产品付款。",
@@ -1195,7 +1270,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
         },
@@ -1206,7 +1281,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
         },
@@ -1217,7 +1292,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
         },
@@ -1231,6 +1306,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "三星高管表示内存芯片的供应短缺，预计将推高整个电子行业商品的价格，如何看待？会带来什么连锁反应？",
+          "url": "https://www.zhihu.com/question/1992294788825903968",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
         }
       ]
     },
@@ -1244,11 +1330,12 @@
           "source": "抖音",
           "ranks": [
             8,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时17分 ~ 08时53分]"
+          "appearance_count": 13,
+          "time_info": "[00时17分 ~ 10时52分]"
         },
         {
           "title": "涉中国电动汽车关税，欧盟出台新方案",
@@ -1258,8 +1345,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时52分 ~ 08时53分]"
+          "appearance_count": 3,
+          "time_info": "[08时52分 ~ 10时52分]"
         },
         {
           "title": "周一（1月12日），彭博电动汽车价格回报指数涨0.73%，报3606.27点，亚太早盘出现一波显著的跳水行情，随后不断上扬。",
@@ -1298,8 +1385,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时52分 ~ 08时53分]"
+          "appearance_count": 3,
+          "time_info": "[08时52分 ~ 10时52分]"
         },
         {
           "title": "1月9日当周，在美上市新兴市场股票ETFs获得39.6亿美元资金流入，连续第十二周录入。 其中，贝莱德集团IEMG流入21亿美元，创2021年以来最大单周流入。 该基金主要配置台积电、腾讯控股、三星电子、阿里巴巴。",
@@ -1323,11 +1410,12 @@
           "url": "https://www.cls.cn/detail/2255512",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时52分 ~ 08时53分]"
+          "appearance_count": 3,
+          "time_info": "[08时52分 ~ 10时52分]"
         },
         {
           "title": "电网基建与AIDC需求共振，变压器行业高景气延续",
@@ -1339,6 +1427,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房地产 房价 楼市 LPR",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "戴德梁行胡峰：房地产大规模增量扩张的时代已经结束，存量提质增效的新阶段已然开启",
+          "url": "https://wallstreetcn.com/livenews/3035742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
         }
       ]
     },
@@ -1357,6 +1462,23 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时16分 ~ 07时10分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "创业板",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "创业板指跌超1%，沪指跌0.2%，深成指跌0.67%，商业航天、可控核聚变、量子科技、光通信等方向跌幅居前，沪深京三市下跌个股近3300只。",
+          "url": "https://wallstreetcn.com/livenews/3035744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
         }
       ]
     }
