@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T14:21:20.935719+08:00",
-  "total_titles_processed": 1260,
+  "generated_at": "2026-01-14T15:18:53.336780+08:00",
+  "total_titles_processed": 1376,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 59,
+      "match_count": 60,
       "titles": [
         {
           "title": "核心通胀降温，美股指集体高开，日元跌至159，现货白银逼近89美元，伊朗局势提振油价",
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 14时21分]"
+          "appearance_count": 3,
+          "time_info": "[13时17分 ~ 15时18分]"
         },
         {
           "title": "中国12月以美元计算贸易帐 1141.4亿美元，预期1136亿美元，前值1116.8亿美元。",
@@ -64,6 +64,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
+        },
+        {
+          "title": "英国石油（BP）：预计将在2025年第四季度计入税后调整项目，相关减值费用区间为40亿至50亿美元，主要涉及其转型业务。减值费用主要归因于天然气和低碳能源板块。第四季度净债务预计为220亿至230亿美元，较此前的261亿美元有所下降。",
+          "url": "https://wallstreetcn.com/livenews/3036757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         },
         {
           "title": "中国12月以美元计算进口年率 5.7%，预期0.9%，前值1.90%。",
@@ -318,7 +329,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -417,7 +428,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -439,7 +450,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -678,7 +689,7 @@
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 45,
+      "match_count": 50,
       "titles": [
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -688,8 +699,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时58分 ~ 14时21分]"
+          "appearance_count": 8,
+          "time_info": "[08时58分 ~ 15时18分]"
         },
         {
           "title": "核心通胀降温！美国12月核心CPI涨幅2.6%，持平四年来最低水平，CPI同比上涨2.7%符合预期",
@@ -700,11 +711,39 @@
             9,
             6,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时19分 ~ 14时21分]"
+          "appearance_count": 17,
+          "time_info": "[01时19分 ~ 15时18分]"
+        },
+        {
+          "title": "“全力支持”鲍威尔！多国央行发表联合声明，加央行行长：他“体现了公共服务的最高水平”",
+          "url": "https://wallstreetcn.com/articles/3763179",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时12分 ~ 15时18分]"
+        },
+        {
+          "title": "今晚美国CPI：政府停摆扰动消退，核心通胀或回到2.7%，但反弹才刚开始？",
+          "url": "https://wallstreetcn.com/articles/3763162",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 15时18分]"
         },
         {
           "title": "美国12月CPI同比增长2.7% 三大期指集体走高 | 今夜看点",
@@ -720,31 +759,28 @@
           "time_info": "[00时19分 ~ 11时03分]"
         },
         {
-          "title": "“全力支持”鲍威尔！多国央行发表联合声明，加央行行长：他“体现了公共服务的最高水平”",
-          "url": "https://wallstreetcn.com/articles/3763179",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时12分 ~ 14时21分]"
-        },
-        {
-          "title": "今晚美国CPI：政府停摆扰动消退，核心通胀或回到2.7%，但反弹才刚开始？",
-          "url": "https://wallstreetcn.com/articles/3763162",
+          "title": "美12月CPI什么信号？华尔街对本月降息不抱期望，“新美联储通讯社”称联储观望态度不大可能变",
+          "url": "https://wallstreetcn.com/articles/3763221",
           "source": "华尔街见闻",
           "ranks": [
             10,
             8,
-            7,
-            6
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 14时21分]"
+          "appearance_count": 6,
+          "time_info": "[11时03分 ~ 15时18分]"
+        },
+        {
+          "title": "欧洲央行管委卡扎克斯：货币政策已经奏效，现在有点乏味了。",
+          "url": "https://flash.jin10.com/detail/20260114150151750800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         },
         {
           "title": "美通胀降温未改降息预期，摩根大通领跌金融股，日元跌至159，比特币年内新高",
@@ -800,19 +836,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
-        },
-        {
-          "title": "美12月CPI什么信号？华尔街对本月降息不抱期望，“新美联储通讯社”称联储观望态度不大可能变",
-          "url": "https://wallstreetcn.com/articles/3763221",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时03分 ~ 14时21分]"
         },
         {
           "title": "美国总统特朗普：我希望美联储主席根据好消息而决定降息。 以往，利率就因良好的数据而下跌。 当市场上涨时，美联储应该降低利率。",
@@ -968,7 +991,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -979,7 +1002,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -1001,7 +1024,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -1045,7 +1068,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -1059,6 +1082,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        },
+        {
+          "title": "欧洲央行管委卡扎克斯：非线性冲击的不确定性及风险仍然很高，前景面临的风险来自两个方面。",
+          "url": "https://flash.jin10.com/detail/20260114144038368800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "欧洲央行管委卡扎克斯：欧洲央行目前状况良好。",
+          "url": "https://flash.jin10.com/detail/20260114143942586800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         },
         {
           "title": "中金：通胀温和，但美联储1月仍不会降息",
@@ -1083,6 +1128,17 @@
           "time_info": "11时03分"
         },
         {
+          "title": "欧洲央行管委卡扎克斯：美联储的动向令人担忧。",
+          "url": "https://flash.jin10.com/detail/20260114143916099800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
           "title": "中国央行副行长邹澜：加速金融科技创新赋能 扎实做好金融“五篇大文章”",
           "url": "https://wallstreetcn.com/livenews/3036495",
           "source": "华尔街见闻-快讯",
@@ -1092,6 +1148,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
+        },
+        {
+          "title": "欧洲央行管委Kazaks：欧洲央行对利率路径持开放态度。 不应对利率前景给出过多前瞻性指引。 货币政策已经取得成效。",
+          "url": "https://wallstreetcn.com/livenews/3036744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         },
         {
           "title": "日本内阁官房长官木原稔：不便就其他央行支持美联储主席鲍威尔的声明置评，因为这与日本央行的决定有关，具体的货币工具由日本央行决定。",
@@ -1207,7 +1274,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "事关AI应用、GEO概念，上市公司密集回应",
@@ -1238,6 +1305,19 @@
           "time_info": "[00时19分 ~ 13时17分]"
         },
         {
+          "title": "国内首起 AI 涉黄案开发者获刑，开发者需要承担哪些法律责任？用户使用此类 AI 需担责吗？",
+          "url": "https://www.zhihu.com/question/1994009798958657948",
+          "source": "知乎",
+          "ranks": [
+            1,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时58分 ~ 15时18分]"
+        },
+        {
           "title": "张文宏不支持把 AI 引入病历系统，恐造成医生诊断能力缺失，这种担忧是否合理？在其他专业领域也类似么？",
           "url": "https://www.zhihu.com/question/1994352106249873378",
           "source": "知乎",
@@ -1266,19 +1346,6 @@
           "time_info": "[00时19分 ~ 04时14分]"
         },
         {
-          "title": "国内首起 AI 涉黄案开发者获刑，开发者需要承担哪些法律责任？用户使用此类 AI 需担责吗？",
-          "url": "https://www.zhihu.com/question/1994009798958657948",
-          "source": "知乎",
-          "ranks": [
-            1,
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时58分 ~ 14时21分]"
-        },
-        {
           "title": "韩服93%胜率账号是AI吗",
           "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D93%25%E8%83%9C%E7%8E%87%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E5%90%97",
           "source": "bilibili 热搜",
@@ -1291,11 +1358,12 @@
             14,
             16,
             21,
-            26
+            26,
+            23
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时19分 ~ 14时21分]"
+          "appearance_count": 18,
+          "time_info": "[00时19分 ~ 15时18分]"
         },
         {
           "title": "中国核聚变装置融入AI技术",
@@ -1333,11 +1401,12 @@
             12,
             10,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时03分 ~ 14时21分]"
+          "appearance_count": 6,
+          "time_info": "[11时03分 ~ 15时18分]"
         },
         {
           "title": "张文宏拒绝将 AI 引入医院病历系统，称会影响医生的诊断思维，如何评价？ 医疗诊断中应该怎么用 AI？",
@@ -1346,11 +1415,12 @@
           "ranks": [
             19,
             14,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时03分 ~ 14时21分]"
+          "appearance_count": 6,
+          "time_info": "[11时03分 ~ 15时18分]"
         },
         {
           "title": "AI应用概念股暴涨背后：“变现”和“放量落地”之年要来了？",
@@ -1499,6 +1569,17 @@
           "time_info": "12时40分"
         },
         {
+          "title": "182个！2025年人工智能医疗器械创新任务揭榜挂帅入围单位名单公布",
+          "url": "https://wallstreetcn.com/livenews/3036731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
           "title": "银河证券：生成式搜索兴起，AI应用催化密集",
           "url": "https://wallstreetcn.com/livenews/3036486",
           "source": "华尔街见闻-快讯",
@@ -1519,6 +1600,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
+        },
+        {
+          "title": "欧洲央行管委Kazaks：美联储的最新动向令人担忧。 欧洲央行目前的处境仍然良好。 欧洲央行正在履行其通胀目标。 不确定性和非线性冲击的风险依然很高。 人工智能投资有望带来强劲的生产率提升。",
+          "url": "https://wallstreetcn.com/livenews/3036727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         },
         {
           "title": "阿里巴巴：1月15日10:00将召开千问APP发布会，见证AI如何“开启办事时代”。",
@@ -1568,7 +1660,7 @@
     },
     {
       "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "美国批准向中国出口英伟达H200芯片",
@@ -1618,6 +1710,17 @@
           "time_info": "[12时39分 ~ 13时17分]"
         },
         {
+          "title": "韩国2025年半导体出口额达1735亿美元 创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3036746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
           "title": "恒生科技指数涨超1%。阿里健康涨超10%，华虹半导体、快手涨超5%。",
           "url": "https://wallstreetcn.com/livenews/3036591",
           "source": "华尔街见闻-快讯",
@@ -1638,6 +1741,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "存储芯片涨价趋势持续",
+          "url": "https://www.douyin.com/hot/2367041",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         },
         {
           "title": "美国放宽对英伟达H200芯片出口中国的管制",
@@ -1665,7 +1779,7 @@
     },
     {
       "keyword_group": "苹果 iPhone",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -1686,11 +1800,12 @@
           "ranks": [
             8,
             9,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时19分 ~ 14时21分]"
+          "appearance_count": 18,
+          "time_info": "[00时19分 ~ 15时18分]"
         },
         {
           "title": "发布15年后iPhone 4突然爆火",
@@ -1723,11 +1838,12 @@
           "source": "微博",
           "ranks": [
             18,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 14时21分]"
+          "appearance_count": 3,
+          "time_info": "[13时17分 ~ 15时18分]"
         },
         {
           "title": "iPhone18Pro灵动岛或变小",
@@ -1735,11 +1851,12 @@
           "source": "微博",
           "ranks": [
             9,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 14时21分]"
+          "appearance_count": 3,
+          "time_info": "[13时17分 ~ 15时18分]"
         },
         {
           "title": "iPhone自带堪比打印机的软件",
@@ -1751,6 +1868,112 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        },
+        {
+          "title": "iPhone18Pro灵动岛或变小",
+          "url": "https://search.bilibili.com/all?keyword=iPhone18Pro%E7%81%B5%E5%8A%A8%E5%B2%9B%E6%88%96%E5%8F%98%E5%B0%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源汽车 电动汽车 智能驾驶",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "【2025年汽车产销量再创历史新高 连续17年稳居全球第一】中国汽车工业协会今天（14日）发布的最新数据显示，2025年，我国汽车行业继续展现出强大的发展韧性和活力，多项经济指标再创新高。2025年，汽车产销量分别为3453.1万辆和3440万辆，同比分别增长10.4%和9.4%，产销量再创历史新高，连续17年稳居全球第一。新动能加快释放，新能源汽车产销量超1600万辆，其中国内新车销量占比超50%，成为我国汽车市场主导力量。在对外贸易方面，呈现出较强韧性，汽车出口超700万辆，出口规模再上新台阶。其中，新能源汽车出口261.5万辆，同比增长1倍。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3036701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
+          "title": "商务部通报中欧电动汽车案磋商进展，「有必要向中国出口商提供关于价格承诺的通用指导」，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1994094829399982350",
+          "source": "知乎",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时58分 ~ 11时03分]"
+        },
+        {
+          "title": "中汽协：预计2026年电动汽车和插电式混合动力汽车销量将增长15.2%。",
+          "url": "https://flash.jin10.com/detail/20260114143427052800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "周二（1月13日），彭博电动汽车价格回报指数涨0.28%，报3619.10点，亚太早盘持续走高，北京时间13:00过后逐步回吐涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3036403",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "中汽协：2025年12月新能源汽车产销同比分别增长12.3%和7.2%",
+          "url": "https://wallstreetcn.com/livenews/3036736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "中汽协：预计2026年新能源汽车销量有望达1900万辆，同比增长15.2%",
+          "url": "https://wallstreetcn.com/livenews/3036730",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "中汽协：中国2025新能源汽车销量同比增长28.2%。",
+          "url": "https://flash.jin10.com/detail/20260114142209223800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "中汽协：中国12月新能源汽车销量同比增长7.2%。",
+          "url": "https://flash.jin10.com/detail/20260114142153016800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         }
       ]
     },
@@ -1831,7 +2054,7 @@
     },
     {
       "keyword_group": "创业板",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "A股成交再创历史天量！创业板跌2%，商业航天集体回调，新“易中天”延续强势，恒指涨近1%，医药股活跃，碳酸锂逆势涨超7%",
@@ -1839,11 +2062,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时19分 ~ 14时21分]"
+          "appearance_count": 18,
+          "time_info": "[00时19分 ~ 15时18分]"
         },
         {
           "title": "A股三大指数涨幅午后收窄，沪指涨幅收窄至0.6%，深成指和创业板指涨幅收窄至1%。",
@@ -1856,6 +2080,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时17分 ~ 14时21分]"
+        },
+        {
+          "title": "上证指数收报4126.09点，跌0.31%。 深证成指收报14248.60点，涨0.56%。 创业板指收报3349.14点，涨0.82%。 沪深300收报4741.93点，跌0.40%。 科创50收报1500.91点，涨2.13%。 中证500收报8227.70点，涨1.04%。 中证1000收报8257.17点，涨0.66%。",
+          "url": "https://wallstreetcn.com/livenews/3036750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         },
         {
           "title": "创业板指涨逾2% 上涨个股近4500只",
@@ -1875,7 +2110,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -1894,7 +2129,7 @@
     },
     {
       "keyword_group": "就业 裁员 招聘",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "为什么裁员很少听说过裁管理层的？",
@@ -1907,8 +2142,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时58分 ~ 14时21分]"
+          "appearance_count": 8,
+          "time_info": "[08时58分 ~ 15时18分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：预计福特汽车今天将宣布一些消息。 预计福特将宣布关于扩大就业和燃油卡车的信息。",
@@ -1932,6 +2167,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "Meta将裁员超1000人",
+          "url": "https://www.douyin.com/hot/2366971",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         },
         {
           "title": "美国总统特朗普：机器人将成为一股重要力量，并将有助于就业。",
@@ -1958,65 +2204,8 @@
       ]
     },
     {
-      "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "有人在地铁车厢内牵马？马主人回应",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%89%E4%BA%BA%E5%9C%A8%E5%9C%B0%E9%93%81%E8%BD%A6%E5%8E%A2%E5%86%85%E7%89%B5%E9%A9%AC%EF%BC%9F%E9%A9%AC%E4%B8%BB%E4%BA%BA%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            24,
-            26,
-            30,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时19分 ~ 05时13分]"
-        },
-        {
-          "title": "盲人姑娘独坐地铁 无数友善的手伸来",
-          "url": "https://www.baidu.com/s?wd=%E7%9B%B2%E4%BA%BA%E5%A7%91%E5%A8%98%E7%8B%AC%E5%9D%90%E5%9C%B0%E9%93%81+%E6%97%A0%E6%95%B0%E5%8F%8B%E5%96%84%E7%9A%84%E6%89%8B%E4%BC%B8%E6%9D%A5",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            20,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时39分 ~ 14时21分]"
-        },
-        {
-          "title": "南信合高铁项目或年内开工",
-          "url": "https://www.toutiao.com/trending/7594662307071754278/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时03分 ~ 12时40分]"
-        },
-        {
-          "title": "美国研究重建委内瑞拉基础设施 电网或成优先议题",
-          "url": "https://flash.jin10.com/detail/20260114063448682800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "前比亚迪老将赵长江官宣加入智界，曾放言鸿蒙智行 MPV「三年内无对手」，能做到吗？会给市场带来什么影响？",
@@ -2057,6 +2246,17 @@
           "time_info": "04时14分"
         },
         {
+          "title": "马斯克：特斯拉将于2月14日之后停止销售FSD一次性买断方案，此后，FSD将仅以月度订阅方式提供。",
+          "url": "https://flash.jin10.com/detail/20260114143258552800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
           "title": "特斯拉高管朱晓彤获超52万股期权",
           "url": "https://www.toutiao.com/trending/7594379136919994410/",
           "source": "今日头条",
@@ -2070,48 +2270,65 @@
       ]
     },
     {
-      "keyword_group": "新能源汽车 电动汽车 智能驾驶",
-      "match_count": 3,
+      "keyword_group": "基础设施 基建 地铁 高铁",
+      "match_count": 4,
       "titles": [
         {
-          "title": "【2025年汽车产销量再创历史新高 连续17年稳居全球第一】中国汽车工业协会今天（14日）发布的最新数据显示，2025年，我国汽车行业继续展现出强大的发展韧性和活力，多项经济指标再创新高。2025年，汽车产销量分别为3453.1万辆和3440万辆，同比分别增长10.4%和9.4%，产销量再创历史新高，连续17年稳居全球第一。新动能加快释放，新能源汽车产销量超1600万辆，其中国内新车销量占比超50%，成为我国汽车市场主导力量。在对外贸易方面，呈现出较强韧性，汽车出口超700万辆，出口规模再上新台阶。其中，新能源汽车出口261.5万辆，同比增长1倍。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3036701",
-          "source": "华尔街见闻-快讯",
+          "title": "有人在地铁车厢内牵马？马主人回应",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%89%E4%BA%BA%E5%9C%A8%E5%9C%B0%E9%93%81%E8%BD%A6%E5%8E%A2%E5%86%85%E7%89%B5%E9%A9%AC%EF%BC%9F%E9%A9%AC%E4%B8%BB%E4%BA%BA%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "商务部通报中欧电动汽车案磋商进展，「有必要向中国出口商提供关于价格承诺的通用指导」，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1994094829399982350",
-          "source": "知乎",
-          "ranks": [
-            10,
-            20
+            28,
+            24,
+            26,
+            30,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时58分 ~ 11时03分]"
+          "appearance_count": 7,
+          "time_info": "[01时19分 ~ 05时13分]"
         },
         {
-          "title": "周二（1月13日），彭博电动汽车价格回报指数涨0.28%，报3619.10点，亚太早盘持续走高，北京时间13:00过后逐步回吐涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3036403",
-          "source": "华尔街见闻-快讯",
+          "title": "盲人姑娘独坐地铁 无数友善的手伸来",
+          "url": "https://www.baidu.com/s?wd=%E7%9B%B2%E4%BA%BA%E5%A7%91%E5%A8%98%E7%8B%AC%E5%9D%90%E5%9C%B0%E9%93%81+%E6%97%A0%E6%95%B0%E5%8F%8B%E5%96%84%E7%9A%84%E6%89%8B%E4%BC%B8%E6%9D%A5",
+          "source": "百度热搜",
           "ranks": [
+            22,
+            20,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时39分 ~ 15时18分]"
+        },
+        {
+          "title": "南信合高铁项目或年内开工",
+          "url": "https://www.toutiao.com/trending/7594662307071754278/",
+          "source": "今日头条",
+          "ranks": [
+            14,
             15
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时03分 ~ 12时40分]"
+        },
+        {
+          "title": "美国研究重建委内瑞拉基础设施 电网或成优先议题",
+          "url": "https://flash.jin10.com/detail/20260114063448682800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时13分"
+          "time_info": "07时12分"
         }
       ]
     },
     {
       "keyword_group": "考研 考公 国考",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "2026国考成绩查询",
@@ -2119,11 +2336,12 @@
           "source": "抖音",
           "ranks": [
             2,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时58分 ~ 14时21分]"
+          "appearance_count": 8,
+          "time_info": "[08时58分 ~ 15时18分]"
         },
         {
           "title": "2026国考成绩查询",
@@ -2140,6 +2358,17 @@
           "time_info": "[00时19分 ~ 03时14分]"
         },
         {
+          "title": "我的国考出分时刻",
+          "url": "https://www.douyin.com/hot/2366898",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
           "title": "国考",
           "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%80%83&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -2149,6 +2378,88 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大学生 毕业生",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "大学生主播，随流量漂浮",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32368325",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            4,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时19分 ~ 15时18分]"
+        },
+        {
+          "title": "安庆女大学生遇害案宣判：前男友故意杀人被判死刑，当庭上诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31823450",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时19分 ~ 11时03分]"
+        },
+        {
+          "title": "大学生宿舍爆改密室逃脱",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%AE%BF%E8%88%8D%E7%88%86%E6%94%B9%E5%AF%86%E5%AE%A4%E9%80%83%E8%84%B1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "当代大学生回家过年现状",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BD%93%E4%BB%A3%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4%E7%8E%B0%E7%8A%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房地产 房价 楼市 LPR",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "太子集团在柬埔寨的房地产项目被禁止销售",
+          "url": "https://news.ifeng.com/c/8psqNg8tozg",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时19分 ~ 11时03分]"
+        },
+        {
+          "title": "房贷贴息呼声再起，“1年700亿可撬动280万亿居民房地产资产”？银行业内：可行性很低",
+          "url": "https://www.cls.cn/detail/2257323",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         }
       ]
     },
@@ -2208,58 +2519,9 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大学生 毕业生",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "大学生主播，随流量漂浮",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32368325",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            4,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时19分 ~ 14时21分]"
-        },
-        {
-          "title": "安庆女大学生遇害案宣判：前男友故意杀人被判死刑，当庭上诉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31823450",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时19分 ~ 11时03分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "房地产 房价 楼市 LPR",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "太子集团在柬埔寨的房地产项目被禁止销售",
-          "url": "https://news.ifeng.com/c/8psqNg8tozg",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时19分 ~ 11时03分]"
         }
       ]
     },
