@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T07:12:40.100050+08:00",
-  "total_titles_processed": 712,
+  "generated_at": "2026-01-14T08:59:06.933829+08:00",
+  "total_titles_processed": 856,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 35,
+      "match_count": 38,
       "titles": [
         {
           "title": "核心通胀降温，美股指集体高开，日元跌至159，现货白银逼近89美元，伊朗局势提振油价",
@@ -188,6 +188,17 @@
           "time_info": "03时14分"
         },
         {
+          "title": "法院文件显示，特朗普政府寻求撤回一项对下级法院裁决的上诉。该裁决此前阻止了一项行政命令，即要求各州必须配合移民执法，方可获得数十亿美元的交通运输资金。",
+          "url": "https://flash.jin10.com/detail/20260114081827832800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
           "title": "美国1月EIA当年布伦特原油均价预期 55.87美元/千立方英尺，前值68.91美元/千立方英尺。",
           "url": "https://flash.jin10.com/detail/20260114010402283800",
           "source": "金十数据",
@@ -249,7 +260,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -315,7 +326,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -359,7 +370,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -381,9 +392,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "快手：建议发行美元及人民币优先票据",
+          "url": "https://wallstreetcn.com/livenews/3036479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
         },
         {
           "title": "消息人士：美国百货公司和商业地产控股公司Saks Global预计将“很快”申请破产，正接近在申请破产前敲定一项17.5亿美元的融资方案。即将与由Pentwater和Bracebridge牵头的放贷方财团达成融资协议。",
@@ -406,25 +428,24 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "现货白银日内涨超1.00%，现报87.80美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260114073345784800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
         }
       ]
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 24,
+      "match_count": 30,
       "titles": [
-        {
-          "title": "美国12月CPI同比增长2.7% 三大期指集体走高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2256676",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 07时12分]"
-        },
         {
           "title": "核心通胀降温！美国12月核心CPI涨幅2.6%，持平四年来最低水平，CPI同比上涨2.7%符合预期",
           "url": "https://wallstreetcn.com/articles/3763207",
@@ -432,11 +453,36 @@
           "ranks": [
             10,
             9,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时19分 ~ 07时12分]"
+          "appearance_count": 11,
+          "time_info": "[01时19分 ~ 08时59分]"
+        },
+        {
+          "title": "美国12月CPI同比增长2.7% 三大期指集体走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2256676",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时19分 ~ 08时59分]"
+        },
+        {
+          "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
+          "url": "https://wallstreetcn.com/articles/3763167",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时58分 ~ 08时59分]"
         },
         {
           "title": "美通胀降温未改降息预期，摩根大通领跌金融股，日元跌至159，比特币年内新高",
@@ -445,7 +491,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -492,6 +538,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "“全力支持”鲍威尔！多国央行发表联合声明，加央行行长：他“体现了公共服务的最高水平”",
+          "url": "https://wallstreetcn.com/articles/3763179",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时12分 ~ 08时59分]"
         },
         {
           "title": "美国总统特朗普：我希望美联储主席根据好消息而决定降息。 以往，利率就因良好的数据而下跌。 当市场上涨时，美联储应该降低利率。",
@@ -544,6 +602,19 @@
           "time_info": "[02时20分 ~ 03时14分]"
         },
         {
+          "title": "今晚美国CPI：政府停摆扰动消退，核心通胀或回到2.7%，但反弹才刚开始？",
+          "url": "https://wallstreetcn.com/articles/3763162",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 08时59分]"
+        },
+        {
           "title": "两年期美债收益率跌超1个基点，美国CPI数据出炉时显著跳水",
           "url": "https://wallstreetcn.com/livenews/3036390",
           "source": "华尔街见闻-快讯",
@@ -581,18 +652,6 @@
           "time_info": "[05时13分 ~ 06时13分]"
         },
         {
-          "title": "今晚美国CPI：政府停摆扰动消退，核心通胀或回到2.7%，但反弹才刚开始？",
-          "url": "https://wallstreetcn.com/articles/3763162",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 07时12分]"
-        },
-        {
           "title": "美国12月CPI通胀数据要点总结：特朗普称鲍威尔有机会降息",
           "url": "https://wallstreetcn.com/livenews/3036315",
           "source": "华尔街见闻-快讯",
@@ -603,6 +662,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时20分 ~ 02时20分]"
+        },
+        {
+          "title": "多国央行行长力挺鲍威尔",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E5%A4%AE%E8%A1%8C%E8%A1%8C%E9%95%BF%E5%8A%9B%E6%8C%BA%E9%B2%8D%E5%A8%81%E5%B0%94",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时58分 ~ 08时59分]"
         },
         {
           "title": "美国CPI通胀报告并给德债带来明显影响，30年期德债收益率涨超1个基点",
@@ -627,15 +697,26 @@
           "time_info": "03时14分"
         },
         {
-          "title": "“全力支持”鲍威尔！多国央行发表联合声明，加央行行长：他“体现了公共服务的最高水平”",
-          "url": "https://wallstreetcn.com/articles/3763179",
-          "source": "华尔街见闻",
+          "title": "中金：通胀温和 但美联储1月仍不会降息",
+          "url": "https://wallstreetcn.com/livenews/3036503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "中信证券：仍预计美联储今年1月暂停降息",
+          "url": "https://flash.jin10.com/detail/20260114081957323800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时12分"
+          "time_info": "08时59分"
         },
         {
           "title": "美联储穆萨莱姆：通胀风险正在缓和 目前没有进一步降息的必要",
@@ -647,6 +728,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        },
+        {
+          "title": "中金：通胀温和，但美联储1月仍不会降息",
+          "url": "https://flash.jin10.com/detail/20260114081308360800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "中国央行副行长邹澜：加速金融科技创新赋能 扎实做好金融“五篇大文章”",
+          "url": "https://wallstreetcn.com/livenews/3036495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
         },
         {
           "title": "美国CPI发布日+华尔街大行拉开季度财报序幕之际，标普500指数收跌13.53点，跌幅0.19%，报6963.74点。 道琼斯工业平均指数收跌398.21点，跌幅0.80%，报49191.99点。 纳斯达克综合指数（纳指）收跌24.032点，跌幅0.10%，报23709.873点。 纳斯达克100指数收跌45.711点，跌幅0.18%，报25741.952点。",
@@ -677,7 +780,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -696,7 +799,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "事关AI应用、GEO概念，上市公司密集回应",
@@ -720,8 +823,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 07时12分]"
+          "appearance_count": 12,
+          "time_info": "[00时19分 ~ 08时59分]"
         },
         {
           "title": "张文宏不支持把 AI 引入病历系统，恐造成医生诊断能力缺失，这种担忧是否合理？在其他专业领域也类似么？",
@@ -765,8 +868,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 07时12分]"
+          "appearance_count": 12,
+          "time_info": "[00时19分 ~ 08时59分]"
         },
         {
           "title": "中国核聚变装置融入AI技术",
@@ -783,6 +886,17 @@
           "time_info": "[00时19分 ~ 06时13分]"
         },
         {
+          "title": "国内首起 AI 涉黄案开发者获刑，开发者需要承担哪些法律责任？用户使用此类 AI 需担责吗？",
+          "url": "https://www.zhihu.com/question/1994009798958657948",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时58分 ~ 08时59分]"
+        },
+        {
           "title": "AI应用概念股暴涨背后：“变现”和“放量落地”之年要来了？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32368064",
           "source": "澎湃新闻",
@@ -792,6 +906,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时19分 ~ 03时14分]"
+        },
+        {
+          "title": "Meta拟将AI智能眼镜产能翻倍 年产量或直冲2000万副",
+          "url": "https://www.cls.cn/detail/2256809",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时58分 ~ 08时59分]"
         },
         {
           "title": "Salesforce发布Slack的升级版功能Slackbot，由Anthropic的AI模型提供支持。",
@@ -828,6 +953,17 @@
           "time_info": "00时19分"
         },
         {
+          "title": "中信证券：AI医疗开启商业化，加速重构十万亿级医药市场",
+          "url": "https://wallstreetcn.com/livenews/3036504",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
           "title": "市场消息：人工智能芯片初创公司Etched融资5亿美元。在由Stripes领投的一轮融资中，Etched的估值达到50亿美元。",
           "url": "https://flash.jin10.com/detail/20260114045757642800",
           "source": "金十数据",
@@ -859,6 +995,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        },
+        {
+          "title": "银河证券：生成式搜索兴起，AI应用催化密集",
+          "url": "https://wallstreetcn.com/livenews/3036486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
         },
         {
           "title": "赛默飞CEO：公司将积极部署先进的人工智能能力，以进一步降低成本。",
@@ -896,6 +1043,192 @@
       ]
     },
     {
+      "keyword_group": "半导体 芯片 集成电路",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美国批准向中国出口英伟达H200芯片",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%89%B9%E5%87%86%E5%90%91%E4%B8%AD%E5%9B%BD%E5%87%BA%E5%8F%A3%E8%8B%B1%E4%BC%9F%E8%BE%BEH200%E8%8A%AF%E7%89%87",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时58分 ~ 08时59分]"
+        },
+        {
+          "title": "美放宽英伟达H200芯片对华出口监管",
+          "url": "https://www.toutiao.com/trending/7594065792736559140/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时58分 ~ 08时59分]"
+        },
+        {
+          "title": "美国放宽对英伟达H200芯片出口中国的管制",
+          "url": "https://wallstreetcn.com/livenews/3036434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "美国放宽对英伟达H200芯片出口中国的管制",
+          "url": "https://flash.jin10.com/detail/20260114061913769800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "市场消息：韩美半导体从SK海力士获得96.5亿韩元合同。",
+          "url": "https://flash.jin10.com/detail/20260114074831016800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英伟达 台积电 AMD 高通",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "英伟达低位反弹，涨幅扩大至超过1%，刷新日高，逼近187美元。",
+          "url": "https://wallstreetcn.com/livenews/3036314",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 02时20分]"
+        },
+        {
+          "title": "台积电被曝或在美增设5个厂，岛内舆论极度愤慨",
+          "url": "https://news.ifeng.com/c/8ptnk04I4m4",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时58分 ~ 08时59分]"
+        },
+        {
+          "title": "英伟达维持超过0.4%的涨幅，持稳于日高185.80美元附近。",
+          "url": "https://wallstreetcn.com/livenews/3036311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 02时20分]"
+        },
+        {
+          "title": "为“换关税”，台积电被爆或在美增设5厂，引发岛内舆论极度愤慨与担忧",
+          "url": "https://wallstreetcn.com/livenews/3036505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "英伟达(NVDA.O)涨幅扩大至1%。",
+          "url": "https://flash.jin10.com/detail/20260114005201666800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "就业 裁员 招聘",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "白宫新闻秘书Leavitt：预计福特汽车今天将宣布一些消息。 预计福特将宣布关于扩大就业和燃油卡车的信息。",
+          "url": "https://wallstreetcn.com/livenews/3036316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 02时20分]"
+        },
+        {
+          "title": "为什么裁员很少听说过裁管理层的？",
+          "url": "https://www.zhihu.com/question/863797329",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时58分 ~ 08时59分]"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：预计福特汽车(F.N)将于今日发布公告，福特宣布增加就业和生产天然气。",
+          "url": "https://flash.jin10.com/detail/20260114005446089800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时20分"
+        },
+        {
+          "title": "美国总统特朗普：机器人将成为一股重要力量，并将有助于就业。",
+          "url": "https://flash.jin10.com/detail/20260114074548582800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "美国圣路易联储主席Musalem：那些美联储主席候选人都是高度合格的。 预计下一任主席将遵守双重职责（国会山批准的实现充分就业+实现价格稳定）。",
+          "url": "https://wallstreetcn.com/livenews/3036273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "苹果 iPhone",
       "match_count": 4,
       "titles": [
@@ -921,8 +1254,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 07时12分]"
+          "appearance_count": 12,
+          "time_info": "[00时19分 ~ 08时59分]"
         },
         {
           "title": "发布15年后iPhone 4突然爆火",
@@ -952,79 +1285,84 @@
       ]
     },
     {
-      "keyword_group": "英伟达 台积电 AMD 高通",
+      "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
       "match_count": 3,
       "titles": [
         {
-          "title": "英伟达低位反弹，涨幅扩大至超过1%，刷新日高，逼近187美元。",
-          "url": "https://wallstreetcn.com/livenews/3036314",
-          "source": "华尔街见闻-快讯",
+          "title": "前比亚迪老将赵长江官宣加入智界，曾放言鸿蒙智行 MPV「三年内无对手」，能做到吗？会给市场带来什么影响？",
+          "url": "https://www.zhihu.com/question/1994407929697236628",
+          "source": "知乎",
           "ranks": [
-            9,
-            17
+            18,
+            14,
+            13,
+            10,
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 02时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时19分 ~ 08时59分]"
         },
         {
-          "title": "英伟达维持超过0.4%的涨幅，持稳于日高185.80美元附近。",
-          "url": "https://wallstreetcn.com/livenews/3036311",
-          "source": "华尔街见闻-快讯",
+          "title": "特斯拉计划就加州工厂种族骚扰案与监管机构进行和解谈判",
+          "url": "https://flash.jin10.com/detail/20260114084017635800",
+          "source": "金十数据",
           "ranks": [
-            11,
-            19
+            2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 02时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
         },
         {
-          "title": "英伟达(NVDA.O)涨幅扩大至1%。",
-          "url": "https://flash.jin10.com/detail/20260114005201666800",
+          "title": "美国总统特朗普：我听说氢燃料汽车的测试结果不太理想。",
+          "url": "https://flash.jin10.com/detail/20260114033614703800",
           "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时20分"
+          "time_info": "04时14分"
         }
       ]
     },
     {
-      "keyword_group": "就业 裁员 招聘",
+      "keyword_group": "考研 考公 国考",
       "match_count": 3,
       "titles": [
         {
-          "title": "白宫新闻秘书Leavitt：预计福特汽车今天将宣布一些消息。 预计福特将宣布关于扩大就业和燃油卡车的信息。",
-          "url": "https://wallstreetcn.com/livenews/3036316",
-          "source": "华尔街见闻-快讯",
+          "title": "2026国考成绩查询",
+          "url": "https://s.weibo.com/weibo?q=%232026%E5%9B%BD%E8%80%83%E6%88%90%E7%BB%A9%E6%9F%A5%E8%AF%A2%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
           "ranks": [
-            7,
-            15
+            5,
+            4,
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 03时14分]"
+        },
+        {
+          "title": "2026国考成绩查询",
+          "url": "https://www.douyin.com/hot/2367000",
+          "source": "抖音",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时20分 ~ 02时20分]"
+          "time_info": "[08时58分 ~ 08时59分]"
         },
         {
-          "title": "白宫新闻秘书莱维特：预计福特汽车(F.N)将于今日发布公告，福特宣布增加就业和生产天然气。",
-          "url": "https://flash.jin10.com/detail/20260114005446089800",
-          "source": "金十数据",
+          "title": "国考",
+          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%80%83&t=31&band_rank=9&Refer=top",
+          "source": "微博",
           "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "美国圣路易联储主席Musalem：那些美联储主席候选人都是高度合格的。 预计下一任主席将遵守双重职责（国会山批准的实现充分就业+实现价格稳定）。",
-          "url": "https://wallstreetcn.com/livenews/3036273",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1058,100 +1396,37 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         }
       ]
     },
     {
-      "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
+      "keyword_group": "新能源汽车 电动汽车 智能驾驶",
       "match_count": 2,
       "titles": [
         {
-          "title": "前比亚迪老将赵长江官宣加入智界，曾放言鸿蒙智行 MPV「三年内无对手」，能做到吗？会给市场带来什么影响？",
-          "url": "https://www.zhihu.com/question/1994407929697236628",
+          "title": "商务部通报中欧电动汽车案磋商进展，「有必要向中国出口商提供关于价格承诺的通用指导」，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1994094829399982350",
           "source": "知乎",
           "ranks": [
-            18,
-            14,
-            13,
-            10,
-            4
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 07时12分]"
+          "appearance_count": 2,
+          "time_info": "[08时58分 ~ 08时59分]"
         },
         {
-          "title": "美国总统特朗普：我听说氢燃料汽车的测试结果不太理想。",
-          "url": "https://flash.jin10.com/detail/20260114033614703800",
-          "source": "金十数据",
+          "title": "周二（1月13日），彭博电动汽车价格回报指数涨0.28%，报3619.10点，亚太早盘持续走高，北京时间13:00过后逐步回吐涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3036403",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美国放宽对英伟达H200芯片出口中国的管制",
-          "url": "https://wallstreetcn.com/livenews/3036434",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "美国放宽对英伟达H200芯片出口中国的管制",
-          "url": "https://flash.jin10.com/detail/20260114061913769800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "考研 考公 国考",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "2026国考成绩查询",
-          "url": "https://s.weibo.com/weibo?q=%232026%E5%9B%BD%E8%80%83%E6%88%90%E7%BB%A9%E6%9F%A5%E8%AF%A2%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            4,
-            2,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 03时14分]"
-        },
-        {
-          "title": "国考",
-          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%80%83&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "time_info": "06时13分"
         }
       ]
     },
@@ -1170,8 +1445,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 07时12分]"
+          "appearance_count": 12,
+          "time_info": "[00时19分 ~ 08时59分]"
         },
         {
           "title": "安庆女大学生遇害案宣判：前男友故意杀人被判死刑，当庭上诉",
@@ -1182,8 +1457,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 07时12分]"
+          "appearance_count": 12,
+          "time_info": "[00时19分 ~ 08时59分]"
         }
       ]
     },
@@ -1199,25 +1474,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 07时12分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源汽车 电动汽车 智能驾驶",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周二（1月13日），彭博电动汽车价格回报指数涨0.28%，报3619.10点，亚太早盘持续走高，北京时间13:00过后逐步回吐涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3036403",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时13分"
+          "appearance_count": 12,
+          "time_info": "[00时19分 ~ 08时59分]"
         }
       ]
     },
@@ -1232,11 +1490,12 @@
           "ranks": [
             9,
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 07时12分]"
+          "appearance_count": 12,
+          "time_info": "[00时19分 ~ 08时59分]"
         }
       ]
     },
@@ -1249,11 +1508,12 @@
           "url": "https://wallstreetcn.com/articles/3763139",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 07时12分]"
+          "appearance_count": 12,
+          "time_info": "[00时19分 ~ 08时59分]"
         }
       ]
     }
