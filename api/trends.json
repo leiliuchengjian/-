@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T12:40:07.714812+08:00",
-  "total_titles_processed": 1119,
+  "generated_at": "2026-01-14T13:17:25.081758+08:00",
+  "total_titles_processed": 1179,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 54,
+      "match_count": 56,
       "titles": [
         {
           "title": "核心通胀降温，美股指集体高开，日元跌至159，现货白银逼近89美元，伊朗局势提振油价",
@@ -22,15 +22,15 @@
           "time_info": "[00时19分 ~ 06时13分]"
         },
         {
-          "title": "现货白银突破91美元",
-          "url": "https://flash.jin10.com/detail/20260114121018563800",
-          "source": "金十数据",
+          "title": "人民币现金收付新规下月起正式实施",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E5%B8%81%E7%8E%B0%E9%87%91%E6%94%B6%E4%BB%98%E6%96%B0%E8%A7%84%E4%B8%8B%E6%9C%88%E8%B5%B7%E6%AD%A3%E5%BC%8F%E5%AE%9E%E6%96%BD",
+          "source": "百度热搜",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时40分"
+          "time_info": "13时17分"
         },
         {
           "title": "中国12月以美元计算贸易帐 1141.4亿美元，预期1136亿美元，前值1116.8亿美元。",
@@ -39,7 +39,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         },
@@ -50,9 +50,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
+        },
+        {
+          "title": "现货黄金日内大涨50美元，再创纪录新高",
+          "url": "https://flash.jin10.com/detail/20260114130323139800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         },
         {
           "title": "中国12月以美元计算进口年率 5.7%，预期0.9%，前值1.90%。",
@@ -61,9 +72,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
+        },
+        {
+          "title": "现货白银突破91美元",
+          "url": "https://flash.jin10.com/detail/20260114121018563800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 13时17分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9795元，较周一夜盘收盘跌62点。成交量403.81亿美元。",
@@ -162,6 +185,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时14分 ~ 04时14分]"
+        },
+        {
+          "title": "现货白银站上91美元/盎司，日内涨4.7%。",
+          "url": "https://wallstreetcn.com/livenews/3036647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 13时17分]"
+        },
+        {
+          "title": "现货钯金上涨3.1%报每盎司1,896.53美元。",
+          "url": "https://wallstreetcn.com/livenews/3036645",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 13时17分]"
         },
         {
           "title": "特朗普：会乐见油价在每桶53美元",
@@ -304,7 +351,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         },
@@ -331,17 +378,6 @@
           "time_info": "01时20分"
         },
         {
-          "title": "现货白银站上91美元/盎司，日内涨4.7%。",
-          "url": "https://wallstreetcn.com/livenews/3036647",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时40分"
-        },
-        {
           "title": "布伦特原油日内涨幅达3.0%，报65.79美元/桶，哈萨克斯坦油轮在里海遭无人机袭击引发爆炸。",
           "url": "https://wallstreetcn.com/livenews/3036289",
           "source": "华尔街见闻-快讯",
@@ -351,17 +387,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
-        },
-        {
-          "title": "现货钯金上涨3.1%报每盎司1,896.53美元。",
-          "url": "https://wallstreetcn.com/livenews/3036645",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时40分"
         },
         {
           "title": "中国12月份以人民币计价出口同比增长5.2%，进口同比增长4.4%，贸易顺差8,087.7亿元人民币。",
@@ -381,7 +406,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         },
@@ -447,7 +472,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         },
@@ -590,7 +615,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         },
@@ -620,7 +645,7 @@
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "核心通胀降温！美国12月核心CPI涨幅2.6%，持平四年来最低水平，CPI同比上涨2.7%符合预期",
@@ -634,8 +659,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时19分 ~ 12时40分]"
+          "appearance_count": 15,
+          "time_info": "[01时19分 ~ 13时17分]"
         },
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -645,8 +670,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时58分 ~ 12时40分]"
+          "appearance_count": 6,
+          "time_info": "[08时58分 ~ 13时17分]"
         },
         {
           "title": "美国12月CPI同比增长2.7% 三大期指集体走高 | 今夜看点",
@@ -670,8 +695,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时12分 ~ 12时40分]"
+          "appearance_count": 7,
+          "time_info": "[07时12分 ~ 13时17分]"
         },
         {
           "title": "今晚美国CPI：政府停摆扰动消退，核心通胀或回到2.7%，但反弹才刚开始？",
@@ -684,8 +709,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 12时40分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 13时17分]"
         },
         {
           "title": "美通胀降温未改降息预期，摩根大通领跌金融股，日元跌至159，比特币年内新高",
@@ -719,6 +744,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "韩国央行据悉周五将与商业银行会谈 讨论超额外汇准备金相关问题",
+          "url": "https://wallstreetcn.com/livenews/3036672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         },
         {
           "title": "韩国12月进口物价指数年率 0.3%，前值2.20%。",
@@ -793,6 +829,18 @@
           "time_info": "[02时20分 ~ 03时14分]"
         },
         {
+          "title": "美12月CPI什么信号？华尔街对本月降息不抱期望，“新美联储通讯社”称联储观望态度不大可能变",
+          "url": "https://wallstreetcn.com/articles/3763221",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时03分 ~ 13时17分]"
+        },
+        {
           "title": "两年期美债收益率跌超1个基点，美国CPI数据出炉时显著跳水",
           "url": "https://wallstreetcn.com/livenews/3036390",
           "source": "华尔街见闻-快讯",
@@ -818,16 +866,16 @@
           "time_info": "[03时14分 ~ 05时13分]"
         },
         {
-          "title": "美12月CPI什么信号？华尔街对本月降息不抱期望，“新美联储通讯社”称联储观望态度不大可能变",
-          "url": "https://wallstreetcn.com/articles/3763221",
-          "source": "华尔街见闻",
+          "title": "多国央行行长力挺鲍威尔",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E5%A4%AE%E8%A1%8C%E8%A1%8C%E9%95%BF%E5%8A%9B%E6%8C%BA%E9%B2%8D%E5%A8%81%E5%B0%94",
+          "source": "百度热搜",
           "ranks": [
-            10,
-            8
+            30,
+            27
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时03分 ~ 12时40分]"
+          "time_info": "[08时58分 ~ 13时17分]"
         },
         {
           "title": "美元指数涨约0.3%，美国CPI数据发布后强势V型反转",
@@ -842,6 +890,18 @@
           "time_info": "[05时13分 ~ 06时13分]"
         },
         {
+          "title": "日本央行行长植田和男：如果经济前景实现，将继续加息。 正确的政策调整将带来更长期的经济增长。 薪资和物价可能继续温和上升。",
+          "url": "https://wallstreetcn.com/livenews/3036653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 13时17分]"
+        },
+        {
           "title": "美国12月CPI通胀数据要点总结：特朗普称鲍威尔有机会降息",
           "url": "https://wallstreetcn.com/livenews/3036315",
           "source": "华尔街见闻-快讯",
@@ -854,26 +914,16 @@
           "time_info": "[01时20分 ~ 02时20分]"
         },
         {
-          "title": "多国央行行长力挺鲍威尔",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E5%A4%AE%E8%A1%8C%E8%A1%8C%E9%95%BF%E5%8A%9B%E6%8C%BA%E9%B2%8D%E5%A8%81%E5%B0%94",
-          "source": "百度热搜",
+          "title": "交易员称，印度央行已在外汇市场抛售美元以支撑卢比汇率。",
+          "url": "https://wallstreetcn.com/livenews/3036649",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            10,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时58分 ~ 08时59分]"
-        },
-        {
-          "title": "日本央行行长植田和男：如果经济前景实现，将继续加息。 正确的政策调整将带来更长期的经济增长。 薪资和物价可能继续温和上升。",
-          "url": "https://wallstreetcn.com/livenews/3036653",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时40分"
+          "time_info": "[12时40分 ~ 13时17分]"
         },
         {
           "title": "美国CPI通胀报告并给德债带来明显影响，30年期德债收益率涨超1个基点",
@@ -931,17 +981,6 @@
           "time_info": "00时19分"
         },
         {
-          "title": "交易员称，印度央行已在外汇市场抛售美元以支撑卢比汇率。",
-          "url": "https://wallstreetcn.com/livenews/3036649",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时40分"
-        },
-        {
           "title": "中金：通胀温和，但美联储1月仍不会降息",
           "url": "https://flash.jin10.com/detail/20260114081308360800",
           "source": "金十数据",
@@ -984,6 +1023,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时03分"
+        },
+        {
+          "title": "日本央行行长植田和男：如果经济和物价发展符合预期，工资和物价温和上涨，将继续加息。",
+          "url": "https://flash.jin10.com/detail/20260114122458716800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         },
         {
           "title": "印尼央行：将继续参与外汇市场，以确保印尼盾走势反映基本面和健康的市场机制。",
@@ -1077,7 +1127,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "事关AI应用、GEO概念，上市公司密集回应",
@@ -1100,11 +1150,12 @@
             3,
             25,
             23,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时19分 ~ 12时40分]"
+          "appearance_count": 16,
+          "time_info": "[00时19分 ~ 13时17分]"
         },
         {
           "title": "张文宏不支持把 AI 引入病历系统，恐造成医生诊断能力缺失，这种担忧是否合理？在其他专业领域也类似么？",
@@ -1146,11 +1197,12 @@
             19,
             14,
             16,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时19分 ~ 12时40分]"
+          "appearance_count": 16,
+          "time_info": "[00时19分 ~ 13时17分]"
         },
         {
           "title": "国内首起 AI 涉黄案开发者获刑，开发者需要承担哪些法律责任？用户使用此类 AI 需担责吗？",
@@ -1158,11 +1210,12 @@
           "source": "知乎",
           "ranks": [
             1,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时58分 ~ 12时40分]"
+          "appearance_count": 6,
+          "time_info": "[08时58分 ~ 13时17分]"
         },
         {
           "title": "中国核聚变装置融入AI技术",
@@ -1185,11 +1238,12 @@
           "ranks": [
             13,
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时58分 ~ 12时40分]"
+          "appearance_count": 6,
+          "time_info": "[08时58分 ~ 13时17分]"
         },
         {
           "title": "AI应用概念股暴涨背后：“变现”和“放量落地”之年要来了？",
@@ -1208,11 +1262,12 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时03分 ~ 12时40分]"
+          "appearance_count": 4,
+          "time_info": "[11时03分 ~ 13时17分]"
         },
         {
           "title": "张文宏拒绝将 AI 引入医院病历系统，称会影响医生的诊断思维，如何评价？ 医疗诊断中应该怎么用 AI？",
@@ -1223,8 +1278,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时03分 ~ 12时40分]"
+          "appearance_count": 4,
+          "time_info": "[11时03分 ~ 13时17分]"
+        },
+        {
+          "title": "海关总署：我国人工智能算力需求旺盛，去年电脑零部件进口增长20%",
+          "url": "https://wallstreetcn.com/livenews/3036640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 13时17分]"
         },
         {
           "title": "Salesforce发布Slack的升级版功能Slackbot，由Anthropic的AI模型提供支持。",
@@ -1283,6 +1350,17 @@
           "time_info": "05时13分"
         },
         {
+          "title": "韩服登顶账号是AI操作的吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E7%99%BB%E9%A1%B6%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E6%93%8D%E4%BD%9C%E7%9A%84%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
           "title": "人工智能（AI）芯片初创公司Etched融资5亿美元，将挑战英伟达。",
           "url": "https://wallstreetcn.com/livenews/3036406",
           "source": "华尔街见闻-快讯",
@@ -1311,18 +1389,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时40分"
-        },
-        {
-          "title": "海关总署：我国人工智能算力需求旺盛，去年电脑零部件进口增长20%",
-          "url": "https://wallstreetcn.com/livenews/3036640",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         },
@@ -1344,7 +1411,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         },
@@ -1366,7 +1433,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         },
@@ -1377,7 +1444,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         },
@@ -1464,8 +1531,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时39分 ~ 12时40分]"
+          "appearance_count": 3,
+          "time_info": "[12时39分 ~ 13时17分]"
         },
         {
           "title": "恒生科技指数涨超1%。阿里健康涨超10%，华虹半导体、快手涨超5%。",
@@ -1514,9 +1581,110 @@
       ]
     },
     {
+      "keyword_group": "苹果 iPhone",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "苹果选中Gemini，谷歌登上“4万亿”",
+          "url": "https://wallstreetcn.com/articles/3763115",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 06时13分]"
+        },
+        {
+          "title": "UP主锐评苹果谷歌合作",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时19分 ~ 13时17分]"
+        },
+        {
+          "title": "发布15年后iPhone 4突然爆火",
+          "url": "https://www.toutiao.com/trending/7594676685853691398/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            24,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 07时12分]"
+        },
+        {
+          "title": "苹果、高通争相抢购高端电子级玻璃纤维布",
+          "url": "https://wallstreetcn.com/livenews/3036605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时03分"
+        },
+        {
+          "title": "iPhone18Pro灵动岛或变小",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E7%81%B5%E5%8A%A8%E5%B2%9B%E6%88%96%E5%8F%98%E5%B0%8F%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
+          "title": "iPhone自带堪比打印机的软件",
+          "url": "https://s.weibo.com/weibo?q=iPhone%E8%87%AA%E5%B8%A6%E5%A0%AA%E6%AF%94%E6%89%93%E5%8D%B0%E6%9C%BA%E7%9A%84%E8%BD%AF%E4%BB%B6&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时19分"
+        },
+        {
+          "title": "iPhone18Pro新爆料",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E6%96%B0%E7%88%86%E6%96%99%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        }
+      ]
+    },
+    {
       "keyword_group": "英伟达 台积电 AMD 高通",
       "match_count": 6,
       "titles": [
+        {
+          "title": "台积电被曝或在美增设5个厂，岛内舆论极度愤慨",
+          "url": "https://news.ifeng.com/c/8ptnk04I4m4",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时58分 ~ 13时17分]"
+        },
         {
           "title": "台积电逐步沦为“美积电” 国台办：只会让台湾更加任由美方宰割",
           "url": "https://wallstreetcn.com/livenews/3036604",
@@ -1527,18 +1695,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时03分"
-        },
-        {
-          "title": "台积电被曝或在美增设5个厂，岛内舆论极度愤慨",
-          "url": "https://news.ifeng.com/c/8ptnk04I4m4",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时58分 ~ 12时40分]"
         },
         {
           "title": "英伟达低位反弹，涨幅扩大至超过1%，刷新日高，逼近187美元。",
@@ -1589,73 +1745,6 @@
       ]
     },
     {
-      "keyword_group": "苹果 iPhone",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "苹果选中Gemini，谷歌登上“4万亿”",
-          "url": "https://wallstreetcn.com/articles/3763115",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 06时13分]"
-        },
-        {
-          "title": "UP主锐评苹果谷歌合作",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时19分 ~ 12时40分]"
-        },
-        {
-          "title": "发布15年后iPhone 4突然爆火",
-          "url": "https://www.toutiao.com/trending/7594676685853691398/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            24,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 07时12分]"
-        },
-        {
-          "title": "苹果、高通争相抢购高端电子级玻璃纤维布",
-          "url": "https://wallstreetcn.com/livenews/3036605",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时03分"
-        },
-        {
-          "title": "iPhone自带堪比打印机的软件",
-          "url": "https://s.weibo.com/weibo?q=iPhone%E8%87%AA%E5%B8%A6%E5%A0%AA%E6%AF%94%E6%89%93%E5%8D%B0%E6%9C%BA%E7%9A%84%E8%BD%AF%E4%BB%B6&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        }
-      ]
-    },
-    {
       "keyword_group": "就业 裁员 招聘",
       "match_count": 5,
       "titles": [
@@ -1669,8 +1758,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时58分 ~ 12时40分]"
+          "appearance_count": 6,
+          "time_info": "[08时58分 ~ 13时17分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：预计福特汽车今天将宣布一些消息。 预计福特将宣布关于扩大就业和燃油卡车的信息。",
@@ -1755,11 +1844,12 @@
           "url": "https://www.baidu.com/s?wd=%E7%9B%B2%E4%BA%BA%E5%A7%91%E5%A8%98%E7%8B%AC%E5%9D%90%E5%9C%B0%E9%93%81+%E6%97%A0%E6%95%B0%E5%8F%8B%E5%96%84%E7%9A%84%E6%89%8B%E4%BC%B8%E6%9D%A5",
           "source": "百度热搜",
           "ranks": [
-            22
+            22,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时39分 ~ 12时40分]"
+          "appearance_count": 3,
+          "time_info": "[12时39分 ~ 13时17分]"
         },
         {
           "title": "美国研究重建委内瑞拉基础设施 电网或成优先议题",
@@ -1831,7 +1921,7 @@
     },
     {
       "keyword_group": "创业板",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "A股成交再创历史天量！创业板跌2%，商业航天集体回调，新“易中天”延续强势，恒指涨近1%，医药股活跃，碳酸锂逆势涨超7%",
@@ -1842,8 +1932,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时19分 ~ 12时40分]"
+          "appearance_count": 16,
+          "time_info": "[00时19分 ~ 13时17分]"
+        },
+        {
+          "title": "A股三大指数涨幅午后收窄，沪指涨幅收窄至0.6%，深成指和创业板指涨幅收窄至1%。",
+          "url": "https://wallstreetcn.com/livenews/3036667",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         },
         {
           "title": "创业板指涨逾2% 上涨个股近4500只",
@@ -1863,7 +1964,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         }
@@ -1873,6 +1974,18 @@
       "keyword_group": "考研 考公 国考",
       "match_count": 3,
       "titles": [
+        {
+          "title": "2026国考成绩查询",
+          "url": "https://www.douyin.com/hot/2367000",
+          "source": "抖音",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时58分 ~ 13时17分]"
+        },
         {
           "title": "2026国考成绩查询",
           "url": "https://s.weibo.com/weibo?q=%232026%E5%9B%BD%E8%80%83%E6%88%90%E7%BB%A9%E6%9F%A5%E8%AF%A2%23&t=31&band_rank=5&Refer=top",
@@ -1886,18 +1999,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时19分 ~ 03时14分]"
-        },
-        {
-          "title": "2026国考成绩查询",
-          "url": "https://www.douyin.com/hot/2367000",
-          "source": "抖音",
-          "ranks": [
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时58分 ~ 12时40分]"
         },
         {
           "title": "国考",
@@ -1921,22 +2022,24 @@
           "url": "https://wallstreetcn.com/livenews/3036656",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 13时17分]"
         },
         {
           "title": "华为手机2025年重返中国市场第一",
           "url": "https://wallstreetcn.com/livenews/3036654",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 13时17分]"
         }
       ]
     },
@@ -1984,8 +2087,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时19分 ~ 12时40分]"
+          "appearance_count": 16,
+          "time_info": "[00时19分 ~ 13时17分]"
         },
         {
           "title": "安庆女大学生遇害案宣判：前男友故意杀人被判死刑，当庭上诉",
@@ -2049,7 +2152,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         }
