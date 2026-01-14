@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T06:13:54.694766+08:00",
-  "total_titles_processed": 704,
+  "generated_at": "2026-01-15T07:11:58.685036+08:00",
+  "total_titles_processed": 734,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 35,
+      "match_count": 38,
       "titles": [
         {
           "title": "贵金属狂欢继续，现货白银史上首次站上92美元关口，铜、锡再创新高！",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时17分 ~ 06时13分]"
+          "appearance_count": 13,
+          "time_info": "[00时17分 ~ 07时11分]"
         },
         {
           "title": "科技股暴跌，美股指跌幅扩大，纳指跌1.5%，金属狂飙，现货白银站上92美元，锡铜新高",
@@ -44,15 +44,26 @@
           "time_info": "[00时17分 ~ 02时20分]"
         },
         {
-          "title": "周三（1月14日）纽约尾盘（周四北京时间05:59），离岸人民币（CNH）兑美元报6.9701元，较周二纽约尾盘涨24点，日内整体交投于6.9783-6.9674元区间。",
-          "url": "https://wallstreetcn.com/livenews/3037322",
-          "source": "华尔街见闻-快讯",
+          "title": "科技股重挫拖累美股，美小盘股指跑赢大盘，白银突破93美元，金银比跌破50",
+          "url": "https://wallstreetcn.com/articles/3763270",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时13分"
+          "time_info": "07时11分"
+        },
+        {
+          "title": "美国财政部：美国财长贝森特在与日本同行会晤中指出“汇率过度波动不可取”，并“强调了稳健制定和沟通货币政策的必要性”。",
+          "url": "https://flash.jin10.com/detail/20260115064025158800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时11分"
         },
         {
           "title": "据Semafor：政府官员表示，美国已达成首笔价值5亿美元的委内瑞拉石油交易。",
@@ -114,6 +125,18 @@
           "time_info": "[04时13分 ~ 05时13分]"
         },
         {
+          "title": "周三（1月14日）纽约尾盘（周四北京时间05:59），离岸人民币（CNH）兑美元报6.9701元，较周二纽约尾盘涨24点，日内整体交投于6.9783-6.9674元区间。",
+          "url": "https://wallstreetcn.com/livenews/3037322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时13分 ~ 07时11分]"
+        },
+        {
           "title": "NYMEX天然气期货跌幅扩大至10%，创最近12周新低，暂报3.1美元/百万英热。",
           "url": "https://wallstreetcn.com/livenews/3037222",
           "source": "华尔街见闻-快讯",
@@ -162,6 +185,30 @@
           "time_info": "[04时13分 ~ 05时13分]"
         },
         {
+          "title": "美、布两油在纽约尾盘短线拉升近1美元。",
+          "url": "https://flash.jin10.com/detail/20260115055503387800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时13分 ~ 07时11分]"
+        },
+        {
+          "title": "纽约期银涨超7%，一度刷新历史高位至93美元上方，纽约铜在亚太时段涨穿6.15美元",
+          "url": "https://wallstreetcn.com/livenews/3037316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时13分 ~ 07时11分]"
+        },
+        {
           "title": "纽约期银突破93美元/盎司，日内涨7.72%。",
           "url": "https://wallstreetcn.com/livenews/3037270",
           "source": "华尔街见闻-快讯",
@@ -184,6 +231,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时13分 ~ 04时13分]"
+        },
+        {
+          "title": "布伦特原油5分钟内上涨1.29美元/桶，报66.21美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3037314",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时13分 ~ 07时11分]"
+        },
+        {
+          "title": "纽约期金涨超0.6%，一度刷新历史高位至4650美元",
+          "url": "https://wallstreetcn.com/livenews/3037313",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时13分 ~ 07时11分]"
         },
         {
           "title": "周三（1月14日），韩元兑美元最终涨0.76%，报1464.70韩元。 北京时间22:00，美国财行贝森特置评韩元而从1475.40一线飙升至1461.23。",
@@ -245,48 +316,15 @@
           "time_info": "04时13分"
         },
         {
-          "title": "美、布两油在纽约尾盘短线拉升近1美元。",
-          "url": "https://flash.jin10.com/detail/20260115055503387800",
+          "title": "消息人士：软件初创公司Temporal Technologies正洽谈以50亿美元估值筹集新资金，是三个月前融资时估值的两倍。",
+          "url": "https://flash.jin10.com/detail/20260115061951998800",
           "source": "金十数据",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时13分"
-        },
-        {
-          "title": "纽约期银涨超7%，一度刷新历史高位至93美元上方，纽约铜在亚太时段涨穿6.15美元",
-          "url": "https://wallstreetcn.com/livenews/3037316",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时13分"
-        },
-        {
-          "title": "布伦特原油5分钟内上涨1.29美元/桶，报66.21美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3037314",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时13分"
-        },
-        {
-          "title": "纽约期金涨超0.6%，一度刷新历史高位至4650美元",
-          "url": "https://wallstreetcn.com/livenews/3037313",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时13分"
+          "time_info": "07时11分"
         },
         {
           "title": "WTI原油日内涨超2.00%，现报62.33美元/桶。",
@@ -361,7 +399,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -424,8 +462,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时17分 ~ 06时13分]"
+          "appearance_count": 13,
+          "time_info": "[00时17分 ~ 07时11分]"
         },
         {
           "title": "市场消息：七家主要央行、国际清算银行以及40多家金融机构将启动Agora数字跨境支付项目的用户测试。",
@@ -437,17 +475,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
-        },
-        {
-          "title": "周三（1月14日），降息赢家指数跌0.73%，报106.49点。 “特朗普关税输家”指数跌1.70%，报118.18点，早盘爆出美国最高法院再次没有就特朗普关税政策官司做判决前后显著下跌，日内绝大部分时间低位窄幅震荡。 “特朗普金融指数”跌0.86%，报172.60点。 散户抱团概念股指数/迷因股（meme stock）指数跌1.24%，报16.24点。",
-          "url": "https://wallstreetcn.com/livenews/3037319",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时13分"
         },
         {
           "title": "英国央行副行长拉姆斯登：中性利率处于2%-4%区间的中间位置。",
@@ -472,6 +499,17 @@
           "time_info": "[00时17分 ~ 02时20分]"
         },
         {
+          "title": "英加澳韩等8国央行行长罕见声明，日本不跟",
+          "url": "https://news.ifeng.com/c/8put47t4u2M",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时12分 ~ 07时11分]"
+        },
+        {
           "title": "10年期英债收益率创13个月新低，投资者关注英国央行利率前景",
           "url": "https://wallstreetcn.com/livenews/3037245",
           "source": "华尔街见闻-快讯",
@@ -485,15 +523,16 @@
           "time_info": "[02时20分 ~ 04时13分]"
         },
         {
-          "title": "英加澳韩等8国央行行长罕见声明，日本不跟",
-          "url": "https://news.ifeng.com/c/8put47t4u2M",
-          "source": "凤凰网",
+          "title": "周三（1月14日），降息赢家指数跌0.73%，报106.49点。 “特朗普关税输家”指数跌1.70%，报118.18点，早盘爆出美国最高法院再次没有就特朗普关税政策官司做判决前后显著下跌，日内绝大部分时间低位窄幅震荡。 “特朗普金融指数”跌0.86%，报172.60点。 散户抱团概念股指数/迷因股（meme stock）指数跌1.24%，报16.24点。",
+          "url": "https://wallstreetcn.com/livenews/3037319",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            4,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时12分 ~ 06时13分]"
+          "appearance_count": 2,
+          "time_info": "[06时13分 ~ 07时11分]"
         },
         {
           "title": "英国央行副行长：或将像银行存款一样保护稳定币",
@@ -709,8 +748,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时17分 ~ 06时13分]"
+          "appearance_count": 13,
+          "time_info": "[00时17分 ~ 07时11分]"
         },
         {
           "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
@@ -722,8 +761,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时17分 ~ 06时13分]"
+          "appearance_count": 13,
+          "time_info": "[00时17分 ~ 07时11分]"
         },
         {
           "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
@@ -735,8 +774,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时17分 ~ 06时13分]"
+          "appearance_count": 13,
+          "time_info": "[00时17分 ~ 07时11分]"
         },
         {
           "title": "AI查贪官准确率相当高",
@@ -749,8 +788,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时20分 ~ 06时13分]"
+          "appearance_count": 11,
+          "time_info": "[01时20分 ~ 07时11分]"
         },
         {
           "title": "92胜率屠榜,老马AI杀穿韩服",
@@ -760,8 +799,21 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时17分 ~ 06时13分]"
+          "appearance_count": 13,
+          "time_info": "[00时17分 ~ 07时11分]"
+        },
+        {
+          "title": "巴菲特再发警示：AI的危险不亚于核武器",
+          "url": "https://www.cls.cn/detail/2258013",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时19分 ~ 07时11分]"
         },
         {
           "title": "韩服登顶账号是AI操作的吗",
@@ -772,11 +824,12 @@
             20,
             16,
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时17分 ~ 06时13分]"
+          "appearance_count": 13,
+          "time_info": "[00时17分 ~ 07时11分]"
         },
         {
           "title": "【每日收评】沪指冲高回落小幅收跌，两市成交额逼近4万亿，AI应用概念股持续活跃",
@@ -787,20 +840,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时20分 ~ 06时13分]"
-        },
-        {
-          "title": "巴菲特再发警示：AI的危险不亚于核武器",
-          "url": "https://www.cls.cn/detail/2258013",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时19分 ~ 06时13分]"
+          "appearance_count": 11,
+          "time_info": "[01时20分 ~ 07时11分]"
         },
         {
           "title": "浙江用AI抓出贪官",
@@ -808,11 +849,12 @@
           "source": "微博",
           "ranks": [
             27,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时20分 ~ 06时13分]"
+          "appearance_count": 9,
+          "time_info": "[01时20分 ~ 07时11分]"
         },
         {
           "title": "OpenAI：将与Cerebras合作，在我们的平台上新增750兆瓦的超低时延人工智能算力。产能将分多个批次在2028年前上线。",
@@ -975,7 +1017,7 @@
     },
     {
       "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "【焦点复盘】沪指午后跳水一度逼近4100点，商业航天概念分化持续，半导体设备股卷土重来",
@@ -986,19 +1028,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时17分 ~ 06时13分]"
+          "appearance_count": 13,
+          "time_info": "[00时17分 ~ 07时11分]"
         },
         {
-          "title": "高管表示，SK海力士将把其在韩国的新芯片工厂投产时间提前三个月，计划于2027年2月启用。",
-          "url": "https://flash.jin10.com/detail/20260115060044555800",
-          "source": "金十数据",
+          "title": "美国白宫宣布对特定半导体等加征25%关税",
+          "url": "https://wallstreetcn.com/livenews/3037337",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时13分"
+          "time_info": "07时11分"
         },
         {
           "title": "标普500指数跌幅扩大至1%，科技板块跌超1.8%，可选消费板块跌1.7%，电信板块跌1.2%，能源板块涨1.8%。 道指跌267点跌超0.5%，纳指跌348点跌幅1.5%，半导体指数跌1.5%，银行指数跌1.2%。",
@@ -1013,6 +1055,66 @@
           "time_info": "[00时18分 ~ 01时20分]"
         },
         {
+          "title": "高管表示，SK海力士将把其在韩国的新芯片工厂投产时间提前三个月，计划于2027年2月启用。",
+          "url": "https://flash.jin10.com/detail/20260115060044555800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时13分 ~ 07时11分]"
+        },
+        {
+          "title": "白宫：美国总统特朗普可能会针对芯片进口实施更广泛的关税。",
+          "url": "https://wallstreetcn.com/livenews/3037309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时13分 ~ 07时11分]"
+        },
+        {
+          "title": "美国白宫：美国芯片关税不适用于为美国技术供应而进口的芯片。",
+          "url": "https://flash.jin10.com/detail/20260115053459281800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时13分 ~ 07时11分]"
+        },
+        {
+          "title": "美国白宫：特朗普还对某些先进计算芯片征收了25%的关税，例如英伟达H200和AMD MI325X。",
+          "url": "https://flash.jin10.com/detail/20260115053106355800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时13分 ~ 07时11分]"
+        },
+        {
+          "title": "美国白宫：特朗普近期可能会对半导体及其衍生产品的进口征收更广泛的关税。",
+          "url": "https://flash.jin10.com/detail/20260115052805367800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时13分 ~ 07时11分]"
+        },
+        {
           "title": "标普500指数初步收跌0.6%，可选消费板块跌1.8%，科技板块跌1.5%，电信板块跌0.6%，必需品板块涨1.1%，能源板块涨2.2%。 纳斯达克100指数初步收跌1.1%，成分股中，Applovin跌7.8%，Intuit跌6.4%，Shopify跌5.9%，博通跌4.1%，拼多多跌3.8%，德州仪器涨2.5%，英特尔涨3%，卡夫亨氏涨3.4%，Strategy涨3.8%。 亚马逊初步收跌2.4%，微软跌2.4%，英伟达跌1.5%，思科跌1.4%，领跌道指成分股，雪佛龙、强生、Merck则涨超2%。 半导体指数跌0.6%，银行指数跌0.7%。",
           "url": "https://wallstreetcn.com/livenews/3037293",
           "source": "华尔街见闻-快讯",
@@ -1022,6 +1124,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
+        },
+        {
+          "title": "SK海力士America CEO：公司位于韩国Yongin（龙仁市）的芯片设施将提前三个月成立。 2027年2月份，公司将在当地成立第一家工厂。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3037329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时11分"
         },
         {
           "title": "美国总统特朗普：签署了一项行动，将允许我们对芯片销售征收25%的关税。",
@@ -1035,48 +1148,15 @@
           "time_info": "04时13分"
         },
         {
-          "title": "白宫：美国总统特朗普可能会针对芯片进口实施更广泛的关税。",
-          "url": "https://wallstreetcn.com/livenews/3037309",
-          "source": "华尔街见闻-快讯",
+          "title": "存储芯片涨价趋势持续",
+          "url": "https://www.douyin.com/hot/2367041",
+          "source": "抖音",
           "ranks": [
-            12
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时13分"
-        },
-        {
-          "title": "美国白宫：美国芯片关税不适用于为美国技术供应而进口的芯片。",
-          "url": "https://flash.jin10.com/detail/20260115053459281800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时13分"
-        },
-        {
-          "title": "美国白宫：特朗普还对某些先进计算芯片征收了25%的关税，例如英伟达H200和AMD MI325X。",
-          "url": "https://flash.jin10.com/detail/20260115053106355800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时13分"
-        },
-        {
-          "title": "美国白宫：特朗普近期可能会对半导体及其衍生产品的进口征收更广泛的关税。",
-          "url": "https://flash.jin10.com/detail/20260115052805367800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时13分"
+          "time_info": "07时11分"
         },
         {
           "title": "纳指科技指数收跌将近1.5%，半导体指数跌0.6%，小盘股指涨0.7%",
@@ -1085,7 +1165,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -1118,8 +1198,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时17分 ~ 06时13分]"
+          "appearance_count": 13,
+          "time_info": "[00时17分 ~ 07时11分]"
         },
         {
           "title": "国考成绩",
@@ -1132,11 +1212,12 @@
             10,
             14,
             9,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时17分 ~ 06时13分]"
+          "appearance_count": 13,
+          "time_info": "[00时17分 ~ 07时11分]"
         },
         {
           "title": "国考出分了",
@@ -1146,8 +1227,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时17分 ~ 06时13分]"
+          "appearance_count": 13,
+          "time_info": "[00时17分 ~ 07时11分]"
         },
         {
           "title": "2026 国考成绩公布，你查分了吗？考得如何？",
@@ -1225,11 +1306,12 @@
           "ranks": [
             18,
             17,
-            20
+            20,
+            14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时17分 ~ 06时13分]"
+          "appearance_count": 13,
+          "time_info": "[00时17分 ~ 07时11分]"
         },
         {
           "title": "TJM Institutional Services LLC利率策略师David Robin：美国就业形势有点不明确，同时我们又有通胀问题。从数据角度看，美联储至少按兵不动到3月的概率上升了。 而随着每一次会议从日程表上划去，美联储继续维持不动的概率就变得更大。” Robin说：“无论市场是否相信美联储会按兵不动 —— 无论这个概率是5%、10%还是20% —— 这些交易都很便宜；如果你是纪律严明的风险管理者，你就会有需求。”",
@@ -1290,8 +1372,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时17分 ~ 06时13分]"
+          "appearance_count": 13,
+          "time_info": "[00时17分 ~ 07时11分]"
         },
         {
           "title": "专家：房价调整幅度已超国际水平",
@@ -1303,8 +1385,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时17分 ~ 06时13分]"
+          "appearance_count": 13,
+          "time_info": "[00时17分 ~ 07时11分]"
         },
         {
           "title": "马光远：2026年房地产大概率见底",
@@ -1312,11 +1394,12 @@
           "source": "今日头条",
           "ranks": [
             15,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 02时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 07时11分]"
         },
         {
           "title": "房贷贴息呼声再起，“1年700亿可撬动280万亿居民房地产资产”？银行业内：可行性很低",
@@ -1354,8 +1437,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时17分 ~ 06时13分]"
+          "appearance_count": 13,
+          "time_info": "[00时17分 ~ 07时11分]"
         },
         {
           "title": "男子牵马乘西安地铁系谣言",
@@ -1365,8 +1448,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时17分 ~ 06时13分]"
+          "appearance_count": 13,
+          "time_info": "[00时17分 ~ 07时11分]"
         },
         {
           "title": "为何修地铁的时候，不给每个地铁站配套挖一个停车场（P+R）？",
@@ -1374,11 +1457,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时12分 ~ 06时13分]"
+          "appearance_count": 4,
+          "time_info": "[05时12分 ~ 07时11分]"
         }
       ]
     },
@@ -1404,7 +1488,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -1434,11 +1518,12 @@
             24,
             12,
             22,
-            30
+            30,
+            20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时17分 ~ 06时13分]"
+          "appearance_count": 13,
+          "time_info": "[00时17分 ~ 07时11分]"
         },
         {
           "title": "副市长参加洽谈会排队等候民营企业家，“像毕业大学生投简历”",
@@ -1460,11 +1545,12 @@
           "ranks": [
             26,
             20,
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时12分 ~ 06时13分]"
+          "appearance_count": 8,
+          "time_info": "[03时12分 ~ 07时11分]"
         }
       ]
     },
@@ -1480,8 +1566,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时17分 ~ 06时13分]"
+          "appearance_count": 13,
+          "time_info": "[00时17分 ~ 07时11分]"
         },
         {
           "title": "周三（1月14日），彭博电动汽车价格回报指数跌0.37%，报3611.80点。 亚太早盘，指数微幅上涨，北京时间13:00出现一波显著的跳水转跌行情，14:07刷新日低至3597.59点刷新日低，随后持续低位震荡。 成分股Rivian跌7.7%，微宏控股跌4.1%，意法半导体跌2.4%，特斯拉跌2.2%，小马智行则涨1.9%，普拉格动力公司2.4%，宝马涨2.7%，Solid Power涨3.6%，EVGO涨5.9%，MP材料涨8.3%。",
