@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T07:11:58.685036+08:00",
-  "total_titles_processed": 734,
+  "generated_at": "2026-01-15T08:55:30.663732+08:00",
+  "total_titles_processed": 887,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 38,
+      "match_count": 41,
       "titles": [
         {
           "title": "贵金属狂欢继续，现货白银史上首次站上92美元关口，铜、锡再创新高！",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时17分 ~ 07时11分]"
+          "appearance_count": 14,
+          "time_info": "[00时17分 ~ 08时55分]"
         },
         {
           "title": "科技股暴跌，美股指跌幅扩大，纳指跌1.5%，金属狂飙，现货白银站上92美元，锡铜新高",
@@ -50,7 +51,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -61,7 +62,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -322,9 +323,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "机构：日元兑美元若跌破162，可能迅速跌向170",
+          "url": "https://wallstreetcn.com/livenews/3037381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         },
         {
           "title": "WTI原油日内涨超2.00%，现报62.33美元/桶。",
@@ -415,6 +427,17 @@
           "time_info": "01时20分"
         },
         {
+          "title": "现货钯金日内跌超2.00%，现报1790.02美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260115073809627800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
           "title": "纽约期银站上93美元/盎司，日内涨7.72%。",
           "url": "https://flash.jin10.com/detail/20260115032036698800",
           "source": "金十数据",
@@ -446,12 +469,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
+        },
+        {
+          "title": "法院文件显示，亚马逊(AMZN.O)担心其对萨克斯全球（Saks Global）进行的4.75亿美元投资如今已“毫无价值”。",
+          "url": "https://flash.jin10.com/detail/20260115072823087800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         }
       ]
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 25,
+      "match_count": 33,
       "titles": [
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -477,6 +511,51 @@
           "time_info": "04时13分"
         },
         {
+          "title": "韩国央行将基准利率维持在2.50%不变，预期为2.50%。",
+          "url": "https://wallstreetcn.com/livenews/3037394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "韩国央行维持基准利率不变，为2.50%，符合市场预期。",
+          "url": "https://flash.jin10.com/detail/20260115085046391800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "韩国至1月15日央行利率决定 2.5%，预期2.50%，前值2.50%。",
+          "url": "https://flash.jin10.com/detail/20260115085003843800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "英加澳韩等8国央行行长罕见声明，日本不跟",
+          "url": "https://news.ifeng.com/c/8put47t4u2M",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时12分 ~ 08时55分]"
+        },
+        {
           "title": "英国央行副行长拉姆斯登：中性利率处于2%-4%区间的中间位置。",
           "url": "https://flash.jin10.com/detail/20260115004316023800",
           "source": "金十数据",
@@ -497,17 +576,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时17分 ~ 02时20分]"
-        },
-        {
-          "title": "英加澳韩等8国央行行长罕见声明，日本不跟",
-          "url": "https://news.ifeng.com/c/8put47t4u2M",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时12分 ~ 07时11分]"
         },
         {
           "title": "10年期英债收益率创13个月新低，投资者关注英国央行利率前景",
@@ -625,6 +693,17 @@
           "time_info": "01时20分"
         },
         {
+          "title": "广发证券：美联储短期降息必要性延续低位",
+          "url": "https://flash.jin10.com/detail/20260115081807963800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
           "title": "英国央行副行长拉姆斯登：工资仍将是我关注的重点。",
           "url": "https://flash.jin10.com/detail/20260115003924503800",
           "source": "金十数据",
@@ -656,6 +735,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "日本12月国内企业商品物价指数月率 0.1%，预期0.10%，前值0.30%。",
+          "url": "https://flash.jin10.com/detail/20260115075003591800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "日本12月国内企业商品物价指数年率 2.4%，预期2.40%，前值2.70%。",
+          "url": "https://flash.jin10.com/detail/20260115075003566800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         },
         {
           "title": "英国央行副行长拉姆斯登：取消对银行的“环形防护”将对英国金融稳定框架构成真正挑战。",
@@ -733,24 +834,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "日本12月国内企业商品物价指数环比 0.1%，预期 0.2%，前值 0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3037362",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "日本12月国内企业商品物价指数同比 2.4%，预期 2.4%，前值 2.7%。",
+          "url": "https://wallstreetcn.com/livenews/3037361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         }
       ]
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
-        {
-          "title": "浙江用AI抓出贪官",
-          "url": "https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E7%94%A8AI%E6%8A%93%E5%87%BA%E8%B4%AA%E5%AE%98",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时17分 ~ 07时11分]"
-        },
         {
           "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32325619",
@@ -765,6 +877,18 @@
           "time_info": "[00时17分 ~ 07时11分]"
         },
         {
+          "title": "浙江用AI抓出贪官",
+          "url": "https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E7%94%A8AI%E6%8A%93%E5%87%BA%E8%B4%AA%E5%AE%98",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时17分 ~ 08时55分]"
+        },
+        {
           "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
           "url": "https://wallstreetcn.com/articles/3763239",
           "source": "华尔街见闻",
@@ -774,8 +898,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时17分 ~ 07时11分]"
+          "appearance_count": 14,
+          "time_info": "[00时17分 ~ 08时55分]"
         },
         {
           "title": "AI查贪官准确率相当高",
@@ -785,11 +909,26 @@
             23,
             2,
             7,
-            8
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时20分 ~ 08时55分]"
+        },
+        {
+          "title": "巴菲特再发警示：AI的危险不亚于核武器",
+          "url": "https://www.cls.cn/detail/2258013",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11,
+            7
           ],
           "is_new": false,
           "appearance_count": 11,
-          "time_info": "[01时20分 ~ 07时11分]"
+          "time_info": "[02时19分 ~ 08时55分]"
         },
         {
           "title": "92胜率屠榜,老马AI杀穿韩服",
@@ -799,21 +938,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时17分 ~ 07时11分]"
-        },
-        {
-          "title": "巴菲特再发警示：AI的危险不亚于核武器",
-          "url": "https://www.cls.cn/detail/2258013",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时19分 ~ 07时11分]"
+          "appearance_count": 14,
+          "time_info": "[00时17分 ~ 08时55分]"
         },
         {
           "title": "韩服登顶账号是AI操作的吗",
@@ -915,6 +1041,17 @@
           "time_info": "05时13分"
         },
         {
+          "title": "中信证券：“自主可控、AI算力”有望成为电子行业贯穿全年的绝对强主线",
+          "url": "https://wallstreetcn.com/livenews/3037380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
           "title": "美联储卡什卡利：目前大多数企业的AI应用仍处于实验阶段，尚未导致裁员。",
           "url": "https://flash.jin10.com/detail/20260115013502708800",
           "source": "金十数据",
@@ -959,6 +1096,17 @@
           "time_info": "02时20分"
         },
         {
+          "title": "阿里要做全球第一个AI电商？淘宝、飞猪等已接入千问App",
+          "url": "https://wallstreetcn.com/livenews/3037373",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
           "title": "市场消息：美国加州总检察长对马斯克旗下xAI和Grok启动调查。",
           "url": "https://flash.jin10.com/detail/20260115013111465800",
           "source": "金十数据",
@@ -968,6 +1116,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "办案人员通过AI提示揪出贪官",
+          "url": "https://www.toutiao.com/trending/7595197160711946266/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         },
         {
           "title": "美国加州州长纽森：呼吁司法部长立即调查xAI并追究其责任。",
@@ -1017,7 +1176,7 @@
     },
     {
       "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "【焦点复盘】沪指午后跳水一度逼近4100点，商业航天概念分化持续，半导体设备股卷土重来",
@@ -1032,13 +1191,24 @@
           "time_info": "[00时17分 ~ 07时11分]"
         },
         {
+          "title": "美国宣布对特定半导体等加征25%关税",
+          "url": "https://news.ifeng.com/c/8pvSblFxE83",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
           "title": "美国白宫宣布对特定半导体等加征25%关税",
           "url": "https://wallstreetcn.com/livenews/3037337",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -1115,6 +1285,28 @@
           "time_info": "[06时13分 ~ 07时11分]"
         },
         {
+          "title": "美国宣布对特定半导体等加征25%关税",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%AE%A3%E5%B8%83%E5%AF%B9%E7%89%B9%E5%AE%9A%E5%8D%8A%E5%AF%BC%E4%BD%93%E7%AD%89%E5%8A%A0%E5%BE%8125%25%E5%85%B3%E7%A8%8E",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "美国白宫宣布对特定半导体等加征25%关税",
+          "url": "https://wallstreetcn.com/articles/3763322",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
           "title": "标普500指数初步收跌0.6%，可选消费板块跌1.8%，科技板块跌1.5%，电信板块跌0.6%，必需品板块涨1.1%，能源板块涨2.2%。 纳斯达克100指数初步收跌1.1%，成分股中，Applovin跌7.8%，Intuit跌6.4%，Shopify跌5.9%，博通跌4.1%，拼多多跌3.8%，德州仪器涨2.5%，英特尔涨3%，卡夫亨氏涨3.4%，Strategy涨3.8%。 亚马逊初步收跌2.4%，微软跌2.4%，英伟达跌1.5%，思科跌1.4%，领跌道指成分股，雪佛龙、强生、Merck则涨超2%。 半导体指数跌0.6%，银行指数跌0.7%。",
           "url": "https://wallstreetcn.com/livenews/3037293",
           "source": "华尔街见闻-快讯",
@@ -1132,7 +1324,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -1154,7 +1346,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -1168,6 +1360,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "美国对特定半导体等加征25%关税",
+          "url": "https://www.toutiao.com/trending/7595358438268358198/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         },
         {
           "title": "美国最高法院再次没能就特朗普关税政策的官司做出裁决。 标普500指数维持0.5%的跌幅，纳指跌超0.8%，半导体指数跌0.9%，银行指数跌1.1%。 标普1500服装指数跌1.3%，刷新日低。耐克、露露柠檬刷新日低。",
@@ -1184,7 +1387,7 @@
     },
     {
       "keyword_group": "考研 考公 国考",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "2026年国考成绩公布",
@@ -1198,8 +1401,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时17分 ~ 07时11分]"
+          "appearance_count": 14,
+          "time_info": "[00时17分 ~ 08时55分]"
         },
         {
           "title": "国考成绩",
@@ -1216,19 +1419,20 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时17分 ~ 07时11分]"
+          "appearance_count": 14,
+          "time_info": "[00时17分 ~ 08时55分]"
         },
         {
           "title": "国考出分了",
           "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E8%80%83%E5%87%BA%E5%88%86%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            10
+            10,
+            25
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时17分 ~ 07时11分]"
+          "appearance_count": 14,
+          "time_info": "[00时17分 ~ 08时55分]"
         },
         {
           "title": "2026 国考成绩公布，你查分了吗？考得如何？",
@@ -1237,11 +1441,12 @@
           "ranks": [
             14,
             11,
-            17
+            17,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时20分 ~ 06时13分]"
+          "appearance_count": 11,
+          "time_info": "[01时20分 ~ 08时55分]"
         },
         {
           "title": "国考",
@@ -1292,6 +1497,105 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时17分 ~ 00时18分]"
+        },
+        {
+          "title": "我的国考出分时刻",
+          "url": "https://www.douyin.com/hot/2367975",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房地产 房价 楼市 LPR",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "携程涉嫌垄断遭市监总局立案，此前被曝借“调价助手”修改上架酒店房价",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32383308",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时17分 ~ 08时55分]"
+        },
+        {
+          "title": "专家：房价调整幅度已超国际水平",
+          "url": "https://www.toutiao.com/trending/7595176049659350582/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时17分 ~ 07时11分]"
+        },
+        {
+          "title": "马光远：2026年房地产大概率见底",
+          "url": "https://www.toutiao.com/trending/7594701672845836307/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 07时11分]"
+        },
+        {
+          "title": "房贷贴息呼声再起，“1年700亿可撬动280万亿居民房地产资产”？银行业内：可行性很低",
+          "url": "https://www.cls.cn/detail/2257323",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 00时18分]"
+        },
+        {
+          "title": "英国12月三个月RICS房价指数 -14，预期-16，前值由-16.00修正为-14。",
+          "url": "https://flash.jin10.com/detail/20260115080102230800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "英国12月三个月RICS房价指数 -14，预期 -17，前值 -16。",
+          "url": "https://wallstreetcn.com/livenews/3037371",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "据华尔街日报：黑石集团(BX.N)面向个人投资者的旗舰房地产基金在2025年取得了三年来最强劲的业绩，主要得益于其在数据中心领域的投资。黑石房地产收益信托（BREIT）全年实现8.1%的总回报，资产规模增至逾540亿美元。",
+          "url": "https://flash.jin10.com/detail/20260115074302157800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         }
       ]
     },
@@ -1360,61 +1664,6 @@
       ]
     },
     {
-      "keyword_group": "房地产 房价 楼市 LPR",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "携程涉嫌垄断遭市监总局立案，此前被曝借“调价助手”修改上架酒店房价",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32383308",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时17分 ~ 07时11分]"
-        },
-        {
-          "title": "专家：房价调整幅度已超国际水平",
-          "url": "https://www.toutiao.com/trending/7595176049659350582/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时17分 ~ 07时11分]"
-        },
-        {
-          "title": "马光远：2026年房地产大概率见底",
-          "url": "https://www.toutiao.com/trending/7594701672845836307/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 07时11分]"
-        },
-        {
-          "title": "房贷贴息呼声再起，“1年700亿可撬动280万亿居民房地产资产”？银行业内：可行性很低",
-          "url": "https://www.cls.cn/detail/2257323",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 00时18分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "基础设施 基建 地铁 高铁",
       "match_count": 4,
       "titles": [
@@ -1437,8 +1686,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时17分 ~ 07时11分]"
+          "appearance_count": 14,
+          "time_info": "[00时17分 ~ 08时55分]"
         },
         {
           "title": "男子牵马乘西安地铁系谣言",
@@ -1448,8 +1697,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时17分 ~ 07时11分]"
+          "appearance_count": 14,
+          "time_info": "[00时17分 ~ 08时55分]"
         },
         {
           "title": "为何修地铁的时候，不给每个地铁站配套挖一个停车场（P+R）？",
@@ -1522,8 +1771,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时17分 ~ 07时11分]"
+          "appearance_count": 14,
+          "time_info": "[00时17分 ~ 08时55分]"
         },
         {
           "title": "副市长参加洽谈会排队等候民营企业家，“像毕业大学生投简历”",
@@ -1566,8 +1815,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时17分 ~ 07时11分]"
+          "appearance_count": 14,
+          "time_info": "[00时17分 ~ 08时55分]"
         },
         {
           "title": "周三（1月14日），彭博电动汽车价格回报指数跌0.37%，报3611.80点。 亚太早盘，指数微幅上涨，北京时间13:00出现一波显著的跳水转跌行情，14:07刷新日低至3597.59点刷新日低，随后持续低位震荡。 成分股Rivian跌7.7%，微宏控股跌4.1%，意法半导体跌2.4%，特斯拉跌2.2%，小马智行则涨1.9%，普拉格动力公司2.4%，宝马涨2.7%，Solid Power涨3.6%，EVGO涨5.9%，MP材料涨8.3%。",
@@ -1580,6 +1829,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时13分 ~ 06时13分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为 小米 荣耀",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "华为余承东带队到访东风汽车",
+          "url": "https://www.toutiao.com/trending/7594435607054647302/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         }
       ]
     },
