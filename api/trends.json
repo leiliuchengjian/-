@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T04:14:36.739739+08:00",
-  "total_titles_processed": 504,
+  "generated_at": "2026-01-20T05:11:56.657549+08:00",
+  "total_titles_processed": 542,
   "failed_sources": [],
   "trends": [
     {
@@ -63,11 +63,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            12
+            12,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时13分 ~ 04时14分]"
+          "appearance_count": 3,
+          "time_info": "[03时13分 ~ 05时11分]"
         },
         {
           "title": "欧盟官员、希腊财政部长Kyriakos Pierrakakis：我们需要重拾可持续的增长。 欧元集团（即欧元区财长们）支持Boris Vujcic接任欧洲央行副行长。 欧元集团并没有讨论格陵兰问题。 格陵兰的主权（归属）必须得到尊重。",
@@ -75,11 +76,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            12
+            12,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时13分 ~ 04时14分]"
+          "appearance_count": 3,
+          "time_info": "[03时13分 ~ 05时11分]"
         },
         {
           "title": "欧洲央行副行长人选剩下四人，他们分别是Rehn、Kazaks、Vujcic、以及Centeno。 立陶宛和爱沙尼亚的央行官员们出局。",
@@ -268,20 +270,160 @@
       ]
     },
     {
-      "keyword_group": "人工智能 AI",
-      "match_count": 10,
+      "keyword_group": "美元 人民币 汇率",
+      "match_count": 12,
       "titles": [
         {
-          "title": "卡塔尔主权基金CEO暗示对AI投资采取更加细致审慎的策略",
-          "url": "https://wallstreetcn.com/livenews/3039909",
+          "title": "纽约银日内涨幅达6.5%，报94.32美元/盎司。 现货白银日内涨幅达5.0%，报94.48美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3039870",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时16分"
+        },
+        {
+          "title": "美元指数19日下跌",
+          "url": "https://flash.jin10.com/detail/20260120043735126800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时14分"
+          "time_info": "05时11分"
         },
+        {
+          "title": "美元指数跌约0.3%",
+          "url": "https://wallstreetcn.com/livenews/3039917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌6.01%，暂报3824.50点，保持一段时间的微幅上涨状态之后，北京时间07:00从日高4106.50点跳水，迅速在08:08刷新日低至3714.89点。 MarketVectorTM数字资产100中盘指数跌5.90%，报3514.13点，06:54刷新日高至3765.08点，08:08刷新日低至3430.70点。 MarketVector数字资产100指数跌2.63%，报19159.74点， 07:00出现一波跳水行情，从日高19774.12点快速跌至18952.97点刷新日低。 目前，Solana跌5.73%，狗狗币跌6.17%，XRP跌1.61%。 比特币跌2.23%，暂报93184.25美元；以太坊跌3.75%，暂报3218.33美元。",
+          "url": "https://wallstreetcn.com/livenews/3039869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 03时13分]"
+        },
+        {
+          "title": "布伦特3月原油期货收报63.94美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3039893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时13分 ~ 05时11分]"
+        },
+        {
+          "title": "现货白银日内大涨5.00%，现报94.58美元/盎司，将历史新高刷新至94.6美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260120005435256800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 02时19分]"
+        },
+        {
+          "title": "周一（1月19日），韩元兑美元最终涨0.04%，报1473.03韩元。",
+          "url": "https://wallstreetcn.com/livenews/3039887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时13分 ~ 05时11分]"
+        },
+        {
+          "title": "LME期铜收涨162美元，报12966美元/吨。 LME期铝收涨24美元，报3158美元/吨。 LME期锌收涨12美元，报3222美元/吨。 LME期铅收涨16美元，报2060美元/吨。 LME期镍收涨555美元，报18133美元/吨。 LME期锡收涨1276美元，报49258美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3039886",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时13分 ~ 05时11分]"
+        },
+        {
+          "title": "ADNOC Gas：与HPCL签订30亿美元、10年期液化天然气（LNG）协议。",
+          "url": "https://wallstreetcn.com/livenews/3039844",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 01时16分]"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9640元，较上周五夜盘收盘涨80点。成交量357.05亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3039901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时14分 ~ 05时11分]"
+        },
+        {
+          "title": "澳元/美元日内涨幅达0.5%，报0.6714。",
+          "url": "https://wallstreetcn.com/livenews/3039857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 02时19分]"
+        },
+        {
+          "title": "纽约银日内涨幅超过6.5%，刷新盘中历史高位至94.365美元/盎司。 现货白银日内涨幅超过5.0%，刷新历史高位至94.6291美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3039870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 03时13分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能 AI",
+      "match_count": 10,
+      "titles": [
         {
           "title": "李稻葵：马斯克的预言是“AI乌托邦”",
           "url": "https://www.toutiao.com/trending/7596717546255581227/",
@@ -294,15 +436,16 @@
           "time_info": "02时19分"
         },
         {
-          "title": "穆巴达拉CEO力挺AI与私人信贷投资，无视市场质疑",
-          "url": "https://wallstreetcn.com/livenews/3039907",
+          "title": "卡塔尔主权基金CEO暗示对AI投资采取更加细致审慎的策略",
+          "url": "https://wallstreetcn.com/livenews/3039909",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            2,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时14分 ~ 05时11分]"
         },
         {
           "title": "贝莱德CEO拉里·芬克警告说：人工智能（AI）可能会像全球化一样加剧不平等。 呼吁达沃斯更多地倾听普通民众的声音，而不仅仅是精英阶层的声音。",
@@ -316,6 +459,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时19分 ~ 04时14分]"
+        },
+        {
+          "title": "穆巴达拉CEO力挺AI与私人信贷投资，无视市场质疑",
+          "url": "https://wallstreetcn.com/livenews/3039907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时14分 ~ 05时11分]"
         },
         {
           "title": "【焦点复盘】创业板指冲高回落跌0.7%，AI软硬件双双低迷，贵金属板块再度爆发",
@@ -390,133 +545,8 @@
       ]
     },
     {
-      "keyword_group": "美元 人民币 汇率",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "纽约银日内涨幅达6.5%，报94.32美元/盎司。 现货白银日内涨幅达5.0%，报94.48美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3039870",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌6.01%，暂报3824.50点，保持一段时间的微幅上涨状态之后，北京时间07:00从日高4106.50点跳水，迅速在08:08刷新日低至3714.89点。 MarketVectorTM数字资产100中盘指数跌5.90%，报3514.13点，06:54刷新日高至3765.08点，08:08刷新日低至3430.70点。 MarketVector数字资产100指数跌2.63%，报19159.74点， 07:00出现一波跳水行情，从日高19774.12点快速跌至18952.97点刷新日低。 目前，Solana跌5.73%，狗狗币跌6.17%，XRP跌1.61%。 比特币跌2.23%，暂报93184.25美元；以太坊跌3.75%，暂报3218.33美元。",
-          "url": "https://wallstreetcn.com/livenews/3039869",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 03时13分]"
-        },
-        {
-          "title": "现货白银日内大涨5.00%，现报94.58美元/盎司，将历史新高刷新至94.6美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260120005435256800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 02时19分]"
-        },
-        {
-          "title": "布伦特3月原油期货收报63.94美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3039893",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时13分 ~ 04时14分]"
-        },
-        {
-          "title": "ADNOC Gas：与HPCL签订30亿美元、10年期液化天然气（LNG）协议。",
-          "url": "https://wallstreetcn.com/livenews/3039844",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时16分]"
-        },
-        {
-          "title": "周一（1月19日），韩元兑美元最终涨0.04%，报1473.03韩元。",
-          "url": "https://wallstreetcn.com/livenews/3039887",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时13分 ~ 04时14分]"
-        },
-        {
-          "title": "LME期铜收涨162美元，报12966美元/吨。 LME期铝收涨24美元，报3158美元/吨。 LME期锌收涨12美元，报3222美元/吨。 LME期铅收涨16美元，报2060美元/吨。 LME期镍收涨555美元，报18133美元/吨。 LME期锡收涨1276美元，报49258美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3039886",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时13分 ~ 04时14分]"
-        },
-        {
-          "title": "澳元/美元日内涨幅达0.5%，报0.6714。",
-          "url": "https://wallstreetcn.com/livenews/3039857",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 02时19分]"
-        },
-        {
-          "title": "纽约银日内涨幅超过6.5%，刷新盘中历史高位至94.365美元/盎司。 现货白银日内涨幅超过5.0%，刷新历史高位至94.6291美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3039870",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 03时13分]"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9640元，较上周五夜盘收盘涨80点。成交量357.05亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3039901",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时14分"
-        }
-      ]
-    },
-    {
       "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "西班牙高铁事故死亡人数升至39人",
@@ -526,11 +556,12 @@
             10,
             9,
             15,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 04时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 05时11分]"
         },
         {
           "title": "高铁帮搬行李服务扩展到 111 个车站，可以把行李从家中或酒店搬运至站台上，怎样看待？你会尝试吗？",
@@ -540,8 +571,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 04时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 05时11分]"
         },
         {
           "title": "西班牙为高铁事故遇难者哀悼3天",
@@ -562,11 +593,23 @@
           "source": "百度热搜",
           "ranks": [
             21,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时16分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 05时11分]"
+        },
+        {
+          "title": "广州站将正式升级为高铁站",
+          "url": "https://www.toutiao.com/trending/7596240581798658075/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
         }
       ]
     },
@@ -582,8 +625,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 04时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 05时11分]"
         },
         {
           "title": "糖霜苹果",
@@ -594,8 +637,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 04时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 05时11分]"
         },
         {
           "title": "苹果将改为一年两次发布新品",
@@ -603,11 +646,12 @@
           "source": "抖音",
           "ranks": [
             30,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时13分 ~ 04时14分]"
+          "appearance_count": 3,
+          "time_info": "[03时13分 ~ 05时11分]"
         }
       ]
     },
@@ -624,19 +668,37 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 04时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 05时11分]"
         },
         {
           "title": "芯片涨价潮蔓延至“传统产品”",
           "url": "https://www.toutiao.com/trending/7597069442190675510/",
           "source": "今日头条",
           "ranks": [
-            30
+            30,
+            8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 05时11分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房地产 房价 楼市 LPR",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "70城房价最新数据出炉",
+          "url": "https://www.toutiao.com/trending/7596546447647801350/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时16分"
+          "time_info": "05时11分"
         }
       ]
     },
@@ -686,8 +748,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 04时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 05时11分]"
         }
       ]
     }
