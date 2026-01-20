@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T01:21:51.356630+08:00",
-  "total_titles_processed": 413,
+  "generated_at": "2026-01-21T02:22:25.894068+08:00",
+  "total_titles_processed": 489,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "一图看懂 | 央行、财政部等开年齐出手，“含金量”满满",
@@ -15,30 +15,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时22分]"
         },
         {
           "title": "欧洲央行管委兼德国央行行长Nagel：从来都不曾料到自己竟然会亲眼目睹美联储独立性面临风险。",
           "url": "https://wallstreetcn.com/livenews/3040618",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时21分 ~ 02时22分]"
         },
         {
           "title": "欧洲央行管委内格尔：我从未想过自己有一天会讨论美联储独立性面临威胁的问题。",
           "url": "https://flash.jin10.com/detail/20260121010943987800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时21分 ~ 02时22分]"
         },
         {
           "title": "欧洲央行行长纳格尔：财政整顿即将成为至关重要的一步。",
@@ -47,7 +49,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -58,9 +60,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "美国商务部长：利率应该更低 降息情况下本季度经济增速可能达到6%",
+          "url": "https://flash.jin10.com/detail/20260121013927690800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时22分"
         },
         {
           "title": "欧洲央行管委兼德国央行行长Nagel：我们（欧元区）接近实现价格稳定性目标。 指明何时实现整固财政将是至关重要的。",
@@ -69,7 +82,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -80,7 +93,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -99,7 +112,7 @@
     },
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "美股指集体低开，纳指跌1.6%，日债引领全球国债抛售潮，黄金一度突破4750美元",
@@ -110,8 +123,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时22分]"
         },
         {
           "title": "格陵兰引发关税战风险，美股债休市，欧股重创，人民币升破6.96，金银新高",
@@ -121,8 +134,31 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时22分]"
+        },
+        {
+          "title": "LME期铜收跌212美元，报12754美元/吨。 LME期铝收跌51美元，报3108美元/吨。 LME期锌收跌48美元，报3173美元/吨。 LME期铅收跌32美元，报2028美元/吨。 LME期镍收跌519美元，报17614美元/吨。 LME期锡收涨154美元，报49412美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3040627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时22分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌4.95%，刷新期内低点至3633.07点，整体持续走低。 MarketVectorTM数字资产100中盘指数跌2.51%，报3436.59点。 MarketVector数字资产100指数跌4.12%，报18401.44点。 目前，Solana跌5.73%，狗狗币跌4.84%，XRP跌4.65%。 比特币跌3.30%，暂报90034美元；以太坊跌6.62%，暂报3003.75美元。",
+          "url": "https://wallstreetcn.com/livenews/3040609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时21分]"
+          "time_info": "[01时21分 ~ 02时22分]"
         },
         {
           "title": "现货黄金突破4700美元",
@@ -137,15 +173,37 @@
           "time_info": "[00时22分 ~ 01时21分]"
         },
         {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌4.95%，刷新期内低点至3633.07点，整体持续走低。 MarketVectorTM数字资产100中盘指数跌2.51%，报3436.59点。 MarketVector数字资产100指数跌4.12%，报18401.44点。 目前，Solana跌5.73%，狗狗币跌4.84%，XRP跌4.65%。 比特币跌3.30%，暂报90034美元；以太坊跌6.62%，暂报3003.75美元。",
-          "url": "https://wallstreetcn.com/livenews/3040609",
+          "title": "周二（1月20日），韩元兑美元最终跌0.38%，报1478.58韩元。",
+          "url": "https://wallstreetcn.com/livenews/3040623",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时21分"
+          "time_info": "02时22分"
+        },
+        {
+          "title": "俄罗斯12月卢布有效汇率环比上2.1%。",
+          "url": "https://wallstreetcn.com/livenews/3040621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时22分"
+        },
+        {
+          "title": "现货黄金突破4760美元/盎司，续刷历史新高，日内涨1.91%。",
+          "url": "https://flash.jin10.com/detail/20260121015610889800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时22分"
         },
         {
           "title": "Prosus于1月12-16日按均价54.6030欧元回购股票170.0439万股，合计0.928亿欧元（折合1.080亿美元）。 Naspers同期按均价1122.6498南非兰特回购68.0516万股，合计7.640亿兰特（折合0.466亿美元）。",
@@ -162,8 +220,20 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "惠誉：美国信用形势温和，AI、消费者、贸易问题都构成风险。",
+          "url": "https://wallstreetcn.com/livenews/3040614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时21分 ~ 02时22分]"
+        },
         {
           "title": "ServiceNow 与OpenAI 达成合作 为期三年",
           "url": "https://flash.jin10.com/detail/20260121010536923800",
@@ -171,18 +241,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "惠誉：美国信用形势温和，AI、消费者、贸易问题都构成风险。",
-          "url": "https://wallstreetcn.com/livenews/3040614",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -204,9 +263,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "AnthropicCEO：AI发展未来可能导致10%失业率 政府必须有所作为",
+          "url": "https://flash.jin10.com/detail/20260121014844232800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时22分"
+        },
+        {
+          "title": "据华尔街日报：Anthropic首席执行官表示，政府应帮助确保人工智能的经济红利得到共享。",
+          "url": "https://flash.jin10.com/detail/20260121013547745800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时22分"
         }
       ]
     },
@@ -222,8 +303,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时22分]"
         },
         {
           "title": "广州小伙为克服恐惧在地铁高声演讲，这么做真能克服自卑、恐惧的心理吗？在地铁上这样做合适吗？",
@@ -231,11 +312,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时22分]"
         },
         {
           "title": "高铁如何抵御极寒天气",
@@ -244,7 +326,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         }
@@ -301,19 +383,20 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时22分]"
         },
         {
           "title": "法国巴黎法院判决：苹果公司可以保留ATT功能。",
           "url": "https://wallstreetcn.com/livenews/3040603",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            16,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时21分 ~ 02时22分]"
         }
       ]
     },
@@ -345,7 +428,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         }
@@ -363,8 +446,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时22分]"
         }
       ]
     },
@@ -380,8 +463,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时22分]"
         }
       ]
     }
