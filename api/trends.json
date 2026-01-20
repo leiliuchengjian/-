@@ -1,22 +1,117 @@
 {
-  "generated_at": "2026-01-21T00:22:51.038532+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-21T01:21:51.356630+08:00",
+  "total_titles_processed": 413,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "央行 降息 降准 CPI 物价",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "一图看懂 | 央行、财政部等开年齐出手，“含金量”满满",
+          "url": "https://www.cls.cn/detail/2263856",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时21分]"
+        },
+        {
+          "title": "欧洲央行管委兼德国央行行长Nagel：从来都不曾料到自己竟然会亲眼目睹美联储独立性面临风险。",
+          "url": "https://wallstreetcn.com/livenews/3040618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "欧洲央行管委内格尔：我从未想过自己有一天会讨论美联储独立性面临威胁的问题。",
+          "url": "https://flash.jin10.com/detail/20260121010943987800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "欧洲央行行长纳格尔：财政整顿即将成为至关重要的一步。",
+          "url": "https://flash.jin10.com/detail/20260121010034626800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "欧洲央行管委内格尔：我们已接近价格稳定目标。",
+          "url": "https://flash.jin10.com/detail/20260121004337353800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "欧洲央行管委兼德国央行行长Nagel：我们（欧元区）接近实现价格稳定性目标。 指明何时实现整固财政将是至关重要的。",
+          "url": "https://wallstreetcn.com/livenews/3040599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "欧洲央行管委内格尔：德国政府推出大规模财政刺激计划是正确的。",
+          "url": "https://flash.jin10.com/detail/20260121003607160800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "欧洲央行管委Villeroy认为：欧美贸易紧张局势对价格影响有限",
+          "url": "https://wallstreetcn.com/livenews/3040549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股指集体低开，纳指跌1.6%，日债引领全球国债抛售潮，黄金一度突破4750美元",
           "url": "https://wallstreetcn.com/articles/3763668",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时21分]"
         },
         {
           "title": "格陵兰引发关税战风险，美股债休市，欧股重创，人民币升破6.96，金银新高",
@@ -26,19 +121,31 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时21分]"
         },
         {
           "title": "现货黄金突破4700美元",
           "url": "https://www.toutiao.com/trending/7597306294105673225/",
           "source": "今日头条",
           "ranks": [
-            21
+            21,
+            23
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时21分]"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌4.95%，刷新期内低点至3633.07点，整体持续走低。 MarketVectorTM数字资产100中盘指数跌2.51%，报3436.59点。 MarketVector数字资产100指数跌4.12%，报18401.44点。 目前，Solana跌5.73%，狗狗币跌4.84%，XRP跌4.65%。 比特币跌3.30%，暂报90034美元；以太坊跌6.62%，暂报3003.75美元。",
+          "url": "https://wallstreetcn.com/livenews/3040609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时22分"
+          "time_info": "01时21分"
         },
         {
           "title": "Prosus于1月12-16日按均价54.6030欧元回购股票170.0439万股，合计0.928亿欧元（折合1.080亿美元）。 Naspers同期按均价1122.6498南非兰特回购68.0516万股，合计7.640亿兰特（折合0.466亿美元）。",
@@ -50,6 +157,96 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能 AI",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "ServiceNow 与OpenAI 达成合作 为期三年",
+          "url": "https://flash.jin10.com/detail/20260121010536923800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "惠誉：美国信用形势温和，AI、消费者、贸易问题都构成风险。",
+          "url": "https://wallstreetcn.com/livenews/3040614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "G42的CEO Peng Xiao：预计阿联酋将在未来数月获得第一批由（由英伟达、Cerebras Inc.等供应的）高级AI芯片。",
+          "url": "https://wallstreetcn.com/livenews/3040577",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "惠誉评级：美国良性信贷背景面临人工智能、消费者和贸易风险。",
+          "url": "https://flash.jin10.com/detail/20260121005712780800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "基础设施 基建 地铁 高铁",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "永恒如新的日常：北京地铁秋冬书单（2025）",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32416384",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时21分]"
+        },
+        {
+          "title": "广州小伙为克服恐惧在地铁高声演讲，这么做真能克服自卑、恐惧的心理吗？在地铁上这样做合适吗？",
+          "url": "https://www.zhihu.com/question/1996383337535788188",
+          "source": "知乎",
+          "ranks": [
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时21分]"
+        },
+        {
+          "title": "高铁如何抵御极寒天气",
+          "url": "https://www.toutiao.com/trending/7597297539523788842/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
         }
       ]
     },
@@ -93,58 +290,30 @@
       ]
     },
     {
-      "keyword_group": "基础设施 基建 地铁 高铁",
+      "keyword_group": "苹果 iPhone",
       "match_count": 2,
       "titles": [
         {
-          "title": "永恒如新的日常：北京地铁秋冬书单（2025）",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32416384",
-          "source": "澎湃新闻",
+          "title": "牢A最新力作!“糖霜苹果”太吓人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349346&amp;topic_name=%E7%89%A2A%E6%9C%80%E6%96%B0%E5%8A%9B%E4%BD%9C%21%E2%80%9C%E7%B3%96%E9%9C%9C%E8%8B%B9%E6%9E%9C%E2%80%9D%E5%A4%AA%E5%90%93%E4%BA%BA",
+          "source": "贴吧",
           "ranks": [
-            9
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时21分]"
         },
         {
-          "title": "广州小伙为克服恐惧在地铁高声演讲，这么做真能克服自卑、恐惧的心理吗？在地铁上这样做合适吗？",
-          "url": "https://www.zhihu.com/question/1996383337535788188",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "一图看懂 | 央行、财政部等开年齐出手，“含金量”满满",
-          "url": "https://www.cls.cn/detail/2263856",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "欧洲央行管委Villeroy认为：欧美贸易紧张局势对价格影响有限",
-          "url": "https://wallstreetcn.com/livenews/3040549",
+          "title": "法国巴黎法院判决：苹果公司可以保留ATT功能。",
+          "url": "https://wallstreetcn.com/livenews/3040603",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时22分"
+          "time_info": "01时21分"
         }
       ]
     },
@@ -166,36 +335,19 @@
       ]
     },
     {
-      "keyword_group": "苹果 iPhone",
+      "keyword_group": "大模型 ChatGPT Kimi Sora OpenAI",
       "match_count": 1,
       "titles": [
         {
-          "title": "牢A最新力作!“糖霜苹果”太吓人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349346&amp;topic_name=%E7%89%A2A%E6%9C%80%E6%96%B0%E5%8A%9B%E4%BD%9C%21%E2%80%9C%E7%B3%96%E9%9C%9C%E8%8B%B9%E6%9E%9C%E2%80%9D%E5%A4%AA%E5%90%93%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能 AI",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "G42的CEO Peng Xiao：预计阿联酋将在未来数月获得第一批由（由英伟达、Cerebras Inc.等供应的）高级AI芯片。",
-          "url": "https://wallstreetcn.com/livenews/3040577",
+          "title": "马斯克建议：不要让你的亲人使用ChatGPT",
+          "url": "https://wallstreetcn.com/livenews/3040591",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            28
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时22分"
+          "time_info": "01时21分"
         }
       ]
     },
@@ -211,8 +363,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时21分]"
         }
       ]
     },
@@ -228,8 +380,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时21分]"
         }
       ]
     }
