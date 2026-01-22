@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T21:40:02.740755+08:00",
-  "total_titles_processed": 1995,
+  "generated_at": "2026-01-22T22:22:46.304002+08:00",
+  "total_titles_processed": 2074,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 76,
+      "match_count": 79,
       "titles": [
         {
           "title": "特朗普“TACO”，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[08时57分 ~ 21时40分]"
+          "appearance_count": 18,
+          "time_info": "[08时57分 ~ 22时22分]"
         },
         {
           "title": "美国正式退出世卫组织，仍欠2.6亿美元会费",
@@ -39,11 +39,12 @@
             3,
             2,
             4,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时01分 ~ 21时40分]"
+          "appearance_count": 17,
+          "time_info": "[11时01分 ~ 22时22分]"
         },
         {
           "title": "如何评价黄金价格史上首次突破 4800 美元 / 盎司，后面还会再继续涨吗？",
@@ -102,17 +103,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
-        },
-        {
-          "title": "美元指数短线波动不大，现报98.65。美股期货短线波动不大，纳斯达克100指数期货维持0.9%左右的涨幅。现货黄金短线波动不大，现报4822.39美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3042112",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时40分"
         },
         {
           "title": "现货金银周四开盘持稳，现分别报4832美元/盎司和93.01美元/盎司。",
@@ -202,6 +192,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时20分 ~ 05时21分]"
+        },
+        {
+          "title": "美元指数短线波动不大，现报98.65。美股期货短线波动不大，纳斯达克100指数期货维持0.9%左右的涨幅。现货黄金短线波动不大，现报4822.39美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3042112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时40分 ~ 22时22分]"
         },
         {
           "title": "周三（1月21日）纽约尾盘（周四北京时间05:59），离岸人民币（CNH）兑美元报6.9600元，较周二纽约尾盘跌43点，日内整体交投于6.9535-6.9639元区间。",
@@ -442,6 +444,17 @@
           "time_info": "08时57分"
         },
         {
+          "title": "伦锡日内涨幅达2.00%，现报51831.60美元/吨。沪锡主力合约直线拉升，由跌转涨，涨幅近1%，现报413400元/吨。",
+          "url": "https://flash.jin10.com/detail/20260122220252707800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "澳元兑美元AUD/USD短线走高20点，最新报0.6777。",
           "url": "https://flash.jin10.com/detail/20260122083039907800",
           "source": "金十数据",
@@ -550,6 +563,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
+        },
+        {
+          "title": "印尼总统：主权财富基金Danantara将助力增长，管理资产规模达1万亿美元。",
+          "url": "https://flash.jin10.com/detail/20260122214857981800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "Anthropic年化收入突破90亿美元，风险投资蜂拥而至",
@@ -673,6 +697,17 @@
           "time_info": "08时57分"
         },
         {
+          "title": "专家：普京豪掷10亿美元藏着阳谋",
+          "url": "https://www.toutiao.com/trending/7598140202548203062/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "美光科技(MU.O)涨幅扩大至7%，创历史新高，总市值达到4400亿美元。",
           "url": "https://flash.jin10.com/detail/20260121234557596800",
           "source": "金十数据",
@@ -712,7 +747,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
@@ -866,7 +901,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         }
@@ -963,17 +998,6 @@
           "time_info": "[00时25分 ~ 08时57分]"
         },
         {
-          "title": "沪指震荡，上证50ETF成交创历史天量，AI算力产业链爆发、黄金股掀涨停潮，30年期国债大涨，沪金一度突破1100元",
-          "url": "https://wallstreetcn.com/articles/3763773",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时31分 ~ 08时57分]"
-        },
-        {
           "title": "一图看懂 | 马斯克开年忙落子，太空、AI、机器人都有大动作",
           "url": "https://www.cls.cn/detail/2266641",
           "source": "财联社热门",
@@ -983,8 +1007,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时16分 ~ 21时40分]"
+          "appearance_count": 5,
+          "time_info": "[19时16分 ~ 22时22分]"
+        },
+        {
+          "title": "沪指震荡，上证50ETF成交创历史天量，AI算力产业链爆发、黄金股掀涨停潮，30年期国债大涨，沪金一度突破1100元",
+          "url": "https://wallstreetcn.com/articles/3763773",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时31分 ~ 08时57分]"
         },
         {
           "title": "UP主带你玩转全球顶级AI现场",
@@ -1151,6 +1186,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时24分 ~ 18时18分]"
+        },
+        {
+          "title": "欧洲头部AI公司高管：说中国的人工智能技术落后美国是“天方夜谭”",
+          "url": "https://wallstreetcn.com/livenews/3042097",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时40分 ~ 22时22分]"
         },
         {
           "title": "如何看待「不会用 AI 的家庭将是新寒门」的观点，AI 改变教育模式的当下，该如何在学习中合理使用 AI？",
@@ -1324,18 +1371,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时40分"
-        },
-        {
-          "title": "欧洲头部AI公司高管：说中国的人工智能技术落后美国是“天方夜谭”",
-          "url": "https://wallstreetcn.com/livenews/3042097",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
@@ -1420,7 +1456,7 @@
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 33,
+      "match_count": 36,
       "titles": [
         {
           "title": "特朗普要败诉？美最高法对罢免美联储理事库克态度谨慎，大法官警告“粉碎”央行独立性",
@@ -1433,8 +1469,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时16分 ~ 21时40分]"
+          "appearance_count": 19,
+          "time_info": "[07时16分 ~ 22时22分]"
         },
         {
           "title": "央行：加快建设人民币跨境支付体系 推进跨境支付互联互通",
@@ -1455,7 +1491,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
@@ -1477,7 +1513,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
@@ -1504,17 +1540,6 @@
           "time_info": "14时21分"
         },
         {
-          "title": "美国三季度核心个人消费支出(PCE)物价指数年化季环比终值 2.9%，预期 2.9%，初值 2.9%。",
-          "url": "https://wallstreetcn.com/livenews/3042108",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时40分"
-        },
-        {
           "title": "土耳其央行将基准回购利率下调100个基点至37.00%，预期 36.5%。",
           "url": "https://wallstreetcn.com/livenews/3042018",
           "source": "华尔街见闻-快讯",
@@ -1527,6 +1552,18 @@
           "time_info": "[19时16分 ~ 20时26分]"
         },
         {
+          "title": "美国三季度核心个人消费支出(PCE)物价指数年化季环比终值 2.9%，预期 2.9%，初值 2.9%。",
+          "url": "https://wallstreetcn.com/livenews/3042108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时40分 ~ 22时22分]"
+        },
+        {
           "title": "马来西亚央行维持关键利率不变 经济增长和通胀保持稳定",
           "url": "https://wallstreetcn.com/livenews/3041855",
           "source": "华尔街见闻-快讯",
@@ -1537,6 +1574,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时20分 ~ 16时18分]"
+        },
+        {
+          "title": "央行明日开展9000亿元MLF操作 加码呵护资金面平稳 市场预计短期内降准可能性不大",
+          "url": "https://www.cls.cn/detail/2266929",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时39分 ~ 22时22分]"
         },
         {
           "title": "越来越多日企视加息为不利因素 日本央行面临政策挑战",
@@ -1563,15 +1612,16 @@
           "time_info": "[17时24分 ~ 18时18分]"
         },
         {
-          "title": "央行明日开展9000亿元MLF操作 加码呵护资金面平稳 市场预计短期内降准可能性不大",
-          "url": "https://www.cls.cn/detail/2266929",
-          "source": "财联社热门",
+          "title": "提醒：北京时间21:30，将公布美国三季度实际GDP、美国三季度核心个人消费支出(PCE)物价指数、美国1月17日当周首次申请失业救济人数。",
+          "url": "https://wallstreetcn.com/livenews/3042100",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时39分 ~ 21时40分]"
+          "time_info": "[21时40分 ~ 22时22分]"
         },
         {
           "title": "银行家表示，印度央行过去两天进行了逾20亿美元的外汇掉期操作，以抵消美元现货抛售造成的流动性流失。这表明央行正致力于缓解汇率压力，同时避免加剧银行体系流动性紧张。",
@@ -1684,17 +1734,6 @@
           "time_info": "19时16分"
         },
         {
-          "title": "提醒：北京时间21:30，将公布美国三季度实际GDP、美国三季度核心个人消费支出(PCE)物价指数、美国1月17日当周首次申请失业救济人数。",
-          "url": "https://wallstreetcn.com/livenews/3042100",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时40分"
-        },
-        {
           "title": "德国央行：德国经济将在2026年晚些时候获得支出刺激。",
           "url": "https://flash.jin10.com/detail/20260122190216196800",
           "source": "金十数据",
@@ -1756,7 +1795,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
@@ -1783,15 +1822,48 @@
           "time_info": "08时57分"
         },
         {
+          "title": "美国第三季度核心PCE物价指数年率终值 2.9%，前值2.9%。",
+          "url": "https://flash.jin10.com/detail/20260122213157512800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "欧洲央行会议纪要：欧洲央行得出结论认为政策目前处于良好状态，但立场并非一成不变。 欧洲央行对利率向任一方向调整保持充分的选择权。 在上次会议上，通胀风险被认为具有双向性。 “部分”人士认为通胀风险处于下行态势，“少数”人士则认为通胀风险处于上行态势。",
           "url": "https://wallstreetcn.com/livenews/3042080",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
+        },
+        {
+          "title": "美国第三季度PCE物价指数年率终值 2.7%，前值2.7%。",
+          "url": "https://flash.jin10.com/detail/20260122213153383800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
+          "title": "央行1月23日开展9000亿MLF操作",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A1%8C1%E6%9C%8823%E6%97%A5%E5%BC%80%E5%B1%959000%E4%BA%BFMLF%E6%93%8D%E4%BD%9C%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         }
       ]
     },
@@ -1821,11 +1893,12 @@
             20,
             21,
             17,
-            25
+            25,
+            22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时20分 ~ 21时40分]"
+          "appearance_count": 13,
+          "time_info": "[14时20分 ~ 22时22分]"
         },
         {
           "title": "据The Information：苹果(AAPL.O)计划在2027年首次推出可穿戴人工智能别针，初期产量高达2000万枚。",
@@ -1839,6 +1912,20 @@
           "time_info": "04时20分"
         },
         {
+          "title": "iPhoneFold售价曝光",
+          "url": "https://s.weibo.com/weibo?q=%23iPhoneFold%E5%94%AE%E4%BB%B7%E6%9B%9D%E5%85%89%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            17,
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时16分 ~ 22时22分]"
+        },
+        {
           "title": "苹果公司正开发AI可穿戴设备PIN。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3041492",
           "source": "华尔街见闻-快讯",
@@ -1849,19 +1936,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时20分 ~ 05时21分]"
-        },
-        {
-          "title": "iPhoneFold售价曝光",
-          "url": "https://s.weibo.com/weibo?q=%23iPhoneFold%E5%94%AE%E4%BB%B7%E6%9B%9D%E5%85%89%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时16分 ~ 21时40分]"
         },
         {
           "title": "切入生成式AI赛道！苹果战略转向：首款AI聊天机器人要来了？",
@@ -2050,8 +2124,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时26分 ~ 21时40分]"
+          "appearance_count": 4,
+          "time_info": "[20时26分 ~ 22时22分]"
         },
         {
           "title": "韩国1月前20天半导体出口额增长70.2%",
@@ -2157,8 +2231,19 @@
     },
     {
       "keyword_group": "就业 裁员 招聘",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "美国首次申请失业救济人数稳定在20万 显示裁员规模有限",
+          "url": "https://wallstreetcn.com/livenews/3042124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
         {
           "title": "法国兴业银行将在法国裁员1800人。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3041463",
@@ -2259,6 +2344,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
+        },
+        {
+          "title": "美国初请失业金人数变化不大 裁员规模或有限",
+          "url": "https://flash.jin10.com/detail/20260122214431506800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "澳大利亚12月兼职就业人口变动 1.04万人，前值 3.52万人。",
@@ -2425,11 +2521,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时18分 ~ 21时40分]"
+          "appearance_count": 7,
+          "time_info": "[16时18分 ~ 22时22分]"
         },
         {
           "title": "房地产利好消息不断落地",
@@ -2465,11 +2562,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时26分 ~ 21时40分]"
+          "appearance_count": 4,
+          "time_info": "[20时26分 ~ 22时22分]"
         },
         {
           "title": "A股收盘：创业板指探底回升涨超1%，商业航天、油气股集体走强",
@@ -2591,7 +2689,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         }
@@ -2675,8 +2773,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时24分 ~ 21时40分]"
+          "appearance_count": 8,
+          "time_info": "[17时24分 ~ 22时22分]"
         }
       ]
     },
