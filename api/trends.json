@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T10:58:41.542820+08:00",
-  "total_titles_processed": 1035,
+  "generated_at": "2026-01-23T12:03:49.024059+08:00",
+  "total_titles_processed": 1149,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 61,
+      "match_count": 64,
       "titles": [
         {
           "title": "特朗普“TACO”，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
@@ -30,11 +30,23 @@
             10,
             14,
             1,
-            23
+            23,
+            21
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 10时58分]"
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 12时03分]"
+        },
+        {
+          "title": "强劲数据提振风险偏好，Mag 7普涨，小盘股指再新高，美元跌至98，金银铂齐新高",
+          "url": "https://wallstreetcn.com/articles/3763892",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时57分 ~ 12时03分]"
         },
         {
           "title": "专家：普京豪掷10亿美元藏着阳谋",
@@ -51,17 +63,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时21分 ~ 06时14分]"
-        },
-        {
-          "title": "强劲数据提振风险偏好，Mag 7普涨，小盘股指再新高，美元跌至98，金银铂齐新高",
-          "url": "https://wallstreetcn.com/articles/3763892",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时57分 ~ 10时58分]"
         },
         {
           "title": "市场消息：美国众议院在共和党克服内部分歧后，推进了包含美国移民和海关执法局资金在内的1.2万亿美元方案。",
@@ -103,7 +104,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
         },
@@ -117,6 +118,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "戴比尔斯时隔一年再降价，其钻石库存积压超 20 亿美元，拍卖成交率下滑，传统钻石商业逻辑是否已走到尽头？",
+          "url": "https://www.zhihu.com/question/1996889452405080095",
+          "source": "知乎",
+          "ranks": [
+            12,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时57分 ~ 12时03分]"
         },
         {
           "title": "英特尔(INTC.O)Q1营收展望为117亿至127亿美元，市场预期为126亿美元。",
@@ -139,18 +153,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
-        },
-        {
-          "title": "戴比尔斯时隔一年再降价，其钻石库存积压超 20 亿美元，拍卖成交率下滑，传统钻石商业逻辑是否已走到尽头？",
-          "url": "https://www.zhihu.com/question/1996889452405080095",
-          "source": "知乎",
-          "ranks": [
-            12,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时57分 ~ 10时58分]"
         },
         {
           "title": "现货铂金首次突破2600美元/盎司",
@@ -312,6 +314,18 @@
           "time_info": "[03时18分 ~ 04时15分]"
         },
         {
+          "title": "开年已涨超11%！高盛：上调黄金年末价格预期至5400美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32442551",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时58分 ~ 12时03分]"
+        },
+        {
           "title": "英特尔(INTC.O)2025年Q4净亏损5.91亿美元，市场预期净亏损6.03亿美元，上年同期净亏损1.26亿美元。",
           "url": "https://flash.jin10.com/detail/20260123050221568800",
           "source": "金十数据",
@@ -367,13 +381,24 @@
           "time_info": "07时13分"
         },
         {
+          "title": "引爆日本债市、吓崩全球市场、点燃高市“特拉斯时刻”，只需2.8亿美元！",
+          "url": "https://wallstreetcn.com/articles/3763970",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
           "title": "现货白银突破99美元",
           "url": "https://s.weibo.com/weibo?q=%23%E7%8E%B0%E8%B4%A7%E7%99%BD%E9%93%B6%E7%AA%81%E7%A0%B499%E7%BE%8E%E5%85%83%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
         },
@@ -532,6 +557,17 @@
           "time_info": "06时14分"
         },
         {
+          "title": "WTI原油突破60美元/桶，日内涨0.49%。",
+          "url": "https://flash.jin10.com/detail/20260123112434397800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
           "title": "据知情人士透露，雀巢启动出售水业务部门的工作，多家银行为这笔潜在交易筹备高达30亿美元的债务（支持）。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3042172",
           "source": "华尔街见闻-快讯",
@@ -549,20 +585,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
         },
         {
-          "title": "开年已涨超11%！高盛：上调黄金年末价格预期至5400美元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32442551",
-          "source": "澎湃新闻",
+          "title": "特朗普起诉美最大银行索赔50亿美元",
+          "url": "https://www.toutiao.com/trending/7598255637491466246/",
+          "source": "今日头条",
           "ranks": [
             19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时58分"
+          "time_info": "12时03分"
         },
         {
           "title": "现货黄金历史性站上4900美元",
@@ -710,8 +746,413 @@
       ]
     },
     {
+      "keyword_group": "央行 降息 降准 CPI 物价",
+      "match_count": 36,
+      "titles": [
+        {
+          "title": "央行明日开展9000亿元MLF操作 加码呵护资金面平稳 市场预计短期内降准可能性不大",
+          "url": "https://www.cls.cn/detail/2266929",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 12时03分]"
+        },
+        {
+          "title": "【早报】潘功胜发声！事关货币政策、降准降息；商业航天，密集消息来袭",
+          "url": "https://www.cls.cn/detail/2267155",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时57分 ~ 12时03分]"
+        },
+        {
+          "title": "日本央行出现反对票和上调核心通胀预期 加息预期得到强化",
+          "url": "https://flash.jin10.com/detail/20260123114402045800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "日本央行利率决议后，日本2年期国债收益率从1.215%升至1.230%。",
+          "url": "https://flash.jin10.com/detail/20260123114329761800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "5400美元！高盛大幅上调黄金目标价：富豪们正跑步入场，与央行争夺“有限实物储备”",
+          "url": "https://wallstreetcn.com/articles/3763905",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时57分 ~ 12时03分]"
+        },
+        {
+          "title": "秘鲁央行称在即期市场买入4.4亿美元。",
+          "url": "https://flash.jin10.com/detail/20260123024213931800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时18分 ~ 04时15分]"
+        },
+        {
+          "title": "日本央行利率决议看点",
+          "url": "https://wallstreetcn.com/livenews/3042502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
+          "title": "特朗普要败诉？美最高法对罢免美联储理事库克态度谨慎，大法官警告“粉碎”央行独立性",
+          "url": "https://wallstreetcn.com/articles/3763857",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "日本央行利率决议后，10年期日本国债期货下跌，最新下跌0.17日元，报131.43日元。",
+          "url": "https://flash.jin10.com/detail/20260123113312055800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "日本央行：近期食品价格（如米价）的上涨，很大程度上反映了暂时的供应侧因素。 全球经济前景仍存在不确定性，例如贸易政策的影响，这可能导致供应侧驱动的进口价格上涨。 迄今为止宣布的贸易政策可能会拖累全球经济。 关于美国经济，需要关注的因素包括关税通过恶化企业利润对就业和收入形成产生的影响。 如果进口价格大幅上涨，家庭对支出的防御性心态可能会进一步加强。 迄今为止宣布的贸易政策可能会引发全球化趋势的改变。",
+          "url": "https://wallstreetcn.com/livenews/3042539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "日本央行上调经济增长和通胀预期",
+          "url": "https://flash.jin10.com/detail/20260123113234070800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "日本央行：应对日元汇率走势更有可能影响通胀加以关注。",
+          "url": "https://wallstreetcn.com/livenews/3042536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "德银：日本央行须释放进一步收紧信号以安抚市场",
+          "url": "https://wallstreetcn.com/livenews/3042289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "日本央行：日本金融活动未出现重大失衡，日本金融体系整体稳定。 将从可持续且稳步实现2%通胀目标的角度出发，进行适当的货币政策操作。",
+          "url": "https://wallstreetcn.com/livenews/3042535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "新西兰四季度CPI季环比 0.6%，预期 0.5%，前值 1%。",
+          "url": "https://wallstreetcn.com/livenews/3042320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时14分"
+        },
+        {
+          "title": "日本央行：日本经济可能会持续温和复苏。 消费者通胀或将逐步加速。 维持薪资与通胀同步上升的机制。 产出缺口可望随着趋势改善，温和扩张。 中长期通胀预期可能持续温和上升。",
+          "url": "https://wallstreetcn.com/livenews/3042534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "日本央行利率决议后，日经225指数小幅上涨，最新上涨0.44%。",
+          "url": "https://flash.jin10.com/detail/20260123113114106800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "新西兰四季度CPI同比 3.1%，预期 3%，前值 3%。",
+          "url": "https://wallstreetcn.com/livenews/3042319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时14分"
+        },
+        {
+          "title": "日本央行公布利率决策后，日元兑美元扩大跌幅。",
+          "url": "https://wallstreetcn.com/livenews/3042532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "日本央行：如果经济和通胀展望实现，将继续加息。",
+          "url": "https://wallstreetcn.com/livenews/3042531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "日本央行仅一名委员支持加息 植田和男的表态将决定日元走向",
+          "url": "https://flash.jin10.com/detail/20260123112832104800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "日本央行以8比1的投票通过利率决议，高田创反对",
+          "url": "https://wallstreetcn.com/livenews/3042528",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "机构：日本央行今日料按兵不动，在政治变局与市场波动间艰难求稳",
+          "url": "https://flash.jin10.com/detail/20260123080922800800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时58分"
+        },
+        {
+          "title": "金十图示：2026年01月23日（周五）日本央行经济预期",
+          "url": "https://flash.jin10.com/detail/20260123111826430800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "日本央行维持政策利率在0.75%不变，符合预期。",
+          "url": "https://wallstreetcn.com/livenews/3042524",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "日经225指数期货在日本央行决议后延续涨势，现上涨0.4%。",
+          "url": "https://flash.jin10.com/detail/20260123111523625800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "日本央行：关于美国经济，有必要关注关税通过企业利润恶化对就业和收入形成产生的影响等因素。",
+          "url": "https://flash.jin10.com/detail/20260123111503186800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "日本央行维持利率不变，密切关注近期加息的影响",
+          "url": "https://flash.jin10.com/detail/20260123111448020800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "日本央行：产出缺口有望按趋势改善，并适度扩大。",
+          "url": "https://flash.jin10.com/detail/20260123111259729800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "日本央行：中长期通胀预期很可能继续温和上升。",
+          "url": "https://flash.jin10.com/detail/20260123111250439800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "日本央行：全球经济前景仍存在不确定性，例如贸易政策的影响，这可能导致供给端进口价格上涨。",
+          "url": "https://flash.jin10.com/detail/20260123111235262800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "日本央行：日本金融体系总体稳定。",
+          "url": "https://flash.jin10.com/detail/20260123111222840800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "美国11月核心PCE物价指数同比 2.79%，预期 2.8%。",
+          "url": "https://wallstreetcn.com/livenews/3042163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "日本央行：前景面临的风险包括贸易政策对海外经济体的影响、国内企业工资和定价行为，以及金融和外汇市场的发展。",
+          "url": "https://flash.jin10.com/detail/20260123111206357800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "日本央行：将从可持续、稳定实现2%通胀目标的角度，适时实施货币政策。",
+          "url": "https://flash.jin10.com/detail/20260123111149058800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "美国11月PCE物价指数同比 2.8%，预期 2.8%。",
+          "url": "https://wallstreetcn.com/livenews/3042161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "人工智能 AI",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "一图看懂 | 马斯克开年忙落子，太空、AI、机器人都有大动作",
@@ -734,6 +1175,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "AI需求兑现但供应将至“最低点”，英特尔Q1指引逊色，盘后大跌超10% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3763967",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时57分 ~ 12时03分]"
         },
         {
           "title": "谷歌：即日起，谷歌AI Pro和AI Ultra订阅用户可选择安全地将Gmail和谷歌相册连接到AI模式。",
@@ -770,18 +1224,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时15分 ~ 05时14分]"
-        },
-        {
-          "title": "AI需求兑现但供应将至“最低点”，英特尔Q1指引逊色，盘后大跌超10% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3763967",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时57分 ~ 10时58分]"
         },
         {
           "title": "咻咻满COS翻唱icantwait",
@@ -855,6 +1297,17 @@
           "time_info": "00时21分"
         },
         {
+          "title": "国家知识产权局：完善人工智能等新领域新业态知识产权保护制度",
+          "url": "https://wallstreetcn.com/livenews/3042541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
           "title": "谷歌：在谷歌搜索中将个人智能扩展至AI模式。",
           "url": "https://flash.jin10.com/detail/20260123000148990800",
           "source": "金十数据",
@@ -916,7 +1369,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
         },
@@ -982,155 +1435,15 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "央行明日开展9000亿元MLF操作 加码呵护资金面平稳 市场预计短期内降准可能性不大",
-          "url": "https://www.cls.cn/detail/2266929",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 10时58分]"
-        },
-        {
-          "title": "【早报】潘功胜发声！事关货币政策、降准降息；商业航天，密集消息来袭",
-          "url": "https://www.cls.cn/detail/2267155",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时57分 ~ 10时58分]"
-        },
-        {
-          "title": "5400美元！高盛大幅上调黄金目标价：富豪们正跑步入场，与央行争夺“有限实物储备”",
-          "url": "https://wallstreetcn.com/articles/3763905",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时57分 ~ 10时58分]"
-        },
-        {
-          "title": "秘鲁央行称在即期市场买入4.4亿美元。",
-          "url": "https://flash.jin10.com/detail/20260123024213931800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时18分 ~ 04时15分]"
-        },
-        {
-          "title": "日本央行利率决议看点",
-          "url": "https://wallstreetcn.com/livenews/3042502",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时58分"
-        },
-        {
-          "title": "特朗普要败诉？美最高法对罢免美联储理事库克态度谨慎，大法官警告“粉碎”央行独立性",
-          "url": "https://wallstreetcn.com/articles/3763857",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "德银：日本央行须释放进一步收紧信号以安抚市场",
-          "url": "https://wallstreetcn.com/livenews/3042289",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时14分"
-        },
-        {
-          "title": "新西兰四季度CPI季环比 0.6%，预期 0.5%，前值 1%。",
-          "url": "https://wallstreetcn.com/livenews/3042320",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时14分"
-        },
-        {
-          "title": "新西兰四季度CPI同比 3.1%，预期 3%，前值 3%。",
-          "url": "https://wallstreetcn.com/livenews/3042319",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时14分"
-        },
-        {
-          "title": "机构：日本央行今日料按兵不动，在政治变局与市场波动间艰难求稳",
-          "url": "https://flash.jin10.com/detail/20260123080922800800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
-        },
-        {
-          "title": "美国11月核心PCE物价指数同比 2.79%，预期 2.8%。",
-          "url": "https://wallstreetcn.com/livenews/3042163",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "美国11月PCE物价指数同比 2.8%，预期 2.8%。",
-          "url": "https://wallstreetcn.com/livenews/3042161",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
         }
       ]
     },
     {
       "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "给你 9 亿 3458 万 3642.99 元预算，你会制作出一款什么样的理想中的游戏？",
@@ -1154,6 +1467,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "特斯拉CEO马斯克表示，随着功能提升，完全自动驾驶（FSD）订阅价格将会上涨。",
+          "url": "https://wallstreetcn.com/livenews/3042546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "马斯克：特斯拉将在今年底、或明年向公众销售人形机器人",
@@ -1184,11 +1508,12 @@
           "url": "https://www.cls.cn/detail/2267117",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时57分 ~ 08时58分]"
+          "appearance_count": 3,
+          "time_info": "[08时57分 ~ 12时03分]"
         },
         {
           "title": "特斯拉CEO埃隆·马斯克：特斯拉Robotaxi在奥斯汀启动无人驾驶测试，车内无安全员。",
@@ -1260,7 +1585,7 @@
     },
     {
       "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "商务部回应H200芯片购买审批",
@@ -1317,11 +1642,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时57分 ~ 10时58分]"
+          "appearance_count": 4,
+          "time_info": "[08时57分 ~ 12时03分]"
         },
         {
           "title": "曝阿里旗下芯片公司平头哥拟独立上市",
@@ -1334,6 +1660,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时18分 ~ 05时14分]"
+        },
+        {
+          "title": "金十图示：2026年01月23日（周五）富时中国A50指数成分股午盘收盘行情一览：银行、保险、半导体板块普跌",
+          "url": "https://flash.jin10.com/detail/20260123113326213800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "英特尔(INTC.O)CFO津斯纳：定制芯片业务在2025年增长超过50%，并在第四季度实现了超过10亿美元的年化收入规模。",
@@ -1441,7 +1778,59 @@
           "ranks": [
             26
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "基础设施 基建 地铁 高铁",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "旅客称高铁二氧化碳超标 12306回应",
+          "url": "https://www.baidu.com/s?wd=%E6%97%85%E5%AE%A2%E7%A7%B0%E9%AB%98%E9%93%81%E4%BA%8C%E6%B0%A7%E5%8C%96%E7%A2%B3%E8%B6%85%E6%A0%87+12306%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时21分 ~ 04时15分]"
+        },
+        {
+          "title": "网传中国高铁颠簸实为西班牙列车",
+          "url": "https://www.toutiao.com/trending/7597421007737520182/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "12306回应高铁车厢二氧化碳浓度超标",
+          "url": "https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E9%AB%98%E9%93%81%E8%BD%A6%E5%8E%A2%E4%BA%8C%E6%B0%A7%E5%8C%96%E7%A2%B3%E6%B5%93%E5%BA%A6%E8%B6%85%E6%A0%87%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "上海：适度超前布局建设新型信息基础设施 纵深推动“5G+工业互联网”",
+          "url": "https://wallstreetcn.com/livenews/3042458",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
         }
@@ -1504,30 +1893,39 @@
       ]
     },
     {
-      "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 2,
+      "keyword_group": "创业板",
+      "match_count": 3,
       "titles": [
         {
-          "title": "旅客称高铁二氧化碳超标 12306回应",
-          "url": "https://www.baidu.com/s?wd=%E6%97%85%E5%AE%A2%E7%A7%B0%E9%AB%98%E9%93%81%E4%BA%8C%E6%B0%A7%E5%8C%96%E7%A2%B3%E8%B6%85%E6%A0%87+12306%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
+          "title": "【焦点复盘】创业板指探底回升涨超1%，算力硬件股持续回暖，人气股国晟科技午后上演“地天板”",
+          "url": "https://www.cls.cn/detail/2266585",
+          "source": "财联社热门",
           "ranks": [
-            23,
-            14,
-            26
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时21分 ~ 04时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 07时13分]"
         },
         {
-          "title": "上海：适度超前布局建设新型信息基础设施 纵深推动“5G+工业互联网”",
-          "url": "https://wallstreetcn.com/livenews/3042458",
+          "title": "上证指数早盘收报4133.57点，涨0.27%。 深证成指早盘收报14360.98点，涨0.24%。 创业板指早盘收报3322.96点，跌0.17%。 沪深300早盘收报4707.04点，跌0.35%。 科创50早盘收报1535.14点，跌0.42%。 中证500早盘收报8515.33点，涨1.52%。 中证1000早盘收报8419.90点，涨1.33%。",
+          "url": "https://wallstreetcn.com/livenews/3042545",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            4
           ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "上证指数开盘报4130.11点，涨0.18%。 深证成指开盘报14349.01点，涨0.15%。 创业板指开盘报3334.02点，涨0.16%。 沪深300开盘报4729.59点，涨0.12%。 科创50开盘报1530.28点，跌0.74%。 中证500开盘报8422.36点，涨0.41%。 中证1000开盘报8331.77点，涨0.27%。",
+          "url": "https://wallstreetcn.com/livenews/3042444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
         }
@@ -1551,47 +1949,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时18分 ~ 10时58分]"
+          "appearance_count": 12,
+          "time_info": "[02时18分 ~ 12时03分]"
         },
         {
           "title": "小米拟最高回购25亿港元股份",
           "url": "https://www.douyin.com/hot/2376455",
           "source": "抖音",
           "ranks": [
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时57分 ~ 08时58分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "创业板",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "【焦点复盘】创业板指探底回升涨超1%，算力硬件股持续回暖，人气股国晟科技午后上演“地天板”",
-          "url": "https://www.cls.cn/detail/2266585",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 07时13分]"
-        },
-        {
-          "title": "上证指数开盘报4130.11点，涨0.18%。 深证成指开盘报14349.01点，涨0.15%。 创业板指开盘报3334.02点，涨0.16%。 沪深300开盘报4729.59点，涨0.12%。 科创50开盘报1530.28点，跌0.74%。 中证500开盘报8422.36点，涨0.41%。 中证1000开盘报8331.77点，涨0.27%。",
-          "url": "https://wallstreetcn.com/livenews/3042444",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时58分"
+          "appearance_count": 3,
+          "time_info": "[08时57分 ~ 12时03分]"
         }
       ]
     },
