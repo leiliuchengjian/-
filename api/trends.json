@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T01:19:44.015192+08:00",
-  "total_titles_processed": 372,
+  "generated_at": "2026-01-24T02:20:00.011603+08:00",
+  "total_titles_processed": 424,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 19,
+      "match_count": 28,
       "titles": [
         {
           "title": "强劲数据提振风险偏好，Mag 7普涨，小盘股指再新高，美元跌至98，金银铂齐新高",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时19分]"
         },
         {
           "title": "地缘风险仍未消散，美股周线承压，英特尔跌14%，美元遭遇半年来最差一周，纽约期银突破100美元，创历史新高",
@@ -26,30 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 01时19分]"
-        },
-        {
-          "title": "美元指数跌破98关口，为12月30日以来首次，目前跌0.3%。 彭博美元指数创10月份以来新低。",
-          "url": "https://wallstreetcn.com/livenews/3043068",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "美元指数失守98关口",
-          "url": "https://flash.jin10.com/detail/20260124004940851800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时19分"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时19分]"
         },
         {
           "title": "巴西股指一度涨超1.1%，刷新盘中历史高位至17.75万点上方。 按美元计价，巴西股指本周已经累计上涨9.7%，在全球范围内领跑。",
@@ -88,6 +66,30 @@
           "time_info": "[00时18分 ~ 01时19分]"
         },
         {
+          "title": "美元指数跌破98关口，为12月30日以来首次，目前跌0.3%。 彭博美元指数创10月份以来新低。",
+          "url": "https://wallstreetcn.com/livenews/3043068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 02时19分]"
+        },
+        {
+          "title": "美元指数失守98关口",
+          "url": "https://flash.jin10.com/detail/20260124004940851800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 02时19分]"
+        },
+        {
           "title": "引爆日本债市、吓崩全球市场、点燃高市“特拉斯时刻”，只需2.8亿美元！",
           "url": "https://wallstreetcn.com/articles/3763970",
           "source": "华尔街见闻",
@@ -95,8 +97,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时19分]"
         },
         {
           "title": "现货白银站上100美元",
@@ -123,6 +125,18 @@
           "time_info": "[00时18分 ~ 01时19分]"
         },
         {
+          "title": "商品货币澳元/美元日内涨幅达0.5%，报0.6875。",
+          "url": "https://wallstreetcn.com/livenews/3043063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 02时19分]"
+        },
+        {
           "title": "沪锡主力合约涨幅扩大至逾7%，现报451200元/吨。伦锡日内涨幅达8.00%，现报56395.00美元/吨。",
           "url": "https://flash.jin10.com/detail/20260123234837552800",
           "source": "金十数据",
@@ -135,26 +149,60 @@
           "time_info": "[00时18分 ~ 01时19分]"
         },
         {
-          "title": "商品货币澳元/美元日内涨幅达0.5%，报0.6875。",
-          "url": "https://wallstreetcn.com/livenews/3043063",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
           "title": "纽约期银突破101美元/盎司，日内涨4.80%。",
           "url": "https://flash.jin10.com/detail/20260124002828455800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 02时19分]"
+        },
+        {
+          "title": "周五（1月23日），韩元兑美元最终涨0.11%，报1463.24韩元，本周累计上涨0.70%。",
+          "url": "https://wallstreetcn.com/livenews/3043082",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时19分"
+          "time_info": "02时19分"
+        },
+        {
+          "title": "LME期铜收涨360美元，报13115美元/吨。 LME期铝收涨36美元，报3169美元/吨。 LME期锌收涨50美元，报3260美元/吨。 LME期铅收涨6美元，报2026美元/吨。 LME期镍收涨760美元，报18756美元/吨。 LME期锡收涨4939美元，报56816美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3043081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        },
+        {
+          "title": "美元兑日元跌幅扩大至1%，报156.82。 美元指数日内跌幅达0.5%，报97.8402",
+          "url": "https://wallstreetcn.com/livenews/3043078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        },
+        {
+          "title": "纽约银日内涨幅达5.0%，报101.19美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3043077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时19分"
         },
         {
           "title": "现货黄金日内涨超1.00%，现报4985.83美元/盎司。",
@@ -163,9 +211,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        },
+        {
+          "title": "美元/加元日内跌幅达0.5%，报1.3716。",
+          "url": "https://wallstreetcn.com/livenews/3043075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时19分"
         },
         {
           "title": "现货黄金向上触及4980美元/盎司，续刷历史新高，日内涨0.89%。",
@@ -174,9 +233,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        },
+        {
+          "title": "美元兑日元USD/JPY日内跌幅扩大至1.00%，现报156.77。",
+          "url": "https://flash.jin10.com/detail/20260124012324816800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时19分"
         },
         {
           "title": "全球动荡推升避险需求 白银价格突破100美元关口",
@@ -185,9 +255,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        },
+        {
+          "title": "现货白银首次站上101美元/盎司",
+          "url": "https://flash.jin10.com/detail/20260124011847292800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时19分"
         },
         {
           "title": "纽约期银涨穿100美元整数位心理关口，创盘中历史新高，涨幅大约3.7%。 沪银夜盘涨超5%，目前报25377元人民币/千克。",
@@ -199,6 +280,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "美元兑日元USD/JPY向下触及157关口，为1月9日以来首次，日内跌0.86%。",
+          "url": "https://flash.jin10.com/detail/20260124011732757800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时19分"
         },
         {
           "title": "钯金期货日内涨6%，现报2044.00美元/盎司。",
@@ -221,12 +313,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "人民币兑美元中间价升破7释放何信号",
+          "url": "https://www.toutiao.com/trending/7598498216115441206/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时19分"
         }
       ]
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "AI需求兑现但供应将至“最低点”，英特尔Q1指引逊色，盘后大跌超10% | 财报见闻",
@@ -236,19 +339,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 01时19分]"
-        },
-        {
-          "title": "据科技媒体TechCrunsh：Meta公司暂停青少年访问AI角色，同时将开发专门定制的版本。",
-          "url": "https://flash.jin10.com/detail/20260124010639315800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时19分"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时19分]"
         },
         {
           "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
@@ -259,8 +351,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时19分]"
         },
         {
           "title": "AI发展会降低创作者存在意义吗",
@@ -268,11 +360,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             17,
-            7
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时19分]"
+        },
+        {
+          "title": "据科技媒体TechCrunsh：Meta公司暂停青少年访问AI角色，同时将开发专门定制的版本。",
+          "url": "https://flash.jin10.com/detail/20260124010639315800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时18分 ~ 01时19分]"
+          "time_info": "[01时19分 ~ 02时19分]"
         },
         {
           "title": "因家长用 AI 生成练习册，小学生组团给「千问」刷差评，怎样看待这一现象？反映出了哪些问题？",
@@ -298,15 +403,37 @@
           "time_info": "00时18分"
         },
         {
+          "title": "Meta暂停青少年群体访问其AI角色。（TechCrunch）",
+          "url": "https://wallstreetcn.com/livenews/3043073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：未来一个月将推出大量与Codex相关的激动人心的新功能，将从下周开始公布。",
           "url": "https://flash.jin10.com/detail/20260124001800277800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        },
+        {
+          "title": "Meta宣布暂停青少年使用人工智能角色功能",
+          "url": "https://flash.jin10.com/detail/20260124011157050800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时19分"
         },
         {
           "title": "据科技媒体TechCrunsh：OpenAI创始人Altman计划于二月中旬访问印度。",
@@ -333,19 +460,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时19分]"
         },
         {
           "title": "中韩探讨了中朝韩高铁项目？中方回应",
           "url": "https://www.cls.cn/detail/2268137",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时19分]"
         },
         {
           "title": "你认为坐高铁易犯困是二氧化碳超标吗",
@@ -356,8 +484,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时19分]"
         }
       ]
     },
@@ -371,11 +499,12 @@
           "source": "今日头条",
           "ranks": [
             24,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时19分]"
         },
         {
           "title": "2026年房地产市场怎么走",
@@ -402,19 +531,49 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时19分]"
         },
         {
           "title": "iPhone Fold售价曝光 顶配或超2万",
           "url": "https://www.baidu.com/s?wd=iPhone+Fold%E5%94%AE%E4%BB%B7%E6%9B%9D%E5%85%89+%E9%A1%B6%E9%85%8D%E6%88%96%E8%B6%852%E4%B8%87",
           "source": "百度热搜",
           "ranks": [
-            16
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "央行 降息 降准 CPI 物价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "英镑兑美元和欧元走强，交易员下调对英国央行降息的押注",
+          "url": "https://wallstreetcn.com/livenews/3043057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时18分 ~ 01时19分]"
+          "time_info": "[01时19分 ~ 02时19分]"
+        },
+        {
+          "title": "白银价格攻破100美元里程碑 地缘政治动荡及降息预期推动贵金属价格屡创新高",
+          "url": "https://flash.jin10.com/detail/20260124013658761800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时19分"
         }
       ]
     },
@@ -430,8 +589,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时19分]"
         }
       ]
     },
@@ -447,8 +606,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时19分]"
         }
       ]
     },
@@ -464,25 +623,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 01时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "英镑兑美元和欧元走强，交易员下调对英国央行降息的押注",
-          "url": "https://wallstreetcn.com/livenews/3043057",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时19分"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时19分]"
         }
       ]
     },
