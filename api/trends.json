@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T16:19:56.428084+08:00",
-  "total_titles_processed": 1460,
+  "generated_at": "2026-01-27T17:23:56.400976+08:00",
+  "total_titles_processed": 1586,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 92,
+      "match_count": 102,
       "titles": [
         {
           "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
@@ -43,6 +43,18 @@
           "time_info": "[00时21分 ~ 06时14分]"
         },
         {
+          "title": "极致的狂热？白银一度暴涨14%至近118美元，此后涨幅回落至不到1%",
+          "url": "https://wallstreetcn.com/articles/3764206",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时01分 ~ 17时23分]"
+        },
+        {
           "title": "【早报】高台跳水！白银14%涨幅蒸发、黄金下破5000美元；白银基金明起暂停申购",
           "url": "https://www.cls.cn/detail/2270502",
           "source": "财联社热门",
@@ -54,29 +66,6 @@
           "time_info": "[09时01分 ~ 14时21分]"
         },
         {
-          "title": "极致的狂热？白银一度暴涨14%至近118美元，此后涨幅回落至不到1%",
-          "url": "https://wallstreetcn.com/articles/3764206",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时01分 ~ 16时19分]"
-        },
-        {
-          "title": "黄金逼近5100美元！一图看懂金银加速上涨",
-          "url": "https://www.cls.cn/detail/2269870",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 07时13分]"
-        },
-        {
           "title": "特朗普政府将入股美国稀土公司，涉资16亿美元，持股将多达16%",
           "url": "https://wallstreetcn.com/articles/3764157",
           "source": "华尔街见闻",
@@ -86,8 +75,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时13分 ~ 16时19分]"
+          "appearance_count": 9,
+          "time_info": "[07时13分 ~ 17时23分]"
         },
         {
           "title": "白银盘中狂飙超10%，黄金涨破5100美元、创四十年最大月涨，全球动荡驱动避险潮",
@@ -100,8 +89,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时01分 ~ 16时19分]"
+          "appearance_count": 8,
+          "time_info": "[09时01分 ~ 17时23分]"
+        },
+        {
+          "title": "黄金逼近5100美元！一图看懂金银加速上涨",
+          "url": "https://www.cls.cn/detail/2269870",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 07时13分]"
         },
         {
           "title": "特朗普政府将入股美国稀土公司，持股10%涉资16亿美元",
@@ -144,9 +144,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
+        },
+        {
+          "title": "德银看多黄金至6000美元，甚至有望挑战6900美元",
+          "url": "https://flash.jin10.com/detail/20260127170203654800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
         },
         {
           "title": "现货白银突破115美元",
@@ -677,6 +688,17 @@
           "time_info": "00时21分"
         },
         {
+          "title": "黄金主题LOF：1月28日起A类人民币份额暂停申购及定期定额投资业务。",
+          "url": "https://wallstreetcn.com/livenews/3044628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
+        },
+        {
           "title": "现货黄金站上5080美元/盎司，日内涨1.44%。",
           "url": "https://flash.jin10.com/detail/20260127134745444800",
           "source": "金十数据",
@@ -708,6 +730,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "德意志银行：在其他情境下，6900美元/盎司的黄金价格目标实际上更符合过去两年的跑赢表现。",
+          "url": "https://flash.jin10.com/detail/20260127165825924800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
         },
         {
           "title": "美国天然气价格突破7美元大关 部分现货突破200美元",
@@ -771,7 +804,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -853,6 +886,17 @@
           "time_info": "01时22分"
         },
         {
+          "title": "印度称获得对2630亿美元欧盟纺织品市场的直接准入。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3044611",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
+        },
+        {
           "title": "现货白银日内暴涨9.00%，现报112.53美元/盎司。纽约期银日内暴涨11.00%，现报112.48美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260127000324636800",
           "source": "金十数据",
@@ -897,6 +941,17 @@
           "time_info": "13时20分"
         },
         {
+          "title": "德意志银行：我们认为，在今年美元走软的情况下，（黄金）每盎司6000美元的价格目标是可实现的。",
+          "url": "https://flash.jin10.com/detail/20260127164945513800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
+        },
+        {
           "title": "现货白银日内涨幅达8.0%，报111.27美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3044084",
           "source": "华尔街见闻-快讯",
@@ -917,6 +972,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
+        },
+        {
+          "title": "白银一度暴涨14%至近118美元",
+          "url": "https://www.toutiao.com/trending/7599808092137590282/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
+        },
+        {
+          "title": "阿布扎比国家石油公司天然气CEO：将在阿布扎比国家石油公司天然气业务上投资超过200亿美元，以寻求到2029年将加工能力提高近30%。",
+          "url": "https://flash.jin10.com/detail/20260127164632577800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
         },
         {
           "title": "美元指数跌至4个月新低，现跌0.33%，报96.9。",
@@ -985,6 +1062,17 @@
           "time_info": "11时06分"
         },
         {
+          "title": "金价在5,000美元上方继续前进 “贬值交易”愈演愈烈",
+          "url": "https://wallstreetcn.com/livenews/3044599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
+        },
+        {
           "title": "纽约期银日内暴涨15.00%，现报116.54美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260127015022404800",
           "source": "金十数据",
@@ -1007,6 +1095,17 @@
           "time_info": "00时21分"
         },
         {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.9576，较上一交易日官方收盘价跌4点，较上日夜盘收盘跌36点。",
+          "url": "https://wallstreetcn.com/livenews/3044598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
+        },
+        {
           "title": "白银价格持续走高 向上触及112美元关口",
           "url": "https://flash.jin10.com/detail/20260126231422810800",
           "source": "金十数据",
@@ -1016,6 +1115,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "巴克莱对美元兑日元改持中性立场 认为其影响范围或将扩大",
+          "url": "https://wallstreetcn.com/livenews/3044597",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
         },
         {
           "title": "多家微型电网公司表示：实现世界银行电力计划需460亿美元资金",
@@ -1076,7 +1186,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 37,
+      "match_count": 41,
       "titles": [
         {
           "title": "元宝AI春节10亿红包！马化腾：希望重现当年微信红包盛况",
@@ -1092,6 +1202,18 @@
           "time_info": "[00时21分 ~ 15时20分]"
         },
         {
+          "title": "中国AI的“Max时刻”！千问最强模型开启第二增长曲线",
+          "url": "https://wallstreetcn.com/articles/3764198",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时06分 ~ 17时23分]"
+        },
+        {
           "title": "阶跃星辰印奇谈AI商业化",
           "url": "https://search.bilibili.com/all?keyword=%E9%98%B6%E8%B7%83%E6%98%9F%E8%BE%B0%E5%8D%B0%E5%A5%87%E8%B0%88AI%E5%95%86%E4%B8%9A%E5%8C%96",
           "source": "bilibili 热搜",
@@ -1104,16 +1226,16 @@
           "time_info": "[00时21分 ~ 13时20分]"
         },
         {
-          "title": "中国AI的“Max时刻”！千问最强模型开启第二增长曲线",
-          "url": "https://wallstreetcn.com/articles/3764198",
-          "source": "华尔街见闻",
+          "title": "马化腾：AI全家桶未必大家都喜欢，反对黑产外挂录屏上传云端",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32466338",
+          "source": "澎湃新闻",
           "ranks": [
             5,
             4
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[11时06分 ~ 16时19分]"
+          "time_info": "[12时39分 ~ 17时23分]"
         },
         {
           "title": "瑞银展望2026美国经济：一旦AI泡沫破裂衰退概率将达50%，市场低估了6月前降息的可能性",
@@ -1141,18 +1263,6 @@
           "time_info": "[00时21分 ~ 09时01分]"
         },
         {
-          "title": "马化腾：AI全家桶未必大家都喜欢，反对黑产外挂录屏上传云端",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32466338",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时39分 ~ 16时19分]"
-        },
-        {
           "title": "AI视频丨鹿“回头”，要做三亚“城市合伙人”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32440119",
           "source": "澎湃新闻",
@@ -1164,6 +1274,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时21分 ~ 07时13分]"
+        },
+        {
+          "title": "腾讯正式推出社交AI功能“元宝派”，实测来了！",
+          "url": "https://www.cls.cn/detail/2270597",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时39分 ~ 17时23分]"
         },
         {
           "title": "OpenAI首席信息安全官宣布将离职",
@@ -1232,19 +1355,6 @@
           "time_info": "09时01分"
         },
         {
-          "title": "腾讯正式推出社交AI功能“元宝派”，实测来了！",
-          "url": "https://www.cls.cn/detail/2270597",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时39分 ~ 16时19分]"
-        },
-        {
           "title": "微软云计算与人工智能业务主管斯科特·古特里（Scott Guthrie）：首批Maia 200芯片单位将分配给微软的“超级智能（superintelligence）”团队，用于生成数据以改进下一代人工智能（AI）模型。 这些芯片还将用于驱动面向企业的Copilot助手，以及微软向云客户租用的各种AI模型（包括OpenAI的最新模型）。 第二代AI芯片Maia 200在某些AI任务上的性能优于谷歌和亚马逊的同类半导体。 Maia 200也是微软部署过的效率最高的推理（Inference）系统。 目前已在设计该芯片的继任者Maia 300。",
           "url": "https://wallstreetcn.com/livenews/3044110",
           "source": "华尔街见闻-快讯",
@@ -1275,11 +1385,12 @@
           "ranks": [
             13,
             26,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时21分 ~ 16时19分]"
+          "appearance_count": 4,
+          "time_info": "[14时21分 ~ 17时23分]"
         },
         {
           "title": "AI 霸总「围猎」老年女性，婚介机构借此引流、老人被骗上千元学电商，类似情况为何屡禁不止？监管难在哪？",
@@ -1331,6 +1442,17 @@
           "time_info": "[03时17分 ~ 04时15分]"
         },
         {
+          "title": "印度国有天然气公司GAIL CEO：如果价格走软，印度将签署更多长期液化天然气进口合同。",
+          "url": "https://flash.jin10.com/detail/20260127165949365800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
+        },
+        {
           "title": "拳打亚马逊、脚踢谷歌TPU 微软发布新一代AI加速器Maia 200",
           "url": "https://www.cls.cn/detail/2270429",
           "source": "财联社热门",
@@ -1351,6 +1473,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
+        },
+        {
+          "title": "印度国有天然气公司GAIL CEO：我们相信，随着布伦特油价走软，与油价挂钩的天然气合同价格肯定会比当前水平更加实惠。",
+          "url": "https://flash.jin10.com/detail/20260127165925776800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
         },
         {
           "title": "两部门：推进应急管理装备与人工智能、卫星互联网、北斗和先进计算等新技术融合创新",
@@ -1375,6 +1508,17 @@
           "time_info": "09时01分"
         },
         {
+          "title": "印度国有天然气公司GAIL CEO：价格是推动印度电力行业天然气需求的最大担忧。",
+          "url": "https://flash.jin10.com/detail/20260127165904615800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
+        },
+        {
           "title": "DeepSeek发布DeepSeek-OCR 2，AI能够以与人类相同的逻辑顺序“看”一张图片",
           "url": "https://wallstreetcn.com/livenews/3044481",
           "source": "华尔街见闻-快讯",
@@ -1384,6 +1528,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
+        },
+        {
+          "title": "SK海力士将在美国设立人工智能投资部门。（韩国《每日经济新闻》）",
+          "url": "https://wallstreetcn.com/livenews/3044617",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
         },
         {
           "title": "新加坡副总理：新的美光工厂将部署人工智能和自动化。",
@@ -1510,7 +1665,7 @@
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "央行：前瞻性研判系统性金融风险隐患 维护金融市场稳健运行和金融体系整体稳定",
@@ -1610,6 +1765,17 @@
           "time_info": "[12时39分 ~ 13时20分]"
         },
         {
+          "title": "中国央行：2025年四季度末，本外币住户贷款余额83.28万亿元，同比增长0.5%，全年增加4412亿元。其中，经营性贷款余额25.11万亿元，同比增长4.0%，全年增加9378亿元。不含个人住房贷款的消费性贷款余额21.16万亿元，同比增长0.7%，全年增加1802亿元。",
+          "url": "https://wallstreetcn.com/livenews/3044633",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
+        },
+        {
           "title": "汇丰：英国央行2月会议料保持谨慎",
           "url": "https://flash.jin10.com/detail/20260126233459927800",
           "source": "金十数据",
@@ -1619,6 +1785,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "中国央行：2025年四季度末，金融机构人民币各项贷款余额同比增长6.4%。",
+          "url": "https://wallstreetcn.com/livenews/3044627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
         },
         {
           "title": "俄罗斯央行对企业进行的调查显示，2026年第一季度投资增速将放缓至低于2025年平均值的水平。",
@@ -1638,7 +1815,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -1690,8 +1867,19 @@
     },
     {
       "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "美光科技(MU.O)美股盘前涨3%，此前该公司宣布计划在新加坡投资240亿美元建设一座存储芯片制造厂。",
+          "url": "https://flash.jin10.com/detail/20260127170515814800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
+        },
         {
           "title": "A股收盘：创业板指探底回升涨0.71%，半导体产业链集体走强",
           "url": "https://wallstreetcn.com/livenews/3044528",
@@ -1713,6 +1901,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
+        },
+        {
+          "title": "【每日收评】三大指数探底回升集体收红，半导体芯片板块全线爆发，太空光伏概念午后反弹",
+          "url": "https://www.cls.cn/detail/2271239",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
+        },
+        {
+          "title": "【午报】三大指数缩量震荡涨跌不一，半导体、算力硬件方向双双走强",
+          "url": "https://www.cls.cn/detail/2270867",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
         },
         {
           "title": "美韩贸易摩擦升级 韩国汽车与芯片产业前景蒙阴影",
@@ -1796,8 +2006,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时21分 ~ 16时19分]"
+          "appearance_count": 17,
+          "time_info": "[00时21分 ~ 17时23分]"
         },
         {
           "title": "【焦点复盘】创业板指放量跌近1%，资源股持续强势领涨，万亿市值油气龙头创历史新高",
@@ -1891,8 +2101,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时39分 ~ 16时19分]"
+          "appearance_count": 6,
+          "time_info": "[12时39分 ~ 17时23分]"
         },
         {
           "title": "EDA巨头：AI基建吞噬世界产能 存储芯片紧缺或持续到明年",
@@ -2000,8 +2210,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 15时20分]"
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 17时23分]"
         },
         {
           "title": "标普500指数初步收涨0.5%，电信板块涨1.3%，科技板块涨0.9%，可选消费板块跌0.6%。 纳斯达克100指数初步收涨0.4%，成分股中，Atlassian涨超5%，贝克休斯涨4.4%，希捷科技涨3.8%，CrowdStrike涨3.4%，思科涨3.1%，苹果涨2.9%，核电股CEG、Strategy则收跌超1%，美光科技跌2.4%，特斯拉跌3%，AMD跌3.4%，英特尔跌5.6%。 思科初步收涨3.2%，和苹果领跑道指成分股，亚马逊则跌0.3%，英伟达跌0.6%，波音跌1.4%，3M跌1.7%。",
@@ -2134,11 +2344,12 @@
           "source": "今日头条",
           "ranks": [
             6,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时20分 ~ 16时19分]"
+          "appearance_count": 3,
+          "time_info": "[15时20分 ~ 17时23分]"
         },
         {
           "title": "理想汽车：今年会调整关闭少量低效门店",
@@ -2147,7 +2358,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -2239,6 +2450,45 @@
       ]
     },
     {
+      "keyword_group": "房地产 房价 楼市 LPR",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "中国央行：2025年四季度末，人民币房地产贷款余额51.95万亿元，同比下降1.6%",
+          "url": "https://wallstreetcn.com/livenews/3044631",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
+        },
+        {
+          "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日有3240亿元7天期逆回购到期；美国11月FHFA房价指数月率。",
+          "url": "https://flash.jin10.com/detail/20260127081511903800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "北京楼市新政满月：热点学区房成交放量",
+          "url": "https://wallstreetcn.com/livenews/3044504",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        }
+      ]
+    },
+    {
       "keyword_group": "新能源汽车 电动汽车 智能驾驶",
       "match_count": 3,
       "titles": [
@@ -2314,34 +2564,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "房地产 房价 楼市 LPR",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日有3240亿元7天期逆回购到期；美国11月FHFA房价指数月率。",
-          "url": "https://flash.jin10.com/detail/20260127081511903800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "北京楼市新政满月：热点学区房成交放量",
-          "url": "https://wallstreetcn.com/livenews/3044504",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时20分"
         }
       ]
     },
