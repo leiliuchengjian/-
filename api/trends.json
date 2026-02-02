@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T18:35:26.180302+08:00",
-  "total_titles_processed": 1413,
+  "generated_at": "2026-02-02T19:29:36.235485+08:00",
+  "total_titles_processed": 1512,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 68,
+      "match_count": 69,
       "titles": [
         {
           "title": "人民币现金收付施行新规",
@@ -58,6 +58,19 @@
           "time_info": "[00时16分 ~ 07时16分]"
         },
         {
+          "title": "中金：黄金超过5500美元是一个重要分水岭",
+          "url": "https://wallstreetcn.com/articles/3764710",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时57分 ~ 19时29分]"
+        },
+        {
           "title": "风暴继续！黄金跌近4400美元关口、白银暴跌15%、沪镍、沪铜、沪铝期货主力合约跌停",
           "url": "https://wallstreetcn.com/articles/3764699",
           "source": "华尔街见闻",
@@ -67,6 +80,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时43分 ~ 16时31分]"
+        },
+        {
+          "title": "风暴继续！黄金跌近4400美元关口、白银暴跌15%、沪镍、沪铜等十余种期货合约跌停",
+          "url": "https://wallstreetcn.com/articles/3764699",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时36分 ~ 19时29分]"
         },
         {
           "title": "现货黄金失守4500美元",
@@ -83,28 +107,20 @@
           "time_info": "[14时56分 ~ 18时35分]"
         },
         {
-          "title": "中金：黄金超过5500美元是一个重要分水岭",
-          "url": "https://wallstreetcn.com/articles/3764710",
-          "source": "华尔街见闻",
+          "title": "现货黄金跌破4500美元",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E8%B7%8C%E7%A0%B44500%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
           "ranks": [
-            10,
+            28,
             9,
-            8
+            23,
+            24,
+            21,
+            27
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[13时57分 ~ 18时35分]"
-        },
-        {
-          "title": "风暴继续！黄金跌近4400美元关口、白银暴跌15%、沪镍、沪铜等十余种期货合约跌停",
-          "url": "https://wallstreetcn.com/articles/3764699",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时36分 ~ 18时35分]"
+          "time_info": "[14时56分 ~ 19时29分]"
         },
         {
           "title": "金银深V遭沪盘打压，现货黄金跌破4600美元关口、沪银跌17%、沪金跌超10%，美股期货、原油走低",
@@ -171,21 +187,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
-        },
-        {
-          "title": "现货黄金跌破4500美元",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E8%B7%8C%E7%A0%B44500%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            9,
-            23,
-            24,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时56分 ~ 18时35分]"
         },
         {
           "title": "现货黄金回落至4750美元/盎司下方，日内跌2.80%。",
@@ -422,7 +423,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -636,6 +637,17 @@
           "time_info": "14时56分"
         },
         {
+          "title": "极米科技：拟以5000万元-1亿元回购股份，回购股份价格不超过人民币159.51元/股。",
+          "url": "https://wallstreetcn.com/livenews/3048298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
           "title": "现货黄金跌破4450美元/盎司，为1月8日以来新低，较日高回撤逾430美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260202142727112800",
           "source": "金十数据",
@@ -782,7 +794,7 @@
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "华尔街聚焦沃什：“降息+缩表”如何同时做到？，“导师”德鲁肯米勒：他不一定是鹰派",
@@ -819,6 +831,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
+        },
+        {
+          "title": "潘森宏观：欧元区1月通胀或高于预期 可能推迟降息",
+          "url": "https://flash.jin10.com/detail/20260202191414512800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
         },
         {
           "title": "本周中国央行公开市场有17615亿元7天期逆回购到期",
@@ -931,6 +954,17 @@
           "time_info": "09时09分"
         },
         {
+          "title": "机构：预计英国央行将以7比2的投票比例维持利率不变",
+          "url": "https://flash.jin10.com/detail/20260202182426974800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
           "title": "日本央行会议摘要：一名委员表示，一些长期通胀预期指标已开始显现稳定迹象。",
           "url": "https://flash.jin10.com/detail/20260202080329871800",
           "source": "金十数据",
@@ -981,7 +1015,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -1022,7 +1056,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "微信群、朋友圈重现红包雨 腾讯元宝10亿红包「AI入口战」正式开打",
@@ -1085,8 +1119,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时57分 ~ 18时35分]"
+          "appearance_count": 8,
+          "time_info": "[13时57分 ~ 19时29分]"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
@@ -1113,17 +1147,6 @@
           "time_info": "[00时17分 ~ 06时14分]"
         },
         {
-          "title": "多平台公布涉“AI魔改”违规视频最终处置结果",
-          "url": "https://wallstreetcn.com/livenews/3048290",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        },
-        {
           "title": "快手将对“AI魔改”视频展开常态化治理",
           "url": "https://wallstreetcn.com/livenews/3048203",
           "source": "华尔街见闻-快讯",
@@ -1133,6 +1156,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
+        },
+        {
+          "title": "多平台公布涉“AI魔改”违规视频最终处置结果",
+          "url": "https://wallstreetcn.com/livenews/3048290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 19时29分]"
         },
         {
           "title": "爆火 AI 助手 OpenClaw 有哪些独特之处？会给哪些职业带来冲击？",
@@ -1177,6 +1212,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
+        },
+        {
+          "title": "卡塔尔能源首席执行官：如果欧洲对液化天然气的需求、数据中心和人工智能发展一切顺利，到2030年液化天然气将出现短缺，而非供应过剩。",
+          "url": "https://flash.jin10.com/detail/20260202183736296800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
+          "title": "北京大学与中国铁塔合作 推动AI产教融合",
+          "url": "https://wallstreetcn.com/livenews/3048300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
         },
         {
           "title": "日本电子零件制造厂村田：日元走软、人工智能服务器和智能手机需求强劲推动财年收入上升。",
@@ -1225,150 +1282,8 @@
       ]
     },
     {
-      "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "A股三大指数均跌超2%，贵金属、有色、油气、农业、半导体芯片等方向跌幅居前，沪深京三市下跌个股近4400只。",
-          "url": "https://wallstreetcn.com/livenews/3048141",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时56分"
-        },
-        {
-          "title": "【午报】三大指数均跌超1%，电网设备逆势走强，贵金属、半导体集体调整",
-          "url": "https://www.cls.cn/detail/2277340",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时43分 ~ 18时35分]"
-        },
-        {
-          "title": "沪指午后跌幅扩大至2%，金属、石油天然气、化工等资源周期股、半导体板块领跌，全市场超3700只个股下跌。",
-          "url": "https://wallstreetcn.com/livenews/3048099",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时57分 ~ 14时56分]"
-        },
-        {
-          "title": "【每日收评】三大指数均跌超2%，全市场超4600股飘绿，贵金属、半导体等热门赛道集体重挫",
-          "url": "https://www.cls.cn/detail/2277810",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时36分 ~ 18时35分]"
-        },
-        {
-          "title": "美股盘前，明星科技股普跌，英伟达跌近2%，AMD跌超2.4%；存储芯片股多数走低，西部数据跌超3%；甲骨文盘前跌5%，公司今年将融资500亿美元；黄金股大跌，哈莫尼黄金跌超5%。美股能源股，西方石油跌超3%，康菲石油跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3048249",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时36分 ~ 18时35分]"
-        },
-        {
-          "title": "A股存储芯片板块跌幅扩大，兆易创新午后跌停，香农芯创、江波龙、普冉股份、华虹公司、富满微等多股跌超10%。",
-          "url": "https://wallstreetcn.com/livenews/3048136",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时56分"
-        },
-        {
-          "title": "沪指跌超2%险守4000点，金银、有色金属全线跌停，白酒逆势拉升，恒科指大跌3%，芯片半导体重挫",
-          "url": "https://wallstreetcn.com/articles/3764715",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        },
-        {
-          "title": "2月2日午间收评：三大指数均跌超1%，资源、芯片股集体调整",
-          "url": "https://wallstreetcn.com/livenews/3048031",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
-          "title": "潘森宏观：韩国增长仍靠芯片驱动 非芯片板块依旧疲软",
-          "url": "https://flash.jin10.com/detail/20260202174207571800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        },
-        {
-          "title": "三大指数均跌超1%，贵金属、有色、油气、农业、半导体等方向跌幅居前，沪深京三市下跌个股超3300只。",
-          "url": "https://wallstreetcn.com/livenews/3048011",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
-          "title": "深成指跌超1%，沪指跌0.87%，创业板指跌0.80%，有色金属、油气、农业、半导体芯片等方向跌幅居前，沪深京三市下跌个股近3000只。",
-          "url": "https://wallstreetcn.com/livenews/3048004",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
-          "title": "日媒：中国芯片制造设备加速发展",
-          "url": "https://www.toutiao.com/trending/7601848051787694130/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时36分"
-        }
-      ]
-    },
-    {
       "keyword_group": "华为 小米 荣耀",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "营口一小米SU7充电时冒烟最终起火",
@@ -1464,11 +1379,12 @@
           "url": "https://www.cls.cn/detail/2277327",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 19时29分]"
         },
         {
           "title": "小米高管疑似爆料YU9",
@@ -1503,12 +1419,307 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
+        },
+        {
+          "title": "华为联合周大福推出黄金耳机配饰",
+          "url": "https://wallstreetcn.com/livenews/3048309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
+          "title": "据港交所公告，小米集团(01810.HK)于2月2日以2.092亿港元回购600万B类股份。",
+          "url": "https://flash.jin10.com/detail/20260202182742182800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体 芯片 集成电路",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "A股三大指数均跌超2%，贵金属、有色、油气、农业、半导体芯片等方向跌幅居前，沪深京三市下跌个股近4400只。",
+          "url": "https://wallstreetcn.com/livenews/3048141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时56分"
+        },
+        {
+          "title": "【午报】三大指数均跌超1%，电网设备逆势走强，贵金属、半导体集体调整",
+          "url": "https://www.cls.cn/detail/2277340",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时43分 ~ 18时35分]"
+        },
+        {
+          "title": "沪指午后跌幅扩大至2%，金属、石油天然气、化工等资源周期股、半导体板块领跌，全市场超3700只个股下跌。",
+          "url": "https://wallstreetcn.com/livenews/3048099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时57分 ~ 14时56分]"
+        },
+        {
+          "title": "【每日收评】三大指数均跌超2%，全市场超4600股飘绿，贵金属、半导体等热门赛道集体重挫",
+          "url": "https://www.cls.cn/detail/2277810",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时36分 ~ 19时29分]"
+        },
+        {
+          "title": "沪指跌超2%险守4000点，金银、有色金属全线跌停，白酒逆势拉升，恒科指大跌3%，芯片半导体重挫",
+          "url": "https://wallstreetcn.com/articles/3764715",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 19时29分]"
+        },
+        {
+          "title": "美股盘前，明星科技股普跌，英伟达跌近2%，AMD跌超2.4%；存储芯片股多数走低，西部数据跌超3%；甲骨文盘前跌5%，公司今年将融资500亿美元；黄金股大跌，哈莫尼黄金跌超5%。美股能源股，西方石油跌超3%，康菲石油跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3048249",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时36分 ~ 18时35分]"
+        },
+        {
+          "title": "A股存储芯片板块跌幅扩大，兆易创新午后跌停，香农芯创、江波龙、普冉股份、华虹公司、富满微等多股跌超10%。",
+          "url": "https://wallstreetcn.com/livenews/3048136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时56分"
+        },
+        {
+          "title": "2月2日午间收评：三大指数均跌超1%，资源、芯片股集体调整",
+          "url": "https://wallstreetcn.com/livenews/3048031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        },
+        {
+          "title": "潘森宏观：韩国增长仍靠芯片驱动 非芯片板块依旧疲软",
+          "url": "https://flash.jin10.com/detail/20260202174207571800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
+          "title": "三大指数均跌超1%，贵金属、有色、油气、农业、半导体等方向跌幅居前，沪深京三市下跌个股超3300只。",
+          "url": "https://wallstreetcn.com/livenews/3048011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        },
+        {
+          "title": "深成指跌超1%，沪指跌0.87%，创业板指跌0.80%，有色金属、油气、农业、半导体芯片等方向跌幅居前，沪深京三市下跌个股近3000只。",
+          "url": "https://wallstreetcn.com/livenews/3048004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        },
+        {
+          "title": "日媒：中国芯片制造设备加速发展",
+          "url": "https://www.toutiao.com/trending/7601848051787694130/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "基础设施 基建 地铁 高铁",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "武汉地铁工地龙门吊拆除过程中倾倒，致2台路过车辆受损1死1伤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32511699",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[02时20分 ~ 19时29分]"
+        },
+        {
+          "title": "武汉地铁施工工地大型机械倒向路面砸中轿车，应急部门回应伤者送医，事故正调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32511360",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            12,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[09时08分 ~ 19时29分]"
+        },
+        {
+          "title": "广深港高铁今年1月跨境客流超260万人次",
+          "url": "https://wallstreetcn.com/livenews/3047816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 07时16分]"
+        },
+        {
+          "title": "一地宣布：连续17天公交地铁免费坐",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%9C%B0%E5%AE%A3%E5%B8%83%EF%BC%9A%E8%BF%9E%E7%BB%AD17%E5%A4%A9%E5%85%AC%E4%BA%A4%E5%9C%B0%E9%93%81%E5%85%8D%E8%B4%B9%E5%9D%90",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            10,
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时43分 ~ 19时29分]"
+        },
+        {
+          "title": "魔都眼｜2026春运来了：肩背手提，带着娃儿坐高铁回家过年了！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32513201",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时36分 ~ 19时29分]"
+        },
+        {
+          "title": "创纪录！莫迪火拼基建，但市场反应冷淡",
+          "url": "https://news.ifeng.com/c/8qQ77s5cDEV",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 19时29分]"
+        },
+        {
+          "title": "克里姆林宫：对于此前就俄罗斯应特朗普请求短暂暂停打击乌克兰能源基础设施一事所作表态，已无更多补充。",
+          "url": "https://flash.jin10.com/detail/20260202175246532800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：前线地区的能源设施遭遇了新的袭击，但在过去24小时内没有针对能源基础设施的定向打击。",
+          "url": "https://flash.jin10.com/detail/20260202184730881800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
+          "title": "斯塔默：英国在基础设施领域推进太慢",
+          "url": "https://www.toutiao.com/trending/7601543972809080875/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
+          "title": "标普：印度预算在推动基础设施和制造业的同时实现了财政整顿的平衡。",
+          "url": "https://flash.jin10.com/detail/20260202173916802800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时35分"
         }
       ]
     },
     {
       "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "特斯拉：第三代特斯拉人形机器人即将亮相 预计年产百万台",
@@ -1521,8 +1732,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时57分 ~ 18时35分]"
+          "appearance_count": 8,
+          "time_info": "[13时57分 ~ 19时29分]"
         },
         {
           "title": "特斯拉首款量产机器人？擎天柱三代即将亮相 据称“进行了重新设计”",
@@ -1532,11 +1743,12 @@
             11,
             8,
             6,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时43分 ~ 18时35分]"
+          "appearance_count": 6,
+          "time_info": "[15时43分 ~ 19时29分]"
         },
         {
           "title": "港股收盘：恒生指数收跌2.23%，恒生科技指数收跌3.36%；黄金股领跌，芯片、新能源车等板块跌幅居前，比亚迪股份跌超6%，华虹半导体跌超11%。",
@@ -1606,6 +1818,17 @@
           "time_info": "17时36分"
         },
         {
+          "title": "蔚来资本领投灵猴机器人超亿元Pre-B轮融资",
+          "url": "https://wallstreetcn.com/livenews/3048302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
           "title": "恒生科技指数日内跌幅扩大至3%，华虹半导体跌超10%，小鹏汽车跌超8%，蔚来、比亚迪股份跌超5%。",
           "url": "https://wallstreetcn.com/livenews/3048012",
           "source": "华尔街见闻-快讯",
@@ -1615,113 +1838,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "武汉地铁工地龙门吊拆除过程中倾倒，致2台路过车辆受损1死1伤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32511699",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16,
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[02时20分 ~ 18时35分]"
-        },
-        {
-          "title": "武汉地铁施工工地大型机械倒向路面砸中轿车，应急部门回应伤者送医，事故正调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32511360",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            12,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时08分 ~ 18时35分]"
-        },
-        {
-          "title": "广深港高铁今年1月跨境客流超260万人次",
-          "url": "https://wallstreetcn.com/livenews/3047816",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 07时16分]"
-        },
-        {
-          "title": "一地宣布：连续17天公交地铁免费坐",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%9C%B0%E5%AE%A3%E5%B8%83%EF%BC%9A%E8%BF%9E%E7%BB%AD17%E5%A4%A9%E5%85%AC%E4%BA%A4%E5%9C%B0%E9%93%81%E5%85%8D%E8%B4%B9%E5%9D%90",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时43分 ~ 18时35分]"
-        },
-        {
-          "title": "魔都眼｜2026春运来了：肩背手提，带着娃儿坐高铁回家过年了！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32513201",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时36分 ~ 18时35分]"
-        },
-        {
-          "title": "克里姆林宫：对于此前就俄罗斯应特朗普请求短暂暂停打击乌克兰能源基础设施一事所作表态，已无更多补充。",
-          "url": "https://flash.jin10.com/detail/20260202175246532800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        },
-        {
-          "title": "创纪录！莫迪火拼基建，但市场反应冷淡",
-          "url": "https://news.ifeng.com/c/8qQ77s5cDEV",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        },
-        {
-          "title": "标普：印度预算在推动基础设施和制造业的同时实现了财政整顿的平衡。",
-          "url": "https://flash.jin10.com/detail/20260202173916802800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
         }
       ]
     },
@@ -1889,8 +2005,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时16分 ~ 18时35分]"
+          "appearance_count": 22,
+          "time_info": "[00时16分 ~ 19时29分]"
         },
         {
           "title": "英伟达(NVDA.O)盘前下跌1.9%。",
@@ -2013,11 +2129,12 @@
           "source": "抖音",
           "ranks": [
             24,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时36分 ~ 18时35分]"
+          "appearance_count": 3,
+          "time_info": "[17时36分 ~ 19时29分]"
         }
       ]
     }
