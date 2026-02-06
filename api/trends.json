@@ -1,11 +1,994 @@
 {
-  "generated_at": "2026-02-06T14:41:11.113725+08:00",
-  "total_titles_processed": 1227,
+  "generated_at": "2026-02-06T15:40:11.357466+08:00",
+  "total_titles_processed": 1351,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "央行 降息 降准 CPI 物价",
+      "match_count": 88,
+      "titles": [
+        {
+          "title": "土耳其物价飞涨有多离谱",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9C%9F%E8%80%B3%E5%85%B6%E7%89%A9%E4%BB%B7%E9%A3%9E%E6%B6%A8%E6%9C%89%E5%A4%9A%E7%A6%BB%E8%B0%B1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            6,
+            17,
+            7,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 09时05分]"
+        },
+        {
+          "title": "墨西哥央行：预计2027年第二季度整体通胀将收敛至目标水平。",
+          "url": "https://flash.jin10.com/detail/20260206030247642800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "欧洲央行管委Stournaras：1月的通胀只是一个数据点。 会考虑市场的反馈。 目前无需采取任何行动。 逐次会议决策是一种良好做法。",
+          "url": "https://wallstreetcn.com/livenews/3051172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "欧洲央行管委艾斯克里瓦：货币政策总有调整空间。",
+          "url": "https://flash.jin10.com/detail/20260206143842560800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "澳洲联储主席Bullock：海外同行（其他国家/地区的央行）也对全球经济的强度感到惊讶。",
+          "url": "https://wallstreetcn.com/livenews/3050918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "墨西哥央行：展望未来，委员会将评估对基准利率的进一步调整。",
+          "url": "https://flash.jin10.com/detail/20260206030105467800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "欧洲央行管委艾斯克里瓦：我们正朝着实现2%通胀目标迈进，所有迹象都指向利率稳定。",
+          "url": "https://flash.jin10.com/detail/20260206143807099800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "消息人士：欧洲央行的回购协议渠道将向所有提供担保且同意遵守规则的机构开放。",
+          "url": "https://flash.jin10.com/detail/20260206003005392800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时39分"
+        },
+        {
+          "title": "墨西哥央行维持基准利率在7.00%不变，符合市场预期。",
+          "url": "https://flash.jin10.com/detail/20260206030037659800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "印度央行行长：（谈及印度卢比表示）我们不设定任何汇率目标。",
+          "url": "https://flash.jin10.com/detail/20260206153437708800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
+          "title": "消息人士：欧洲央行将保留因声誉问题拒绝与银行进行交易的权利。",
+          "url": "https://flash.jin10.com/detail/20260206002944298800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时39分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：对于经济动荡的应对将决定未来的繁荣。",
+          "url": "https://flash.jin10.com/detail/20260206013101490800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        },
+        {
+          "title": "墨西哥至2月5日央行利率决定 7%，预期7%，前值7.00%。",
+          "url": "https://flash.jin10.com/detail/20260206030005166800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "欧洲央行管委斯图纳拉斯：欧元涨幅并不剧烈。",
+          "url": "https://flash.jin10.com/detail/20260206143630099800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "美国至2月6日当周外国央行持有美国国债 -40.02亿美元，前值199.5亿美元。",
+          "url": "https://flash.jin10.com/detail/20260206053055630800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时16分]"
+        },
+        {
+          "title": "墨西哥央行将近两年来首次暂停降息",
+          "url": "https://wallstreetcn.com/livenews/3050849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 04时22分]"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：在这种情况下，预计会看到对五年期美国国债利率产生一定影响。",
+          "url": "https://flash.jin10.com/detail/20260206022608859800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 03时31分]"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：期待与沃什合作。",
+          "url": "https://flash.jin10.com/detail/20260206022422959800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 03时31分]"
+        },
+        {
+          "title": "消息人士：欧洲央行将统一回购规则，使融资成本降低并提高透明度。",
+          "url": "https://flash.jin10.com/detail/20260206002919062800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时39分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：如果经济疲弱是由于生产能力下降而非需求的周期性下滑所致，那么在经济疲弱的情况下降息可能会加剧通胀。",
+          "url": "https://flash.jin10.com/detail/20260206013038029800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        },
+        {
+          "title": "欧洲央行管委斯图纳拉斯：我们正在密切关注汇率。",
+          "url": "https://flash.jin10.com/detail/20260206143558889800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "消息人士：欧洲央行将于下周公布新的回购协议框架，旨在增强欧元在全球的影响力。",
+          "url": "https://flash.jin10.com/detail/20260206002837655800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时39分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：很难区分结构性变化与周期性波动；我们必须小心，不要误判经济的疲弱。",
+          "url": "https://flash.jin10.com/detail/20260206013002853800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        },
+        {
+          "title": "欧洲央行管委斯图纳拉斯：我们对欧洲相当有信心。",
+          "url": "https://flash.jin10.com/detail/20260206143550265800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆将于十分钟后发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260206013000000800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        },
+        {
+          "title": "欧洲央行管委斯图纳拉斯：我们处于稳定均衡状态。",
+          "url": "https://flash.jin10.com/detail/20260206143544262800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：由于结构性的转变，需为将有多年的“温和”增长做好准备。",
+          "url": "https://flash.jin10.com/detail/20260206012927849800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        },
+        {
+          "title": "印度至2月6日央行存款准备金率 3%，预期3%，前值3%。",
+          "url": "https://flash.jin10.com/detail/20260206125821554800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "印度央行行长：我们有责任提供充足、足够的流动性。",
+          "url": "https://flash.jin10.com/detail/20260206143256993800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：利率政策不应试图缓解结构性变化。",
+          "url": "https://flash.jin10.com/detail/20260206012914979800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        },
+        {
+          "title": "印度至2月6日央行逆回购利率 3.35%，前值3.35%。",
+          "url": "https://flash.jin10.com/detail/20260206125743771800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：沃什对金融市场和国际货币体系有着深刻的认识。",
+          "url": "https://flash.jin10.com/detail/20260206022415768800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "印度央行按兵不动观望贸易红利 预算发力推高增长预期",
+          "url": "https://flash.jin10.com/detail/20260206125658600800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "据知情人士透露，欧洲央行将于下周公布新的回购协议框架，旨在增强欧元在全球的影响力。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3050795",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        },
+        {
+          "title": "美国联邦基金期货一度上涨5个跳动点，反映6月降息概率为80%。",
+          "url": "https://wallstreetcn.com/livenews/3050978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：加拿大经济的重组和生产率的提升将需要数年时间。",
+          "url": "https://flash.jin10.com/detail/20260206012808718800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：对提名凯文·沃什为美联储主席表示欢迎。",
+          "url": "https://flash.jin10.com/detail/20260206022405850800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：加拿大需要拥抱结构性变革，以避免最坏情况。",
+          "url": "https://flash.jin10.com/detail/20260206012758905800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：“深刻的结构性变化”正在重塑经济。",
+          "url": "https://flash.jin10.com/detail/20260206012744025800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        },
+        {
+          "title": "加拿大央行行长Macklem警告称：降息可能会推高CPI，推迟必要的结构性调整。 重申央行准备在前景展望发生变化的情况下做出反应。",
+          "url": "https://wallstreetcn.com/livenews/3050814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "欧洲央行执委Cipollone：欧盟推迟数字欧元进程将打断其发展势头。",
+          "url": "https://wallstreetcn.com/livenews/3051202",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：加拿大（企业）高管“需要调整”以适应新的经济现实。",
+          "url": "https://flash.jin10.com/detail/20260206012735473800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        },
+        {
+          "title": "美国联邦基金期货最高上涨5个点，市场预计美联储6月降息概率为80%。",
+          "url": "https://flash.jin10.com/detail/20260206082710489800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "印度央行行长：将确保银行体系拥有充足的流动性，流动性管理将是先发制人的，印度央行将在流动性管理方面保持积极主动。",
+          "url": "https://flash.jin10.com/detail/20260206124738379800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "印度央行：贸易协议将使得经济增长动能得以在更长一段时间内维持。",
+          "url": "https://wallstreetcn.com/livenews/3051110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：鉴于劳动力增长微乎其微，预计失业率不会呈上升趋势。",
+          "url": "https://flash.jin10.com/detail/20260206012716477800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        },
+        {
+          "title": "金十提示：加拿大央行行长麦克勒姆的新闻发布会结束。",
+          "url": "https://flash.jin10.com/detail/20260206032524504800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "印度NIFTY 50指数下跌0.5%，此前印度央行暂停加息。",
+          "url": "https://flash.jin10.com/detail/20260206124620010800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "英国央行行长贝利：随着政策利率更加接近中性，在指引中删除了“逐步”。 五五开押注3月份降息“不算太糟糕”。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3050786",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        },
+        {
+          "title": "印度央行回购利率 5.25%，预期 5.25%，前值 5.25%。",
+          "url": "https://wallstreetcn.com/livenews/3051109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：2%的CPI目标将在经济结构性转变期间成为“政策灯塔”。",
+          "url": "https://flash.jin10.com/detail/20260206012651266800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        },
+        {
+          "title": "国内增长叙事强化林吉特韧性 美联储降息延后将支撑美元短期表现",
+          "url": "https://flash.jin10.com/detail/20260206112309949800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
+          "title": "印度央行行长：全球贸易依然相对稳健。印度是极具吸引力的外商直接投资目的地。",
+          "url": "https://flash.jin10.com/detail/20260206124355439800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "欧元汇率波动已在预案之中 欧央行淡化汇率走强对政策路径干扰",
+          "url": "https://flash.jin10.com/detail/20260206151757033800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：预计未来两年经济增长率平均为1.5%。",
+          "url": "https://flash.jin10.com/detail/20260206012632277800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：我们尚未真正看到加拿大企业所拥有的新市场得以开放，但这肯定是我们正在努力争取的目标。",
+          "url": "https://flash.jin10.com/detail/20260206021410067800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：与美国这个竞争对手相比，加拿大企业对新技术的投资既不够多也不够快，这损害了我们的竞争地位。",
+          "url": "https://flash.jin10.com/detail/20260206032406192800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "印度央行行长：预计2026财年第四季度CPI通胀率为3.2%。预计2027财年第一季度CPI通胀为4%。",
+          "url": "https://flash.jin10.com/detail/20260206124135360800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "两年期英债收益率于英国央行决议日跌5个基点",
+          "url": "https://wallstreetcn.com/livenews/3050810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：向新经济模式的转变可能会比我们预期的更加艰难。",
+          "url": "https://flash.jin10.com/detail/20260206012622166800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        },
+        {
+          "title": "日本央行鹰派声浪再起 审议委员Masu首秀放“鹰”",
+          "url": "https://flash.jin10.com/detail/20260206111806710800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
+          "title": "印度央行行长：预计2026财年GDP增速为7.4%。预计2027财年第一季度实际GDP增长率为6.9%。",
+          "url": "https://flash.jin10.com/detail/20260206124113315800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：在2027年年底之前，劳动力市场应该会逐渐出现好转。",
+          "url": "https://flash.jin10.com/detail/20260206012605400800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        },
+        {
+          "title": "加拿大央行行长：若在经济未完全适应结构性变化下降息 恐助推通胀",
+          "url": "https://flash.jin10.com/detail/20260206031316368800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "印度央行行长：剔除黄金后，印度核心通胀保持稳定。地缘政治不确定性给通胀带来上行风险。",
+          "url": "https://flash.jin10.com/detail/20260206124048698800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "10/30年期德债收益率跌约2个基点，欧洲央行决议声明和拉加德新闻发布会期间出现V形反转",
+          "url": "https://wallstreetcn.com/livenews/3050808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：未来几年劳动力几乎不会增长。",
+          "url": "https://flash.jin10.com/detail/20260206012544696800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：结构性逆风并非暂时性的；我们与美国的贸易关系从根本上出现了裂痕。",
+          "url": "https://flash.jin10.com/detail/20260206030905335800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "印度央行副行长：已大幅加强监管，使其以数据为导向。",
+          "url": "https://flash.jin10.com/detail/20260206151237698800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：降息无法解决产能损失问题。",
+          "url": "https://flash.jin10.com/detail/20260206012526749800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：部分疲软是结构性的，这意味着如果我们降息过多，将在未来助长通胀。",
+          "url": "https://flash.jin10.com/detail/20260206030656317800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "印度央行行长：印欧自贸协定和印美贸易协议将在中期内支持出口。",
+          "url": "https://flash.jin10.com/detail/20260206123838502800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "欧洲央行管委卡扎克斯：欧元大幅且快速走强将通过削弱竞争力和经济活动来降低通胀前景，从而可能引发政策回应。",
+          "url": "https://flash.jin10.com/detail/20260206151226391800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：如果我们认为疲软完全是周期性的，我们很可能有能力提供更多的货币政策刺激。",
+          "url": "https://flash.jin10.com/detail/20260206030635251800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "墨西哥央行：将继续评估税收和关税的影响。",
+          "url": "https://flash.jin10.com/detail/20260206030556410800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "日本央行审议委员增一行：没有预设具体加息月份。 一旦数据充分证明，将毫不犹豫采取行动。",
+          "url": "https://wallstreetcn.com/livenews/3051139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：目前正经历异常迅速的结构性变革。",
+          "url": "https://flash.jin10.com/detail/20260206030544839800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "银河证券：黄金中长期牛市的核心逻辑依然稳固 央行购金将持续增加",
+          "url": "https://flash.jin10.com/detail/20260206081454421800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "印度央行行长：当前政策利率是适当的。印度经济正沿着稳步改善的轨道发展。",
+          "url": "https://flash.jin10.com/detail/20260206123555759800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "印度央行行长：潜在通胀率持续处于低位。",
+          "url": "https://flash.jin10.com/detail/20260206123450159800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "日本央行审议委员增一行：没有设定具体加息步伐。 认为日本央行的货币政策并未落后。 关注除大米价格之外的食品通胀。 如果价格走势持续高于2%，并不特别可取。 需要让价格走势稳定在2%左右。 外汇对通胀的影响比以前要大。 必须密切关注汇率对通胀的影响。",
+          "url": "https://wallstreetcn.com/livenews/3051135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：从历史上看，大多数周期更多是由需求驱动的。",
+          "url": "https://flash.jin10.com/detail/20260206030524288800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "印度央行行长：自上一次政策会议以来，外部逆风有所加剧。近期国内通胀和增长前景依然乐观。",
+          "url": "https://flash.jin10.com/detail/20260206123349834800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "印度央行行长：我们正处于宽松阶段。",
+          "url": "https://flash.jin10.com/detail/20260206150938191800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
+          "title": "印度央行行长：货币政策委员会维持政策立场为“中性”。",
+          "url": "https://flash.jin10.com/detail/20260206123315608800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "日本央行审议委员增一行：自加入日本央行委员会以来，潜在通胀一直朝着达到2%的目标稳步前进，步伐既不过快也不过慢。",
+          "url": "https://flash.jin10.com/detail/20260206135750353800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "消息人士：欧洲央行将向更多国家开放流动性渠道，以推动欧元地位",
+          "url": "https://flash.jin10.com/detail/20260206011006146800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：我们显然对前景双向方面的风险感到担忧。",
+          "url": "https://flash.jin10.com/detail/20260206030338641800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 83,
+      "match_count": 87,
       "titles": [
         {
           "title": "美团拟豪掷7.17亿美元收购叮咚买菜",
@@ -17,6 +1000,29 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时36分 ~ 07时16分]"
+        },
+        {
+          "title": "中俄中美元首极为罕见同日互动有何意味？",
+          "url": "https://news.ifeng.com/c/8qW4yLx4nLS",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时04分 ~ 15时40分]"
+        },
+        {
+          "title": "比特币遭血洗！暴跌12%至6.3万美元，超40万人爆仓！市场陷入“信心危机”",
+          "url": "https://wallstreetcn.com/articles/3765079",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时04分 ~ 15时40分]"
         },
         {
           "title": "美团拟 7.17 亿美元收购叮咚买菜，已有小象超市等类似业务为何还需要高额收购？收购后将带来哪些改变？",
@@ -48,34 +1054,11 @@
           "time_info": "[00时36分 ~ 07时16分]"
         },
         {
-          "title": "中俄中美元首极为罕见同日互动有何意味？",
-          "url": "https://news.ifeng.com/c/8qW4yLx4nLS",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时04分 ~ 14时41分]"
-        },
-        {
           "title": "美驻华大使：中美元首通话具有建设性，富有成效",
           "url": "https://news.ifeng.com/c/8qVgMCZEmTu",
           "source": "凤凰网",
           "ranks": [
             3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时04分 ~ 14时41分]"
-        },
-        {
-          "title": "比特币遭血洗！暴跌12%至6.3万美元，超40万人爆仓！市场陷入“信心危机”",
-          "url": "https://wallstreetcn.com/articles/3765079",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -91,8 +1074,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[03时31分 ~ 14时41分]"
+          "appearance_count": 15,
+          "time_info": "[03时31分 ~ 15时40分]"
         },
         {
           "title": "专家：中俄中美元首同日互动实属罕见",
@@ -124,6 +1107,18 @@
           "time_info": "[00时36分 ~ 05时23分]"
         },
         {
+          "title": "比特币重挫破 6 万美元，贝森特称美国不会救助，爱泼斯坦案冲击币圈，本轮加密货币暴跌有何特别信号？",
+          "url": "https://www.zhihu.com/question/2002848288005718086",
+          "source": "知乎",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时05分 ~ 15时40分]"
+        },
+        {
           "title": "现货黄金回落至4760美元/盎司下方，日内跌0.41%。",
           "url": "https://flash.jin10.com/detail/20260206070140239800",
           "source": "金十数据",
@@ -144,6 +1139,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
+        },
+        {
+          "title": "就业疲软难阻美元指数企稳 市场焦点转向延迟发布的非农报告",
+          "url": "https://flash.jin10.com/detail/20260206153502361800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
         },
         {
           "title": "现货金银小幅高开，最新报4777和70.61美元/盎司。",
@@ -185,20 +1191,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
-        },
-        {
-          "title": "比特币重挫破 6 万美元，贝森特称美国不会救助，爱泼斯坦案冲击币圈，本轮加密货币暴跌有何特别信号？",
-          "url": "https://www.zhihu.com/question/2002848288005718086",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时05分 ~ 14时41分]"
         },
         {
           "title": "亚马逊(AMZN.O)2025年Q4营收2134亿美元，市场预期2113.1亿美元，上年同期1878亿美元。",
@@ -500,6 +1495,17 @@
           "time_info": "[03时31分 ~ 04时22分]"
         },
         {
+          "title": "现货白银重新站上75美元",
+          "url": "https://www.toutiao.com/trending/7603628646909087268/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时39分 ~ 15时40分]"
+        },
+        {
           "title": "大外交｜“都是春天”与“关键节点”，中俄中美元首极为罕见同日互动有何意味？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32541155",
           "source": "澎湃新闻",
@@ -509,6 +1515,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时04分 ~ 09时05分]"
+        },
+        {
+          "title": "人民银行上海总部召开2026年跨境人民币业务工作会议",
+          "url": "https://wallstreetcn.com/livenews/3051207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
         },
         {
           "title": "高盛：预计TTF和JKM天然气价格将平均低于5美元/百万英热，比当前的即时价格低50%以上。",
@@ -553,6 +1570,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        },
+        {
+          "title": "TD Cowen：将亚马逊(AMZN.O)目标价从315美元下调至300美元。",
+          "url": "https://flash.jin10.com/detail/20260206152228359800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
         },
         {
           "title": "现货黄金、白银跌幅收窄，现货黄金现跌1.1%，重返4700美元上方，此前一度跌超2%；现货白银跌幅收窄至4.2%，此前一度跌超8%。",
@@ -726,7 +1754,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -792,7 +1820,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -858,7 +1886,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -869,7 +1897,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -891,7 +1919,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -913,7 +1941,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -924,7 +1952,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -964,923 +1992,6 @@
       ]
     },
     {
-      "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 82,
-      "titles": [
-        {
-          "title": "土耳其物价飞涨有多离谱",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9C%9F%E8%80%B3%E5%85%B6%E7%89%A9%E4%BB%B7%E9%A3%9E%E6%B6%A8%E6%9C%89%E5%A4%9A%E7%A6%BB%E8%B0%B1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            6,
-            17,
-            7,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时36分 ~ 09时05分]"
-        },
-        {
-          "title": "墨西哥央行：预计2027年第二季度整体通胀将收敛至目标水平。",
-          "url": "https://flash.jin10.com/detail/20260206030247642800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时31分"
-        },
-        {
-          "title": "欧洲央行管委Stournaras：1月的通胀只是一个数据点。 会考虑市场的反馈。 目前无需采取任何行动。 逐次会议决策是一种良好做法。",
-          "url": "https://wallstreetcn.com/livenews/3051172",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时41分"
-        },
-        {
-          "title": "欧洲央行管委艾斯克里瓦：货币政策总有调整空间。",
-          "url": "https://flash.jin10.com/detail/20260206143842560800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时41分"
-        },
-        {
-          "title": "澳洲联储主席Bullock：海外同行（其他国家/地区的央行）也对全球经济的强度感到惊讶。",
-          "url": "https://wallstreetcn.com/livenews/3050918",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "墨西哥央行：展望未来，委员会将评估对基准利率的进一步调整。",
-          "url": "https://flash.jin10.com/detail/20260206030105467800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时31分"
-        },
-        {
-          "title": "欧洲央行管委艾斯克里瓦：我们正朝着实现2%通胀目标迈进，所有迹象都指向利率稳定。",
-          "url": "https://flash.jin10.com/detail/20260206143807099800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时41分"
-        },
-        {
-          "title": "消息人士：欧洲央行的回购协议渠道将向所有提供担保且同意遵守规则的机构开放。",
-          "url": "https://flash.jin10.com/detail/20260206003005392800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
-        },
-        {
-          "title": "墨西哥央行维持基准利率在7.00%不变，符合市场预期。",
-          "url": "https://flash.jin10.com/detail/20260206030037659800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时31分"
-        },
-        {
-          "title": "消息人士：欧洲央行将保留因声誉问题拒绝与银行进行交易的权利。",
-          "url": "https://flash.jin10.com/detail/20260206002944298800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：对于经济动荡的应对将决定未来的繁荣。",
-          "url": "https://flash.jin10.com/detail/20260206013101490800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "墨西哥至2月5日央行利率决定 7%，预期7%，前值7.00%。",
-          "url": "https://flash.jin10.com/detail/20260206030005166800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时31分"
-        },
-        {
-          "title": "欧洲央行管委斯图纳拉斯：欧元涨幅并不剧烈。",
-          "url": "https://flash.jin10.com/detail/20260206143630099800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时41分"
-        },
-        {
-          "title": "美国至2月6日当周外国央行持有美国国债 -40.02亿美元，前值199.5亿美元。",
-          "url": "https://flash.jin10.com/detail/20260206053055630800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时17分 ~ 07时16分]"
-        },
-        {
-          "title": "墨西哥央行将近两年来首次暂停降息",
-          "url": "https://wallstreetcn.com/livenews/3050849",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时31分 ~ 04时22分]"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：在这种情况下，预计会看到对五年期美国国债利率产生一定影响。",
-          "url": "https://flash.jin10.com/detail/20260206022608859800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时31分]"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：期待与沃什合作。",
-          "url": "https://flash.jin10.com/detail/20260206022422959800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时31分]"
-        },
-        {
-          "title": "消息人士：欧洲央行将统一回购规则，使融资成本降低并提高透明度。",
-          "url": "https://flash.jin10.com/detail/20260206002919062800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：如果经济疲弱是由于生产能力下降而非需求的周期性下滑所致，那么在经济疲弱的情况下降息可能会加剧通胀。",
-          "url": "https://flash.jin10.com/detail/20260206013038029800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "欧洲央行管委斯图纳拉斯：我们正在密切关注汇率。",
-          "url": "https://flash.jin10.com/detail/20260206143558889800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时41分"
-        },
-        {
-          "title": "消息人士：欧洲央行将于下周公布新的回购协议框架，旨在增强欧元在全球的影响力。",
-          "url": "https://flash.jin10.com/detail/20260206002837655800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：很难区分结构性变化与周期性波动；我们必须小心，不要误判经济的疲弱。",
-          "url": "https://flash.jin10.com/detail/20260206013002853800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "欧洲央行管委斯图纳拉斯：我们对欧洲相当有信心。",
-          "url": "https://flash.jin10.com/detail/20260206143550265800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时41分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆将于十分钟后发表讲话。",
-          "url": "https://flash.jin10.com/detail/20260206013000000800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "欧洲央行管委斯图纳拉斯：我们处于稳定均衡状态。",
-          "url": "https://flash.jin10.com/detail/20260206143544262800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时41分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：由于结构性的转变，需为将有多年的“温和”增长做好准备。",
-          "url": "https://flash.jin10.com/detail/20260206012927849800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "印度至2月6日央行存款准备金率 3%，预期3%，前值3%。",
-          "url": "https://flash.jin10.com/detail/20260206125821554800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
-          "title": "印度央行行长：我们有责任提供充足、足够的流动性。",
-          "url": "https://flash.jin10.com/detail/20260206143256993800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时41分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：利率政策不应试图缓解结构性变化。",
-          "url": "https://flash.jin10.com/detail/20260206012914979800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "印度至2月6日央行逆回购利率 3.35%，前值3.35%。",
-          "url": "https://flash.jin10.com/detail/20260206125743771800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：沃什对金融市场和国际货币体系有着深刻的认识。",
-          "url": "https://flash.jin10.com/detail/20260206022415768800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时36分"
-        },
-        {
-          "title": "印度央行按兵不动观望贸易红利 预算发力推高增长预期",
-          "url": "https://flash.jin10.com/detail/20260206125658600800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
-          "title": "据知情人士透露，欧洲央行将于下周公布新的回购协议框架，旨在增强欧元在全球的影响力。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3050795",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "美国联邦基金期货一度上涨5个跳动点，反映6月降息概率为80%。",
-          "url": "https://wallstreetcn.com/livenews/3050978",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：加拿大经济的重组和生产率的提升将需要数年时间。",
-          "url": "https://flash.jin10.com/detail/20260206012808718800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：对提名凯文·沃什为美联储主席表示欢迎。",
-          "url": "https://flash.jin10.com/detail/20260206022405850800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时36分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：加拿大需要拥抱结构性变革，以避免最坏情况。",
-          "url": "https://flash.jin10.com/detail/20260206012758905800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：“深刻的结构性变化”正在重塑经济。",
-          "url": "https://flash.jin10.com/detail/20260206012744025800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "加拿大央行行长Macklem警告称：降息可能会推高CPI，推迟必要的结构性调整。 重申央行准备在前景展望发生变化的情况下做出反应。",
-          "url": "https://wallstreetcn.com/livenews/3050814",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时36分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：加拿大（企业）高管“需要调整”以适应新的经济现实。",
-          "url": "https://flash.jin10.com/detail/20260206012735473800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "美国联邦基金期货最高上涨5个点，市场预计美联储6月降息概率为80%。",
-          "url": "https://flash.jin10.com/detail/20260206082710489800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "印度央行行长：将确保银行体系拥有充足的流动性，流动性管理将是先发制人的，印度央行将在流动性管理方面保持积极主动。",
-          "url": "https://flash.jin10.com/detail/20260206124738379800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
-          "title": "印度央行：贸易协议将使得经济增长动能得以在更长一段时间内维持。",
-          "url": "https://wallstreetcn.com/livenews/3051110",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：鉴于劳动力增长微乎其微，预计失业率不会呈上升趋势。",
-          "url": "https://flash.jin10.com/detail/20260206012716477800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "金十提示：加拿大央行行长麦克勒姆的新闻发布会结束。",
-          "url": "https://flash.jin10.com/detail/20260206032524504800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "印度NIFTY 50指数下跌0.5%，此前印度央行暂停加息。",
-          "url": "https://flash.jin10.com/detail/20260206124620010800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
-          "title": "英国央行行长贝利：随着政策利率更加接近中性，在指引中删除了“逐步”。 五五开押注3月份降息“不算太糟糕”。（彭博电视）",
-          "url": "https://wallstreetcn.com/livenews/3050786",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "印度央行回购利率 5.25%，预期 5.25%，前值 5.25%。",
-          "url": "https://wallstreetcn.com/livenews/3051109",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：2%的CPI目标将在经济结构性转变期间成为“政策灯塔”。",
-          "url": "https://flash.jin10.com/detail/20260206012651266800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "国内增长叙事强化林吉特韧性 美联储降息延后将支撑美元短期表现",
-          "url": "https://flash.jin10.com/detail/20260206112309949800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
-          "title": "印度央行行长：全球贸易依然相对稳健。印度是极具吸引力的外商直接投资目的地。",
-          "url": "https://flash.jin10.com/detail/20260206124355439800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：预计未来两年经济增长率平均为1.5%。",
-          "url": "https://flash.jin10.com/detail/20260206012632277800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：我们尚未真正看到加拿大企业所拥有的新市场得以开放，但这肯定是我们正在努力争取的目标。",
-          "url": "https://flash.jin10.com/detail/20260206021410067800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时36分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：与美国这个竞争对手相比，加拿大企业对新技术的投资既不够多也不够快，这损害了我们的竞争地位。",
-          "url": "https://flash.jin10.com/detail/20260206032406192800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "印度央行行长：预计2026财年第四季度CPI通胀率为3.2%。预计2027财年第一季度CPI通胀为4%。",
-          "url": "https://flash.jin10.com/detail/20260206124135360800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
-          "title": "两年期英债收益率于英国央行决议日跌5个基点",
-          "url": "https://wallstreetcn.com/livenews/3050810",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时36分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：向新经济模式的转变可能会比我们预期的更加艰难。",
-          "url": "https://flash.jin10.com/detail/20260206012622166800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "日本央行鹰派声浪再起 审议委员Masu首秀放“鹰”",
-          "url": "https://flash.jin10.com/detail/20260206111806710800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
-          "title": "印度央行行长：预计2026财年GDP增速为7.4%。预计2027财年第一季度实际GDP增长率为6.9%。",
-          "url": "https://flash.jin10.com/detail/20260206124113315800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：在2027年年底之前，劳动力市场应该会逐渐出现好转。",
-          "url": "https://flash.jin10.com/detail/20260206012605400800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "加拿大央行行长：若在经济未完全适应结构性变化下降息 恐助推通胀",
-          "url": "https://flash.jin10.com/detail/20260206031316368800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "印度央行行长：剔除黄金后，印度核心通胀保持稳定。地缘政治不确定性给通胀带来上行风险。",
-          "url": "https://flash.jin10.com/detail/20260206124048698800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
-          "title": "10/30年期德债收益率跌约2个基点，欧洲央行决议声明和拉加德新闻发布会期间出现V形反转",
-          "url": "https://wallstreetcn.com/livenews/3050808",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时36分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：未来几年劳动力几乎不会增长。",
-          "url": "https://flash.jin10.com/detail/20260206012544696800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：结构性逆风并非暂时性的；我们与美国的贸易关系从根本上出现了裂痕。",
-          "url": "https://flash.jin10.com/detail/20260206030905335800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：降息无法解决产能损失问题。",
-          "url": "https://flash.jin10.com/detail/20260206012526749800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：部分疲软是结构性的，这意味着如果我们降息过多，将在未来助长通胀。",
-          "url": "https://flash.jin10.com/detail/20260206030656317800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "印度央行行长：印欧自贸协定和印美贸易协议将在中期内支持出口。",
-          "url": "https://flash.jin10.com/detail/20260206123838502800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：如果我们认为疲软完全是周期性的，我们很可能有能力提供更多的货币政策刺激。",
-          "url": "https://flash.jin10.com/detail/20260206030635251800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "墨西哥央行：将继续评估税收和关税的影响。",
-          "url": "https://flash.jin10.com/detail/20260206030556410800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "日本央行审议委员增一行：没有预设具体加息月份。 一旦数据充分证明，将毫不犹豫采取行动。",
-          "url": "https://wallstreetcn.com/livenews/3051139",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时41分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：目前正经历异常迅速的结构性变革。",
-          "url": "https://flash.jin10.com/detail/20260206030544839800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "银河证券：黄金中长期牛市的核心逻辑依然稳固 央行购金将持续增加",
-          "url": "https://flash.jin10.com/detail/20260206081454421800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "印度央行行长：当前政策利率是适当的。印度经济正沿着稳步改善的轨道发展。",
-          "url": "https://flash.jin10.com/detail/20260206123555759800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
-          "title": "印度央行行长：潜在通胀率持续处于低位。",
-          "url": "https://flash.jin10.com/detail/20260206123450159800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
-          "title": "日本央行审议委员增一行：没有设定具体加息步伐。 认为日本央行的货币政策并未落后。 关注除大米价格之外的食品通胀。 如果价格走势持续高于2%，并不特别可取。 需要让价格走势稳定在2%左右。 外汇对通胀的影响比以前要大。 必须密切关注汇率对通胀的影响。",
-          "url": "https://wallstreetcn.com/livenews/3051135",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时41分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：从历史上看，大多数周期更多是由需求驱动的。",
-          "url": "https://flash.jin10.com/detail/20260206030524288800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "印度央行行长：自上一次政策会议以来，外部逆风有所加剧。近期国内通胀和增长前景依然乐观。",
-          "url": "https://flash.jin10.com/detail/20260206123349834800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
-          "title": "印度央行行长：货币政策委员会维持政策立场为“中性”。",
-          "url": "https://flash.jin10.com/detail/20260206123315608800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
-          "title": "日本央行审议委员增一行：自加入日本央行委员会以来，潜在通胀一直朝着达到2%的目标稳步前进，步伐既不过快也不过慢。",
-          "url": "https://flash.jin10.com/detail/20260206135750353800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时41分"
-        },
-        {
-          "title": "消息人士：欧洲央行将向更多国家开放流动性渠道，以推动欧元地位",
-          "url": "https://flash.jin10.com/detail/20260206011006146800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：我们显然对前景双向方面的风险感到担忧。",
-          "url": "https://flash.jin10.com/detail/20260206030338641800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        }
-      ]
-    },
-    {
       "keyword_group": "人工智能 AI",
       "match_count": 36,
       "titles": [
@@ -1907,21 +2018,6 @@
           "time_info": "[00时36分 ~ 07时16分]"
         },
         {
-          "title": "UP主们用AI办了场春晚",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BB%AC%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E6%98%A5%E6%99%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            3,
-            6,
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时36分 ~ 14时41分]"
-        },
-        {
           "title": "马斯克再谈“太空GPU”畅想：36个月内太空会是部署AI的最便宜去处",
           "url": "https://www.cls.cn/detail/2282247",
           "source": "财联社热门",
@@ -1930,8 +2026,24 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时15分 ~ 14时41分]"
+          "appearance_count": 11,
+          "time_info": "[07时15分 ~ 15时40分]"
+        },
+        {
+          "title": "UP主们用AI办了场春晚",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BB%AC%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E6%98%A5%E6%99%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3,
+            6,
+            19,
+            25,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时36分 ~ 15时40分]"
         },
         {
           "title": "如果AI击溃了软件，“AI龙头”英伟达为何被软件股“拉下水”？",
@@ -1948,6 +2060,29 @@
           "time_info": "[00时36分 ~ 09时05分]"
         },
         {
+          "title": "不到3小时下单100万单 阿里用奶茶拉开AI普及战序幕 30亿大项目开启前马云现身",
+          "url": "https://www.cls.cn/detail/2282565",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时45分 ~ 15时40分]"
+        },
+        {
+          "title": "软件股抛售“导火索”又发新品：AI代理组团上班 更擅长白领工作",
+          "url": "https://www.cls.cn/detail/2282228",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时04分 ~ 15时40分]"
+        },
+        {
           "title": "唐宫奇案剧宣闯入ai赛道",
           "url": "https://www.douyin.com/hot/2390538",
           "source": "抖音",
@@ -1962,27 +2097,16 @@
           "time_info": "[06时17分 ~ 13时45分]"
         },
         {
-          "title": "不到3小时下单100万单 阿里用奶茶拉开AI普及战序幕 30亿大项目开启前马云现身",
-          "url": "https://www.cls.cn/detail/2282565",
-          "source": "财联社热门",
+          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3765100",
+          "source": "华尔街见闻",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时45分 ~ 14时41分]"
-        },
-        {
-          "title": "软件股抛售“导火索”又发新品：AI代理组团上班 更擅长白领工作",
-          "url": "https://www.cls.cn/detail/2282228",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
+            8,
+            9
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时04分 ~ 14时41分]"
+          "time_info": "[12时05分 ~ 15时40分]"
         },
         {
           "title": "AI恐慌蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
@@ -2016,18 +2140,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
-        },
-        {
-          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3765100",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时05分 ~ 14时41分]"
         },
         {
           "title": "OpenAI：与Ginko Bioworks Holdings Inc.（DNA）合作，设法将GPT-5链接到Autonomous Lab。 希望将蛋白质产品成本砍掉40%。",
@@ -2151,7 +2263,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -2272,7 +2384,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -2400,7 +2512,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         }
@@ -2408,7 +2520,7 @@
     },
     {
       "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "如何评价蔚来四季度首次盈利？",
@@ -2473,6 +2585,17 @@
           "time_info": "12时06分"
         },
         {
+          "title": "特斯拉陶琳：会积极参与中国市场辅助自动驾驶相关工作",
+          "url": "https://wallstreetcn.com/livenews/3051208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
           "title": "理想新L9 Livis亮相，定位具身智能机器人",
           "url": "https://wallstreetcn.com/livenews/3051061",
           "source": "华尔街见闻-快讯",
@@ -2482,6 +2605,82 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "就业 裁员 招聘",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "软件股抛售蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
+          "url": "https://wallstreetcn.com/articles/3765023",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时05分 ~ 15时40分]"
+        },
+        {
+          "title": "百年巨头大裁员 老板是世界前首富",
+          "url": "https://www.baidu.com/s?wd=%E7%99%BE%E5%B9%B4%E5%B7%A8%E5%A4%B4%E5%A4%A7%E8%A3%81%E5%91%98+%E8%80%81%E6%9D%BF%E6%98%AF%E4%B8%96%E7%95%8C%E5%89%8D%E9%A6%96%E5%AF%8C",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            9,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时04分 ~ 15时40分]"
+        },
+        {
+          "title": "Panmure Liberum策略主管Joachim Klement指出：美国疲软的就业数据最直观地反映了其K型经济特征，科技行业蓬勃发展，其余领域却因关税攀升和需求萎缩而陷入困境。",
+          "url": "https://wallstreetcn.com/livenews/3050829",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 03时31分]"
+        },
+        {
+          "title": "澳洲联储主席Michele Bullock出席澳大利亚议会听证会：自从2022年出现峰值以来，（澳大利亚）通胀“大幅”回落。 联储正关注通胀回升是顽固的，还是暂时性的。 某些通胀上升似乎是顽固的。 预计通胀在2027年年中之前不会重返（政策）目标区间之内。 诸多指标暗示，澳洲就业市场条件是紧俏的，认为劳动力市场仍然“略微紧俏”。 全球经济仍然面临重大的不确定性",
+          "url": "https://wallstreetcn.com/livenews/3050914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "法兴利润超预期启动巨额回购 并推进裁员计划",
+          "url": "https://flash.jin10.com/detail/20260206140747228800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "美就业数据超预期转弱引发债市反弹 十年期美债收益率触及三周低点",
+          "url": "https://flash.jin10.com/detail/20260206151023951800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
         }
       ]
     },
@@ -2548,71 +2747,6 @@
       ]
     },
     {
-      "keyword_group": "就业 裁员 招聘",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "软件股抛售蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
-          "url": "https://wallstreetcn.com/articles/3765023",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时05分 ~ 14时41分]"
-        },
-        {
-          "title": "百年巨头大裁员 老板是世界前首富",
-          "url": "https://www.baidu.com/s?wd=%E7%99%BE%E5%B9%B4%E5%B7%A8%E5%A4%B4%E5%A4%A7%E8%A3%81%E5%91%98+%E8%80%81%E6%9D%BF%E6%98%AF%E4%B8%96%E7%95%8C%E5%89%8D%E9%A6%96%E5%AF%8C",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            9,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时04分 ~ 14时41分]"
-        },
-        {
-          "title": "Panmure Liberum策略主管Joachim Klement指出：美国疲软的就业数据最直观地反映了其K型经济特征，科技行业蓬勃发展，其余领域却因关税攀升和需求萎缩而陷入困境。",
-          "url": "https://wallstreetcn.com/livenews/3050829",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时31分]"
-        },
-        {
-          "title": "澳洲联储主席Michele Bullock出席澳大利亚议会听证会：自从2022年出现峰值以来，（澳大利亚）通胀“大幅”回落。 联储正关注通胀回升是顽固的，还是暂时性的。 某些通胀上升似乎是顽固的。 预计通胀在2027年年中之前不会重返（政策）目标区间之内。 诸多指标暗示，澳洲就业市场条件是紧俏的，认为劳动力市场仍然“略微紧俏”。 全球经济仍然面临重大的不确定性",
-          "url": "https://wallstreetcn.com/livenews/3050914",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "法兴利润超预期启动巨额回购 并推进裁员计划",
-          "url": "https://flash.jin10.com/detail/20260206140747228800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时41分"
-        }
-      ]
-    },
-    {
       "keyword_group": "英伟达 台积电 AMD 高通",
       "match_count": 4,
       "titles": [
@@ -2633,11 +2767,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时04分 ~ 14时41分]"
+          "appearance_count": 9,
+          "time_info": "[09时04分 ~ 15时40分]"
         },
         {
           "title": "标普500指数初步收跌1.2%，原材料板块跌2.8%，可选消费板块跌2.7%，科技板块跌1.8%，金融板块跌1.3%。 纳斯达克100指数初步收跌1.3%，成分股中，Strategy跌17.7%，CrowdStrike跌9.2%，高通跌8.7%，Zscaler跌8.6%，Datadog跌7.77%，Palantir跌7%，应用材料涨1.7%，吉利德科学涨2.3%，Arm控股涨5.7%。 微软初步收跌5%，Salesforce跌4.6%，亚马逊跌4.2%，高盛跌2.5%，领跌道指成分股，思科、强生、Travelers Companies Inc.等则涨超1%。",
@@ -2655,11 +2790,12 @@
           "url": "https://www.cls.cn/detail/2282526",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时45分 ~ 14时41分]"
+          "appearance_count": 5,
+          "time_info": "[13时45分 ~ 15时40分]"
         }
       ]
     },
@@ -2749,7 +2885,7 @@
     },
     {
       "keyword_group": "创业板",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "上证指数早盘收报4080.31点，涨0.11%。 深证成指早盘收报14043.17点，涨0.65%。 创业板指早盘收报3281.45点，涨0.65%。 沪深300早盘收报4668.00点，跌0.05%。 科创50早盘收报1432.61点，涨0.01%。 中证500早盘收报8220.16点，涨0.91%。 中证1000早盘收报8129.57点，涨0.76%。",
@@ -2773,6 +2909,51 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
+        },
+        {
+          "title": "上证指数收报4065.58点，跌0.25%。 深证成指收报13906.73点，跌0.33%。 创业板指收报3236.46点，跌0.73%。 沪深300收报4643.60点，跌0.57%。 科创50收报1422.41点，跌0.71%。 中证500收报8146.41点，涨0.00%。 中证1000收报8051.57点，跌0.20%。",
+          "url": "https://wallstreetcn.com/livenews/3051194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房地产 房价 楼市 LPR",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "英国房价一月止跌回升 预算案尘埃落定需求重返房市",
+          "url": "https://flash.jin10.com/detail/20260206151514134800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "基础设施 基建 地铁 高铁",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "天津发行7年期市政基建专项地方债，规模3.0000亿元，发行利率1.7300%，边际倍数2.60倍，倍数预期1.74； 天津发行20年期医疗专项地方债，规模0.3000亿元，发行利率2.5000%，边际倍数3.00倍，倍数预期2.47； 天津发行30年期医疗专项地方债，规模5.0000亿元，发行利率2.4800%，边际倍数1.49倍，倍数预期2.49； 天津发行30年期水务专项地方债，规模0.4000亿元，发行利率2.5300%，边际倍数4.00倍，倍数预期2.48； 天津发行30年期医疗专项地方债，规模4.5000亿元，发行利率2.5000%，边际倍数1.25倍，倍数预期2.48； 天津发行30年期轨交专项地方债，规模2.0000亿元，发行利率2.5200%，边际倍数1.63倍，倍数预期2.48； 天津发行30年期其他专项地方债，规模62.7500亿元，发行利率2.4900%，边际倍数16.67倍，倍数预期2.49； 天津发行30年期其他专项地方债，规模12.2000亿元，发行利率2.4900%，边际倍数1.42倍，倍数预期2.49； 天津发行30年期普通专项地方债，规模57.9800亿元，发行利率2.4900%，边际倍数9.27倍，倍数预期2.48； 天津发行20年期普通专项地方债，规模30.6300亿元，发行利率2.4200%，边际倍数1.02倍，倍数预期2.47。",
+          "url": "https://wallstreetcn.com/livenews/3051183",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
         }
       ]
     },
@@ -2786,11 +2967,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时45分 ~ 14时41分]"
+          "appearance_count": 5,
+          "time_info": "[13时45分 ~ 15时40分]"
         }
       ]
     }
