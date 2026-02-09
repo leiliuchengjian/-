@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T02:43:18.328698+08:00",
-  "total_titles_processed": 369,
+  "generated_at": "2026-02-10T04:33:23.801580+08:00",
+  "total_titles_processed": 445,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 20,
+      "match_count": 30,
       "titles": [
         {
           "title": "美股三大指数开盘小幅下跌，美债走跌，英镑延续涨势，黄金涨至5040美元",
@@ -15,19 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 02时43分]"
-        },
-        {
-          "title": "周一（2月9日），美联储隔夜逆回购协议（RRP）使用规模为13.06亿美元（交易对手10家），上个交易日报31.11亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3052473",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时43分"
+          "appearance_count": 4,
+          "time_info": "[01时42分 ~ 04时33分]"
         },
         {
           "title": "市场消息：Alphabet(GOOG.O)计划通过发行美元债券筹集200亿美元。",
@@ -36,7 +25,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
         },
@@ -52,15 +41,49 @@
           "time_info": "01时42分"
         },
         {
+          "title": "美国国会预算办公室（CBO）：预计美国1月财政赤字为940亿美元。",
+          "url": "https://flash.jin10.com/detail/20260210040413175800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
+        },
+        {
           "title": "LME期铜收涨182美元，报13176美元/吨。 LME期铝收涨40美元，报3126美元/吨。 LME期锌收涨30美元，报3376美元/吨。 LME期铅收涨10美元，报1970美元/吨。 LME期镍收涨259美元，报17349美元/吨。 LME期锡收涨2380美元，报49098美元/吨。 LME期钴收平，报56290美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3052469",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "美元指数跌超0.8%",
+          "url": "https://wallstreetcn.com/livenews/3052498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
+        },
+        {
+          "title": "周一（2月9日），美联储隔夜逆回购协议（RRP）使用规模为13.06亿美元（交易对手10家），上个交易日报31.11亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3052473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时43分 ~ 04时33分]"
         },
         {
           "title": "市场消息：Alphabet(GOOG.O)发行美元债券，吸引超1000亿美元认购需求。",
@@ -111,15 +134,37 @@
           "time_info": "[01时42分 ~ 02时43分]"
         },
         {
+          "title": "美联储理事米兰：美元走势对货币政策影响不大，一直相对温和。",
+          "url": "https://flash.jin10.com/detail/20260210040327811800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
+        },
+        {
           "title": "IMF总裁淡化美元“短期波动”，称美元角色短期内不会改变",
           "url": "https://wallstreetcn.com/livenews/3052468",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "美联储理事米兰：美元传导至通胀并非主要问题。",
+          "url": "https://flash.jin10.com/detail/20260210040241741800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
         },
         {
           "title": "周一（2月9日），韩元兑美元最终涨0.35%，报1458.49韩元，全天呈现出W形反转行情。",
@@ -128,9 +173,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "据美国CBO估算：美国1月预算赤字940亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3052496",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
         },
         {
           "title": "谷歌母公司Alphabet的美元债发行获得超过1000亿美元认购需求，势必募集200亿美元。（彭博）",
@@ -139,9 +195,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "WTI 3月原油期货收涨0.81美元，涨幅1.27%，报64.36美元/桶。 布伦特4月原油期货收涨0.99美元，涨幅1.45%，报69.04美元/桶。 NYMEX 3月天然气期货收报3.1380美元/百万英热单位。 NYMEX 3月汽油期货收报1.9855美元/加仑，NYMEX 3月取暖油期货收报2.4169美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3052489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
         },
         {
           "title": "布伦特原油站上69美元/桶，日内涨2.16%。WTI原油日内涨幅扩大至2.00%，现报64.81美元/桶。",
@@ -153,6 +220,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
+        },
+        {
+          "title": "据IMM：美国电网运营商PJM的1月输电成本达到150亿美元，较一年之前超过翻倍。",
+          "url": "https://wallstreetcn.com/livenews/3052485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
         },
         {
           "title": "现货黄金突破5080美元/盎司，日内涨2.34%。",
@@ -172,9 +250,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "巴西重返二十余年来发行活动最繁忙的国际债券市场，发行35亿美元债券。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3052483",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
         },
         {
           "title": "在美方建议悬挂美国国旗的船只尽可能远离伊朗后，布伦特原油期货上涨逾1美元/桶。",
@@ -188,6 +277,17 @@
           "time_info": "01时42分"
         },
         {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9208元，较上周五夜盘收盘涨146点。成交量441.84亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3052481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
+        },
+        {
           "title": "现货白银日内上涨7% 纽约期银站上83美元",
           "url": "https://flash.jin10.com/detail/20260210003752203800",
           "source": "金十数据",
@@ -197,6 +297,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
+        },
+        {
+          "title": "英镑兑美元GBP/USD向上触及1.37，日内涨0.64%。",
+          "url": "https://flash.jin10.com/detail/20260210034233838800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
         },
         {
           "title": "纽约银日内涨幅达7.0%，报82.29美元/盎司。 现货白银日内涨幅达6.5%，报82.54美元/盎司。",
@@ -235,7 +346,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "不要对AI说谢谢",
@@ -245,19 +356,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时42分 ~ 04时33分]"
         },
         {
           "title": "一图看懂｜AI应用“春节档”持续上新，下一波神仙打架已就位？",
           "url": "https://www.cls.cn/detail/2284846",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时42分 ~ 04时33分]"
         },
         {
           "title": "汇丰中国财富洞察：AI技术更迭引发软件股重挫，软件板块未来发展或分化|热点追踪",
@@ -267,19 +379,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 02时43分]"
-        },
-        {
-          "title": "如何评价影视飓风在凌晨发布视频《改变视频行业的 AI，快来了》？",
-          "url": "https://www.zhihu.com/question/2003997015852482602",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时42分 ~ 04时33分]"
         },
         {
           "title": "凌晨三点，彻底失眠：Seedance 2.0告诉我们，AI对现实世界工作流“压缩”正在加速",
@@ -289,8 +390,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时42分 ~ 04时33分]"
         },
         {
           "title": "本周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
@@ -300,8 +401,31 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时42分 ~ 04时33分]"
+        },
+        {
+          "title": "如何评价影视飓风在凌晨发布视频《改变视频行业的 AI，快来了》？",
+          "url": "https://www.zhihu.com/question/2003997015852482602",
+          "source": "知乎",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时42分 ~ 04时33分]"
+        },
+        {
+          "title": "美联储理事米兰：人工智能正在影响经济，但难以衡量。",
+          "url": "https://flash.jin10.com/detail/20260210041449263800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
         },
         {
           "title": "创业板涨3%，AI应用、CPO暴涨，光伏掀涨停潮，恒科指涨1%，澜起科技IPO首日涨超60%",
@@ -311,8 +435,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时42分 ~ 04时33分]"
         },
         {
           "title": "AIGC整活新春联欢会",
@@ -320,11 +444,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             16,
-            9
+            9,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时42分 ~ 04时33分]"
         },
         {
           "title": "【每日收评】创业板指高开高走涨近3%，全市场超4600股飘红，AI应用方向集体爆发",
@@ -334,8 +459,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时42分 ~ 04时33分]"
         },
         {
           "title": "回到60年前！硅谷大厂竞相复刻IBM模式：垂直整合成AI博弈终极答案？",
@@ -373,6 +498,28 @@
           "time_info": "[01时42分 ~ 02时43分]"
         },
         {
+          "title": "OpenAI推出首个在网络安全方面设定为高等级的模型GPT-5.3-Codex",
+          "url": "https://wallstreetcn.com/livenews/3052487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
+        },
+        {
+          "title": "OpenAI CEO Sam Altman：GPT-5.3-Codex今天在Cursor、Github和VS Code中推出。我们希望尽快向所有API客户推出这一模型。这是我们首个在网络安全方面设定为高等级的模型，相关的额外工作使上线进度略有延迟。",
+          "url": "https://flash.jin10.com/detail/20260210032212804800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
+        },
+        {
           "title": "标普：下调Raizen七档，至垃圾级。",
           "url": "https://wallstreetcn.com/livenews/3052432",
           "source": "华尔街见闻-快讯",
@@ -387,8 +534,30 @@
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 6,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "英国央行货币政策委员会（MPC）成员Mann：英国脱欧问题将继续拖累英国经济。",
+          "url": "https://wallstreetcn.com/livenews/3052502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
+        },
+        {
+          "title": "法国总统马克龙接触Cour des Comptes的高管Amelie de Montchalin。 此前，法国央行行长宣布辞职。（法新社）",
+          "url": "https://wallstreetcn.com/livenews/3052499",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
+        },
         {
           "title": "欧洲央行行长拉加德：我们仍然侧重于（欧元区）价格稳定性。 央行侧重于塑造一个更加强大的欧洲。",
           "url": "https://wallstreetcn.com/livenews/3052458",
@@ -448,6 +617,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时42分 ~ 02时43分]"
+        },
+        {
+          "title": "英国央行货币政策委员会（MPC）成员Mann：进口价格是英国价格的一个重要的正面贡献因素。",
+          "url": "https://wallstreetcn.com/livenews/3052495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
+        },
+        {
+          "title": "美联储理事米兰：央行独立性（将会）带来更好的政策。 FOMC货币政策应当与商业周期相适应。 关税收入将有助于解决财政问题。 美元需要出现大幅波动，才能影响到美国通胀。",
+          "url": "https://wallstreetcn.com/livenews/3052492",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
+        },
+        {
+          "title": "美联储理事米兰：不存在100%的央行独立性。",
+          "url": "https://flash.jin10.com/detail/20260210034608273800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
+        },
+        {
+          "title": "美联储理事米兰：央行独立性带来更优政策。",
+          "url": "https://flash.jin10.com/detail/20260210034359885800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
         },
         {
           "title": "欧洲央行内格尔：当前利率水平处于合适水平",
@@ -512,11 +725,12 @@
           "source": "微博",
           "ranks": [
             28,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时42分 ~ 04时33分]"
         },
         {
           "title": "只要华为不跪产品就不贵",
@@ -527,8 +741,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时42分 ~ 04时33分]"
         }
       ]
     },
@@ -541,11 +755,12 @@
           "url": "https://www.zhihu.com/question/2004113846651085506",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时42分 ~ 04时33分]"
         }
       ]
     },
@@ -558,11 +773,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%BF%87%E5%B9%B4%E7%8E%B0%E7%8A%B6",
           "source": "bilibili 热搜",
           "ranks": [
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时42分 ~ 04时33分]"
         }
       ]
     },
@@ -578,8 +794,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时42分 ~ 04时33分]"
         }
       ]
     }
