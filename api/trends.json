@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T04:33:23.801580+08:00",
-  "total_titles_processed": 445,
+  "generated_at": "2026-02-10T05:31:15.623490+08:00",
+  "total_titles_processed": 500,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 30,
+      "match_count": 39,
       "titles": [
         {
           "title": "美股三大指数开盘小幅下跌，美债走跌，英镑延续涨势，黄金涨至5040美元",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时42分 ~ 04时33分]"
+        },
+        {
+          "title": "科技股反弹提振市场，标普逼近历史高位，微软反弹3%，黄金重回5000美元，白银涨超7%",
+          "url": "https://wallstreetcn.com/articles/3765262",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时30分 ~ 05时31分]"
         },
         {
           "title": "市场消息：Alphabet(GOOG.O)计划通过发行美元债券筹集200亿美元。",
@@ -41,15 +52,15 @@
           "time_info": "01时42分"
         },
         {
-          "title": "美国国会预算办公室（CBO）：预计美国1月财政赤字为940亿美元。",
-          "url": "https://flash.jin10.com/detail/20260210040413175800",
-          "source": "金十数据",
+          "title": "美国纽约市护士达成一份临时协议，希望借机结束持续数周的罢工。 此前，纽约市各大医院向那些拒绝参与罢工的护士提供单周高达9,000美元的报酬。",
+          "url": "https://wallstreetcn.com/livenews/3052520",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时33分"
+          "time_info": "05时31分"
         },
         {
           "title": "LME期铜收涨182美元，报13176美元/吨。 LME期铝收涨40美元，报3126美元/吨。 LME期锌收涨30美元，报3376美元/吨。 LME期铅收涨10美元，报1970美元/吨。 LME期镍收涨259美元，报17349美元/吨。 LME期锡收涨2380美元，报49098美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -63,15 +74,15 @@
           "time_info": "02时43分"
         },
         {
-          "title": "美元指数跌超0.8%",
-          "url": "https://wallstreetcn.com/livenews/3052498",
+          "title": "黄金ETF收涨超2.4%，领跑美股大类资产类ETF，做多美元指数跌0.8%",
+          "url": "https://wallstreetcn.com/livenews/3052519",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时33分"
+          "time_info": "05时31分"
         },
         {
           "title": "周一（2月9日），美联储隔夜逆回购协议（RRP）使用规模为13.06亿美元（交易对手10家），上个交易日报31.11亿美元。",
@@ -98,6 +109,54 @@
           "time_info": "[01时42分 ~ 02时43分]"
         },
         {
+          "title": "美国国会预算办公室（CBO）：预计美国1月财政赤字为940亿美元。",
+          "url": "https://flash.jin10.com/detail/20260210040413175800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时33分 ~ 05时31分]"
+        },
+        {
+          "title": "美元指数跌超0.8%",
+          "url": "https://wallstreetcn.com/livenews/3052498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时33分 ~ 05时31分]"
+        },
+        {
+          "title": "美联储理事米兰：美元走势对货币政策影响不大，一直相对温和。",
+          "url": "https://flash.jin10.com/detail/20260210040327811800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时33分 ~ 05时31分]"
+        },
+        {
+          "title": "美联储理事米兰：美元传导至通胀并非主要问题。",
+          "url": "https://flash.jin10.com/detail/20260210040241741800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时33分 ~ 05时31分]"
+        },
+        {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数大致持平，暂报2700点。 MarketVectorTM数字资产100中盘指数跌0.84%，报2758.06点。 MarketVector数字资产100指数跌0.32%，报2693.81点，北京时间14:00-19:00持续下挫。 Solana跌1.15%，狗狗币跌1.43%，XRP涨0.92%。 比特币跌1.23%，暂报70069美元；以太坊跌0.80%，暂报2093.44美元。",
           "url": "https://wallstreetcn.com/livenews/3052456",
           "source": "华尔街见闻-快讯",
@@ -122,6 +181,18 @@
           "time_info": "[01时42分 ~ 02时43分]"
         },
         {
+          "title": "WTI 3月原油期货收涨0.81美元，涨幅1.27%，报64.36美元/桶。 布伦特4月原油期货收涨0.99美元，涨幅1.45%，报69.04美元/桶。 NYMEX 3月天然气期货收报3.1380美元/百万英热单位。 NYMEX 3月汽油期货收报1.9855美元/加仑，NYMEX 3月取暖油期货收报2.4169美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3052489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时33分 ~ 05时31分]"
+        },
+        {
           "title": "纽约金5分钟内上涨8.7美元/盎司，报5102.6美元/盎司。 现货白银日内涨幅达7.0%，报82.95美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3052439",
           "source": "华尔街见闻-快讯",
@@ -134,17 +205,6 @@
           "time_info": "[01时42分 ~ 02时43分]"
         },
         {
-          "title": "美联储理事米兰：美元走势对货币政策影响不大，一直相对温和。",
-          "url": "https://flash.jin10.com/detail/20260210040327811800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时33分"
-        },
-        {
           "title": "IMF总裁淡化美元“短期波动”，称美元角色短期内不会改变",
           "url": "https://wallstreetcn.com/livenews/3052468",
           "source": "华尔街见闻-快讯",
@@ -154,17 +214,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
-        },
-        {
-          "title": "美联储理事米兰：美元传导至通胀并非主要问题。",
-          "url": "https://flash.jin10.com/detail/20260210040241741800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时33分"
         },
         {
           "title": "周一（2月9日），韩元兑美元最终涨0.35%，报1458.49韩元，全天呈现出W形反转行情。",
@@ -184,9 +233,42 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
+        },
+        {
+          "title": "现货白银向上触及84美元/盎司，日内涨近8%。",
+          "url": "https://flash.jin10.com/detail/20260210045447261800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "美联储博斯蒂克：我开始看到人们对美元信心产生质疑。",
+          "url": "https://flash.jin10.com/detail/20260210044543147800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "美元指数9日下跌",
+          "url": "https://flash.jin10.com/detail/20260210044510192800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
         },
         {
           "title": "谷歌母公司Alphabet的美元债发行获得超过1000亿美元认购需求，势必募集200亿美元。（彭博）",
@@ -200,15 +282,15 @@
           "time_info": "02时43分"
         },
         {
-          "title": "WTI 3月原油期货收涨0.81美元，涨幅1.27%，报64.36美元/桶。 布伦特4月原油期货收涨0.99美元，涨幅1.45%，报69.04美元/桶。 NYMEX 3月天然气期货收报3.1380美元/百万英热单位。 NYMEX 3月汽油期货收报1.9855美元/加仑，NYMEX 3月取暖油期货收报2.4169美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3052489",
-          "source": "华尔街见闻-快讯",
+          "title": "米兰冬奥单枚金牌熔值接近2500美元",
+          "url": "https://flash.jin10.com/detail/20260210044359773800",
+          "source": "金十数据",
           "ranks": [
-            12
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时33分"
+          "time_info": "05时31分"
         },
         {
           "title": "布伦特原油站上69美元/桶，日内涨2.16%。WTI原油日内涨幅扩大至2.00%，现报64.81美元/桶。",
@@ -228,7 +310,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
         },
@@ -255,13 +337,24 @@
           "time_info": "02时43分"
         },
         {
+          "title": "现货白银日内大涨6美元，现报83.81美元/盎司，涨幅7.73%。",
+          "url": "https://flash.jin10.com/detail/20260210042022848800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
           "title": "巴西重返二十余年来发行活动最繁忙的国际债券市场，发行35亿美元债券。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3052483",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
         },
@@ -283,7 +376,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
         },
@@ -305,7 +398,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
         },
@@ -319,6 +412,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
+        },
+        {
+          "title": "据美国国会预算办公室（CBO）估算：美国1月预算赤字940亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3052496",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
         },
         {
           "title": "现货黄金日内涨幅达2.0%，报5059.55美元/盎司。",
@@ -356,8 +460,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时42分 ~ 04时33分]"
+          "appearance_count": 6,
+          "time_info": "[01时42分 ~ 05时31分]"
         },
         {
           "title": "一图看懂｜AI应用“春节档”持续上新，下一波神仙打架已就位？",
@@ -368,8 +472,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时42分 ~ 04时33分]"
+          "appearance_count": 6,
+          "time_info": "[01时42分 ~ 05时31分]"
         },
         {
           "title": "汇丰中国财富洞察：AI技术更迭引发软件股重挫，软件板块未来发展或分化|热点追踪",
@@ -379,8 +483,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时42分 ~ 04时33分]"
+          "appearance_count": 6,
+          "time_info": "[01时42分 ~ 05时31分]"
         },
         {
           "title": "凌晨三点，彻底失眠：Seedance 2.0告诉我们，AI对现实世界工作流“压缩”正在加速",
@@ -390,8 +494,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时42分 ~ 04时33分]"
+          "appearance_count": 6,
+          "time_info": "[01时42分 ~ 05时31分]"
         },
         {
           "title": "本周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
@@ -401,8 +505,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时42分 ~ 04时33分]"
+          "appearance_count": 6,
+          "time_info": "[01时42分 ~ 05时31分]"
+        },
+        {
+          "title": "创业板涨3%，AI应用、CPO暴涨，光伏掀涨停潮，恒科指涨1%，澜起科技IPO首日涨超60%",
+          "url": "https://wallstreetcn.com/articles/3765271",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时42分 ~ 05时31分]"
         },
         {
           "title": "如何评价影视飓风在凌晨发布视频《改变视频行业的 AI，快来了》？",
@@ -417,39 +532,18 @@
           "time_info": "[01时42分 ~ 04时33分]"
         },
         {
-          "title": "美联储理事米兰：人工智能正在影响经济，但难以衡量。",
-          "url": "https://flash.jin10.com/detail/20260210041449263800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时33分"
-        },
-        {
-          "title": "创业板涨3%，AI应用、CPO暴涨，光伏掀涨停潮，恒科指涨1%，澜起科技IPO首日涨超60%",
-          "url": "https://wallstreetcn.com/articles/3765271",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时42分 ~ 04时33分]"
-        },
-        {
           "title": "AIGC整活新春联欢会",
           "url": "https://search.bilibili.com/all?keyword=AIGC%E6%95%B4%E6%B4%BB%E6%96%B0%E6%98%A5%E8%81%94%E6%AC%A2%E4%BC%9A",
           "source": "bilibili 热搜",
           "ranks": [
             16,
             9,
-            25
+            25,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时42分 ~ 04时33分]"
+          "appearance_count": 6,
+          "time_info": "[01时42分 ~ 05时31分]"
         },
         {
           "title": "【每日收评】创业板指高开高走涨近3%，全市场超4600股飘红，AI应用方向集体爆发",
@@ -459,8 +553,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时42分 ~ 04时33分]"
+          "appearance_count": 6,
+          "time_info": "[01时42分 ~ 05时31分]"
+        },
+        {
+          "title": "美联储理事米兰：人工智能正在影响经济，但难以衡量。",
+          "url": "https://flash.jin10.com/detail/20260210041449263800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时33分 ~ 05时31分]"
         },
         {
           "title": "回到60年前！硅谷大厂竞相复刻IBM模式：垂直整合成AI博弈终极答案？",
@@ -504,7 +610,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
         },
@@ -515,7 +621,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
         },
@@ -534,7 +640,7 @@
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "英国央行货币政策委员会（MPC）成员Mann：英国脱欧问题将继续拖累英国经济。",
@@ -543,7 +649,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
         },
@@ -552,11 +658,12 @@
           "url": "https://wallstreetcn.com/livenews/3052499",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时33分 ~ 05时31分]"
         },
         {
           "title": "欧洲央行行长拉加德：我们仍然侧重于（欧元区）价格稳定性。 央行侧重于塑造一个更加强大的欧洲。",
@@ -569,6 +676,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时42分 ~ 02时43分]"
+        },
+        {
+          "title": "英国央行货币政策委员会（MPC）成员Mann：进口价格是英国价格的一个重要的正面贡献因素。",
+          "url": "https://wallstreetcn.com/livenews/3052495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时33分 ~ 05时31分]"
         },
         {
           "title": "欧洲央行行长拉加德：在当前不确定的环境中，我们基于数据、逐次会议推进货币政策的做法对我们大有裨益。",
@@ -595,6 +714,18 @@
           "time_info": "[01时42分 ~ 02时43分]"
         },
         {
+          "title": "美联储理事米兰：央行独立性（将会）带来更好的政策。 FOMC货币政策应当与商业周期相适应。 关税收入将有助于解决财政问题。 美元需要出现大幅波动，才能影响到美国通胀。",
+          "url": "https://wallstreetcn.com/livenews/3052492",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时33分 ~ 05时31分]"
+        },
+        {
           "title": "纽约期金升破5100美元 市场关注美国数据与降息线索",
           "url": "https://flash.jin10.com/detail/20260210010007165800",
           "source": "金十数据",
@@ -619,37 +750,37 @@
           "time_info": "[01时42分 ~ 02时43分]"
         },
         {
-          "title": "英国央行货币政策委员会（MPC）成员Mann：进口价格是英国价格的一个重要的正面贡献因素。",
-          "url": "https://wallstreetcn.com/livenews/3052495",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时33分"
-        },
-        {
-          "title": "美联储理事米兰：央行独立性（将会）带来更好的政策。 FOMC货币政策应当与商业周期相适应。 关税收入将有助于解决财政问题。 美元需要出现大幅波动，才能影响到美国通胀。",
-          "url": "https://wallstreetcn.com/livenews/3052492",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时33分"
-        },
-        {
           "title": "美联储理事米兰：不存在100%的央行独立性。",
           "url": "https://flash.jin10.com/detail/20260210034608273800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
+        },
+        {
+          "title": "英国央行货币政策委员曼恩：英国脱欧持续拖累英国经济，担心消费和生产力增长缓慢。",
+          "url": "https://flash.jin10.com/detail/20260210042026884800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "英国央行货币政策委员会（MPC）成员Mann：英国脱欧问题将继续拖累英国经济。 （消费者/企业/财政）开支和生产力让人感到忧心忡忡。",
+          "url": "https://wallstreetcn.com/livenews/3052502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
         },
         {
           "title": "美联储理事米兰：央行独立性带来更优政策。",
@@ -658,7 +789,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
         },
@@ -720,6 +851,19 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "只要华为不跪产品就不贵",
+          "url": "https://s.weibo.com/weibo?q=%E5%8F%AA%E8%A6%81%E5%8D%8E%E4%B8%BA%E4%B8%8D%E8%B7%AA%E4%BA%A7%E5%93%81%E5%B0%B1%E4%B8%8D%E8%B4%B5&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            29,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时42分 ~ 05时31分]"
+        },
+        {
           "title": "王者荣耀",
           "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -731,24 +875,12 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时42分 ~ 04时33分]"
-        },
-        {
-          "title": "只要华为不跪产品就不贵",
-          "url": "https://s.weibo.com/weibo?q=%E5%8F%AA%E8%A6%81%E5%8D%8E%E4%B8%BA%E4%B8%8D%E8%B7%AA%E4%BA%A7%E5%93%81%E5%B0%B1%E4%B8%8D%E8%B4%B5&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时42分 ~ 04时33分]"
         }
       ]
     },
     {
       "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "特斯拉续航剩 72 公里，高速突然断电，售后建议剩 100 公里就充电，这合理吗？表显续航与实际为何差这么多？",
@@ -756,11 +888,85 @@
           "source": "知乎",
           "ranks": [
             15,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时42分 ~ 04时33分]"
+          "appearance_count": 6,
+          "time_info": "[01时42分 ~ 05时31分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨0.12%，报7817.64点。 热门中概股里，世纪互联初步收涨5.8%，大全新能源涨5.8%，阿特斯太阳能涨5.7%，亚朵涨5.6%，B站则跌2.4%，蔚来跌3.1%，理想跌3.1%，新东方跌4.4%。 ETF中，XtrackersHarvest中证50（ASHS）收涨1.72%，德银嘉实沪深300指数ETF（ASHR）收涨1.25%。 中国科技指数ETF（CQQQ）收涨0.54%，中概互联网指数ETF（KWEB）收涨0.09%。",
+          "url": "https://wallstreetcn.com/livenews/3052514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "就业 裁员 招聘",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美联储博斯蒂克：就业数据波动不定是美联储保持谨慎的另一个原因。",
+          "url": "https://flash.jin10.com/detail/20260210042533711800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "美国亚特兰大联储主席Bostic（2027年FOMC票委）：就业数据波动是美联储保持谨慎的另外一个理由。",
+          "url": "https://wallstreetcn.com/livenews/3052504",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源汽车 电动汽车 智能驾驶",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周一（2月9日）美股尾盘，彭博电动汽车价格回报指数涨2.11%，报3593.84点，整体持续走高。 成分股中，欧股意法半导体收涨9.76%，阿内卡矿业股份涨4.8%，中创新航科技集团H股收涨4.81%，蔚来集团H股则收跌0.51%，雅迪集团H股收跌1.56%，智利化工矿业公司（SQM）跌1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3052510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体 芯片 集成电路",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "标普500指数收涨32.52点，涨幅0.47%，报6964.82点。 道琼斯工业平均指数收涨20.20点，涨幅0.04%，报50135.87点。 纳斯达克综合指数（纳指）收涨207.457点，涨幅0.90%，报23238.67点。 纳斯达克100指数收涨192.369点，涨幅0.77%，报25268.141点。 纳斯达克生物科技指数收跌0.17%，报5970.10点。 费城半导体指数收涨1.42%，报8162.58点。 费城证交所KBW银行指数收涨0.16%，报176.40点。 道琼斯KBW地区银行指数收跌0.34%，报141.82点。",
+          "url": "https://wallstreetcn.com/livenews/3052512",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
         }
       ]
     },
@@ -774,11 +980,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             26,
-            27
+            27,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时42分 ~ 04时33分]"
+          "appearance_count": 6,
+          "time_info": "[01时42分 ~ 05时31分]"
         }
       ]
     },
@@ -794,8 +1001,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时42分 ~ 04时33分]"
+          "appearance_count": 6,
+          "time_info": "[01时42分 ~ 05时31分]"
         }
       ]
     }
