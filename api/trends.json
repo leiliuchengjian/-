@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T12:24:44.580368+08:00",
-  "total_titles_processed": 936,
+  "generated_at": "2026-02-10T14:06:55.205282+08:00",
+  "total_titles_processed": 1036,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 59,
+      "match_count": 62,
       "titles": [
         {
           "title": "美股三大指数开盘小幅下跌，美债走跌，英镑延续涨势，黄金涨至5040美元",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时42分 ~ 04时33分]"
+        },
+        {
+          "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
+          "url": "https://wallstreetcn.com/articles/3765262",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时20分 ~ 14时06分]"
         },
         {
           "title": "科技股反弹提振市场，标普逼近历史高位，微软反弹3%，黄金重回5000美元，白银涨超7%",
@@ -41,15 +52,16 @@
           "time_info": "[07时28分 ~ 07时29分]"
         },
         {
-          "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
-          "url": "https://wallstreetcn.com/articles/3765262",
-          "source": "华尔街见闻",
+          "title": "“股神”巴菲特躺赚20亿美元",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%82%A1%E7%A5%9E%E2%80%9D%E5%B7%B4%E8%8F%B2%E7%89%B9%E8%BA%BA%E8%B5%9A20%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
           "ranks": [
-            1
+            4,
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时20分 ~ 12时24分]"
+          "time_info": "[12时24分 ~ 14时06分]"
         },
         {
           "title": "现货黄金失守5000美元关口",
@@ -96,15 +108,15 @@
           "time_info": "07时29分"
         },
         {
-          "title": "“股神”巴菲特躺赚20亿美元",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%82%A1%E7%A5%9E%E2%80%9D%E5%B7%B4%E8%8F%B2%E7%89%B9%E8%BA%BA%E8%B5%9A20%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
+          "title": "以太坊一度跌破2050美元，日内跌幅超3%。",
+          "url": "https://wallstreetcn.com/livenews/3052757",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时24分"
+          "time_info": "14时06分"
         },
         {
           "title": "市场消息：Alphabet(GOOG.O)计划通过发行美元债券筹集200亿美元。",
@@ -366,6 +378,18 @@
           "time_info": "[04时33分 ~ 05时31分]"
         },
         {
+          "title": "“股神”巴菲特躺赚20亿美元",
+          "url": "https://www.toutiao.com/trending/7604296122031063059/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时24分 ~ 14时06分]"
+        },
+        {
           "title": "米兰冬奥单枚金牌熔值接近2500美元",
           "url": "https://flash.jin10.com/detail/20260210044359773800",
           "source": "金十数据",
@@ -490,15 +514,26 @@
           "time_info": "02时43分"
         },
         {
-          "title": "“股神”巴菲特躺赚20亿美元",
-          "url": "https://www.toutiao.com/trending/7604296122031063059/",
-          "source": "今日头条",
+          "title": "现货白银日内跌超3%，现报80.67美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3052741",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时24分"
+          "time_info": "14时06分"
+        },
+        {
+          "title": "巴菲特在日股上躺赚20亿美元",
+          "url": "https://www.douyin.com/hot/2395504",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
         },
         {
           "title": "布伦特原油站上69美元/桶，日内涨2.16%。WTI原油日内涨幅扩大至2.00%，现报64.81美元/桶。",
@@ -540,7 +575,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
         },
@@ -680,7 +715,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 26,
+      "match_count": 32,
       "titles": [
         {
           "title": "一图看懂｜AI应用“春节档”持续上新，下一波神仙打架已就位？",
@@ -754,8 +789,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时42分 ~ 12时24分]"
+          "appearance_count": 12,
+          "time_info": "[01时42分 ~ 14时06分]"
         },
         {
           "title": "AIGC整活新春联欢会",
@@ -767,11 +802,12 @@
             25,
             20,
             29,
-            21
+            21,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时42分 ~ 12时24分]"
+          "appearance_count": 12,
+          "time_info": "[01时42分 ~ 14时06分]"
         },
         {
           "title": "【每日收评】创业板指高开高走涨近3%，全市场超4600股飘红，AI应用方向集体爆发",
@@ -798,15 +834,61 @@
           "time_info": "[01时42分 ~ 04时33分]"
         },
         {
+          "title": "台积电一月营收创记录新高 芯片订单并未因AI泡沫担忧而减少",
+          "url": "https://flash.jin10.com/detail/20260210135607903800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2026-02-10）",
           "url": "https://flash.jin10.com/detail/20260210113523093800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
+        },
+        {
+          "title": "AI短剧",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
+          "title": "阿里达摩院开源具身大脑基模RynnBrain 机器人首次拥有时空记忆",
+          "url": "https://wallstreetcn.com/livenews/3052752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
+          "title": "不要对AI说谢谢",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E5%AF%B9AI%E8%AF%B4%E8%B0%A2%E8%B0%A2%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            21,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时20分 ~ 14时06分]"
         },
         {
           "title": "美联储理事米兰：人工智能正在影响经济，但难以衡量。",
@@ -833,16 +915,40 @@
           "time_info": "[06时26分 ~ 07时29分]"
         },
         {
-          "title": "不要对AI说谢谢",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E5%AF%B9AI%E8%AF%B4%E8%B0%A2%E8%B0%A2%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
+          "title": "AI应用集体“上春晚” 豆包官宣“参战”!",
+          "url": "https://www.cls.cn/detail/2285532",
+          "source": "财联社热门",
           "ranks": [
-            1,
-            21
+            11,
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时20分 ~ 12时24分]"
+          "time_info": "[12时24分 ~ 14时06分]"
+        },
+        {
+          "title": "Seedance2.0 对AI应用意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3765320",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时20分 ~ 14时06分]"
+        },
+        {
+          "title": "谷歌拟发行200亿美元债券 融资加码AI支出",
+          "url": "https://www.cls.cn/detail/2285182",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时20分 ~ 14时06分]"
         },
         {
           "title": "回到60年前！硅谷大厂竞相复刻IBM模式：垂直整合成AI博弈终极答案？",
@@ -856,16 +962,15 @@
           "time_info": "[01时42分 ~ 02时43分]"
         },
         {
-          "title": "Seedance2.0 对AI应用意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3765320",
-          "source": "华尔街见闻",
+          "title": "以假乱真,奥特曼大AI时代来临",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350479&amp;topic_name=%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%A4%A7AI%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%B8%B4",
+          "source": "贴吧",
           "ranks": [
-            9,
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时20分 ~ 12时24分]"
+          "time_info": "[12时24分 ~ 14时06分]"
         },
         {
           "title": "市场消息：谷歌与Entrust将合作推出基于人工智能的身份验证服务。",
@@ -880,15 +985,15 @@
           "time_info": "[01时42分 ~ 02时43分]"
         },
         {
-          "title": "谷歌拟发行200亿美元债券 融资加码AI支出",
-          "url": "https://www.cls.cn/detail/2285182",
-          "source": "财联社热门",
+          "title": "美软件股危机未除！花旗：AI冲击或让终端价值蒸发三分之一",
+          "url": "https://wallstreetcn.com/articles/3765297",
+          "source": "华尔街见闻",
           "ranks": [
-            12
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时20分 ~ 12时24分]"
+          "time_info": "[12时24分 ~ 14时06分]"
         },
         {
           "title": "微软不到一周内评级两度遭下调，Melius警告AI相关风险",
@@ -914,37 +1019,15 @@
           "time_info": "[07时28分 ~ 07时29分]"
         },
         {
-          "title": "以假乱真,奥特曼大AI时代来临",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350479&amp;topic_name=%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%A4%A7AI%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%B8%B4",
-          "source": "贴吧",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时24分"
-        },
-        {
-          "title": "美软件股危机未除！花旗：AI冲击或让终端价值蒸发三分之一",
-          "url": "https://wallstreetcn.com/articles/3765297",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时24分"
-        },
-        {
-          "title": "AI应用集体“上春晚” 豆包官宣“参战”!",
-          "url": "https://www.cls.cn/detail/2285532",
+          "title": "无惧抛售？大摩首席：AI将继续助涨科技股，关注应用端！",
+          "url": "https://www.cls.cn/detail/2285290",
           "source": "财联社热门",
           "ranks": [
-            11
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时24分"
+          "time_info": "14时06分"
         },
         {
           "title": "AI 恐怖",
@@ -967,6 +1050,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
+        },
+        {
+          "title": "QuestMobile：AI红包效应带动用户量激增，千问春节活动首日DAU增长7.3倍",
+          "url": "https://wallstreetcn.com/livenews/3052738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
+          "title": "千问APP接入大麦 测试AI买电影票能力",
+          "url": "https://wallstreetcn.com/livenews/3052722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
         },
         {
           "title": "OpenAI CEO Sam Altman：GPT-5.3-Codex今天在Cursor、Github和VS Code中推出。我们希望尽快向所有API客户推出这一模型。这是我们首个在网络安全方面设定为高等级的模型，相关的额外工作使上线进度略有延迟。",
@@ -1164,6 +1269,78 @@
       ]
     },
     {
+      "keyword_group": "半导体 芯片 集成电路",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "金十图示：2026年02月10日（周二）富时中国A50指数成分股午盘收盘行情一览：银行、半导体、石油、消费电子等多个板块走势分化，保险、酿酒行业全线下跌",
+          "url": "https://flash.jin10.com/detail/20260210113504720800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "A股半导体设备股震荡回升，华峰测控、微导纳米涨超10%，福光股份、永新光学、京仪装备、光力科技跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3052747",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
+          "title": "标普500指数收涨32.52点，涨幅0.47%，报6964.82点。 道琼斯工业平均指数收涨20.20点，涨幅0.04%，报50135.87点。 纳斯达克综合指数（纳指）收涨207.457点，涨幅0.90%，报23238.67点。 纳斯达克100指数收涨192.369点，涨幅0.77%，报25268.141点。 纳斯达克生物科技指数收跌0.17%，报5970.10点。 费城半导体指数收涨1.42%，报8162.58点。 费城证交所KBW银行指数收涨0.16%，报176.40点。 道琼斯KBW地区银行指数收跌0.34%，报141.82点。",
+          "url": "https://wallstreetcn.com/livenews/3052512",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "北京君正：公司存储芯片不同客户和产品涨价幅度不一样 DRAM涨价较多",
+          "url": "https://wallstreetcn.com/livenews/3052727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
+          "title": "银河证券：当前时点是存储芯片赛道下一轮周期的新起点",
+          "url": "https://wallstreetcn.com/livenews/3052580",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "存储芯片“超级周期”打破周期规律 供应紧缩或贯穿全年",
+          "url": "https://flash.jin10.com/detail/20260210080307682800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        }
+      ]
+    },
+    {
       "keyword_group": "苹果 iPhone",
       "match_count": 4,
       "titles": [
@@ -1271,52 +1448,53 @@
       ]
     },
     {
-      "keyword_group": "半导体 芯片 集成电路",
+      "keyword_group": "英伟达 台积电 AMD 高通",
       "match_count": 4,
       "titles": [
         {
-          "title": "金十图示：2026年02月10日（周二）富时中国A50指数成分股午盘收盘行情一览：银行、半导体、石油、消费电子等多个板块走势分化，保险、酿酒行业全线下跌",
-          "url": "https://flash.jin10.com/detail/20260210113504720800",
+          "title": "消息称英伟达今年将推出一款定位高于 GeForce RTX 5090 的新显卡，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2004134720611510191",
+          "source": "知乎",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时24分 ~ 14时06分]"
+        },
+        {
+          "title": "台积电1月营收创历史新高",
+          "url": "https://flash.jin10.com/detail/20260210133118282800",
           "source": "金十数据",
           "ranks": [
-            5
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时24分"
+          "time_info": "14时06分"
         },
         {
-          "title": "标普500指数收涨32.52点，涨幅0.47%，报6964.82点。 道琼斯工业平均指数收涨20.20点，涨幅0.04%，报50135.87点。 纳斯达克综合指数（纳指）收涨207.457点，涨幅0.90%，报23238.67点。 纳斯达克100指数收涨192.369点，涨幅0.77%，报25268.141点。 纳斯达克生物科技指数收跌0.17%，报5970.10点。 费城半导体指数收涨1.42%，报8162.58点。 费城证交所KBW银行指数收涨0.16%，报176.40点。 道琼斯KBW地区银行指数收跌0.34%，报141.82点。",
-          "url": "https://wallstreetcn.com/livenews/3052512",
+          "title": "台积电夜盘涨超3%，业绩报告显示，台积电1月销售额同比增长36.8％。",
+          "url": "https://wallstreetcn.com/livenews/3052746",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时31分"
+          "time_info": "14时06分"
         },
         {
-          "title": "银河证券：当前时点是存储芯片赛道下一轮周期的新起点",
-          "url": "https://wallstreetcn.com/livenews/3052580",
+          "title": "台积电1月销售额4,012.6亿元台币，同比增长36.8％，环比增长19.8%。",
+          "url": "https://wallstreetcn.com/livenews/3052743",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时20分"
-        },
-        {
-          "title": "存储芯片“超级周期”打破周期规律 供应紧缩或贯穿全年",
-          "url": "https://flash.jin10.com/detail/20260210080307682800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时20分"
+          "time_info": "14时06分"
         }
       ]
     },
@@ -1334,8 +1512,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时28分 ~ 12时24分]"
+          "appearance_count": 5,
+          "time_info": "[07时28分 ~ 14时06分]"
         },
         {
           "title": "美联储博斯蒂克：就业数据波动不定是美联储保持谨慎的另一个原因。",
@@ -1439,23 +1617,6 @@
       ]
     },
     {
-      "keyword_group": "英伟达 台积电 AMD 高通",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "消息称英伟达今年将推出一款定位高于 GeForce RTX 5090 的新显卡，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2004134720611510191",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时24分"
-        }
-      ]
-    },
-    {
       "keyword_group": "创业板",
       "match_count": 1,
       "titles": [
@@ -1466,7 +1627,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
         }
@@ -1506,8 +1667,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时42分 ~ 12时24分]"
+          "appearance_count": 12,
+          "time_info": "[01时42分 ~ 14时06分]"
         }
       ]
     }
