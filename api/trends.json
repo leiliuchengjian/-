@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-02-10T15:53:17.608381+08:00",
-  "total_titles_processed": 1167,
+  "generated_at": "2026-02-10T16:39:02.601662+08:00",
+  "total_titles_processed": 1253,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 66,
+      "match_count": 68,
       "titles": [
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
           "url": "https://wallstreetcn.com/articles/3765262",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时20分 ~ 15时53分]"
+          "appearance_count": 7,
+          "time_info": "[09时20分 ~ 16时39分]"
         },
         {
           "title": "美股三大指数开盘小幅下跌，美债走跌，英镑延续涨势，黄金涨至5040美元",
@@ -30,6 +31,20 @@
           "time_info": "[01时42分 ~ 04时33分]"
         },
         {
+          "title": "“股神”巴菲特躺赚20亿美元",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%82%A1%E7%A5%9E%E2%80%9D%E5%B7%B4%E8%8F%B2%E7%89%B9%E8%BA%BA%E8%B5%9A20%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            5,
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时24分 ~ 16时39分]"
+        },
+        {
           "title": "科技股反弹提振市场，标普逼近历史高位，微软反弹3%，黄金重回5000美元，白银涨超7%",
           "url": "https://wallstreetcn.com/articles/3765262",
           "source": "华尔街见闻",
@@ -41,6 +56,18 @@
           "time_info": "[05时30分 ~ 06时26分]"
         },
         {
+          "title": "巴菲特在日股上躺赚20亿美元",
+          "url": "https://www.douyin.com/hot/2395504",
+          "source": "抖音",
+          "ranks": [
+            14,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时06分 ~ 16时39分]"
+        },
+        {
           "title": "科技股反弹提振市场，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，白银涨超7%",
           "url": "https://wallstreetcn.com/articles/3765262",
           "source": "华尔街见闻",
@@ -50,19 +77,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时28分 ~ 07时29分]"
-        },
-        {
-          "title": "“股神”巴菲特躺赚20亿美元",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%82%A1%E7%A5%9E%E2%80%9D%E5%B7%B4%E8%8F%B2%E7%89%B9%E8%BA%BA%E8%B5%9A20%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时24分 ~ 15时53分]"
         },
         {
           "title": "现货黄金失守5000美元关口",
@@ -120,6 +134,17 @@
           "time_info": "14时06分"
         },
         {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.9129，较上一交易日官方收盘价涨155点，较上日夜盘收盘涨79点。",
+          "url": "https://wallstreetcn.com/livenews/3052888",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
           "title": "市场消息：Alphabet(GOOG.O)计划通过发行美元债券筹集200亿美元。",
           "url": "https://flash.jin10.com/detail/20260210020842705800",
           "source": "金十数据",
@@ -153,18 +178,6 @@
           "time_info": "01时42分"
         },
         {
-          "title": "巴菲特在日股上躺赚20亿美元",
-          "url": "https://www.douyin.com/hot/2395504",
-          "source": "抖音",
-          "ranks": [
-            14,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时06分 ~ 15时53分]"
-        },
-        {
           "title": "LME期铜收涨182美元，报13176美元/吨。 LME期铝收涨40美元，报3126美元/吨。 LME期锌收涨30美元，报3376美元/吨。 LME期铅收涨10美元，报1970美元/吨。 LME期镍收涨259美元，报17349美元/吨。 LME期锡收涨2380美元，报49098美元/吨。 LME期钴收平，报56290美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3052469",
           "source": "华尔街见闻-快讯",
@@ -185,6 +198,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "美防长：国防预算或提到1.5万亿美元，将导弹驱逐舰产能推到极限",
+          "url": "https://news.ifeng.com/c/8qcvBSgiyZU",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时52分 ~ 16时39分]"
         },
         {
           "title": "周一（2月9日），美联储隔夜逆回购协议（RRP）使用规模为13.06亿美元（交易对手10家），上个交易日报31.11亿美元。",
@@ -269,17 +293,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 06时26分]"
-        },
-        {
-          "title": "美防长：国防预算或提到1.5万亿美元，将导弹驱逐舰产能推到极限",
-          "url": "https://news.ifeng.com/c/8qcvBSgiyZU",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时52分 ~ 15时53分]"
         },
         {
           "title": "美联储理事米兰：美元走势对货币政策影响不大，一直相对温和。",
@@ -450,6 +463,17 @@
           "time_info": "[01时42分 ~ 02时43分]"
         },
         {
+          "title": "国际金价上蹿下跳，重回5000美元后，反弹动能是否仍然充沛？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32572245",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 16时39分]"
+        },
+        {
           "title": "市场消息：支付巨头Stripe在最新一轮要约收购中，其估值有望攀升至1400亿美元。",
           "url": "https://flash.jin10.com/detail/20260210070952987800",
           "source": "金十数据",
@@ -577,7 +601,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
@@ -709,7 +733,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
@@ -753,7 +777,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         }
@@ -761,7 +785,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 34,
+      "match_count": 38,
       "titles": [
         {
           "title": "一图看懂｜AI应用“春节档”持续上新，下一波神仙打架已就位？",
@@ -854,8 +878,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时42分 ~ 15时53分]"
+          "appearance_count": 16,
+          "time_info": "[01时42分 ~ 16时39分]"
         },
         {
           "title": "【每日收评】创业板指高开高走涨近3%，全市场超4600股飘红，AI应用方向集体爆发",
@@ -870,6 +894,32 @@
           "time_info": "[01时42分 ~ 07时29分]"
         },
         {
+          "title": "Seedance2.0 对AI应用意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3765320",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时20分 ~ 16时39分]"
+        },
+        {
+          "title": "AI应用集体“上春晚” 豆包官宣“参战”!",
+          "url": "https://www.cls.cn/detail/2285532",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时24分 ~ 16时39分]"
+        },
+        {
           "title": "如何评价影视飓风在凌晨发布视频《改变视频行业的 AI，快来了》？",
           "url": "https://www.zhihu.com/question/2003997015852482602",
           "source": "知乎",
@@ -882,16 +932,29 @@
           "time_info": "[01时42分 ~ 04时33分]"
         },
         {
-          "title": "AI应用集体“上春晚” 豆包官宣“参战”!",
-          "url": "https://www.cls.cn/detail/2285532",
-          "source": "财联社热门",
+          "title": "美软件股危机未除！花旗：AI冲击或让终端价值蒸发三分之一",
+          "url": "https://wallstreetcn.com/articles/3765297",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            5
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时24分 ~ 15时53分]"
+          "appearance_count": 6,
+          "time_info": "[12时24分 ~ 16时39分]"
+        },
+        {
+          "title": "以假乱真,奥特曼大AI时代来临",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350479&amp;topic_name=%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%A4%A7AI%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%B8%B4",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时24分 ~ 16时39分]"
         },
         {
           "title": "台积电一月营收创记录新高 芯片订单并未因AI泡沫担忧而减少",
@@ -927,19 +990,6 @@
           "time_info": "14时06分"
         },
         {
-          "title": "Seedance2.0 对AI应用意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3765320",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时20分 ~ 15时53分]"
-        },
-        {
           "title": "阿里达摩院开源具身大脑基模RynnBrain 机器人首次拥有时空记忆",
           "url": "https://wallstreetcn.com/livenews/3052752",
           "source": "华尔街见闻-快讯",
@@ -949,6 +999,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时06分"
+        },
+        {
+          "title": "北京新增3款已完成备案的生成式人工智能服务",
+          "url": "https://wallstreetcn.com/livenews/3052886",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
+          "title": "无惧抛售？大摩首席：AI将继续助涨科技股，关注应用端！",
+          "url": "https://www.cls.cn/detail/2285290",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时06分 ~ 16时39分]"
         },
         {
           "title": "不要对AI说谢谢",
@@ -988,29 +1061,6 @@
           "time_info": "[06时26分 ~ 07时29分]"
         },
         {
-          "title": "以假乱真,奥特曼大AI时代来临",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350479&amp;topic_name=%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%A4%A7AI%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%B8%B4",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时24分 ~ 15时53分]"
-        },
-        {
-          "title": "美软件股危机未除！花旗：AI冲击或让终端价值蒸发三分之一",
-          "url": "https://wallstreetcn.com/articles/3765297",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时24分 ~ 15时53分]"
-        },
-        {
           "title": "谷歌拟发行200亿美元债券 融资加码AI支出",
           "url": "https://www.cls.cn/detail/2285182",
           "source": "财联社热门",
@@ -1021,17 +1071,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时20分 ~ 14时06分]"
-        },
-        {
-          "title": "无惧抛售？大摩首席：AI将继续助涨科技股，关注应用端！",
-          "url": "https://www.cls.cn/detail/2285290",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时06分 ~ 15时53分]"
         },
         {
           "title": "回到60年前！硅谷大厂竞相复刻IBM模式：垂直整合成AI博弈终极答案？",
@@ -1055,6 +1094,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时42分 ~ 02时43分]"
+        },
+        {
+          "title": "中国AI大战：“百模大战”已结束，最大的利润池归属大厂，智谱和MiniMax如何突围？",
+          "url": "https://wallstreetcn.com/articles/3765363",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 16时39分]"
         },
         {
           "title": "微软不到一周内评级两度遭下调，Melius警告AI相关风险",
@@ -1086,7 +1136,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
@@ -1100,6 +1150,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
+        },
+        {
+          "title": "甲骨文宣布在其融合云应用中推出新的人工智能体。",
+          "url": "https://flash.jin10.com/detail/20260210160349867800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
         },
         {
           "title": "OpenAI推出首个在网络安全方面设定为高等级的模型GPT-5.3-Codex",
@@ -1124,13 +1185,24 @@
           "time_info": "14时06分"
         },
         {
+          "title": "浙江“十五五”规划纲要：到2030年规上人工智能核心产业营业收入达1.2万亿元",
+          "url": "https://wallstreetcn.com/livenews/3052850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
           "title": "百度加速出海，百度百科推出国际版BaiduWiki",
           "url": "https://wallstreetcn.com/livenews/3052813",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
@@ -1171,7 +1243,7 @@
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "英国央行货币政策委员会（MPC）成员Mann：英国脱欧问题将继续拖累英国经济。",
@@ -1185,6 +1257,17 @@
           "time_info": "04时33分"
         },
         {
+          "title": "欧洲央行副行长de Guindos：当前利率水平合适，未来需保持开放态度。 风险处于平衡状态。",
+          "url": "https://wallstreetcn.com/livenews/3052890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
           "title": "法国总统马克龙接触Cour des Comptes的高管Amelie de Montchalin。 此前，法国央行行长宣布辞职。（法新社）",
           "url": "https://wallstreetcn.com/livenews/3052499",
           "source": "华尔街见闻-快讯",
@@ -1196,6 +1279,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时33分 ~ 06时26分]"
+        },
+        {
+          "title": "春节特殊节点呵护资金面 央行开展3114亿元7天期逆回购 操作利率受市场关注",
+          "url": "https://www.cls.cn/detail/2285607",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时52分 ~ 16时39分]"
         },
         {
           "title": "欧洲央行行长拉加德：我们仍然侧重于（欧元区）价格稳定性。 央行侧重于塑造一个更加强大的欧洲。",
@@ -1256,17 +1351,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时33分 ~ 05时31分]"
-        },
-        {
-          "title": "春节特殊节点呵护资金面 央行开展3114亿元7天期逆回购 操作利率受市场关注",
-          "url": "https://www.cls.cn/detail/2285607",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时52分 ~ 15时53分]"
         },
         {
           "title": "纽约期金升破5100美元 市场关注美国数据与降息线索",
@@ -1353,7 +1437,7 @@
     },
     {
       "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "特斯拉续航剩 72 公里，高速突然断电，售后建议剩 100 公里就充电，这合理吗？表显续航与实际为何差这么多？",
@@ -1380,6 +1464,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时52分 ~ 15时53分]"
+        },
+        {
+          "title": "蔚来李斌最新内部讲话：跑通CBU机制，花最小的钱办出最大的事",
+          "url": "https://wallstreetcn.com/livenews/3052884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
         },
         {
           "title": "特斯拉北美销售主管离职 面临全球需求滑坡挑战",
@@ -1415,13 +1510,24 @@
           "time_info": "06时26分"
         },
         {
+          "title": "值得买：暂时没有和特斯拉开展项目合作",
+          "url": "https://wallstreetcn.com/livenews/3052854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
           "title": "理想春节后将推“门店合伙人”计划！车企向渠道求效率，行业将逐步向“1+N”模式拓展",
           "url": "https://wallstreetcn.com/livenews/3052812",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         }
@@ -1492,6 +1598,63 @@
           "source": "金十数据",
           "ranks": [
             29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为 小米 荣耀",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "只要华为不跪产品就不贵",
+          "url": "https://s.weibo.com/weibo?q=%E5%8F%AA%E8%A6%81%E5%8D%8E%E4%B8%BA%E4%B8%8D%E8%B7%AA%E4%BA%A7%E5%93%81%E5%B0%B1%E4%B8%8D%E8%B4%B5&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            29,
+            25,
+            26,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时42分 ~ 07时29分]"
+        },
+        {
+          "title": "王者荣耀",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            10,
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时42分 ~ 06时26分]"
+        },
+        {
+          "title": "2025 胡润中国 500 强发布，台积电、腾讯、字节位列前三，小米新进前十，如何评价上榜企业表现？",
+          "url": "https://www.zhihu.com/question/2002714528765457419",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 16时39分]"
+        },
+        {
+          "title": "小米CEO雷军：目前暂时没有进入美国市场的计划。",
+          "url": "https://wallstreetcn.com/livenews/3052595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1618,8 +1781,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时28分 ~ 15时53分]"
+          "appearance_count": 9,
+          "time_info": "[07时28分 ~ 16时39分]"
         },
         {
           "title": "美联储博斯蒂克：就业数据波动不定是美联储保持谨慎的另一个原因。",
@@ -1659,52 +1822,6 @@
       ]
     },
     {
-      "keyword_group": "华为 小米 荣耀",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "只要华为不跪产品就不贵",
-          "url": "https://s.weibo.com/weibo?q=%E5%8F%AA%E8%A6%81%E5%8D%8E%E4%B8%BA%E4%B8%8D%E8%B7%AA%E4%BA%A7%E5%93%81%E5%B0%B1%E4%B8%8D%E8%B4%B5&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27,
-            29,
-            25,
-            26,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时42分 ~ 07时29分]"
-        },
-        {
-          "title": "王者荣耀",
-          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            10,
-            8,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时42分 ~ 06时26分]"
-        },
-        {
-          "title": "小米CEO雷军：目前暂时没有进入美国市场的计划。",
-          "url": "https://wallstreetcn.com/livenews/3052595",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时20分"
-        }
-      ]
-    },
-    {
       "keyword_group": "创业板",
       "match_count": 2,
       "titles": [
@@ -1726,9 +1843,26 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房地产 房价 楼市 LPR",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国国会推进住房可负担性法案以应对房价压力",
+          "url": "https://flash.jin10.com/detail/20260210155642333800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
         }
       ]
     },
@@ -1782,11 +1916,12 @@
           "ranks": [
             11,
             22,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时42分 ~ 15时53分]"
+          "appearance_count": 16,
+          "time_info": "[01时42分 ~ 16时39分]"
         }
       ]
     }
