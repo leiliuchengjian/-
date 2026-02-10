@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T07:29:07.715473+08:00",
-  "total_titles_processed": 596,
+  "generated_at": "2026-02-10T09:20:34.741217+08:00",
+  "total_titles_processed": 742,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 51,
+      "match_count": 56,
       "titles": [
         {
           "title": "美股三大指数开盘小幅下跌，美债走跌，英镑延续涨势，黄金涨至5040美元",
@@ -41,13 +41,24 @@
           "time_info": "[07时28分 ~ 07时29分]"
         },
         {
+          "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
+          "url": "https://wallstreetcn.com/articles/3765262",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
           "title": "现货黄金失守5000美元关口",
           "url": "https://flash.jin10.com/detail/20260210071226622800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -58,9 +69,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "WTI原油短线下跌0.4美元，失守64美元/桶，日内跌幅0.71%。",
+          "url": "https://flash.jin10.com/detail/20260210090642764800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
         },
         {
           "title": "现货白银盘初跌超1.00%，现报82.45美元/盎司。",
@@ -69,7 +91,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -91,7 +113,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -124,7 +146,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -375,7 +397,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -413,6 +435,17 @@
           "time_info": "04时33分"
         },
         {
+          "title": "日经225股指延续早盘涨势，最新上涨1.88%，报57,400.95点。 美元兑日元汇率小幅下跌0.22%，报156.22。",
+          "url": "https://wallstreetcn.com/livenews/3052598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
           "title": "现货黄金在美盘末跌破5050美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260210052927237800",
           "source": "金十数据",
@@ -430,7 +463,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -455,6 +488,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
+        },
+        {
+          "title": "日股大涨 巴菲特单日浮盈近20亿美元",
+          "url": "https://flash.jin10.com/detail/20260210083033527800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
         },
         {
           "title": "据IMM：美国电网运营商PJM的1月输电成本达到150亿美元，较一年之前超过翻倍。",
@@ -567,6 +611,17 @@
           "time_info": "05时31分"
         },
         {
+          "title": "现货金银收复早间大部分跌幅，现货黄金接近回到5050美元/盎司，日跌幅收窄至0.28%；现货白银跌幅收窄至1.2%，此前跌超3%。",
+          "url": "https://flash.jin10.com/detail/20260210080521313800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
           "title": "现货黄金日内涨幅达2.0%，报5059.55美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3052430",
           "source": "华尔街见闻-快讯",
@@ -592,18 +647,32 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "不要对AI说谢谢",
           "url": "https://www.baidu.com/s?wd=%E4%B8%8D%E8%A6%81%E5%AF%B9AI%E8%AF%B4%E8%B0%A2%E8%B0%A2",
           "source": "百度热搜",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时42分 ~ 07时29分]"
+          "appearance_count": 10,
+          "time_info": "[01时42分 ~ 09时20分]"
+        },
+        {
+          "title": "一图看懂｜AI应用“春节档”持续上新，下一波神仙打架已就位？",
+          "url": "https://www.cls.cn/detail/2284846",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时42分 ~ 09时20分]"
         },
         {
           "title": "汇丰中国财富洞察：AI技术更迭引发软件股重挫，软件板块未来发展或分化|热点追踪",
@@ -612,18 +681,6 @@
           "ranks": [
             3,
             2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时42分 ~ 07时29分]"
-        },
-        {
-          "title": "一图看懂｜AI应用“春节档”持续上新，下一波神仙打架已就位？",
-          "url": "https://www.cls.cn/detail/2284846",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -659,11 +716,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时42分 ~ 07时29分]"
+          "appearance_count": 10,
+          "time_info": "[01时42分 ~ 09时20分]"
         },
         {
           "title": "AIGC整活新春联欢会",
@@ -674,11 +732,12 @@
             9,
             25,
             20,
-            29
+            29,
+            21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时42分 ~ 07时29分]"
+          "appearance_count": 10,
+          "time_info": "[01时42分 ~ 09时20分]"
         },
         {
           "title": "【每日收评】创业板指高开高走涨近3%，全市场超4600股飘红，AI应用方向集体爆发",
@@ -703,6 +762,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时42分 ~ 04时33分]"
+        },
+        {
+          "title": "不要对AI说谢谢",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E5%AF%B9AI%E8%AF%B4%E8%B0%A2%E8%B0%A2%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
         },
         {
           "title": "美联储理事米兰：人工智能正在影响经济，但难以衡量。",
@@ -773,6 +843,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时28分 ~ 07时29分]"
+        },
+        {
+          "title": "Seedance2.0 对AI应用意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3765320",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "谷歌拟发行200亿美元债券 融资加码AI支出",
+          "url": "https://www.cls.cn/detail/2285182",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "AI 恐怖",
+          "url": "https://s.weibo.com/weibo?q=AI%20%E6%81%90%E6%80%96&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
         },
         {
           "title": "OpenAI推出首个在网络安全方面设定为高等级的模型GPT-5.3-Codex",
@@ -1049,8 +1152,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时42分 ~ 07时29分]"
+          "appearance_count": 10,
+          "time_info": "[01时42分 ~ 09时20分]"
         },
         {
           "title": "特斯拉北美销售主管离职 面临全球需求滑坡挑战",
@@ -1059,7 +1162,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -1096,11 +1199,12 @@
           "url": "https://wallstreetcn.com/articles/3765326",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时28分 ~ 07时29分]"
+          "appearance_count": 3,
+          "time_info": "[07时28分 ~ 09时20分]"
         },
         {
           "title": "美联储博斯蒂克：就业数据波动不定是美联储保持谨慎的另一个原因。",
@@ -1133,7 +1237,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         }
@@ -1141,7 +1245,7 @@
     },
     {
       "keyword_group": "华为 小米 荣耀",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "只要华为不跪产品就不贵",
@@ -1171,6 +1275,56 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时42分 ~ 06时26分]"
+        },
+        {
+          "title": "小米CEO雷军：目前暂时没有进入美国市场的计划。",
+          "url": "https://wallstreetcn.com/livenews/3052595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体 芯片 集成电路",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "标普500指数收涨32.52点，涨幅0.47%，报6964.82点。 道琼斯工业平均指数收涨20.20点，涨幅0.04%，报50135.87点。 纳斯达克综合指数（纳指）收涨207.457点，涨幅0.90%，报23238.67点。 纳斯达克100指数收涨192.369点，涨幅0.77%，报25268.141点。 纳斯达克生物科技指数收跌0.17%，报5970.10点。 费城半导体指数收涨1.42%，报8162.58点。 费城证交所KBW银行指数收涨0.16%，报176.40点。 道琼斯KBW地区银行指数收跌0.34%，报141.82点。",
+          "url": "https://wallstreetcn.com/livenews/3052512",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "银河证券：当前时点是存储芯片赛道下一轮周期的新起点",
+          "url": "https://wallstreetcn.com/livenews/3052580",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "存储芯片“超级周期”打破周期规律 供应紧缩或贯穿全年",
+          "url": "https://flash.jin10.com/detail/20260210080307682800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
         }
       ]
     },
@@ -1193,23 +1347,6 @@
       ]
     },
     {
-      "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "标普500指数收涨32.52点，涨幅0.47%，报6964.82点。 道琼斯工业平均指数收涨20.20点，涨幅0.04%，报50135.87点。 纳斯达克综合指数（纳指）收涨207.457点，涨幅0.90%，报23238.67点。 纳斯达克100指数收涨192.369点，涨幅0.77%，报25268.141点。 纳斯达克生物科技指数收跌0.17%，报5970.10点。 费城半导体指数收涨1.42%，报8162.58点。 费城证交所KBW银行指数收涨0.16%，报176.40点。 道琼斯KBW地区银行指数收跌0.34%，报141.82点。",
-          "url": "https://wallstreetcn.com/livenews/3052512",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时31分"
-        }
-      ]
-    },
-    {
       "keyword_group": "大学生 毕业生",
       "match_count": 1,
       "titles": [
@@ -1225,8 +1362,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时42分 ~ 07时29分]"
+          "appearance_count": 10,
+          "time_info": "[01时42分 ~ 09时20分]"
         }
       ]
     },
@@ -1242,8 +1379,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时42分 ~ 07时29分]"
+          "appearance_count": 10,
+          "time_info": "[01时42分 ~ 09时20分]"
         }
       ]
     }
