@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T04:29:27.908236+08:00",
-  "total_titles_processed": 547,
+  "generated_at": "2026-02-12T05:26:06.509729+08:00",
+  "total_titles_processed": 573,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 28,
+      "match_count": 32,
       "titles": [
         {
           "title": "沙特阿美首次从其1000亿美元规模的Jafurah天然气开发项目出口石油。",
@@ -25,7 +25,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
         },
@@ -41,16 +41,26 @@
           "time_info": "00时53分"
         },
         {
-          "title": "富兰克林邓普顿警告：做空美元交易已过度拥挤",
-          "url": "https://wallstreetcn.com/livenews/3053937",
+          "title": "芝加哥小麦期货涨超1.6%，纽约可可期货跌向3800美元",
+          "url": "https://wallstreetcn.com/livenews/3053947",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            6
+            4
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时50分 ~ 04时29分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "Link Data Services数据显示，加拿大Cold Lake重油较美国墨西哥湾沿岸的WTI原油的折扣幅度扩大至8.50美元/桶，创2023年12月8日以来最阔。",
+          "url": "https://wallstreetcn.com/livenews/3053945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
         },
         {
           "title": "上期所原油期货2604合约夜盘收涨0.82%，报479.80元人民币/桶。 沪金夜盘收涨0.44%，沪银收涨2.27%。",
@@ -59,11 +69,25 @@
           "ranks": [
             1,
             19,
-            22
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时49分 ~ 05时26分]"
+        },
+        {
+          "title": "富兰克林邓普顿警告：做空美元交易已过度拥挤",
+          "url": "https://wallstreetcn.com/livenews/3053937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            6,
+            14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[02时49分 ~ 04时29分]"
+          "time_info": "[03时50分 ~ 05时26分]"
         },
         {
           "title": "周三（2月11日），韩元兑美元最终涨0.73%，刷新日高至1446.73韩元，非农数据发布后跳水至1459.49韩元刷新日低。",
@@ -104,6 +128,32 @@
           "time_info": "[02时49分 ~ 04时29分]"
         },
         {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9106元，较周二夜盘收盘涨34点。成交量351.12亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3053926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时50分 ~ 05时26分]"
+        },
+        {
+          "title": "美国1月政府预算 -946.15亿美元，预期 -944亿美元，前值 -1447亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3053924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时50分 ~ 05时26分]"
+        },
+        {
           "title": "美元兑日元跌超1%，刷新日低至152.75。",
           "url": "https://wallstreetcn.com/livenews/3053892",
           "source": "华尔街见闻-快讯",
@@ -116,18 +166,6 @@
           "time_info": "[01时50分 ~ 02时49分]"
         },
         {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9106元，较周二夜盘收盘涨34点。成交量351.12亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3053926",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时50分 ~ 04时29分]"
-        },
-        {
           "title": "美国财政部拍卖420亿美元10年期国债，得标利率4.177（1月12日为4.173%），投标倍数2.39（前次为2.55）。",
           "url": "https://wallstreetcn.com/livenews/3053907",
           "source": "华尔街见闻-快讯",
@@ -138,18 +176,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时49分 ~ 03时50分]"
-        },
-        {
-          "title": "美国1月政府预算 -946.15亿美元，预期 -944亿美元，前值 -1447亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3053924",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时50分 ~ 04时29分]"
         },
         {
           "title": "美国财政部：1月预算支出为6550亿美元，收入为5600亿美元，1月预算支出与收入创下当月历史新高。",
@@ -188,6 +214,17 @@
           "time_info": "[03时50分 ~ 04时29分]"
         },
         {
+          "title": "美元指数在非农日冲高回落",
+          "url": "https://wallstreetcn.com/livenews/3053944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
           "title": "菲利普斯66(PSX.N)宣布上调季度股息至每股1.27美元。",
           "url": "https://flash.jin10.com/detail/20260212003054465800",
           "source": "金十数据",
@@ -208,6 +245,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
+        },
+        {
+          "title": "WTI 3月原油期货收涨0.67美元，涨幅1.05%，报64.63美元/桶。 布伦特4月原油期货收涨0.60美元，涨幅0.87%，报69.40美元/桶。 NYMEX 3月天然气期货收报3.1590美元/百万英热单位。 NYMEX 3月汽油期货收报1.9789美元/加仑，NYMEX 3月取暖油期货收报2.4404美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3053941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
         },
         {
           "title": "比尔·阿克曼管理的对冲基金潘兴广场对Meta持股20亿美元。（华尔街日报）",
@@ -344,8 +392,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时50分 ~ 04时29分]"
+          "appearance_count": 7,
+          "time_info": "[01时50分 ~ 05时26分]"
         },
         {
           "title": "非农前夜，降息预期难振风险偏好，标普转跌，人民币又创近三年新高，商品震荡横盘",
@@ -355,8 +403,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 04时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 05时26分]"
         },
         {
           "title": "中国1月CPI同比涨幅回落至0.2%，PPI同比降幅收窄至1.4%",
@@ -366,8 +414,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 04时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 05时26分]"
         },
         {
           "title": "加拿大央行会议纪要：基于广泛指标，劳动力市场“疲软”。",
@@ -410,11 +458,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            11
+            11,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时50分 ~ 04时29分]"
+          "appearance_count": 3,
+          "time_info": "[03时50分 ~ 05时26分]"
         },
         {
           "title": "欧洲央行Schnabel：欧洲是一个拥有“巨大潜力的”大陆。",
@@ -632,7 +681,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "最癫的AI赛博榨菜",
@@ -642,8 +691,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 04时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 05时26分]"
         },
         {
           "title": "李强：全面推进人工智能科技创新、产业发展和赋能应用，培育壮大新质生产力",
@@ -653,8 +702,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 04时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 05时26分]"
         },
         {
           "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
@@ -665,8 +714,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 04时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 05时26分]"
         },
         {
           "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
@@ -676,19 +725,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 04时29分]"
-        },
-        {
-          "title": "马斯克：遗憾的是，必须与xAI的部分员工分道扬镳。",
-          "url": "https://flash.jin10.com/detail/20260212035557254800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时29分"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 05时26分]"
         },
         {
           "title": "国产AI降维打击,老外酸了",
@@ -699,8 +737,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 04时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 05时26分]"
         },
         {
           "title": "Seedance爆火背后：真假难辨和个人隐私受关注，AI创作如何守住边界？",
@@ -710,8 +748,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 04时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 05时26分]"
         },
         {
           "title": "以假乱真,奥特曼大AI时代来临",
@@ -721,19 +759,42 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 04时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 05时26分]"
         },
         {
-          "title": "马斯克旗下xAI披露全体会议的视频。",
-          "url": "https://wallstreetcn.com/livenews/3053940",
-          "source": "华尔街见闻-快讯",
+          "title": "市场继续寻找AI时代的潜在输家 今日轮到地产服务",
+          "url": "https://flash.jin10.com/detail/20260212045127691800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "马斯克重组xAI 拟设四大核心板块",
+          "url": "https://flash.jin10.com/detail/20260212043905187800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时29分"
+          "time_info": "05时26分"
+        },
+        {
+          "title": "马斯克：遗憾的是，必须与xAI的部分员工分道扬镳。",
+          "url": "https://flash.jin10.com/detail/20260212035557254800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时29分 ~ 05时26分]"
         },
         {
           "title": "巴西Flavio Bolsonaro：在我竞选总统一事上，Minas Gerais的Zema会是一个不错的副总统人选，但我们还没有谈及此事。",
@@ -747,6 +808,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时49分 ~ 04时29分]"
+        },
+        {
+          "title": "马斯克旗下xAI披露全体会议的视频。",
+          "url": "https://wallstreetcn.com/livenews/3053940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时29分 ~ 05时26分]"
         },
         {
           "title": "依视路陆逊梯卡：AI眼镜价格将上涨。",
@@ -877,8 +950,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 04时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 05时26分]"
         },
         {
           "title": "美国财长贝森特：非农就业数据超过预期。",
@@ -897,11 +970,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时50分 ~ 04时29分]"
+          "appearance_count": 3,
+          "time_info": "[03时50分 ~ 05时26分]"
         },
         {
           "title": "美国财政部长贝森特：非农就业人口超过预期。",
@@ -940,6 +1014,58 @@
       ]
     },
     {
+      "keyword_group": "苹果 iPhone",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "市场消息：苹果(AAPL.O)原本计划在3月发布的iOS 26.4更新中加入Siri新功能，但现在正努力将其分散到未来的版本中推出，这意味着至少部分功能可能会推迟到5月发布的iOS 26.5和9月发布的iOS 27。",
+          "url": "https://flash.jin10.com/detail/20260212034942765800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时29分 ~ 05时26分]"
+        },
+        {
+          "title": "市场消息：苹果(AAPL.O)推迟已久的新版Siri发布计划遭遇阻碍。",
+          "url": "https://flash.jin10.com/detail/20260212034630681800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时29分 ~ 05时26分]"
+        },
+        {
+          "title": "古尔曼：苹果Siri升级陷僵局 部分功能或推迟至9月发布",
+          "url": "https://flash.jin10.com/detail/20260212040119925800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "苹果新版Siri发布再遇阻：技术瓶颈导致功能推迟",
+          "url": "https://wallstreetcn.com/livenews/3053943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        }
+      ]
+    },
+    {
       "keyword_group": "房地产 房价 楼市 LPR",
       "match_count": 3,
       "titles": [
@@ -953,8 +1079,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 04时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 05时26分]"
         },
         {
           "title": "全国房价止跌信号初现",
@@ -964,8 +1090,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 04时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 05时26分]"
         },
         {
           "title": "美国财长贝森特：特朗普正全力关注房地产市场。",
@@ -973,11 +1099,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时50分 ~ 04时29分]"
+          "appearance_count": 3,
+          "time_info": "[03时50分 ~ 05时26分]"
         }
       ]
     },
@@ -993,8 +1120,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 04时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 05时26分]"
         },
         {
           "title": "我国科学家成功构建量子密钥分发芯片网络",
@@ -1021,30 +1148,34 @@
       ]
     },
     {
-      "keyword_group": "苹果 iPhone",
+      "keyword_group": "华为 小米 荣耀",
       "match_count": 2,
       "titles": [
         {
-          "title": "市场消息：苹果(AAPL.O)原本计划在3月发布的iOS 26.4更新中加入Siri新功能，但现在正努力将其分散到未来的版本中推出，这意味着至少部分功能可能会推迟到5月发布的iOS 26.5和9月发布的iOS 27。",
-          "url": "https://flash.jin10.com/detail/20260212034942765800",
-          "source": "金十数据",
+          "title": "华为余承东宣布问界两年内将冲刺 200 万辆总销量，这一目标前景如何？可能通过哪些策略实现？",
+          "url": "https://www.zhihu.com/question/2004559757655168835",
+          "source": "知乎",
           "ranks": [
-            4
+            18,
+            15,
+            14,
+            13,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时29分"
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 05时26分]"
         },
         {
-          "title": "市场消息：苹果(AAPL.O)推迟已久的新版Siri发布计划遭遇阻碍。",
-          "url": "https://flash.jin10.com/detail/20260212034630681800",
-          "source": "金十数据",
+          "title": "周三（2月11日）美股尾盘，彭博电动汽车价格回报指数涨1.32%，报3662.78点。 北京时间09:25出现一波快速上涨行情，10:15过后持续高位震荡。 成分股智利化工矿业公司（SQM）涨7.1%，美国雅宝涨4.3%，小米集团H股收涨4.27%，意法半导体欧股收涨2.92%，禾赛科技则跌6.2%，Lucid集团跌8.3%。",
+          "url": "https://wallstreetcn.com/livenews/3053953",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时29分"
+          "time_info": "05时26分"
         }
       ]
     },
@@ -1063,28 +1194,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时50分 ~ 04时29分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "华为 小米 荣耀",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "华为余承东宣布问界两年内将冲刺 200 万辆总销量，这一目标前景如何？可能通过哪些策略实现？",
-          "url": "https://www.zhihu.com/question/2004559757655168835",
-          "source": "知乎",
-          "ranks": [
-            18,
-            15,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 04时29分]"
+          "appearance_count": 7,
+          "time_info": "[01时50分 ~ 05时26分]"
         }
       ]
     },
@@ -1100,8 +1211,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 04时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 05时26分]"
         }
       ]
     },
@@ -1117,8 +1228,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 04时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 05时26分]"
         }
       ]
     }
