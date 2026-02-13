@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T15:43:30.125293+08:00",
-  "total_titles_processed": 1323,
+  "generated_at": "2026-02-13T16:31:37.199116+08:00",
+  "total_titles_processed": 1391,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 62,
+      "match_count": 69,
       "titles": [
         {
           "title": "【早报】深夜跳水！美股、黄金、白银、原油集体大跌；央行今日出手，万亿逆回购来了",
@@ -15,8 +15,21 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时14分 ~ 16时31分]"
+        },
+        {
+          "title": "CPI前夜，黄金白银再现闪崩！华尔街热议：谁是背后推手？",
+          "url": "https://www.cls.cn/detail/2289149",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            5,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时14分 ~ 15时43分]"
+          "time_info": "[12时10分 ~ 16时31分]"
         },
         {
           "title": "央行将开展10000亿逆回购操作",
@@ -31,8 +44,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时45分 ~ 14时46分]"
+          "appearance_count": 16,
+          "time_info": "[00时45分 ~ 16时31分]"
         },
         {
           "title": "华尔街怎么看1月非农就业？首次降息延至7月，“新美联储通讯社”预计降息暂停期更久",
@@ -47,16 +60,18 @@
           "time_info": "[00时45分 ~ 05时24分]"
         },
         {
-          "title": "CPI前夜，黄金白银再现闪崩！华尔街热议：谁是背后推手？",
-          "url": "https://www.cls.cn/detail/2289149",
-          "source": "财联社热门",
+          "title": "春节临近你遇到物价下降了吗",
+          "url": "https://www.toutiao.com/trending/7605878440008925203/",
+          "source": "今日头条",
           "ranks": [
-            3,
-            5
+            9,
+            16,
+            17,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时10分 ~ 15时43分]"
+          "appearance_count": 7,
+          "time_info": "[09时14分 ~ 16时31分]"
         },
         {
           "title": "美国CPI前夕，美股指盘中转跌，盘中纳指跌超1%、思科跌超10%",
@@ -68,20 +83,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时45分 ~ 00时46分]"
-        },
-        {
-          "title": "春节临近你遇到物价下降了吗",
-          "url": "https://www.toutiao.com/trending/7605878440008925203/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            16,
-            17,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时14分 ~ 15时43分]"
         },
         {
           "title": "日本首相高市早苗的顾问本田：政府不一定需要挑选通货再膨胀派人士填补日本央行委员会空缺；日本央行可能认为今年有上调利率的空间，但很可能不会在三月加息。",
@@ -101,18 +102,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时43分"
-        },
-        {
-          "title": "瑞士1月CPI同比 0.1%，预期 0.1%，前值 0.1%。",
-          "url": "https://wallstreetcn.com/livenews/3054983",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
@@ -123,20 +113,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
         {
-          "title": "瑞士1月CPI环比 -0.1%，预期 0%，前值 0%。",
-          "url": "https://wallstreetcn.com/livenews/3054982",
+          "title": "捷克央行会议纪要：捷克央行行长表示，未来在利率路径方面所有选项仍开放。",
+          "url": "https://flash.jin10.com/detail/20260213160038612800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "经济日报：推动“物价合理回升”和“反内卷”，目的不是让东西变贵",
+          "url": "https://wallstreetcn.com/livenews/3055019",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时43分"
+          "time_info": "16时31分"
         },
         {
           "title": "摩根士丹利经济学家：韩国央行2月会议可能上调GDP增速预期",
@@ -195,6 +196,18 @@
           "time_info": "[12时11分 ~ 13时53分]"
         },
         {
+          "title": "瑞士1月CPI同比 0.1%，预期 0.1%，前值 0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3054983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 16时31分]"
+        },
+        {
           "title": "日本央行审议委员田村直树：即使日本央行进一步提高政策利率，货币环境仍将保持宽松。",
           "url": "https://flash.jin10.com/detail/20260213114829917800",
           "source": "金十数据",
@@ -205,6 +218,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时11分 ~ 13时53分]"
+        },
+        {
+          "title": "瑞士1月CPI环比 -0.1%，预期 0%，前值 0%。",
+          "url": "https://wallstreetcn.com/livenews/3054982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 16时31分]"
         },
         {
           "title": "央行开展1万亿元买断式逆回购操作",
@@ -218,6 +243,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时10分 ~ 14时46分]"
+        },
+        {
+          "title": "CPI接棒非农！今晚21:30 华尔街再迎“心跳时刻”",
+          "url": "https://www.cls.cn/detail/2289425",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 16时31分]"
         },
         {
           "title": "韩国1月出口物价指数年率 7.8%，前值由5.50%修正为5%。",
@@ -273,9 +310,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
+        },
+        {
+          "title": "西班牙1月CPI月率终值 -0.4%，预期-0.4%，前值-0.40%。",
+          "url": "https://flash.jin10.com/detail/20260213160002359800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "日本央行审议委员田村直树：一旦日本央行的政策利率超过1%，其政策的刺激效将逐渐减弱。",
@@ -295,9 +343,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
+        },
+        {
+          "title": "西班牙1月调和CPI年率终值 2.4%，预期2.5%，前值2.50%。",
+          "url": "https://flash.jin10.com/detail/20260213160002358800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "日本央行审议委员田村直树：需要关注潜在通胀。 2%的稳定通胀率可能指日可待。 个人认为日本近期的通胀正变得具有粘性。 可能最早在今年春天就能判断日本央行的物价目标是否已经实现。 我们正处于一个需要审视各项数据，以确定日本能否平稳实现物价目标的阶段。 消费者通胀趋于稳定，但鉴于日元重现贬值趋势，必须对价格前景保持警惕。 预计食品价格将继续上涨。 日本的出产缺口已经处于正值区间，供应能力的短缺正对物价造成上行压力。 预计今年的工资增长将达到与2%物价目标相符的水平。 预计随着经济和物价的改善，日本央行将继续上调利率。",
@@ -328,9 +387,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
+        },
+        {
+          "title": "西班牙1月调和CPI月率终值 -0.8%，预期-0.7%，前值-0.70%。",
+          "url": "https://flash.jin10.com/detail/20260213160002357800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "欧洲央行管委Kazaks：担忧欧元走强反映美元疲弱和不确定性。 欧洲央行尚未看到欧元升值的全部影响。 现在不是欧洲央行调整利率的时候。 如果需要，欧洲央行有能力灵活调整利率。 欧洲央行正处于观望模式，关注欧元走强。",
@@ -339,7 +409,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
@@ -350,20 +420,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
         {
-          "title": "CPI接棒非农！今晚21:30 华尔街再迎“心跳时刻”",
-          "url": "https://www.cls.cn/detail/2289425",
-          "source": "财联社热门",
+          "title": "西班牙1月CPI年率终值 2.3%，预期2.4%，前值2.40%。",
+          "url": "https://flash.jin10.com/detail/20260213160002331800",
+          "source": "金十数据",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时43分"
+          "time_info": "16时31分"
         },
         {
           "title": "日本央行审议委员田村直树：我认为，我们有望在今年春季前后确定通胀已稳定在2%左右。",
@@ -394,7 +464,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
@@ -449,9 +519,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
+        },
+        {
+          "title": "瑞士电力、航空运输等领域拖累通胀 1月CPI环比下跌0.1%",
+          "url": "https://flash.jin10.com/detail/20260213155021778800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "日本央行审议委员田村直树：日本的产出缺口已处于正值区间，供应能力不足正对物价构成上行压力。",
@@ -559,7 +640,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
@@ -603,7 +684,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
@@ -647,7 +728,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
@@ -669,7 +750,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
@@ -680,7 +761,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
@@ -710,7 +791,7 @@
     },
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 59,
+      "match_count": 62,
       "titles": [
         {
           "title": "在岸、离岸人民币对美元汇率升破6.9，再创33个月新高",
@@ -765,6 +846,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
+        },
+        {
+          "title": "现货白银日内涨幅扩大至5.00%，现报79.04美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3055021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "现货黄金低开30美元，失守4890美元/盎司，日内跌幅0.68%。现货白银日内跌超1.00%，现报74.24美元/盎司。",
@@ -923,6 +1015,18 @@
           "time_info": "[02时46分 ~ 04时23分]"
         },
         {
+          "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
+          "url": "https://wallstreetcn.com/articles/3765636",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时46分 ~ 16时31分]"
+        },
+        {
           "title": "美国能源部：将拨款1.75亿美元，用于升级改造燃煤电厂，以保障为美国民众持续提供价格可负担、运行可靠的电力供应。",
           "url": "https://flash.jin10.com/detail/20260213031019000800",
           "source": "金十数据",
@@ -933,18 +1037,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时44分 ~ 04时23分]"
-        },
-        {
-          "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
-          "url": "https://wallstreetcn.com/articles/3765636",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时46分 ~ 15时43分]"
         },
         {
           "title": "伦铝期货短线走低，日内跌0.34%，现报3089美元/吨。",
@@ -1185,7 +1277,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
@@ -1199,6 +1291,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
+        },
+        {
+          "title": "现货白银日内大涨4.00%，现报78.27美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260213155525984800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "花旗集团上调CEO Fraser的年薪至4200万美元。",
@@ -1377,6 +1480,17 @@
           "time_info": "01时51分"
         },
         {
+          "title": "现货白银站上78美元/盎司，日内涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3054992",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
           "title": "美元兑加元USD/CAD站上1.36，日内涨0.20%。",
           "url": "https://flash.jin10.com/detail/20260212233648568800",
           "source": "金十数据",
@@ -1402,7 +1516,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 52,
+      "match_count": 55,
       "titles": [
         {
           "title": "网信部门从严整治传播无AI标识的虚假不实信息问题",
@@ -1460,8 +1574,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时14分 ~ 15时43分]"
+          "appearance_count": 7,
+          "time_info": "[09时14分 ~ 16时31分]"
         },
         {
           "title": "中国大模型“春节档”打响！等待消费级AI出“爆款”",
@@ -1586,17 +1700,6 @@
           "time_info": "07时20分"
         },
         {
-          "title": "AI让你奔赴对MV的所有想象",
-          "url": "https://search.bilibili.com/all?keyword=AI%E8%AE%A9%E4%BD%A0%E5%A5%94%E8%B5%B4%E5%AF%B9MV%E7%9A%84%E6%89%80%E6%9C%89%E6%83%B3%E8%B1%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时43分"
-        },
-        {
           "title": "AI冲击货运江湖！罗素3000卡车运输指数盘中重挫9%",
           "url": "https://wallstreetcn.com/articles/3765622",
           "source": "华尔街见闻",
@@ -1605,8 +1708,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时14分 ~ 15时43分]"
+          "appearance_count": 6,
+          "time_info": "[09时14分 ~ 16时31分]"
+        },
+        {
+          "title": "老码农裁员理由+1:被AI优化",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350655&amp;topic_name=%E8%80%81%E7%A0%81%E5%86%9C%E8%A3%81%E5%91%98%E7%90%86%E7%94%B1%2B1%3A%E8%A2%ABAI%E4%BC%98%E5%8C%96",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "哈尔滨小哥为早回家过年找AI替班",
@@ -1694,6 +1808,18 @@
           "time_info": "[04时23分 ~ 05时24分]"
         },
         {
+          "title": "AI让你奔赴对MV的所有想象",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%AE%A9%E4%BD%A0%E5%A5%94%E8%B5%B4%E5%AF%B9MV%E7%9A%84%E6%89%80%E6%9C%89%E6%83%B3%E8%B1%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 16时31分]"
+        },
+        {
           "title": "AI震荡波及金属市场 暴跌背后的程序化交易“踩踏”",
           "url": "https://flash.jin10.com/detail/20260213060006684800",
           "source": "金十数据",
@@ -1704,6 +1830,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时20分]"
+        },
+        {
+          "title": "网信部门从严整治传播无AI标识的虚假不实信息问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32593042",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时46分 ~ 16时31分]"
         },
         {
           "title": "市场消息：OpenAI 正在发布 GPT-5.3-Codex-Spark 的研究预览版。",
@@ -1754,6 +1892,17 @@
           "time_info": "[04时23分 ~ 05时24分]"
         },
         {
+          "title": "加剧AI恐慌！微软高管：大多数白领工作将在“未来12-18个月内”完全自动化",
+          "url": "https://wallstreetcn.com/articles/3765637",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 16时31分]"
+        },
+        {
           "title": "沙特阿美与微软签订备忘录，帮助推进工业AI。",
           "url": "https://wallstreetcn.com/livenews/3054694",
           "source": "华尔街见闻-快讯",
@@ -1764,6 +1913,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时44分 ~ 04时23分]"
+        },
+        {
+          "title": "软件股“遭嫌弃”？亚马逊AWS CEO力挺：因AI产生的恐惧被夸大了！",
+          "url": "https://www.cls.cn/detail/2289134",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 16时31分]"
+        },
+        {
+          "title": "一个2.6万亿AI独角兽诞生",
+          "url": "https://www.toutiao.com/trending/7606174592784158251/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 16时31分]"
         },
         {
           "title": "微软喊话要实现AI“自给自足” 预言白领工作18个月内实现自动化",
@@ -1777,16 +1950,16 @@
           "time_info": "[12时10分 ~ 12时11分]"
         },
         {
-          "title": "网信部门从严整治传播无AI标识的虚假不实信息问题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32593042",
-          "source": "澎湃新闻",
+          "title": "Seedance2.0展示中国AI潜力",
+          "url": "https://www.douyin.com/hot/2398167",
+          "source": "抖音",
           "ranks": [
-            19,
-            18
+            25,
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时46分 ~ 15时43分]"
+          "time_info": "[15时43分 ~ 16时31分]"
         },
         {
           "title": "AI泔水泛滥的背后成因",
@@ -1844,17 +2017,6 @@
           "time_info": "09时14分"
         },
         {
-          "title": "加剧AI恐慌！微软高管：大多数白领工作将在“未来12-18个月内”完全自动化",
-          "url": "https://wallstreetcn.com/articles/3765637",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时43分"
-        },
-        {
           "title": "阿里、谷歌接连“出手” AI购物元年将至？",
           "url": "https://www.cls.cn/detail/2288802",
           "source": "财联社热门",
@@ -1864,6 +2026,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
+        },
+        {
+          "title": "AI算力催生电力需求 核聚变行业资本开支进入上行周期",
+          "url": "https://www.cls.cn/detail/2289093",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "市场消息：OpenAI推出首款采用Cerebras芯片的AI模型。",
@@ -1899,26 +2072,15 @@
           "time_info": "09时14分"
         },
         {
-          "title": "一个2.6万亿AI独角兽诞生",
-          "url": "https://www.toutiao.com/trending/7606174592784158251/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时43分"
-        },
-        {
-          "title": "软件股“遭嫌弃”？亚马逊AWS CEO力挺：因AI产生的恐惧被夸大了！",
-          "url": "https://www.cls.cn/detail/2289134",
+          "title": "券商晨会精华：Agentic AI发展驱动需求 CPU的AI时刻已经来临",
+          "url": "https://www.cls.cn/detail/2289082",
           "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时43分"
+          "time_info": "16时31分"
         },
         {
           "title": "美欧市场物流股集体跳水，成为“AI恐慌交易”又一受害者",
@@ -1954,17 +2116,6 @@
           "time_info": "12时11分"
         },
         {
-          "title": "Seedance2.0展示中国AI潜力",
-          "url": "https://www.douyin.com/hot/2398167",
-          "source": "抖音",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时43分"
-        },
-        {
           "title": "真正的AI在吃肉 虚假的AI在挨揍",
           "url": "https://www.toutiao.com/trending/7605870075064618515/",
           "source": "今日头条",
@@ -1982,7 +2133,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
@@ -2015,17 +2166,6 @@
       "match_count": 10,
       "titles": [
         {
-          "title": "苹果市值一夜蒸发近1.4万亿元",
-          "url": "https://www.toutiao.com/trending/7606121365778730534/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时14分"
-        },
-        {
           "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
           "url": "https://wallstreetcn.com/articles/3765624",
           "source": "华尔街见闻",
@@ -2035,8 +2175,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时10分 ~ 15时43分]"
+          "appearance_count": 6,
+          "time_info": "[12时10分 ~ 16时31分]"
+        },
+        {
+          "title": "苹果市值一夜蒸发近1.4万亿元",
+          "url": "https://www.toutiao.com/trending/7606121365778730534/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         },
         {
           "title": "美股收盘：三大指数收跌 苹果大跌5%",
@@ -2057,11 +2208,12 @@
           "ranks": [
             26,
             24,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时53分 ~ 15时43分]"
+          "appearance_count": 4,
+          "time_info": "[13时53分 ~ 16时31分]"
         },
         {
           "title": "美股七巨头收盘播报｜苹果创4月份以来最差单日表现",
@@ -2105,7 +2257,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
@@ -2396,9 +2548,73 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "福特汽车去年净亏损82亿美元，全球销量首次被比亚迪超越",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32585791",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时45分 ~ 07时20分]"
+        },
+        {
+          "title": "男子开特斯拉跑货拉拉最高日入上千元",
+          "url": "https://www.toutiao.com/trending/7605814145933525038/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时50分 ~ 06时22分]"
+        },
+        {
+          "title": "33岁男子开特斯拉跑货拉拉",
+          "url": "https://s.weibo.com/weibo?q=%2333%E5%B2%81%E7%94%B7%E5%AD%90%E5%BC%80%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%91%E8%B4%A7%E6%8B%89%E6%8B%89%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时50分 ~ 07时20分]"
+        },
+        {
+          "title": "比亚迪与吉利竞购日产位于墨西哥的工厂。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3054754",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "湛逸飞将出任理想人形机器人业务负责人",
+          "url": "https://wallstreetcn.com/livenews/3054998",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         }
       ]
     },
@@ -2467,59 +2683,6 @@
       ]
     },
     {
-      "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "福特汽车去年净亏损82亿美元，全球销量首次被比亚迪超越",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32585791",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时45分 ~ 07时20分]"
-        },
-        {
-          "title": "男子开特斯拉跑货拉拉最高日入上千元",
-          "url": "https://www.toutiao.com/trending/7605814145933525038/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时50分 ~ 06时22分]"
-        },
-        {
-          "title": "33岁男子开特斯拉跑货拉拉",
-          "url": "https://s.weibo.com/weibo?q=%2333%E5%B2%81%E7%94%B7%E5%AD%90%E5%BC%80%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%91%E8%B4%A7%E6%8B%89%E6%8B%89%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时50分 ~ 07时20分]"
-        },
-        {
-          "title": "比亚迪与吉利竞购日产位于墨西哥的工厂。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3054754",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        }
-      ]
-    },
-    {
       "keyword_group": "房地产 房价 楼市 LPR",
       "match_count": 3,
       "titles": [
@@ -2559,6 +2722,46 @@
       ]
     },
     {
+      "keyword_group": "新能源汽车 电动汽车 智能驾驶",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "周四（2月12日）美股尾盘，彭博电动汽车价格回报指数跌0.69%，报3636.68点。 美股盘初刷新日高至3697.22点——亚太盘初以来持续交投于3690点附近，随后持续下挫，00:00过后持续交投于3640点附近。",
+          "url": "https://wallstreetcn.com/livenews/3054722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时22分]"
+        },
+        {
+          "title": "法国财政部长莱叙尔：到2035年，法国将拥有700万辆电动汽车，是目前数量的五倍。",
+          "url": "https://flash.jin10.com/detail/20260213155006552800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "法国财政部长莱叙尔：将与业界会面，讨论在明年预算中为电气化提供支持，我们将继续支持企业电动汽车车队。",
+          "url": "https://flash.jin10.com/detail/20260213154947786800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "基础设施 基建 地铁 高铁",
       "match_count": 2,
       "titles": [
@@ -2569,7 +2772,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
@@ -2641,24 +2844,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时44分 ~ 04时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源汽车 电动汽车 智能驾驶",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周四（2月12日）美股尾盘，彭博电动汽车价格回报指数跌0.69%，报3636.68点。 美股盘初刷新日高至3697.22点——亚太盘初以来持续交投于3690点附近，随后持续下挫，00:00过后持续交投于3640点附近。",
-          "url": "https://wallstreetcn.com/livenews/3054722",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时24分 ~ 06时22分]"
         }
       ]
     },
