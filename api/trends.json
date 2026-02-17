@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T13:52:25.493202+08:00",
-  "total_titles_processed": 944,
+  "generated_at": "2026-02-17T14:45:15.626219+08:00",
+  "total_titles_processed": 985,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "新春伊始，如何看待人民币升值？",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时31分 ~ 09时09分]"
+        },
+        {
+          "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
+          "url": "https://wallstreetcn.com/articles/3765796",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时09分 ~ 14时45分]"
         },
         {
           "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
@@ -50,17 +61,6 @@
           "time_info": "[02时29分 ~ 07时20分]"
         },
         {
-          "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
-          "url": "https://wallstreetcn.com/articles/3765796",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 13时52分]"
-        },
-        {
           "title": "布伦特4月原油期货收报68.65美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3055824",
           "source": "华尔街见闻-快讯",
@@ -86,17 +86,6 @@
           "time_info": "09时09分"
         },
         {
-          "title": "现货黄金跌破4900美元/盎司，日内跌幅1.83%。现货白银日内跌超4%。",
-          "url": "https://wallstreetcn.com/livenews/3055887",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
-        },
-        {
           "title": "LME期铜收跌30美元，报12850美元/吨。 LME期铝收跌25美元，报3052美元/吨。 LME期锌收跌48美元，报3290美元/吨。 LME期铅收跌2美元，报1958美元/吨。 LME期镍收涨131美元，报17155美元/吨。 LME期锡收跌1021美元，报45681美元/吨。 LME期钴收平，报56290美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3055817",
           "source": "华尔街见闻-快讯",
@@ -109,6 +98,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时29分 ~ 06时17分]"
+        },
+        {
+          "title": "现货黄金一度向下触及4860美元/盎司，现跌2.36%。纽约期金日内跌超3%。现货白银一度跌破73美元/盎司，日内跌4.58%。",
+          "url": "https://wallstreetcn.com/livenews/3055888",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         },
         {
           "title": "周一（2月16日）纽约尾盘，ICE美元指数涨0.16%，报97.066点，日内交投区间为96.907-97.120点。 彭博美元指数涨0.13%，报1182.94点，日内交投区间为1181.33-1183.44点。",
@@ -125,6 +125,20 @@
           "time_info": "[05时20分 ~ 09时09分]"
         },
         {
+          "title": "现货黄金失守4970美元/盎司，日内跌0.42％。",
+          "url": "https://wallstreetcn.com/livenews/3055866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12,
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时09分 ~ 14时45分]"
+        },
+        {
           "title": "Smithfield Foods未来三年将针对设施开支大约13亿美元。 该公司将新建美国南达科塔州猪肉加工厂。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3055795",
           "source": "华尔街见闻-快讯",
@@ -139,17 +153,16 @@
           "time_info": "[00时32分 ~ 04时19分]"
         },
         {
-          "title": "现货黄金失守4970美元/盎司，日内跌0.42％。",
-          "url": "https://wallstreetcn.com/livenews/3055866",
+          "title": "现货黄金跌破4900美元/盎司，日内跌幅1.83%。现货白银日内跌超4%。",
+          "url": "https://wallstreetcn.com/livenews/3055887",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            12,
-            19
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时09分 ~ 13时52分]"
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 14时45分]"
         },
         {
           "title": "特朗普：“和平委员会”将决定如何使用50亿美元加沙援款",
@@ -242,6 +255,18 @@
           "time_info": "[00时32分 ~ 02时29分]"
         },
         {
+          "title": "现货黄金跌势扩大，向下触及4860美元/盎司，日内跌2.60%。",
+          "url": "https://flash.jin10.com/detail/20260217133247568800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 14时45分]"
+        },
+        {
           "title": "现货钯金上涨逾3%，至1741.69美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260217002907635800",
           "source": "金十数据",
@@ -252,6 +277,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时31分 ~ 02时29分]"
+        },
+        {
+          "title": "纽约期金日内大跌3.00%，现报4886.00美元/盎司；纽约期银日内重挫7.00%，现报72.51美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260217133227247800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 14时45分]"
         },
         {
           "title": "声明显示，必和必拓(BHP.N)和伦丁旗下的维库纳公司（Vicuna Corp）预计将在未来数年对阿根廷铜矿项目投资180亿美元。",
@@ -266,6 +303,18 @@
           "time_info": "[05时20分 ~ 06时17分]"
         },
         {
+          "title": "现货黄金延续跌势，回落至4890美元/盎司下方，日内跌2.01%。",
+          "url": "https://flash.jin10.com/detail/20260217132244504800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 14时45分]"
+        },
+        {
           "title": "现货钯金站上1700美元/盎司，日内涨1.56%。",
           "url": "https://flash.jin10.com/detail/20260216232153565800",
           "source": "金十数据",
@@ -276,6 +325,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 01时31分]"
+        },
+        {
+          "title": "现货钯金下跌3%，至每盎司1671.25美元。",
+          "url": "https://flash.jin10.com/detail/20260217131925043800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 14时45分]"
+        },
+        {
+          "title": "现货黄金失守4900美元",
+          "url": "https://flash.jin10.com/detail/20260217131859994800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 14时45分]"
         },
         {
           "title": "现货黄金再次跌穿4970美元，跌幅重新扩大至超过1.2%，逼近北京时间13:03刷新的日低4966.41美元。",
@@ -290,6 +363,29 @@
           "time_info": "[00时32分 ~ 01时31分]"
         },
         {
+          "title": "现货黄金回落至4910美元/盎司下方，日内跌1.59%。",
+          "url": "https://flash.jin10.com/detail/20260217131705849800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 14时45分]"
+        },
+        {
+          "title": "消息人士：月之暗面寻求在新一轮融资中达到100亿美元估值",
+          "url": "https://flash.jin10.com/detail/20260217135941397800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
           "title": "WTI原油期货日内涨幅扩大至1.00%，现报63.52美元/桶。",
           "url": "https://flash.jin10.com/detail/20260217113320191800",
           "source": "金十数据",
@@ -299,72 +395,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
-        },
-        {
-          "title": "现货黄金跌势扩大，向下触及4860美元/盎司，日内跌2.60%。",
-          "url": "https://flash.jin10.com/detail/20260217133247568800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
-        },
-        {
-          "title": "纽约期金日内大跌3.00%，现报4886.00美元/盎司；纽约期银日内重挫7.00%，现报72.51美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260217133227247800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
-        },
-        {
-          "title": "现货黄金延续跌势，回落至4890美元/盎司下方，日内跌2.01%。",
-          "url": "https://flash.jin10.com/detail/20260217132244504800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
-        },
-        {
-          "title": "现货钯金下跌3%，至每盎司1671.25美元。",
-          "url": "https://flash.jin10.com/detail/20260217131925043800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
-        },
-        {
-          "title": "现货黄金失守4900美元",
-          "url": "https://flash.jin10.com/detail/20260217131859994800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
-        },
-        {
-          "title": "现货黄金回落至4910美元/盎司下方，日内跌1.59%。",
-          "url": "https://flash.jin10.com/detail/20260217131705849800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
         },
         {
           "title": "市场消息：根据美国银行最新的外汇和利率情绪调查，2月份市场对美元的情绪为14年来的最负面水平。目前，美元空头头寸已达到2012年1月以来的最高水平。",
@@ -406,7 +436,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         }
@@ -414,7 +444,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "AI热潮助力港股蛇年收官战告捷，MiniMax暴涨25%、智谱涨4.74%齐创新高，有色板块拉升",
@@ -425,8 +455,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 13时52分]"
+          "appearance_count": 16,
+          "time_info": "[00时31分 ~ 14时45分]"
         },
         {
           "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
@@ -436,8 +466,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 13时52分]"
+          "appearance_count": 16,
+          "time_info": "[00时31分 ~ 14时45分]"
         },
         {
           "title": "AI圈内人士：巨大变革正在发生，人们还懵懂不知",
@@ -460,8 +490,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 13时52分]"
+          "appearance_count": 16,
+          "time_info": "[00时31分 ~ 14时45分]"
         },
         {
           "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
@@ -486,8 +516,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 13时52分]"
+          "appearance_count": 16,
+          "time_info": "[00时31分 ~ 14时45分]"
         },
         {
           "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
@@ -495,11 +525,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 13时52分]"
+          "appearance_count": 16,
+          "time_info": "[00时31分 ~ 14时45分]"
         },
         {
           "title": "新春走基层 ·见喜｜当爸妈用AI送出春节祝福",
@@ -543,6 +574,17 @@
           "time_info": "[00时32分 ~ 05时20分]"
         },
         {
+          "title": "软银与Ampere Computing联合测试使用CPU运行小型人工智能模型",
+          "url": "https://wallstreetcn.com/livenews/3055891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
           "title": "豆包：除夕豆包AI互动总数达19亿",
           "url": "https://flash.jin10.com/detail/20260217114541307800",
           "source": "金十数据",
@@ -552,17 +594,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
-        },
-        {
-          "title": "豆包：除夕AI互动19亿次，Seedance2.0为春晚提供技术支持",
-          "url": "https://wallstreetcn.com/livenews/3055884",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
         },
         {
           "title": "刘维用AI与去世父母姥姥隔空相见",
@@ -590,6 +621,18 @@
           "time_info": "[05时20分 ~ 06时17分]"
         },
         {
+          "title": "豆包：除夕AI互动19亿次，Seedance2.0为春晚提供技术支持",
+          "url": "https://wallstreetcn.com/livenews/3055884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 14时45分]"
+        },
+        {
           "title": "美国钢铁公司（AISI）数据显示，截至2月14日当周，美国钢铁产能利用率为77.8%。",
           "url": "https://flash.jin10.com/detail/20260217053748212800",
           "source": "金十数据",
@@ -600,6 +643,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时17分 ~ 07时20分]"
+        },
+        {
+          "title": "春晚AI率比我论文高",
+          "url": "https://s.weibo.com/weibo?q=%E6%98%A5%E6%99%9AAI%E7%8E%87%E6%AF%94%E6%88%91%E8%AE%BA%E6%96%87%E9%AB%98&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时09分 ~ 14时45分]"
         },
         {
           "title": "这波三角洲AI春晚真该留到今晚看",
@@ -613,6 +669,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时31分 ~ 03时27分]"
+        },
+        {
+          "title": "言短意长｜当人工智能和机器人扎堆出现在春晚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32622644",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时52分 ~ 14时45分]"
         },
         {
           "title": "OpenAI：系统（恢复）全面运作。",
@@ -703,18 +771,6 @@
           "time_info": "[05时20分 ~ 06时17分]"
         },
         {
-          "title": "春晚AI率比我论文高",
-          "url": "https://s.weibo.com/weibo?q=%E6%98%A5%E6%99%9AAI%E7%8E%87%E6%AF%94%E6%88%91%E8%AE%BA%E6%96%87%E9%AB%98&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 13时52分]"
-        },
-        {
           "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
           "url": "https://flash.jin10.com/detail/20260216233255611800",
           "source": "金十数据",
@@ -727,15 +783,16 @@
           "time_info": "[00时32分 ~ 01时31分]"
         },
         {
-          "title": "言短意长｜当人工智能和机器人扎堆出现在春晚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32622644",
-          "source": "澎湃新闻",
+          "title": "美光科技拟斥资2000亿美元 以突破AI内存瓶颈",
+          "url": "https://flash.jin10.com/detail/20260217132112980800",
+          "source": "金十数据",
           "ranks": [
-            8
+            14,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 14时45分]"
         },
         {
           "title": "美股财报电话会现状：“AI风险”讨论翻倍，公司必须“自证清白”，投资者“先卖再问”",
@@ -780,17 +837,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
-        },
-        {
-          "title": "美光科技拟斥资2000亿美元 以突破AI内存瓶颈",
-          "url": "https://flash.jin10.com/detail/20260217132112980800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
         },
         {
           "title": "Meta内部测试显示其AI聊天机器人未能有效保护儿童",
@@ -845,11 +891,25 @@
           "ranks": [
             3,
             14,
-            21
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时09分 ~ 14时45分]"
+        },
+        {
+          "title": "央行报告：2025年资管产品规模快速增长，主要投向同业存款和存单",
+          "url": "https://wallstreetcn.com/livenews/3055871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            15,
+            20
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时09分 ~ 13时52分]"
+          "time_info": "[12时09分 ~ 14时45分]"
         },
         {
           "title": "欧洲央行管委内格尔：欧元稳定币可助力廉价跨境支付",
@@ -863,18 +923,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时27分 ~ 05时20分]"
-        },
-        {
-          "title": "央行报告：2025年资管产品规模快速增长，主要投向同业存款和存单",
-          "url": "https://wallstreetcn.com/livenews/3055871",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 13时52分]"
         },
         {
           "title": "澳洲联储会议纪要：CPI通胀基础广泛，若不加息，通胀压力预计将持续。",
@@ -938,6 +986,18 @@
           "time_info": "[00时31分 ~ 07时20分]"
         },
         {
+          "title": "苹果春季发布会落地上海",
+          "url": "https://www.douyin.com/hot/2403646",
+          "source": "抖音",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时52分 ~ 14时45分]"
+        },
+        {
           "title": "苹果发力视频播客：正面挑战YouTube和Spotify",
           "url": "https://wallstreetcn.com/livenews/3055825",
           "source": "华尔街见闻-快讯",
@@ -950,17 +1010,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时27分 ~ 07时20分]"
-        },
-        {
-          "title": "苹果春季发布会落地上海",
-          "url": "https://www.douyin.com/hot/2403646",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
         },
         {
           "title": "苹果革新视频播客功能，顺应行业视觉化浪潮",
@@ -1084,6 +1133,46 @@
       ]
     },
     {
+      "keyword_group": "大模型 ChatGPT Kimi Sora OpenAI",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "阿里除夕夜发布 Qwen3.5 模型，哪些技术亮点值得关注？对大模型发展有何影响？",
+          "url": "https://www.zhihu.com/question/2004174915692172333",
+          "source": "知乎",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 07时20分]"
+        },
+        {
+          "title": "报道：月之暗面（Kimi）寻求在新一轮融资中达到100亿美元估值",
+          "url": "https://wallstreetcn.com/livenews/3055890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "豆包大模型接上春晚机器人了",
+          "url": "https://www.douyin.com/hot/2403275",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "新能源汽车 电动汽车 智能驾驶",
       "match_count": 2,
       "titles": [
@@ -1115,35 +1204,6 @@
       ]
     },
     {
-      "keyword_group": "大模型 ChatGPT Kimi Sora OpenAI",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "阿里除夕夜发布 Qwen3.5 模型，哪些技术亮点值得关注？对大模型发展有何影响？",
-          "url": "https://www.zhihu.com/question/2004174915692172333",
-          "source": "知乎",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时20分]"
-        },
-        {
-          "title": "豆包大模型接上春晚机器人了",
-          "url": "https://www.douyin.com/hot/2403275",
-          "source": "抖音",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时29分"
-        }
-      ]
-    },
-    {
       "keyword_group": "大学生 毕业生",
       "match_count": 2,
       "titles": [
@@ -1167,8 +1227,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 13时52分]"
+          "appearance_count": 4,
+          "time_info": "[12时09分 ~ 14时45分]"
         }
       ]
     },
