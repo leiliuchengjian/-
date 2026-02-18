@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T05:27:43.790791+08:00",
-  "total_titles_processed": 604,
+  "generated_at": "2026-02-19T06:23:24.640415+08:00",
+  "total_titles_processed": 653,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 38,
+      "match_count": 40,
       "titles": [
         {
           "title": "WTI 3月原油期货收报65.19美元/桶。 NYMEX 3月天然气期货收报3.0110美元/百万英热单位。 NYMEX 3月汽油期货收报1.9680美元/加仑，NYMEX 3月取暖油期货收报2.5187美元/加仑。",
@@ -87,17 +87,6 @@
           "time_info": "02时38分"
         },
         {
-          "title": "WTI原油日内涨幅达5.0%，报65.38美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3056474",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时27分"
-        },
-        {
           "title": "布伦特原油日内大涨4%，现报69.55美元/桶。",
           "url": "https://flash.jin10.com/detail/20260219011927184800",
           "source": "金十数据",
@@ -120,6 +109,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时41分 ~ 04时28分]"
+        },
+        {
+          "title": "WTI原油日内涨幅达5.0%，报65.38美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3056474",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 06时23分]"
         },
         {
           "title": "澳元/美元日内跌幅达0.5%，报0.7049。",
@@ -182,6 +183,42 @@
           "time_info": "[01时47分 ~ 02时38分]"
         },
         {
+          "title": "美国12月外资净买入美国公债 -416亿美元，前值856亿美元。",
+          "url": "https://flash.jin10.com/detail/20260219050118054800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 06时23分]"
+        },
+        {
+          "title": "美国12月长期资本净流入 280亿美元，前值2202亿美元。",
+          "url": "https://flash.jin10.com/detail/20260219050102723800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 06时23分]"
+        },
+        {
+          "title": "美国12月国际资本净流入 449亿美元，前值2120亿美元。",
+          "url": "https://flash.jin10.com/detail/20260219050052624800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 06时23分]"
+        },
+        {
           "title": "WTI原油日内涨幅达3.5%，报64.44美元/桶。 布伦特原油日内涨幅达3.5%，报69.78美元/桶。 日内瓦会谈结束，乌克兰总统泽连斯基职责俄方拖延谈判进程。",
           "url": "https://wallstreetcn.com/livenews/3056408",
           "source": "华尔街见闻-快讯",
@@ -228,39 +265,6 @@
           "time_info": "01时47分"
         },
         {
-          "title": "美国12月外资净买入美国公债 -416亿美元，前值856亿美元。",
-          "url": "https://flash.jin10.com/detail/20260219050118054800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时27分"
-        },
-        {
-          "title": "美国12月长期资本净流入 280亿美元，前值2202亿美元。",
-          "url": "https://flash.jin10.com/detail/20260219050102723800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时27分"
-        },
-        {
-          "title": "美国12月国际资本净流入 449亿美元，前值2120亿美元。",
-          "url": "https://flash.jin10.com/detail/20260219050052624800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时27分"
-        },
-        {
           "title": "布伦特原油期货涨4%，刷新日高至70美元/桶整数位心理关口上方。 WTI原油日内涨幅达4.0%，报64.78美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3056426",
           "source": "华尔街见闻-快讯",
@@ -278,7 +282,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -289,7 +293,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -322,7 +326,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -333,7 +337,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -360,6 +364,17 @@
           "time_info": "04时28分"
         },
         {
+          "title": "美国12月国际资本净流入 449亿美元，前值 2120亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3056482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
+        {
           "title": "强生(JNJ.N)：在宾夕法尼亚州蒙哥马利县投资超过10亿美元建设细胞治疗制造工厂。",
           "url": "https://flash.jin10.com/detail/20260218231549089800",
           "source": "金十数据",
@@ -369,6 +384,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
+        },
+        {
+          "title": "美国12月长期资本净流入 280亿美元，前值 2202亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3056481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
         },
         {
           "title": "谷歌：推出499美元的Pixel 10A智能手机，价格保持不变。",
@@ -440,7 +466,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 23,
+      "match_count": 28,
       "titles": [
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -451,8 +477,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时51分 ~ 05时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 06时23分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -463,8 +489,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时51分 ~ 05时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 06时23分]"
         },
         {
           "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
@@ -487,8 +513,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时51分 ~ 05时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 06时23分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -499,8 +525,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时51分 ~ 05时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 06时23分]"
         },
         {
           "title": "AI大战:鹅厂阿里双双出局",
@@ -511,8 +537,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时51分 ~ 05时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 06时23分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -523,8 +549,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时51分 ~ 05时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 06时23分]"
         },
         {
           "title": "中国科研团队研发出AI看病系统 诊断罕见病“有根有据”",
@@ -538,16 +564,15 @@
           "time_info": "02时38分"
         },
         {
-          "title": "中国科研团队研发出AI看病系统 诊断罕见病“有根有据”",
-          "url": "https://wallstreetcn.com/livenews/3056438",
+          "title": "Booking的首席财务官（CFO）：人工智能（AI）已经帮助实现消费者服务成本同比下降。",
+          "url": "https://wallstreetcn.com/livenews/3056505",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            20
+            1
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时38分 ~ 04时28分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
         },
         {
           "title": "公开和沃什“唱反调”？多位美联储高官称：AI提升生产力或意味着“更高的中性利率”",
@@ -557,8 +582,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时38分 ~ 05时27分]"
+          "appearance_count": 6,
+          "time_info": "[02时38分 ~ 06时23分]"
         },
         {
           "title": "AI 编程会替代程序员吗?",
@@ -571,8 +596,31 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时38分 ~ 05时27分]"
+          "appearance_count": 6,
+          "time_info": "[02时38分 ~ 06时23分]"
+        },
+        {
+          "title": "市场消息：富时罗素正就IPO“快速纳入”规则征求市场意见，提及SpaceX、OpenAI、Anthropic可能进行的IPO。",
+          "url": "https://flash.jin10.com/detail/20260219054611726800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
+        {
+          "title": "中国科研团队研发出AI看病系统 诊断罕见病“有根有据”",
+          "url": "https://wallstreetcn.com/livenews/3056438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时38分 ~ 04时28分]"
         },
         {
           "title": "AI先驱李飞飞的初创公司World Labs融资10亿美元，英伟达参投",
@@ -599,6 +647,18 @@
           "time_info": "[02时38分 ~ 04时28分]"
         },
         {
+          "title": "据华尔街日报：Meta启动两份超级协议，以应对人工智能（AI）勒索。",
+          "url": "https://flash.jin10.com/detail/20260219051053365800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 06时23分]"
+        },
+        {
           "title": "芯片初创公司Efficient Computer筹集6000万美元，用于推进面向人工智能的节能通用处理器。",
           "url": "https://flash.jin10.com/detail/20260219000243239800",
           "source": "金十数据",
@@ -609,6 +669,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时52分 ~ 01时47分]"
+        },
+        {
+          "title": "据华尔街日报：Meta公司加大在得州和伊利诺伊州的竞选活动，增加对人工智能政治行动委员会的支出。",
+          "url": "https://flash.jin10.com/detail/20260219050647385800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 06时23分]"
         },
         {
           "title": "爱尔兰财政部：AI应用已冲击爱尔兰毕业生就业市场",
@@ -634,26 +706,15 @@
           "time_info": "[03时41分 ~ 04时28分]"
         },
         {
-          "title": "据华尔街日报：Meta启动两份超级协议，以应对人工智能（AI）勒索。",
-          "url": "https://flash.jin10.com/detail/20260219051053365800",
-          "source": "金十数据",
+          "title": "富时罗素正就IPO“快速纳入”规则征求市场意见。富时罗素提及SpaceX、OpenAI、Anthropic可能进行的IPO。",
+          "url": "https://wallstreetcn.com/livenews/3056499",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时27分"
-        },
-        {
-          "title": "据华尔街日报：Meta公司加大在得州和伊利诺伊州的竞选活动，增加对人工智能政治行动委员会的支出。",
-          "url": "https://flash.jin10.com/detail/20260219050647385800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时27分"
+          "time_info": "06时23分"
         },
         {
           "title": "美国宣布与网络安全和AI风险管理相关的倡议。",
@@ -700,6 +761,17 @@
           "time_info": "02时38分"
         },
         {
+          "title": "扎克伯格出庭：美国法官威胁将对任何使用AI眼镜录像的人处以蔑视法庭罪",
+          "url": "https://wallstreetcn.com/livenews/3056487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
+        {
           "title": "印度AI峰会2月18日要点总结",
           "url": "https://wallstreetcn.com/livenews/3056423",
           "source": "华尔街见闻-快讯",
@@ -709,6 +781,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
+        },
+        {
+          "title": "Meta启动两份超级协议，来帮助应对人工智能（AI）勒索。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3056483",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
         }
       ]
     },
@@ -726,8 +809,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时51分 ~ 05时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 06时23分]"
         },
         {
           "title": "欧洲央行执委施纳贝尔：欧元正日益充当避险工具，提升其全球角色。",
@@ -884,8 +967,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时51分 ~ 05时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 06时23分]"
         },
         {
           "title": "段永平试水“AI交易”：卖苹果加仓英伟达，“新入”CoreWeave、Credo和Tempus",
@@ -896,8 +979,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时51分 ~ 05时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 06时23分]"
         },
         {
           "title": "巴菲特交棒前最后一份13F：减持苹果和美银 加仓能源与保险",
@@ -908,8 +991,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时51分 ~ 05时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 06时23分]"
         },
         {
           "title": "谷歌推出499美元Pixel 10a，在iPhone 17e发布前登场",
@@ -971,9 +1054,49 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "特斯拉首辆Cybercab下线：没有方向盘和踏板的汽车终于来了",
+          "url": "https://wallstreetcn.com/articles/3765831",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 06时23分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收跌0.1%。 热门中概股里，拼多多初步收涨超1%，美团、百胜中国、新东方、腾讯、比亚迪、百度、阿里至多涨超0.9%，理想跌0.3%，小马智行跌0.9%，文远知行跌3.8%。",
+          "url": "https://wallstreetcn.com/livenews/3056478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.04%，报7580.87点。 热门中概股里，拼多多初步收涨超1%，美团、百胜中国、新东方、腾讯、比亚迪、百度、阿里至多涨超0.9%，理想跌0.3%，小马智行跌0.9%，文远知行跌3.8%。 ETF中，中国科技指数ETF（CQQQ）收涨0.79%，中概互联网指数ETF（KWEB）收涨0.52%。 XtrackersHarvest中证50（ASHS）收涨0.61%，德银嘉实沪深300指数ETF（ASHR）收涨0.44%。",
+          "url": "https://wallstreetcn.com/livenews/3056478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
         }
       ]
     },
@@ -990,19 +1113,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时51分 ~ 05时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 06时23分]"
         },
         {
           "title": "美股高开高走 英伟达收涨1.63%",
           "url": "https://flash.jin10.com/detail/20260219050439356800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 06时23分]"
         },
         {
           "title": "纳指涨幅扩大至1%，英伟达(NVDA.O)现涨2.54%。",
@@ -1018,31 +1142,30 @@
       ]
     },
     {
-      "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
+      "keyword_group": "房地产 房价 楼市 LPR",
       "match_count": 2,
       "titles": [
         {
-          "title": "特斯拉首辆Cybercab下线：没有方向盘和踏板的汽车终于来了",
-          "url": "https://wallstreetcn.com/articles/3765831",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时51分 ~ 05时27分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收跌0.1%。 热门中概股里，拼多多初步收涨超1%，美团、百胜中国、新东方、腾讯、比亚迪、百度、阿里至多涨超0.9%，理想跌0.3%，小马智行跌0.9%，文远知行跌3.8%。",
-          "url": "https://wallstreetcn.com/livenews/3056478",
+          "title": "标普500指数初步收涨0.6%，能源板块涨2%，科技、可选消费板块涨1%，房地产板块跌1.4%，公用事业板块跌1.7%。 纳斯达克100指数初步收涨0.8%，成分股中，铿腾电子涨7.7%，Doordash涨7.3%，新思科技、美光科技涨5%，西部数据涨4.4%，沃尔玛跌1.7%，Strategy跌2.4%，核电股CEG跌2.6%，恩智浦跌3.1%，派拓网络跌6.7%。亚马逊、思科、高盛、Salesforce、迪士尼、英伟达至少涨1.7%，领跑道指成分股，卡特彼勒、宝洁、VZ、波音、3M至多跌2%。",
+          "url": "https://wallstreetcn.com/livenews/3056476",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        },
+        {
+          "title": "能源业ETF收涨1.92%，半导体ETF涨1.24%，网络股指数ETF、全球科技股指数ETF、科技行业ETF至少涨1.03%，领跑美股行业ETF，公用事业ETF跌1.66%。 标普500指数的11个板块中，能源板块收涨2%，可选消费板块涨1%，信息技术/科技板块涨0.97%，房地产板块收跌1.45%，公用事业板块跌1.7%。",
+          "url": "https://wallstreetcn.com/livenews/3056498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时27分"
+          "time_info": "06时23分"
         }
       ]
     },
@@ -1075,23 +1198,6 @@
       ]
     },
     {
-      "keyword_group": "房地产 房价 楼市 LPR",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "标普500指数初步收涨0.6%，能源板块涨2%，科技、可选消费板块涨1%，房地产板块跌1.4%，公用事业板块跌1.7%。 纳斯达克100指数初步收涨0.8%，成分股中，铿腾电子涨7.7%，Doordash涨7.3%，新思科技、美光科技涨5%，西部数据涨4.4%，沃尔玛跌1.7%，Strategy跌2.4%，核电股CEG跌2.6%，恩智浦跌3.1%，派拓网络跌6.7%。亚马逊、思科、高盛、Salesforce、迪士尼、英伟达至少涨1.7%，领跑道指成分股，卡特彼勒、宝洁、VZ、波音、3M至多跌2%。",
-          "url": "https://wallstreetcn.com/livenews/3056476",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时27分"
-        }
-      ]
-    },
-    {
       "keyword_group": "大模型 ChatGPT Kimi Sora OpenAI",
       "match_count": 1,
       "titles": [
@@ -1105,8 +1211,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时51分 ~ 05时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 06时23分]"
         }
       ]
     }
