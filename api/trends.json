@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T18:33:57.174085+08:00",
-  "total_titles_processed": 1491,
+  "generated_at": "2026-02-19T19:31:46.680552+08:00",
+  "total_titles_processed": 1562,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 72,
+      "match_count": 75,
       "titles": [
         {
           "title": "WTI 3月原油期货收报65.19美元/桶。 NYMEX 3月天然气期货收报3.0110美元/百万英热单位。 NYMEX 3月汽油期货收报1.9680美元/加仑，NYMEX 3月取暖油期货收报2.5187美元/加仑。",
@@ -39,6 +39,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
+        },
+        {
+          "title": "美国机械制造商Deere第一季度每股收益2.42美元，去年同期为3.19美元，市场预期为2.05美元。 第一季度净收入为6.56亿美元，同比下降25%，市场预期为5.54亿美元。 预计全年净收入为45亿至50亿美元，此前预计40亿至47.5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3056629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         },
         {
           "title": "美元指数DXY日内涨幅扩大至0.50%，现报97.61。",
@@ -470,7 +481,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
         },
@@ -508,6 +519,17 @@
           "time_info": "07时20分"
         },
         {
+          "title": "两名消息人士称，石油交易商贡渥集团创始人托恩奎斯特已向员工出借逾40亿美元，用于管理层收购。",
+          "url": "https://flash.jin10.com/detail/20260219182717913800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
           "title": "现货黄金站上4990美元/盎司，日内涨0.26%。",
           "url": "https://flash.jin10.com/detail/20260219130622884800",
           "source": "金十数据",
@@ -517,6 +539,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
+        },
+        {
+          "title": "两名消息人士表示，石油交易商贡渥集团估值约为50亿美元。",
+          "url": "https://flash.jin10.com/detail/20260219182649971800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         },
         {
           "title": "布伦特原油日内涨幅扩大至1.00%，现报70.31美元/桶。",
@@ -841,7 +874,7 @@
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 48,
+      "match_count": 52,
       "titles": [
         {
           "title": "美联储会议纪要暴巨大分歧：一些官员支持进一步降息，一些暗示加息可能",
@@ -854,8 +887,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时10分 ~ 18时33分]"
+          "appearance_count": 12,
+          "time_info": "[09时10分 ~ 19时31分]"
         },
         {
           "title": "2026物价展望：CPI有望温和回升，PPI或将转正",
@@ -883,6 +916,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
+        },
+        {
+          "title": "英国央行货币政策委员曼恩：我们正逐渐接近货币政策在通胀目标和充分就业之间取得平衡的临界点。",
+          "url": "https://flash.jin10.com/detail/20260219191200451800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         },
         {
           "title": "菲律宾央行行长：预计2026年GDP增长率为4.6%。",
@@ -918,6 +962,31 @@
           "time_info": "16时32分"
         },
         {
+          "title": "英国2月CBI工业物价预期差值 26，前值 29。",
+          "url": "https://wallstreetcn.com/livenews/3056627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
+          "title": "日本银行业协会：市场预计日本央行最快3月加息。",
+          "url": "https://wallstreetcn.com/livenews/3056602",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            9,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时32分 ~ 19时31分]"
+        },
+        {
           "title": "欧洲央行执委施纳贝尔：欧元正日益充当避险工具，提升其全球角色。",
           "url": "https://flash.jin10.com/detail/20260219010521450800",
           "source": "金十数据",
@@ -938,19 +1007,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
-        },
-        {
-          "title": "日本银行业协会：市场预计日本央行最快3月加息。",
-          "url": "https://wallstreetcn.com/livenews/3056602",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时32分 ~ 18时33分]"
         },
         {
           "title": "美联储会议纪要：若通胀如预期下降，进一步降息更有可能",
@@ -1085,6 +1141,17 @@
           "time_info": "15时43分"
         },
         {
+          "title": "英国2月CBI工业物价预期差值 26，前值29。",
+          "url": "https://flash.jin10.com/detail/20260219190056740800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
           "title": "印尼央行官员：1月通胀率较高系基数效应所致。",
           "url": "https://flash.jin10.com/detail/20260219151634298800",
           "source": "金十数据",
@@ -1094,6 +1161,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
+        },
+        {
+          "title": "投资管理公司Aviva Investors预计日本央行将加息两次。",
+          "url": "https://flash.jin10.com/detail/20260219184627677800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         },
         {
           "title": "印尼央行官员：未来印尼盾汇率预计将保持稳定，并有走强趋势。",
@@ -1396,7 +1474,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 44,
+      "match_count": 47,
       "titles": [
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -1446,8 +1524,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时10分 ~ 18时33分]"
+          "appearance_count": 11,
+          "time_info": "[12时10分 ~ 19时31分]"
         },
         {
           "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
@@ -1470,8 +1548,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时51分 ~ 18时33分]"
+          "appearance_count": 23,
+          "time_info": "[00时51分 ~ 19时31分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -1487,8 +1565,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时10分 ~ 18时33分]"
+          "appearance_count": 12,
+          "time_info": "[09时10分 ~ 19时31分]"
         },
         {
           "title": "AI大战:鹅厂阿里双双出局",
@@ -1506,8 +1584,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时51分 ~ 18时33分]"
+          "appearance_count": 23,
+          "time_info": "[00时51分 ~ 19时31分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -1525,8 +1603,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时51分 ~ 18时33分]"
+          "appearance_count": 23,
+          "time_info": "[00时51分 ~ 19时31分]"
         },
         {
           "title": "公开和沃什“唱反调”？多位美联储高官称：AI提升生产力或意味着“更高的中性利率”",
@@ -1837,6 +1915,17 @@
           "time_info": "12时10分"
         },
         {
+          "title": "什么样的软件会被AI淘汰？",
+          "url": "https://wallstreetcn.com/articles/3765860",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
           "title": "美国宣布与网络安全和AI风险管理相关的倡议。",
           "url": "https://wallstreetcn.com/livenews/3056433",
           "source": "华尔街见闻-快讯",
@@ -1848,6 +1937,17 @@
           "time_info": "02时38分"
         },
         {
+          "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
+          "url": "https://wallstreetcn.com/articles/3765864",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
           "title": "美国财政部宣布关于加强AI网络安全和风险管理的倡议",
           "url": "https://flash.jin10.com/detail/20260219021420835800",
           "source": "金十数据",
@@ -1857,6 +1957,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
+        },
+        {
+          "title": "印度总理莫迪于2月19日在人工智能峰会上会见了阿布扎比王储。",
+          "url": "https://flash.jin10.com/detail/20260219184424109800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         },
         {
           "title": "美国财政部：2月份财政部将陆续发布一套与业界及联邦、州级监管合作伙伴共同开发的六项资源，旨在确保人工智能在整个美国金融体系中的安全性和韧性。",
@@ -2121,11 +2232,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时35分 ~ 18时33分]"
+          "appearance_count": 3,
+          "time_info": "[17时35分 ~ 19时31分]"
         },
         {
           "title": "2025年国家开发银行发放公路基础设施贷款超3600亿元",
@@ -2133,11 +2245,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时35分 ~ 18时33分]"
+          "appearance_count": 3,
+          "time_info": "[17时35分 ~ 19时31分]"
         },
         {
           "title": "以色列国防军：鉴于真主党屡次违反停火协议，以色列国防军正在打击黎巴嫩南部的真主党恐怖基础设施目标。",
@@ -2168,7 +2281,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
         }
@@ -2214,8 +2327,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时51分 ~ 18时33分]"
+          "appearance_count": 23,
+          "time_info": "[00时51分 ~ 19时31分]"
         },
         {
           "title": "巴菲特交棒前最后一次调仓披露：减持苹果、亚马逊，新建仓纽约时报",
@@ -2226,8 +2339,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时47分 ~ 18时33分]"
+          "appearance_count": 6,
+          "time_info": "[14时47分 ~ 19时31分]"
         },
         {
           "title": "谷歌推出499美元Pixel 10a，在iPhone 17e发布前登场",
@@ -2291,8 +2404,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时10分 ~ 18时33分]"
+          "appearance_count": 11,
+          "time_info": "[12时10分 ~ 19时31分]"
         },
         {
           "title": "美股存储芯片概念股盘前上涨，Sandisk、美光科技均涨超1%。白银概念股走强，泛美白银涨超4%，赫克拉矿业涨近2%。",
@@ -2300,11 +2413,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            15
+            15,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时35分 ~ 18时33分]"
+          "appearance_count": 3,
+          "time_info": "[17时35分 ~ 19时31分]"
+        },
+        {
+          "title": "黄仁勋：将在3月发布“世界前所未见”的全新芯片",
+          "url": "https://www.cls.cn/detail/2291708",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时35分 ~ 19时31分]"
         },
         {
           "title": "英伟达CEO黄仁勋：为GTC 2026准备了几款世界前所未见的新芯片",
@@ -2326,18 +2453,6 @@
           "ranks": [
             9,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时35分 ~ 18时33分]"
-        },
-        {
-          "title": "黄仁勋：将在3月发布“世界前所未见”的全新芯片",
-          "url": "https://www.cls.cn/detail/2291708",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -2369,7 +2484,7 @@
     },
     {
       "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "特斯拉首辆Cybercab下线：没有方向盘和踏板的汽车终于来了",
@@ -2395,6 +2510,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "科技股拖累美股期指转跌，特斯拉盘前领跌Mag7，地缘局势升温推高金银油，黄金站上5000美元",
+          "url": "https://wallstreetcn.com/articles/3765856",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.04%，报7580.87点。 热门中概股里，拼多多初步收涨超1%，美团、百胜中国、新东方、腾讯、比亚迪、百度、阿里至多涨超0.9%，理想跌0.3%，小马智行跌0.9%，文远知行跌3.8%。 ETF中，中国科技指数ETF（CQQQ）收涨0.79%，中概互联网指数ETF（KWEB）收涨0.52%。 XtrackersHarvest中证50（ASHS）收涨0.61%，德银嘉实沪深300指数ETF（ASHR）收涨0.44%。",
@@ -2425,8 +2551,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时51分 ~ 18时33分]"
+          "appearance_count": 23,
+          "time_info": "[00时51分 ~ 19时31分]"
         },
         {
           "title": "美股高开高走 英伟达收涨1.63%",
@@ -2539,11 +2665,12 @@
           "url": "https://wallstreetcn.com/livenews/3056619",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时33分 ~ 19时31分]"
         }
       ]
     },
@@ -2558,7 +2685,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
         }
