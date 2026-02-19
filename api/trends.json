@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T12:10:19.860840+08:00",
-  "total_titles_processed": 985,
+  "generated_at": "2026-02-19T13:53:04.631088+08:00",
+  "total_titles_processed": 1088,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "WTI 3月原油期货收报65.19美元/桶。 NYMEX 3月天然气期货收报3.0110美元/百万英热单位。 NYMEX 3月汽油期货收报1.9680美元/加仑，NYMEX 3月取暖油期货收报2.5187美元/加仑。",
@@ -30,6 +30,17 @@
           "time_info": "09时10分"
         },
         {
+          "title": "力拓：预计2026年将斥资约10亿美元用于矿山关闭活动，与2025年持平。",
+          "url": "https://flash.jin10.com/detail/20260219134352559800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：所谓“和平委员会”与加沙相关的超过50亿美元资金承诺将来自美国的多个州。",
           "url": "https://wallstreetcn.com/livenews/3056441",
           "source": "华尔街见闻-快讯",
@@ -39,17 +50,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
-        },
-        {
-          "title": "现货白银站上78美元/盎司，日内涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3056568",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
         },
         {
           "title": "美元指数DXY日内涨幅扩大至0.50%，现报97.61。",
@@ -80,18 +80,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
-          "title": "离岸人民币兑美元一度跌破6.9关口。",
-          "url": "https://wallstreetcn.com/livenews/3056566",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -131,6 +120,19 @@
           "time_info": "02时38分"
         },
         {
+          "title": "中国1月Swift人民币在全球支付中占比 3.13%，前值 2.73%。",
+          "url": "https://wallstreetcn.com/livenews/3056549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时10分 ~ 13时53分]"
+        },
+        {
           "title": "布伦特原油日内大涨4%，现报69.55美元/桶。",
           "url": "https://flash.jin10.com/detail/20260219011927184800",
           "source": "金十数据",
@@ -143,16 +145,16 @@
           "time_info": "[01时47分 ~ 02时38分]"
         },
         {
-          "title": "中国1月Swift人民币在全球支付中占比 3.13%，前值 2.73%。",
-          "url": "https://wallstreetcn.com/livenews/3056549",
+          "title": "现货白银站上78美元/盎司，日内涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3056568",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            17
+            2,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时10分 ~ 12时10分]"
+          "time_info": "[12时10分 ~ 13时53分]"
         },
         {
           "title": "美联储会议纪要公布后，现货黄金保持涨势，现涨2.3%，报4992美元/盎司。",
@@ -165,6 +167,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时41分 ~ 04时28分]"
+        },
+        {
+          "title": "离岸人民币兑美元一度跌破6.9关口。",
+          "url": "https://wallstreetcn.com/livenews/3056566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 13时53分]"
         },
         {
           "title": "WTI原油日内涨幅达5.0%，报65.38美元/桶。",
@@ -353,6 +367,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "现货黄金站上4990美元/盎司，日内涨0.26%。",
+          "url": "https://flash.jin10.com/detail/20260219130622884800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         },
         {
           "title": "布伦特原油期货涨4%，刷新日高至70美元/桶整数位心理关口上方。 WTI原油日内涨幅达4.0%，报64.78美元/桶。",
@@ -570,7 +595,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -589,7 +614,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 33,
+      "match_count": 41,
       "titles": [
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -600,8 +625,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时51分 ~ 12时10分]"
+          "appearance_count": 15,
+          "time_info": "[00时51分 ~ 13时53分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -650,8 +675,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时51分 ~ 12时10分]"
+          "appearance_count": 15,
+          "time_info": "[00时51分 ~ 13时53分]"
         },
         {
           "title": "AI大战:鹅厂阿里双双出局",
@@ -661,11 +686,12 @@
             8,
             9,
             12,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时51分 ~ 12时10分]"
+          "appearance_count": 15,
+          "time_info": "[00时51分 ~ 13时53分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -675,11 +701,12 @@
             14,
             15,
             18,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时51分 ~ 12时10分]"
+          "appearance_count": 15,
+          "time_info": "[00时51分 ~ 13时53分]"
         },
         {
           "title": "公开和沃什“唱反调”？多位美联储高官称：AI提升生产力或意味着“更高的中性利率”",
@@ -695,27 +722,28 @@
           "time_info": "[02时38分 ~ 09时10分]"
         },
         {
-          "title": "终末地建模,AI偷偷加料",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350773&amp;topic_name=%E7%BB%88%E6%9C%AB%E5%9C%B0%E5%BB%BA%E6%A8%A1%2CAI%E5%81%B7%E5%81%B7%E5%8A%A0%E6%96%99",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时10分 ~ 12时10分]"
-        },
-        {
           "title": "西方跳脚:东大AI惹怒上帝",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350778&amp;topic_name=%E8%A5%BF%E6%96%B9%E8%B7%B3%E8%84%9A%3A%E4%B8%9C%E5%A4%A7AI%E6%83%B9%E6%80%92%E4%B8%8A%E5%B8%9D",
           "source": "贴吧",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时10分 ~ 13时53分]"
+        },
+        {
+          "title": "终末地建模,AI偷偷加料",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350773&amp;topic_name=%E7%BB%88%E6%9C%AB%E5%9C%B0%E5%BB%BA%E6%A8%A1%2CAI%E5%81%B7%E5%81%B7%E5%8A%A0%E6%96%99",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时10分 ~ 13时53分]"
         },
         {
           "title": "中国科研团队研发出AI看病系统 诊断罕见病“有根有据”",
@@ -727,6 +755,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
+        },
+        {
+          "title": "傅莹在慕安会回应“谁能赢人工智能竞赛”：AI创新发展不是一场短跑赛",
+          "url": "https://flash.jin10.com/detail/20260219134816589800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
+          "title": "傅莹在慕安会回应“谁能赢人工智能竞赛”：AI创新发展不是一场短跑赛",
+          "url": "https://wallstreetcn.com/livenews/3056579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         },
         {
           "title": "AI 编程会替代程序员吗?",
@@ -741,6 +791,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时38分 ~ 06时23分]"
+        },
+        {
+          "title": "比尔·盖茨宣布取消在印度人工智能峰会上的演讲",
+          "url": "https://flash.jin10.com/detail/20260219134042511800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
+          "title": "谷歌CEO皮查伊：今天在印度人工智能行动峰会上发表讲话，对我来说是一种极高的荣幸。人工智能能够改善数十亿人的生活，并解决科学领域中一些最为棘手的问题。人工智能所能带来的最佳成果并非是必然能够实现的。我们必须大胆地探索人工智能，以负责任的态度对待它，并携手共度这一时刻。",
+          "url": "https://flash.jin10.com/detail/20260219133402090800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         },
         {
           "title": "中国科研团队研发出AI看病系统 诊断罕见病“有根有据”",
@@ -803,6 +875,17 @@
           "time_info": "[02时38分 ~ 04时28分]"
         },
         {
+          "title": "印度AI峰会大学展示泡沫塑料版无人机",
+          "url": "https://www.toutiao.com/trending/7608301157190156351/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 13时53分]"
+        },
+        {
           "title": "据华尔街日报：Meta启动两份超级协议，以应对人工智能（AI）勒索。",
           "url": "https://flash.jin10.com/detail/20260219051053365800",
           "source": "金十数据",
@@ -851,6 +934,29 @@
           "time_info": "[01时47分 ~ 02时38分]"
         },
         {
+          "title": "OpenAI最新一轮融资进展顺利，融资总额有望突破1000亿美元，首轮融资将于本月完成。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3056559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 13时53分]"
+        },
+        {
+          "title": "中国团队研发出AI看病系统",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%9B%A2%E9%98%9F%E7%A0%94%E5%8F%91%E5%87%BAAI%E7%9C%8B%E7%97%85%E7%B3%BB%E7%BB%9F%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 13时53分]"
+        },
+        {
           "title": "美国宣布网络安全与AI风险管理倡议",
           "url": "https://wallstreetcn.com/livenews/3056433",
           "source": "华尔街见闻-快讯",
@@ -879,9 +985,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
+        },
+        {
+          "title": "国版“OpenClaw” 网易有道 LobsterAI宣布开源",
+          "url": "https://wallstreetcn.com/livenews/3056572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         },
         {
           "title": "美国宣布与网络安全和AI风险管理相关的倡议。",
@@ -893,17 +1010,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
-        },
-        {
-          "title": "OpenAI最新一轮融资进展顺利，融资总额有望突破1000亿美元，首轮融资将于本月完成。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3056559",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
         },
         {
           "title": "美国财政部宣布关于加强AI网络安全和风险管理的倡议",
@@ -937,6 +1043,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
+        },
+        {
+          "title": "300亿对冲基金大佬发声：2026全球最大“地雷”，竟然是AI？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260219131203549800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         },
         {
           "title": "扎克伯格出庭：美国法官威胁将对任何使用AI眼镜录像的人处以蔑视法庭罪",
@@ -978,7 +1095,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         }
@@ -986,7 +1103,7 @@
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "2026物价展望：CPI有望温和回升，PPI或将转正",
@@ -996,11 +1113,25 @@
             20,
             15,
             13,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时51分 ~ 12时10分]"
+          "appearance_count": 15,
+          "time_info": "[00时51分 ~ 13时53分]"
+        },
+        {
+          "title": "美联储会议纪要暴巨大分歧：一些官员支持进一步降息，一些暗示加息可能",
+          "url": "https://wallstreetcn.com/articles/3765847",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时10分 ~ 13时53分]"
         },
         {
           "title": "欧洲央行执委施纳贝尔：欧元正日益充当避险工具，提升其全球角色。",
@@ -1024,18 +1155,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时41分 ~ 04时28分]"
-        },
-        {
-          "title": "美联储会议纪要暴巨大分歧：一些官员支持进一步降息，一些暗示加息可能",
-          "url": "https://wallstreetcn.com/articles/3765847",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时10分 ~ 12时10分]"
         },
         {
           "title": "美联储会议纪要：少数与会者倾向于在1月降息。",
@@ -1110,6 +1229,18 @@
           "time_info": "[00时52分 ~ 01时47分]"
         },
         {
+          "title": "韩国央行警告市场波动持续加剧，并承诺将加强监控。（韩联社）",
+          "url": "https://wallstreetcn.com/livenews/3056554",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 13时53分]"
+        },
+        {
           "title": "俄罗斯2月16日当周CPI周环比上升0.12%。",
           "url": "https://wallstreetcn.com/livenews/3056394",
           "source": "华尔街见闻-快讯",
@@ -1120,6 +1251,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时52分 ~ 01时47分]"
+        },
+        {
+          "title": "文件显示，印度券商游说团体致函市场监管机构，请求就央行针对银行向交易商放贷的新规定进行干预，游说团体要求将印度央行近期出台的规则实施推迟六个月。",
+          "url": "https://flash.jin10.com/detail/20260219132827236800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         },
         {
           "title": "美联储会议纪要：几乎所有与会者都支持在1月份暂停利率行动。多位与会者表示，如果通胀按其预期下降，进一步降息很可能将是合适的。",
@@ -1133,15 +1275,15 @@
           "time_info": "03时41分"
         },
         {
-          "title": "韩国央行警告市场波动持续加剧，并承诺将加强监控。（韩联社）",
-          "url": "https://wallstreetcn.com/livenews/3056554",
-          "source": "华尔街见闻-快讯",
+          "title": "新西兰联储助理主席：央行面临经济增长与通胀放缓的“两难困境”",
+          "url": "https://flash.jin10.com/detail/20260219130942077800",
+          "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时10分"
+          "time_info": "13时53分"
         },
         {
           "title": "高市早苗将提名日本央行新委员 或安插通货复涨派人士",
@@ -1175,6 +1317,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
+        },
+        {
+          "title": "路透调查：日本央行或将在6月底前将政策利率上调至1%",
+          "url": "https://flash.jin10.com/detail/20260219123146827800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         }
       ]
     },
@@ -1188,11 +1341,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时10分 ~ 12时10分]"
+          "appearance_count": 3,
+          "time_info": "[09时10分 ~ 13时53分]"
         },
         {
           "title": "澳大利亚1月就业参与率 66.7%，前值 66.7%。",
@@ -1200,11 +1354,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时10分 ~ 12时10分]"
+          "appearance_count": 3,
+          "time_info": "[09时10分 ~ 13时53分]"
         },
         {
           "title": "澳大利亚1月兼职就业人口变动 -3.27万人，前值 1.04万人。",
@@ -1212,11 +1367,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时10分 ~ 12时10分]"
+          "appearance_count": 3,
+          "time_info": "[09时10分 ~ 13时53分]"
         },
         {
           "title": "澳大利亚1月全职就业人口变动 5.05万人，前值 5.48万人。",
@@ -1224,11 +1380,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时10分 ~ 12时10分]"
+          "appearance_count": 3,
+          "time_info": "[09时10分 ~ 13时53分]"
         },
         {
           "title": "澳大利亚1月兼职就业人口 -3.27万人，前值1.04万人。",
@@ -1311,8 +1468,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时51分 ~ 12时10分]"
+          "appearance_count": 15,
+          "time_info": "[00时51分 ~ 13时53分]"
         },
         {
           "title": "段永平试水“AI交易”：卖苹果加仓英伟达，“新入”CoreWeave、Credo和Tempus",
@@ -1336,8 +1493,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时51分 ~ 12时10分]"
+          "appearance_count": 15,
+          "time_info": "[00时51分 ~ 13时53分]"
         },
         {
           "title": "谷歌推出499美元Pixel 10a，在iPhone 17e发布前登场",
@@ -1358,7 +1515,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -1380,7 +1537,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         }
@@ -1419,11 +1576,12 @@
           "url": "https://wallstreetcn.com/livenews/3056561",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 13时53分]"
         },
         {
           "title": "以色列国防军：鉴于真主党屡次违反停火协议，以色列国防军正在打击黎巴嫩南部的真主党恐怖基础设施目标。",
@@ -1500,22 +1658,24 @@
           "url": "https://www.cls.cn/detail/2291363",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时10分 ~ 13时53分]"
         },
         {
           "title": "英伟达CEO黄仁勋：为GTC 2026准备了几款世界前所未见的新芯片",
           "url": "https://wallstreetcn.com/livenews/3056552",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            15,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 13时53分]"
         },
         {
           "title": "美国-东盟商业理事会：美印协议包括一项涉及Essence Global Group的48.9亿美元半导体合资项目。",
@@ -1543,8 +1703,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时51分 ~ 12时10分]"
+          "appearance_count": 15,
+          "time_info": "[00时51分 ~ 13时53分]"
         },
         {
           "title": "美股高开高走 英伟达收涨1.63%",
@@ -1626,8 +1786,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时20分 ~ 12时10分]"
+          "appearance_count": 5,
+          "time_info": "[07时20分 ~ 13时53分]"
         }
       ]
     },
@@ -1642,7 +1802,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         }
