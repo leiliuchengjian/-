@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T20:34:15.661328+08:00",
-  "total_titles_processed": 1601,
+  "generated_at": "2026-02-20T21:54:18.298007+08:00",
+  "total_titles_processed": 1717,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 81,
+      "match_count": 84,
       "titles": [
         {
           "title": "美股三大指数高开后悉数转跌，明星科技股普跌，黄金站上5000美元",
@@ -25,11 +25,12 @@
           "ranks": [
             13,
             8,
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时05分 ~ 20时34分]"
+          "appearance_count": 16,
+          "time_info": "[12时05分 ~ 21时54分]"
         },
         {
           "title": "美国向联合国支付1.6亿美元部分欠款",
@@ -540,6 +541,17 @@
           "time_info": "[16时30分 ~ 17时32分]"
         },
         {
+          "title": "静候“美联储最爱通胀指标”，美股期货转跌，黄金站上5040美元，白银突破81美元",
+          "url": "https://wallstreetcn.com/articles/3765902",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时53分 ~ 21时54分]"
+        },
+        {
           "title": "WTI原油日内走低1.00%，现报66.07美元/桶。",
           "url": "https://flash.jin10.com/detail/20260220175113239800",
           "source": "金十数据",
@@ -642,6 +654,17 @@
           "time_info": "15时41分"
         },
         {
+          "title": "美国第四季度年化实际GDP总量初值 241118亿美元，前值240268亿美元。",
+          "url": "https://flash.jin10.com/detail/20260220213526603800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
           "title": "报道：美国银行斥资250亿美元，进军“私人信用”领域，正式开启自营放贷",
           "url": "https://wallstreetcn.com/livenews/3056756",
           "source": "华尔街见闻-快讯",
@@ -717,6 +740,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
+        },
+        {
+          "title": "现货黄金在美国经济数据公布后变化不大，最新上涨0.6%，报每盎司5,026.13美元。",
+          "url": "https://flash.jin10.com/detail/20260220213226406800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
         },
         {
           "title": "美国银行承诺投入250亿美元自有资金用于私募信贷交易。",
@@ -964,7 +998,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "日盟警告:字节AI别来沾边",
@@ -1000,11 +1034,13 @@
             2,
             13,
             7,
-            14
+            14,
+            29,
+            27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时42分 ~ 20时34分]"
+          "appearance_count": 13,
+          "time_info": "[14时42分 ~ 21时54分]"
         },
         {
           "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
@@ -1020,20 +1056,6 @@
           "time_info": "[00时40分 ~ 12时06分]"
         },
         {
-          "title": "西方跳脚:东大AI惹怒上帝",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350778&amp;topic_name=%E8%A5%BF%E6%96%B9%E8%B7%B3%E8%84%9A%3A%E4%B8%9C%E5%A4%A7AI%E6%83%B9%E6%80%92%E4%B8%8A%E5%B8%9D",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            13,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时40分 ~ 20时34分]"
-        },
-        {
           "title": "澎湃AI晚新闻丨2026年2月19日",
           "url": "https://m.thepaper.cn/newsDetail_forward_32633724",
           "source": "澎湃新闻",
@@ -1043,11 +1065,27 @@
             14,
             13,
             12,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时05分 ~ 20时34分]"
+          "appearance_count": 16,
+          "time_info": "[12时05分 ~ 21时54分]"
+        },
+        {
+          "title": "西方跳脚:东大AI惹怒上帝",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350778&amp;topic_name=%E8%A5%BF%E6%96%B9%E8%B7%B3%E8%84%9A%3A%E4%B8%9C%E5%A4%A7AI%E6%83%B9%E6%80%92%E4%B8%8A%E5%B8%9D",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            13,
+            16,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 28,
+          "time_info": "[00时40分 ~ 21时54分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -1057,11 +1095,12 @@
             12,
             16,
             19,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时40分 ~ 20时34分]"
+          "appearance_count": 28,
+          "time_info": "[00时40分 ~ 21时54分]"
         },
         {
           "title": "男子用AI鉴定玉石8个月收入上百万",
@@ -1102,19 +1141,6 @@
           "time_info": "[00时40分 ~ 09时07分]"
         },
         {
-          "title": "男子用AI鉴定玉石8个月收入上百万",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%94%A8AI%E9%89%B4%E5%AE%9A%E7%8E%89%E7%9F%B38%E4%B8%AA%E6%9C%88%E6%94%B6%E5%85%A5%E4%B8%8A%E7%99%BE%E4%B8%87%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14,
-            4,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时31分 ~ 20时34分]"
-        },
-        {
           "title": "日本首相施政演讲：打破“过度财政紧缩”，暂停食品消费税，加大投资AI等产业",
           "url": "https://wallstreetcn.com/articles/3765896",
           "source": "华尔街见闻",
@@ -1122,6 +1148,19 @@
             10,
             8,
             7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时31分 ~ 21时54分]"
+        },
+        {
+          "title": "男子用AI鉴定玉石8个月收入上百万",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%94%A8AI%E9%89%B4%E5%AE%9A%E7%8E%89%E7%9F%B38%E4%B8%AA%E6%9C%88%E6%94%B6%E5%85%A5%E4%B8%8A%E7%99%BE%E4%B8%87%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            4,
+            16
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -1163,15 +1202,16 @@
           "time_info": "12时06分"
         },
         {
-          "title": "OpenAI CEO Sam Altman：对儿童社交媒体的限制将是好事。",
-          "url": "https://wallstreetcn.com/livenews/3056937",
-          "source": "华尔街见闻-快讯",
+          "title": "港股科技股分化：“AI新贵”受追捧，\"变现担忧\"拖累互联网巨头",
+          "url": "https://wallstreetcn.com/articles/3765898",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时34分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时24分 ~ 21时54分]"
         },
         {
           "title": "芯片初创公司Taalas融资1.69 亿美元，研发AI芯片挑战英伟达",
@@ -1188,6 +1228,19 @@
           "time_info": "[01时43分 ~ 04时22分]"
         },
         {
+          "title": "印度发布关于印度与美国人工智能合作机遇的联合声明。",
+          "url": "https://wallstreetcn.com/livenews/3056926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时24分 ~ 21时54分]"
+        },
+        {
           "title": "希腊启动“灯塔”项目推动人工智能发展",
           "url": "https://wallstreetcn.com/livenews/3056886",
           "source": "华尔街见闻-快讯",
@@ -1198,18 +1251,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时41分 ~ 16时30分]"
-        },
-        {
-          "title": "印度发布关于印度与美国人工智能合作机遇的联合声明。",
-          "url": "https://wallstreetcn.com/livenews/3056926",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时24分 ~ 20时34分]"
         },
         {
           "title": "谷歌(GOOG.O)：将继续投资于人工智能驱动的防御措施，并为安卓开发者提供构建安全应用所需的工具。",
@@ -1251,6 +1292,18 @@
           "time_info": "[02时39分 ~ 04时22分]"
         },
         {
+          "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
+          "url": "https://www.cls.cn/detail/2292111",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时33分 ~ 21时54分]"
+        },
+        {
           "title": "希腊启动“灯塔”项目推动人工智能发展",
           "url": "https://flash.jin10.com/detail/20260220151207607800",
           "source": "金十数据",
@@ -1275,6 +1328,18 @@
           "time_info": "[19时24分 ~ 20时34分]"
         },
         {
+          "title": "OpenAI CEO Sam Altman：对儿童社交媒体的限制将是好事。",
+          "url": "https://wallstreetcn.com/livenews/3056937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时34分 ~ 21时54分]"
+        },
+        {
           "title": "什么样的软件会被AI淘汰？",
           "url": "https://wallstreetcn.com/articles/3765860",
           "source": "华尔街见闻",
@@ -1285,6 +1350,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时21分 ~ 09时07分]"
+        },
+        {
+          "title": "首席展望｜嘉实基金方晗：马年看好AI扩散、供需改善及顺周期修复主线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32629236",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时33分 ~ 21时54分]"
         },
         {
           "title": "美国两大人工智能巨头CEO拒绝牵手",
@@ -1299,18 +1376,6 @@
           "time_info": "[01时42分 ~ 07时21分]"
         },
         {
-          "title": "港股科技股分化：“AI新贵”受追捧，\"变现担忧\"拖累互联网巨头",
-          "url": "https://wallstreetcn.com/articles/3765898",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时24分 ~ 20时34分]"
-        },
-        {
           "title": "我国科学家用天文AI模型绘制“极致深空图”",
           "url": "https://wallstreetcn.com/livenews/3056907",
           "source": "华尔街见闻-快讯",
@@ -1322,6 +1387,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时32分 ~ 19时24分]"
+        },
+        {
+          "title": "Seedance2.0春晚出圈，AI视频应用浮现哪些风口？",
+          "url": "https://www.cls.cn/detail/2291704",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时24分 ~ 21时54分]"
         },
         {
           "title": "印度AI峰会出现尴尬一幕：OpenAI与Anthropic的老板们拒绝牵手",
@@ -1399,17 +1476,6 @@
           "time_info": "[16时30分 ~ 17时32分]"
         },
         {
-          "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
-          "url": "https://www.cls.cn/detail/2292111",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时33分 ~ 20时34分]"
-        },
-        {
           "title": "港股AI应用股走强",
           "url": "https://www.toutiao.com/trending/7608512973753679914/",
           "source": "今日头条",
@@ -1421,15 +1487,27 @@
           "time_info": "[12时05分 ~ 12时06分]"
         },
         {
-          "title": "首席展望｜嘉实基金方晗：马年看好AI扩散、供需改善及顺周期修复主线",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32629236",
+          "title": "港股“AI新秀”板块逆势狂飙",
+          "url": "https://www.toutiao.com/trending/7608932922317344275/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时53分 ~ 21时54分]"
+        },
+        {
+          "title": "我国科学家用天文AI模型绘制“极致深空图”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32636176",
           "source": "澎湃新闻",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时33分 ~ 20时34分]"
+          "time_info": "[21时53分 ~ 21时54分]"
         },
         {
           "title": "据英国金融时报：马克·扎克伯格削减成本以为巨额人工智能支出留出资金，大多数Meta公司员工的股权奖励将减少5%。",
@@ -1463,17 +1541,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
-        },
-        {
-          "title": "Seedance2.0春晚出圈，AI视频应用浮现哪些风口？",
-          "url": "https://www.cls.cn/detail/2291704",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时24分"
         },
         {
           "title": "英伟达接近敲定300亿美元投资OpenAI 取代原1000亿合作计划",
@@ -1589,7 +1656,7 @@
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 22,
+      "match_count": 35,
       "titles": [
         {
           "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
@@ -1601,8 +1668,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[06时21分 ~ 20时34分]"
+          "appearance_count": 20,
+          "time_info": "[06时21分 ~ 21时54分]"
         },
         {
           "title": "特朗普阵营的坚定降息派动摇了？美联储理事米兰：劳动力市场改善可令今年少些降息",
@@ -1615,8 +1682,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时05分 ~ 20时34分]"
+          "appearance_count": 16,
+          "time_info": "[12时05分 ~ 21时54分]"
         },
         {
           "title": "美联储会议纪要暴巨大分歧：一些官员支持进一步降息，一些暗示加息可能",
@@ -1652,6 +1719,28 @@
           "time_info": "09时07分"
         },
         {
+          "title": "德国财政部长克林拜尔谈欧洲央行行长拉加德的任期：这只是猜测，我不会参与猜测。",
+          "url": "https://flash.jin10.com/detail/20260220214111739800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
+          "title": "最新经济数据公布后，美国短期利率期货变化不大；交易员仍坚持押注美联储将在6月降息。",
+          "url": "https://flash.jin10.com/detail/20260220213948721800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
           "title": "景顺与卡米尼亚克做空美债，看淡美联储降息空间",
           "url": "https://wallstreetcn.com/livenews/3056819",
           "source": "华尔街见闻-快讯",
@@ -1662,6 +1751,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时21分 ~ 09时07分]"
+        },
+        {
+          "title": "过年县城物价更贵吗",
+          "url": "https://search.bilibili.com/all?keyword=%E8%BF%87%E5%B9%B4%E5%8E%BF%E5%9F%8E%E7%89%A9%E4%BB%B7%E6%9B%B4%E8%B4%B5%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时33分 ~ 21时54分]"
         },
         {
           "title": "欧洲央行：因资本要求申报不当，欧洲央行对摩根大通处以两项共计1218万欧元的罚款。",
@@ -1724,15 +1824,15 @@
           "time_info": "[09时07分 ~ 12时06分]"
         },
         {
-          "title": "过年县城物价更贵吗",
-          "url": "https://search.bilibili.com/all?keyword=%E8%BF%87%E5%B9%B4%E5%8E%BF%E5%9F%8E%E7%89%A9%E4%BB%B7%E6%9B%B4%E8%B4%B5%E5%90%97",
-          "source": "bilibili 热搜",
+          "title": "美联储纪要曝利率路线裂痕：降息、暂停、加息三派混战",
+          "url": "https://www.cls.cn/detail/2291646",
+          "source": "财联社热门",
           "ranks": [
-            27
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时33分 ~ 20时34分]"
+          "time_info": "[21时53分 ~ 21时54分]"
         },
         {
           "title": "高盛：央行购金叠加私人投资 金价年底前将缓慢攀升至5400美元",
@@ -1744,6 +1844,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
+        },
+        {
+          "title": "美国第四季度PCE物价指数年率初值 2.8%，前值2.7%。",
+          "url": "https://flash.jin10.com/detail/20260220213433403800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
+          "title": "美国第四季度核心PCE物价指数年率初值 2.9%，前值2.9%。",
+          "url": "https://flash.jin10.com/detail/20260220213413047800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
         },
         {
           "title": "新西兰联储主席布雷曼：通胀路径一直坎坷。通胀压力并不像消费者物价指数所显示的那样高。",
@@ -1763,7 +1885,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
         },
@@ -1774,9 +1896,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
+        },
+        {
+          "title": "美国12月核心PCE物价指数月率录得0.4%，为2025年2月以来新高，市场预期为0.3%。",
+          "url": "https://flash.jin10.com/detail/20260220213125984800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
+          "title": "美国核心PCE物价指数年率高于预期",
+          "url": "https://flash.jin10.com/detail/20260220213100552800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
         },
         {
           "title": "韩国央行：韩国2025年12月底家庭信贷环比增长0.7%，9月底为增长0.8%。",
@@ -1790,6 +1934,39 @@
           "time_info": "12时06分"
         },
         {
+          "title": "加拿大1月工业品物价指数年率 5.4%，前值4.9%。",
+          "url": "https://flash.jin10.com/detail/20260220213014636800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
+          "title": "加拿大1月工业品物价指数月率 2.7%，预期0.20%，前值-0.60%。",
+          "url": "https://flash.jin10.com/detail/20260220213014635800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
+          "title": "美国12月核心PCE物价指数年率 3%，预期2.90%，前值2.80%。",
+          "url": "https://flash.jin10.com/detail/20260220213010954801",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
           "title": "美联储戴利：在降息75个基点后，劳动力市场状况更好了。",
           "url": "https://flash.jin10.com/detail/20260220061648624800",
           "source": "金十数据",
@@ -1799,6 +1976,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "美国12月PCE物价指数年率 2.9%，预期2.80%，前值2.80%。",
+          "url": "https://flash.jin10.com/detail/20260220213010954800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
+          "title": "美国12月核心PCE物价指数月率 0.4%，预期0.30%，前值0.20%。",
+          "url": "https://flash.jin10.com/detail/20260220213010953800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
         },
         {
           "title": "美国至2月20日当周外国央行持有美国国债 -100.17亿美元，前值141.2亿美元。",
@@ -1834,6 +2033,17 @@
           "time_info": "13时45分"
         },
         {
+          "title": "美国12月PCE物价指数月率 0.4%，预期0.30%，前值0.20%。",
+          "url": "https://flash.jin10.com/detail/20260220213010927800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
           "title": "日本1月全国未季调CPI月率 -0.1%，前值-0.2%。",
           "url": "https://flash.jin10.com/detail/20260220073146036800",
           "source": "金十数据",
@@ -1858,11 +2068,12 @@
             6,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时40分 ~ 20时34分]"
+          "appearance_count": 28,
+          "time_info": "[00时40分 ~ 21时54分]"
         },
         {
           "title": "原来公募春节前就在集中调研，机器人、半导体、有色金属都是调研热点",
@@ -1877,8 +2088,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[03时33分 ~ 20时34分]"
+          "appearance_count": 24,
+          "time_info": "[03时33分 ~ 21时54分]"
         },
         {
           "title": "“存储荒”愈演愈烈！三星HBM4据称涨价30% 韩国“芯片双雄”积极扩产",
@@ -1894,8 +2105,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时40分 ~ 20时34分]"
+          "appearance_count": 28,
+          "time_info": "[00时40分 ~ 21时54分]"
         },
         {
           "title": "黄仁勋预告“前所未见”的芯片新品，下一代Feynman架构或成焦点",
@@ -1918,11 +2129,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时40分 ~ 20时34分]"
+          "appearance_count": 28,
+          "time_info": "[00时40分 ~ 21时54分]"
         },
         {
           "title": "AMD将支持3亿美元Crosoe贷款。 Crusoe这笔贷款来自高盛集团，将由芯片产品担保。 Crusoe将把AMD芯片作为债务抵押品。 如果没有客户资金，AMD将从Crusoe租赁芯片。 AMD的支持帮助Crusoe将贷款利率锁定在6%附近。（The Information）",
@@ -1965,8 +2177,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时31分 ~ 20时34分]"
+          "appearance_count": 9,
+          "time_info": "[17时31分 ~ 21时54分]"
         },
         {
           "title": "港股马年首个交易日：恒科指跌超2%，大模型和存储逆势大涨，机器人延续涨势",
@@ -2104,6 +2316,49 @@
       ]
     },
     {
+      "keyword_group": "苹果 iPhone",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "巴菲特交棒前最后一份13F：减持苹果和美银 加仓能源与保险",
+          "url": "https://www.cls.cn/detail/2291376",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 26,
+          "time_info": "[00时40分 ~ 20时34分]"
+        },
+        {
+          "title": "王腾回应换iPhone17",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%85%BE%E5%9B%9E%E5%BA%94%E6%8D%A2iPhone17%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时31分 ~ 19时24分]"
+        },
+        {
+          "title": "王腾将手机从红米换成iPhone17",
+          "url": "https://www.toutiao.com/trending/7608856267226349609/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        }
+      ]
+    },
+    {
       "keyword_group": "房地产 房价 楼市 LPR",
       "match_count": 2,
       "titles": [
@@ -2161,34 +2416,30 @@
       ]
     },
     {
-      "keyword_group": "苹果 iPhone",
+      "keyword_group": "新能源汽车 电动汽车 智能驾驶",
       "match_count": 2,
       "titles": [
         {
-          "title": "巴菲特交棒前最后一份13F：减持苹果和美银 加仓能源与保险",
-          "url": "https://www.cls.cn/detail/2291376",
-          "source": "财联社热门",
+          "title": "春节新能源汽车高速充电大增",
+          "url": "https://www.douyin.com/hot/2407147",
+          "source": "抖音",
           "ranks": [
-            7,
-            8,
-            9
+            3
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时40分 ~ 20时34分]"
+          "appearance_count": 2,
+          "time_info": "[21时53分 ~ 21时54分]"
         },
         {
-          "title": "王腾回应换iPhone17",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%85%BE%E5%9B%9E%E5%BA%94%E6%8D%A2iPhone17%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
+          "title": "周四（2月19日），彭博电动汽车价格回报指数涨0.20%，报3647.64点。",
+          "url": "https://wallstreetcn.com/livenews/3056779",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            9,
-            29
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时31分 ~ 19时24分]"
+          "appearance_count": 1,
+          "time_info": "06时21分"
         }
       ]
     },
@@ -2206,8 +2457,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时27分 ~ 20时34分]"
+          "appearance_count": 7,
+          "time_info": "[18时27分 ~ 21时54分]"
         },
         {
           "title": "特斯拉在美国推出更经济实惠的Cybertruck车型",
@@ -2232,11 +2483,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            24
+            24,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时42分 ~ 20时34分]"
+          "appearance_count": 13,
+          "time_info": "[14时42分 ~ 21时54分]"
         },
         {
           "title": "大学生带娃崩溃 收到红包一秒变脸",
@@ -2251,23 +2503,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[15时41分 ~ 18时28分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源汽车 电动汽车 智能驾驶",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周四（2月19日），彭博电动汽车价格回报指数涨0.20%，报3647.64点。",
-          "url": "https://wallstreetcn.com/livenews/3056779",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
         }
       ]
     },
