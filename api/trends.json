@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T15:43:59.778457+08:00",
-  "total_titles_processed": 1254,
+  "generated_at": "2026-02-24T16:35:11.397935+08:00",
+  "total_titles_processed": 1340,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 48,
+      "match_count": 50,
       "titles": [
         {
           "title": "春节期间金价站上5100美元，地缘风险催化“硬通货”避险属性|新春万象录",
@@ -37,9 +37,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
+        },
+        {
+          "title": "美元兑日元USD/JPY日内涨超1.00%，现报156.18。",
+          "url": "https://flash.jin10.com/detail/20260224162232203800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "全球原油超级油轮长租成本飙升至超过9.2万美元/天，创历史新高",
@@ -54,6 +65,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时05分 ~ 03时52分]"
+        },
+        {
+          "title": "在岸人民币兑美元升穿6.89关口，创2023年5月初以来高位，日内涨逾100点。",
+          "url": "https://wallstreetcn.com/livenews/3057987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "周一（2月23日），美联储隔夜逆回购协议（RRP）使用规模为8.77亿美元（交易对手7家），上个交易日报4.96亿美元。",
@@ -422,7 +444,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
@@ -543,7 +565,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
@@ -562,7 +584,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 42,
+      "match_count": 43,
       "titles": [
         {
           "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
@@ -597,11 +619,23 @@
           "ranks": [
             10,
             9,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[05时35分 ~ 15时43分]"
+          "appearance_count": 12,
+          "time_info": "[05时35分 ~ 16时35分]"
+        },
+        {
+          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
+          "url": "https://wallstreetcn.com/articles/3765966",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时09分 ~ 16时35分]"
         },
         {
           "title": "高盛评\"春晚机器人\"：硬件显著进步，推动应用普及，未来关键是底层AI",
@@ -615,6 +649,19 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[01时05分 ~ 09时08分]"
+        },
+        {
+          "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
+          "url": "https://wallstreetcn.com/articles/3766006",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时08分 ~ 16时35分]"
         },
         {
           "title": "港股收盘 | 三大指数集体回暖均涨超2% AI主线出现分化行情",
@@ -655,17 +702,6 @@
           "time_info": "[06时30分 ~ 07时27分]"
         },
         {
-          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
-          "url": "https://wallstreetcn.com/articles/3765966",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时09分 ~ 15时43分]"
-        },
-        {
           "title": "美股收盘：关税风波+AI“鬼故事”袭扰 三大指数承压下挫",
           "url": "https://www.cls.cn/detail/2293058",
           "source": "财联社热门",
@@ -676,19 +712,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时08分 ~ 14时46分]"
-        },
-        {
-          "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
-          "url": "https://wallstreetcn.com/articles/3766006",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时08分 ~ 15时43分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金五连涨，期银一度涨近8%",
@@ -726,6 +749,31 @@
           "time_info": "[01时05分 ~ 04时34分]"
         },
         {
+          "title": "Hirai为何当选韩国亚运会LOL队教练",
+          "url": "https://search.bilibili.com/all?keyword=Hirai%E4%B8%BA%E4%BD%95%E5%BD%93%E9%80%89%E9%9F%A9%E5%9B%BD%E4%BA%9A%E8%BF%90%E4%BC%9ALOL%E9%98%9F%E6%95%99%E7%BB%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            20,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时09分 ~ 16时35分]"
+        },
+        {
+          "title": "全球AI恐慌交易中亚洲有望成结构性赢家 Citrini报告中已埋有伏笔",
+          "url": "https://wallstreetcn.com/livenews/3057992",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "春节旅游市场迎结构性转变，AI入局成为新亮点",
           "url": "https://wallstreetcn.com/livenews/3057701",
           "source": "华尔街见闻-快讯",
@@ -737,15 +785,43 @@
           "time_info": "07时27分"
         },
         {
-          "title": "美称中国一人工智能企业违反美出口管制，外交部：中方已多次表明原则立场",
-          "url": "https://wallstreetcn.com/livenews/3057967",
-          "source": "华尔街见闻-快讯",
+          "title": "英伟达财报周四登场：恐慌风暴席卷之际 “AI宠儿”能否力挽狂澜？",
+          "url": "https://www.cls.cn/detail/2293343",
+          "source": "财联社热门",
           "ranks": [
-            3
+            11,
+            5,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时43分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时46分 ~ 16时35分]"
+        },
+        {
+          "title": "人形机器人门诊“上岗”！一家地市级三甲医院的AI落地样本|AI重塑医疗",
+          "url": "https://www.cls.cn/detail/2293346",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时53分 ~ 16时35分]"
+        },
+        {
+          "title": "聚焦人工智能、低空经济！解码各地“新春第一会”",
+          "url": "https://www.cls.cn/detail/2293337",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时43分 ~ 16时35分]"
         },
         {
           "title": "Citrini报告作者：文章引发的AI恐慌超预期",
@@ -796,16 +872,16 @@
           "time_info": "[03时52分 ~ 04时34分]"
         },
         {
-          "title": "英伟达财报周四登场：恐慌风暴席卷之际 “AI宠儿”能否力挽狂澜？",
-          "url": "https://www.cls.cn/detail/2293343",
-          "source": "财联社热门",
+          "title": "美称中国一人工智能企业违反美出口管制，外交部：中方已多次表明原则立场",
+          "url": "https://wallstreetcn.com/livenews/3057967",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            5
+            3,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时46分 ~ 15时43分]"
+          "time_info": "[15时43分 ~ 16时35分]"
         },
         {
           "title": "欧洲央行行长拉加德：欧洲仍可从人工智能中获益。",
@@ -842,33 +918,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时34分 ~ 05时35分]"
-        },
-        {
-          "title": "Hirai为何当选韩国亚运会LOL队教练",
-          "url": "https://search.bilibili.com/all?keyword=Hirai%E4%B8%BA%E4%BD%95%E5%BD%93%E9%80%89%E9%9F%A9%E5%9B%BD%E4%BA%9A%E8%BF%90%E4%BC%9ALOL%E9%98%9F%E6%95%99%E7%BB%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            20,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时09分 ~ 15时43分]"
-        },
-        {
-          "title": "人形机器人门诊“上岗”！一家地市级三甲医院的AI落地样本|AI重塑医疗",
-          "url": "https://www.cls.cn/detail/2293346",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时53分 ~ 15时43分]"
         },
         {
           "title": "加拿大人工智能部长将于周二会见OpenAI安全团队。",
@@ -954,17 +1003,6 @@
           "time_info": "14时46分"
         },
         {
-          "title": "聚焦人工智能、低空经济！解码各地“新春第一会”",
-          "url": "https://www.cls.cn/detail/2293337",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时43分"
-        },
-        {
           "title": "贸易战画风突变，一个AI向我道歉，一个还在嘴硬",
           "url": "https://news.ifeng.com/c/8qzuXxwgvLV",
           "source": "凤凰网",
@@ -982,7 +1020,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
@@ -1076,7 +1114,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
@@ -1168,6 +1206,18 @@
           "time_info": "[02时57分 ~ 03时52分]"
         },
         {
+          "title": "日元兑美元跌幅扩大至0.77%，此前报道称高市早苗向日本央行表示对进一步加息的担忧。",
+          "url": "https://wallstreetcn.com/livenews/3057949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 16时35分]"
+        },
+        {
           "title": "交易员称，印度央行可能抛售美元以阻止卢比汇率跌破91。",
           "url": "https://flash.jin10.com/detail/20260224114015948800",
           "source": "金十数据",
@@ -1185,7 +1235,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
@@ -1196,7 +1246,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
@@ -1207,7 +1257,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
@@ -1218,18 +1268,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时43分"
-        },
-        {
-          "title": "日元兑美元跌幅扩大至0.77%，此前报道称高市早苗向日本央行表示对进一步加息的担忧。",
-          "url": "https://wallstreetcn.com/livenews/3057949",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
@@ -1284,7 +1323,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
@@ -1295,7 +1334,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
@@ -1306,7 +1345,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
@@ -1317,7 +1356,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
@@ -1339,7 +1378,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
@@ -1350,7 +1389,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         }
@@ -1368,8 +1407,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时05分 ~ 15时43分]"
+          "appearance_count": 18,
+          "time_info": "[01时05分 ~ 16时35分]"
         },
         {
           "title": "王者荣耀新赛季农场玩法首曝",
@@ -1387,6 +1426,32 @@
           "time_info": "[01时05分 ~ 09时08分]"
         },
         {
+          "title": "小米新一代SU7赤霞红亮相",
+          "url": "https://www.douyin.com/hot/2410023",
+          "source": "抖音",
+          "ranks": [
+            15,
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时53分 ~ 16时35分]"
+        },
+        {
+          "title": "华为2025年销售收入超8800亿元",
+          "url": "https://www.toutiao.com/trending/7609335775570395162/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时46分 ~ 16时35分]"
+        },
+        {
           "title": "雷军公布改款小米SU7新配色：赤霞红",
           "url": "https://www.toutiao.com/trending/7609267749390598187/",
           "source": "今日头条",
@@ -1401,18 +1466,6 @@
           "time_info": "[12时09分 ~ 15时43分]"
         },
         {
-          "title": "小米新一代SU7赤霞红亮相",
-          "url": "https://www.douyin.com/hot/2410023",
-          "source": "抖音",
-          "ranks": [
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时53分 ~ 15时43分]"
-        },
-        {
           "title": "纳斯达克金龙中国指数收跌0.95%，报7478.41点。 热门中概股里，网易初步收跌1.7%，百度、小马智行、新东方至少跌约1%，阿里跌0.8%，腾讯、拼多多、小米、理想则至多涨0.9%，比亚迪、美团、百胜中国、文远知行、蔚来至多涨4.5%。 ETF中，中概互联网指数ETF（KWEB）收跌1.28%，中国科技指数ETF（CQQQ）收跌0.50%。 德银嘉实沪深300指数ETF（ASHR）收跌0.26%，XtrackersHarvest中证50（ASHS）收涨0.07%。",
           "url": "https://wallstreetcn.com/livenews/3057650",
           "source": "华尔街见闻-快讯",
@@ -1423,18 +1476,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时35分 ~ 06时31分]"
-        },
-        {
-          "title": "华为2025年销售收入超8800亿元",
-          "url": "https://www.toutiao.com/trending/7609335775570395162/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时46分 ~ 15时43分]"
         },
         {
           "title": "华为2025年销售收入超过8800亿元人民币",
@@ -1465,7 +1506,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         }
@@ -1520,17 +1561,6 @@
           "time_info": "[09时08分 ~ 14时46分]"
         },
         {
-          "title": "韩国消费者对芯片需求的信心升至三个月高位",
-          "url": "https://flash.jin10.com/detail/20260224072152540800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
           "title": "报道：ASML揭秘EUV光源突破，2030年芯片产量有望提升50%",
           "url": "https://wallstreetcn.com/articles/3765998",
           "source": "华尔街见闻",
@@ -1540,8 +1570,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时09分 ~ 15时43分]"
+          "appearance_count": 6,
+          "time_info": "[12时09分 ~ 16时35分]"
+        },
+        {
+          "title": "韩国消费者对芯片需求的信心升至三个月高位",
+          "url": "https://flash.jin10.com/detail/20260224072152540800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时27分"
         },
         {
           "title": "新加坡电信将优先获得部分英伟达下一代芯片。",
@@ -1628,11 +1669,24 @@
           "source": "微博",
           "ranks": [
             11,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时53分 ~ 15时43分]"
+          "appearance_count": 5,
+          "time_info": "[13时53分 ~ 16时35分]"
+        },
+        {
+          "title": "iPhone 18 Pro小批量试产",
+          "url": "https://www.douyin.com/hot/2410005",
+          "source": "抖音",
+          "ranks": [
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时46分 ~ 16时35分]"
         },
         {
           "title": "iPhone18Pro新配色目标一眼最新款",
@@ -1646,18 +1700,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时09分 ~ 14时46分]"
-        },
-        {
-          "title": "iPhone 18 Pro小批量试产",
-          "url": "https://www.douyin.com/hot/2410005",
-          "source": "抖音",
-          "ranks": [
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时46分 ~ 15时43分]"
         },
         {
           "title": "iPhone18Pro小批量试产",
@@ -1774,7 +1816,7 @@
     },
     {
       "keyword_group": "考研 考公 国考",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "考研出分时间",
@@ -1782,11 +1824,12 @@
           "source": "微博",
           "ranks": [
             1,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时08分 ~ 15时43分]"
+          "appearance_count": 7,
+          "time_info": "[09时08分 ~ 16时35分]"
         },
         {
           "title": "已急哭!吧友坐等考研出分",
@@ -1795,11 +1838,12 @@
           "ranks": [
             2,
             5,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时09分 ~ 15时43分]"
+          "appearance_count": 6,
+          "time_info": "[12时09分 ~ 16时35分]"
         },
         {
           "title": "考研查分",
@@ -1807,11 +1851,12 @@
           "source": "微博",
           "ranks": [
             7,
-            5
+            5,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时09分 ~ 15时43分]"
+          "appearance_count": 6,
+          "time_info": "[12时09分 ~ 16时35分]"
         },
         {
           "title": "2026考研出分时间",
@@ -1851,6 +1896,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时09分 ~ 15时43分]"
+        },
+        {
+          "title": "美国考虑对约六个行业加征新一轮关税，可能涵盖大型电池等",
+          "url": "https://wallstreetcn.com/articles/3766022",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
         }
       ]
     },
@@ -2060,11 +2116,12 @@
           "url": "https://wallstreetcn.com/articles/3766024",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时43分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时43分 ~ 16时35分]"
         },
         {
           "title": "创业板指涨幅扩大至2%，沪指涨1.1%，深成指涨1.83%，油气、贵金属、玻纤、被动元件等方向领涨，沪深京三市上涨个股近4300只。",
@@ -2084,9 +2141,48 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房地产 房价 楼市 LPR",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "提醒：北京时间09:00将公布中国2月LPR。",
+          "url": "https://wallstreetcn.com/livenews/3057741",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "金十数据整理：每日房地产行业动态汇总（2026-02-24）",
+          "url": "https://flash.jin10.com/detail/20260224154545806800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
+          "title": "韩国央行调查结果显示，韩国2月住房市场信心创最近三年半最大降幅。 韩国2月住房价格前景指数下滑至108（前值124），创2022年7月份以来最大降幅。 指数若高于100，意味着消费者对房价的预期超过房价下降的预期。",
+          "url": "https://wallstreetcn.com/livenews/3057652",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时31分"
         }
       ]
     },
@@ -2126,37 +2222,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "房地产 房价 楼市 LPR",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "提醒：北京时间09:00将公布中国2月LPR。",
-          "url": "https://wallstreetcn.com/livenews/3057741",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时08分"
-        },
-        {
-          "title": "韩国央行调查结果显示，韩国2月住房市场信心创最近三年半最大降幅。 韩国2月住房价格前景指数下滑至108（前值124），创2022年7月份以来最大降幅。 指数若高于100，意味着消费者对房价的预期超过房价下降的预期。",
-          "url": "https://wallstreetcn.com/livenews/3057652",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
         }
       ]
     },
