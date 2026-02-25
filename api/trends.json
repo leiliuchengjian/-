@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T07:22:23.881186+08:00",
-  "total_titles_processed": 662,
+  "generated_at": "2026-02-25T09:13:56.696778+08:00",
+  "total_titles_processed": 804,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 43,
+      "match_count": 49,
       "titles": [
         {
           "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
@@ -59,11 +59,12 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时46分 ~ 07时22分]"
+          "appearance_count": 10,
+          "time_info": "[02时46分 ~ 09时13分]"
         },
         {
           "title": "李佳薇JKAI声乐大师课",
@@ -92,11 +93,12 @@
             9,
             11,
             5,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 09时13分]"
         },
         {
           "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
@@ -106,11 +108,12 @@
             9,
             8,
             7,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时51分 ~ 07时22分]"
+          "appearance_count": 11,
+          "time_info": "[01时51分 ~ 09时13分]"
         },
         {
           "title": "美称中国一人工智能企业违反美出口管制，外交部：中方已多次表明原则立场",
@@ -139,15 +142,15 @@
           "time_info": "[00时55分 ~ 07时22分]"
         },
         {
-          "title": "反向逻辑：城堡证券驳斥Citrini的“AI危机”设想",
-          "url": "https://wallstreetcn.com/livenews/3058389",
-          "source": "华尔街见闻-快讯",
+          "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
+          "url": "https://wallstreetcn.com/articles/3766041",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时22分"
+          "time_info": "09时13分"
         },
         {
           "title": "Anthropic出手缓解AI担忧，纳指涨超1%，AMD大涨近9%，金银回调",
@@ -156,9 +159,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "方正证券电力设备行业2026年策略：AI大周期开启 海外拓展空间广阔",
+          "url": "https://wallstreetcn.com/livenews/3058417",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
           "title": "文件显示：美国法官驳回xAI针对OpenAI的商业机密诉讼。",
@@ -207,6 +221,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时22分]"
+        },
+        {
+          "title": "反向逻辑：城堡证券驳斥Citrini的“AI危机”设想",
+          "url": "https://wallstreetcn.com/livenews/3058389",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时22分 ~ 09时13分]"
         },
         {
           "title": "路透调查：标普500指数有望在年底前上涨10%，但贸易争端及人工智能带来的颠覆性影响仍存担忧。",
@@ -425,6 +451,17 @@
           "time_info": "[03时44分 ~ 04时25分]"
         },
         {
+          "title": "“AI末日”报告暗示亚洲科技股有望成赢家，作者点名MiniMax与智谱",
+          "url": "https://wallstreetcn.com/articles/3766059",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
           "title": "电费太贵 特朗普将在国情咨文中宣布让科技公司为AI能源买单",
           "url": "https://flash.jin10.com/detail/20260225033807828800",
           "source": "金十数据",
@@ -436,15 +473,37 @@
           "time_info": "04时25分"
         },
         {
+          "title": "“AI末日报告”作者发声：市场恐慌超预期，呼吁征收“AI税”来应对失业",
+          "url": "https://wallstreetcn.com/articles/3766046",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
           "title": "惠普(HPQ.N)CFO：第一季度搭载人工智能技术的个人电脑占总出货量的35%，高于上一季度的30%。",
           "url": "https://flash.jin10.com/detail/20260225064530677800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "印度AI峰会，国际媒体给差评",
+          "url": "https://news.ifeng.com/c/8r1UoAfVAdP",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
           "title": "美联储巴尔金：人工智能将成为提高生产率的又一驱动因素。",
@@ -464,7 +523,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -486,7 +545,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -500,6 +559,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
+        },
+        {
+          "title": "Hirai为何当选韩国亚运会LOL队教练",
+          "url": "https://search.bilibili.com/all?keyword=Hirai%E4%B8%BA%E4%BD%95%E5%BD%93%E9%80%89%E9%9F%A9%E5%9B%BD%E4%BA%9A%E8%BF%90%E4%BC%9ALOL%E9%98%9F%E6%95%99%E7%BB%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
           "title": "Anthropic推出智能体AI工具，针对实现投资银行和人力资源自动化",
@@ -527,7 +597,7 @@
     },
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "马年开门红！沪指放量上涨0.9%，资源股集体爆发，人民币升破6.89，恒科指跌超2%，智谱大涨12%",
@@ -538,8 +608,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 09时13分]"
         },
         {
           "title": "美国纽约州州长Hochul呼吁特朗普政府退还135亿美元关税款项",
@@ -561,7 +631,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -583,7 +653,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -741,9 +811,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "众机构唱多三星电子：存储巨头冲击万亿美元市值门槛",
+          "url": "https://www.cls.cn/detail/2294110",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
           "title": "WTI原油日内跌幅达1.00%，现报65.69美元/桶。",
@@ -774,7 +855,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -881,7 +962,7 @@
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 19,
+      "match_count": 28,
       "titles": [
         {
           "title": "节后首周资金面迎大考 央行开展6000亿元MLF操作 连续12个月加量续做",
@@ -892,8 +973,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 09时13分]"
         },
         {
           "title": "央行宣布6000亿元大动作",
@@ -904,11 +985,12 @@
             10,
             8,
             9,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 09时13分]"
         },
         {
           "title": "贝莱德首席投资官Rick Rieder表示，美联储需要降息。",
@@ -920,6 +1002,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "澳大利亚1月季调后CPI月率 0.5%，前值0.2%。",
+          "url": "https://flash.jin10.com/detail/20260225083051016800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
           "title": "瑞士央行行长施莱格尔：接受调查的瑞士企业中有四分之一受到美国关税的负面影响。目前近三分之一的企业尚未采取任何应对美国关税的措施。",
@@ -1006,6 +1099,17 @@
           "time_info": "[03时44分 ~ 04时25分]"
         },
         {
+          "title": "澳大利亚1月季调后CPI年率 3.8%，前值3.7%。",
+          "url": "https://flash.jin10.com/detail/20260225083043187800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
           "title": "瑞士央行行长施莱格尔：预计未来几个季度通胀将会加速。",
           "url": "https://flash.jin10.com/detail/20260225020008322800",
           "source": "金十数据",
@@ -1015,6 +1119,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时47分"
+        },
+        {
+          "title": "澳元兑美元AUD/USD小幅走高，澳洲1月CPI数据高于预期。",
+          "url": "https://flash.jin10.com/detail/20260225083037239800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
           "title": "瑞士央行行长施莱格尔：瑞士央行预计2026年GDP增速约为1%。",
@@ -1028,6 +1143,17 @@
           "time_info": "02时47分"
         },
         {
+          "title": "澳大利亚CPI数据公布后，澳元兑美元小幅走高，澳洲股指ASX 200指数涨幅收窄至0.6%，澳大利亚3年期国债收益率上行4个基点。",
+          "url": "https://wallstreetcn.com/livenews/3058410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
           "title": "瑞士央行行长施莱格尔：瑞士通胀压力几乎没有变化。",
           "url": "https://flash.jin10.com/detail/20260225015814091800",
           "source": "金十数据",
@@ -1039,6 +1165,39 @@
           "time_info": "02时47分"
         },
         {
+          "title": "澳大利亚1月未季调CPI年率 3.8%，预期3.70%，前值3.80%。",
+          "url": "https://flash.jin10.com/detail/20260225083002844800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "澳大利亚1月未季调CPI月率 0.4%，预期0.26%，前值1%。",
+          "url": "https://flash.jin10.com/detail/20260225083002804800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "澳大利亚1月CPI同比 3.8%，预期 3.7%，前值 3.8%。",
+          "url": "https://wallstreetcn.com/livenews/3058408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
           "title": "瑞士央行行长施莱格尔：2025年瑞士经济增长放缓，但各行业之间存在巨大差异。",
           "url": "https://flash.jin10.com/detail/20260225015347588800",
           "source": "金十数据",
@@ -1048,6 +1207,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时47分"
+        },
+        {
+          "title": "澳大利亚1月未季调CPI年率将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260225082000001800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
           "title": "瑞士央行行长施莱格尔：中期通胀走势对我们很重要。",
@@ -1070,6 +1240,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "高市早苗首度提名央行委员 加息立场或迎关键风向标",
+          "url": "https://flash.jin10.com/detail/20260225074955015800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
           "title": "瑞士央行行长施莱格尔：可能出现几个月的负通胀，但从中期通胀前景来看，这并不构成警讯。",
@@ -1162,6 +1343,18 @@
           "time_info": "[01时51分 ~ 02时47分]"
         },
         {
+          "title": "iPhone18Pro深红色",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E6%B7%B1%E7%BA%A2%E8%89%B2%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时22分 ~ 09时13分]"
+        },
+        {
           "title": "苹果(AAPL.O)：公司股东在年度股东大会上批准了公司所有提案，其中包括对高管薪酬的表决。",
           "url": "https://flash.jin10.com/detail/20260225001613858800",
           "source": "金十数据",
@@ -1171,17 +1364,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
-        },
-        {
-          "title": "iPhone18Pro深红色",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E6%B7%B1%E7%BA%A2%E8%89%B2%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时22分"
         }
       ]
     },
@@ -1203,8 +1385,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 09时13分]"
         },
         {
           "title": "Taalas芯片能否颠覆传统GPU",
@@ -1214,11 +1396,12 @@
             27,
             26,
             24,
-            21
+            21,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时51分 ~ 07时22分]"
+          "appearance_count": 11,
+          "time_info": "[01时51分 ~ 09时13分]"
         },
         {
           "title": "标普500指数收涨52.32点，涨幅0.77%，报6890.07点。 道琼斯工业平均指数收涨370.44点，涨幅0.76%，报49174.50点。 纳斯达克综合指数（纳指）收涨236.409点，涨幅1.05%，报22863.682点。 纳斯达克100指数收涨268.102点，涨幅1.09%，报24977.044点。 纳斯达克生物科技指数收涨0.79%，报6061.80点。 费城半导体指数收涨1.45%，报8332.343点。 费城证交所KBW银行指数收跌0.15%，报161.48点。 道琼斯KBW地区银行指数收跌0.11%，报132.76点。",
@@ -1238,7 +1421,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -1249,9 +1432,65 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为 小米 荣耀",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "小米起诉自媒体侵权，获赔500万",
+          "url": "https://www.cls.cn/detail/2293852",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 09时13分]"
+        },
+        {
+          "title": "小米新一代SU7赤霞红亮相",
+          "url": "https://www.douyin.com/hot/2410023",
+          "source": "抖音",
+          "ranks": [
+            24,
+            29,
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 07时22分]"
+        },
+        {
+          "title": "如何评价懂车帝发布的视频「小米纽北遭法拉利保时捷围剿？冠军车手为何沉默」？",
+          "url": "https://www.zhihu.com/question/2009733369261466626",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "王者荣耀S43新赛季前瞻",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80S43%E6%96%B0%E8%B5%9B%E5%AD%A3%E5%89%8D%E7%9E%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 02时47分]"
         }
       ]
     },
@@ -1267,11 +1506,12 @@
             10,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 09时13分]"
         },
         {
           "title": "美股三大期指集体走高 AMD盘前一度大涨15% | 今夜看点",
@@ -1282,8 +1522,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 09时13分]"
         },
         {
           "title": "美股收盘：三大股指收涨 AMD大涨超8%",
@@ -1307,50 +1547,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "华为 小米 荣耀",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "小米起诉自媒体侵权，获赔500万",
-          "url": "https://www.cls.cn/detail/2293852",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 07时22分]"
-        },
-        {
-          "title": "小米新一代SU7赤霞红亮相",
-          "url": "https://www.douyin.com/hot/2410023",
-          "source": "抖音",
-          "ranks": [
-            24,
-            29,
-            28,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 07时22分]"
-        },
-        {
-          "title": "王者荣耀S43新赛季前瞻",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80S43%E6%96%B0%E8%B5%9B%E5%AD%A3%E5%89%8D%E7%9E%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 02时47分]"
         }
       ]
     },
@@ -1395,6 +1591,45 @@
       ]
     },
     {
+      "keyword_group": "考研 考公 国考",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "已急哭!吧友坐等考研出分",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350890&amp;topic_name=%E5%B7%B2%E6%80%A5%E5%93%AD%21%E5%90%A7%E5%8F%8B%E5%9D%90%E7%AD%89%E8%80%83%E7%A0%94%E5%87%BA%E5%88%86",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 09时13分]"
+        },
+        {
+          "title": "美国考虑对约六个行业加征新一轮关税，可能涵盖大型电池等",
+          "url": "https://wallstreetcn.com/articles/3766022",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 09时13分]"
+        },
+        {
+          "title": "2026考研出分时间",
+          "url": "https://search.bilibili.com/all?keyword=2026%E8%80%83%E7%A0%94%E5%87%BA%E5%88%86%E6%97%B6%E9%97%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
       "match_count": 2,
       "titles": [
@@ -1425,30 +1660,32 @@
       ]
     },
     {
-      "keyword_group": "考研 考公 国考",
+      "keyword_group": "大模型 ChatGPT Kimi Sora OpenAI",
       "match_count": 2,
       "titles": [
         {
-          "title": "已急哭!吧友坐等考研出分",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350890&amp;topic_name=%E5%B7%B2%E6%80%A5%E5%93%AD%21%E5%90%A7%E5%8F%8B%E5%9D%90%E7%AD%89%E8%80%83%E7%A0%94%E5%87%BA%E5%88%86",
-          "source": "贴吧",
+          "title": "Kimi 推出 Kimi Claw 并原生集成 OpenClaw，有哪些技术亮点？",
+          "url": "https://www.zhihu.com/question/2006515599161958531",
+          "source": "知乎",
           "ranks": [
-            15
+            17,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 07时22分]"
+          "appearance_count": 3,
+          "time_info": "[06时24分 ~ 09时13分]"
         },
         {
-          "title": "美国考虑对约六个行业加征新一轮关税，可能涵盖大型电池等",
-          "url": "https://wallstreetcn.com/articles/3766022",
-          "source": "华尔街见闻",
+          "title": "中信证券：国产大模型超预期，重视国产算力投资机遇",
+          "url": "https://wallstreetcn.com/livenews/3058411",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            12
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 07时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         }
       ]
     },
@@ -1461,29 +1698,12 @@
           "url": "https://wallstreetcn.com/livenews/3058384",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大模型 ChatGPT Kimi Sora OpenAI",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Kimi 推出 Kimi Claw 并原生集成 OpenClaw，有哪些技术亮点？",
-          "url": "https://www.zhihu.com/question/2006515599161958531",
-          "source": "知乎",
-          "ranks": [
-            17,
-            6
+            5,
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时24分 ~ 07时22分]"
+          "time_info": "[07时22分 ~ 09时13分]"
         }
       ]
     },
@@ -1516,11 +1736,12 @@
             22,
             17,
             10,
-            15
+            15,
+            27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时46分 ~ 07时22分]"
+          "appearance_count": 10,
+          "time_info": "[02时46分 ~ 09时13分]"
         }
       ]
     }
