@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T04:26:03.600187+08:00",
-  "total_titles_processed": 544,
+  "generated_at": "2026-02-27T05:24:46.248409+08:00",
+  "total_titles_processed": 584,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
         {
           "title": "节后三天人民币兑美元汇率大涨600基点，部分企业结汇意愿有所强化，集中结汇并未出现",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 04时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 05时24分]"
         },
         {
           "title": "中方报告揭露美国利用技术霸权收割全球虚拟货币资产，从陈志案获利达 150 亿美元，会带来哪些影响？",
@@ -25,11 +25,12 @@
           "ranks": [
             3,
             6,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 04时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 05时24分]"
         },
         {
           "title": "究竟是谁在“狂买”人民币",
@@ -53,8 +54,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 04时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 05时24分]"
         },
         {
           "title": "最新报告揭露美用技术霸权收割全球虚拟货币资产，两案获利近200亿美元",
@@ -65,8 +66,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 04时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 05时24分]"
         },
         {
           "title": "人民币对美元即期汇率升破6.85，马年已累计升值近1%",
@@ -77,8 +78,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 04时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 05时24分]"
         },
         {
           "title": "伦敦证券交易所集团-理柏（LSEG Lipper）：2月25日当周，美国杠杆贷款基金流出15.4亿美元，创2025年4月份以来最大。",
@@ -86,11 +87,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            4
+            4,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时37分 ~ 04时26分]"
+          "appearance_count": 3,
+          "time_info": "[03时37分 ~ 05时24分]"
         },
         {
           "title": "WTI 4月原油期货收跌0.21美元，跌幅0.32%，报65.21美元/桶。 NYMEX 3月天然气期货收报2.8270美元/百万英热单位。 NYMEX 3月汽油期货收报2.0323美元/加仑，NYMEX 3月取暖油期货收报2.6125美元/加仑。",
@@ -99,7 +101,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         },
@@ -154,6 +156,19 @@
           "time_info": "[02时38分 ~ 03时37分]"
         },
         {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8500元，较周三夜盘收盘涨92点。成交量600.56亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3059733",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时37分 ~ 05时24分]"
+        },
+        {
           "title": "LME期铜收跌18美元，报13304美元/吨。 LME期铝收跌13美元，报3158美元/吨。 LME期锌收跌10美元，报3378美元/吨。 LME期铅收跌6美元，报1984美元/吨。 LME期镍收跌391美元，报17694美元/吨。 LME期锡收涨736美元，报54434美元/吨。 LME期钴收平，报56290美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3059714",
           "source": "华尔街见闻-快讯",
@@ -167,28 +182,17 @@
           "time_info": "[02时38分 ~ 04时26分]"
         },
         {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8500元，较周三夜盘收盘涨92点。成交量600.56亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3059733",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时37分 ~ 04时26分]"
-        },
-        {
           "title": "WTI原油5分钟内下跌0.95美元/桶，报65.4美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3059726",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12,
-            14
+            14,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时37分 ~ 04时26分]"
+          "appearance_count": 3,
+          "time_info": "[03时37分 ~ 05时24分]"
         },
         {
           "title": "上期所原油期货2604合约夜盘收涨0.74%，报489.80元人民币/桶。 沪金夜盘收跌0.25%，沪银收跌2.93%。",
@@ -196,33 +200,69 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             14,
-            16
+            16,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时37分 ~ 04时26分]"
+          "appearance_count": 3,
+          "time_info": "[03时37分 ~ 05时24分]"
         },
         {
           "title": "人民币稳步升值到底是好是坏",
           "url": "https://www.toutiao.com/trending/7611157549974294066/",
           "source": "今日头条",
           "ranks": [
-            22
+            22,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 01时52分]"
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 05时24分]"
         },
         {
           "title": "美国国务院：将悬赏最高1000万美元，以征集有助于逮捕和/或定罪涉嫌墨西哥锡那罗亚贩毒集团Plaza Bosses的相关信息。",
           "url": "https://flash.jin10.com/detail/20260227033457526800",
           "source": "金十数据",
           "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 05时24分]"
+        },
+        {
+          "title": "周四（2月26日）纽约尾盘，美元兑日元跌0.14%，报156.14日元，日内交投区间为156.43-155.71日元。 欧元兑日元跌0.27%，英镑兑日元跌0.70%。",
+          "url": "https://wallstreetcn.com/livenews/3059748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "周四（2月26日）纽约尾盘，ICE美元指数涨0.08%，报97.775点，日内交投区间为97.489-97.984点。 彭博美元指数涨0.08%，报1188.39点，日内交投区间为1185.03-1190.69点。",
+          "url": "https://wallstreetcn.com/livenews/3059747",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "墨西哥总统：我们接待了可口可乐(KO.N)全球执行董事Henrique Braun，他向我通报了该公司将在我国投资60亿美元的计划。",
+          "url": "https://flash.jin10.com/detail/20260227042850759800",
+          "source": "金十数据",
+          "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时26分"
+          "time_info": "05时24分"
         },
         {
           "title": "新兴市场外汇指数回吐涨幅，哥伦比亚比索等跌幅突出，美元走高。",
@@ -234,6 +274,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        },
+        {
+          "title": "WTI 4月原油期货收跌0.21美元，跌幅0.32%，报65.21美元/桶。 布伦特4月原油期货收报70.75美元/桶。 NYMEX 3月天然气期货收报2.8270美元/百万英热单位。 NYMEX 3月汽油期货收报2.0323美元/加仑，NYMEX 3月取暖油期货收报2.6125美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3059742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         },
         {
           "title": "布伦特原油日内涨幅达2.00%，现报72.18美元/桶。WTI原油日内上涨1.5%，现报66.6美元/桶。",
@@ -316,7 +367,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "强劲财报难解AI担忧，英伟达跌超5%，纳指跌幅扩大至2%，芯片股承压，金涨银跌，油价反弹",
@@ -328,8 +379,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 04时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 05时24分]"
         },
         {
           "title": "英伟达电话会：黄仁勋高呼代理AI拐点已至，“推理即收入”，看好未来太空数据中心",
@@ -340,8 +391,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 04时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 05时24分]"
         },
         {
           "title": "百度第四季度营收327.4亿元，AI算力订阅收入同比增143%｜财报见闻",
@@ -351,8 +402,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 04时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 05时24分]"
         },
         {
           "title": "椭圆变速版see you again",
@@ -364,8 +415,30 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 04时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 05时24分]"
+        },
+        {
+          "title": "美国国防部公开设下最后期限：要求不受限使用Anthropic AI工具",
+          "url": "https://wallstreetcn.com/livenews/3059758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "霍华德·马克斯：伟大投资者在AI最薄弱的领域展现强势",
+          "url": "https://wallstreetcn.com/livenews/3059753",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         },
         {
           "title": "AI圈爆火的FARS是什么",
@@ -431,6 +504,18 @@
           "time_info": "[00时45分 ~ 03时37分]"
         },
         {
+          "title": "标普：基于人工智能驱动的规模和增长增强，将美光科技(MU.O)评级上调至“bbb”，展望积极。",
+          "url": "https://flash.jin10.com/detail/20260227033606328800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 05时24分]"
+        },
+        {
           "title": "据华尔街日报：OpenAI创始人Sam Altman的Tools for Humanity与Gap、Visa、Tinder合作，推广World ID人类验证产品（区分人类与机器人的身份验证技术）。",
           "url": "https://flash.jin10.com/detail/20260227025809636800",
           "source": "金十数据",
@@ -453,17 +538,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时52分 ~ 02时38分]"
-        },
-        {
-          "title": "标普：基于人工智能驱动的规模和增长增强，将美光科技(MU.O)评级上调至“bbb”，展望积极。",
-          "url": "https://flash.jin10.com/detail/20260227033606328800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
         },
         {
           "title": "谷歌：谷歌翻译App在美国和印度上线AI驱动的新功能，网页版也将很快推出。",
@@ -513,7 +587,7 @@
     },
     {
       "keyword_group": "英伟达 台积电 AMD 高通",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "超预期！英伟达Q4营收增73%，Q1指引“炸裂”创新高，黄仁勋上调5000亿收入预期 | 财报见闻",
@@ -523,8 +597,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 04时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 05时24分]"
         },
         {
           "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
@@ -534,8 +608,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 04时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 05时24分]"
         },
         {
           "title": "美股三大期指集体走高 英伟达盘前上涨 | 今夜看点",
@@ -545,8 +619,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 04时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 05时24分]"
         },
         {
           "title": "英伟达财报如此“炸裂”，但为何市场“冷眼相待”？",
@@ -556,8 +630,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 04时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 05时24分]"
         },
         {
           "title": "伯恩斯坦：将英伟达(NVDA.O)目标价从每股275美元上调至每股300美元，维持“跑赢大盘”评级。",
@@ -569,6 +643,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：英伟达是美光科技的最大客户。",
+          "url": "https://flash.jin10.com/detail/20260227045157616800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "中长期美债收益率跌超3个基点，投资者关注英伟达财报和伊朗谈判",
+          "url": "https://wallstreetcn.com/livenews/3059749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         },
         {
           "title": "摩根士丹利：将英伟达(NVDA.O)目标价从250美元上调至260美元， 维持“增持”评级。",
@@ -631,8 +727,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 04时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 05时24分]"
         },
         {
           "title": "春节后民营银行降息潮继续：华瑞银行调整挂牌利率，业内中长期产品已罕见“2”字头",
@@ -643,19 +739,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 04时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 05时24分]"
         },
         {
           "title": "美联储古尔斯比：我属于美联储中对今年降息持最乐观态度的人之一。",
           "url": "https://flash.jin10.com/detail/20260227034109022800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 05时24分]"
         },
         {
           "title": "墨西哥央行行长Victoria Rodriguez：贸易不确定性影响到固定投资。 墨西哥固定投资在2025年萎缩。",
@@ -663,11 +760,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            11
+            11,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时37分 ~ 04时26分]"
+          "appearance_count": 3,
+          "time_info": "[03时37分 ~ 05时24分]"
         },
         {
           "title": "景顺：黄金ETF对央行的吸引力日益增强",
@@ -675,22 +773,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            13
+            13,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时37分 ~ 04时26分]"
+          "appearance_count": 3,
+          "time_info": "[03时37分 ~ 05时24分]"
         },
         {
           "title": "美联储古尔斯比：利率可以下调，但不想在通胀缓解之前就提前大幅降息。",
           "url": "https://flash.jin10.com/detail/20260227034039552800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 05时24分]"
         },
         {
           "title": "墨西哥央行：由于与美国的贸易关系及《美墨加协定》修订前景存在不确定性，投资至少到2026年下半年仍将持续疲软。",
@@ -706,6 +806,60 @@
       ]
     },
     {
+      "keyword_group": "基础设施 基建 地铁 高铁",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "为什么上海没有任何一条地铁通到海边，上海人不喜欢去海边散步吗？",
+          "url": "https://www.zhihu.com/question/2008355761600881770",
+          "source": "知乎",
+          "ranks": [
+            4,
+            7,
+            10,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 04时26分]"
+        },
+        {
+          "title": "DeepSeek联合清北重磅硬核论文：发力智能体底层基建，击穿Agent推理I/O瓶颈",
+          "url": "https://wallstreetcn.com/livenews/3059752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "纳斯达克综合指数、纳斯达克100指数跌超2%。 标普500指数跌超1.2%，道指下跌超200点、跌幅超过0.4%。 半导体指数跌超4.6%，生物科技指数跌2%，罗素2000指数跌0.4%。 北美科技软件股指数ETF涨幅一度收窄至不足1.0%，Salesforce涨幅一度从3.9%收窄至1.5%。 人工智能（AI）基建概念股西部数据一度下跌大约7%，Lumentum控股一度跌约8.5%，希捷科技一度跌约6.7%。",
+          "url": "https://wallstreetcn.com/livenews/3059673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时45分"
+        },
+        {
+          "title": "英伟达跌超3.5%。 人工智能（AI）基建概念股西部数据一度下跌5.1%，Lumentum控股跌5.6%，希捷科技一度跌约4.5%， 美光科技跌约3%；加拿大多伦多上市的Celestica Inc.跌5%。 标普500指数跌幅扩大至0.4%，纳指跌超0.8%，半导体指数跌2.88%。",
+          "url": "https://wallstreetcn.com/livenews/3059656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时45分"
+        }
+      ]
+    },
+    {
       "keyword_group": "苹果 iPhone",
       "match_count": 4,
       "titles": [
@@ -717,8 +871,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 04时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 05时24分]"
         },
         {
           "title": "苹果新品来了",
@@ -729,8 +883,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 04时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 05时24分]"
         },
         {
           "title": "苹果公司：iPhone与iPad获准用于处置机密的北约信息。",
@@ -763,6 +917,19 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "国际数据公司（IDC）：智能手机市场恐将因为存储芯片供应短缺而下滑13%。 预计2026年智能手机发货量11亿部，那将低于（2025年的）12.6亿部。",
+          "url": "https://wallstreetcn.com/livenews/3059731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时37分 ~ 05时24分]"
+        },
+        {
           "title": "国际数据公司（IDC）：智能手机市场预计将因存储芯片短缺而下滑13%。",
           "url": "https://flash.jin10.com/detail/20260227030450673800",
           "source": "金十数据",
@@ -775,27 +942,16 @@
           "time_info": "[03时37分 ~ 04时26分]"
         },
         {
-          "title": "国际数据公司（IDC）：智能手机市场恐将因为存储芯片供应短缺而下滑13%。 预计2026年智能手机发货量11亿部，那将低于（2025年的）12.6亿部。",
-          "url": "https://wallstreetcn.com/livenews/3059731",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时37分 ~ 04时26分]"
-        },
-        {
           "title": "IDC：存储芯片短缺 智能手机市场将大幅萎缩近13%",
           "url": "https://flash.jin10.com/detail/20260227033826048800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 05时24分]"
         },
         {
           "title": "标普500指数跌幅扩大至超过1.1%，科技板块跌超2.5%，电信板块跌1.6%，原材料板块跌1.1%。 道指跌超0.3%，纳指跌超1.8%，半导体指数跌超4.6%。 北美科技软件股指数ETF涨幅收窄至不到1.4%。",
@@ -803,49 +959,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "为什么上海没有任何一条地铁通到海边，上海人不喜欢去海边散步吗？",
-          "url": "https://www.zhihu.com/question/2008355761600881770",
-          "source": "知乎",
-          "ranks": [
-            4,
-            7,
-            10,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 04时26分]"
-        },
-        {
-          "title": "纳斯达克综合指数、纳斯达克100指数跌超2%。 标普500指数跌超1.2%，道指下跌超200点、跌幅超过0.4%。 半导体指数跌超4.6%，生物科技指数跌2%，罗素2000指数跌0.4%。 北美科技软件股指数ETF涨幅一度收窄至不足1.0%，Salesforce涨幅一度从3.9%收窄至1.5%。 人工智能（AI）基建概念股西部数据一度下跌大约7%，Lumentum控股一度跌约8.5%，希捷科技一度跌约6.7%。",
-          "url": "https://wallstreetcn.com/livenews/3059673",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
-        },
-        {
-          "title": "英伟达跌超3.5%。 人工智能（AI）基建概念股西部数据一度下跌5.1%，Lumentum控股跌5.6%，希捷科技一度跌约4.5%， 美光科技跌约3%；加拿大多伦多上市的Celestica Inc.跌5%。 标普500指数跌幅扩大至0.4%，纳指跌超0.8%，半导体指数跌2.88%。",
-          "url": "https://wallstreetcn.com/livenews/3059656",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -866,8 +979,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 04时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 05时24分]"
         },
         {
           "title": "特斯拉与德国工会达成庭外和解协议。",
@@ -906,8 +1019,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 04时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 05时24分]"
         },
         {
           "title": "考研成绩2月28日起陆续公布",
@@ -919,8 +1032,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 04时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 05时24分]"
         },
         {
           "title": "考研成绩2月28日起陆续公布",
@@ -932,8 +1045,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 04时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 05时24分]"
         }
       ]
     },
@@ -949,8 +1062,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 04时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 05时24分]"
         }
       ]
     },
@@ -963,11 +1076,12 @@
           "url": "https://flash.jin10.com/detail/20260227034236518800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 05时24分]"
         }
       ]
     },
@@ -981,11 +1095,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 04时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 05时24分]"
         }
       ]
     }
