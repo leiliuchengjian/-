@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T18:28:08.995199+08:00",
-  "total_titles_processed": 1582,
+  "generated_at": "2026-02-27T19:25:07.475267+08:00",
+  "total_titles_processed": 1689,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 69,
+      "match_count": 71,
       "titles": [
         {
           "title": "节后三天人民币兑美元汇率大涨600基点，部分企业结汇意愿有所强化，集中结汇并未出现",
@@ -167,6 +167,17 @@
           "time_info": "04时26分"
         },
         {
+          "title": "1月我国外汇市场总计成交27.54万亿元人民币",
+          "url": "https://wallstreetcn.com/livenews/3060266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
           "title": "沪锡主力合约日内大涨6.00%，现报443280.00元/吨。伦锡日内涨幅达4.00%，现报56385.00美元/吨。",
           "url": "https://flash.jin10.com/detail/20260227140635267800",
           "source": "金十数据",
@@ -198,6 +209,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
+        },
+        {
+          "title": "花旗：将戴尔(DELL.N)目标价从160美元上调至180美元。",
+          "url": "https://flash.jin10.com/detail/20260227190755061800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
         },
         {
           "title": "周四（2月26日），美联储隔夜逆回购协议（RRP）使用规模为37.96亿美元（交易对手7家），上个交易日报11.59亿美元。",
@@ -416,7 +438,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -427,7 +449,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -658,7 +680,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -845,8 +867,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时06分 ~ 18时28分]"
+          "appearance_count": 12,
+          "time_info": "[09时06分 ~ 19时25分]"
         },
         {
           "title": "AI的未来，马克思已经预言了？",
@@ -856,8 +878,24 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时39分 ~ 18时28分]"
+          "appearance_count": 8,
+          "time_info": "[15时39分 ~ 19时25分]"
+        },
+        {
+          "title": "硅谷“最贵华人”被OpenAI挖走",
+          "url": "https://www.baidu.com/s?wd=%E7%A1%85%E8%B0%B7%E2%80%9C%E6%9C%80%E8%B4%B5%E5%8D%8E%E4%BA%BA%E2%80%9D%E8%A2%ABOpenAI%E6%8C%96%E8%B5%B0",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            5,
+            26,
+            18,
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时44分 ~ 19时25分]"
         },
         {
           "title": "百度电话会：AI云2025年收入达300亿元，算力订阅Q4同比增143%，“萝卜快跑”订单狂飙200%",
@@ -869,8 +907,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时06分 ~ 18时28分]"
+          "appearance_count": 12,
+          "time_info": "[09时06分 ~ 19时25分]"
         },
         {
           "title": "百度第四季度营收327.4亿元，AI算力订阅收入同比增143%｜财报见闻",
@@ -896,11 +934,12 @@
             20,
             16,
             23,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时45分 ~ 18时28分]"
+          "appearance_count": 23,
+          "time_info": "[00时45分 ~ 19时25分]"
         },
         {
           "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
@@ -914,23 +953,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时06分 ~ 18时28分]"
-        },
-        {
-          "title": "硅谷“最贵华人”被OpenAI挖走",
-          "url": "https://www.baidu.com/s?wd=%E7%A1%85%E8%B0%B7%E2%80%9C%E6%9C%80%E8%B4%B5%E5%8D%8E%E4%BA%BA%E2%80%9D%E8%A2%ABOpenAI%E6%8C%96%E8%B5%B0",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            5,
-            26,
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时44分 ~ 18时28分]"
+          "appearance_count": 12,
+          "time_info": "[09时06分 ~ 19时25分]"
         },
         {
           "title": "两会前瞻｜围绕人工智能发展，代表委员将带来哪些建议？",
@@ -944,8 +968,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时03分 ~ 18时28分]"
+          "appearance_count": 10,
+          "time_info": "[12时03分 ~ 19时25分]"
         },
         {
           "title": "美科技大厂因AI裁掉近半员工 奈飞退出华纳兄弟收购案 | 环球市场",
@@ -991,17 +1015,6 @@
           "time_info": "[12时03分 ~ 16时31分]"
         },
         {
-          "title": "【澜起科技：2025年净利润同比增长58.35%】澜起科技公告，公司2025年实现营业收入54.56亿元，较上年度增长49.94%，毛利率为62.23%，较上年度提升4.10个百分点；实现归属于母公司所有者的净利润22.36亿元，较上年度增长58.35%；实现归属于母公司所有者的扣除非经常性损益的净利润20.22亿元，较上年度增长61.95%。受益于AI产业趋势，行业需求旺盛，公司互连类芯片出货量显著增加，推动公司2025年度经营业绩较上年同期实现大幅增长。公司持续加大研发投入，随着公司布局的新产品品类增加，2025年度公司研发费用约为9.15亿元，较上年度增长20%。",
-          "url": "https://wallstreetcn.com/livenews/3060228",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
-        },
-        {
           "title": "融资额大增130% AI制药能否照进现实",
           "url": "https://www.cls.cn/detail/2296887",
           "source": "财联社热门",
@@ -1021,9 +1034,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
+        },
+        {
+          "title": "【澜起科技：2025年净利润同比增长58.35%】澜起科技公告，公司2025年实现营业收入54.56亿元，较上年度增长49.94%，毛利率为62.23%，较上年度提升4.10个百分点；实现归属于母公司所有者的净利润22.36亿元，较上年度增长58.35%；实现归属于母公司所有者的扣除非经常性损益的净利润20.22亿元，较上年度增长61.95%。受益于AI产业趋势，行业需求旺盛，公司互连类芯片出货量显著增加，推动公司2025年度经营业绩较上年同期实现大幅增长。公司持续加大研发投入，随着公司布局的新产品品类增加，2025年度公司研发费用约为9.15亿元，较上年度增长20%。",
+          "url": "https://wallstreetcn.com/livenews/3060228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 19时25分]"
         },
         {
           "title": "美国国防部公开设下最后期限：要求不受限使用Anthropic AI工具",
@@ -1447,8 +1472,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时06分 ~ 18时28分]"
+          "appearance_count": 12,
+          "time_info": "[09时06分 ~ 19时25分]"
         },
         {
           "title": "日本物价居然到这种程度了",
@@ -1466,6 +1491,22 @@
           "time_info": "[00时45分 ~ 09时06分]"
         },
         {
+          "title": "央行决定从 2026 年 3 月 2 日起将远期售汇业务的外汇风险准备金率下调为 0，将有哪些影响？",
+          "url": "https://www.zhihu.com/question/2010646925943255670",
+          "source": "知乎",
+          "ranks": [
+            13,
+            11,
+            9,
+            8,
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时44分 ~ 19时25分]"
+        },
+        {
           "title": "春节后民营银行降息潮继续：华瑞银行调整挂牌利率，业内中长期产品已罕见“2”字头",
           "url": "https://www.cls.cn/detail/2296276",
           "source": "财联社热门",
@@ -1477,21 +1518,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时45分 ~ 07时21分]"
-        },
-        {
-          "title": "央行决定从 2026 年 3 月 2 日起将远期售汇业务的外汇风险准备金率下调为 0，将有哪些影响？",
-          "url": "https://www.zhihu.com/question/2010646925943255670",
-          "source": "知乎",
-          "ranks": [
-            13,
-            11,
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时44分 ~ 18时28分]"
         },
         {
           "title": "时隔三年半 央行调整远期售汇业务外汇风险准备金率 企业远期锁汇成本将大幅降低",
@@ -1718,7 +1744,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -1778,11 +1804,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时30分 ~ 18时28分]"
+          "appearance_count": 7,
+          "time_info": "[16时30分 ~ 19时25分]"
         },
         {
           "title": "芯片制造重大突破？阿斯麦下一代EUV已能用于大规模量产，造价翻倍！",
@@ -1797,6 +1824,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时03分 ~ 16时31分]"
+        },
+        {
+          "title": "中国手机行业将迎来全面涨价，将是 5 年最显著涨幅，存储芯片成本较去年同期上涨超 80%，将产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2010325784494114258",
+          "source": "知乎",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时27分 ~ 19时25分]"
         },
         {
           "title": "芯片涨价潮持续席卷！A股半导体龙头集体提价",
@@ -1816,11 +1855,12 @@
           "url": "https://wallstreetcn.com/livenews/3060227",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 19时25分]"
         },
         {
           "title": "日本芯片制造商Rapidus获得16亿美元政府资金",
@@ -1845,6 +1885,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时06分 ~ 12时03分]"
+        },
+        {
+          "title": "芯片涨价潮持续席卷 原因来了",
+          "url": "https://www.baidu.com/s?wd=%E8%8A%AF%E7%89%87%E6%B6%A8%E4%BB%B7%E6%BD%AE%E6%8C%81%E7%BB%AD%E5%B8%AD%E5%8D%B7+%E5%8E%9F%E5%9B%A0%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时27分 ~ 19时25分]"
         },
         {
           "title": "国际数据公司（IDC）：智能手机市场恐将因为存储芯片供应短缺而下滑13%。 预计2026年智能手机发货量11亿部，那将低于（2025年的）12.6亿部。",
@@ -1896,17 +1947,6 @@
           "time_info": "[04时26分 ~ 05时24分]"
         },
         {
-          "title": "中国手机行业将迎来全面涨价，将是 5 年最显著涨幅，存储芯片成本较去年同期上涨超 80%，将产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2010325784494114258",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 18时28分]"
-        },
-        {
           "title": "中韩半导体ETF午后开盘下挫后快速拉升，一度涨超7%。",
           "url": "https://wallstreetcn.com/livenews/3060003",
           "source": "华尔街见闻-快讯",
@@ -1917,17 +1957,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时44分 ~ 14时39分]"
-        },
-        {
-          "title": "芯片涨价潮持续席卷 原因来了",
-          "url": "https://www.baidu.com/s?wd=%E8%8A%AF%E7%89%87%E6%B6%A8%E4%BB%B7%E6%BD%AE%E6%8C%81%E7%BB%AD%E5%B8%AD%E5%8D%B7+%E5%8E%9F%E5%9B%A0%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 18时28分]"
         },
         {
           "title": "市场消息：英伟达在企业交易上投入了700亿美元，以刺激芯片需求。",
@@ -2032,8 +2061,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时21分 ~ 18时28分]"
+          "appearance_count": 13,
+          "time_info": "[07时21分 ~ 19时25分]"
         },
         {
           "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
@@ -2280,6 +2309,17 @@
           "time_info": "06时23分"
         },
         {
+          "title": "地铁走丢小孩报妈妈电话逗笑众人",
+          "url": "https://www.toutiao.com/trending/7611048066610905139/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时27分 ~ 19时25分]"
+        },
+        {
           "title": "女孩坐高铁经过家门口拍下感人视频",
           "url": "https://www.toutiao.com/trending/7610452496662134838/",
           "source": "今日头条",
@@ -2290,17 +2330,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时06分 ~ 12时03分]"
-        },
-        {
-          "title": "地铁走丢小孩报妈妈电话逗笑众人",
-          "url": "https://www.toutiao.com/trending/7611048066610905139/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 18时28分]"
         },
         {
           "title": "DeepSeek联合清北重磅硬核论文：发力智能体底层基建，击穿Agent推理I/O瓶颈",
@@ -2393,7 +2422,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         }
@@ -2519,47 +2548,8 @@
       ]
     },
     {
-      "keyword_group": "创业板",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "上证指数早盘收报4139.53点，跌0.17%。 深证成指早盘收报14405.75点，跌0.68%。 创业板指早盘收报3296.23点，跌1.46%。 沪深300早盘收报4693.19点，跌0.71%。 科创50早盘收报1476.05点，跌0.66%。 中证500早盘收报8573.46点，涨0.19%。 中证1000早盘收报8501.54点，涨0.13%。",
-          "url": "https://wallstreetcn.com/livenews/3059971",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
-          "title": "2月27日午间收评：创业板指半日跌1.46%，算力租赁、有色板块逆势走强",
-          "url": "https://wallstreetcn.com/livenews/3059969",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
-          "title": "上证指数收报4162.88点，涨0.39%。 深证成指收报14495.09点，跌0.06%。 创业板指收报3310.30点，跌1.04%。 沪深300收报4710.65点，跌0.34%。 科创50收报1488.02点，涨0.15%。 中证500收报8658.45点，涨1.18%。 中证1000收报8560.84点，涨0.83%。",
-          "url": "https://wallstreetcn.com/livenews/3060063",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时39分"
-        }
-      ]
-    },
-    {
       "keyword_group": "考研 考公 国考",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "2026年考研初试成绩将于2月28日起陆续公布",
@@ -2600,11 +2590,62 @@
             12,
             15,
             13,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时45分 ~ 18时28分]"
+          "appearance_count": 23,
+          "time_info": "[00时45分 ~ 19时25分]"
+        },
+        {
+          "title": "2026 年考研初试成绩将于 2 月 28 日起陆续公布，考研出分的前一晚，你是什么状态？过来人有哪些经验分享？",
+          "url": "https://www.zhihu.com/question/2010381674861572552",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时24分 ~ 19时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "创业板",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "上证指数早盘收报4139.53点，跌0.17%。 深证成指早盘收报14405.75点，跌0.68%。 创业板指早盘收报3296.23点，跌1.46%。 沪深300早盘收报4693.19点，跌0.71%。 科创50早盘收报1476.05点，跌0.66%。 中证500早盘收报8573.46点，涨0.19%。 中证1000早盘收报8501.54点，涨0.13%。",
+          "url": "https://wallstreetcn.com/livenews/3059971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "2月27日午间收评：创业板指半日跌1.46%，算力租赁、有色板块逆势走强",
+          "url": "https://wallstreetcn.com/livenews/3059969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "上证指数收报4162.88点，涨0.39%。 深证成指收报14495.09点，跌0.06%。 创业板指收报3310.30点，跌1.04%。 沪深300收报4710.65点，跌0.34%。 科创50收报1488.02点，涨0.15%。 中证500收报8658.45点，涨1.18%。 中证1000收报8560.84点，涨0.83%。",
+          "url": "https://wallstreetcn.com/livenews/3060063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         }
       ]
     },
@@ -2663,8 +2704,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 18时28分]"
+          "appearance_count": 4,
+          "time_info": "[18时27分 ~ 19时25分]"
         }
       ]
     },
