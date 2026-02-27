@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T06:14:24.901043+08:00",
-  "total_titles_processed": 632,
+  "generated_at": "2026-02-28T07:16:40.250628+08:00",
+  "total_titles_processed": 680,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 37,
+      "match_count": 41,
       "titles": [
         {
           "title": "人民币升破6.9对普通人影响有多大",
@@ -16,11 +16,12 @@
             14,
             10,
             4,
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 06时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 07时16分]"
         },
         {
           "title": "网飞拒绝涨价退出，如何评价派拉蒙每股 31 美元预计拿下华纳兄弟？过程中哪些信息值得关注？未来将有何影响？",
@@ -54,7 +55,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
         },
@@ -87,9 +88,22 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
+        },
+        {
+          "title": "美联储：美国上周银行存款18.778万亿美元，之前一周18.764万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3060515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时19分 ~ 07时16分]"
         },
         {
           "title": "周五（2月27日），美联储隔夜逆回购协议（RRP）使用规模为163.18亿美元（交易对手10家），上个交易日报37.96亿美元。",
@@ -103,18 +117,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时27分 ~ 04时19分]"
-        },
-        {
-          "title": "美联储：美国上周银行存款18.778万亿美元，之前一周18.764万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3060515",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 06时14分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8630元，较周四夜盘收盘跌130点。成交量535.90亿美元。",
@@ -240,6 +242,18 @@
           "time_info": "[04时19分 ~ 05时19分]"
         },
         {
+          "title": "美国企业2月披露回购计划达2330亿美元，创历年同期新高",
+          "url": "https://wallstreetcn.com/livenews/3060518",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时14分 ~ 07时16分]"
+        },
+        {
           "title": "周五（2月27日），韩元兑美元最终跌0.46%，报1439.97韩元，2月份累计上涨0.32%，交投于1475.26-1419.33韩元区间。",
           "url": "https://wallstreetcn.com/livenews/3060473",
           "source": "华尔街见闻-快讯",
@@ -323,17 +337,6 @@
           "time_info": "00时29分"
         },
         {
-          "title": "美国企业2月披露回购计划达2330亿美元，创历年同期新高",
-          "url": "https://wallstreetcn.com/livenews/3060518",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时14分"
-        },
-        {
           "title": "数字货币市场最近七天走低，比特币一度涨向7万美元整数位心理关口、但整体累跌约3.5%",
           "url": "https://wallstreetcn.com/livenews/3060428",
           "source": "华尔街见闻-快讯",
@@ -343,6 +346,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "黑石苏世民去年豪赚12.4亿美元，接近历史最高纪录",
+          "url": "https://wallstreetcn.com/livenews/3060539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "离岸人民币2月份涨约1.4%，一度逼近6.82元",
+          "url": "https://wallstreetcn.com/livenews/3060537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "特朗普媒体在2025年合并净亏损7.123亿美元。 期内调整后EBITDA亏损6.644亿美元。 期末金融资产规模25亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3060532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "现货白银日内暴涨6.00%，现报93.58美元/盎司。",
@@ -422,6 +458,17 @@
           "time_info": "00时29分"
         },
         {
+          "title": "派拉蒙将按每股31美元的价格收购华纳兄弟探索",
+          "url": "https://wallstreetcn.com/livenews/3060520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
           "title": "瑞银：美元面临不对称的结构性下行风险",
           "url": "https://wallstreetcn.com/livenews/3060441",
           "source": "华尔街见闻-快讯",
@@ -447,8 +494,32 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "Block裁员近半，飙升24%！CEO：AI提升效率，未来一年大多公司会做类似调整",
+          "url": "https://wallstreetcn.com/articles/3766301",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 07时16分]"
+        },
+        {
+          "title": "AI的未来，马克思已经预言了？",
+          "url": "https://wallstreetcn.com/articles/3766318",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 07时16分]"
+        },
         {
           "title": "超预期PPI打压降息预期，AI担忧发酵，美股指集体低开，金银油携手大涨，美债上扬，人民币贬近150点",
           "url": "https://wallstreetcn.com/articles/3766324",
@@ -463,29 +534,6 @@
           "time_info": "[00时29分 ~ 06时14分]"
         },
         {
-          "title": "Block裁员近半，飙升24%！CEO：AI提升效率，未来一年大多公司会做类似调整",
-          "url": "https://wallstreetcn.com/articles/3766301",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 06时14分]"
-        },
-        {
-          "title": "AI的未来，马克思已经预言了？",
-          "url": "https://wallstreetcn.com/articles/3766318",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 06时14分]"
-        },
-        {
           "title": "澎湃漫评｜警惕！别被“AI孙子”骗了",
           "url": "https://m.thepaper.cn/newsDetail_forward_32666005",
           "source": "澎湃新闻",
@@ -494,8 +542,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 06时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 07时16分]"
         },
         {
           "title": "OpenAI获1100亿美元投资",
@@ -506,8 +554,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 06时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 07时16分]"
         },
         {
           "title": "椭圆变速版see you again",
@@ -518,11 +566,12 @@
             19,
             22,
             26,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 06时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 07时16分]"
         },
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -530,22 +579,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时26分 ~ 06时14分]"
-        },
-        {
-          "title": "周五（2月27日），存储芯片与硬件供应链指数跌1.58%，报111.75点，本周累计下跌2.24%，2月份累计上涨7.84%，整体呈现出V形反转——2月4日显著回落、随后持续回升。 信息科技指数累跌1.38%，报272.08点。 人工智能（AI）赢家指数累跌1.34%，报287.55点。 AI软件先驱指数累跌8.95%，报98.02点。",
-          "url": "https://wallstreetcn.com/livenews/3060521",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时14分"
+          "appearance_count": 9,
+          "time_info": "[01时26分 ~ 07时16分]"
         },
         {
           "title": "美国参议院要求五角大楼与Anthropic解决（与人工智能/AI权限相关的）争端。（Axios）",
@@ -561,6 +600,18 @@
           "time_info": "[02时27分 ~ 04时19分]"
         },
         {
+          "title": "周五（2月27日），存储芯片与硬件供应链指数跌1.58%，报111.75点，本周累计下跌2.24%，2月份累计上涨7.84%，整体呈现出V形反转——2月4日显著回落、随后持续回升。 信息科技指数累跌1.38%，报272.08点。 人工智能（AI）赢家指数累跌1.34%，报287.55点。 AI软件先驱指数累跌8.95%，报98.02点。",
+          "url": "https://wallstreetcn.com/livenews/3060521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时14分 ~ 07时16分]"
+        },
+        {
           "title": "OpenAI将追加融资100亿美元。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3060477",
           "source": "华尔街见闻-快讯",
@@ -571,6 +622,45 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时27分 ~ 04时19分]"
+        },
+        {
+          "title": "估值7300亿美元！OpenAI完成1100亿美元融资，亚马逊投了500亿",
+          "url": "https://wallstreetcn.com/articles/3766389",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时19分 ~ 07时16分]"
+        },
+        {
+          "title": "市场消息：黑石计划成立上市公司，专注于收购人工智能数据中心。",
+          "url": "https://flash.jin10.com/detail/20260228044640466800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时19分 ~ 07时16分]"
+        },
+        {
+          "title": "中国AI调用量超越美国",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDAI%E8%B0%83%E7%94%A8%E9%87%8F%E8%B6%85%E8%B6%8A%E7%BE%8E%E5%9B%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            23,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时19分 ~ 07时16分]"
         },
         {
           "title": "消息人士：布鲁克菲尔德旗下新的人工智能部门Radiant在与英国初创公司Ori合并后，估值达到13亿美元。",
@@ -585,40 +675,26 @@
           "time_info": "[03时27分 ~ 04时19分]"
         },
         {
-          "title": "市场消息：黑石计划成立上市公司，专注于收购人工智能数据中心。",
-          "url": "https://flash.jin10.com/detail/20260228044640466800",
+          "title": "美国总统特朗普：不知为何，我更喜欢通过石油而不是人工智能工厂来赚钱。",
+          "url": "https://flash.jin10.com/detail/20260228060327470800",
           "source": "金十数据",
           "ranks": [
-            8,
-            19
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 06时14分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
-          "title": "估值7300亿美元！OpenAI完成1100亿美元融资，亚马逊投了500亿",
-          "url": "https://wallstreetcn.com/articles/3766389",
-          "source": "华尔街见闻",
+          "title": "微软考虑为Microsoft 365推出人工智能（AI）软件组合。 该公司可能会宣布大改软件组合。 微软可能会对用户收取高达99美元的月费。（Business Insider）",
+          "url": "https://wallstreetcn.com/livenews/3060540",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            9
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 06时14分]"
-        },
-        {
-          "title": "中国AI调用量超越美国",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDAI%E8%B0%83%E7%94%A8%E9%87%8F%E8%B6%85%E8%B6%8A%E7%BE%8E%E5%9B%BD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 06时14分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "美国民主党参议员凯利：（谈Anthropic）国会必须采取行动监管人工智能，保护美国民众。",
@@ -630,6 +706,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        },
+        {
+          "title": "美国总统特朗普：就赚钱而言，相比众多人工智能（AI）工厂、我更喜欢石油。 就打压美国价格而言，降低能源成本是最重要的事情之一。",
+          "url": "https://wallstreetcn.com/livenews/3060531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "人工智能与信贷忧虑重创金融股 KBW银行指数跌近5%",
@@ -649,7 +736,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
         },
@@ -700,6 +787,77 @@
       ]
     },
     {
+      "keyword_group": "基础设施 基建 地铁 高铁",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "男孩地铁走丢 报出妈妈号码逗笑路人",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E5%9C%B0%E9%93%81%E8%B5%B0%E4%B8%A2+%E6%8A%A5%E5%87%BA%E5%A6%88%E5%A6%88%E5%8F%B7%E7%A0%81%E9%80%97%E7%AC%91%E8%B7%AF%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            13,
+            19,
+            26,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 07时16分]"
+        },
+        {
+          "title": "男子高铁抽烟还把脚放窗上",
+          "url": "https://www.toutiao.com/trending/7611101318523355142/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            15,
+            20,
+            22,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 07时16分]"
+        },
+        {
+          "title": "地铁走丢小孩报妈妈电话逗笑众人",
+          "url": "https://www.toutiao.com/trending/7611048066610905139/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 07时16分]"
+        },
+        {
+          "title": "中际旭创2025年净利润同比增长108.81%，算力基础设施投入驱动高速光模块放量 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3766380",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "英国《金融时报》近日爆料称，美国国防部正在寻求美国人工智能企业的合作，以研发出可以对中国的电网等关键基础设施实施攻击的智能化网络战工具。（环球时报）",
+          "url": "https://wallstreetcn.com/livenews/3060391",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "央行 降息 降准 CPI 物价",
       "match_count": 5,
       "titles": [
@@ -709,22 +867,24 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 06时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 07时16分]"
         },
         {
           "title": "2月份，美股降息赢家指数累跌3.23%，报98.28点，2月12日以来持续回撤。 “特朗普关税输家”指数累涨1.39%，报114.47点。 “特朗普金融指数”累跌9.18%，报154.50点。 散户抱团概念股指数/迷因股（meme stock）指数累跌6.11%，报13.26点。",
           "url": "https://wallstreetcn.com/livenews/3060522",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时14分 ~ 07时16分]"
         },
         {
           "title": "美联储理事米兰：重申2026年需降息100个基点，警告过度监管扭曲信贷结构",
@@ -762,63 +922,6 @@
       ]
     },
     {
-      "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "男孩地铁走丢 报出妈妈号码逗笑路人",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E5%9C%B0%E9%93%81%E8%B5%B0%E4%B8%A2+%E6%8A%A5%E5%87%BA%E5%A6%88%E5%A6%88%E5%8F%B7%E7%A0%81%E9%80%97%E7%AC%91%E8%B7%AF%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            13,
-            19,
-            26,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 06时14分]"
-        },
-        {
-          "title": "男子高铁抽烟还把脚放窗上",
-          "url": "https://www.toutiao.com/trending/7611101318523355142/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            15,
-            20,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 04时19分]"
-        },
-        {
-          "title": "英国《金融时报》近日爆料称，美国国防部正在寻求美国人工智能企业的合作，以研发出可以对中国的电网等关键基础设施实施攻击的智能化网络战工具。（环球时报）",
-          "url": "https://wallstreetcn.com/livenews/3060391",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        },
-        {
-          "title": "地铁走丢小孩报妈妈电话逗笑众人",
-          "url": "https://www.toutiao.com/trending/7611048066610905139/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        }
-      ]
-    },
-    {
       "keyword_group": "半导体 芯片 集成电路",
       "match_count": 4,
       "titles": [
@@ -831,8 +934,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 06时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 07时16分]"
         },
         {
           "title": "标普500指数收跌29.98点，跌幅0.43%，报6878.88点。 道琼斯工业平均指数收跌521.28点，跌幅1.05%，报48977.92点。 纳斯达克综合指数（纳指）收跌210.171点，跌幅0.92%，报22668.212点。 纳斯达克100指数收跌74.335点，跌幅0.30%，报24960.035。 纳斯达克生物科技指数收涨0.89，报6041.31点。 费城半导体指数收跌1.21%，报8098.371点。 费城证交所KBW银行指数收跌4.85%，报159.18点。",
@@ -883,8 +986,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 06时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 07时16分]"
         },
         {
           "title": "特朗普在Truth Social上发布了一封关于政治行动的FTC信件，其中提到苹果(AAPL.O)。",
@@ -896,6 +999,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英伟达 台积电 AMD 高通",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "英伟达重挫引发板块轮动，软件股上演逼空，避险情绪撑债汇齐涨，金涨银跌，纽铜三连涨",
+          "url": "https://wallstreetcn.com/articles/3766225",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 06时14分]"
+        },
+        {
+          "title": "美股收盘：英伟达再度蒸发万亿市值 金融板块全线重挫",
+          "url": "https://www.cls.cn/detail/2297908",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         }
       ]
     },
@@ -934,8 +1065,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 06时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 07时16分]"
         }
       ]
     },
@@ -957,23 +1088,6 @@
       ]
     },
     {
-      "keyword_group": "英伟达 台积电 AMD 高通",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "英伟达重挫引发板块轮动，软件股上演逼空，避险情绪撑债汇齐涨，金涨银跌，纽铜三连涨",
-          "url": "https://wallstreetcn.com/articles/3766225",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 06时14分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "考研 考公 国考",
       "match_count": 1,
       "titles": [
@@ -987,8 +1101,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 06时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 07时16分]"
         }
       ]
     },
@@ -1001,11 +1115,12 @@
           "url": "https://www.douyin.com/hot/2413112",
           "source": "抖音",
           "ranks": [
-            23
+            23,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时14分 ~ 07时16分]"
         }
       ]
     }
