@@ -1,33 +1,35 @@
 {
-  "generated_at": "2026-03-01T06:13:26.564492+08:00",
-  "total_titles_processed": 635,
+  "generated_at": "2026-03-01T07:13:21.826001+08:00",
+  "total_titles_processed": 680,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "AI冲击之下，新一轮“次贷危机”来了？",
           "url": "https://wallstreetcn.com/articles/3766407",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 06时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 07时13分]"
         },
         {
           "title": "“HALO”崛起、AI失宠 “看得见摸得着”的才是硬通货？",
           "url": "https://www.cls.cn/detail/2298310",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 06时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 07时13分]"
         },
         {
           "title": "最新AI军事模拟：95%对局发射核弹",
@@ -37,11 +39,12 @@
             24,
             23,
             21,
-            29
+            29,
+            26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时12分 ~ 05时13分]"
+          "appearance_count": 9,
+          "time_info": "[01时12分 ~ 07时13分]"
         },
         {
           "title": "Block 裁员近半并称「大多数公司动作太慢」，AI 技术变革是否正加速行业洗牌？",
@@ -78,6 +81,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时15分 ~ 06时13分]"
+        },
+        {
+          "title": "美国国防部官员Emil Michael：无论是否应用人工智能（AI）技术，五角大楼在美国本土的监控行动都将是合法的。",
+          "url": "https://wallstreetcn.com/livenews/3061005",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时13分"
         },
         {
           "title": "OpenAI 就与美国国防部的协议表态：在法律、法规或部门政策要求人类控制的情况下，人工智能系统不会被用于独立指挥自主武器。",
@@ -146,6 +160,17 @@
           "time_info": "05时13分"
         },
         {
+          "title": "Claude 遭特朗普封杀，亚马逊、英伟达等联手助 OpenAI 完成 1100 亿美元融资，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2011023228328510169",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时13分"
+        },
+        {
           "title": "OpenAI就与美国国防部达成的协议表示，该协议包含的防护措施比以往任何涉及机密AI部署的协议（包括Anthropic的协议）都要严格。",
           "url": "https://flash.jin10.com/detail/20260301044417806800",
           "source": "金十数据",
@@ -163,7 +188,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         }
@@ -181,21 +206,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时12分 ~ 06时13分]"
-        },
-        {
-          "title": "小米超跑亮相",
-          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E8%B6%85%E8%B7%91%E4%BA%AE%E7%9B%B8&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            5,
-            7
-          ],
-          "is_new": false,
           "appearance_count": 10,
-          "time_info": "[00时15分 ~ 06时13分]"
+          "time_info": "[01时12分 ~ 07时13分]"
         },
         {
           "title": "小米超跑正式亮相",
@@ -209,8 +221,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 06时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 07时13分]"
+        },
+        {
+          "title": "小米超跑亮相",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E8%B6%85%E8%B7%91%E4%BA%AE%E7%9B%B8&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            5,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 07时13分]"
         },
         {
           "title": "小米发布会",
@@ -223,8 +249,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 06时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 07时13分]"
         },
         {
           "title": "小米卢伟冰：未来五年将追加近2000亿元研发投入",
@@ -233,11 +259,12 @@
           "ranks": [
             3,
             7,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时14分 ~ 06时13分]"
+          "appearance_count": 5,
+          "time_info": "[03时14分 ~ 07时13分]"
         },
         {
           "title": "小米17 Ultra国际起售价超1.2万",
@@ -299,11 +326,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 06时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 07时13分]"
         },
         {
           "title": "如何评价《生化危机 9：安魂曲》中暴君制造成本高达 1.2 亿美元？",
@@ -338,11 +366,12 @@
           "url": "https://wallstreetcn.com/livenews/3061000",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时13分 ~ 07时13分]"
         },
         {
           "title": "伯克希尔四季报要点总结：巴菲特CEO时代告别秀，3733亿美元现金待命",
@@ -385,8 +414,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 06时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 07时13分]"
         },
         {
           "title": "考研失败又不是人生失败",
@@ -396,11 +425,12 @@
             6,
             11,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 06时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 07时13分]"
         },
         {
           "title": "我的考研出分时刻",
@@ -410,11 +440,12 @@
             7,
             10,
             13,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 06时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 07时13分]"
         },
         {
           "title": "我的考研MVP结算画面",
@@ -426,11 +457,12 @@
             14,
             9,
             10,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 06时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 07时13分]"
         },
         {
           "title": "考研晒分!400+高分大神出没",
@@ -440,8 +472,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 06时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 07时13分]"
         },
         {
           "title": "2026年考研国家线公布",
@@ -459,6 +491,35 @@
       ]
     },
     {
+      "keyword_group": "基础设施 基建 地铁 高铁",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "高铁厕所原来是这么用的",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E5%8E%95%E6%89%80%E5%8E%9F%E6%9D%A5%E6%98%AF%E8%BF%99%E4%B9%88%E7%94%A8%E7%9A%84",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 07时13分]"
+        },
+        {
+          "title": "以色列军方表示，对弹道导弹阵地和导弹发射基础设施的打击挫败了数十次针对以色列的导弹发射。",
+          "url": "https://flash.jin10.com/detail/20260301063357171800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时13分"
+        }
+      ]
+    },
+    {
       "keyword_group": "新能源汽车 电动汽车 智能驾驶",
       "match_count": 2,
       "titles": [
@@ -470,8 +531,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 06时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 07时13分]"
         },
         {
           "title": "多地辟谣新能源汽车开征里程税",
@@ -481,26 +542,38 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 06时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 07时13分]"
         }
       ]
     },
     {
-      "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 1,
+      "keyword_group": "英伟达 台积电 AMD 高通",
+      "match_count": 2,
       "titles": [
         {
-          "title": "高铁厕所原来是这么用的",
-          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E5%8E%95%E6%89%80%E5%8E%9F%E6%9D%A5%E6%98%AF%E8%BF%99%E4%B9%88%E7%94%A8%E7%9A%84",
-          "source": "百度热搜",
+          "title": "英伟达紧急撤回问题驱动595.59",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%B4%A7%E6%80%A5%E6%92%A4%E5%9B%9E%E9%97%AE%E9%A2%98%E9%A9%B1%E5%8A%A8595.59",
+          "source": "bilibili 热搜",
           "ranks": [
-            26,
-            9
+            30,
+            3,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 06时13分]"
+          "appearance_count": 9,
+          "time_info": "[01时12分 ~ 07时13分]"
+        },
+        {
+          "title": "投资大佬德鲁肯米勒：我的优势不是智商，而是果断扣动扳机，卖飞英伟达“肠子都悔青了”",
+          "url": "https://wallstreetcn.com/articles/3766425",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时13分"
         }
       ]
     },
@@ -533,27 +606,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 06时13分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英伟达 台积电 AMD 高通",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "英伟达紧急撤回问题驱动595.59",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%B4%A7%E6%80%A5%E6%92%A4%E5%9B%9E%E9%97%AE%E9%A2%98%E9%A9%B1%E5%8A%A8595.59",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            3,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时12分 ~ 05时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 07时13分]"
         }
       ]
     },
@@ -567,11 +621,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时12分 ~ 06时13分]"
+          "appearance_count": 4,
+          "time_info": "[05时12分 ~ 07时13分]"
         }
       ]
     }
