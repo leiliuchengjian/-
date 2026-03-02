@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T12:04:38.204932+08:00",
-  "total_titles_processed": 965,
+  "generated_at": "2026-03-02T13:45:28.175240+08:00",
+  "total_titles_processed": 1099,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "全球市场开盘“未见恐慌”：美股三大股指期货均跌0.7%，油价跳涨13%但涨幅显著收窄，黄金回落至5330美元",
@@ -14,9 +14,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时04分 ~ 13时45分]"
         },
         {
           "title": "高盛：伊朗冲突将导致原油风险溢价达到18美元/桶",
@@ -36,7 +36,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
         },
@@ -96,7 +96,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
         },
@@ -162,7 +162,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
         },
@@ -184,9 +184,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
+        },
+        {
+          "title": "新加坡金管局： 新加坡元名义有效汇率仍处于升值政策区间内，这将继续抑制输入型通胀压力。",
+          "url": "https://flash.jin10.com/detail/20260302130526200800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
         },
         {
           "title": "花旗：如果美伊冲突在未来几天内结束，并且局势随之缓和，那么天然气价格将恢复到冲突前的水平。 若因美伊冲突导致的供应中断预计持续时间较短，则JKM/TTF天然气价格可能升至每百万英热单位14～18美元区间，或每兆瓦时40～50欧元。 若供应中断持续时间超出预期，若出现为期3个月的完全供应中断，可能会将JKM/ TTF天然气价格推升至30美元/百万英热单位左右，或接近100欧元/兆瓦时。",
@@ -205,6 +216,125 @@
           "source": "金十数据",
           "ranks": [
             24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "央行 降息 降准 CPI 物价",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "日本央行副行长冰见野良三：即使整体通胀率降至2%以下，如果我们判断潜在通胀正加速向我们的价格目标靠拢，我们仍可能将利率上调至中性水平。",
+          "url": "https://flash.jin10.com/detail/20260302132916040800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "日本央行副行长冰见野良三：预计日本消费者通胀率将在一段时间内保持在2%以下。",
+          "url": "https://flash.jin10.com/detail/20260302132749571800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "日本央行副行长冰见野良三：中东局势可能影响日本的经济和物价。 很难说日本央行需要监测局势多长时间 即使整体CPI放缓，日本央行可能仍会认为价格趋势在上升。 日本央行与政府沟通良好。 需要持续关注资产价格，目前资产价格不需要日本央行采取行动。",
+          "url": "https://wallstreetcn.com/livenews/3061552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "土耳其央行宣布：暂停一周期回购拍卖。",
+          "url": "https://wallstreetcn.com/livenews/3061281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11,
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时15分 ~ 07时15分]"
+        },
+        {
+          "title": "交易员称，印度央行很可能抛售美元以支撑卢比。",
+          "url": "https://flash.jin10.com/detail/20260302131849966800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "日本央行副行长冰见野良三：即使市场波动、存在诸多不确定性，我们仍会作出必要决策。",
+          "url": "https://flash.jin10.com/detail/20260302131800511800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "日本央行副行长冰见野良三：我们不会因为市场波动就搁置政策调整。",
+          "url": "https://flash.jin10.com/detail/20260302131741675800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "日本央行副行长冰见野良三：难以预见美伊冲突的影响，现阶段不便就这一事件将如何影响日本央行基于特定情景作出的利率决议发表评论。",
+          "url": "https://flash.jin10.com/detail/20260302130807764800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "欧洲央行管委内格尔：对美元避险地位的质疑有所增加",
+          "url": "https://flash.jin10.com/detail/20260302021857884800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "本周中国央行公开市场共15250亿元逆回购到期",
+          "url": "https://wallstreetcn.com/livenews/3061356",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -264,7 +394,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
         },
@@ -275,7 +405,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
         },
@@ -286,51 +416,93 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
         }
       ]
     },
     {
-      "keyword_group": "央行 降息 降准 CPI 物价",
+      "keyword_group": "华为 小米 荣耀",
       "match_count": 3,
       "titles": [
         {
-          "title": "土耳其央行宣布：暂停一周期回购拍卖。",
-          "url": "https://wallstreetcn.com/livenews/3061281",
-          "source": "华尔街见闻-快讯",
+          "title": "小米憋大招,概念超跑登场",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351149&amp;topic_name=%E5%B0%8F%E7%B1%B3%E6%86%8B%E5%A4%A7%E6%8B%9B%2C%E6%A6%82%E5%BF%B5%E8%B6%85%E8%B7%91%E7%99%BB%E5%9C%BA",
+          "source": "贴吧",
           "ranks": [
-            3,
-            11,
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时15分 ~ 07时15分]"
-        },
-        {
-          "title": "欧洲央行管委内格尔：对美元避险地位的质疑有所增加",
-          "url": "https://flash.jin10.com/detail/20260302021857884800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时16分"
-        },
-        {
-          "title": "本周中国央行公开市场共15250亿元逆回购到期",
-          "url": "https://wallstreetcn.com/livenews/3061356",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
+            23,
+            24,
             25
           ],
           "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 09时08分]"
+        },
+        {
+          "title": "《王者荣耀世界》宣布定档 2026 年 4 月上线，在游戏上线前你对这款游戏有哪些期待？",
+          "url": "https://www.zhihu.com/question/2011753327969462098",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时08分"
+          "time_info": "13时45分"
+        },
+        {
+          "title": "荣耀机器人手机亮相",
+          "url": "https://www.baidu.com/s?wd=%E8%8D%A3%E8%80%80%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA%E4%BA%AE%E7%9B%B8",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "如何看待比亚迪 2 月销量 19 万，同比下跌 41%？",
+          "url": "https://www.zhihu.com/question/2011543329251279945",
+          "source": "知乎",
+          "ranks": [
+            14,
+            8,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[01时14分 ~ 13时45分]"
+        },
+        {
+          "title": "特斯拉(TSLA.O)：特斯拉人形机器人持续迭代， Cybercab量产工作加速推进。",
+          "url": "https://flash.jin10.com/detail/20260302115546257800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时04分"
+        },
+        {
+          "title": "比亚迪3月2日在互动平台表示，公司即将于2026年3月5日召开颠覆性技术发布会。",
+          "url": "https://wallstreetcn.com/livenews/3061528",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
         }
       ]
     },
@@ -359,36 +531,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "华为 小米 荣耀",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "小米憋大招,概念超跑登场",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351149&amp;topic_name=%E5%B0%8F%E7%B1%B3%E6%86%8B%E5%A4%A7%E6%8B%9B%2C%E6%A6%82%E5%BF%B5%E8%B6%85%E8%B7%91%E7%99%BB%E5%9C%BA",
-          "source": "贴吧",
-          "ranks": [
-            23,
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 09时08分]"
-        },
-        {
-          "title": "荣耀机器人手机亮相",
-          "url": "https://www.baidu.com/s?wd=%E8%8D%A3%E8%80%80%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA%E4%BA%AE%E7%9B%B8",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时14分"
         }
       ]
     },
@@ -424,38 +566,6 @@
       ]
     },
     {
-      "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如何看待比亚迪 2 月销量 19 万，同比下跌 41%？",
-          "url": "https://www.zhihu.com/question/2011543329251279945",
-          "source": "知乎",
-          "ranks": [
-            14,
-            8,
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时14分 ~ 12时04分]"
-        },
-        {
-          "title": "特斯拉(TSLA.O)：特斯拉人形机器人持续迭代， Cybercab量产工作加速推进。",
-          "url": "https://flash.jin10.com/detail/20260302115546257800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时04分"
-        }
-      ]
-    },
-    {
       "keyword_group": "半导体 芯片 集成电路",
       "match_count": 1,
       "titles": [
@@ -467,8 +577,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时07分 ~ 12时04分]"
+          "appearance_count": 4,
+          "time_info": "[09时07分 ~ 13时45分]"
         }
       ]
     },
@@ -483,7 +593,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
         }
