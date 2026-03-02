@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T07:15:28.569918+08:00",
-  "total_titles_processed": 635,
+  "generated_at": "2026-03-02T09:08:00.159112+08:00",
+  "total_titles_processed": 779,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "高盛：伊朗冲突将导致原油风险溢价达到18美元/桶",
@@ -14,7 +14,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -74,7 +74,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -85,9 +85,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "中国外汇交易中心（CFETS）：2月27日人民币汇率指数按周涨0.77至98.58。",
+          "url": "https://wallstreetcn.com/livenews/3061368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
         },
         {
           "title": "高盛估计，若霍尔木兹海峡供应全面中断达6周之长，原油价格存在每桶18美元的时间风险溢价，如果仅50%的供应中断一个月，溢价将减小至4美元。",
@@ -96,7 +107,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -107,9 +118,130 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "花旗：如果供应中断持续时间超过预期，预计“持续3个月”的全面中断可能会使JKM/TTF天然气价格升至约30美元/百万英热单位，或接近100欧元/兆瓦时的水平。",
+          "url": "https://flash.jin10.com/detail/20260302082901683800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "花旗：如果美伊冲突在未来几天内结束，并且局势随之缓和，那么天然气价格将恢复到冲突前的水平。 若因美伊冲突导致的供应中断预计持续时间较短，则JKM/TTF天然气价格可能升至每百万英热单位14～18美元区间，或每兆瓦时40～50欧元。 若供应中断持续时间超出预期，若出现为期3个月的完全供应中断，可能会将JKM/ TTF天然气价格推升至30美元/百万英热单位左右，或接近100欧元/兆瓦时。",
+          "url": "https://wallstreetcn.com/livenews/3061358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "花旗：如果（因美伊冲突所致的）供应中断是短期的，那么JKM/TTF天然气价格可能达到约14至18美元/百万英热单位，或40至50欧元/兆瓦时。",
+          "url": "https://flash.jin10.com/detail/20260302082627766800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能 AI",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "AI短剧",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            18,
+            19,
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 07时15分]"
+        },
+        {
+          "title": "演员逼真到根本看不出来是AI",
+          "url": "https://s.weibo.com/weibo?q=%E6%BC%94%E5%91%98%E9%80%BC%E7%9C%9F%E5%88%B0%E6%A0%B9%E6%9C%AC%E7%9C%8B%E4%B8%8D%E5%87%BA%E6%9D%A5%E6%98%AFAI&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 09时08分]"
+        },
+        {
+          "title": "逾350家中国企业亮相西班牙MWC，竞逐AI与6G产业机遇",
+          "url": "https://wallstreetcn.com/livenews/3061282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10,
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时15分 ~ 07时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "央行 降息 降准 CPI 物价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "土耳其央行宣布：暂停一周期回购拍卖。",
+          "url": "https://wallstreetcn.com/livenews/3061281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11,
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时15分 ~ 07时15分]"
+        },
+        {
+          "title": "欧洲央行管委内格尔：对美元避险地位的质疑有所增加",
+          "url": "https://flash.jin10.com/detail/20260302021857884800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "本周中国央行公开市场共15250亿元逆回购到期",
+          "url": "https://wallstreetcn.com/livenews/3061356",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
         }
       ]
     },
@@ -151,11 +283,12 @@
           "source": "贴吧",
           "ranks": [
             23,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 07时15分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 09时08分]"
         },
         {
           "title": "荣耀机器人手机亮相",
@@ -171,74 +304,8 @@
       ]
     },
     {
-      "keyword_group": "人工智能 AI",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "AI短剧",
-          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            18,
-            19,
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 07时15分]"
-        },
-        {
-          "title": "逾350家中国企业亮相西班牙MWC，竞逐AI与6G产业机遇",
-          "url": "https://wallstreetcn.com/livenews/3061282",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            10,
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时15分 ~ 07时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "土耳其央行宣布：暂停一周期回购拍卖。",
-          "url": "https://wallstreetcn.com/livenews/3061281",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            11,
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时15分 ~ 07时15分]"
-        },
-        {
-          "title": "欧洲央行管委内格尔：对美元避险地位的质疑有所增加",
-          "url": "https://flash.jin10.com/detail/20260302021857884800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时16分"
-        }
-      ]
-    },
-    {
       "keyword_group": "苹果 iPhone",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "环球下周看点：中东战火走向何处 美国非农数据、苹果新品亮相",
@@ -247,11 +314,23 @@
           "ranks": [
             6,
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 07时15分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 09时08分]"
+        },
+        {
+          "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日苹果开始举行新品发布会，美国将公布2月PMI终值",
+          "url": "https://flash.jin10.com/detail/20260302082041126800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
         }
       ]
     },
@@ -270,8 +349,25 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时14分 ~ 07时15分]"
+          "appearance_count": 11,
+          "time_info": "[01时14分 ~ 09时08分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体 芯片 集成电路",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【早报】哈梅内伊遇害，外交部发声；国家发改委回应存储芯片价格上涨",
+          "url": "https://www.cls.cn/detail/2299148",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 09时08分]"
         }
       ]
     },
@@ -292,8 +388,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 07时15分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 09时08分]"
         }
       ]
     }
