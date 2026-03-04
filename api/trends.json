@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T07:17:15.461758+08:00",
-  "total_titles_processed": 743,
+  "generated_at": "2026-03-04T09:06:03.154514+08:00",
+  "total_titles_processed": 897,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 31,
+      "match_count": 36,
       "titles": [
         {
           "title": "特朗普放话“不惜一切” ，美三大股指均跌超2%，黄金跌超5%，白银暴跌11%，布油涨近8%，美元指数涨1%",
@@ -36,11 +36,12 @@
           "ranks": [
             13,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时33分 ~ 07时17分]"
+          "appearance_count": 10,
+          "time_info": "[03时33分 ~ 09时06分]"
         },
         {
           "title": "特朗普承诺“护航”，美股指跌幅收窄，纳指仍跌超1%，原油冲高回落涨5%，美元强势二连涨，金银重挫",
@@ -54,6 +55,17 @@
           "time_info": "[07时16分 ~ 07时17分]"
         },
         {
+          "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
+          "url": "https://wallstreetcn.com/articles/3766590",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
+        },
+        {
           "title": "WTI 4月原油期货收报74.56美元/桶。 NYMEX 3月天然气期货收报3.0540美元/百万英热单位。 NYMEX 3月汽油期货收报2.4574美元/加仑，NYMEX 3月取暖油期货收报3.1869美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3062982",
           "source": "华尔街见闻-快讯",
@@ -63,6 +75,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时33分"
+        },
+        {
+          "title": "新台币兑美元贬至31.710，触及5月以来盘中最低。",
+          "url": "https://wallstreetcn.com/livenews/3063128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了5个对手方的12.03亿美元。",
@@ -159,6 +182,18 @@
           "time_info": "[03时33分 ~ 04时23分]"
         },
         {
+          "title": "冲突升级恐慌蔓延！现货黄金失守5000美元关口 道指跌逾1200点",
+          "url": "https://www.cls.cn/detail/2301803",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时16分 ~ 09时06分]"
+        },
+        {
           "title": "黄金跌破5100美元",
           "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E8%B7%8C%E7%A0%B45100%E7%BE%8E%E5%85%83%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -169,6 +204,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时35分 ~ 02时36分]"
+        },
+        {
+          "title": "黄金盘中跌超 3%，一度跌破 5100 美元，现货白银暴跌 12%，一度跌破 80 美元，发生了什么？",
+          "url": "https://www.zhihu.com/question/2012256191544320809",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
         },
         {
           "title": "现货黄金跌4.4%，美股早盘曾跌穿5000美元整数位心理关口，现货白银跌约8.2%，铂金跌超9.4%",
@@ -207,17 +253,6 @@
           "time_info": "[04时23分 ~ 05时25分]"
         },
         {
-          "title": "冲突升级恐慌蔓延！现货黄金失守5000美元关口 道指跌逾1200点",
-          "url": "https://www.cls.cn/detail/2301803",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时16分 ~ 07时17分]"
-        },
-        {
           "title": "塔吉特发布战略计划，考虑2026年投资20亿美元。",
           "url": "https://wallstreetcn.com/livenews/3063022",
           "source": "华尔街见闻-快讯",
@@ -239,6 +274,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
+        },
+        {
+          "title": "中信证券：韩国国债入指WGBI 料将带来500-600亿美元被动资金",
+          "url": "https://flash.jin10.com/detail/20260304083423622800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
+        },
+        {
+          "title": "现货黄金日内涨幅扩大至1%，报5139.59美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3063117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
         },
         {
           "title": "德意志银行：如果石油和天然气价格继续飙涨，进而冲击到欧洲经济，欧元兑美元恐怕会跌至1.13创2025年5月份以来最低。",
@@ -357,7 +414,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         }
@@ -365,7 +422,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
@@ -376,8 +433,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时34分 ~ 07时17分]"
+          "appearance_count": 15,
+          "time_info": "[00时34分 ~ 09时06分]"
         },
         {
           "title": "19岁天才少年做AI应用年入2亿",
@@ -385,11 +442,12 @@
           "source": "今日头条",
           "ranks": [
             2,
-            1
+            1,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时24分 ~ 07时17分]"
+          "appearance_count": 7,
+          "time_info": "[05时24分 ~ 09时06分]"
         },
         {
           "title": "马云，新年现身！谈了AI",
@@ -398,11 +456,12 @@
           "ranks": [
             12,
             11,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时35分 ~ 07时17分]"
+          "appearance_count": 13,
+          "time_info": "[01时35分 ~ 09时06分]"
         },
         {
           "title": "美团首款AI浏览器陷“抄袭代码”风波？多方回应",
@@ -411,11 +470,23 @@
           "ranks": [
             20,
             19,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时35分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[01时35分 ~ 09时06分]"
+        },
+        {
+          "title": "19岁天才少年做AI应用年入2亿",
+          "url": "https://www.baidu.com/s?wd=19%E5%B2%81%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4%E5%81%9AAI%E5%BA%94%E7%94%A8%E5%B9%B4%E5%85%A52%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
         },
         {
           "title": "备忘录称，新成立的应用人工智能工程团队将由Reality Labs部门的萨巴领导。",
@@ -435,7 +506,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -457,7 +528,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -534,6 +605,17 @@
           "time_info": "[04时23分 ~ 05时25分]"
         },
         {
+          "title": "Claude崩了，全球AI因何“熔断”？",
+          "url": "https://wallstreetcn.com/articles/3766631",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
+        },
+        {
           "title": "据华尔街日报：消息人士称，新闻集团与Meta Platforms(META.O)达成多年期人工智能授权协议，协议将至少持续三年，Meta每年将向新闻集团支付高达5000万美元的费用，以获得内容授权用于训练和内容输出。",
           "url": "https://flash.jin10.com/detail/20260304053702894800",
           "source": "金十数据",
@@ -558,13 +640,24 @@
           "time_info": "[06时19分 ~ 07时17分]"
         },
         {
+          "title": "建议为AI生成内容添加不可去除水印",
+          "url": "https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E4%B8%BAAI%E7%94%9F%E6%88%90%E5%86%85%E5%AE%B9%E6%B7%BB%E5%8A%A0%E4%B8%8D%E5%8F%AF%E5%8E%BB%E9%99%A4%E6%B0%B4%E5%8D%B0",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
+        },
+        {
           "title": "OpenAI正开发GitHub的替代品。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3063042",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -630,7 +723,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -641,7 +734,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -660,7 +753,7 @@
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "欧洲央行管委Kazaks：更长长期周期的能源价格偏高，通胀面临更多风险。 稍晚可能会需要采取政策行动，但目前不需要。（彭博）",
@@ -709,6 +802,28 @@
           "time_info": "00时35分"
         },
         {
+          "title": "韩国央行：需关注汇率是否过度偏离经济基本面。",
+          "url": "https://flash.jin10.com/detail/20260304082714225800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
+        },
+        {
+          "title": "韩国央行：金融市场波动可能会持续。",
+          "url": "https://flash.jin10.com/detail/20260304082526915800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
+        },
+        {
           "title": "美联储卡什卡利：如果通胀降温，今年晚些时候再降息一到两次可能是合适的。",
           "url": "https://flash.jin10.com/detail/20260304052002306800",
           "source": "金十数据",
@@ -718,12 +833,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        },
+        {
+          "title": "韩国央行：若有必要，将在外汇市场采取行动，以防止羊群效应。",
+          "url": "https://flash.jin10.com/detail/20260304082525790800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
+        },
+        {
+          "title": "韩国央行：将密切关注汇率和利率的过度波动。 外汇、利率和股票市场的波动可能还会持续。 韩国央行与政府将协同行动，必要时应对市场跟风行为。",
+          "url": "https://wallstreetcn.com/livenews/3063098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
         }
       ]
     },
     {
       "keyword_group": "华为 小米 荣耀",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "小米Vision GT概念车实拍",
@@ -733,8 +870,19 @@
             28
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时24分 ~ 09时06分]"
+        },
+        {
+          "title": "华为李鹏：5G-A将释放技术红利",
+          "url": "https://www.toutiao.com/trending/7612632836864884790/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时24分 ~ 05时25分]"
+          "time_info": "[09时05分 ~ 09时06分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌3.3%。 热门中概股里，金山云初步收跌8.3%，晶科能源跌8%，小马智行跌7.5%，小鹏跌6.7%，小米跌5.2%，阿里跌4.9%，比亚迪跌4.3%，百度跌3.9%，新东方跌3.8%，网易、携程则微涨至多0.4%。",
@@ -746,6 +894,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "知情人士称，小米的联合创始人林斌已达成协议，将以125亿美元的估值收购迈阿密海豚队1%的股份。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3063112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
         },
         {
           "title": "据知情人士透露，小米联合创始人Lin Bin（林斌）达成一份协议，将按125亿美元估值对Miami Dolphins持股1%。（彭博）",
@@ -772,8 +931,72 @@
       ]
     },
     {
+      "keyword_group": "基础设施 基建 地铁 高铁",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "12306回应乘客在高铁上用排插",
+          "url": "https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E4%B9%98%E5%AE%A2%E5%9C%A8%E9%AB%98%E9%93%81%E4%B8%8A%E7%94%A8%E6%8E%92%E6%8F%92%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时34分 ~ 09时06分]"
+        },
+        {
+          "title": "12306回应乘客在高铁上用排插",
+          "url": "https://www.baidu.com/s?wd=12306%E5%9B%9E%E5%BA%94%E4%B9%98%E5%AE%A2%E5%9C%A8%E9%AB%98%E9%93%81%E4%B8%8A%E7%94%A8%E6%8E%92%E6%8F%92",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
+        },
+        {
+          "title": "中国高铁是怎样炼成的",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E9%AB%98%E9%93%81%E6%98%AF%E6%80%8E%E6%A0%B7%E7%82%BC%E6%88%90%E7%9A%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
+        },
+        {
+          "title": "加拿大总理卡尼：加拿大谴责伊朗对民用基础设施的袭击。",
+          "url": "https://flash.jin10.com/detail/20260304053828612800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 07时17分]"
+        },
+        {
+          "title": "12306回应高铁上有人用排插充电",
+          "url": "https://www.toutiao.com/trending/7613008859288043547/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "苹果 iPhone",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "苹果新品哪些值得买",
@@ -786,8 +1009,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时34分 ~ 07时17分]"
+          "appearance_count": 15,
+          "time_info": "[00时34分 ~ 09时06分]"
         },
         {
           "title": "iPhone 17e浅粉色",
@@ -812,11 +1035,12 @@
           "ranks": [
             21,
             14,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时34分 ~ 07时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 09时06分]"
         },
         {
           "title": "iPhone 17e值得买吗",
@@ -828,82 +1052,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时22分 ~ 04时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英伟达 台积电 AMD 高通",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "伊朗风险爆发，“台积电、三星和海力士”在内，今年大赚的新兴市场交易面临变局？",
-          "url": "https://wallstreetcn.com/articles/3766573",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时34分 ~ 07时17分]"
         },
         {
-          "title": "英伟达财报超预期的背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B4%A2%E6%8A%A5%E8%B6%85%E9%A2%84%E6%9C%9F%E7%9A%84%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
+          "title": "如何评价iPhone 17e",
+          "url": "https://www.douyin.com/hot/2417459",
+          "source": "抖音",
           "ranks": [
-            17
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时16分 ~ 07时17分]"
-        },
-        {
-          "title": "AMD跌幅扩大至5%。",
-          "url": "https://wallstreetcn.com/livenews/3062872",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "12306回应乘客在高铁上用排插",
-          "url": "https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E4%B9%98%E5%AE%A2%E5%9C%A8%E9%AB%98%E9%93%81%E4%B8%8A%E7%94%A8%E6%8E%92%E6%8F%92%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时34分 ~ 07时17分]"
-        },
-        {
-          "title": "加拿大总理卡尼：加拿大谴责伊朗对民用基础设施的袭击。",
-          "url": "https://flash.jin10.com/detail/20260304053828612800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时19分 ~ 07时17分]"
+          "time_info": "[09时05分 ~ 09时06分]"
         }
       ]
     },
     {
       "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "比亚迪宣布将召开颠覆性技术发布会，可能涉及哪些方面的技术？是否会重塑行业竞争门槛？",
@@ -929,12 +1094,73 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时24分 ~ 07时17分]"
+        },
+        {
+          "title": "比亚迪将推出下一代刀片电池吗",
+          "url": "https://www.toutiao.com/trending/7612580413470654474/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
+        },
+        {
+          "title": "比亚迪将于3月5日发布第二代刀片电池及闪充技术。（一财）",
+          "url": "https://wallstreetcn.com/livenews/3063120",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房地产 房价 楼市 LPR",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "中金：北京、上海楼市拐点渐行渐近",
+          "url": "https://wallstreetcn.com/livenews/3063108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
+        },
+        {
+          "title": "加拿大2月温哥华基准住房价格同比下降6.8%。 2月温哥华住房销售同比下滑9.8%。",
+          "url": "https://wallstreetcn.com/livenews/3062874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
+        },
+        {
+          "title": "中金：北京、上海楼市拐点渐行渐近",
+          "url": "https://flash.jin10.com/detail/20260304082052338800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
         }
       ]
     },
     {
       "keyword_group": "大模型 ChatGPT Kimi Sora OpenAI",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "沪指跌超1%，“三桶油”再度集体涨停，半导体产业链大跌，恒科指跌超2%，大模型股MINIMAX逆势涨超9%",
@@ -942,11 +1168,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时34分 ~ 07时17分]"
+          "appearance_count": 15,
+          "time_info": "[00时34分 ~ 09时06分]"
         },
         {
           "title": "Anthropic大模型Claude推出技能创造者的增强功能。",
@@ -959,6 +1186,58 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时36分 ~ 02时36分]"
+        },
+        {
+          "title": "阿里千问大模型技术负责人自宣卸任",
+          "url": "https://wallstreetcn.com/livenews/3063116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英伟达 台积电 AMD 高通",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "伊朗风险爆发，“台积电、三星和海力士”在内，今年大赚的新兴市场交易面临变局？",
+          "url": "https://wallstreetcn.com/articles/3766573",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时34分 ~ 07时17分]"
+        },
+        {
+          "title": "英伟达财报超预期的背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B4%A2%E6%8A%A5%E8%B6%85%E9%A2%84%E6%9C%9F%E7%9A%84%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时16分 ~ 09时06分]"
+        },
+        {
+          "title": "AMD跌幅扩大至5%。",
+          "url": "https://wallstreetcn.com/livenews/3062872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
         }
       ]
     },
@@ -995,19 +1274,31 @@
       ]
     },
     {
-      "keyword_group": "房地产 房价 楼市 LPR",
-      "match_count": 1,
+      "keyword_group": "考研 考公 国考",
+      "match_count": 2,
       "titles": [
         {
-          "title": "加拿大2月温哥华基准住房价格同比下降6.8%。 2月温哥华住房销售同比下滑9.8%。",
-          "url": "https://wallstreetcn.com/livenews/3062874",
+          "title": "美国考虑为霍尔木兹海峡的油轮提供军事保护。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3062961",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
+          "appearance_count": 2,
+          "time_info": "[03时33分 ~ 04时23分]"
+        },
+        {
+          "title": "26考研复试3月规划",
+          "url": "https://search.bilibili.com/all?keyword=26%E8%80%83%E7%A0%94%E5%A4%8D%E8%AF%953%E6%9C%88%E8%A7%84%E5%88%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
         }
       ]
     },
@@ -1043,24 +1334,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "考研 考公 国考",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国考虑为霍尔木兹海峡的油轮提供军事保护。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/3062961",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时33分 ~ 04时23分]"
         }
       ]
     }
