@@ -1,11 +1,653 @@
 {
-  "generated_at": "2026-03-05T21:55:33.643535+08:00",
-  "total_titles_processed": 1983,
+  "generated_at": "2026-03-05T22:38:53.555050+08:00",
+  "total_titles_processed": 2063,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "央行 降息 降准 CPI 物价",
+      "match_count": 57,
+      "titles": [
+        {
+          "title": "央行：明日开展8000亿元买断式逆回购",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%EF%BC%9A%E6%98%8E%E6%97%A5%E5%BC%80%E5%B1%958000%E4%BA%BF%E5%85%83%E4%B9%B0%E6%96%AD%E5%BC%8F%E9%80%86%E5%9B%9E%E8%B4%AD",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时29分 ~ 21时55分]"
+        },
+        {
+          "title": "交易员增加对欧洲央行的利率押注，预计今年将加息18个基点",
+          "url": "https://wallstreetcn.com/livenews/3064561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "消息称日本央行未排除4月加息可能性",
+          "url": "https://flash.jin10.com/detail/20260305142905131800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
+          "title": "欧洲央行副行长金多斯：伊朗战争持续时间越长，通胀预期发生改变的风险就越大。",
+          "url": "https://flash.jin10.com/detail/20260305170322906800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时33分"
+        },
+        {
+          "title": "交易员加大了对欧洲央行加息的押注，预计今年将累计加息18个基点。",
+          "url": "https://flash.jin10.com/detail/20260305222454535800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "欧洲央行副行长金多斯：若因伊朗局势导致通胀预期发生变化，欧洲央行可能会改变其政策立场。",
+          "url": "https://flash.jin10.com/detail/20260305170319094800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时33分"
+        },
+        {
+          "title": "匈牙利央行行长：持续的外汇市场稳定是遏制通胀预期的关键。",
+          "url": "https://flash.jin10.com/detail/20260305182542783800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时30分"
+        },
+        {
+          "title": "欧洲央行副行长金多斯：需警惕通胀及通胀预期的任何稳定变化。",
+          "url": "https://flash.jin10.com/detail/20260305170313388800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时33分"
+        },
+        {
+          "title": "匈牙利央行行长：强势福林正日益体现在进口价格中。",
+          "url": "https://flash.jin10.com/detail/20260305182538126800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时30分"
+        },
+        {
+          "title": "欧洲央行官员称正在评估欧洲银行业通过各种渠道对伊朗战争的间接敞口",
+          "url": "https://wallstreetcn.com/livenews/3064421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时30分 ~ 19时26分]"
+        },
+        {
+          "title": "报道：波兰央行欲出售黄金储备 以资助国防计划",
+          "url": "https://wallstreetcn.com/livenews/3064535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 22时38分]"
+        },
+        {
+          "title": "欧洲央行管委Nagel：不会猜测伊朗冲突可能对利率产生的影响。",
+          "url": "https://wallstreetcn.com/livenews/3064443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时26分 ~ 20时36分]"
+        },
+        {
+          "title": "俄罗斯3月2日当周CPI周环比上升0.08%，2026年迄今累计上升2.22%。 2月GDP同比下降2.1%。 1月零售销售同比增长0.7%，预期上升1.9%。 1月失业率2.2%，预期2.3%。 12月薪资同比增长2.4%。",
+          "url": "https://wallstreetcn.com/livenews/3063762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时31分]"
+        },
+        {
+          "title": "中国央行：3月6日开展8000亿元买断式逆回购操作，期限为3个月",
+          "url": "https://wallstreetcn.com/livenews/3064387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 18时30分]"
+        },
+        {
+          "title": "据英国央行调查，英国企业预计未来一年工资增长3.6%。",
+          "url": "https://wallstreetcn.com/livenews/3064407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时30分 ~ 19时26分]"
+        },
+        {
+          "title": "周三（3月4日），降息赢家指数涨0.32%，报95.52点。",
+          "url": "https://wallstreetcn.com/livenews/3063871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时21分]"
+        },
+        {
+          "title": "欧洲央行副行长金多斯：欧洲经济正受中东局势影响。 在伊朗冲突爆发前夕，欧洲经济表现稳健。 伊朗冲突前风险平衡是双向的。 伊朗冲突加剧了不确定性。 到目前为止市场演变有序。 伊朗冲突爆发后必须采取不同的策略。 通胀预期是欧洲央行采取行动的关键因素。",
+          "url": "https://wallstreetcn.com/livenews/3064382",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 18时30分]"
+        },
+        {
+          "title": "欧洲央行管委雷恩：长期来看，欧元走势并不那么剧烈。",
+          "url": "https://flash.jin10.com/detail/20260305182022881800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时30分"
+        },
+        {
+          "title": "欧洲央行副行长金多斯：市场反应相当有序。",
+          "url": "https://flash.jin10.com/detail/20260305165857604800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时33分"
+        },
+        {
+          "title": "道明证券：市场严重低估加拿大央行2026宽松风险",
+          "url": "https://flash.jin10.com/detail/20260305214245747800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
+          "title": "欧洲央行副行长金多斯：另一种情况是持续时间更长。",
+          "url": "https://flash.jin10.com/detail/20260305165850115800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时33分"
+        },
+        {
+          "title": "欧洲央行管委雷恩：切勿对局势妄下结论。",
+          "url": "https://flash.jin10.com/detail/20260305181722528800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时30分"
+        },
+        {
+          "title": "欧洲央行管委内格尔：目前局势与四年前的乌克兰局势有些不同。",
+          "url": "https://flash.jin10.com/detail/20260305185942014800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
+          "title": "日本央行或维持3月利率不变，4月加息选项仍在考虑",
+          "url": "https://wallstreetcn.com/livenews/3064211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时40分"
+        },
+        {
+          "title": "知情人士称，日本央行并未排除4月加息的可能。",
+          "url": "https://flash.jin10.com/detail/20260305152018326800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
+          "title": "薪资预期放缓难抵能源通胀冲击 英国央行3月降息希望已经破灭",
+          "url": "https://flash.jin10.com/detail/20260305195945591800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
+          "title": "欧洲央行副行长金多斯：基准情形是这场冲突会很快结束。",
+          "url": "https://flash.jin10.com/detail/20260305165835064800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时33分"
+        },
+        {
+          "title": "匈牙利央行行长：能源价格高位运行将持续多久尚不明确。",
+          "url": "https://flash.jin10.com/detail/20260305181616576800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时30分"
+        },
+        {
+          "title": "央行：6日开展8000亿元买断式逆回购",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%EF%BC%9A6%E6%97%A5%E5%BC%80%E5%B1%958000%E4%BA%BF%E5%85%83%E4%B9%B0%E6%96%AD%E5%BC%8F%E9%80%86%E5%9B%9E%E8%B4%AD",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "阿联酋央行行长：阿联酋银行及金融领域韧性充足、实力强劲、运行稳定，具备应对地区局势变化的良好基础。 目前资本充足率为17%，流动性覆盖率超过146.6%。",
+          "url": "https://wallstreetcn.com/livenews/3064348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
+          "title": "欧洲央行副行长金多斯：伊朗遭袭后，我们必须采用不同的情景方案。",
+          "url": "https://flash.jin10.com/detail/20260305165825537800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时33分"
+        },
+        {
+          "title": "欧洲央行管委雷恩：根据最新数据作出利率决议更有意义。",
+          "url": "https://flash.jin10.com/detail/20260305181545158800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时30分"
+        },
+        {
+          "title": "中东战争加剧美国通胀担忧，债券交易员减少降息押注",
+          "url": "https://wallstreetcn.com/livenews/3063755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        },
+        {
+          "title": "欧洲央行副行长金多斯：伊朗袭击加剧了不确定性。",
+          "url": "https://flash.jin10.com/detail/20260305165822566800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时33分"
+        },
+        {
+          "title": "欧洲央行管委雷恩：对利率路径不作承诺。",
+          "url": "https://flash.jin10.com/detail/20260305181542709800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时30分"
+        },
+        {
+          "title": "波兰央行行长：中东战争对经济的影响很难说。",
+          "url": "https://flash.jin10.com/detail/20260305221430422800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "交易员称，印度央行很可能在当地即期外汇市场开盘前大幅抛售美元。",
+          "url": "https://flash.jin10.com/detail/20260305112512974800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "马来西亚央行维持2.75%政策利率不变，符合市场预期。",
+          "url": "https://wallstreetcn.com/livenews/3064301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
+          "title": "欧洲央行管委Rehn：根据最新数据做出利率决策是合理的。 未对利率走向作出承诺。 切勿贸然对当前局势下结论下判断。 从长期来看，欧元的变动并不那么剧烈。",
+          "url": "https://wallstreetcn.com/livenews/3064428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
+          "title": "匈牙利央行行长：不应低估伊朗冲突带来的风险。",
+          "url": "https://flash.jin10.com/detail/20260305181517611800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时30分"
+        },
+        {
+          "title": "欧洲央行副行长金多斯：欧洲经济正受中东局势影响。",
+          "url": "https://flash.jin10.com/detail/20260305165558096800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时33分"
+        },
+        {
+          "title": "波兰央行行长：波兰通胀率将在2028年底前维持在目标区间。",
+          "url": "https://flash.jin10.com/detail/20260305221115476800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "波兰央行行长：波兰3月降息得益于CPI走势改善。",
+          "url": "https://flash.jin10.com/detail/20260305220931951800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "阿联酋央行行长：阿联酋银行和金融部门具有韧性、强大、稳定，并且能够很好地应对地区发展。",
+          "url": "https://flash.jin10.com/detail/20260305155637676800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
+          "title": "加拿大央行警告称：如果私人信用违约增加，公开市场将面临风险。 警示对冲基金于政府债券领域杠杆化交易的风险。 央行将采取中央回购清算机制。 央行将针对回购采用加拿大抵押品管理服务（CCMS）。 将于2027年年初加入CCMS，从而提升回购市场的韧性。",
+          "url": "https://wallstreetcn.com/livenews/3063744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        },
+        {
+          "title": "欧洲央行管委兼法国央行行长Villeroy：法国没有资金补贴燃油。",
+          "url": "https://wallstreetcn.com/livenews/3064289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
+          "title": "交易员减少了对英国央行今年第二次降息的押注，增加了对欧洲央行今年加息的押注。",
+          "url": "https://wallstreetcn.com/livenews/3064334",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
+          "title": "中东危机点燃通胀担忧，2月非农能否拯救降息预期？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260305194504178800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
+          "title": "战火重燃通胀预期 英国掉期利率飙升恐终结房贷“降息梦”",
+          "url": "https://flash.jin10.com/detail/20260305213637793800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
+          "title": "欧洲央行管委兼法国央行行长Villeroy：正密切关注能源价格及市场走势。 美元走强重返避险地位。 伊朗冲突持续时间将影响价格走势。 金融稳定没有受到威胁。 没有加息的必要。",
+          "url": "https://wallstreetcn.com/livenews/3064283",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
+          "title": "波兰防长：愿意接受来自央行的额外国防资金。",
+          "url": "https://flash.jin10.com/detail/20260305184543627800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
+          "title": "欧洲央行管委内格尔：不会猜测伊朗战争将如何影响利率。",
+          "url": "https://flash.jin10.com/detail/20260305184409588800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
+          "title": "货币市场预计欧洲央行在12月前加息的概率已升至60%，而周三晚些时候仅为约20%。",
+          "url": "https://wallstreetcn.com/livenews/3064511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
+          "title": "波兰央行行长格拉平斯基：将建议将央行利润用于国防支出。",
+          "url": "https://flash.jin10.com/detail/20260305004027836800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时31分"
+        },
+        {
+          "title": "欧洲央行管委维勒鲁瓦：法国没有资金来补贴燃料价格。",
+          "url": "https://flash.jin10.com/detail/20260305150214980800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
+          "title": "美国1月进口物价指数年率 -0.1%，预期0.20%，前值0.00%。",
+          "url": "https://flash.jin10.com/detail/20260305213217376800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
+          "title": "战火助燃通胀且裁员低迷 美债收益率全线走高压注“降息缩水”",
+          "url": "https://flash.jin10.com/detail/20260305220408543800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 51,
+      "match_count": 54,
       "titles": [
         {
           "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
@@ -99,6 +741,17 @@
           "time_info": "14时38分"
         },
         {
+          "title": "2026胡润全球富豪榜发布：中国10亿美元企业家达1110位",
+          "url": "https://finance.ifeng.com/c/8rFWaLygvoN",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时26分 ~ 22时38分]"
+        },
+        {
           "title": "韩国2月外汇储备 4276.2亿美元，前值4259.1亿美元。",
           "url": "https://flash.jin10.com/detail/20260305050002239800",
           "source": "金十数据",
@@ -170,17 +823,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时30分 ~ 19时26分]"
-        },
-        {
-          "title": "2026胡润全球富豪榜发布：中国10亿美元企业家达1110位",
-          "url": "https://finance.ifeng.com/c/8rFWaLygvoN",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时26分 ~ 21时55分]"
         },
         {
           "title": "美国-亚洲航线超级油轮租用成本升至2900万美元，创纪录新高。",
@@ -283,7 +925,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
         },
@@ -297,6 +939,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
+        },
+        {
+          "title": "世界黄金协会：2月全球黄金ETF净流入53亿美元",
+          "url": "https://wallstreetcn.com/livenews/3064555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "据美国财富杂志：美国国防部向海事技术风险投资基金承诺投入1.5亿美元。",
@@ -332,6 +985,17 @@
           "time_info": "13时40分"
         },
         {
+          "title": "谷歌(GOOG.O)：承诺到2030年投入5000万美元，采取行动应对强效温室气体。",
+          "url": "https://flash.jin10.com/detail/20260305222046201800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
           "title": "现货黄金回落至5130美元/盎司下方，日内跌0.24%。",
           "url": "https://flash.jin10.com/detail/20260305141521465800",
           "source": "金十数据",
@@ -352,6 +1016,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "世界黄金协会：2月全球黄金ETF净流入53亿美元",
+          "url": "https://flash.jin10.com/detail/20260305221940387800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "摩根大通：将博通(AVGO.O)目标价从475美元上调至500美元。",
@@ -503,7 +1178,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
         },
@@ -514,7 +1189,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
         },
@@ -587,572 +1262,8 @@
       ]
     },
     {
-      "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 50,
-      "titles": [
-        {
-          "title": "央行：明日开展8000亿元买断式逆回购",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%EF%BC%9A%E6%98%8E%E6%97%A5%E5%BC%80%E5%B1%958000%E4%BA%BF%E5%85%83%E4%B9%B0%E6%96%AD%E5%BC%8F%E9%80%86%E5%9B%9E%E8%B4%AD",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时29分 ~ 21时55分]"
-        },
-        {
-          "title": "消息称日本央行未排除4月加息可能性",
-          "url": "https://flash.jin10.com/detail/20260305142905131800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时38分"
-        },
-        {
-          "title": "欧洲央行副行长金多斯：伊朗战争持续时间越长，通胀预期发生改变的风险就越大。",
-          "url": "https://flash.jin10.com/detail/20260305170322906800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时33分"
-        },
-        {
-          "title": "欧洲央行副行长金多斯：若因伊朗局势导致通胀预期发生变化，欧洲央行可能会改变其政策立场。",
-          "url": "https://flash.jin10.com/detail/20260305170319094800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时33分"
-        },
-        {
-          "title": "匈牙利央行行长：持续的外汇市场稳定是遏制通胀预期的关键。",
-          "url": "https://flash.jin10.com/detail/20260305182542783800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时30分"
-        },
-        {
-          "title": "欧洲央行副行长金多斯：需警惕通胀及通胀预期的任何稳定变化。",
-          "url": "https://flash.jin10.com/detail/20260305170313388800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时33分"
-        },
-        {
-          "title": "匈牙利央行行长：强势福林正日益体现在进口价格中。",
-          "url": "https://flash.jin10.com/detail/20260305182538126800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时30分"
-        },
-        {
-          "title": "欧洲央行官员称正在评估欧洲银行业通过各种渠道对伊朗战争的间接敞口",
-          "url": "https://wallstreetcn.com/livenews/3064421",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时30分 ~ 19时26分]"
-        },
-        {
-          "title": "欧洲央行管委Nagel：不会猜测伊朗冲突可能对利率产生的影响。",
-          "url": "https://wallstreetcn.com/livenews/3064443",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时26分 ~ 20时36分]"
-        },
-        {
-          "title": "俄罗斯3月2日当周CPI周环比上升0.08%，2026年迄今累计上升2.22%。 2月GDP同比下降2.1%。 1月零售销售同比增长0.7%，预期上升1.9%。 1月失业率2.2%，预期2.3%。 12月薪资同比增长2.4%。",
-          "url": "https://wallstreetcn.com/livenews/3063762",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时31分]"
-        },
-        {
-          "title": "中国央行：3月6日开展8000亿元买断式逆回购操作，期限为3个月",
-          "url": "https://wallstreetcn.com/livenews/3064387",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时33分 ~ 18时30分]"
-        },
-        {
-          "title": "据英国央行调查，英国企业预计未来一年工资增长3.6%。",
-          "url": "https://wallstreetcn.com/livenews/3064407",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时30分 ~ 19时26分]"
-        },
-        {
-          "title": "周三（3月4日），降息赢家指数涨0.32%，报95.52点。",
-          "url": "https://wallstreetcn.com/livenews/3063871",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 07时21分]"
-        },
-        {
-          "title": "欧洲央行副行长金多斯：欧洲经济正受中东局势影响。 在伊朗冲突爆发前夕，欧洲经济表现稳健。 伊朗冲突前风险平衡是双向的。 伊朗冲突加剧了不确定性。 到目前为止市场演变有序。 伊朗冲突爆发后必须采取不同的策略。 通胀预期是欧洲央行采取行动的关键因素。",
-          "url": "https://wallstreetcn.com/livenews/3064382",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时33分 ~ 18时30分]"
-        },
-        {
-          "title": "报道：波兰央行欲出售黄金储备 以资助国防计划",
-          "url": "https://wallstreetcn.com/livenews/3064535",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
-          "title": "欧洲央行管委雷恩：长期来看，欧元走势并不那么剧烈。",
-          "url": "https://flash.jin10.com/detail/20260305182022881800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时30分"
-        },
-        {
-          "title": "欧洲央行副行长金多斯：市场反应相当有序。",
-          "url": "https://flash.jin10.com/detail/20260305165857604800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时33分"
-        },
-        {
-          "title": "道明证券：市场严重低估加拿大央行2026宽松风险",
-          "url": "https://flash.jin10.com/detail/20260305214245747800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
-          "title": "欧洲央行副行长金多斯：另一种情况是持续时间更长。",
-          "url": "https://flash.jin10.com/detail/20260305165850115800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时33分"
-        },
-        {
-          "title": "欧洲央行管委雷恩：切勿对局势妄下结论。",
-          "url": "https://flash.jin10.com/detail/20260305181722528800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时30分"
-        },
-        {
-          "title": "欧洲央行管委内格尔：目前局势与四年前的乌克兰局势有些不同。",
-          "url": "https://flash.jin10.com/detail/20260305185942014800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时26分"
-        },
-        {
-          "title": "日本央行或维持3月利率不变，4月加息选项仍在考虑",
-          "url": "https://wallstreetcn.com/livenews/3064211",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时40分"
-        },
-        {
-          "title": "知情人士称，日本央行并未排除4月加息的可能。",
-          "url": "https://flash.jin10.com/detail/20260305152018326800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时36分"
-        },
-        {
-          "title": "薪资预期放缓难抵能源通胀冲击 英国央行3月降息希望已经破灭",
-          "url": "https://flash.jin10.com/detail/20260305195945591800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "欧洲央行副行长金多斯：基准情形是这场冲突会很快结束。",
-          "url": "https://flash.jin10.com/detail/20260305165835064800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时33分"
-        },
-        {
-          "title": "匈牙利央行行长：能源价格高位运行将持续多久尚不明确。",
-          "url": "https://flash.jin10.com/detail/20260305181616576800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时30分"
-        },
-        {
-          "title": "阿联酋央行行长：阿联酋银行及金融领域韧性充足、实力强劲、运行稳定，具备应对地区局势变化的良好基础。 目前资本充足率为17%，流动性覆盖率超过146.6%。",
-          "url": "https://wallstreetcn.com/livenews/3064348",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
-          "title": "欧洲央行副行长金多斯：伊朗遭袭后，我们必须采用不同的情景方案。",
-          "url": "https://flash.jin10.com/detail/20260305165825537800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时33分"
-        },
-        {
-          "title": "欧洲央行管委雷恩：根据最新数据作出利率决议更有意义。",
-          "url": "https://flash.jin10.com/detail/20260305181545158800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时30分"
-        },
-        {
-          "title": "中东战争加剧美国通胀担忧，债券交易员减少降息押注",
-          "url": "https://wallstreetcn.com/livenews/3063755",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        },
-        {
-          "title": "欧洲央行副行长金多斯：伊朗袭击加剧了不确定性。",
-          "url": "https://flash.jin10.com/detail/20260305165822566800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时33分"
-        },
-        {
-          "title": "欧洲央行管委雷恩：对利率路径不作承诺。",
-          "url": "https://flash.jin10.com/detail/20260305181542709800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时30分"
-        },
-        {
-          "title": "交易员称，印度央行很可能在当地即期外汇市场开盘前大幅抛售美元。",
-          "url": "https://flash.jin10.com/detail/20260305112512974800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
-          "title": "马来西亚央行维持2.75%政策利率不变，符合市场预期。",
-          "url": "https://wallstreetcn.com/livenews/3064301",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时36分"
-        },
-        {
-          "title": "欧洲央行管委Rehn：根据最新数据做出利率决策是合理的。 未对利率走向作出承诺。 切勿贸然对当前局势下结论下判断。 从长期来看，欧元的变动并不那么剧烈。",
-          "url": "https://wallstreetcn.com/livenews/3064428",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时26分"
-        },
-        {
-          "title": "匈牙利央行行长：不应低估伊朗冲突带来的风险。",
-          "url": "https://flash.jin10.com/detail/20260305181517611800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时30分"
-        },
-        {
-          "title": "欧洲央行副行长金多斯：欧洲经济正受中东局势影响。",
-          "url": "https://flash.jin10.com/detail/20260305165558096800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时33分"
-        },
-        {
-          "title": "阿联酋央行行长：阿联酋银行和金融部门具有韧性、强大、稳定，并且能够很好地应对地区发展。",
-          "url": "https://flash.jin10.com/detail/20260305155637676800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
-          "title": "加拿大央行警告称：如果私人信用违约增加，公开市场将面临风险。 警示对冲基金于政府债券领域杠杆化交易的风险。 央行将采取中央回购清算机制。 央行将针对回购采用加拿大抵押品管理服务（CCMS）。 将于2027年年初加入CCMS，从而提升回购市场的韧性。",
-          "url": "https://wallstreetcn.com/livenews/3063744",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        },
-        {
-          "title": "欧洲央行管委兼法国央行行长Villeroy：法国没有资金补贴燃油。",
-          "url": "https://wallstreetcn.com/livenews/3064289",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时36分"
-        },
-        {
-          "title": "交易员减少了对英国央行今年第二次降息的押注，增加了对欧洲央行今年加息的押注。",
-          "url": "https://wallstreetcn.com/livenews/3064334",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
-          "title": "中东危机点燃通胀担忧，2月非农能否拯救降息预期？丨Hi，今天怎么看？",
-          "url": "https://flash.jin10.com/detail/20260305194504178800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "战火重燃通胀预期 英国掉期利率飙升恐终结房贷“降息梦”",
-          "url": "https://flash.jin10.com/detail/20260305213637793800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
-          "title": "欧洲央行管委兼法国央行行长Villeroy：正密切关注能源价格及市场走势。 美元走强重返避险地位。 伊朗冲突持续时间将影响价格走势。 金融稳定没有受到威胁。 没有加息的必要。",
-          "url": "https://wallstreetcn.com/livenews/3064283",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时36分"
-        },
-        {
-          "title": "波兰防长：愿意接受来自央行的额外国防资金。",
-          "url": "https://flash.jin10.com/detail/20260305184543627800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时26分"
-        },
-        {
-          "title": "欧洲央行管委内格尔：不会猜测伊朗战争将如何影响利率。",
-          "url": "https://flash.jin10.com/detail/20260305184409588800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时26分"
-        },
-        {
-          "title": "货币市场预计欧洲央行在12月前加息的概率已升至60%，而周三晚些时候仅为约20%。",
-          "url": "https://wallstreetcn.com/livenews/3064511",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
-          "title": "波兰央行行长格拉平斯基：将建议将央行利润用于国防支出。",
-          "url": "https://flash.jin10.com/detail/20260305004027836800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        },
-        {
-          "title": "欧洲央行管委维勒鲁瓦：法国没有资金来补贴燃料价格。",
-          "url": "https://flash.jin10.com/detail/20260305150214980800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时36分"
-        },
-        {
-          "title": "美国1月进口物价指数年率 -0.1%，预期0.20%，前值0.00%。",
-          "url": "https://flash.jin10.com/detail/20260305213217376800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        }
-      ]
-    },
-    {
       "keyword_group": "人工智能 AI",
-      "match_count": 49,
+      "match_count": 50,
       "titles": [
         {
           "title": "国内目前使用的 AI 智能问答软件，豆包、通义千问、元宝、 kimi 、 deepseek，哪个好用？",
@@ -1256,8 +1367,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时31分 ~ 21时55分]"
+          "appearance_count": 28,
+          "time_info": "[00时31分 ~ 22时38分]"
         },
         {
           "title": "十张AI电报带你看2026年国民经济和社会发展计划的主要任务",
@@ -1283,8 +1394,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时26分 ~ 21时55分]"
+          "appearance_count": 5,
+          "time_info": "[19时26分 ~ 22时38分]"
+        },
+        {
+          "title": "美国用AI斩首了哈梅内伊？神话都不敢这么编",
+          "url": "https://news.ifeng.com/c/8rFVnkGcxJ5",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时29分 ~ 22时38分]"
         },
         {
           "title": "黄仁勋：对OpenAI的300亿美元投资“可能是最后一次”",
@@ -1299,15 +1421,18 @@
           "time_info": "[12时02分 ~ 15时36分]"
         },
         {
-          "title": "美国用AI斩首了哈梅内伊？神话都不敢这么编",
-          "url": "https://news.ifeng.com/c/8rFVnkGcxJ5",
-          "source": "凤凰网",
+          "title": "十五五，十五问｜“人工智能+”如何真正赋能千行百业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32699611",
+          "source": "澎湃新闻",
           "ranks": [
-            7
+            20,
+            16,
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时29分 ~ 21时55分]"
+          "appearance_count": 7,
+          "time_info": "[18时29分 ~ 22时38分]"
         },
         {
           "title": "代表：所有的工种都不会被AI取代",
@@ -1330,20 +1455,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时20分 ~ 07时21分]"
-        },
-        {
-          "title": "十五五，十五问｜“人工智能+”如何真正赋能千行百业",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32699611",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时29分 ~ 21时55分]"
         },
         {
           "title": "高盛CEO苏德巍：在人工智能（AI）前景方面，我们“看到杯子装了一半”。",
@@ -1664,7 +1775,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
         },
@@ -1733,12 +1844,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
+        },
+        {
+          "title": "忍住AI让我把食欲忍住",
+          "url": "https://www.douyin.com/hot/2420009",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         }
       ]
     },
     {
       "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "科技部部长：中国芯片攻关取得新突破",
@@ -1946,6 +2068,189 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
+        },
+        {
+          "title": "美媒：阿里、腾讯、字节跳动转向国内供应商以应对全球存储芯片短缺",
+          "url": "https://flash.jin10.com/detail/20260305220602294800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "硬接导弹无碍,比亚迪这波赢麻",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351348&amp;topic_name=%E7%A1%AC%E6%8E%A5%E5%AF%BC%E5%BC%B9%E6%97%A0%E7%A2%8D%2C%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%BF%99%E6%B3%A2%E8%B5%A2%E9%BA%BB",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            10,
+            16,
+            20,
+            21,
+            24,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 23,
+          "time_info": "[00时31分 ~ 17时33分]"
+        },
+        {
+          "title": "比亚迪：第二代刀片电池9分钟充饱",
+          "url": "https://www.toutiao.com/trending/7613732953641717267/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时35分 ~ 22时38分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜亚马逊收涨将近3.9%，特斯拉涨超3.4%",
+          "url": "https://wallstreetcn.com/livenews/3063863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时25分 ~ 06时21分]"
+        },
+        {
+          "title": "比亚迪：第二代刀片电池9分钟充饱",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%EF%BC%9A%E7%AC%AC%E4%BA%8C%E4%BB%A3%E5%88%80%E7%89%87%E7%94%B5%E6%B1%A09%E5%88%86%E9%92%9F%E5%85%85%E9%A5%B1",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 22时38分]"
+        },
+        {
+          "title": "比亚迪将发布第二代刀片电池",
+          "url": "https://www.douyin.com/hot/2418321",
+          "source": "抖音",
+          "ranks": [
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 07时21分]"
+        },
+        {
+          "title": "比亚迪发布第二代刀片电池及闪充技术，5 分钟充好，9 分钟充饱，这在业内是什么水平？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2012972722834073577",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 22时38分]"
+        },
+        {
+          "title": "比亚迪公布最新技术",
+          "url": "https://www.douyin.com/hot/2420236",
+          "source": "抖音",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 22时38分]"
+        },
+        {
+          "title": "比亚迪全球首创闪充桩来了",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%85%A8%E7%90%83%E9%A6%96%E5%88%9B%E9%97%AA%E5%85%85%E6%A1%A9%E6%9D%A5%E4%BA%86%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 22时38分]"
+        },
+        {
+          "title": "比亚迪今年2月在日本销量466辆",
+          "url": "https://www.toutiao.com/trending/7612951848903213097/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
+          "title": "比亚迪闪充零下30度12分钟充饱",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BA%9A%E8%BF%AA%E9%97%AA%E5%85%85%E9%9B%B6%E4%B8%8B30%E5%BA%A612%E5%88%86%E9%92%9F%E5%85%85%E9%A5%B1%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
+          "title": "比亚迪王传福：第二代刀片电池9分钟“充饱”",
+          "url": "https://wallstreetcn.com/livenews/3064459",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
+          "title": "研究机构New Automotive公布的数据显示，特斯拉(TSLA.O)2月在英国售出2208辆汽车，同比下降45.2%。",
+          "url": "https://flash.jin10.com/detail/20260305124211423800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时40分"
+        },
+        {
+          "title": "比亚迪发布“闪充中国”战略",
+          "url": "https://www.toutiao.com/trending/7613053143803232265/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "理想汽车将在今年发布一款双轮机器人",
+          "url": "https://wallstreetcn.com/livenews/3064512",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         }
       ]
     },
@@ -1982,8 +2287,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时02分 ~ 21时55分]"
+          "appearance_count": 16,
+          "time_info": "[12时02分 ~ 22时38分]"
         },
         {
           "title": "苹果发布会",
@@ -2011,11 +2316,12 @@
             13,
             16,
             14,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时37分 ~ 21时55分]"
+          "appearance_count": 13,
+          "time_info": "[14时37分 ~ 22时38分]"
         },
         {
           "title": "苹果推出MacBook Neo 4599元起售",
@@ -2124,165 +2430,6 @@
       ]
     },
     {
-      "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "硬接导弹无碍,比亚迪这波赢麻",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351348&amp;topic_name=%E7%A1%AC%E6%8E%A5%E5%AF%BC%E5%BC%B9%E6%97%A0%E7%A2%8D%2C%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%BF%99%E6%B3%A2%E8%B5%A2%E9%BA%BB",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            10,
-            16,
-            20,
-            21,
-            24,
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时31分 ~ 17时33分]"
-        },
-        {
-          "title": "比亚迪：第二代刀片电池9分钟充饱",
-          "url": "https://www.toutiao.com/trending/7613732953641717267/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时35分 ~ 21时55分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜亚马逊收涨将近3.9%，特斯拉涨超3.4%",
-          "url": "https://wallstreetcn.com/livenews/3063863",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时25分 ~ 06时21分]"
-        },
-        {
-          "title": "比亚迪将发布第二代刀片电池",
-          "url": "https://www.douyin.com/hot/2418321",
-          "source": "抖音",
-          "ranks": [
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 07时21分]"
-        },
-        {
-          "title": "比亚迪今年2月在日本销量466辆",
-          "url": "https://www.toutiao.com/trending/7612951848903213097/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
-          "title": "比亚迪发布第二代刀片电池及闪充技术，5 分钟充好，9 分钟充饱，这在业内是什么水平？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2012972722834073577",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
-          "title": "比亚迪闪充零下30度12分钟充饱",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BA%9A%E8%BF%AA%E9%97%AA%E5%85%85%E9%9B%B6%E4%B8%8B30%E5%BA%A612%E5%88%86%E9%92%9F%E5%85%85%E9%A5%B1%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
-          "title": "比亚迪：第二代刀片电池9分钟充饱",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%EF%BC%9A%E7%AC%AC%E4%BA%8C%E4%BB%A3%E5%88%80%E7%89%87%E7%94%B5%E6%B1%A09%E5%88%86%E9%92%9F%E5%85%85%E9%A5%B1",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
-          "title": "比亚迪王传福：第二代刀片电池9分钟“充饱”",
-          "url": "https://wallstreetcn.com/livenews/3064459",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "比亚迪公布最新技术",
-          "url": "https://www.douyin.com/hot/2420236",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
-          "title": "比亚迪全球首创闪充桩来了",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%85%A8%E7%90%83%E9%A6%96%E5%88%9B%E9%97%AA%E5%85%85%E6%A1%A9%E6%9D%A5%E4%BA%86%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
-          "title": "研究机构New Automotive公布的数据显示，特斯拉(TSLA.O)2月在英国售出2208辆汽车，同比下降45.2%。",
-          "url": "https://flash.jin10.com/detail/20260305124211423800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时40分"
-        },
-        {
-          "title": "理想汽车将在今年发布一款双轮机器人",
-          "url": "https://wallstreetcn.com/livenews/3064512",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        }
-      ]
-    },
-    {
       "keyword_group": "就业 裁员 招聘",
       "match_count": 12,
       "titles": [
@@ -2327,7 +2474,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
         },
@@ -2371,7 +2518,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
         },
@@ -2393,7 +2540,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
         },
@@ -2454,6 +2601,23 @@
           "time_info": "[00时31分 ~ 09时08分]"
         },
         {
+          "title": "高铁一等座4元二等座8元？12306回应",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E4%B8%80%E7%AD%89%E5%BA%A74%E5%85%83%E4%BA%8C%E7%AD%89%E5%BA%A78%E5%85%83%EF%BC%9F12306%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            2,
+            4,
+            7,
+            12,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时29分 ~ 22时38分]"
+        },
+        {
           "title": "国内跨城地铁为何越来越多",
           "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E5%86%85%E8%B7%A8%E5%9F%8E%E5%9C%B0%E9%93%81%E4%B8%BA%E4%BD%95%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A",
           "source": "bilibili 热搜",
@@ -2472,33 +2636,18 @@
           "time_info": "[00时31分 ~ 21时55分]"
         },
         {
-          "title": "高铁一等座4元二等座8元？12306回应",
-          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E4%B8%80%E7%AD%89%E5%BA%A74%E5%85%83%E4%BA%8C%E7%AD%89%E5%BA%A78%E5%85%83%EF%BC%9F12306%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            2,
-            4,
-            7,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时29分 ~ 21时55分]"
-        },
-        {
           "title": "高铁一等座4元二等座8元",
           "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E4%B8%80%E7%AD%89%E5%BA%A74%E5%85%83%E4%BA%8C%E7%AD%89%E5%BA%A78%E5%85%83%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
           "ranks": [
             11,
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时33分 ~ 21时55分]"
+          "appearance_count": 8,
+          "time_info": "[17时33分 ~ 22时38分]"
         },
         {
           "title": "市场消息：以色列空军已开始对伊朗在德黑兰的军事基础设施进行新一轮打击。",
@@ -2529,7 +2678,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
         },
@@ -2672,6 +2821,18 @@
           "time_info": "[00时31分 ~ 09时08分]"
         },
         {
+          "title": "【每日收评】深成指与创业板指双双涨超1%，全市场近4100股收红，MicroLED概念站上风口",
+          "url": "https://www.cls.cn/detail/2303938",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 22时38分]"
+        },
+        {
           "title": "沪指涨幅扩大至1%，深成指、创业板指此前均涨超1%。电网设备、先进封装板块领涨，全市场超4500只个股上涨。",
           "url": "https://wallstreetcn.com/livenews/3064214",
           "source": "华尔街见闻-快讯",
@@ -2681,17 +2842,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
-        },
-        {
-          "title": "【每日收评】深成指与创业板指双双涨超1%，全市场近4100股收红，MicroLED概念站上风口",
-          "url": "https://www.cls.cn/detail/2303938",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
         },
         {
           "title": "上证指数早盘收报4116.77点，涨0.84%。 深证成指早盘收报14150.45点，涨1.67%。 创业板指早盘收报3241.17点，涨2.43%。 沪深300早盘收报4662.81点，涨1.31%。 科创50早盘收报1415.46点，涨2.45%。 中证500早盘收报8340.90点，涨1.11%。 中证1000早盘收报8203.91点，涨1.35%。",
@@ -2802,7 +2952,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
         }
@@ -2895,7 +3045,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
         },
@@ -2924,11 +3074,12 @@
             5,
             1,
             23,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时29分 ~ 21时55分]"
+          "appearance_count": 9,
+          "time_info": "[16时29分 ~ 22时38分]"
         },
         {
           "title": "中药学女大学生进山尝草药走红",
@@ -2973,8 +3124,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时26分 ~ 21时55分]"
+          "appearance_count": 5,
+          "time_info": "[19时26分 ~ 22时38分]"
         },
         {
           "title": "继林俊旸离职后，多位核心成员相继出走，阿里内部到底发生了啥？大模型赛道要告别英雄时代了吗？",
@@ -3004,19 +3155,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时33分 ~ 21时55分]"
+          "appearance_count": 8,
+          "time_info": "[17时33分 ~ 22时38分]"
         },
         {
           "title": "考研人数少了为啥分数却涨了",
           "url": "https://www.douyin.com/hot/2420198",
           "source": "抖音",
           "ranks": [
-            14
+            14,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 22时38分]"
         }
       ]
     },
@@ -3063,8 +3215,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时08分 ~ 21时55分]"
+          "appearance_count": 17,
+          "time_info": "[09时08分 ~ 22时38分]"
         }
       ]
     }
