@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T06:21:15.717558+08:00",
-  "total_titles_processed": 611,
+  "generated_at": "2026-03-07T07:19:03.093191+08:00",
+  "total_titles_processed": 636,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 06时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 07时19分]"
         },
         {
           "title": "卡塔尔能源部长警告“油价或冲上150美元” 国际油价应声拉涨",
@@ -27,8 +27,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 06时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 07时19分]"
         },
         {
           "title": "伯克希尔自2024年以来首次开启回购，“股神”巴菲特接班人增持1500万美元",
@@ -49,8 +49,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时21分 ~ 06时21分]"
+          "appearance_count": 4,
+          "time_info": "[04时21分 ~ 07时19分]"
         },
         {
           "title": "纽约金日内涨幅达2.0%，报5180.6美元/盎司。",
@@ -134,8 +134,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时21分 ~ 06时21分]"
+          "appearance_count": 4,
+          "time_info": "[04时21分 ~ 07时19分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9060元，较周四夜盘收盘涨65点。成交量477.96亿美元。",
@@ -172,6 +172,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时21分 ~ 05时20分]"
+        },
+        {
+          "title": "周五（3月6日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报6.9030元，较周四纽约尾盘涨150点，日内整体交投于6.9198-6.8888元区间。",
+          "url": "https://wallstreetcn.com/livenews/3065487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时19分]"
         },
         {
           "title": "NYMEX天然气期货涨9%，现报3.274美元/百万英热单位。",
@@ -246,6 +258,18 @@
           "time_info": "[03时28分 ~ 04时21分]"
         },
         {
+          "title": "美联储：美国上周银行存款18.797万亿美元，之前一周18.778万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3065479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时19分]"
+        },
+        {
           "title": "周五（3月6日），美联储隔夜逆回购协议（RRP）使用规模为15.12亿美元（交易对手5家），上个交易日报27.93亿美元。",
           "url": "https://wallstreetcn.com/livenews/3065427",
           "source": "华尔街见闻-快讯",
@@ -267,17 +291,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时27分 ~ 03时28分]"
-        },
-        {
-          "title": "周五（3月6日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报6.9030元，较周四纽约尾盘涨150点，日内整体交投于6.9198-6.8888元区间。",
-          "url": "https://wallstreetcn.com/livenews/3065487",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
         },
         {
           "title": "贝莱德260亿美元私人信用基金限制赎回",
@@ -344,17 +357,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
-        },
-        {
-          "title": "美联储：美国上周银行存款18.797万亿美元，之前一周18.778万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3065479",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
         },
         {
           "title": "美国法院文件显示，美国海关与边境保护局称截至3月4日，依据《国际紧急经济权力法》征收的关税及预估关税保证金总额达1660亿美元。",
@@ -623,6 +625,212 @@
       ]
     },
     {
+      "keyword_group": "人工智能 AI",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "真实锐评TES打野Naiyou被调查",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E9%94%90%E8%AF%84TES%E6%89%93%E9%87%8ENaiyou%E8%A2%AB%E8%B0%83%E6%9F%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 07时19分]"
+        },
+        {
+          "title": "“龙虾” 炸翻AI圈！雷军下场 鹅厂排长队",
+          "url": "https://www.cls.cn/detail/2305626",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 07时19分]"
+        },
+        {
+          "title": "破5亿播放AI短剧成本仅3000",
+          "url": "https://www.baidu.com/s?wd=%E7%A0%B45%E4%BA%BF%E6%92%AD%E6%94%BEAI%E7%9F%AD%E5%89%A7%E6%88%90%E6%9C%AC%E4%BB%853000",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 07时19分]"
+        },
+        {
+          "title": "TES上报Naiyou不当行为",
+          "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%8A%E6%8A%A5Naiyou%E4%B8%8D%E5%BD%93%E8%A1%8C%E4%B8%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            14,
+            16,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 07时19分]"
+        },
+        {
+          "title": "他把AI模型卖给美军，如今却害怕成为“末日博士”",
+          "url": "https://news.ifeng.com/c/8rHKBpbeROT",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 07时19分]"
+        },
+        {
+          "title": "Naiyou Jiaqi",
+          "url": "https://s.weibo.com/weibo?q=Naiyou%20Jiaqi&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            22,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 07时19分]"
+        },
+        {
+          "title": "TES 发布公告「打野选手 Naiyou 存在违反赛事公平性行为」，对此你有什么想说的？",
+          "url": "https://www.zhihu.com/question/2013292943084058316",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 05时20分]"
+        },
+        {
+          "title": "在 AI 能秒答一切的时代，人的核心竞争力到底是什么？",
+          "url": "https://www.zhihu.com/question/1992302419741266883",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时18分 ~ 07时19分]"
+        },
+        {
+          "title": "OpenAI推出一款旨在帮助安全团队发现并修复大型数据库漏洞的人工智能代理Codex Security。",
+          "url": "https://wallstreetcn.com/livenews/3065420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 04时21分]"
+        },
+        {
+          "title": "AI短剧霍去病持续刷屏",
+          "url": "https://www.douyin.com/hot/2421579",
+          "source": "抖音",
+          "ranks": [
+            24,
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时31分]"
+        },
+        {
+          "title": "TES上报Naiyou不正当行为",
+          "url": "https://s.weibo.com/weibo?q=%23TES%E4%B8%8A%E6%8A%A5Naiyou%E4%B8%8D%E6%AD%A3%E5%BD%93%E8%A1%8C%E4%B8%BA%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 01时27分]"
+        },
+        {
+          "title": "国产AI短剧《霍去病》火到海外",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7AI%E7%9F%AD%E5%89%A7%E3%80%8A%E9%9C%8D%E5%8E%BB%E7%97%85%E3%80%8B%E7%81%AB%E5%88%B0%E6%B5%B7%E5%A4%96",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时28分]"
+        },
+        {
+          "title": "OpenAI发布AI代理安全工具 或冲击传统网络安全公司",
+          "url": "https://flash.jin10.com/detail/20260307021349560800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "市场消息：OpenAI推出了一款旨在帮助安全团队发现并修复大型数据库漏洞的人工智能代理Codex Security。",
+          "url": "https://flash.jin10.com/detail/20260307021106759800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "美国堪萨斯城联储主席Schmid：受人工智能影响及劳动力人口老龄化，企业雇佣计划处于停滞状态。",
+          "url": "https://wallstreetcn.com/livenews/3065406",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "受融资分歧及OpenAI需求变更影响，甲骨文与OpenAI已取消扩建德州旗舰AI数据中心的计划。（彭博社）",
+          "url": "https://wallstreetcn.com/livenews/3065452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "美国芝加哥联储主席Goolsbee：并不认为人工智能（AI）的应用解释了生产力数据。",
+          "url": "https://wallstreetcn.com/livenews/3065348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "央行 降息 降准 CPI 物价",
       "match_count": 17,
       "titles": [
@@ -636,8 +844,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 06时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 07时19分]"
         },
         {
           "title": "美国2月非农意外录得“负增长” 交易员加大美联储降息押注",
@@ -648,8 +856,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 06时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 07时19分]"
         },
         {
           "title": "南非央行行长：央行将为下一次货币政策会议重新制定风险情景。",
@@ -660,8 +868,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时28分 ~ 06时21分]"
+          "appearance_count": 5,
+          "time_info": "[03时28分 ~ 07时19分]"
         },
         {
           "title": "欧洲央行执委施纳贝尔：今天的情况与2022年大相径庭。",
@@ -823,202 +1031,8 @@
       ]
     },
     {
-      "keyword_group": "人工智能 AI",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "真实锐评TES打野Naiyou被调查",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E9%94%90%E8%AF%84TES%E6%89%93%E9%87%8ENaiyou%E8%A2%AB%E8%B0%83%E6%9F%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 06时21分]"
-        },
-        {
-          "title": "“龙虾” 炸翻AI圈！雷军下场 鹅厂排长队",
-          "url": "https://www.cls.cn/detail/2305626",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 06时21分]"
-        },
-        {
-          "title": "破5亿播放AI短剧成本仅3000",
-          "url": "https://www.baidu.com/s?wd=%E7%A0%B45%E4%BA%BF%E6%92%AD%E6%94%BEAI%E7%9F%AD%E5%89%A7%E6%88%90%E6%9C%AC%E4%BB%853000",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 06时21分]"
-        },
-        {
-          "title": "TES上报Naiyou不当行为",
-          "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%8A%E6%8A%A5Naiyou%E4%B8%8D%E5%BD%93%E8%A1%8C%E4%B8%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            14,
-            16,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 06时21分]"
-        },
-        {
-          "title": "他把AI模型卖给美军，如今却害怕成为“末日博士”",
-          "url": "https://news.ifeng.com/c/8rHKBpbeROT",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 06时21分]"
-        },
-        {
-          "title": "Naiyou Jiaqi",
-          "url": "https://s.weibo.com/weibo?q=Naiyou%20Jiaqi&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21,
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 06时21分]"
-        },
-        {
-          "title": "TES 发布公告「打野选手 Naiyou 存在违反赛事公平性行为」，对此你有什么想说的？",
-          "url": "https://www.zhihu.com/question/2013292943084058316",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 05时20分]"
-        },
-        {
-          "title": "OpenAI推出一款旨在帮助安全团队发现并修复大型数据库漏洞的人工智能代理Codex Security。",
-          "url": "https://wallstreetcn.com/livenews/3065420",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时31分 ~ 04时21分]"
-        },
-        {
-          "title": "AI短剧霍去病持续刷屏",
-          "url": "https://www.douyin.com/hot/2421579",
-          "source": "抖音",
-          "ranks": [
-            24,
-            28,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 02时31分]"
-        },
-        {
-          "title": "TES上报Naiyou不正当行为",
-          "url": "https://s.weibo.com/weibo?q=%23TES%E4%B8%8A%E6%8A%A5Naiyou%E4%B8%8D%E6%AD%A3%E5%BD%93%E8%A1%8C%E4%B8%BA%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 01时27分]"
-        },
-        {
-          "title": "国产AI短剧《霍去病》火到海外",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7AI%E7%9F%AD%E5%89%A7%E3%80%8A%E9%9C%8D%E5%8E%BB%E7%97%85%E3%80%8B%E7%81%AB%E5%88%B0%E6%B5%B7%E5%A4%96",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时28分]"
-        },
-        {
-          "title": "OpenAI发布AI代理安全工具 或冲击传统网络安全公司",
-          "url": "https://flash.jin10.com/detail/20260307021349560800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时31分"
-        },
-        {
-          "title": "市场消息：OpenAI推出了一款旨在帮助安全团队发现并修复大型数据库漏洞的人工智能代理Codex Security。",
-          "url": "https://flash.jin10.com/detail/20260307021106759800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时31分"
-        },
-        {
-          "title": "美国堪萨斯城联储主席Schmid：受人工智能影响及劳动力人口老龄化，企业雇佣计划处于停滞状态。",
-          "url": "https://wallstreetcn.com/livenews/3065406",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时31分"
-        },
-        {
-          "title": "受融资分歧及OpenAI需求变更影响，甲骨文与OpenAI已取消扩建德州旗舰AI数据中心的计划。（彭博社）",
-          "url": "https://wallstreetcn.com/livenews/3065452",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时20分"
-        },
-        {
-          "title": "美国芝加哥联储主席Goolsbee：并不认为人工智能（AI）的应用解释了生产力数据。",
-          "url": "https://wallstreetcn.com/livenews/3065348",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        }
-      ]
-    },
-    {
       "keyword_group": "就业 裁员 招聘",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "爆冷！美国2月非农就业人口减少9.2万，前两月就业下修6.9万，失业率意外升至4.4%",
@@ -1029,8 +1043,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 06时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 07时19分]"
         },
         {
           "title": "西贝命悬一线：贾国龙卸任CEO、大幅关店裁员",
@@ -1040,8 +1054,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 06时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 07时19分]"
         },
         {
           "title": "周五（3月6日）纽约尾盘，美国10年期基准国债收益率涨0.19个基点，报4.1383%，北京时间21:30发布美国非农就业报告时跳水至4.1035%刷新日低，随后反弹、在22:38（美股盘初）刷新日高至4.1848%，本周累计上涨20.08个基点，整体持续走高。 两年期美债收益率跌1.59个基点，报3.5605%，本周累涨18.56个基点，整体交投于3.3586%-3.6289%区间。",
@@ -1050,9 +1064,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "美股收盘：油价暴涨叠加就业数据疲软 三大指数集体收跌",
+          "url": "https://www.cls.cn/detail/2305872",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时18分 ~ 07时19分]"
         },
         {
           "title": "美股另类资产管理公司和银行股大跌，包括贝莱德和Blue Owl在内，因一系列负面私人信贷事件引发市场对行业健康状况的新担忧。 受就业数据弱于预期及中东冲突扩大影响，整体股市亦同步下挫。 目前，贝莱德跌逾5%，Ares Management跌6.3%，KKR & Co Inc跌6.3%，Blue Owl跌6%，黑石跌5.6%，阿波罗全球管理跌5.5%。",
@@ -1114,8 +1139,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 06时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 07时19分]"
         },
         {
           "title": "雷军：小米机器人在拧螺丝了",
@@ -1124,11 +1149,12 @@
           "ranks": [
             30,
             26,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 02时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 07时19分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨0.7%，本周累跌约4.2%。 热门中概股里，万国数据初步收涨7.5%，京东涨6.1%，小鹏、携程、网易、金山云至多涨5.9%，小米涨3%，美团、腾讯涨超2%，阿里巴巴涨0.4%，阿特斯太阳能跌3.7%，小马智行跌8.5%。 ETF中，KWEB初步收涨1.3%，CQQQ涨0.1%。",
@@ -1148,7 +1174,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         }
@@ -1167,8 +1193,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 06时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 07时19分]"
         },
         {
           "title": "非农前夜，油价飙升引发通胀担忧，芯片股领跌美股，美债四连跌，美元走强",
@@ -1179,8 +1205,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 06时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 07时19分]"
         },
         {
           "title": "半导体ETF收跌超3.7%，领跌美股行业ETF",
@@ -1219,8 +1245,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 06时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 07时19分]"
         },
         {
           "title": "充电焦虑可能要被比亚迪彻底解决了",
@@ -1262,8 +1288,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 06时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 07时19分]"
         },
         {
           "title": "沙特财政部发言人：沙特的能源出口基础设施依然坚韧，该国具备灵活性，可利用包括红海在内的多条出口路线。",
@@ -1294,8 +1320,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 06时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 07时19分]"
         },
         {
           "title": "苹果新品发布会全复盘",
@@ -1304,11 +1330,12 @@
           "ranks": [
             24,
             23,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时31分 ~ 06时21分]"
+          "appearance_count": 7,
+          "time_info": "[02时31分 ~ 07时19分]"
         }
       ]
     },
@@ -1335,11 +1362,12 @@
             19,
             17,
             18,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 06时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 07时19分]"
         }
       ]
     },
