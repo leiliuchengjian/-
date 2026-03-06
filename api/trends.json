@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-03-06T12:02:01.161462+08:00",
-  "total_titles_processed": 903,
+  "generated_at": "2026-03-06T13:11:13.806496+08:00",
+  "total_titles_processed": 998,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
+        {
+          "title": "现货黄金短线下挫70美元，报道：波兰拟售黄金储备为国防融资",
+          "url": "https://wallstreetcn.com/articles/3766831",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时44分 ~ 13时11分]"
+        },
         {
           "title": "2026胡润全球富豪榜发布：中国10亿美元企业家达1110位",
           "url": "https://finance.ifeng.com/c/8rFWaLygvoN",
@@ -28,19 +41,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
-        },
-        {
-          "title": "现货黄金短线下挫70美元，报道：波兰拟售黄金储备为国防融资",
-          "url": "https://wallstreetcn.com/articles/3766831",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时44分 ~ 12时02分]"
         },
         {
           "title": "WTI原油向上触及81美元/桶，日内涨6.38%。",
@@ -74,17 +74,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
-        },
-        {
-          "title": "截至2月底，印度尼西亚外汇储备降至1519亿美元。",
-          "url": "https://flash.jin10.com/detail/20260306114626953800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
         },
         {
           "title": "LME期铜收跌156美元，报12902美元/吨。 LME期铝收跌46美元，报3296美元/吨。 LME期锌收跌98美元，报3227美元/吨。 LME期铅收跌21美元，报1942美元/吨。 LME期镍收跌273美元，报17218美元/吨。 LME期锡收跌1118美元，报49901美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -122,6 +111,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时28分 ~ 06时21分]"
+        },
+        {
+          "title": "截至2月底，印度尼西亚外汇储备降至1519亿美元。",
+          "url": "https://flash.jin10.com/detail/20260306114626953800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 13时11分]"
         },
         {
           "title": "地缘局势助推“美元荒”逻辑，美元指数涨0.50%",
@@ -224,6 +225,18 @@
           "time_info": "[04时28分 ~ 05时25分]"
         },
         {
+          "title": "现货白银上涨3%，至84.64美元/盎司。 现货黄金涨1.12%，至5138.55美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3064839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 13时11分]"
+        },
+        {
           "title": "美国原油价格突破80美元/桶，为2025年1月以来首次。",
           "url": "https://wallstreetcn.com/livenews/3064632",
           "source": "华尔街见闻-快讯",
@@ -272,6 +285,17 @@
           "time_info": "[04时28分 ~ 05时25分]"
         },
         {
+          "title": "摩根大通：将好市多(COST.O)目标价从1050美元上调至1060美元。",
+          "url": "https://flash.jin10.com/detail/20260306121547743800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        },
+        {
           "title": "现货黄金跌破5070美元/盎司，日内跌0.23%。",
           "url": "https://flash.jin10.com/detail/20260306090052961800",
           "source": "金十数据",
@@ -281,17 +305,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
-        },
-        {
-          "title": "现货白银上涨3%，至84.64美元/盎司。 现货黄金涨1.12%，至5138.55美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3064839",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
         },
         {
           "title": "地中海航运：自3月16日起至另行通知，从波罗的海斯堪的纳维亚地区到东非的货物紧急燃油附加费（EFS）为干货每20英尺标准集装箱（TEU）75美元，冷藏箱每20英尺标准集装箱120美元。",
@@ -316,6 +329,17 @@
           "time_info": "03时07分"
         },
         {
+          "title": "美智库：美对伊朗军事行动前四天花费约37亿美元",
+          "url": "https://wallstreetcn.com/livenews/3064862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        },
+        {
           "title": "消息人士：交易商目前以较布伦特原油每桶高4至5美元的溢价向印度市场出售俄罗斯乌拉尔原油，较伊朗冲突爆发前的大幅折扣已有明显回升。",
           "url": "https://flash.jin10.com/detail/20260306023110123800",
           "source": "金十数据",
@@ -325,6 +349,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        },
+        {
+          "title": "现货钯金日内涨幅达2.00%，现报1664.91美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260306120424074800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
         },
         {
           "title": "地中海航运：自3月16日起至另行通知为止，自北欧（包括英国）至红海航线的货物附加费将收取每标准箱40美元、每冷藏箱60美元。",
@@ -344,7 +379,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -366,7 +401,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -388,7 +423,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -407,7 +442,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 24,
+      "match_count": 30,
       "titles": [
         {
           "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
@@ -432,8 +467,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时58分 ~ 12时02分]"
+          "appearance_count": 12,
+          "time_info": "[01时58分 ~ 13时11分]"
         },
         {
           "title": "十五五，十五问｜“人工智能+”如何真正赋能千行百业",
@@ -441,11 +476,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时58分 ~ 12时02分]"
+          "appearance_count": 12,
+          "time_info": "[01时58分 ~ 13时11分]"
         },
         {
           "title": "AI猫咪的复工vlog",
@@ -474,15 +510,50 @@
           "time_info": "[01时58分 ~ 07时44分]"
         },
         {
+          "title": "英国将推迟作出关于AI版权规则的决定。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3064881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        },
+        {
+          "title": "软银寻求创纪录的400亿美元贷款投资OpenAI",
+          "url": "https://flash.jin10.com/detail/20260306122409333800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2026-03-06）",
           "url": "https://flash.jin10.com/detail/20260306115316980800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 13时11分]"
+        },
+        {
+          "title": "详解OpenAI新模型GPT-5.4",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3OpenAI%E6%96%B0%E6%A8%A1%E5%9E%8BGPT-5.4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时01分 ~ 13时11分]"
         },
         {
           "title": "亚马逊推出人工智能平台，实现医疗保健行政工作自动化",
@@ -534,17 +605,6 @@
           "time_info": "[04时28分 ~ 05时25分]"
         },
         {
-          "title": "详解OpenAI新模型GPT-5.4",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3OpenAI%E6%96%B0%E6%A8%A1%E5%9E%8BGPT-5.4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时02分]"
-        },
-        {
           "title": "OpenAI发布最强专业模型GPT-5.4",
           "url": "https://www.toutiao.com/trending/7613911179013918271/",
           "source": "今日头条",
@@ -589,6 +649,17 @@
           "time_info": "06时21分"
         },
         {
+          "title": "OpenAI将把从英伟达(NVDA.O)和亚马逊(AMZN.O)循环融资获得的资金借给软银。",
+          "url": "https://flash.jin10.com/detail/20260306120949776800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        },
+        {
           "title": "美国拟将AI芯片出口管制扩展至全球 英伟达、AMD等公司出口需获许可",
           "url": "https://wallstreetcn.com/livenews/3064683",
           "source": "华尔街见闻-快讯",
@@ -598,6 +669,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
+        },
+        {
+          "title": "债务交易平台运营方MarketAxess表示，约25%的固定收益交易员预计，未来12至18个月内，其所在公司将大幅扩大人工智能的使用。",
+          "url": "https://wallstreetcn.com/livenews/3064865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        },
+        {
+          "title": "软银集团正寻求一笔至高达400亿美元的创纪录贷款，用于收购OpenAI的股权。",
+          "url": "https://flash.jin10.com/detail/20260306120926767800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
         },
         {
           "title": "Together AI正洽谈以75亿美元的估值进行融资。（The Information）",
@@ -639,9 +732,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
+        },
+        {
+          "title": "软银寻求高达400亿美元的创纪录贷款，用于收购OpenAI股份。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3064859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
         },
         {
           "title": "甲骨文计划裁减数千名员工 以应对AI发展导致的资金短缺",
@@ -691,8 +795,20 @@
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "【早报】经济主题记者会今日将举行；央行将开展8000亿元买断式逆回购操作",
+          "url": "https://www.cls.cn/detail/2304488",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时44分 ~ 13时11分]"
+        },
         {
           "title": "央行明日开展8000亿元买断式逆回购操作 3月流动性将保持充裕",
           "url": "https://www.cls.cn/detail/2304309",
@@ -706,18 +822,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时58分 ~ 12时02分]"
-        },
-        {
-          "title": "【早报】经济主题记者会今日将举行；央行将开展8000亿元买断式逆回购操作",
-          "url": "https://www.cls.cn/detail/2304488",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时44分 ~ 12时02分]"
         },
         {
           "title": "央行：6日开展8000亿元买断式逆回购",
@@ -743,6 +847,17 @@
           "time_info": "01时58分"
         },
         {
+          "title": "阿联酋央行表示，金融部门依然保持韧性。",
+          "url": "https://flash.jin10.com/detail/20260306124807331800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        },
+        {
           "title": "韩国2月CPI月率 0.3%，预期0.40%，前值0.40%。",
           "url": "https://flash.jin10.com/detail/20260306070002547801",
           "source": "金十数据",
@@ -765,6 +880,18 @@
           "time_info": "07时44分"
         },
         {
+          "title": "央行开展8000亿元买断式逆回购",
+          "url": "https://www.douyin.com/hot/2420348",
+          "source": "抖音",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时01分 ~ 13时11分]"
+        },
+        {
           "title": "欧洲央行行长拉加德：我的任期将于2027年10月结束。",
           "url": "https://wallstreetcn.com/livenews/3064628",
           "source": "华尔街见闻-快讯",
@@ -775,17 +902,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时07分 ~ 04时28分]"
-        },
-        {
-          "title": "央行开展8000亿元买断式逆回购",
-          "url": "https://www.douyin.com/hot/2420348",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时02分]"
         },
         {
           "title": "央行减量续作3个月期买断式逆回购，业内人士：并不意味着货币政策转向",
@@ -808,6 +924,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "韩国副财政部长：政府将采取一切措施，通过设定石油价格上限来稳定消费者物价。",
+          "url": "https://flash.jin10.com/detail/20260306120457733800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        },
+        {
+          "title": "国际货币基金组织：要求成员国整顿内部秩序。 各国央行必须更加关注消费者物价指数和货币。 一些成员国正与国际货币基金组织就国际收支平衡问题进行磋商。 该基金已经准备好帮助成员国应对国际收支平衡问题。",
+          "url": "https://wallstreetcn.com/livenews/3064858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
         },
         {
           "title": "交易员加大对欧洲央行加息的押注，预计今年加息的可能性为75%。",
@@ -849,7 +987,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         }
@@ -857,7 +995,7 @@
     },
     {
       "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "比亚迪发布第二代刀片电池及闪充技术，5 分钟充好，9 分钟充饱，这在业内是什么水平？哪些信息值得关注？",
@@ -930,16 +1068,28 @@
           "time_info": "[01时58分 ~ 07时44分]"
         },
         {
+          "title": "比亚迪发布第二代刀片电池，宣称让充电和加油一样快，-30°C 只多 3 分钟，这会对燃油车造成冲击吗？",
+          "url": "https://www.zhihu.com/question/2012986900298871194",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时10分 ~ 13时11分]"
+        },
+        {
           "title": "如何看待比亚迪9分钟快充“封神”",
           "url": "https://www.toutiao.com/trending/7613794895211269658/",
           "source": "今日头条",
           "ranks": [
             24,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时12分 ~ 12时02分]"
+          "appearance_count": 5,
+          "time_info": "[09时12分 ~ 13时11分]"
         },
         {
           "title": "比亚迪王传福：第二代刀片电池9分钟“充饱”，到年底建成20000座闪充站",
@@ -949,19 +1099,31 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时02分]"
+          "appearance_count": 4,
+          "time_info": "[12时01分 ~ 13时11分]"
         },
         {
           "title": "燃油时代落幕?比亚迪闪充炸场",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351451&amp;topic_name=%E7%87%83%E6%B2%B9%E6%97%B6%E4%BB%A3%E8%90%BD%E5%B9%95%3F%E6%AF%94%E4%BA%9A%E8%BF%AA%E9%97%AA%E5%85%85%E7%82%B8%E5%9C%BA",
           "source": "贴吧",
           "ranks": [
-            9
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时01分 ~ 13时11分]"
+        },
+        {
+          "title": "比亚迪发布会都说了啥",
+          "url": "https://www.toutiao.com/trending/7613606639488647206/",
+          "source": "今日头条",
+          "ranks": [
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时02分]"
+          "time_info": "[13时10分 ~ 13时11分]"
         },
         {
           "title": "花旗：比亚迪新电池技术领先市场 重申对公司买入评级",
@@ -999,8 +1161,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时44分 ~ 12时02分]"
+          "appearance_count": 6,
+          "time_info": "[07时44分 ~ 13时11分]"
         },
         {
           "title": "雷军回应手机内存芯片价格上涨",
@@ -1036,8 +1198,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时02分]"
+          "appearance_count": 4,
+          "time_info": "[12时01分 ~ 13时11分]"
         },
         {
           "title": "美股芯片股短线走低 英伟达跌近2%",
@@ -1085,11 +1247,12 @@
           "url": "https://wallstreetcn.com/livenews/3064853",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 13时11分]"
         },
         {
           "title": "国内跨城地铁为何越来越多",
@@ -1131,11 +1294,12 @@
             19,
             22,
             18,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时58分 ~ 12时02分]"
+          "appearance_count": 12,
+          "time_info": "[01时58分 ~ 13时11分]"
         },
         {
           "title": "iPhone17e上手体验",
@@ -1158,7 +1322,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         }
@@ -1185,22 +1349,24 @@
           "url": "https://wallstreetcn.com/livenews/3064846",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 13时11分]"
         },
         {
           "title": "3月6日午间收评：创业板指低开高走涨0.85%，电网设备、燃气轮机概念集体走强",
           "url": "https://wallstreetcn.com/livenews/3064845",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 13时11分]"
         }
       ]
     },
@@ -1215,22 +1381,24 @@
           "ranks": [
             16,
             17,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时58分 ~ 12时02分]"
+          "appearance_count": 12,
+          "time_info": "[01时58分 ~ 13时11分]"
         },
         {
           "title": "阿里否认大模型核心团队集体离职：团队稳定，服务正常，未设置商业化KPI",
           "url": "https://m.thepaper.cn/newsDetail_forward_32707241",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时02分]"
+          "appearance_count": 4,
+          "time_info": "[12时01分 ~ 13时11分]"
         }
       ]
     },
@@ -1328,11 +1496,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32706447",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时12分 ~ 12时02分]"
+          "appearance_count": 5,
+          "time_info": "[09时12分 ~ 13时11分]"
         }
       ]
     }
