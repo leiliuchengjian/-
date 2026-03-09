@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T20:36:32.472309+08:00",
-  "total_titles_processed": 1706,
+  "generated_at": "2026-03-09T21:59:40.716497+08:00",
+  "total_titles_processed": 1827,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 52,
+      "match_count": 54,
       "titles": [
         {
           "title": "国际油价突破每桶 100 美元，为 2022 年来首次，会长期维持在高位吗？对我们的生活影响有多大？",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时06分 ~ 20时36分]"
+          "appearance_count": 13,
+          "time_info": "[12时06分 ~ 21时59分]"
         },
         {
           "title": "卡塔尔警告油价或升至每桶 150 美元，国内油价或迎四年来最大涨幅，后续还会涨吗？对经济有多大影响？",
@@ -128,7 +128,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
         },
@@ -172,7 +172,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
         },
@@ -247,6 +247,18 @@
           "time_info": "[06时14分 ~ 07时15分]"
         },
         {
+          "title": "1亿美元委内瑞拉黄金运抵美国",
+          "url": "https://wallstreetcn.com/livenews/3066520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时36分 ~ 21时59分]"
+        },
+        {
           "title": "墨西哥比索兑美元日内跌幅扩大至1.1%。",
           "url": "https://wallstreetcn.com/livenews/3065945",
           "source": "华尔街见闻-快讯",
@@ -313,15 +325,15 @@
           "time_info": "17时38分"
         },
         {
-          "title": "1亿美元委内瑞拉黄金运抵美国",
-          "url": "https://wallstreetcn.com/livenews/3066520",
+          "title": "伊朗警告油价或超200美元",
+          "url": "https://wallstreetcn.com/livenews/3066547",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时36分"
+          "time_info": "21时59分"
         },
         {
           "title": "多个主要产油国产量削减 美、布两油双双冲上100美元",
@@ -352,7 +364,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
         },
@@ -366,6 +378,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "机构：中东冲突若持续，布油价格或升至135美元",
+          "url": "https://flash.jin10.com/detail/20260309214652314800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "印度卢比兑美元下跌0.5%，报1美元兑92.23卢比，受油价飙升影响。 日本10年期国债收益率上行4个基点至6.73%。",
@@ -590,6 +613,382 @@
       ]
     },
     {
+      "keyword_group": "人工智能 AI",
+      "match_count": 31,
+      "titles": [
+        {
+          "title": "周末要闻汇总：证监会发布短线交易监管规定；AI“养龙虾”火了",
+          "url": "https://www.cls.cn/detail/2306367",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时16分 ~ 12时07分]"
+        },
+        {
+          "title": "【早报】深圳出手，“AI龙虾”支持政策来了；事关短线交易，证监会发新规",
+          "url": "https://www.cls.cn/detail/2306525",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时08分 ~ 16时33分]"
+        },
+        {
+          "title": "AI养“龙虾”警惕安全风险",
+          "url": "https://www.cls.cn/detail/2306306",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时16分 ~ 12时07分]"
+        },
+        {
+          "title": "深圳龙岗拟首发“AI龙虾十条”",
+          "url": "https://wallstreetcn.com/articles/3766977",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 23,
+          "time_info": "[00时16分 ~ 17时38分]"
+        },
+        {
+          "title": "张文宏委员谈AI问诊：仅靠AI有风险，应坚持“医生主导、AI辅助”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32726184",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            5,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时16分 ~ 14时49分]"
+        },
+        {
+          "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
+          "url": "https://wallstreetcn.com/articles/3766992",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[12时06分 ~ 21时59分]"
+        },
+        {
+          "title": "AI对老师的影响",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%AF%B9%E8%80%81%E5%B8%88%E7%9A%84%E5%BD%B1%E5%93%8D%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            10,
+            20,
+            14,
+            15,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 09时09分]"
+        },
+        {
+          "title": "3000元成本AI短剧5亿播放？导演澄清",
+          "url": "https://www.toutiao.com/trending/7614214812960034340/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 07时15分]"
+        },
+        {
+          "title": "有写手用 AI 48 小时生成 500 万字长篇小说月入过万，AI 批量生产会对网文行业产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2013945403444257055",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[12时06分 ~ 21时59分]"
+        },
+        {
+          "title": "TES主教练谈naiyou事件",
+          "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%BB%E6%95%99%E7%BB%83%E8%B0%88naiyou%E4%BA%8B%E4%BB%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            26,
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时14分 ~ 16时33分]"
+        },
+        {
+          "title": "AI“龙虾”火到全国两会，王坚：会很快便宜下来并普及",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32727710",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时51分 ~ 16时33分]"
+        },
+        {
+          "title": "地方政策尝鲜“龙虾” AI加速进入Agent时代 但安全隐患仍需防范",
+          "url": "https://www.cls.cn/detail/2306605",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时51分 ~ 17时38分]"
+        },
+        {
+          "title": "小哥AI换脸Kpop歌手一夜爆红",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E5%93%A5AI%E6%8D%A2%E8%84%B8Kpop%E6%AD%8C%E6%89%8B%E4%B8%80%E5%A4%9C%E7%88%86%E7%BA%A2&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时51分 ~ 15时44分]"
+        },
+        {
+          "title": "yilai加入BLG无畏契约",
+          "url": "https://search.bilibili.com/all?keyword=yilai%E5%8A%A0%E5%85%A5BLG%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "中国传媒大学砍掉翻译、摄影等 16 个本科专业，怎样看待这一变化？这些专业真的能被 AI 替代吗？",
+          "url": "https://www.zhihu.com/question/2014268583652320290",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "印度想用“免税”发展数据中心，欲打造“全球云计算和人工智能计算枢纽”",
+          "url": "https://wallstreetcn.com/livenews/3065947",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
+          "title": "网易“龙虾”LobsterAI 发布新版，接入企业微信、QQ、飞书、钉钉",
+          "url": "https://wallstreetcn.com/livenews/3066526",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时36分 ~ 21时59分]"
+        },
+        {
+          "title": "市场消息：美国和以色列伊朗的战争已危及海湾国家3000亿美元的人工智能支出。",
+          "url": "https://flash.jin10.com/detail/20260309005041818800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时15分 ~ 02时20分]"
+        },
+        {
+          "title": "AI “养龙虾”火了！上市公司扎堆回应",
+          "url": "https://wallstreetcn.com/livenews/3065866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 03时16分]"
+        },
+        {
+          "title": "AI焦虑症",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%84%A6%E8%99%91%E7%97%87&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时38分 ~ 19时28分]"
+        },
+        {
+          "title": "如何评价知乎创始人周源 2026 年的提案《AI 漫剧侵权速度远超维权，应建立快速处置绿色通道》？",
+          "url": "https://www.zhihu.com/question/2013698168039166947",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时35分 ~ 20时36分]"
+        },
+        {
+          "title": "AI龙虾爆火,市民排长龙抢装",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351552&amp;topic_name=AI%E9%BE%99%E8%99%BE%E7%88%86%E7%81%AB%2C%E5%B8%82%E6%B0%91%E6%8E%92%E9%95%BF%E9%BE%99%E6%8A%A2%E8%A3%85",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 19时28分]"
+        },
+        {
+          "title": "短剧霍去病AI平台幕后老板是周鸿祎",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E9%9C%8D%E5%8E%BB%E7%97%85AI%E5%B9%B3%E5%8F%B0%E5%B9%95%E5%90%8E%E8%80%81%E6%9D%BF%E6%98%AF%E5%91%A8%E9%B8%BF%E7%A5%8E%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 09时09分]"
+        },
+        {
+          "title": "王一博Mai合影",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9AMai%E5%90%88%E5%BD%B1%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 00时17分]"
+        },
+        {
+          "title": "AI“养龙虾”爆火！OpenClaw概念走强 多家上市公司回应相关业务最新进展|聚焦",
+          "url": "https://www.cls.cn/detail/2307537",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "微博AI发文称，微博接入KimiClaw，用户关注@微博龙虾助手并发送私信，即可远程连接与控制AI智能体。",
+          "url": "https://wallstreetcn.com/livenews/3066474",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时28分"
+        },
+        {
+          "title": "最高法：恶意滥用AI换脸、拟声技术 电诈手法更隐蔽更具迷惑性",
+          "url": "https://wallstreetcn.com/livenews/3066304",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
+          "title": "机构：2025年全球AI眼镜出货量达870万台 同比大幅增长322%",
+          "url": "https://wallstreetcn.com/livenews/3066197",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        },
+        {
+          "title": "交通运输部部长刘伟：“十五五”时期重点深入实施“人工智能+”行动",
+          "url": "https://wallstreetcn.com/livenews/3066140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "国际货币基金组织总裁格奥尔基耶娃：中东新冲突正再次考验全球经济韧性。 进口油气设施已遭受损毁并出现停摆。 能源安全已飙升至全球关注的首要问题。 冲突若长期化，显而易见将冲击市场情绪、经济增长及通胀。 人工智能可以提高生产力，但也会减少就业。",
+          "url": "https://wallstreetcn.com/livenews/3066186",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        },
+        {
+          "title": "龙虾AI爆火,市民排长龙抢装",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351552&amp;topic_name=%E9%BE%99%E8%99%BEAI%E7%88%86%E7%81%AB%2C%E5%B8%82%E6%B0%91%E6%8E%92%E9%95%BF%E9%BE%99%E6%8A%A2%E8%A3%85",
+          "source": "贴吧",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        }
+      ]
+    },
+    {
       "keyword_group": "央行 降息 降准 CPI 物价",
       "match_count": 29,
       "titles": [
@@ -794,7 +1193,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
         },
@@ -922,348 +1321,6 @@
       ]
     },
     {
-      "keyword_group": "人工智能 AI",
-      "match_count": 28,
-      "titles": [
-        {
-          "title": "周末要闻汇总：证监会发布短线交易监管规定；AI“养龙虾”火了",
-          "url": "https://www.cls.cn/detail/2306367",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时16分 ~ 12时07分]"
-        },
-        {
-          "title": "【早报】深圳出手，“AI龙虾”支持政策来了；事关短线交易，证监会发新规",
-          "url": "https://www.cls.cn/detail/2306525",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时08分 ~ 16时33分]"
-        },
-        {
-          "title": "AI养“龙虾”警惕安全风险",
-          "url": "https://www.cls.cn/detail/2306306",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时16分 ~ 12时07分]"
-        },
-        {
-          "title": "深圳龙岗拟首发“AI龙虾十条”",
-          "url": "https://wallstreetcn.com/articles/3766977",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时16分 ~ 17时38分]"
-        },
-        {
-          "title": "张文宏委员谈AI问诊：仅靠AI有风险，应坚持“医生主导、AI辅助”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32726184",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            5,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时16分 ~ 14时49分]"
-        },
-        {
-          "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
-          "url": "https://wallstreetcn.com/articles/3766992",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时06分 ~ 20时36分]"
-        },
-        {
-          "title": "AI对老师的影响",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E5%AF%B9%E8%80%81%E5%B8%88%E7%9A%84%E5%BD%B1%E5%93%8D%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            10,
-            20,
-            14,
-            15,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时16分 ~ 09时09分]"
-        },
-        {
-          "title": "3000元成本AI短剧5亿播放？导演澄清",
-          "url": "https://www.toutiao.com/trending/7614214812960034340/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 07时15分]"
-        },
-        {
-          "title": "有写手用 AI 48 小时生成 500 万字长篇小说月入过万，AI 批量生产会对网文行业产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2013945403444257055",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时06分 ~ 20时36分]"
-        },
-        {
-          "title": "TES主教练谈naiyou事件",
-          "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%BB%E6%95%99%E7%BB%83%E8%B0%88naiyou%E4%BA%8B%E4%BB%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28,
-            26,
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时14分 ~ 16时33分]"
-        },
-        {
-          "title": "AI“龙虾”火到全国两会，王坚：会很快便宜下来并普及",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32727710",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时51分 ~ 16时33分]"
-        },
-        {
-          "title": "地方政策尝鲜“龙虾” AI加速进入Agent时代 但安全隐患仍需防范",
-          "url": "https://www.cls.cn/detail/2306605",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时51分 ~ 17时38分]"
-        },
-        {
-          "title": "小哥AI换脸Kpop歌手一夜爆红",
-          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E5%93%A5AI%E6%8D%A2%E8%84%B8Kpop%E6%AD%8C%E6%89%8B%E4%B8%80%E5%A4%9C%E7%88%86%E7%BA%A2&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时51分 ~ 15时44分]"
-        },
-        {
-          "title": "网易“龙虾”LobsterAI 发布新版，接入企业微信、QQ、飞书、钉钉",
-          "url": "https://wallstreetcn.com/livenews/3066526",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "印度想用“免税”发展数据中心，欲打造“全球云计算和人工智能计算枢纽”",
-          "url": "https://wallstreetcn.com/livenews/3065947",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        },
-        {
-          "title": "市场消息：美国和以色列伊朗的战争已危及海湾国家3000亿美元的人工智能支出。",
-          "url": "https://flash.jin10.com/detail/20260309005041818800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时15分 ~ 02时20分]"
-        },
-        {
-          "title": "AI “养龙虾”火了！上市公司扎堆回应",
-          "url": "https://wallstreetcn.com/livenews/3065866",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时16分]"
-        },
-        {
-          "title": "AI焦虑症",
-          "url": "https://s.weibo.com/weibo?q=AI%E7%84%A6%E8%99%91%E7%97%87&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时38分 ~ 19时28分]"
-        },
-        {
-          "title": "如何评价知乎创始人周源 2026 年的提案《AI 漫剧侵权速度远超维权，应建立快速处置绿色通道》？",
-          "url": "https://www.zhihu.com/question/2013698168039166947",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时35分 ~ 20时36分]"
-        },
-        {
-          "title": "AI龙虾爆火,市民排长龙抢装",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351552&amp;topic_name=AI%E9%BE%99%E8%99%BE%E7%88%86%E7%81%AB%2C%E5%B8%82%E6%B0%91%E6%8E%92%E9%95%BF%E9%BE%99%E6%8A%A2%E8%A3%85",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时35分 ~ 19时28分]"
-        },
-        {
-          "title": "短剧霍去病AI平台幕后老板是周鸿祎",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E9%9C%8D%E5%8E%BB%E7%97%85AI%E5%B9%B3%E5%8F%B0%E5%B9%95%E5%90%8E%E8%80%81%E6%9D%BF%E6%98%AF%E5%91%A8%E9%B8%BF%E7%A5%8E%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时08分 ~ 09时09分]"
-        },
-        {
-          "title": "王一博Mai合影",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9AMai%E5%90%88%E5%BD%B1%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
-        },
-        {
-          "title": "微博AI发文称，微博接入KimiClaw，用户关注@微博龙虾助手并发送私信，即可远程连接与控制AI智能体。",
-          "url": "https://wallstreetcn.com/livenews/3066474",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时28分"
-        },
-        {
-          "title": "最高法：恶意滥用AI换脸、拟声技术 电诈手法更隐蔽更具迷惑性",
-          "url": "https://wallstreetcn.com/livenews/3066304",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时44分"
-        },
-        {
-          "title": "机构：2025年全球AI眼镜出货量达870万台 同比大幅增长322%",
-          "url": "https://wallstreetcn.com/livenews/3066197",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时51分"
-        },
-        {
-          "title": "交通运输部部长刘伟：“十五五”时期重点深入实施“人工智能+”行动",
-          "url": "https://wallstreetcn.com/livenews/3066140",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
-          "title": "国际货币基金组织总裁格奥尔基耶娃：中东新冲突正再次考验全球经济韧性。 进口油气设施已遭受损毁并出现停摆。 能源安全已飙升至全球关注的首要问题。 冲突若长期化，显而易见将冲击市场情绪、经济增长及通胀。 人工智能可以提高生产力，但也会减少就业。",
-          "url": "https://wallstreetcn.com/livenews/3066186",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时51分"
-        },
-        {
-          "title": "龙虾AI爆火,市民排长龙抢装",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351552&amp;topic_name=%E9%BE%99%E8%99%BEAI%E7%88%86%E7%81%AB%2C%E5%B8%82%E6%B0%91%E6%8E%92%E9%95%BF%E9%BE%99%E6%8A%A2%E8%A3%85",
-          "source": "贴吧",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时38分"
-        }
-      ]
-    },
-    {
       "keyword_group": "基础设施 基建 地铁 高铁",
       "match_count": 10,
       "titles": [
@@ -1381,7 +1438,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
         }
@@ -1389,7 +1446,7 @@
     },
     {
       "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "G7拟协调释放石油储备！WTI原油抹去一半涨幅，全球股债双杀、芯片股普遍下跌，金银跌幅收窄",
@@ -1414,6 +1471,17 @@
           "time_info": "[18时35分 ~ 20时36分]"
         },
         {
+          "title": "全球股债遭遇双杀！美股三大股指开盘走低，芯片股普跌，美油回落至100美元下方",
+          "url": "https://wallstreetcn.com/articles/3766990",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
           "title": "成都华微：发布超高速10位128GSPS A/D转换器芯片。",
           "url": "https://wallstreetcn.com/livenews/3066447",
           "source": "华尔街见闻-快讯",
@@ -1430,11 +1498,12 @@
           "url": "https://wallstreetcn.com/livenews/3066518",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时36分 ~ 21时59分]"
         },
         {
           "title": "受芯片股和金融股拖累 日经指数早盘跌破52000点",
@@ -1501,8 +1570,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时16分 ~ 20时36分]"
+          "appearance_count": 27,
+          "time_info": "[00时16分 ~ 21时59分]"
         },
         {
           "title": "国际油价飙升正推倒“多米诺骨牌”：亚马逊、英伟达等将遭遇连锁冲击",
@@ -1725,8 +1794,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时38分 ~ 20时36分]"
+          "appearance_count": 5,
+          "time_info": "[17时38分 ~ 21时59分]"
         },
         {
           "title": "建议鼓励大学生返乡创业",
@@ -1794,8 +1863,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时35分 ~ 20时36分]"
+          "appearance_count": 4,
+          "time_info": "[18时35分 ~ 21时59分]"
         },
         {
           "title": "龙岗将联合Kimi举办千人龙虾大会，并上线Kimi Claw专属优惠",
@@ -1804,7 +1873,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
         }
