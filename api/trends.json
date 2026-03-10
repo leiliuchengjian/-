@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T07:18:55.924824+08:00",
-  "total_titles_processed": 706,
+  "generated_at": "2026-03-10T09:04:00.932963+08:00",
+  "total_titles_processed": 854,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
         {
           "title": "G7紧急开会，美三大股指低开反弹，纳指转涨，美油回落至100美元下方",
@@ -30,8 +30,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 07时18分]"
+          "appearance_count": 12,
+          "time_info": "[00时46分 ~ 09时04分]"
         },
         {
           "title": "伊朗警告油价或超200美元",
@@ -383,7 +383,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
         },
@@ -441,6 +441,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
+        },
+        {
+          "title": "布伦特原油站上90美元/桶，日内涨4.38%。",
+          "url": "https://flash.jin10.com/detail/20260310081143057800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
         },
         {
           "title": "布伦特原油跌破86美元/桶，日内跌5.21%。",
@@ -534,7 +545,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
@@ -555,25 +566,12 @@
           "ranks": [
             4,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 07时18分]"
-        },
-        {
-          "title": "中国传媒大学砍掉翻译、摄影等 16 个本科专业，怎样看待这一变化？这些专业真的能被 AI 替代吗？",
-          "url": "https://www.zhihu.com/question/2014268583652320290",
-          "source": "知乎",
-          "ranks": [
-            2,
-            3,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 07时18分]"
+          "appearance_count": 12,
+          "time_info": "[00时46分 ~ 09时04分]"
         },
         {
           "title": "yilai加入BLG无畏契约",
@@ -586,6 +584,21 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时46分 ~ 04时22分]"
+        },
+        {
+          "title": "中国传媒大学砍掉翻译、摄影等 16 个本科专业，怎样看待这一变化？这些专业真的能被 AI 替代吗？",
+          "url": "https://www.zhihu.com/question/2014268583652320290",
+          "source": "知乎",
+          "ranks": [
+            2,
+            3,
+            13,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时46分 ~ 09时04分]"
         },
         {
           "title": "有写手用 AI 48 小时生成 500 万字长篇小说月入过万，AI 批量生产会对网文行业产生哪些影响？",
@@ -602,6 +615,28 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时46分 ~ 07时18分]"
+        },
+        {
+          "title": "工信部提醒AI养虾安全风险",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B7%A5%E4%BF%A1%E9%83%A8%E6%8F%90%E9%86%92AI%E5%85%BB%E8%99%BE%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时03分 ~ 09时04分]"
+        },
+        {
+          "title": "清华经管院长谈AI“龙虾”",
+          "url": "https://www.douyin.com/hot/2424946",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时03分 ~ 09时04分]"
         },
         {
           "title": "AI初创公司ElevenLabs的CEO表示：公司准备在未来2-3年IPO。",
@@ -638,6 +673,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时40分 ~ 02时38分]"
+        },
+        {
+          "title": "男子让AI实时看监控帮自己“摸鱼”",
+          "url": "https://www.toutiao.com/trending/7615053570488172585/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时03分 ~ 09时04分]"
         },
         {
           "title": "OpenAI：企业用户和教育用户面临的沟通错误偏高。",
@@ -760,8 +806,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 07时18分]"
+          "appearance_count": 12,
+          "time_info": "[00时46分 ~ 09时04分]"
         },
         {
           "title": "标普500指数初步收涨0.8%，科技板块涨1.6%，能源板块跌0.6%。 纳斯达克100指数初步收涨1.3%，成分股中，西部数据初步收涨6.2%，科磊涨5.9%，希捷科技、拉姆研究、AMD、阿斯麦ADR、英特尔至少涨4.7%，思科跌3.2%，特许通讯跌4.2%。 卡特彼勒初步收涨3.1%，英伟达涨2.5%，安进涨2%，领跑道指成分股，IBM则跌2.1%，波音跌2.7%，思科表现最差。",
@@ -940,8 +986,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 07时18分]"
+          "appearance_count": 12,
+          "time_info": "[00时46分 ~ 09时04分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨1.8%。 热门中概股里，小鹏初步收涨6.4%，比亚迪涨6%，美团涨5.7%，理想、蔚来涨超3.8%，百度涨2.9%，腾讯涨2.4%，阿里巴巴涨1.4%，网易跌0.1%，文远知行跌1.4%。",
@@ -967,11 +1013,12 @@
           "ranks": [
             7,
             5,
-            8
+            8,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 07时18分]"
+          "appearance_count": 12,
+          "time_info": "[00时46分 ~ 09时04分]"
         },
         {
           "title": "为什么大学生讨厌早八？",
@@ -1018,7 +1065,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
         }
