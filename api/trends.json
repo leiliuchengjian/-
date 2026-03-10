@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T20:35:55.566754+08:00",
-  "total_titles_processed": 1847,
+  "generated_at": "2026-03-10T21:55:33.444956+08:00",
+  "total_titles_processed": 1975,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 74,
+      "match_count": 75,
       "titles": [
         {
           "title": "G7紧急开会，美三大股指低开反弹，纳指转涨，美油回落至100美元下方",
@@ -55,8 +55,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时09分 ~ 20时35分]"
+          "appearance_count": 9,
+          "time_info": "[13时09分 ~ 21时55分]"
         },
         {
           "title": "WTI 4月原油期货收报94.77美元/桶。 NYMEX 4月天然气期货收报3.12美元/百万英热单位。 NYMEX 4月汽油期货收报2.8084美元/加仑，NYMEX 3月取暖油期货收报3.5866美元/加仑。",
@@ -135,6 +135,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时59分 ~ 15时34分]"
+        },
+        {
+          "title": "特朗普释放停战对话信号，美股期指盘前回吐涨幅，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
+          "url": "https://wallstreetcn.com/articles/3767097",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时35分 ~ 21时55分]"
         },
         {
           "title": "上期所原油期货2604合约夜盘收涨0.33%，报749.10元人民币/桶。 沪金夜盘收涨0.02%，沪银收涨2.31%。",
@@ -379,17 +391,6 @@
           "time_info": "[06时25分 ~ 07时18分]"
         },
         {
-          "title": "特朗普释放停战对话信号，美股期指盘前回吐涨幅，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
-          "url": "https://wallstreetcn.com/articles/3767097",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时35分"
-        },
-        {
           "title": "布伦特原油日内涨幅收窄至4.00%，现报94.35美元/桶。",
           "url": "https://flash.jin10.com/detail/20260310020805486800",
           "source": "金十数据",
@@ -528,7 +529,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
         },
@@ -550,7 +551,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
         },
@@ -654,6 +655,17 @@
           "time_info": "04时22分"
         },
         {
+          "title": "现货黄金向上触及5200美元/盎司，日内涨1.23%。",
+          "url": "https://wallstreetcn.com/livenews/3067334",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
           "title": "WTI原油日内重挫6.19美元，现报85.22美元/桶，跌幅6.77%。",
           "url": "https://flash.jin10.com/detail/20260310033531286800",
           "source": "金十数据",
@@ -726,7 +738,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
         },
@@ -847,7 +859,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
         }
@@ -855,7 +867,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 39,
+      "match_count": 44,
       "titles": [
         {
           "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
@@ -870,21 +882,6 @@
           "time_info": "[00时46分 ~ 07时18分]"
         },
         {
-          "title": "工信部提醒AI养虾安全风险",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B7%A5%E4%BF%A1%E9%83%A8%E6%8F%90%E9%86%92AI%E5%85%BB%E8%99%BE%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2,
-            4,
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时03分 ~ 20时35分]"
-        },
-        {
           "title": "AI“养龙虾”爆火！OpenClaw概念走强 多家上市公司回应相关业务最新进展|聚焦",
           "url": "https://www.cls.cn/detail/2307537",
           "source": "财联社热门",
@@ -897,6 +894,22 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时46分 ~ 09时04分]"
+        },
+        {
+          "title": "工信部提醒AI养虾安全风险",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B7%A5%E4%BF%A1%E9%83%A8%E6%8F%90%E9%86%92AI%E5%85%BB%E8%99%BE%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2,
+            4,
+            9,
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[09时03分 ~ 21时55分]"
         },
         {
           "title": "yilai加入BLG无畏契约",
@@ -970,7 +983,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
         },
@@ -996,8 +1009,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时29分 ~ 20时35分]"
+          "appearance_count": 4,
+          "time_info": "[18时29分 ~ 21时55分]"
         },
         {
           "title": "AI龙虾为何那么“生猛”",
@@ -1025,6 +1038,18 @@
           "time_info": "[05时23分 ~ 06时25分]"
         },
         {
+          "title": "英伟达下场！将推“类OpenClaw式”AI智能体开源平台",
+          "url": "https://wallstreetcn.com/articles/3767089",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时35分 ~ 21时55分]"
+        },
+        {
           "title": "小红书：将封禁主页所有公开笔记均为AI托管代发的账号",
           "url": "https://wallstreetcn.com/livenews/3067229",
           "source": "华尔街见闻-快讯",
@@ -1035,6 +1060,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时29分 ~ 19时25分]"
+        },
+        {
+          "title": "AI背锅,内存降价遥遥无期",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351653&amp;topic_name=AI%E8%83%8C%E9%94%85%2C%E5%86%85%E5%AD%98%E9%99%8D%E4%BB%B7%E9%81%A5%E9%81%A5%E6%97%A0%E6%9C%9F",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时35分 ~ 21时55分]"
         },
         {
           "title": "OpenAI同意收购AI安全初创公司PromptFoo。",
@@ -1060,6 +1097,17 @@
           "time_info": "[09时03分 ~ 09时04分]"
         },
         {
+          "title": "Meta收购AI社交网络平台Moltbook。（AXIOS）",
+          "url": "https://wallstreetcn.com/livenews/3067356",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
           "title": "亚马逊在发生AI相关停机事故后召开工程会议。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3067011",
           "source": "华尔街见闻-快讯",
@@ -1082,6 +1130,17 @@
           "time_info": "16时29分"
         },
         {
+          "title": "两会现场 我问了AI这样一个问题",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E4%BC%9A%E7%8E%B0%E5%9C%BA+%E6%88%91%E9%97%AE%E4%BA%86AI%E8%BF%99%E6%A0%B7%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
           "title": "据英国《金融时报》：亚马逊在人工智能相关宕机事件后召开工程会议。",
           "url": "https://flash.jin10.com/detail/20260310123947391800",
           "source": "金十数据",
@@ -1093,15 +1152,15 @@
           "time_info": "13时09分"
         },
         {
-          "title": "英伟达下场！将推“类OpenClaw式”AI智能体开源平台",
-          "url": "https://wallstreetcn.com/articles/3767089",
+          "title": "AI圈贩卖焦虑已经过于离谱了",
+          "url": "https://wallstreetcn.com/articles/3767072",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时35分"
+          "time_info": "21时55分"
         },
         {
           "title": "AI养龙虾成本有多高",
@@ -1132,18 +1191,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时35分"
-        },
-        {
-          "title": "AI背锅,内存降价遥遥无期",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351653&amp;topic_name=AI%E8%83%8C%E9%94%85%2C%E5%86%85%E5%AD%98%E9%99%8D%E4%BB%B7%E9%81%A5%E9%81%A5%E6%97%A0%E6%9C%9F",
-          "source": "贴吧",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
         },
@@ -1198,9 +1246,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
+        },
+        {
+          "title": "伊朗的战火，可能烧掉美国的AI梦？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260310213156918800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         },
         {
           "title": "养一只“AI龙虾”已经不够了吗",
@@ -1258,6 +1317,17 @@
           "time_info": "13时09分"
         },
         {
+          "title": "英伟达宣布对AI企业Thinking Machines Lab进行新一轮投资，并将向该初创公司提供芯片，用于训练和运行其AI模型。",
+          "url": "https://wallstreetcn.com/livenews/3067332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
           "title": "广东：重点布局GPU、FPGA、NPU等高端通用人工智能芯片及ASIC专用人工智能芯片的研发、设计和制造",
           "url": "https://wallstreetcn.com/livenews/3067205",
           "source": "华尔街见闻-快讯",
@@ -1275,7 +1345,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
         },
@@ -1308,15 +1378,244 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
         }
       ]
     },
     {
+      "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
+      "match_count": 20,
+      "titles": [
+        {
+          "title": "蔚来李斌：超快充再快也没有换电快",
+          "url": "https://www.baidu.com/s?wd=%E8%94%9A%E6%9D%A5%E6%9D%8E%E6%96%8C%EF%BC%9A%E8%B6%85%E5%BF%AB%E5%85%85%E5%86%8D%E5%BF%AB%E4%B9%9F%E6%B2%A1%E6%9C%89%E6%8D%A2%E7%94%B5%E5%BF%AB",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时46分 ~ 09时04分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收涨1.8%。 热门中概股里，小鹏初步收涨6.4%，比亚迪涨6%，美团涨5.7%，理想、蔚来涨超3.8%，百度涨2.9%，腾讯涨2.4%，阿里巴巴涨1.4%，网易跌0.1%，文远知行跌1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3066716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "比亚迪蔚来回应闪充换电之争",
+          "url": "https://www.toutiao.com/trending/7615414850428079666/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时59分 ~ 13时09分]"
+        },
+        {
+          "title": "领汇e7将搭载比亚迪闪充技术",
+          "url": "https://www.toutiao.com/trending/7615267871435440191/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时59分 ~ 13时09分]"
+        },
+        {
+          "title": "比亚迪李云飞回应闪充伤电池",
+          "url": "https://www.toutiao.com/trending/7614743267980230675/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 20时35分]"
+        },
+        {
+          "title": "消息称比亚迪研究进军F1或勒芒耐力赛",
+          "url": "https://flash.jin10.com/detail/20260310213922571800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
+          "title": "比亚迪探索进军F1及其他汽车赛事的可能性。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3067344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
+          "title": "蔚来美股盘前涨超6%，公司一季度营收指引244.8亿元-251.8亿元，同比增长103.4%至109.2%。",
+          "url": "https://wallstreetcn.com/livenews/3067241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
+          "title": "蔚来2026年一季度营收指引244.8亿元-251.8亿元，同比增长103.4%至109.2%",
+          "url": "https://wallstreetcn.com/livenews/3067239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
+          "title": "蔚来CFO曲玉：2026年蔚来将力争实现Non-GAAP全年盈利",
+          "url": "https://wallstreetcn.com/livenews/3067339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
+          "title": "蔚来汽车(NIO.N)公布财报后，美股盘前涨超6%。",
+          "url": "https://flash.jin10.com/detail/20260310183528040800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
+          "title": "蔚来汽车(NIO.N)：第四季度毛利润60.741亿元，同比增长163.1%，环比增长100.8%。",
+          "url": "https://flash.jin10.com/detail/20260310183504120800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
+          "title": "蔚来汽车(NIO.N)：第一季度营收预期为人民币244.82亿至251.76亿元。",
+          "url": "https://flash.jin10.com/detail/20260310183354308800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
+          "title": "李斌：蔚来、乐道、firefly萤火虫今年将通过三品牌联合SKY门店布局下沉市场",
+          "url": "https://wallstreetcn.com/livenews/3067335",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
+          "title": "蔚来汽车(NIO.N)：第四季度毛利率17.5%。",
+          "url": "https://flash.jin10.com/detail/20260310183306356800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
+          "title": "美股开盘，道指跌0.13%，标普500指数跌0.03%，纳指涨0.1%。蔚来汽车(NIO.N)涨约6%，一季度营收指引同比增长103.4%至109.2%。BioNTech(BNTX.O)大跌约19%，公司2026年营收指引不及预期。",
+          "url": "https://flash.jin10.com/detail/20260310213028106800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
+          "title": "蔚来：董事会批准向李斌授予约2.48亿股公司限制性股份",
+          "url": "https://wallstreetcn.com/livenews/3067281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
+          "title": "蔚来汽车(NIO.N)：去年四季度营收346.5亿元，同比增75.9%。",
+          "url": "https://flash.jin10.com/detail/20260310183240312800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
+          "title": "蔚来比亚迪就充换电隔空交锋",
+          "url": "https://www.toutiao.com/trending/7615236155122303019/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
+          "title": "一项由谷歌和特斯拉等公司组成的新联盟将通过利用电网闲置容量来解决能源可负担性问题。（AXIOS）",
+          "url": "https://wallstreetcn.com/livenews/3067324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "2月份CPI同比上涨1.3%",
@@ -1510,175 +1809,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "蔚来李斌：超快充再快也没有换电快",
-          "url": "https://www.baidu.com/s?wd=%E8%94%9A%E6%9D%A5%E6%9D%8E%E6%96%8C%EF%BC%9A%E8%B6%85%E5%BF%AB%E5%85%85%E5%86%8D%E5%BF%AB%E4%B9%9F%E6%B2%A1%E6%9C%89%E6%8D%A2%E7%94%B5%E5%BF%AB",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时46分 ~ 09时04分]"
         },
         {
-          "title": "纳斯达克金龙中国指数初步收涨1.8%。 热门中概股里，小鹏初步收涨6.4%，比亚迪涨6%，美团涨5.7%，理想、蔚来涨超3.8%，百度涨2.9%，腾讯涨2.4%，阿里巴巴涨1.4%，网易跌0.1%，文远知行跌1.4%。",
-          "url": "https://wallstreetcn.com/livenews/3066716",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "比亚迪蔚来回应闪充换电之争",
-          "url": "https://www.toutiao.com/trending/7615414850428079666/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时59分 ~ 13时09分]"
-        },
-        {
-          "title": "领汇e7将搭载比亚迪闪充技术",
-          "url": "https://www.toutiao.com/trending/7615267871435440191/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时59分 ~ 13时09分]"
-        },
-        {
-          "title": "比亚迪李云飞回应闪充伤电池",
-          "url": "https://www.toutiao.com/trending/7614743267980230675/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时25分 ~ 20时35分]"
-        },
-        {
-          "title": "蔚来美股盘前涨超6%，公司一季度营收指引244.8亿元-251.8亿元，同比增长103.4%至109.2%。",
-          "url": "https://wallstreetcn.com/livenews/3067241",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时25分"
-        },
-        {
-          "title": "蔚来2026年一季度营收指引244.8亿元-251.8亿元，同比增长103.4%至109.2%",
-          "url": "https://wallstreetcn.com/livenews/3067239",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时25分"
-        },
-        {
-          "title": "蔚来汽车(NIO.N)公布财报后，美股盘前涨超6%。",
-          "url": "https://flash.jin10.com/detail/20260310183528040800",
+          "title": "匈牙利央行副行长库拉利：地缘政治风险推高了风险溢价，我们不能忽视这一点。",
+          "url": "https://flash.jin10.com/detail/20260310211918329800",
           "source": "金十数据",
           "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时25分"
-        },
-        {
-          "title": "蔚来汽车(NIO.N)：第四季度毛利润60.741亿元，同比增长163.1%，环比增长100.8%。",
-          "url": "https://flash.jin10.com/detail/20260310183504120800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时25分"
-        },
-        {
-          "title": "蔚来汽车(NIO.N)：第一季度营收预期为人民币244.82亿至251.76亿元。",
-          "url": "https://flash.jin10.com/detail/20260310183354308800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时25分"
-        },
-        {
-          "title": "蔚来汽车(NIO.N)：第四季度毛利率17.5%。",
-          "url": "https://flash.jin10.com/detail/20260310183306356800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时25分"
-        },
-        {
-          "title": "蔚来：董事会批准向李斌授予约2.48亿股公司限制性股份",
-          "url": "https://wallstreetcn.com/livenews/3067281",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
+            27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时35分"
+          "time_info": "21时55分"
         },
         {
-          "title": "蔚来汽车(NIO.N)：去年四季度营收346.5亿元，同比增75.9%。",
-          "url": "https://flash.jin10.com/detail/20260310183240312800",
+          "title": "匈牙利央行副行长库拉利：首要任务是物价稳定，外汇是关键。",
+          "url": "https://flash.jin10.com/detail/20260310211910167800",
           "source": "金十数据",
           "ranks": [
-            22
+            28
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时25分"
-        },
-        {
-          "title": "蔚来比亚迪就充换电隔空交锋",
-          "url": "https://www.toutiao.com/trending/7615236155122303019/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时29分"
+          "time_info": "21时55分"
         }
       ]
     },
     {
       "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "超预期！前两月出口大幅提速 集成电路、汽车增速“狂飙”超60%",
@@ -1724,7 +1882,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
         },
@@ -1819,6 +1977,17 @@
           "time_info": "16时29分"
         },
         {
+          "title": "李斌：神玑公司第二颗芯片流片成功正在量产，面向更广泛客户",
+          "url": "https://wallstreetcn.com/livenews/3067338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
           "title": "纳斯达克100指数涨幅扩大至0.3%，半导体指数涨1.9%。",
           "url": "https://wallstreetcn.com/livenews/3066646",
           "source": "华尔街见闻-快讯",
@@ -1844,7 +2013,7 @@
     },
     {
       "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "委员建议文旅不要沉迷做网红，要沉下心做好基础设施建设，我国旅游城市面临哪些问题？提议该如何更好地落地？",
@@ -1873,6 +2042,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[15时34分 ~ 20时35分]"
+        },
+        {
+          "title": "工业富联董事长郑弘孟：AI算力基础设施将成为未来多年最具确定性的核心发展领域之一",
+          "url": "https://wallstreetcn.com/livenews/3067361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         },
         {
           "title": "以色列国防军：以色列国防军还打击了“圣城军”主要指挥部内的基础设施，以及多种武器和防御系统的其他生产地点。",
@@ -1934,6 +2114,91 @@
       ]
     },
     {
+      "keyword_group": "华为 小米 荣耀",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "华为将于3月20日发布数据存储新品",
+          "url": "https://wallstreetcn.com/livenews/3067165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 17时34分]"
+        },
+        {
+          "title": "如何评价荣耀MagicV6",
+          "url": "https://www.douyin.com/hot/2425911",
+          "source": "抖音",
+          "ranks": [
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时35分 ~ 21时55分]"
+        },
+        {
+          "title": "宝马销售贬低小米汽车 小米高管回应",
+          "url": "https://www.toutiao.com/trending/7615154710743580678/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
+          "title": "荣耀CEO李健：机器人手机下半年上市 人形机器人全栈自研",
+          "url": "https://wallstreetcn.com/livenews/3067352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
+          "title": "根据IDC最新发布的《中国可穿戴设备市场季度跟踪报告》，2025年中国腕戴设备市场出货量为7,390万台，同比增长20.8%。其中，华为以2510万台出货量，34%市场份额稳居中国市场出货量第一。",
+          "url": "https://wallstreetcn.com/livenews/3067010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "徐梦桃和她的冠军荣耀",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%A2%A6%E6%A1%83%E5%92%8C%E5%A5%B9%E7%9A%84%E5%86%A0%E5%86%9B%E8%8D%A3%E8%80%80%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
+          "title": "荣耀MagicV6太能整活了",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8D%A3%E8%80%80MagicV6%E5%A4%AA%E8%83%BD%E6%95%B4%E6%B4%BB%E4%BA%86%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "英伟达 台积电 AMD 高通",
       "match_count": 7,
       "titles": [
@@ -1975,6 +2240,18 @@
           "time_info": "04时22分"
         },
         {
+          "title": "【焦点复盘】市场全天现缩量普涨，英伟达链卷土重来，机器人概念现久违涨势",
+          "url": "https://www.cls.cn/detail/2308576",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时35分 ~ 21时55分]"
+        },
+        {
           "title": "亚马逊：本公司Bedrock上架英伟达Nemotron 3 Nano。",
           "url": "https://wallstreetcn.com/livenews/3066741",
           "source": "华尔街见闻-快讯",
@@ -1985,17 +2262,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时25分 ~ 07时18分]"
-        },
-        {
-          "title": "【焦点复盘】市场全天现缩量普涨，英伟达链卷土重来，机器人概念现久违涨势",
-          "url": "https://www.cls.cn/detail/2308576",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时35分"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达、谷歌A至少收涨2.7%",
@@ -2022,6 +2288,72 @@
       ]
     },
     {
+      "keyword_group": "新能源汽车 电动汽车 智能驾驶",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "蔚来李斌称频繁超快充伤电池，超充再快也没换电快，怎样看待他的说法？电动汽车用户该如何选择？",
+          "url": "https://www.zhihu.com/question/2014397594542040051",
+          "source": "知乎",
+          "ranks": [
+            17,
+            5,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时36分 ~ 21时55分]"
+        },
+        {
+          "title": "新能源汽车“涨价潮”来了",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E2%80%9C%E6%B6%A8%E4%BB%B7%E6%BD%AE%E2%80%9D%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时25分 ~ 21时55分]"
+        },
+        {
+          "title": "周一（3月9日），彭博电动汽车价格回报指数跌0.24%，报3503.93点，整体呈现出V形走势。",
+          "url": "https://wallstreetcn.com/livenews/3066719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 05时23分]"
+        },
+        {
+          "title": "新能源汽车涨价潮来临",
+          "url": "https://www.toutiao.com/trending/7615098898055462954/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
+          "title": "伯恩斯坦：小鹏汽车或将持续优化智能驾驶功能",
+          "url": "https://flash.jin10.com/detail/20260310135609076800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        }
+      ]
+    },
+    {
       "keyword_group": "创业板",
       "match_count": 5,
       "titles": [
@@ -2032,7 +2364,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
         },
@@ -2130,8 +2462,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时29分 ~ 20时35分]"
+          "appearance_count": 4,
+          "time_info": "[18时29分 ~ 21时55分]"
         },
         {
           "title": "大学生爆哭,防沉迷延长至22岁",
@@ -2142,8 +2474,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时25分 ~ 20时35分]"
+          "appearance_count": 3,
+          "time_info": "[19时25分 ~ 21时55分]"
         },
         {
           "title": "建议关注大学生心理健康问题",
@@ -2178,6 +2510,18 @@
           "time_info": "[00时46分 ~ 07时18分]"
         },
         {
+          "title": "开箱苹果新品显示器",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BC%80%E7%AE%B1%E8%8B%B9%E6%9E%9C%E6%96%B0%E5%93%81%E6%98%BE%E7%A4%BA%E5%99%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时35分 ~ 21时55分]"
+        },
+        {
           "title": "苹果折叠屏渲染图曝光：不对称设计",
           "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E5%B1%8F%E6%B8%B2%E6%9F%93%E5%9B%BE%E6%9B%9D%E5%85%89%EF%BC%9A%E4%B8%8D%E5%AF%B9%E7%A7%B0%E8%AE%BE%E8%AE%A1",
           "source": "百度热搜",
@@ -2192,17 +2536,6 @@
           "time_info": "[14时36分 ~ 18时29分]"
         },
         {
-          "title": "开箱苹果新品显示器",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BC%80%E7%AE%B1%E8%8B%B9%E6%9E%9C%E6%96%B0%E5%93%81%E6%98%BE%E7%A4%BA%E5%99%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时35分"
-        },
-        {
           "title": "报道：苹果因等待新一代AI完工，推迟智能家居显示屏发布",
           "url": "https://wallstreetcn.com/livenews/3066691",
           "source": "华尔街见闻-快讯",
@@ -2213,100 +2546,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时34分 ~ 04时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源汽车 电动汽车 智能驾驶",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "蔚来李斌称频繁超快充伤电池，超充再快也没换电快，怎样看待他的说法？电动汽车用户该如何选择？",
-          "url": "https://www.zhihu.com/question/2014397594542040051",
-          "source": "知乎",
-          "ranks": [
-            17,
-            5,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时36分 ~ 20时35分]"
-        },
-        {
-          "title": "新能源汽车“涨价潮”来了",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E2%80%9C%E6%B6%A8%E4%BB%B7%E6%BD%AE%E2%80%9D%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时25分 ~ 20时35分]"
-        },
-        {
-          "title": "周一（3月9日），彭博电动汽车价格回报指数跌0.24%，报3503.93点，整体呈现出V形走势。",
-          "url": "https://wallstreetcn.com/livenews/3066719",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时22分 ~ 05时23分]"
-        },
-        {
-          "title": "伯恩斯坦：小鹏汽车或将持续优化智能驾驶功能",
-          "url": "https://flash.jin10.com/detail/20260310135609076800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "华为 小米 荣耀",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "华为将于3月20日发布数据存储新品",
-          "url": "https://wallstreetcn.com/livenews/3067165",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时29分 ~ 17时34分]"
-        },
-        {
-          "title": "根据IDC最新发布的《中国可穿戴设备市场季度跟踪报告》，2025年中国腕戴设备市场出货量为7,390万台，同比增长20.8%。其中，华为以2510万台出货量，34%市场份额稳居中国市场出货量第一。",
-          "url": "https://wallstreetcn.com/livenews/3067010",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时09分"
-        },
-        {
-          "title": "如何评价荣耀MagicV6",
-          "url": "https://www.douyin.com/hot/2425911",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时35分"
         }
       ]
     },
@@ -2375,9 +2614,37 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大模型 ChatGPT Kimi Sora OpenAI",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "AH股低开高走，“龙虾”概念股爆发，油气股涨幅收窄，恒科指逼近翻红，大模型股MINIMAX暴涨超23%",
+          "url": "https://wallstreetcn.com/articles/3767001",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时18分 ~ 15时34分]"
+        },
+        {
+          "title": "代表委员热聊新质生产力：大模型读到这些高频词",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32733353",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         }
       ]
     },
@@ -2393,11 +2660,12 @@
             20,
             15,
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时09分 ~ 20时35分]"
+          "appearance_count": 9,
+          "time_info": "[13时09分 ~ 21时55分]"
         },
         {
           "title": "JYP考公上岸了",
@@ -2405,11 +2673,12 @@
           "source": "微博",
           "ranks": [
             22,
-            26
+            26,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时25分 ~ 20时35分]"
+          "appearance_count": 3,
+          "time_info": "[19时25分 ~ 21时55分]"
         }
       ]
     },
@@ -2432,23 +2701,6 @@
       ]
     },
     {
-      "keyword_group": "大模型 ChatGPT Kimi Sora OpenAI",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "AH股低开高走，“龙虾”概念股爆发，油气股涨幅收窄，恒科指逼近翻红，大模型股MINIMAX暴涨超23%",
-          "url": "https://wallstreetcn.com/articles/3767001",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时18分 ~ 15时34分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "就业 裁员 招聘",
       "match_count": 1,
       "titles": [
@@ -2459,7 +2711,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
         }
