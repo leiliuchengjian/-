@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T06:18:28.987189+08:00",
-  "total_titles_processed": 668,
+  "generated_at": "2026-03-11T07:18:32.590455+08:00",
+  "total_titles_processed": 717,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 58,
+      "match_count": 65,
       "titles": [
         {
           "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
@@ -27,11 +27,12 @@
             13,
             11,
             20,
-            19
+            19,
+            15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 07时18分]"
         },
         {
           "title": "为何生化里的暴君 1.2 亿美元这么贵一只但仍扛不过军队常规武器狂轰滥炸，BOW 研发在实战中到底有何意义？",
@@ -46,8 +47,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时38分 ~ 06时18分]"
+          "appearance_count": 9,
+          "time_info": "[01时38分 ~ 07时18分]"
         },
         {
           "title": "甲骨文(ORCL.N)第四季度以美元计算总收入预计将增长19%至21%。",
@@ -67,9 +68,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        },
+        {
+          "title": "据知情人士透露，John Hegeman与红杉资本（Sequoia Capital）合伙人Ravi Gupta为新公司Ithaca Holdings寻求至少10亿美元融资。 Ithaca Holdings将成为一家控股公司，将设法收购至少一家上市公司、或一家私人公司（即非上市公司）。 John Hegeman曾长期就职于Meta Platforms，担任其首席营收官（CRO）。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3067608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
         },
         {
           "title": "EIA：未来两个月布伦特原油价格将维持在95美元以上",
@@ -92,6 +104,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
+        },
+        {
+          "title": "Anthropic PBC在一场听证会上告知美国法官Rita F. Lin，如果总统特朗普在政府承包合同方面封杀该公司，恐怕今年会“损失”（至少）数十亿美元收入。 希望（司法系统）尽快采取行动，阻止五角大楼给公司贴标“供应链风险”的做法。",
+          "url": "https://wallstreetcn.com/livenews/3067607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
         },
         {
           "title": "甲骨文(ORCL.N)2026财年Q3软件业务营收61.2亿美元。",
@@ -127,17 +150,6 @@
           "time_info": "04时23分"
         },
         {
-          "title": "WTI原油周三高开，一度涨超1%，现报87.2美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260311060213103800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
           "title": "凯利蓝皮书：2月新车平均成交价为49,353美元，较去年同期上涨3.4%。",
           "url": "https://flash.jin10.com/detail/20260311020924544800",
           "source": "金十数据",
@@ -158,17 +170,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
-        },
-        {
-          "title": "周二（3月10日）纽约尾盘，欧元兑美元跌0.22%，英镑兑美元跌0.14%，美元兑瑞郎涨0.12%。 商品货币对中，澳元兑美元涨0.61%，纽元兑美元跌0.09%，美元兑加元跌0.07%。 瑞典克朗兑美元跌0.51%，挪威克朗兑美元跌0.43%，丹麦克朗兑美元跌0.24%。 波兰兹罗提兑美元跌0.56%，匈牙利福林兑美元跌0.09%。",
-          "url": "https://wallstreetcn.com/livenews/3067584",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
         },
         {
           "title": "纽约期金涨超1.9%，一度在美股早盘逼近5250美元",
@@ -195,6 +196,18 @@
           "time_info": "[05时22分 ~ 06时18分]"
         },
         {
+          "title": "WTI原油周三高开，一度涨超1%，现报87.2美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260311060213103800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时18分]"
+        },
+        {
           "title": "国际金融协会（IIF）：新兴市场投资组合在2月份迎来217亿美元资金流入，1月流入1005亿美元——罕见地出现开年靠前配置，2025年2月流入455亿美元。",
           "url": "https://wallstreetcn.com/livenews/3067490",
           "source": "华尔街见闻-快讯",
@@ -205,6 +218,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时39分 ~ 02时35分]"
+        },
+        {
+          "title": "周二（3月10日）纽约尾盘，欧元兑美元跌0.22%，英镑兑美元跌0.14%，美元兑瑞郎涨0.12%。 商品货币对中，澳元兑美元涨0.61%，纽元兑美元跌0.09%，美元兑加元跌0.07%。 瑞典克朗兑美元跌0.51%，挪威克朗兑美元跌0.43%，丹麦克朗兑美元跌0.24%。 波兰兹罗提兑美元跌0.56%，匈牙利福林兑美元跌0.09%。",
+          "url": "https://wallstreetcn.com/livenews/3067584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时18分]"
         },
         {
           "title": "周二（3月10日），美联储隔夜逆回购协议（RRP）使用规模为2.78亿美元（交易对手4家），上个交易日报3.32亿美元。",
@@ -255,6 +280,18 @@
           "time_info": "[02时35分 ~ 03时32分]"
         },
         {
+          "title": "亚马逊计划通过债券发行融资近500亿美元",
+          "url": "https://wallstreetcn.com/livenews/3067579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时18分]"
+        },
+        {
           "title": "亚马逊债券发行获得投资者大约1260亿美元认购。",
           "url": "https://wallstreetcn.com/livenews/3067484",
           "source": "华尔街见闻-快讯",
@@ -301,6 +338,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时23分 ~ 05时22分]"
+        },
+        {
+          "title": "周二（3月10日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.8790元，较周一纽约尾盘涨85点，日内整体交投于6.8967-6.8605元区间。",
+          "url": "https://wallstreetcn.com/livenews/3067577",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时18分]"
         },
         {
           "title": "周二（3月10日），韩元兑美元最终涨0.64%，报1466.07韩元。",
@@ -428,15 +477,15 @@
           "time_info": "05时22分"
         },
         {
-          "title": "亚马逊计划通过债券发行融资近500亿美元",
-          "url": "https://wallstreetcn.com/livenews/3067579",
+          "title": "印尼再度发行人民币主权债券，新兴市场融资货币多元化趋势显现",
+          "url": "https://wallstreetcn.com/livenews/3067600",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时18分"
+          "time_info": "07时18分"
         },
         {
           "title": "WTI 4月原油期货收跌11.32美元，跌幅11.94%，报83.45美元/桶。 中东Abu Dhabi Murban原油期货跌13.68%，报95.10美元/桶。 NYMEX 4月天然气期货收报3.02美元/百万英热单位。 NYMEX 4月汽油期货收报2.6403美元/加仑，NYMEX 3月取暖油期货收报3.3466美元/加仑。",
@@ -461,15 +510,15 @@
           "time_info": "01时39分"
         },
         {
-          "title": "周二（3月10日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.8790元，较周一纽约尾盘涨85点，日内整体交投于6.8967-6.8605元区间。",
-          "url": "https://wallstreetcn.com/livenews/3067577",
-          "source": "华尔街见闻-快讯",
+          "title": "美国优先炼油公司：根据新签署的协议，将生产500亿加仑的炼制产品，价值1750亿美元。",
+          "url": "https://flash.jin10.com/detail/20260311063934123800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时18分"
+          "time_info": "07时18分"
         },
         {
           "title": "微软(MSFT.O)宣布每股季度派息0.91美元。",
@@ -478,9 +527,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        },
+        {
+          "title": "WTI原油盘初涨幅达2.00%，现报88.31美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260311063807459800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
         },
         {
           "title": "美国财政部拍卖580亿美元三年期国债，得标利率3.579%（2月10日为3.518%），投标倍数2.55（前次为2.62）。",
@@ -516,6 +576,17 @@
           "time_info": "01时39分"
         },
         {
+          "title": "WTI原油日内涨幅达4.0%，报85.54美元/桶。 纽约银日内跌幅达1.0%，报88.5美元/盎司。 纽约金日内跌幅达0.5%，报5194.7美元/盎司。 标普500股指期货、纳指期货涨0.1%，罗素2000股指期货跌0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3067590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
+        },
+        {
           "title": "EIA短期能源展望报告：受中东冲突影响，预计布伦特原油价格未来两个月将维持在每桶95美元以上；到2026年第三季度将跌至每桶80美元以下，年底左右降至每桶70美元。",
           "url": "https://flash.jin10.com/detail/20260311000929955800",
           "source": "金十数据",
@@ -533,9 +604,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        },
+        {
+          "title": "华平投资支持的PDG拟举债50亿美元扩建数据中心",
+          "url": "https://wallstreetcn.com/livenews/3067589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
         },
         {
           "title": "EIA短期能源展望报告：美国零售汽油价格预计2026年平均每加仑3.34美元，2027年平均每加仑3.18美元。",
@@ -555,7 +637,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         },
@@ -632,7 +714,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         },
@@ -673,7 +755,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "高校出手,AI龙虾被禁",
@@ -683,8 +765,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 07时18分]"
+        },
+        {
+          "title": "英伟达下场！将推“类OpenClaw式”AI智能体开源平台",
+          "url": "https://wallstreetcn.com/articles/3767089",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 07时18分]"
         },
         {
           "title": "两会现场 我问了AI这样一个问题",
@@ -694,20 +789,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 06时18分]"
-        },
-        {
-          "title": "英伟达下场！将推“类OpenClaw式”AI智能体开源平台",
-          "url": "https://wallstreetcn.com/articles/3767089",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 07时18分]"
         },
         {
           "title": "AI背锅,内存降价遥遥无期",
@@ -717,8 +800,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 07时18分]"
+        },
+        {
+          "title": "建议不允许青少年用AI做作业",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%B8%8D%E5%85%81%E8%AE%B8%E9%9D%92%E5%B0%91%E5%B9%B4%E7%94%A8AI%E5%81%9A%E4%BD%9C%E4%B8%9A%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时23分 ~ 07时18分]"
         },
         {
           "title": "工信部提醒AI养虾安全风险",
@@ -735,18 +830,6 @@
           "time_info": "[01时38分 ~ 06时18分]"
         },
         {
-          "title": "建议不允许青少年用AI做作业",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%B8%8D%E5%85%81%E8%AE%B8%E9%9D%92%E5%B0%91%E5%B9%B4%E7%94%A8AI%E5%81%9A%E4%BD%9C%E4%B8%9A%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时23分 ~ 06时18分]"
-        },
-        {
           "title": "brahma AI与谷歌云构建合作伙伴关系。",
           "url": "https://wallstreetcn.com/livenews/3067459",
           "source": "华尔街见闻-快讯",
@@ -756,6 +839,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "新加坡普林斯顿数字集团（PDG）联合创始人兼首席执行Rangu Salgame：我们正处于AI投资的“超级周期”之中。 对AI的长期需求以及即将到来的创新，正在驱动对数据中心容量的需求。 我们与超大规模云厂商（Hyperscalers）拥有极其稳固的合同，平均租期为10-12年。 （对于怀疑论者质疑AI类协议是否在人为地夸大对AI芯片的需求）这些担忧并未影响公司获得融资的能力。",
+          "url": "https://wallstreetcn.com/livenews/3067605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
         },
         {
           "title": "马斯克旗下xAI获准在美国密西西比修建发电站。 但目前，该公司的排污问题让人感到忧心忡忡。",
@@ -795,6 +889,18 @@
           "time_info": "[05时22分 ~ 06时18分]"
         },
         {
+          "title": "据知情人士透露，Raizen SA接近与其主要的债权人（们）达成一份协议，从而启动一个庭外债务重组。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3067582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时18分]"
+        },
+        {
           "title": "与AI“抢”芯片、单车内存成本增千元 有车企高管建议“买车趁早”",
           "url": "https://www.cls.cn/detail/2308421",
           "source": "财联社热门",
@@ -830,6 +936,18 @@
           "time_info": "[04时23分 ~ 05时22分]"
         },
         {
+          "title": "豆包限制AI成毅",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E9%99%90%E5%88%B6AI%E6%88%90%E6%AF%85%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时18分]"
+        },
+        {
           "title": "院士说文科生绝不会被AI替代",
           "url": "https://s.weibo.com/weibo?q=%23%E9%99%A2%E5%A3%AB%E8%AF%B4%E6%96%87%E7%A7%91%E7%94%9F%E7%BB%9D%E4%B8%8D%E4%BC%9A%E8%A2%ABAI%E6%9B%BF%E4%BB%A3%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -841,26 +959,15 @@
           "time_info": "[00时45分 ~ 00时46分]"
         },
         {
-          "title": "据知情人士透露，Raizen SA接近与其主要的债权人（们）达成一份协议，从而启动一个庭外债务重组。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3067582",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "豆包限制AI成毅",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E9%99%90%E5%88%B6AI%E6%88%90%E6%AF%85%23&t=31&band_rank=13&Refer=top",
+          "title": "AI短剧侵权肖战最高可判10年",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E7%9F%AD%E5%89%A7%E4%BE%B5%E6%9D%83%E8%82%96%E6%88%98%E6%9C%80%E9%AB%98%E5%8F%AF%E5%88%A410%E5%B9%B4%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
-            13
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时18分"
+          "time_info": "07时18分"
         },
         {
           "title": "外媒：腾讯秘密开发微信AI智能体 年内或对全用户开放",
@@ -880,7 +987,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         },
@@ -910,7 +1017,7 @@
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "法国央行：维持一季度GDP预期在增长0.2%-0.3%不变。 伊朗战争造成央行不确定性指标上升。",
@@ -935,6 +1042,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时35分 ~ 03时32分]"
+        },
+        {
+          "title": "专家称今年存在1至2次降准或定向降准机会",
+          "url": "https://wallstreetcn.com/livenews/3067601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
         },
         {
           "title": "美银警告称：油价飙升未必导致美联储转鹰，仍有可能大幅降息",
@@ -1071,11 +1189,12 @@
           "ranks": [
             29,
             22,
-            30
+            30,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时35分 ~ 04时23分]"
+          "appearance_count": 4,
+          "time_info": "[02时35分 ~ 07时18分]"
         },
         {
           "title": "比亚迪海外月销量首超国内",
@@ -1126,11 +1245,12 @@
             27,
             16,
             29,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 07时18分]"
         },
         {
           "title": "宝马销售疑贬小米：180天造的车不敢开",
@@ -1150,11 +1270,12 @@
           "ranks": [
             29,
             23,
-            30
+            30,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时32分 ~ 06时18分]"
+          "appearance_count": 4,
+          "time_info": "[03时32分 ~ 07时18分]"
         },
         {
           "title": "荣耀Magic V6",
@@ -1181,8 +1302,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 07时18分]"
         },
         {
           "title": "蔚来李斌称频繁超快充伤电池，超充再快也没换电快，怎样看待他的说法？电动汽车用户该如何选择？",
@@ -1197,8 +1318,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 07时18分]"
         },
         {
           "title": "新能源汽车“涨价潮”来了",
@@ -1207,11 +1328,12 @@
           "ranks": [
             17,
             18,
-            29
+            29,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 06时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 07时18分]"
         },
         {
           "title": "周二（3月10日），彭博电动汽车价格回报指数涨2.28%，报3581.07点，亚太盘初以来持续走高，北京时间01:17以来略微回吐部分涨幅。",
@@ -1239,8 +1361,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 07时18分]"
         },
         {
           "title": "坏了大学生已经盯上了逐玉",
@@ -1249,11 +1371,12 @@
           "ranks": [
             17,
             16,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 07时18分]"
         },
         {
           "title": "大学生返校现状",
@@ -1264,8 +1387,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时45分 ~ 06时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 07时18分]"
         }
       ]
     },
@@ -1336,11 +1459,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 07时18分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收涨超1.1%，Meta涨1%",
@@ -1371,8 +1495,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 07时18分]"
         }
       ]
     },
@@ -1385,11 +1509,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32733353",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 07时18分]"
         }
       ]
     },
