@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T07:18:32.590455+08:00",
-  "total_titles_processed": 717,
+  "generated_at": "2026-03-11T09:04:42.066675+08:00",
+  "total_titles_processed": 877,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 65,
+      "match_count": 74,
       "titles": [
         {
           "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
@@ -18,6 +18,22 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时45分 ~ 06时18分]"
+        },
+        {
+          "title": "为何生化里的暴君 1.2 亿美元这么贵一只但仍扛不过军队常规武器狂轰滥炸，BOW 研发在实战中到底有何意义？",
+          "url": "https://www.zhihu.com/question/2012122338733290833",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19,
+            15,
+            14,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时38分 ~ 09时04分]"
         },
         {
           "title": "美对伊军事打击首周花费 60 亿美元，属于什么水平？美国的军费还能支撑多久？",
@@ -33,22 +49,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时45分 ~ 07时18分]"
-        },
-        {
-          "title": "为何生化里的暴君 1.2 亿美元这么贵一只但仍扛不过军队常规武器狂轰滥炸，BOW 研发在实战中到底有何意义？",
-          "url": "https://www.zhihu.com/question/2012122338733290833",
-          "source": "知乎",
-          "ranks": [
-            20,
-            19,
-            15,
-            14,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时38分 ~ 07时18分]"
         },
         {
           "title": "甲骨文(ORCL.N)第四季度以美元计算总收入预计将增长19%至21%。",
@@ -79,7 +79,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
         },
@@ -112,7 +112,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
         },
@@ -400,6 +400,17 @@
           "time_info": "[04时23分 ~ 05时22分]"
         },
         {
+          "title": "三星、SK集团将注销超140亿美元库存股，为韩国历史上最大股票注销规模之一",
+          "url": "https://wallstreetcn.com/articles/3767160",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
           "title": "甲骨文(ORCL.N)2026财年Q3营收171.9亿美元，上年同期141.3亿美元，市场预期169.1亿美元。",
           "url": "https://flash.jin10.com/detail/20260311040604299800",
           "source": "金十数据",
@@ -455,6 +466,17 @@
           "time_info": "01时39分"
         },
         {
+          "title": "三星、SK将注销140亿美元库存股",
+          "url": "https://flash.jin10.com/detail/20260311082354739800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
           "title": "布伦特原油日内大跌4.00%，现报82.77美元/桶。",
           "url": "https://flash.jin10.com/detail/20260311010529221800",
           "source": "金十数据",
@@ -483,7 +505,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
         },
@@ -497,6 +519,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时32分"
+        },
+        {
+          "title": "知名投资人阿克曼旗下潘兴广场寻求通过IPO募资至多100亿美元",
+          "url": "https://wallstreetcn.com/livenews/3067643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
         },
         {
           "title": "布伦特原油日内大跌3.00%，现报83.63美元/桶。",
@@ -516,9 +549,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        },
+        {
+          "title": "WTI原油回落至82美元/桶下方，日内跌5.20%。",
+          "url": "https://flash.jin10.com/detail/20260311081737472800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
+          "title": "WTI原油回落至83美元/桶下方，日内跌4.04%。",
+          "url": "https://flash.jin10.com/detail/20260311081705872800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
         },
         {
           "title": "微软(MSFT.O)宣布每股季度派息0.91美元。",
@@ -538,7 +593,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
         },
@@ -552,6 +607,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        },
+        {
+          "title": "WTI原油日内下跌3.00%，现报83.74美元/桶。报道称，IEA提议史上最大规模的战略石油储备释放，规模将超1.82亿桶。",
+          "url": "https://flash.jin10.com/detail/20260311081533138800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
         },
         {
           "title": "Salesforce计划发行至多250亿美元债券，用于支持股票回购。",
@@ -582,7 +648,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
         },
@@ -596,6 +662,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "布伦特原油日内下跌1.00%，现报88.13美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260311080825560800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
         },
         {
           "title": "纽约期银涨约5.2%，一度突破90美元关口",
@@ -615,7 +692,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
         },
@@ -686,6 +763,17 @@
           "time_info": "02时35分"
         },
         {
+          "title": "美国优先炼油公司与印度信实达成3000亿美元项目合作，在得州新建炼油厂",
+          "url": "https://flash.jin10.com/detail/20260311074935322800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
           "title": "美国原油期货结算价为每桶83.45美元，下跌11.32美元，跌幅11.94%。",
           "url": "https://flash.jin10.com/detail/20260311023216736800",
           "source": "金十数据",
@@ -706,6 +794,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
+        },
+        {
+          "title": "WTI原油日内下跌1.00%，现报85.60美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260311074909539800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
         },
         {
           "title": "报道：Cliffwater规模达330亿美元的信贷基金面临超7%的赎回",
@@ -755,7 +854,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "高校出手,AI龙虾被禁",
@@ -765,8 +864,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时45分 ~ 07时18分]"
+          "appearance_count": 12,
+          "time_info": "[00时45分 ~ 09时04分]"
         },
         {
           "title": "英伟达下场！将推“类OpenClaw式”AI智能体开源平台",
@@ -789,19 +888,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时45分 ~ 07时18分]"
+          "appearance_count": 12,
+          "time_info": "[00时45分 ~ 09时04分]"
         },
         {
           "title": "AI背锅,内存降价遥遥无期",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351653&amp;topic_name=AI%E8%83%8C%E9%94%85%2C%E5%86%85%E5%AD%98%E9%99%8D%E4%BB%B7%E9%81%A5%E9%81%A5%E6%97%A0%E6%9C%9F",
           "source": "贴吧",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时45分 ~ 07时18分]"
+          "appearance_count": 12,
+          "time_info": "[00时45分 ~ 09时04分]"
         },
         {
           "title": "建议不允许青少年用AI做作业",
@@ -812,8 +912,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时23分 ~ 07时18分]"
+          "appearance_count": 6,
+          "time_info": "[04时23分 ~ 09时04分]"
         },
         {
           "title": "工信部提醒AI养虾安全风险",
@@ -847,7 +947,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
         },
@@ -887,6 +987,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时22分 ~ 06时18分]"
+        },
+        {
+          "title": "豆包限制AI成毅",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E9%99%90%E5%88%B6AI%E6%88%90%E6%AF%85%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时18分 ~ 09时04分]"
         },
         {
           "title": "据知情人士透露，Raizen SA接近与其主要的债权人（们）达成一份协议，从而启动一个庭外债务重组。（彭博）",
@@ -936,16 +1048,15 @@
           "time_info": "[04时23分 ~ 05时22分]"
         },
         {
-          "title": "豆包限制AI成毅",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E9%99%90%E5%88%B6AI%E6%88%90%E6%AF%85%23&t=31&band_rank=13&Refer=top",
+          "title": "AI短剧侵权肖战最高可判10年",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E7%9F%AD%E5%89%A7%E4%BE%B5%E6%9D%83%E8%82%96%E6%88%98%E6%9C%80%E9%AB%98%E5%8F%AF%E5%88%A410%E5%B9%B4%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
-            13,
-            14
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时18分 ~ 07时18分]"
+          "time_info": "[07时18分 ~ 09时04分]"
         },
         {
           "title": "院士说文科生绝不会被AI替代",
@@ -959,15 +1070,37 @@
           "time_info": "[00时45分 ~ 00时46分]"
         },
         {
-          "title": "AI短剧侵权肖战最高可判10年",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E7%9F%AD%E5%89%A7%E4%BE%B5%E6%9D%83%E8%82%96%E6%88%98%E6%9C%80%E9%AB%98%E5%8F%AF%E5%88%A410%E5%B9%B4%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
+          "title": "原工信部部长苗圩：完善新就业形态下的社会保障网，落实和优化休假制度，让人工智能发展红利为全社会所共享",
+          "url": "https://wallstreetcn.com/livenews/3067648",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时18分"
+          "time_info": "09时04分"
+        },
+        {
+          "title": "原工信部部长苗圩：让制造业成为人工智能科技创新和产业创新深度融合的主战场",
+          "url": "https://wallstreetcn.com/livenews/3067646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
+          "title": "AI短剧火热，业内人士称“是接下来最大风口”，行业内90%公司仍处于亏损状态",
+          "url": "https://wallstreetcn.com/livenews/3067642",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
         },
         {
           "title": "外媒：腾讯秘密开发微信AI智能体 年内或对全用户开放",
@@ -1017,7 +1150,7 @@
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 12,
+      "match_count": 18,
       "titles": [
         {
           "title": "法国央行：维持一季度GDP预期在增长0.2%-0.3%不变。 伊朗战争造成央行不确定性指标上升。",
@@ -1050,9 +1183,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        },
+        {
+          "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日将公布美国2月CPI，欧佩克将发布月度原油市场报告",
+          "url": "https://flash.jin10.com/detail/20260311082232441800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
         },
         {
           "title": "美银警告称：油价飙升未必导致美联储转鹰，仍有可能大幅降息",
@@ -1110,6 +1254,50 @@
           "time_info": "05时22分"
         },
         {
+          "title": "日本2月国内企业商品物价指数年率 2%，预期2.1%，前值2.30%。",
+          "url": "https://flash.jin10.com/detail/20260311075005671800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
+          "title": "日本2月国内企业商品物价指数月率 -0.1%，预期0.1%，前值0.20%。",
+          "url": "https://flash.jin10.com/detail/20260311075005650800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
+          "title": "日本2月国内企业商品物价指数环比 -0.1%，预期 0.2%，前值 0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3067626",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
+          "title": "日本2月国内企业商品物价指数同比 2%，预期 2.2%，前值 2.3%。",
+          "url": "https://wallstreetcn.com/livenews/3067625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
           "title": "欧洲央行行长拉加德：不确定性和波动性程度令人非常惊讶。",
           "url": "https://flash.jin10.com/detail/20260311042105131800",
           "source": "金十数据",
@@ -1152,12 +1340,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        },
+        {
+          "title": "韩国财长：如有必要，韩国将采取额外的市场行动。 若有需要，韩国财政部和央行将就回购及国债购买进行协调。 韩国将动用包括追加预算在内的所有可用政策工具。",
+          "url": "https://wallstreetcn.com/livenews/3067619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
         }
       ]
     },
     {
       "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "纳斯达克金龙中国指数初步收涨1.9%。 热门中概股里，蔚来初步收涨15%，世纪互联涨13.5%，文远知行涨7.2%，腾讯涨10%，阿里涨3.1%，百度涨2.4%，小鹏涨2.2%，美团跌1.5%，比亚迪跌1.5%。",
@@ -1171,18 +1370,6 @@
           "time_info": "04时23分"
         },
         {
-          "title": "闪充站怎么帮比亚迪守住销冠地位",
-          "url": "https://www.toutiao.com/trending/7615618411669753407/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时45分 ~ 01时39分]"
-        },
-        {
           "title": "比亚迪李云飞回应闪充伤电池",
           "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%9D%8E%E4%BA%91%E9%A3%9E%E5%9B%9E%E5%BA%94%E9%97%AA%E5%85%85%E4%BC%A4%E7%94%B5%E6%B1%A0",
           "source": "百度热搜",
@@ -1193,8 +1380,20 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时35分 ~ 09时04分]"
+        },
+        {
+          "title": "闪充站怎么帮比亚迪守住销冠地位",
+          "url": "https://www.toutiao.com/trending/7615618411669753407/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[02时35分 ~ 07时18分]"
+          "time_info": "[00时45分 ~ 01时39分]"
         },
         {
           "title": "比亚迪海外月销量首超国内",
@@ -1219,6 +1418,17 @@
           "time_info": "04时23分"
         },
         {
+          "title": "如何看待蔚来 2025 年四季度及全年财报？四季度实现首次季度盈利，得益于哪些因素影响？",
+          "url": "https://www.zhihu.com/question/2014774953711462125",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收涨1.96%，报7222.96点。 热门中概股里，蔚来初步收涨15%，世纪互联涨13.5%，文远知行涨7.2%，腾讯涨10%，阿里涨3.1%，百度涨2.4%，小鹏涨2.2%，美团跌1.5%，比亚迪跌1.5%。 ETF中，中概互联网指数ETF（KWEB）收涨1.47%，中国科技指数ETF（CQQQ）收涨1.37%。 XtrackersHarvest中证50（ASHS）收涨1.16%，德银嘉实沪深300指数ETF（ASHR）收涨0.51%。",
           "url": "https://wallstreetcn.com/livenews/3067547",
           "source": "华尔街见闻-快讯",
@@ -1233,7 +1443,7 @@
     },
     {
       "keyword_group": "华为 小米 荣耀",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "如何评价荣耀MagicV6",
@@ -1246,11 +1456,12 @@
             16,
             29,
             17,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时45分 ~ 07时18分]"
+          "appearance_count": 12,
+          "time_info": "[00时45分 ~ 09时04分]"
         },
         {
           "title": "宝马销售疑贬小米：180天造的车不敢开",
@@ -1287,6 +1498,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时21分 ~ 05时22分]"
+        },
+        {
+          "title": "业内人士谈小米汽车被销售嘲讽",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9A%E5%86%85%E4%BA%BA%E5%A3%AB%E8%B0%88%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E8%A2%AB%E9%94%80%E5%94%AE%E5%98%B2%E8%AE%BD%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
         }
       ]
     },
@@ -1329,11 +1551,12 @@
             17,
             18,
             29,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 07时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 09时04分]"
         },
         {
           "title": "周二（3月10日），彭博电动汽车价格回报指数涨2.28%，报3581.07点，亚太盘初以来持续走高，北京时间01:17以来略微回吐部分涨幅。",
@@ -1358,11 +1581,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351651&amp;topic_name=%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%88%86%E5%93%AD%2C%E9%98%B2%E6%B2%89%E8%BF%B7%E5%BB%B6%E9%95%BF%E8%87%B322%E5%B2%81",
           "source": "贴吧",
           "ranks": [
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时45分 ~ 07时18分]"
+          "appearance_count": 12,
+          "time_info": "[00时45分 ~ 09时04分]"
         },
         {
           "title": "坏了大学生已经盯上了逐玉",
@@ -1375,8 +1599,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时45分 ~ 07时18分]"
+          "appearance_count": 12,
+          "time_info": "[00时45分 ~ 09时04分]"
         },
         {
           "title": "大学生返校现状",
@@ -1384,11 +1608,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             27,
-            30
+            30,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时45分 ~ 07时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时45分 ~ 09时04分]"
         }
       ]
     },
@@ -1417,6 +1642,65 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 iPhone",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "开箱苹果新品显示器",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BC%80%E7%AE%B1%E8%8B%B9%E6%9E%9C%E6%96%B0%E5%93%81%E6%98%BE%E7%A4%BA%E5%99%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            21,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 07时18分]"
+        },
+        {
+          "title": "苹果最便宜手机来了",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%9C%80%E4%BE%BF%E5%AE%9C%E6%89%8B%E6%9C%BA%E6%9D%A5%E4%BA%86%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "OPPO vivo",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "存储芯片成本暴涨 80%，OPPO 官宣涨价，雷军称尽量降低消费者接受难度，这将如何重塑手机市场竞争格局？",
+          "url": "https://www.zhihu.com/question/2014710084022846319",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
+          "title": "OPPO打响今年手机涨价“第一枪”，其他品牌会跟进吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32740576",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
         }
       ]
     },
@@ -1481,26 +1765,6 @@
       ]
     },
     {
-      "keyword_group": "苹果 iPhone",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "开箱苹果新品显示器",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BC%80%E7%AE%B1%E8%8B%B9%E6%9E%9C%E6%96%B0%E5%93%81%E6%98%BE%E7%A4%BA%E5%99%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            21,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时45分 ~ 07时18分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "大模型 ChatGPT Kimi Sora OpenAI",
       "match_count": 1,
       "titles": [
@@ -1532,6 +1796,23 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时38分 ~ 06时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "就业 裁员 招聘",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "同事被裁员，立马退群，中午吃完饭准备交接，同事微信都被他删了，天天一起上班，难道就不能等交接完再删吗？",
+          "url": "https://www.zhihu.com/question/2014600427270858391",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
         }
       ]
     },
