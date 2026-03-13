@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-14T01:27:39.212120+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2026-03-14T02:28:55.678525+08:00",
+  "total_titles_processed": 438,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 20,
+      "match_count": 26,
       "titles": [
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，金银下挫",
@@ -15,8 +15,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 02时28分]"
+        },
+        {
+          "title": "WTI原油日内涨超2.00%，现报98.29美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260314020644023800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时28分"
         },
         {
           "title": "纽元兑美元NZD/USD跌破0.58，日内跌0.91%。澳元兑美元AUD/USD失守0.70，日内跌幅1.07%。",
@@ -30,26 +41,37 @@
           "time_info": "00时27分"
         },
         {
-          "title": "美联储在固定利率逆回购操作中总计接纳了4个对手方的4.27亿美元。",
-          "url": "https://flash.jin10.com/detail/20260314011750496800",
-          "source": "金十数据",
+          "title": "布伦特原油日内涨幅超过2.5%，报103.01美元/桶；WTI原油5分钟内上涨0.55美元/桶，报96.58美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3069969",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时27分"
+          "time_info": "02时28分"
         },
         {
-          "title": "周五（3月13日），美联储隔夜逆回购协议（RRP）使用规模为4.27亿美元（交易对手4家），上个交易日报1.37亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3069960",
-          "source": "华尔街见闻-快讯",
+          "title": "纽元兑美元NZD/USD日内下跌1.00%，现报0.5795。",
+          "url": "https://flash.jin10.com/detail/20260314020419451800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时27分"
+          "time_info": "02时28分"
+        },
+        {
+          "title": "LME期铜收跌219美元，报12780美元/吨。 LME期铝收跌77美元，报3440美元/吨。 LME期锌收跌6美元，报3296美元/吨。 LME期铅收跌32美元，报1908美元/吨。 LME期镍收跌476美元，报17266美元/吨。 LME期锡收跌2329美元，报47059美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3069966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时28分"
         },
         {
           "title": "现货白银日内跌5.00%，现报79.69美元/盎司。",
@@ -63,6 +85,41 @@
           "time_info": "00时27分"
         },
         {
+          "title": "市场消息：美国国务院提供最高1000万美元悬赏，以获取伊朗革命卫队高级领导人的可信信息。",
+          "url": "https://flash.jin10.com/detail/20260314015919718800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时28分"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了4个对手方的4.27亿美元。",
+          "url": "https://flash.jin10.com/detail/20260314011750496800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 02时28分]"
+        },
+        {
+          "title": "周五（3月13日），美联储隔夜逆回购协议（RRP）使用规模为4.27亿美元（交易对手4家），上个交易日报1.37亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3069960",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 02时28分]"
+        },
+        {
           "title": "中国向伊朗提供20万美元人道主义援助",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%90%91%E4%BC%8A%E6%9C%97%E6%8F%90%E4%BE%9B20%E4%B8%87%E7%BE%8E%E5%85%83%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E6%8F%B4%E5%8A%A9",
           "source": "百度热搜",
@@ -70,8 +127,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 02时28分]"
         },
         {
           "title": "布油破百引爆通胀担忧，全球股市普跌，美元指数重回100关口，日元创20个月新低",
@@ -82,8 +139,30 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 02时28分]"
+        },
+        {
+          "title": "中方向伊朗遇难学生家长援助20万美元",
+          "url": "https://www.toutiao.com/trending/7616641907589959178/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 02时28分]"
+        },
+        {
+          "title": "外交部：中方将提供20万美元紧急人道主义援助，抚恤伊朗遇难学生家长",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32760946",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 02时28分]"
         },
         {
           "title": "LME锡期货跌幅达4.00%，现报47036.80美元/吨。",
@@ -98,26 +177,16 @@
           "time_info": "[00时27分 ~ 01时27分]"
         },
         {
-          "title": "中方向伊朗遇难学生家长援助20万美元",
-          "url": "https://www.toutiao.com/trending/7616641907589959178/",
-          "source": "今日头条",
+          "title": "数字货币市场周五走高，比特币涨穿7.2万美元，本周以太币涨超7.7%",
+          "url": "https://wallstreetcn.com/livenews/3069952",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            10,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时27分]"
-        },
-        {
-          "title": "外交部：中方将提供20万美元紧急人道主义援助，抚恤伊朗遇难学生家长",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32760946",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时27分]"
+          "time_info": "[01时27分 ~ 02时28分]"
         },
         {
           "title": "伦锡日内跌幅达4.00%，现报47036.80美元/吨。",
@@ -142,17 +211,6 @@
           "time_info": "00时27分"
         },
         {
-          "title": "数字货币市场周五走高，比特币涨穿7.2万美元，本周以太币涨超7.7%",
-          "url": "https://wallstreetcn.com/livenews/3069952",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时27分"
-        },
-        {
           "title": "商品货币澳元兑美元跌1%，报0.7006。",
           "url": "https://wallstreetcn.com/livenews/3069923",
           "source": "华尔街见闻-快讯",
@@ -162,6 +220,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "巴西雷亚尔兑美元在即期交易中下跌逾1%。",
+          "url": "https://flash.jin10.com/detail/20260314015137380800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时28分"
         },
         {
           "title": "现货白银日内跌超4.00%，现报80.52美元/盎司。",
@@ -181,7 +250,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
         },
@@ -232,6 +301,93 @@
       ]
     },
     {
+      "keyword_group": "人工智能 AI",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "马斯克誓言重建 xAI，又一联合创始人离职",
+          "url": "https://wallstreetcn.com/livenews/3069962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 02时28分]"
+        },
+        {
+          "title": "欧盟理事会推动简化AI监管规则，禁止AI用于生成色情内容",
+          "url": "https://wallstreetcn.com/livenews/3069958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 02时28分]"
+        },
+        {
+          "title": "AI带路寻美食,吧友吃到自闭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351797&amp;topic_name=AI%E5%B8%A6%E8%B7%AF%E5%AF%BB%E7%BE%8E%E9%A3%9F%2C%E5%90%A7%E5%8F%8B%E5%90%83%E5%88%B0%E8%87%AA%E9%97%AD",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 02时28分]"
+        },
+        {
+          "title": "naiyou单曲无关风月",
+          "url": "https://search.bilibili.com/all?keyword=naiyou%E5%8D%95%E6%9B%B2%E6%97%A0%E5%85%B3%E9%A3%8E%E6%9C%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            27,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 02时28分]"
+        },
+        {
+          "title": "张颂文硬气回应AI冲击影视行业",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%A2%82%E6%96%87%E7%A1%AC%E6%B0%94%E5%9B%9E%E5%BA%94AI%E5%86%B2%E5%87%BB%E5%BD%B1%E8%A7%86%E8%A1%8C%E4%B8%9A%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时28分"
+        },
+        {
+          "title": "据英国金融时报：埃隆·马斯克下令xAI再裁员。",
+          "url": "https://flash.jin10.com/detail/20260313233908274800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
+        },
+        {
+          "title": "马斯克下令，在xAI实施新一轮裁员。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3069912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "央行 降息 降准 CPI 物价",
       "match_count": 7,
       "titles": [
@@ -243,8 +399,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 02时28分]"
         },
         {
           "title": "央行将开展5千亿元买断式逆回购",
@@ -254,8 +410,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 02时28分]"
         },
         {
           "title": "俄罗斯2月CPI环比上升0.73%，预期上升0.50%；同比上升5.91%，预期上升5.70%。 2月核心CPI环比上升0.52%，同比上升5.18%。",
@@ -288,7 +444,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
         },
@@ -317,75 +473,42 @@
       ]
     },
     {
-      "keyword_group": "人工智能 AI",
-      "match_count": 6,
+      "keyword_group": "基础设施 基建 地铁 高铁",
+      "match_count": 3,
       "titles": [
         {
-          "title": "马斯克誓言重建 xAI，又一联合创始人离职",
-          "url": "https://wallstreetcn.com/livenews/3069962",
-          "source": "华尔街见闻-快讯",
+          "title": "人民日报评论：日本穷兵黩武，只会加速基建“塌方”",
+          "url": "https://news.ifeng.com/c/8rSyopvCWvC",
+          "source": "凤凰网",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时27分"
-        },
-        {
-          "title": "欧盟理事会推动简化AI监管规则，禁止AI用于生成色情内容",
-          "url": "https://wallstreetcn.com/livenews/3069958",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时27分"
-        },
-        {
-          "title": "AI带路寻美食,吧友吃到自闭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351797&amp;topic_name=AI%E5%B8%A6%E8%B7%AF%E5%AF%BB%E7%BE%8E%E9%A3%9F%2C%E5%90%A7%E5%8F%8B%E5%90%83%E5%88%B0%E8%87%AA%E9%97%AD",
-          "source": "贴吧",
-          "ranks": [
-            7
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 02时28分]"
         },
         {
-          "title": "naiyou单曲无关风月",
-          "url": "https://search.bilibili.com/all?keyword=naiyou%E5%8D%95%E6%9B%B2%E6%97%A0%E5%85%B3%E9%A3%8E%E6%9C%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时27分]"
-        },
-        {
-          "title": "据英国金融时报：埃隆·马斯克下令xAI再裁员。",
-          "url": "https://flash.jin10.com/detail/20260313233908274800",
+          "title": "以色列空军：90多架以色列战斗机使用了约200枚弹药打击伊朗目标，目标包括伊朗革命卫队和巴斯基武装的地区总部、巴斯基部队的主要指挥部、伊朗内部安全部队总部、防空系统和基础设施，以及用于弹道导弹研发测试的场地。",
+          "url": "https://flash.jin10.com/detail/20260314011918270800",
           "source": "金十数据",
           "ranks": [
-            18
+            1,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 02时28分]"
         },
         {
-          "title": "马斯克下令，在xAI实施新一轮裁员。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3069912",
-          "source": "华尔街见闻-快讯",
+          "title": "微软(MSFT.O)CEO：我们是首家部署英伟达Vera Rubin NVL72系统进行验证的云服务提供商，这是与英伟达(NVDA.O)合作构建下一代AI基础设施的又一重要里程碑。",
+          "url": "https://flash.jin10.com/detail/20260314015342167800",
+          "source": "金十数据",
           "ranks": [
-            21
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时27分"
+          "time_info": "02时28分"
         }
       ]
     },
@@ -402,8 +525,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 02时28分]"
         },
         {
           "title": "苹果下调中国应用商店佣金率",
@@ -430,34 +553,6 @@
       ]
     },
     {
-      "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "人民日报评论：日本穷兵黩武，只会加速基建“塌方”",
-          "url": "https://news.ifeng.com/c/8rSyopvCWvC",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时27分]"
-        },
-        {
-          "title": "以色列空军：90多架以色列战斗机使用了约200枚弹药打击伊朗目标，目标包括伊朗革命卫队和巴斯基武装的地区总部、巴斯基部队的主要指挥部、伊朗内部安全部队总部、防空系统和基础设施，以及用于弹道导弹研发测试的场地。",
-          "url": "https://flash.jin10.com/detail/20260314011918270800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时27分"
-        }
-      ]
-    },
-    {
       "keyword_group": "华为 小米 荣耀",
       "match_count": 2,
       "titles": [
@@ -470,8 +565,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 02时28分]"
         },
         {
           "title": "华为回应15599元折叠屏用3天黑屏",
@@ -479,11 +574,12 @@
           "source": "百度热搜",
           "ranks": [
             24,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 02时28分]"
         }
       ]
     },
@@ -508,11 +604,12 @@
           "source": "今日头条",
           "ranks": [
             20,
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 02时28分]"
         }
       ]
     },
@@ -529,8 +626,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 02时28分]"
         },
         {
           "title": "美国三大股指悉数转跌，标普500指数跌超0.2%，纳指跌0.5%，半导体指数涨0.4%，银行指数涨0.2%，小盘股指跌超0.1%。",
@@ -547,7 +644,7 @@
     },
     {
       "keyword_group": "英伟达 台积电 AMD 高通",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "英伟达GTC亮点抢先看：“龙虾”乐园即将开张 资本市场翘首以待",
@@ -558,8 +655,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 02时28分]"
+        },
+        {
+          "title": "标普：中东战争带来的负面供给冲击将降低美国GDP增速并推高通胀。",
+          "url": "https://flash.jin10.com/detail/20260314015120373800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时28分"
         }
       ]
     },
@@ -575,8 +683,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 02时28分]"
         }
       ]
     },
@@ -592,8 +700,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 02时28分]"
         }
       ]
     }
