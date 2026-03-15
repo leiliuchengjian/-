@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T15:43:14.302115+08:00",
-  "total_titles_processed": 871,
+  "generated_at": "2026-03-15T16:26:23.894893+08:00",
+  "total_titles_processed": 924,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时18分 ~ 15时43分]"
+          "appearance_count": 20,
+          "time_info": "[00时18分 ~ 16时26分]"
         },
         {
           "title": "Meta据称拟裁员20%，扎克伯格曾谈AI效率：一个人顶一个团队！",
@@ -42,11 +42,12 @@
             12,
             17,
             18,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时18分 ~ 15时43分]"
+          "appearance_count": 20,
+          "time_info": "[00时18分 ~ 16时26分]"
         },
         {
           "title": "84岁奶奶给AI霸总写情书，消费近万元还要嫁给他",
@@ -56,8 +57,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时01分 ~ 15时43分]"
+          "appearance_count": 7,
+          "time_info": "[14时01分 ~ 16时26分]"
         },
         {
           "title": "马斯克xAI联创团队几乎全跑了",
@@ -65,11 +66,12 @@
           "source": "百度热搜",
           "ranks": [
             14,
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时01分 ~ 15时43分]"
+          "appearance_count": 7,
+          "time_info": "[14时01分 ~ 16时26分]"
         },
         {
           "title": "据The Information：因与好莱坞存在版权纠纷，字节跳动暂停推出视频AI模型。",
@@ -144,6 +146,59 @@
       ]
     },
     {
+      "keyword_group": "基础设施 基建 地铁 高铁",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "“吃地铁”打卡大军已就位",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%90%83%E5%9C%B0%E9%93%81%E2%80%9D%E6%89%93%E5%8D%A1%E5%A4%A7%E5%86%9B%E5%B7%B2%E5%B0%B1%E4%BD%8D",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            15,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时01分 ~ 16时26分]"
+        },
+        {
+          "title": "以色列国防军：不久前，以色列国防军开始对伊朗西部的伊朗恐怖政权基础设施进行大规模打击。",
+          "url": "https://flash.jin10.com/detail/20260315160444811800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
+          "title": "以色列国防军：在过去的一天里，以色列空军战机根据以军情报，对伊朗西部和中部地区的200多个伊朗政权基础设施目标发动了袭击。",
+          "url": "https://flash.jin10.com/detail/20260314233903497800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时19分"
+        },
+        {
+          "title": "美国共和党参议员格雷厄姆：如果伊朗失去对哈尔克岛石油基础设施的控制权或运营能力，其经济将被摧毁。谁控制了哈尔克岛，谁就掌控了这场战争的走向。",
+          "url": "https://flash.jin10.com/detail/20260314232530491800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元 人民币 汇率",
       "match_count": 4,
       "titles": [
@@ -195,50 +250,21 @@
       ]
     },
     {
-      "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "“吃地铁”打卡大军已就位",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%90%83%E5%9C%B0%E9%93%81%E2%80%9D%E6%89%93%E5%8D%A1%E5%A4%A7%E5%86%9B%E5%B7%B2%E5%B0%B1%E4%BD%8D",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时01分 ~ 15时43分]"
-        },
-        {
-          "title": "以色列国防军：在过去的一天里，以色列空军战机根据以军情报，对伊朗西部和中部地区的200多个伊朗政权基础设施目标发动了袭击。",
-          "url": "https://flash.jin10.com/detail/20260314233903497800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        },
-        {
-          "title": "美国共和党参议员格雷厄姆：如果伊朗失去对哈尔克岛石油基础设施的控制权或运营能力，其经济将被摧毁。谁控制了哈尔克岛，谁就掌控了这场战争的走向。",
-          "url": "https://flash.jin10.com/detail/20260314232530491800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        }
-      ]
-    },
-    {
       "keyword_group": "大模型 ChatGPT Kimi Sora OpenAI",
       "match_count": 3,
       "titles": [
+        {
+          "title": "Kimi爆火，月之暗面估值冲到180亿美元 ，不到3个月翻了4倍！",
+          "url": "https://wallstreetcn.com/articles/3767528",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时24分 ~ 16时26分]"
+        },
         {
           "title": "GLM5 、 Kimi 2.5 、 Minimax M2.5 、千问、豆包，国产大模型选哪个？",
           "url": "https://www.zhihu.com/question/2007181043678077214",
@@ -254,18 +280,6 @@
           "time_info": "[00时18分 ~ 07时18分]"
         },
         {
-          "title": "Kimi爆火，月之暗面估值冲到180亿美元 ，不到3个月翻了4倍！",
-          "url": "https://wallstreetcn.com/articles/3767528",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时24分 ~ 15时43分]"
-        },
-        {
           "title": "内测输给Gemini，还套壳？！Meta千亿自研大模型遭延期",
           "url": "https://wallstreetcn.com/articles/3767525",
           "source": "华尔街见闻",
@@ -274,8 +288,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时24分 ~ 15时43分]"
+          "appearance_count": 8,
+          "time_info": "[12时24分 ~ 16时26分]"
         }
       ]
     },
@@ -329,20 +343,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 16时26分]"
         },
         {
           "title": "特斯拉“造芯”真来了！马斯克官宣：Terafab项目7天后启动",
           "url": "https://www.cls.cn/detail/2313116",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时42分 ~ 15时43分]"
+          "appearance_count": 3,
+          "time_info": "[15时42分 ~ 16时26分]"
         }
       ]
     },
@@ -358,11 +373,12 @@
             14,
             19,
             20,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时18分 ~ 15时43分]"
+          "appearance_count": 20,
+          "time_info": "[00时18分 ~ 16时26分]"
         },
         {
           "title": "今年考研复试有哪些新特点",
@@ -395,8 +411,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时18分 ~ 15时43分]"
+          "appearance_count": 20,
+          "time_info": "[00时18分 ~ 16时26分]"
         }
       ]
     },
@@ -455,8 +471,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时18分 ~ 15时43分]"
+          "appearance_count": 10,
+          "time_info": "[07时18分 ~ 16时26分]"
         }
       ]
     }
