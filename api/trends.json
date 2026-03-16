@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T01:53:43.389438+08:00",
-  "total_titles_processed": 344,
+  "generated_at": "2026-03-17T02:47:28.572280+08:00",
+  "total_titles_processed": 401,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "阿里巴巴成立新事业群 争夺AI Agent市场",
@@ -15,8 +15,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 02时47分]"
+        },
+        {
+          "title": "市场消息：英伟达旗下的DLSS 5技术通过人工智能驱动，在游戏的视觉保真度方面实现了突破性进展。",
+          "url": "https://flash.jin10.com/detail/20260317023121292800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
         },
         {
           "title": "锐评B站AI大赛热门作品",
@@ -24,11 +35,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 02时47分]"
         },
         {
           "title": "英伟达GTC大会前瞻：整合Groq技术大举进攻推理芯片，三星首度代工生产，OpenAI或成首批客户",
@@ -38,8 +50,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 02时47分]"
         },
         {
           "title": "阿里成立 Token Hub 事业群，由吴泳铭直接负责，此次架构调整对阿里 AI 发展有怎样的影响？",
@@ -47,23 +59,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时53分]"
-        },
-        {
-          "title": "开云集团成立新的实体Kering Jewelry，Jean-Marc Duplaix将出任其首席执行官（CEO）。",
-          "url": "https://wallstreetcn.com/livenews/3071062",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 02时47分]"
         },
         {
           "title": "英伟达将豪掷 260 亿美元开发 AI 大模型，为什么英伟达要自己下场做大模型？",
@@ -71,11 +72,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 02时47分]"
         },
         {
           "title": "315曝光AI大模型遭投毒操控",
@@ -84,6 +86,18 @@
           "ranks": [
             26,
             23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 02时47分]"
+        },
+        {
+          "title": "开云集团成立新的实体Kering Jewelry，Jean-Marc Duplaix将出任其首席执行官（CEO）。",
+          "url": "https://wallstreetcn.com/livenews/3071062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -100,12 +114,45 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时20分 ~ 01时53分]"
+        },
+        {
+          "title": "摩根士丹利：预计人工智能（AI）数据中心将在市政债券市场激发1000亿美元债券发行。",
+          "url": "https://wallstreetcn.com/livenews/3071100",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "OpenAI总裁兼联合创始人格雷格・布罗克曼：GPT-5.4年化新增净收入达到10亿美元。",
+          "url": "https://flash.jin10.com/detail/20260317020724213800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "AI对游戏版权有何影响",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%AF%B9%E6%B8%B8%E6%88%8F%E7%89%88%E6%9D%83%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
         }
       ]
     },
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 3,
+      "match_count": 11,
       "titles": [
         {
           "title": "霍尔木兹海峡现通航迹象，美股指高开，纳指涨1%，WTI原油日内跌幅达3%，现货黄金重回5000美元",
@@ -115,20 +162,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时53分]"
-        },
-        {
-          "title": "周一（3月16日），美联储隔夜逆回购协议（RRP）使用规模为5.82亿美元（交易对手9家），上个交易日报4.27亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3071078",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 02时47分]"
         },
         {
           "title": "贝森特：美国默许部分船只通过霍尔木兹，几个月后油价“远低于”80美元",
@@ -138,8 +173,159 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 02时47分]"
+        },
+        {
+          "title": "周一（3月16日），美联储隔夜逆回购协议（RRP）使用规模为5.82亿美元（交易对手9家），上个交易日报4.27亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3071078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 02时47分]"
+        },
+        {
+          "title": "WTI 4月原油期货收报93.50美元/桶。 NYMEX 4月天然气期货收报3.0230美元/百万英热单位。 NYMEX 4月汽油期货收报3.0003美元/加仑，NYMEX 3月取暖油期货收报3.8375美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3071103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "上期所原油期货2605合约夜盘收跌6.53%，报720.10元人民币/桶。 沪金夜盘收跌0.86%，沪银收跌0.12%。",
+          "url": "https://wallstreetcn.com/livenews/3071102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "美国打算成立一家由煤炭发电的火电厂，这将是2013年以来首次。 Terra Energy Center投资10亿美元到一份协议，将按原计划推进阿拉斯加州的煤炭项目。",
+          "url": "https://wallstreetcn.com/livenews/3071101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "纽元兑美元NZD/USD日内涨幅达1.50%，现报0.5862。",
+          "url": "https://flash.jin10.com/detail/20260317022631603800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "LME期铜收涨75美元，报12856美元/吨。 LME期铝收跌44美元，报3396美元/吨。 LME期锌收跌26美元，报3270美元/吨。 LME期铅收跌2美元，报1905美元/吨。 LME期镍收涨199美元，报17465美元/吨。 LME期锡收涨1206美元，报48265美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3071094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "周一（3月16日），韩元兑美元最终涨0.41%，报1492.16韩元。",
+          "url": "https://wallstreetcn.com/livenews/3071092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "伦敦证券交易所集团（LSEG）美元债券发行获得140亿美元认购。",
+          "url": "https://wallstreetcn.com/livenews/3071095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "布伦特原油日内大跌4.00%，现报96.86美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260317021733676800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英伟达 台积电 AMD 高通",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "英伟达发布NVIDIA DLSS 5，图形学迎来“GPT时刻”",
+          "url": "https://flash.jin10.com/detail/20260317023518834800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "英伟达发布NVIDIA DLSS 5，黄仁勋将其比作图形学领域的GPT时刻",
+          "url": "https://wallstreetcn.com/livenews/3071104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "英伟达DGX Rubin NVL8 Systems采用了英特尔XEON 6，用作主要的CUPs。",
+          "url": "https://wallstreetcn.com/livenews/3071099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "市场消息：英伟达DGX Rubin NVL8 Systems采用了英特尔XEON 6。",
+          "url": "https://flash.jin10.com/detail/20260317022131221800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
         }
       ]
     },
@@ -155,8 +341,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 02时47分]"
         },
         {
           "title": "渝昆高铁7死4伤事故调查报告公布",
@@ -172,6 +358,34 @@
       ]
     },
     {
+      "keyword_group": "就业 裁员 招聘",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "国际巨头被曝：计划裁员超1.5万人",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E5%B7%A8%E5%A4%B4%E8%A2%AB%E6%9B%9D%EF%BC%9A%E8%AE%A1%E5%88%92%E8%A3%81%E5%91%98%E8%B6%851.5%E4%B8%87%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 02时47分]"
+        },
+        {
+          "title": "美国参议院民主党成员Warren：调查Meta、微软、塔吉特、耐克、亚马逊的裁员行为。",
+          "url": "https://wallstreetcn.com/livenews/3071091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        }
+      ]
+    },
+    {
       "keyword_group": "房地产 房价 楼市 LPR",
       "match_count": 1,
       "titles": [
@@ -183,8 +397,25 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 02时47分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 iPhone",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "市场消息：苹果(AAPL.O)收购视频剪辑公司MotionVFX，以提升订阅用户规模。",
+          "url": "https://flash.jin10.com/detail/20260317022815794800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
         }
       ]
     },
@@ -200,8 +431,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 02时47分]"
         }
       ]
     },
@@ -217,8 +448,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 02时47分]"
         }
       ]
     },
@@ -233,23 +464,6 @@
           "ranks": [
             19,
             22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时53分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "就业 裁员 招聘",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国际巨头被曝：计划裁员超1.5万人",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E5%B7%A8%E5%A4%B4%E8%A2%AB%E6%9B%9D%EF%BC%9A%E8%AE%A1%E5%88%92%E8%A3%81%E5%91%98%E8%B6%851.5%E4%B8%87%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 2,
