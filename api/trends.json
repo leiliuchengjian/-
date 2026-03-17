@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T18:40:36.828771+08:00",
-  "total_titles_processed": 1623,
+  "generated_at": "2026-03-17T19:36:32.668244+08:00",
+  "total_titles_processed": 1729,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 72,
+      "match_count": 74,
       "titles": [
         {
           "title": "阿里巴巴成立新事业群 争夺AI Agent市场",
@@ -38,11 +38,12 @@
           "ranks": [
             1,
             4,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时53分 ~ 18时40分]"
+          "appearance_count": 10,
+          "time_info": "[13时53分 ~ 19时36分]"
         },
         {
           "title": "AI大厂月薪3万疯抢文科生",
@@ -51,11 +52,12 @@
           "ranks": [
             20,
             2,
-            1
+            1,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时47分 ~ 18时40分]"
+          "appearance_count": 8,
+          "time_info": "[15时47分 ~ 19时36分]"
         },
         {
           "title": "英伟达GTC大会前瞻：整合Groq技术大举进攻推理芯片，三星首度代工生产，OpenAI或成首批客户",
@@ -91,6 +93,23 @@
           "time_info": "[01时20分 ~ 16时40分]"
         },
         {
+          "title": "36 岁程序员，被 AI 写代码吓到了：如果再不转型，我几年内会失业吗？",
+          "url": "https://www.zhihu.com/question/1977057445844109122",
+          "source": "知乎",
+          "ranks": [
+            19,
+            15,
+            8,
+            9,
+            12,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时53分 ~ 19时36分]"
+        },
+        {
           "title": "315曝光AI大模型遭投毒操控",
           "url": "https://search.bilibili.com/all?keyword=315%E6%9B%9D%E5%85%89AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%81%AD%E6%8A%95%E6%AF%92%E6%93%8D%E6%8E%A7",
           "source": "bilibili 热搜",
@@ -120,22 +139,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时20分 ~ 07时22分]"
-        },
-        {
-          "title": "36 岁程序员，被 AI 写代码吓到了：如果再不转型，我几年内会失业吗？",
-          "url": "https://www.zhihu.com/question/1977057445844109122",
-          "source": "知乎",
-          "ranks": [
-            19,
-            15,
-            8,
-            9,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时53分 ~ 18时40分]"
         },
         {
           "title": "阿里成立 Token Hub 事业群，由吴泳铭直接负责，此次架构调整对阿里 AI 发展有怎样的影响？",
@@ -446,7 +449,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -567,7 +570,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -578,7 +581,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -660,6 +663,17 @@
           "time_info": "03时47分"
         },
         {
+          "title": "首批场外双创人工智能指数基金获批",
+          "url": "https://wallstreetcn.com/livenews/3071623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
           "title": "英伟达Vera Rubin开启“智能体AI”新前沿",
           "url": "https://wallstreetcn.com/livenews/3071124",
           "source": "华尔街见闻-快讯",
@@ -732,7 +746,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -847,6 +861,17 @@
           "time_info": "05时37分"
         },
         {
+          "title": "马斯克对所有人工智能公司放狠话",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AF%B9%E6%89%80%E6%9C%89%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%85%AC%E5%8F%B8%E6%94%BE%E7%8B%A0%E8%AF%9D%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
           "title": "AirPodsMax2发布",
           "url": "https://s.weibo.com/weibo?q=%23AirPodsMax2%E5%8F%91%E5%B8%83%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -861,7 +886,7 @@
     },
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 49,
+      "match_count": 52,
       "titles": [
         {
           "title": "黄仁勋GTC演讲全文：推理时代到来，2027营收至少万亿美元，龙虾就是新操作系统",
@@ -873,8 +898,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时09分 ~ 18时40分]"
+          "appearance_count": 12,
+          "time_info": "[09时09分 ~ 19时36分]"
         },
         {
           "title": "贝森特：美国默许部分船只通过霍尔木兹，几个月后油价“远低于”80美元",
@@ -886,8 +911,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时20分 ~ 18时40分]"
+          "appearance_count": 21,
+          "time_info": "[01时20分 ~ 19时36分]"
         },
         {
           "title": "霍尔木兹海峡现通航迹象，美股指高开，纳指涨1%，WTI原油日内跌幅达3%，现货黄金重回5000美元",
@@ -967,6 +992,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
+        },
+        {
+          "title": "美元兑日元回吐涨幅，跌0.1%至158.97，创日内新低。",
+          "url": "https://wallstreetcn.com/livenews/3071641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         },
         {
           "title": "战争扰乱燃料供应链 美国柴油价格突破5美元/加仑",
@@ -1098,6 +1134,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时37分 ~ 06时23分]"
+        },
+        {
+          "title": "NEBIUS美股盘前跌超5%，公司拟发行37.5亿美元可转换高级债券，计划将募集资金用于建设数据中心。",
+          "url": "https://wallstreetcn.com/livenews/3071633",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
+          "title": "NEBIUS拟发行37.5亿美元可转换高级债券。",
+          "url": "https://flash.jin10.com/detail/20260317191403843800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         },
         {
           "title": "消息人士称，部分日本铝买家已与一家全球生产商达成协议，为4月至6月的铝货支付每吨350美元的溢价。",
@@ -1436,8 +1494,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时53分 ~ 18时40分]"
+          "appearance_count": 10,
+          "time_info": "[13时53分 ~ 19时36分]"
         },
         {
           "title": "LPU出货高增长预定？英伟达发布Vera Rubin平台 每机柜配备256个",
@@ -1450,8 +1508,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时08分 ~ 18时40分]"
+          "appearance_count": 11,
+          "time_info": "[12时08分 ~ 19时36分]"
         },
         {
           "title": "英伟达DLSS5实机演示",
@@ -1795,7 +1853,7 @@
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "印尼央行行长：利率决议支持在2026年和2027年实现通胀目标的举措。",
@@ -1909,6 +1967,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时48分"
+        },
+        {
+          "title": "美联储议息前神秘资金落袋为安：押注“降息难”狂赚千万美元！",
+          "url": "https://flash.jin10.com/detail/20260317191234307800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         },
         {
           "title": "BIS提醒各国央行：别被中东战火吓到 能源暴涨或属短期冲击",
@@ -2118,28 +2187,18 @@
           "time_info": "[01时20分 ~ 12时08分]"
         },
         {
-          "title": "英伟达将向韩国数据中心提供芯片。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3071116",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时47分"
-        },
-        {
           "title": "存储芯片供应即将暴雷？三星史上最大规模罢工已迫在眉睫",
           "url": "https://www.cls.cn/detail/2315232",
           "source": "财联社热门",
           "ranks": [
             13,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时39分 ~ 18时40分]"
+          "appearance_count": 6,
+          "time_info": "[16时39分 ~ 19时36分]"
         },
         {
           "title": "“芯荒”难解！SK集团董事长：存储芯片短缺或持续至2030年",
@@ -2150,8 +2209,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时39分 ~ 18时40分]"
+          "appearance_count": 6,
+          "time_info": "[16时39分 ~ 19时36分]"
+        },
+        {
+          "title": "英伟达将向韩国数据中心提供芯片。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3071116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时47分"
         },
         {
           "title": "创业板涨超1%，存储芯片大爆发，华虹半导体直线拉升，农业白酒等“老登股”大涨，恒科指大涨逾2%",
@@ -2215,7 +2285,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -2311,11 +2381,12 @@
             6,
             9,
             14,
-            10
+            10,
+            28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时53分 ~ 18时40分]"
+          "appearance_count": 10,
+          "time_info": "[13时53分 ~ 19时36分]"
         },
         {
           "title": "雷军回应苏炳添代言小米汽车：他姓SU",
@@ -2328,17 +2399,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[15时47分 ~ 18时40分]"
-        },
-        {
-          "title": "荣耀涨价",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8D%A3%E8%80%80%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨1%。 热门中概股里，比亚迪初步收涨8.2%，小米涨5.4%，理想涨5.3%，蔚来涨3.1%，美团、网易、百胜中国、腾讯、拼多多、阿里巴巴至多涨约2.9%。",
@@ -2363,15 +2423,27 @@
           "time_info": "12时08分"
         },
         {
+          "title": "荣耀涨价",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8D%A3%E8%80%80%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 19时36分]"
+        },
+        {
           "title": "小米笔记本新配色被质疑撞色苹果",
           "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E7%AC%94%E8%AE%B0%E6%9C%AC%E6%96%B0%E9%85%8D%E8%89%B2%E8%A2%AB%E8%B4%A8%E7%96%91%E6%92%9E%E8%89%B2%E8%8B%B9%E6%9E%9C",
           "source": "百度热搜",
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 19时36分]"
         },
         {
           "title": "叠纸游戏称封号是华为原因",
@@ -2506,7 +2578,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -2647,11 +2719,12 @@
             9,
             10,
             11,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时08分 ~ 18时40分]"
+          "appearance_count": 11,
+          "time_info": "[12时08分 ~ 19时36分]"
         },
         {
           "title": "美国参议院民主党成员Warren：调查Meta、微软、塔吉特、耐克、亚马逊的裁员行为。",
@@ -2875,6 +2948,23 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[13时53分 ~ 18时40分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大学生 毕业生",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上大学后有什么建议给准大学生？",
+          "url": "https://www.zhihu.com/question/49396543",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         }
       ]
     }
