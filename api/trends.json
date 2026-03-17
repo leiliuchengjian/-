@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T06:23:13.996534+08:00",
-  "total_titles_processed": 587,
+  "generated_at": "2026-03-18T07:22:40.514235+08:00",
+  "total_titles_processed": 653,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
         {
           "title": "黄仁勋GTC演讲全文：推理时代到来，2027营收至少万亿美元，龙虾就是新操作系统",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 06时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 07时22分]"
         },
         {
           "title": "哈塞特安抚市场，美股指高开，科技股普涨，布油站上102美元，现货黄金涨0.2%",
@@ -38,8 +38,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 06时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 07时22分]"
+        },
+        {
+          "title": "静待美联储决议，股油同涨，美债走强，美元两连跌，黄金连续两日持稳于5000关口",
+          "url": "https://wallstreetcn.com/articles/3767701",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了5个对手方的7.97亿美元。",
@@ -111,6 +122,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时28分 ~ 06时23分]"
+        },
+        {
+          "title": "软件行业陷入低迷，摩根大通暂停Qualtrics 53亿美元债务融资",
+          "url": "https://wallstreetcn.com/livenews/3071920",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 07时22分]"
         },
         {
           "title": "周二（3月17日），美联储隔夜逆回购协议（RRP）使用规模为7.97亿美元（交易对手5家），上个交易日报5.82亿美元。",
@@ -233,17 +256,6 @@
           "time_info": "[03时49分 ~ 04时29分]"
         },
         {
-          "title": "软件行业陷入低迷，摩根大通暂停Qualtrics 53亿美元债务融资",
-          "url": "https://wallstreetcn.com/livenews/3071920",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时23分"
-        },
-        {
           "title": "市场消息：美国将“金色穹顶”项目的成本估算扩大至1850亿美元，并征集顶级防务公司参与。",
           "url": "https://flash.jin10.com/detail/20260318012733280800",
           "source": "金十数据",
@@ -272,7 +284,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -283,9 +295,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "WTI原油日内跌超1.00%，现报94.80美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260318061241742800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         },
         {
           "title": "现货黄金日内跌幅达0.5%，报4979.81美元/盎司。",
@@ -299,6 +322,17 @@
           "time_info": "00时56分"
         },
         {
+          "title": "中通快递(02057.HK)：董事会已批准一项未来24个月内的股票回购计划，回购总额为15亿美元。",
+          "url": "https://flash.jin10.com/detail/20260318060800520800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
           "title": "纽约银日内跌幅达2.0%，报79.06美元/盎司。 现货白银日内跌幅达2.0%，报79.07美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3071785",
           "source": "华尔街见闻-快讯",
@@ -308,12 +342,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        },
+        {
+          "title": "中通快递(02057.HK)：2025年第四季度收入为人民币145.1亿元，同比增长12.3%；净利润为人民币26.93亿元，同比增长10.1%。2025财年收入为人民币490.99亿元，同比增长10.9%；净利润为人民币 92.36亿元，同比增长3.9%。",
+          "url": "https://flash.jin10.com/detail/20260318060616022800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         }
       ]
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "AI味太冲,英伟达DLSS5翻车",
@@ -323,8 +368,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 06时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 07时22分]"
         },
         {
           "title": "315 曝光「AI 投毒」后 GEO 换马甲生意照做，暴露出哪些问题？怎样才能彻底铲除 GEO 黑产？",
@@ -339,8 +384,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 06时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 07时22分]"
         },
         {
           "title": "15只硬科技基金获批，精准投向AI与战略新兴产业，增量资金蓄势待发",
@@ -351,8 +396,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 06时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 07时22分]"
         },
         {
           "title": "于谦说怕AI偷看相册",
@@ -364,8 +409,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 06时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 07时22分]"
         },
         {
           "title": "36 岁程序员，被 AI 写代码吓到了，如果再不转型，我几年内会失业吗？",
@@ -490,6 +535,39 @@
           "time_info": "[01时55分 ~ 02时46分]"
         },
         {
+          "title": "公募机构争夺AI好感度，业内提示谨防信息污染",
+          "url": "https://wallstreetcn.com/livenews/3071939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "大厂月薪 3 万元「疯抢」文科生，AI 时代文科生比理科生更吃香了吗？他们有哪些优势？",
+          "url": "https://www.zhihu.com/question/2016095792616744489",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "“龙虾”火出圈，券商纷纷自研AI智能体",
+          "url": "https://wallstreetcn.com/livenews/3071935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
           "title": "据CNBC：OpenAI正筹备上市，有望于年底前实现。",
           "url": "https://flash.jin10.com/detail/20260318044954930800",
           "source": "金十数据",
@@ -507,7 +585,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -546,11 +624,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 06时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 07时22分]"
         },
         {
           "title": "英伟达加倍押注铜缆策略，光通信股受到关注",
@@ -627,7 +706,7 @@
     },
     {
       "keyword_group": "苹果 iPhone",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "苹果 3 月 16 日新发布的 AirPods Max 2，它相比 1 有哪些升级？",
@@ -641,19 +720,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 06时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 07时22分]"
         },
         {
           "title": "苹果公司居家设备工程主管Brian Lynch离职，将跳槽至Oura。",
           "url": "https://wallstreetcn.com/livenews/3071930",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 07时22分]"
         },
         {
           "title": "苹果山药糕",
@@ -665,6 +745,57 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时55分 ~ 00时56分]"
+        },
+        {
+          "title": "市场消息：苹果(AAPL.O)家居硬件负责人布赖恩·林奇离职，转投智能戒指制造商Oura。",
+          "url": "https://flash.jin10.com/detail/20260318060802784800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为 小米 荣耀",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "据知情人士透露，联合利华为食品资产潜在的分离研究诸多选项。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3071858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时46分"
+        },
+        {
+          "title": "小米笔记本新配色被质疑撞色苹果",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E7%AC%94%E8%AE%B0%E6%9C%AC%E6%96%B0%E9%85%8D%E8%89%B2%E8%A2%AB%E8%B4%A8%E7%96%91%E6%92%9E%E8%89%B2%E8%8B%B9%E6%9E%9C",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时46分 ~ 05时28分]"
+        },
+        {
+          "title": "华为“第一境”落地！启境制定三年规划 首款车型预埋L3级架构",
+          "url": "https://www.cls.cn/detail/2316013",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         }
       ]
     },
@@ -719,22 +850,24 @@
           "source": "知乎",
           "ranks": [
             17,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时55分 ~ 06时23分]"
+          "appearance_count": 10,
+          "time_info": "[01时55分 ~ 07时22分]"
         },
         {
           "title": "杭州多地发布购房补贴活动，购买一套房补贴 10 万元消费券，对当地楼市有哪些影响？会有更多地方跟进吗？",
           "url": "https://www.zhihu.com/question/2017278657140319985",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 07时22分]"
         }
       ]
     },
@@ -774,31 +907,31 @@
       ]
     },
     {
-      "keyword_group": "华为 小米 荣耀",
+      "keyword_group": "新能源汽车 电动汽车 智能驾驶",
       "match_count": 2,
       "titles": [
         {
-          "title": "据知情人士透露，联合利华为食品资产潜在的分离研究诸多选项。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3071858",
+          "title": "周二（3月17日），彭博电动汽车价格回报指数涨0.16%，报3620.52点，亚太早盘曾显著走高、迅速在北京时间10:06刷新日高至3655.93点。",
+          "url": "https://wallstreetcn.com/livenews/3071895",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时46分"
-        },
-        {
-          "title": "小米笔记本新配色被质疑撞色苹果",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E7%AC%94%E8%AE%B0%E6%9C%AC%E6%96%B0%E9%85%8D%E8%89%B2%E8%A2%AB%E8%B4%A8%E7%96%91%E6%92%9E%E8%89%B2%E8%8B%B9%E6%9E%9C",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            23
+            19,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时46分 ~ 05时28分]"
+          "time_info": "[05时28分 ~ 06时23分]"
+        },
+        {
+          "title": "新能源汽车行业开启涨价模式",
+          "url": "https://www.toutiao.com/trending/7617085385898852388/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         }
       ]
     },
@@ -814,11 +947,12 @@
             15,
             14,
             13,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时46分 ~ 06时23分]"
+          "appearance_count": 9,
+          "time_info": "[02时46分 ~ 07时22分]"
         },
         {
           "title": "比亚迪第二代闪充实测",
@@ -851,24 +985,6 @@
       ]
     },
     {
-      "keyword_group": "新能源汽车 电动汽车 智能驾驶",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周二（3月17日），彭博电动汽车价格回报指数涨0.16%，报3620.52点，亚太早盘曾显著走高、迅速在北京时间10:06刷新日高至3655.93点。",
-          "url": "https://wallstreetcn.com/livenews/3071895",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 06时23分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "央行 降息 降准 CPI 物价",
       "match_count": 1,
       "titles": [
@@ -897,8 +1013,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 06时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 07时22分]"
         }
       ]
     }
