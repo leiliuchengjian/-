@@ -1,66 +1,33 @@
 {
-  "generated_at": "2026-03-21T01:29:40.328110+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2026-03-21T02:34:13.759294+08:00",
+  "total_titles_processed": 434,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 12,
+      "match_count": 20,
       "titles": [
         {
-          "title": "周五（3月20日），美联储隔夜逆回购协议（RRP）使用规模为8.22亿美元（交易对手5家），上个交易日报6.37亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3074281",
+          "title": "WTI 4月原油期货收报98.32美元/桶。 NYMEX 4月天然气期货收报3.0950美元/百万英热单位。 NYMEX 4月汽油期货收报3.2862美元/加仑，NYMEX 3月取暖油期货收报4.6084美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3074299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
+        },
+        {
+          "title": "上期所原油期货2605合约夜盘收涨3.40%，报802.80元人民币/桶。 沪金夜盘收跌1.22%，沪银收跌1.77%。",
+          "url": "https://wallstreetcn.com/livenews/3074298",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "WTI原油期货涨幅扩大至超过2.3%，重新涨向98美元。",
-          "url": "https://wallstreetcn.com/livenews/3074280",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "美元兑日元涨幅扩大至1%，报159.31。",
-          "url": "https://wallstreetcn.com/livenews/3074278",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "美元兑日元USD/JPY日内涨幅扩大至1%，现报159.29。",
-          "url": "https://flash.jin10.com/detail/20260321010608019800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "美国军费飙升，为国防富豪们增添280亿美元财富",
-          "url": "https://wallstreetcn.com/livenews/3074277",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时29分"
+          "time_info": "02时34分"
         },
         {
           "title": "美军价值约 1 亿美元 F-35 战机疑在伊朗上空被击中，这会对美国及其盟友作战体系产生哪些冲击？",
@@ -70,8 +37,78 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时34分]"
+        },
+        {
+          "title": "布伦特原油期货涨幅迅速扩大至超过2.7%，至106.60美元上方。 WTI原油期货短线上扬，涨幅重新扩大至2.7%，重返98.10美元上方。 新兴市场外汇指数刷新日低，南非兰特、墨西哥比索、巴西雷亚尔走低。",
+          "url": "https://wallstreetcn.com/livenews/3074297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
+        },
+        {
+          "title": "美元兑日元USD/JPY日内涨幅扩大至1%，现报159.29。",
+          "url": "https://flash.jin10.com/detail/20260321010608019800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "周五（3月20日），美联储隔夜逆回购协议（RRP）使用规模为8.22亿美元（交易对手5家），上个交易日报6.37亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3074281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时29分 ~ 02时34分]"
+        },
+        {
+          "title": "WTI原油期货涨幅扩大至超过2.3%，重新涨向98美元。",
+          "url": "https://wallstreetcn.com/livenews/3074280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时29分 ~ 02时34分]"
+        },
+        {
+          "title": "美元兑日元涨幅扩大至1%，报159.31。",
+          "url": "https://wallstreetcn.com/livenews/3074278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时29分 ~ 02时34分]"
+        },
+        {
+          "title": "美国军费飙升，为国防富豪们增添280亿美元财富",
+          "url": "https://wallstreetcn.com/livenews/3074277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时29分 ~ 02时34分]"
         },
         {
           "title": "德银：此次石油冲击与2022年不同，或将限制美元涨幅",
@@ -86,37 +123,83 @@
           "time_info": "[00时32分 ~ 01时29分]"
         },
         {
-          "title": "巴西总统卢拉：我们将不得不找到一种不动用巴西美元储备就能完成任务的方法。",
-          "url": "https://flash.jin10.com/detail/20260321010400965800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.91%，暂报2625.24点，上周五结束交易以来（7*24）累计下跌3.97%，整体呈现出冲高回落走势。 MarketVectorTM数字资产100中盘指数涨1.60%，报2832.32点，期内累计下跌2.82%。 MarketVector数字资产100指数涨0.61%，报14082.92点。 目前，Solana涨0.08%、期内整体持平，狗狗币涨0.49%、期内累跌2.67%，XRP跌0.57%、期内累涨2.66%。 比特币跌0.66%，暂报69855.50美元，在震荡上行中，于3月17日亚太早盘涨至75997.31美元，3月18日美股开盘前后显著回落；以太坊跌0.26%，暂报2138.38美元，期内累涨1.33%，3月16日迅猛上涨、3月17日亚太盘初曾涨至2385.450美元。",
           "url": "https://wallstreetcn.com/livenews/3074271",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时29分 ~ 02时34分]"
         },
         {
           "title": "Janus Living Inc.美国IPO首日开盘报23.50美元，此前给出的IPO发行价为每股20美元。",
           "url": "https://wallstreetcn.com/livenews/3074270",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时29分 ~ 02时34分]"
+        },
+        {
+          "title": "布伦特原油日内大涨3.00%，现报107.36美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260321022409796800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
+        },
+        {
+          "title": "现货黄金回落至4540美元/盎司下方，日内跌2.43%。",
+          "url": "https://flash.jin10.com/detail/20260321022314659800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
+        },
+        {
+          "title": "伦铜本周跌超6.6%，失守1.1万美元关口",
+          "url": "https://wallstreetcn.com/livenews/3074288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
+        },
+        {
+          "title": "巴西总统卢拉：我们将不得不找到一种不动用巴西美元储备就能完成任务的方法。",
+          "url": "https://flash.jin10.com/detail/20260321010400965800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "周五（3月20日），韩元兑美元最终跌0.64%，报1503.80韩元，本周累计下跌0.37%。",
+          "url": "https://wallstreetcn.com/livenews/3074283",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时29分"
+          "time_info": "02时34分"
         },
         {
           "title": "英镑兑美元GBP/USD向下触及1.33，日内跌0.98%。",
@@ -128,6 +211,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "惠誉：若霍尔木兹海峡关闭六个月，油价平均可能达每桶120美元。",
+          "url": "https://flash.jin10.com/detail/20260321015755320800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
         },
         {
           "title": "WTI原油日内涨幅达1.0%，报96.53美元/桶。",
@@ -144,7 +238,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "人工智能太绕,AI急需中文名",
@@ -154,8 +248,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时34分]"
         },
         {
           "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
@@ -165,8 +259,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时34分]"
         },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -176,8 +270,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时34分]"
         },
         {
           "title": "未来十年AI拼的是什么",
@@ -185,11 +279,12 @@
           "source": "抖音",
           "ranks": [
             11,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时34分]"
         },
         {
           "title": "AI龙虾大战我的世界",
@@ -200,8 +295,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时34分]"
         },
         {
           "title": "AI演员林汐颜、秦凌岳为何引众怒",
@@ -209,11 +304,12 @@
           "source": "百度热搜",
           "ranks": [
             22,
-            23
+            23,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时34分]"
         },
         {
           "title": "博主用AI手搓应用1个多月赚近九千",
@@ -221,22 +317,35 @@
           "source": "百度热搜",
           "ranks": [
             29,
-            26
+            26,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时34分]"
         },
         {
           "title": "亚马逊旗下AWS与Cerebras Systems Inc.合作，将共同开发AI推理解决方案。",
           "url": "https://wallstreetcn.com/livenews/3074276",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时29分 ~ 02时34分]"
+        },
+        {
+          "title": "普通人如何防范AI投毒",
+          "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E9%98%B2%E8%8C%83AI%E6%8A%95%E6%AF%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 02时34分]"
         },
         {
           "title": "京东云披露“龙虾天团”：基于JoyAI大模型驱动",
@@ -253,7 +362,7 @@
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -263,8 +372,41 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时34分]"
+        },
+        {
+          "title": "欧洲央行管委内格尔：当通胀的第二轮效应显现时，欧洲央行必须采取行动。",
+          "url": "https://flash.jin10.com/detail/20260321022518291800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
+        },
+        {
+          "title": "欧洲央行管委兼德国央行行长Nagel：欧洲央行可以在必要时对通胀风险做出迅速回应。",
+          "url": "https://wallstreetcn.com/livenews/3074296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
+        },
+        {
+          "title": "欧洲央行管委内格尔：通胀越高、预期持续高于目标水平的时间越长，第二轮效应风险就越大。",
+          "url": "https://flash.jin10.com/detail/20260321022515611800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
         },
         {
           "title": "从降息到加息！债券市场对美联储政策路径预期发生历史性转变",
@@ -274,8 +416,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时34分]"
         },
         {
           "title": "报道：欧洲央行询问银行伊朗战争对客户和业务的影响",
@@ -294,11 +436,12 @@
           "url": "https://wallstreetcn.com/livenews/3074269",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时29分 ~ 02时34分]"
         },
         {
           "title": "欧洲央行管委马赫鲁夫：需警惕通胀预期脱锚的风险比以往更大。",
@@ -307,7 +450,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
         },
@@ -318,7 +461,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
         },
@@ -347,8 +490,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时34分]"
         },
         {
           "title": "小米汽车回应为何不公布大定数字",
@@ -403,8 +546,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时34分]"
         }
       ]
     },
@@ -437,8 +580,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时34分]"
         }
       ]
     },
@@ -451,11 +594,12 @@
           "url": "https://www.zhihu.com/question/2016876183153768141",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时29分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时29分 ~ 02时34分]"
         }
       ]
     },
@@ -469,11 +613,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时34分]"
         }
       ]
     }
