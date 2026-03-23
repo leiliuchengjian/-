@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T20:41:04.712310+08:00",
-  "total_titles_processed": 1647,
+  "generated_at": "2026-03-23T22:08:15.115982+08:00",
+  "total_titles_processed": 1752,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 72,
+      "match_count": 74,
       "titles": [
         {
           "title": "沙特预警4月油价或飙破180美元",
@@ -466,6 +466,17 @@
           "time_info": "12时17分"
         },
         {
+          "title": "纽元兑美元NZD/USD日内涨超0.50%，现报0.5858。",
+          "url": "https://flash.jin10.com/detail/20260323215613446800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
           "title": "现货黄金短线拉升约120美元，现报4401.28美元/盎司。 现货白银日内涨幅达1.5%，报68.89美元/盎司。 比特币短线拉升逾2000美元，现报70,572.7美元/枚，24小时涨幅超3%。",
           "url": "https://wallstreetcn.com/livenews/3075147",
           "source": "华尔街见闻-快讯",
@@ -816,12 +827,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
+        },
+        {
+          "title": "国家外汇管理局局长朱鹤新：提升资本项目开放与国家经济金融改革发展、人民币国际化进程的协同性和匹配度",
+          "url": "https://wallstreetcn.com/livenews/3075207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
         }
       ]
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "跑马拉松护航的民警居然是AI机器人",
@@ -877,11 +899,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9CAI%E8%A7%86%E9%A2%91",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 20时41分]"
+          "appearance_count": 4,
+          "time_info": "[20时40分 ~ 22时08分]"
         },
         {
           "title": "AI短剧付费后竟然变成PPT",
@@ -890,22 +913,24 @@
           "ranks": [
             15,
             2,
-            5
+            5,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时43分 ~ 20时41分]"
+          "appearance_count": 6,
+          "time_info": "[18时43分 ~ 22时08分]"
         },
         {
           "title": "深度解析AI对影视行业的影响",
           "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90AI%E5%AF%B9%E5%BD%B1%E8%A7%86%E8%A1%8C%E4%B8%9A%E7%9A%84%E5%BD%B1%E5%93%8D",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 20时41分]"
+          "appearance_count": 4,
+          "time_info": "[20时40分 ~ 22时08分]"
         },
         {
           "title": "郑强教授：AI发展不能低端化平庸化",
@@ -917,6 +942,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时13分 ~ 09时14分]"
+        },
+        {
+          "title": "AI写歌走红程序员9个月赚20万",
+          "url": "https://www.baidu.com/s?wd=AI%E5%86%99%E6%AD%8C%E8%B5%B0%E7%BA%A2%E7%A8%8B%E5%BA%8F%E5%91%989%E4%B8%AA%E6%9C%88%E8%B5%9A20%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时07分 ~ 22时08分]"
         },
         {
           "title": "据华尔街日报：Meta Platforms(META.O)CEO扎克伯格正在打造一个CEO人工智能代理，以帮助他处理工作事务。",
@@ -947,7 +983,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -1115,7 +1151,7 @@
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "高盛宏观交易员警告：各国央行错失了稳定市场的机会，\"能源正在驱动一切\"",
@@ -1141,6 +1177,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时18分 ~ 05时17分]"
+        },
+        {
+          "title": "央行主管媒体：中国资本市场向好发展有支撑",
+          "url": "https://wallstreetcn.com/livenews/3075247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
+          "title": "英国国债短端收益率延续涨势，交易员削减对英国央行加息的押注。",
+          "url": "https://flash.jin10.com/detail/20260323215900759800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
         },
         {
           "title": "交易员增加对欧洲央行加息的押注，预计2026年加息4次的可能性为50%。",
@@ -1199,6 +1257,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
+        },
+        {
+          "title": "央行主管《金融时报》：无风险收益下沉、资本市场改革与经济结构转型，是中国资本市场向好发展的根本动力与支柱",
+          "url": "https://flash.jin10.com/detail/20260323215758435800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
         },
         {
           "title": "交易员提高英国央行加息押注，已充分消化4月份加息25个基点的预期。",
@@ -1388,8 +1457,22 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时55分 ~ 20时41分]"
+          "appearance_count": 10,
+          "time_info": "[15时55分 ~ 22时08分]"
+        },
+        {
+          "title": "华为畅享90系列上手体验",
+          "url": "https://www.douyin.com/hot/2440771",
+          "source": "抖音",
+          "ranks": [
+            14,
+            11,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时53分 ~ 22时08分]"
         },
         {
           "title": "华为发布会",
@@ -1416,17 +1499,40 @@
           "time_info": "05时17分"
         },
         {
-          "title": "华为畅享90系列上手体验",
-          "url": "https://www.douyin.com/hot/2440771",
-          "source": "抖音",
+          "title": "尚界 Z7 预售 22.98 万起，全系标配华为 896 线激光雷达等黑科技，你有哪些期待？",
+          "url": "https://www.zhihu.com/question/2019363621617025238",
+          "source": "知乎",
           "ranks": [
-            14,
-            11,
-            18
+            15,
+            17,
+            20
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[17时53分 ~ 20时41分]"
+          "time_info": "[19时37分 ~ 22时08分]"
+        },
+        {
+          "title": "华为手机全面回归",
+          "url": "https://www.toutiao.com/trending/7620252152506155044/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时40分 ~ 22时08分]"
+        },
+        {
+          "title": "雷军官宣小米与国内三大顶级汽车赛事正式签约，这释放了怎样的信号？对小米汽车的品牌定位有何意义？",
+          "url": "https://www.zhihu.com/question/2019371641231079064",
+          "source": "知乎",
+          "ranks": [
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时40分 ~ 22时08分]"
         },
         {
           "title": "手机集体涨价 华为苹果为啥不涨",
@@ -1439,18 +1545,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时55分 ~ 17时53分]"
-        },
-        {
-          "title": "尚界 Z7 预售 22.98 万起，全系标配华为 896 线激光雷达等黑科技，你有哪些期待？",
-          "url": "https://www.zhihu.com/question/2019363621617025238",
-          "source": "知乎",
-          "ranks": [
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时37分 ~ 20时41分]"
         },
         {
           "title": "小米汽车回应新一代SU7“底盘软”",
@@ -1466,17 +1560,6 @@
           "time_info": "[12时17分 ~ 16时43分]"
         },
         {
-          "title": "华为手机全面回归",
-          "url": "https://www.toutiao.com/trending/7620252152506155044/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 20时41分]"
-        },
-        {
           "title": "AI算力需求将超1.3万亿美元！华为加码“企业龙虾” 涉及多家上市公司",
           "url": "https://www.cls.cn/detail/2320476",
           "source": "财联社热门",
@@ -1486,17 +1569,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时13分 ~ 09时14分]"
-        },
-        {
-          "title": "雷军官宣小米与国内三大顶级汽车赛事正式签约，这释放了怎样的信号？对小米汽车的品牌定位有何意义？",
-          "url": "https://www.zhihu.com/question/2019371641231079064",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 20时41分]"
         },
         {
           "title": "华为春季新品发布会有哪些看点",
@@ -1580,8 +1652,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时55分 ~ 20时41分]"
+          "appearance_count": 10,
+          "time_info": "[15时55分 ~ 22时08分]"
+        },
+        {
+          "title": "以军：已开始大规模打击伊朗首都德黑兰的基础设施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32813452",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            16,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时55分 ~ 22时08分]"
         },
         {
           "title": "以色列驻美大使迈克尔·莱特：摧毁伊朗的基础设施并非不可行。某个时刻，必须投入必要的“成本”，以确保伊朗无法“挟持全世界”。",
@@ -1596,19 +1682,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时18分 ~ 06时15分]"
-        },
-        {
-          "title": "以军：已开始大规模打击伊朗首都德黑兰的基础设施",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32813452",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时55分 ~ 20时41分]"
         },
         {
           "title": "黎巴嫩总统：以色列对黎巴嫩基础设施的袭击是地面入侵的前奏。",
@@ -1631,11 +1704,12 @@
           "ranks": [
             18,
             4,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时43分 ~ 20时41分]"
+          "appearance_count": 6,
+          "time_info": "[18时43分 ~ 22时08分]"
         },
         {
           "title": "如何看待地铁每公里每年运营成本高达约 1500 万元？",
@@ -1667,7 +1741,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -1822,8 +1896,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时43分 ~ 20时41分]"
+          "appearance_count": 8,
+          "time_info": "[16时43分 ~ 22时08分]"
+        },
+        {
+          "title": "伊朗重创卡特尔氦气出口，全球芯片生产面临危机",
+          "url": "https://wallstreetcn.com/articles/3768132",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时37分 ~ 22时08分]"
         },
         {
           "title": "芯片行业或飞出黑天鹅 能源+氦气双重打击将使亚洲生产商空前脆弱",
@@ -1837,18 +1923,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时43分 ~ 19时37分]"
-        },
-        {
-          "title": "伊朗重创卡特尔氦气出口，全球芯片生产面临危机",
-          "url": "https://wallstreetcn.com/articles/3768132",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时37分 ~ 20时41分]"
         },
         {
           "title": "又一案例 LED芯片龙头三安光电实控人被留置并立案调查|速读公告",
@@ -1972,11 +2046,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%82%A3%E6%A1%83%E8%8A%B1%E7%99%AB%E4%B8%80%E5%91%A8%E6%8C%A5%E9%9C%8D5%E4%B8%87%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 20时41分]"
+          "appearance_count": 4,
+          "time_info": "[20时40分 ~ 22时08分]"
         },
         {
           "title": "大学生兼职被卡皮巴拉咬伤索赔遭拒",
@@ -2134,7 +2209,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         }
@@ -2181,11 +2256,12 @@
           "url": "https://www.toutiao.com/trending/7620319648046776326/",
           "source": "今日头条",
           "ranks": [
-            20
+            20,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 20时41分]"
+          "appearance_count": 4,
+          "time_info": "[20时40分 ~ 22时08分]"
         }
       ]
     },
