@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-03-24T03:41:36.083424+08:00",
-  "total_titles_processed": 497,
+  "generated_at": "2026-03-24T04:29:07.750518+08:00",
+  "total_titles_processed": 548,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "金价接连失守4500、4400、4300、4200、4100美元，避险功能为何“失灵”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32814959",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 04时29分]"
+        },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了5个对手方的8.57亿美元。",
           "url": "https://flash.jin10.com/detail/20260324012049667800",
@@ -23,35 +36,12 @@
           "url": "https://flash.jin10.com/detail/20260324031210566800",
           "source": "金十数据",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时41分"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8795元，较上周五夜盘收盘涨255点。成交量506.57亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3075386",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时41分"
-        },
-        {
-          "title": "金价接连失守4500、4400、4300、4200、4100美元，避险功能为何“失灵”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32814959",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            17
+            1,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 03时41分]"
+          "appearance_count": 2,
+          "time_info": "[03时41分 ~ 04时29分]"
         },
         {
           "title": "美国国务院官员Jacob Helberg：美国承诺，将向供应链投资基金提供2.5亿美元。 该基金将寻求巩固能源与稀土供应。",
@@ -76,6 +66,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时38分 ~ 03时41分]"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8795元，较上周五夜盘收盘涨255点。成交量506.57亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3075386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时41分 ~ 04时29分]"
         },
         {
           "title": "周一（3月23日），韩元兑美元最终涨1.04%，报1488.15韩元。 北京时间19:05，韩元从1515.92附近拉升至1495附近，随后高位震荡——在23:38刷新日高至1480.44。",
@@ -108,9 +110,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
+        },
+        {
+          "title": "美元指数跌超0.6%，日元一度涨向158",
+          "url": "https://wallstreetcn.com/livenews/3075401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "Strategy拟筹资逾400亿美元，从而加速购买比特币",
+          "url": "https://wallstreetcn.com/livenews/3075399",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         },
         {
           "title": "报道：特朗普女婿库什纳麾下基金资产升至62亿美元，中东资本加持",
@@ -159,8 +183,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 03时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 04时29分]"
         },
         {
           "title": "欧洲央行首席经济学家Lane：AI是欧盟（致力于）完成储蓄联盟的另外一个理由。",
@@ -227,7 +251,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
         },
@@ -238,7 +262,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
         },
@@ -256,78 +280,8 @@
       ]
     },
     {
-      "keyword_group": "华为 小米 荣耀",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "如何看待华为 3 月 23 日举办的春季新品发布会？有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2019430438742049214",
-          "source": "知乎",
-          "ranks": [
-            8,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 03时41分]"
-        },
-        {
-          "title": "雷军官宣小米与国内三大顶级汽车赛事正式签约，这释放了怎样的信号？对小米汽车的品牌定位有何意义？",
-          "url": "https://www.zhihu.com/question/2019371641231079064",
-          "source": "知乎",
-          "ranks": [
-            7,
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 03时41分]"
-        },
-        {
-          "title": "华为手机全面回归",
-          "url": "https://www.toutiao.com/trending/7620252152506155044/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 03时41分]"
-        },
-        {
-          "title": "华为畅享90系列上手体验",
-          "url": "https://www.douyin.com/hot/2440771",
-          "source": "抖音",
-          "ranks": [
-            17,
-            14,
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 03时41分]"
-        },
-        {
-          "title": "尚界 Z7 预售 22.98 万起，全系标配华为 896 线激光雷达等黑科技，你有哪些期待？",
-          "url": "https://www.zhihu.com/question/2019363621617025238",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 03时41分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "欧洲央行管委拉德夫：欧洲央行将根据未来的数据采取果断行动。",
@@ -363,6 +317,17 @@
           "time_info": "00时45分"
         },
         {
+          "title": "周一（3月23日），降息赢家指数涨3.14%，报87.54点，跳空高开之后，整体高位震荡——呈现出平坦的M形走势。 “特朗普关税输家”指数涨2.99%，“特朗普金融指数”涨1.77%。 散户抱团概念股指数/迷因股（meme stock）指数涨3.48%。",
+          "url": "https://wallstreetcn.com/livenews/3075412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
           "title": "加拿大央行官员Kozicki与Mendes将退出央行管委会。",
           "url": "https://wallstreetcn.com/livenews/3075348",
           "source": "华尔街见闻-快讯",
@@ -384,12 +349,106 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
+        },
+        {
+          "title": "新西兰联储行长布雷曼：已做好充分准备，应对中东持续冲突对我们物价稳定和金融稳定使命带来的挑战。",
+          "url": "https://flash.jin10.com/detail/20260324040320177800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为 小米 荣耀",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "如何看待华为 3 月 23 日举办的春季新品发布会？有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2019430438742049214",
+          "source": "知乎",
+          "ranks": [
+            8,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 04时29分]"
+        },
+        {
+          "title": "雷军官宣小米与国内三大顶级汽车赛事正式签约，这释放了怎样的信号？对小米汽车的品牌定位有何意义？",
+          "url": "https://www.zhihu.com/question/2019371641231079064",
+          "source": "知乎",
+          "ranks": [
+            7,
+            4,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 04时29分]"
+        },
+        {
+          "title": "华为手机全面回归",
+          "url": "https://www.toutiao.com/trending/7620252152506155044/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 04时29分]"
+        },
+        {
+          "title": "华为畅享90系列上手体验",
+          "url": "https://www.douyin.com/hot/2440771",
+          "source": "抖音",
+          "ranks": [
+            17,
+            14,
+            25,
+            29,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 04时29分]"
+        },
+        {
+          "title": "尚界 Z7 预售 22.98 万起，全系标配华为 896 线激光雷达等黑科技，你有哪些期待？",
+          "url": "https://www.zhihu.com/question/2019363621617025238",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 04时29分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨0.86%，报6800.66点。 热门中概股里，文远知行初步收涨9.2%，小鹏、蔚来涨7.1%，比亚迪、阿里巴巴涨超3%，理想涨2.5%，腾讯、小米、京东至多涨1.7%，阿特斯则跌7.7%。 ETF中，MSCI新兴市场ex中国ETF（EMXC）收涨3.69%，中概互联网指数ETF（KWEB）收涨0.74%，中国科技指数ETF（CQQQ）收涨0.09%。 德银嘉实沪深300指数ETF（ASHR）收跌0.65%，XtrackersHarvest中证50（ASHS）收跌1.87%。",
+          "url": "https://wallstreetcn.com/livenews/3075405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         }
       ]
     },
     {
       "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "女孩乘地铁吐血后立即拿衣服擦拭",
@@ -401,8 +460,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 03时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 04时29分]"
         },
         {
           "title": "以军：已开始大规模打击伊朗首都德黑兰的基础设施",
@@ -414,8 +473,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 03时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 04时29分]"
         },
         {
           "title": "伊朗消息人士：已准备对关键基础设施遭袭作出强力回应",
@@ -439,6 +498,68 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
+        },
+        {
+          "title": "以色列国防军：已开始对贝鲁特的真主党基础设施进行打击。",
+          "url": "https://flash.jin10.com/detail/20260324033040189800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体 芯片 集成电路",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "伊朗重创卡特尔氦气出口，全球芯片生产面临危机",
+          "url": "https://wallstreetcn.com/articles/3768132",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 04时29分]"
+        },
+        {
+          "title": "中国芯片出口为何暴增",
+          "url": "https://www.toutiao.com/trending/7620434089006337590/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时38分 ~ 04时29分]"
+        },
+        {
+          "title": "标普500指数收涨74.52点，涨幅1.15%，报6581.00点。 道琼斯工业平均指数收涨631.00点，涨幅1.38%，报46208.47点。 纳斯达克综合指数（纳指）收涨299.149点，涨幅1.38%，报21946.76点。 纳斯达克100指数收涨290.436点，涨幅1.22%，报24188.59点。 费城半导体指数收涨1.34%，报7773.132点。 费城证交所KBW银行指数收涨1.37%，报151.51点。 道琼斯KBW地区银行指数收涨1.68%，报123.85点。 纳斯达克生物科技指数收涨0.56%，报5623.18点。",
+          "url": "https://wallstreetcn.com/livenews/3075407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "存储芯片正迎供需失衡加剧局面，Wedbush：预计部分产品价格将涨超100%",
+          "url": "https://wallstreetcn.com/livenews/3075308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时45分"
         }
       ]
     },
@@ -476,48 +597,54 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
         }
       ]
     },
     {
-      "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 3,
+      "keyword_group": "新能源汽车 电动汽车 智能驾驶",
+      "match_count": 2,
       "titles": [
         {
-          "title": "伊朗重创卡特尔氦气出口，全球芯片生产面临危机",
-          "url": "https://wallstreetcn.com/articles/3768132",
-          "source": "华尔街见闻",
+          "title": "油价上涨 上海新能源汽车销售火爆",
+          "url": "https://www.toutiao.com/trending/7620319648046776326/",
+          "source": "今日头条",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 03时41分]"
+          "appearance_count": 2,
+          "time_info": "[04时28分 ~ 04时29分]"
         },
         {
-          "title": "存储芯片正迎供需失衡加剧局面，Wedbush：预计部分产品价格将涨超100%",
-          "url": "https://wallstreetcn.com/livenews/3075308",
+          "title": "周一（3月23日），彭博电动汽车价格回报指数涨0.05%，报3480.07点，整体呈现出V形反转，北京时间18:49曾刷新日低至3406.23点。",
+          "url": "https://wallstreetcn.com/livenews/3075408",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股收盘：三大股指涨超1% 蔚来、小鹏涨7%",
+          "url": "https://flash.jin10.com/detail/20260324040119124800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时45分"
-        },
-        {
-          "title": "中国芯片出口为何暴增",
-          "url": "https://www.toutiao.com/trending/7620434089006337590/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时38分"
+          "time_info": "04时29分"
         }
       ]
     },
@@ -532,11 +659,12 @@
           "ranks": [
             17,
             16,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 03时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 04时29分]"
         }
       ]
     }
