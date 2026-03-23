@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T17:53:39.923340+08:00",
-  "total_titles_processed": 1337,
+  "generated_at": "2026-03-23T18:43:36.799208+08:00",
+  "total_titles_processed": 1442,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 55,
+      "match_count": 61,
       "titles": [
         {
           "title": "沙特预警4月油价或飙破180美元",
@@ -69,17 +69,6 @@
           "time_info": "[00时18分 ~ 05时17分]"
         },
         {
-          "title": "美元指数升破100，日内上涨0.5%。",
-          "url": "https://wallstreetcn.com/livenews/3075075",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时53分"
-        },
-        {
           "title": "澳元兑美元AUD/USD跌至两周低位0.6959。",
           "url": "https://flash.jin10.com/detail/20260323135551114800",
           "source": "金十数据",
@@ -97,7 +86,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
         },
@@ -111,6 +100,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        },
+        {
+          "title": "索尼据悉接近与TCL达成了价值近10亿美元的家庭娱乐业务交易。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3075115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
         },
         {
           "title": "在岸人民币兑美元北京时间16:30官方收报6.9062，较上一交易日官方收盘价跌245点，较上日夜盘收盘跌12点。",
@@ -146,6 +146,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时43分 ~ 17时53分]"
+        },
+        {
+          "title": "美元指数升破100，日内上涨0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3075075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时53分 ~ 18时43分]"
         },
         {
           "title": "老铺黄金：2025年营业收入为约人民币273.03亿元，同比增长约221.0%",
@@ -218,6 +230,18 @@
           "time_info": "[09时13分 ~ 09时14分]"
         },
         {
+          "title": "现货黄金一度跌破4100美元",
+          "url": "https://www.toutiao.com/trending/7620326319812775487/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时53分 ~ 18时43分]"
+        },
+        {
           "title": "现货黄金跌破4100美元/盎司",
           "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E8%B7%8C%E7%A0%B44100%E7%BE%8E%E5%85%83%2F%E7%9B%8E%E5%8F%B8",
           "source": "百度热搜",
@@ -236,7 +260,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
         },
@@ -274,6 +298,17 @@
           "time_info": "16时43分"
         },
         {
+          "title": "纽元兑美元NZD/USD日内下跌1%，现报0.5771。",
+          "url": "https://flash.jin10.com/detail/20260323182840626800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        },
+        {
           "title": "印度卢比兑美元跌至历史新低93.8350。 印度10年期国债收益率上行4个基点至6.78%。",
           "url": "https://wallstreetcn.com/livenews/3074821",
           "source": "华尔街见闻-快讯",
@@ -294,6 +329,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
+        },
+        {
+          "title": "机构：伊朗局势致使全球债券缩水2.5万亿美元 2022年的行情恐正在重演",
+          "url": "https://flash.jin10.com/detail/20260323182638818800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
         },
         {
           "title": "WTI原油日内转跌，最新报98.25美元/桶。",
@@ -327,6 +373,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
+        },
+        {
+          "title": "泽菲林集团：将阿里巴巴的目标价从123美元下调至112美元。",
+          "url": "https://flash.jin10.com/detail/20260323182506434800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
         },
         {
           "title": "万科2027年到期美元债势创3个月最大跌幅，该公司3.975%债券每1美元跌3.5美分，至38.7美分。",
@@ -489,7 +546,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
         },
@@ -505,6 +562,17 @@
           "time_info": "07时18分"
         },
         {
+          "title": "Melius Research ：将微软(MSFT.O)的目标价从430美元下调至400美元。",
+          "url": "https://flash.jin10.com/detail/20260323181725871800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        },
+        {
           "title": "现货白银日内跌幅达10.0%，报61.01美元/盎司。 纽约银日内跌幅达12.0%，报61.24美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3074964",
           "source": "华尔街见闻-快讯",
@@ -516,24 +584,24 @@
           "time_info": "15时56分"
         },
         {
+          "title": "数据显示：由于中东战争升级，亚洲石脑油利润空间创下历史新高，对布伦特原油的价差达到每公吨429.35美元。",
+          "url": "https://flash.jin10.com/detail/20260323181427253800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        },
+        {
           "title": "【药明康德：2025年净利润191.95亿元，同比增长105.2%】药明康德公告，公司实现营业收入人民币454.56亿元，同比上升15.8%；实现归母净利润人民币191.95亿元，同比上升105.2%。公司拟每10股派发现金股息人民币15.79元。",
           "url": "https://wallstreetcn.com/livenews/3075050",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时53分"
-        },
-        {
-          "title": "现货黄金一度跌破4100美元",
-          "url": "https://www.toutiao.com/trending/7620326319812775487/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
         },
@@ -629,7 +697,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 17,
+      "match_count": 22,
       "titles": [
         {
           "title": "跑马拉松护航的民警居然是AI机器人",
@@ -701,6 +769,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        },
+        {
+          "title": "国家数据局局长刘烈宏：2026年数据工作明确为“数据价值释放年” 加速人工智能与实体经济的深度融合",
+          "url": "https://flash.jin10.com/detail/20260323182959958800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-03-23）",
@@ -775,6 +854,17 @@
           "time_info": "09时14分"
         },
         {
+          "title": "国家数据局局长刘烈宏：2026年数据工作明确为“数据价值释放年” 加速人工智能与实体经济的深度融合",
+          "url": "https://wallstreetcn.com/livenews/3075107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        },
+        {
           "title": "高盛警告：AI或是最后的抛售来源",
           "url": "https://www.toutiao.com/trending/7620340271837875763/",
           "source": "今日头条",
@@ -797,6 +887,17 @@
           "time_info": "12时17分"
         },
         {
+          "title": "AI短剧付费后竟然变成PPT",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E7%9F%AD%E5%89%A7%E4%BB%98%E8%B4%B9%E5%90%8E%E7%AB%9F%E7%84%B6%E5%8F%98%E6%88%90PPT%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        },
+        {
           "title": "广东：加强对国家重大科技任务和电子信息、人工智能、低空经济等先进制造业集群的增信",
           "url": "https://wallstreetcn.com/livenews/3074856",
           "source": "华尔街见闻-快讯",
@@ -808,6 +909,17 @@
           "time_info": "14时04分"
         },
         {
+          "title": "霍启刚形象被AI盗用",
+          "url": "https://www.baidu.com/s?wd=%E9%9C%8D%E5%90%AF%E5%88%9A%E5%BD%A2%E8%B1%A1%E8%A2%ABAI%E7%9B%97%E7%94%A8",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        },
+        {
           "title": "A股AI应用概念股多数走弱，天地在线跌停，卓易信息跌超8%，生意宝、真视通、创业黑马、新开普跌幅居前。",
           "url": "https://wallstreetcn.com/livenews/3074849",
           "source": "华尔街见闻-快讯",
@@ -817,6 +929,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
+        },
+        {
+          "title": "中美算力变局：中国AI开始争夺定价权",
+          "url": "https://www.toutiao.com/trending/7620326265257463359/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
         },
         {
           "title": "广东：加强对国家重大科技任务和电子信息、人工智能、低空经济等先进制造业集群的增信",
@@ -833,7 +956,7 @@
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "高盛宏观交易员警告：各国央行错失了稳定市场的机会，\"能源正在驱动一切\"",
@@ -876,11 +999,12 @@
           "url": "https://wallstreetcn.com/livenews/3075071",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时53分 ~ 18时43分]"
         },
         {
           "title": "贝森特：“50天”的物价上涨可以换来“50年”伊朗无核",
@@ -906,13 +1030,24 @@
           "time_info": "12时17分"
         },
         {
+          "title": "交易员提高英国央行加息押注，已充分消化4月份加息25个基点的预期。",
+          "url": "https://wallstreetcn.com/livenews/3075103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        },
+        {
           "title": "欧洲央行：预计2026年第四季度的工资增长率为2.6%，而第三季度为2.5%。",
           "url": "https://wallstreetcn.com/livenews/3075055",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
         },
@@ -923,9 +1058,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
+        },
+        {
+          "title": "市场定价显示，目前市场已完全消化英国央行4月加息25个基点的预期。",
+          "url": "https://flash.jin10.com/detail/20260323181905458800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
         },
         {
           "title": "欧洲央行管委卡兹米尔：能源以外的供应链也面临风险。",
@@ -934,7 +1080,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
         },
@@ -945,7 +1091,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
         },
@@ -989,7 +1135,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
         },
@@ -1011,7 +1157,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
         }
@@ -1019,7 +1165,7 @@
     },
     {
       "keyword_group": "华为 小米 荣耀",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "本周重磅日程：特朗普对伊发出48小时通牒、博鳌论坛、美团拼多多小米财报",
@@ -1030,8 +1176,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时13分 ~ 17时53分]"
+          "appearance_count": 9,
+          "time_info": "[09时13分 ~ 18时43分]"
         },
         {
           "title": "下周重磅日程：特朗普对伊发出48小时通牒、博鳌论坛、美团拼多多小米财报",
@@ -1081,8 +1227,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时55分 ~ 17时53分]"
+          "appearance_count": 5,
+          "time_info": "[15时55分 ~ 18时43分]"
         },
         {
           "title": "手机集体涨价 华为苹果为啥不涨",
@@ -1121,6 +1267,18 @@
           "time_info": "[09时13分 ~ 09时14分]"
         },
         {
+          "title": "华为畅享90系列上手体验",
+          "url": "https://www.douyin.com/hot/2440771",
+          "source": "抖音",
+          "ranks": [
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时53分 ~ 18时43分]"
+        },
+        {
           "title": "新一代小米SU7锁单量已超3万辆",
           "url": "https://www.toutiao.com/trending/7619312885918993963/",
           "source": "今日头条",
@@ -1143,24 +1301,13 @@
           "time_info": "12时17分"
         },
         {
-          "title": "华为畅享90系列上手体验",
-          "url": "https://www.douyin.com/hot/2440771",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时53分"
-        },
-        {
           "title": "华为表王高尔夫功能有多强大",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E8%A1%A8%E7%8E%8B%E9%AB%98%E5%B0%94%E5%A4%AB%E5%8A%9F%E8%83%BD%E6%9C%89%E5%A4%9A%E5%BC%BA%E5%A4%A7%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
         },
@@ -1171,9 +1318,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
+        },
+        {
+          "title": "华为春季新品发布会有哪些看点",
+          "url": "https://www.toutiao.com/trending/7620012672796655659/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
         },
         {
           "title": "华为畅享90系列价格真香",
@@ -1190,8 +1348,20 @@
     },
     {
       "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "特朗普下最后通牒后双方僵持 中东民用基础设施面临“生死局”",
+          "url": "https://www.cls.cn/detail/2321109",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时55分 ~ 18时43分]"
+        },
         {
           "title": "以色列驻美大使迈克尔·莱特：摧毁伊朗的基础设施并非不可行。某个时刻，必须投入必要的“成本”，以确保伊朗无法“挟持全世界”。",
           "url": "https://flash.jin10.com/detail/20260322232559663800",
@@ -1205,18 +1375,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时18分 ~ 06时15分]"
-        },
-        {
-          "title": "特朗普下最后通牒后双方僵持 中东民用基础设施面临“生死局”",
-          "url": "https://www.cls.cn/detail/2321109",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时55分 ~ 17时53分]"
         },
         {
           "title": "黎巴嫩总统：以色列对黎巴嫩基础设施的袭击是地面入侵的前奏。",
@@ -1238,11 +1396,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时55分 ~ 17时53分]"
+          "appearance_count": 5,
+          "time_info": "[15时55分 ~ 18时43分]"
         },
         {
           "title": "如何看待地铁每公里每年运营成本高达约 1500 万元？",
@@ -1266,6 +1425,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
+        },
+        {
+          "title": "教授地铁审博士论文视频海外爆火",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%95%99%E6%8E%88%E5%9C%B0%E9%93%81%E5%AE%A1%E5%8D%9A%E5%A3%AB%E8%AE%BA%E6%96%87%E8%A7%86%E9%A2%91%E6%B5%B7%E5%A4%96%E7%88%86%E7%81%AB%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
         },
         {
           "title": "以军打击伊朗首都基础设施",
@@ -1292,83 +1462,8 @@
       ]
     },
     {
-      "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "马斯克官宣开建史上最大芯片厂：年产能目标为现有全球产能50倍，80%将直接服务太空任务",
-          "url": "https://wallstreetcn.com/articles/3768085",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时17分 ~ 14时04分]"
-        },
-        {
-          "title": "最危险时刻来临！六维度剖析：氦气危机将如何冲击全球半导体产业？",
-          "url": "https://www.cls.cn/detail/2321243",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时43分 ~ 17时53分]"
-        },
-        {
-          "title": "芯片行业或飞出黑天鹅 能源+氦气双重打击将使亚洲生产商空前脆弱",
-          "url": "https://www.cls.cn/detail/2321044",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时43分 ~ 17时53分]"
-        },
-        {
-          "title": "又一案例 LED芯片龙头三安光电实控人被留置并立案调查|速读公告",
-          "url": "https://www.cls.cn/detail/2320633",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时17分"
-        },
-        {
-          "title": "维权投资者Elliott入股芯片设计软件巨头Synopsys。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3074643",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时18分"
-        },
-        {
-          "title": "阿里明日或将发布重要芯片产品",
-          "url": "https://wallstreetcn.com/livenews/3074799",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时17分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "马斯克称 SpaceX 与特斯拉将公布 Terafab 项目，年产超 1 太瓦算力意味着什么？",
@@ -1401,11 +1496,23 @@
           "url": "https://www.toutiao.com/trending/7619873139577683987/",
           "source": "今日头条",
           "ranks": [
-            23
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时53分 ~ 18时43分]"
+        },
+        {
+          "title": "如何看待预售价 26.98 万起的问界 M6 全系标配新一代 896 线双光路图像级激光雷达？",
+          "url": "https://www.zhihu.com/question/2019366828015662079",
+          "source": "知乎",
+          "ranks": [
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时53分"
+          "time_info": "18时43分"
         },
         {
           "title": "金十图示：2026年03月23日（周一）富时中国A50指数成分股：盘面几乎全线飘绿，多数个股跌逾4%，牧原股份重挫超8%；比亚迪逆势涨超5%",
@@ -1413,6 +1520,94 @@
           "source": "金十数据",
           "ranks": [
             24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时17分"
+        },
+        {
+          "title": "问界M8升级四激光雷达",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%97%AE%E7%95%8CM8%E5%8D%87%E7%BA%A7%E5%9B%9B%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体 芯片 集成电路",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "马斯克官宣开建史上最大芯片厂：年产能目标为现有全球产能50倍，80%将直接服务太空任务",
+          "url": "https://wallstreetcn.com/articles/3768085",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时17分 ~ 14时04分]"
+        },
+        {
+          "title": "最危险时刻来临！六维度剖析：氦气危机将如何冲击全球半导体产业？",
+          "url": "https://www.cls.cn/detail/2321243",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时43分 ~ 18时43分]"
+        },
+        {
+          "title": "芯片行业或飞出黑天鹅 能源+氦气双重打击将使亚洲生产商空前脆弱",
+          "url": "https://www.cls.cn/detail/2321044",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时43分 ~ 18时43分]"
+        },
+        {
+          "title": "又一案例 LED芯片龙头三安光电实控人被留置并立案调查|速读公告",
+          "url": "https://www.cls.cn/detail/2320633",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时17分"
+        },
+        {
+          "title": "维权投资者Elliott入股芯片设计软件巨头Synopsys。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3074643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时18分"
+        },
+        {
+          "title": "阿里明日或将发布重要芯片产品",
+          "url": "https://wallstreetcn.com/livenews/3074799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1470,6 +1665,63 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大学生 毕业生",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "想知道现在的大学生一天要是不刷视频打游戏，还能干什么呢？",
+          "url": "https://www.zhihu.com/question/575275977",
+          "source": "知乎",
+          "ranks": [
+            7,
+            8,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时17分 ~ 04时15分]"
+        },
+        {
+          "title": "大学生兼职被卡皮巴拉咬伤索赔遭拒",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%85%BC%E8%81%8C%E8%A2%AB%E5%8D%A1%E7%9A%AE%E5%B7%B4%E6%8B%89%E5%92%AC%E4%BC%A4%E7%B4%A2%E8%B5%94%E9%81%AD%E6%8B%92",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            22,
+            26,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时18分 ~ 07时18分]"
+        },
+        {
+          "title": "大学生一周疯狂挥霍确诊“桃花癫”",
+          "url": "https://www.toutiao.com/trending/7620304559391358995/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时53分 ~ 18时43分]"
+        },
+        {
+          "title": "大学生挥霍数万被诊断患“桃花癫”",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8C%A5%E9%9C%8D%E6%95%B0%E4%B8%87%E8%A2%AB%E8%AF%8A%E6%96%AD%E6%82%A3%E2%80%9C%E6%A1%83%E8%8A%B1%E7%99%AB%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
         }
       ]
     },
@@ -1555,47 +1807,33 @@
       ]
     },
     {
-      "keyword_group": "大学生 毕业生",
-      "match_count": 3,
+      "keyword_group": "考研 考公 国考",
+      "match_count": 2,
       "titles": [
         {
-          "title": "想知道现在的大学生一天要是不刷视频打游戏，还能干什么呢？",
-          "url": "https://www.zhihu.com/question/575275977",
+          "title": "如何评价著名数学网红「柯西永远爱你」未过浙大考研复试线？",
+          "url": "https://www.zhihu.com/question/2018675094604522684",
           "source": "知乎",
           "ranks": [
-            7,
             8,
-            17,
-            18
+            4,
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 04时15分]"
+          "appearance_count": 9,
+          "time_info": "[09时13分 ~ 18时43分]"
         },
         {
-          "title": "大学生兼职被卡皮巴拉咬伤索赔遭拒",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%85%BC%E8%81%8C%E8%A2%AB%E5%8D%A1%E7%9A%AE%E5%B7%B4%E6%8B%89%E5%92%AC%E4%BC%A4%E7%B4%A2%E8%B5%94%E9%81%AD%E6%8B%92",
-          "source": "百度热搜",
+          "title": "俄副外长：多国考虑增购俄罗斯石油",
+          "url": "https://flash.jin10.com/detail/20260323181524730800",
+          "source": "金十数据",
           "ranks": [
-            27,
-            22,
-            26,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时18分 ~ 07时18分]"
-        },
-        {
-          "title": "大学生一周疯狂挥霍确诊“桃花癫”",
-          "url": "https://www.toutiao.com/trending/7620304559391358995/",
-          "source": "今日头条",
-          "ranks": [
-            7
+            21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时53分"
+          "time_info": "18时43分"
         }
       ]
     },
@@ -1629,28 +1867,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时55分 ~ 17时53分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "考研 考公 国考",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何评价著名数学网红「柯西永远爱你」未过浙大考研复试线？",
-          "url": "https://www.zhihu.com/question/2018675094604522684",
-          "source": "知乎",
-          "ranks": [
-            8,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时13分 ~ 17时53分]"
+          "appearance_count": 5,
+          "time_info": "[15时55分 ~ 18时43分]"
         }
       ]
     }
