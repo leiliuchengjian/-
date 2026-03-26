@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T09:17:40.300324+08:00",
-  "total_titles_processed": 815,
+  "generated_at": "2026-03-26T12:24:37.402275+08:00",
+  "total_titles_processed": 998,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "贝莱德CEO推演伊朗战争结局：若油价升至150美元将引发全球衰退",
@@ -20,13 +20,24 @@
           "time_info": "[01时01分 ~ 07时25分]"
         },
         {
+          "title": "特步国际2025年营收141.5亿元人民币，预估143.8亿元人民币； 全年净利润13.7亿元人民币，预估13.8亿元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3077103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
           "title": "菲律宾能源部：已启动200亿比索（约3.3295亿美元）的应急基金，以加强燃料安全。",
           "url": "https://flash.jin10.com/detail/20260326090637254800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
         },
@@ -37,7 +48,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
         },
@@ -226,7 +237,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
         },
@@ -380,7 +391,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
         }
@@ -388,7 +399,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "短剧演员成AI技术第一批“牺牲品”",
@@ -413,11 +424,12 @@
             15,
             13,
             14,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时01分 ~ 09时17分]"
+          "appearance_count": 14,
+          "time_info": "[01时01分 ~ 12时24分]"
         },
         {
           "title": "OpenAI宣布关停Sora",
@@ -431,8 +443,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时01分 ~ 09时17分]"
+          "appearance_count": 14,
+          "time_info": "[01时01分 ~ 12时24分]"
         },
         {
           "title": "华尔街惊呼：AI最大赢家已换人",
@@ -441,7 +453,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
         },
@@ -530,13 +542,35 @@
           "time_info": "02时01分"
         },
         {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-03-26）",
+          "url": "https://flash.jin10.com/detail/20260326120140166800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "伊朗官媒发炸毁自由女神像AI视频",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AE%98%E5%AA%92%E5%8F%91%E7%82%B8%E6%AF%81%E8%87%AA%E7%94%B1%E5%A5%B3%E7%A5%9E%E5%83%8FAI%E8%A7%86%E9%A2%91%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
           "title": "OpenAI支持人工智能初创公司Isara，寻求实现“机器人大军”技术突破",
           "url": "https://wallstreetcn.com/livenews/3076984",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
         },
@@ -547,7 +581,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
         },
@@ -566,7 +600,7 @@
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "美联储理事米兰：由于计量因素的缘故，（FOMC）通胀方面的政策目标问题此前并不突出。 石油冲击对美国通胀预期的影响为“零溢出”。 石油冲击可能会对失业率构成上行风险。 因通胀数据而（在3月份经济预期概要SEP的点阵图中）上调了对美联储降息的预期。",
@@ -653,6 +687,17 @@
           "time_info": "04时29分"
         },
         {
+          "title": "韩国财政部：政府将实施规模为5万亿韩元的紧急债券回购：3月27日（2.5万亿韩元）、4月1日（2.5万亿韩元）。同时将启动“WGBI资金流入常态监测小组”等措施，着力稳定国债市场运行。这是自2021年以来首次通过补充预算进行政府债券净赎回。韩国政府计划与韩国央行等相关机构密切协作，稳定管理债券市场。",
+          "url": "https://flash.jin10.com/detail/20260326114924541800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
           "title": "法国央行：基准情景下预计2026年经济增长0.9%，此前预期1.0%。",
           "url": "https://flash.jin10.com/detail/20260326030046420800",
           "source": "金十数据",
@@ -686,6 +731,17 @@
           "time_info": "04时29分"
         },
         {
+          "title": "地缘冲突尚未“火上浇油”，美国进口物价已率先爆表",
+          "url": "https://flash.jin10.com/detail/20260326114511868800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
           "title": "美联储理事米兰：认为不会出现工资与物价的螺旋式上涨。",
           "url": "https://flash.jin10.com/detail/20260326041720266800",
           "source": "金十数据",
@@ -703,7 +759,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
         },
@@ -722,7 +778,7 @@
     },
     {
       "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "国台办：和平统一将是台湾基础设施、新型基础设施焕然一新的起点",
@@ -780,9 +836,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
+        },
+        {
+          "title": "以军对伊朗伊斯法罕基础设施发动大规模袭击",
+          "url": "https://wallstreetcn.com/livenews/3077068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         },
         {
           "title": "英国政府表示，将优先考虑将政府合同授予本国造船、钢铁、人工智能及能源基础设施领域，以保障国家安全。",
@@ -791,7 +858,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
         }
@@ -824,8 +891,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时25分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 12时24分]"
         },
         {
           "title": "华为千元新机怎么选",
@@ -848,7 +915,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
         },
@@ -930,7 +997,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
         }
@@ -970,6 +1037,34 @@
       ]
     },
     {
+      "keyword_group": "半导体 芯片 集成电路",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "标普500指数收涨35.53点，涨幅0.54%，报6591.90点。 道琼斯工业平均指数收涨305.43点，涨幅0.66%，报46429.49点。 纳斯达克综合指数（纳指）收涨167.931点，涨幅0.77%，报21929.825点。 纳斯达克100指数收涨160.528点，涨幅0.67%，报24162.976点。 费城半导体指数收涨1.21%，报7967.745点。 费城证交所KBW银行指数收涨0.48%，报154.11点。 纳斯达克生物科技指数收涨2.64%，报5729.51点。",
+          "url": "https://wallstreetcn.com/livenews/3076884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "恒生科技指数日内跌幅扩大至2%，恒指跌1.4%，快手跌超13%，地平线机器人、阿里巴巴、华虹半导体、腾讯音乐跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3077061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "英伟达 台积电 AMD 高通",
       "match_count": 2,
       "titles": [
@@ -999,25 +1094,8 @@
       ]
     },
     {
-      "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "标普500指数收涨35.53点，涨幅0.54%，报6591.90点。 道琼斯工业平均指数收涨305.43点，涨幅0.66%，报46429.49点。 纳斯达克综合指数（纳指）收涨167.931点，涨幅0.77%，报21929.825点。 纳斯达克100指数收涨160.528点，涨幅0.67%，报24162.976点。 费城半导体指数收涨1.21%，报7967.745点。 费城证交所KBW银行指数收涨0.48%，报154.11点。 纳斯达克生物科技指数收涨2.64%，报5729.51点。",
-          "url": "https://wallstreetcn.com/livenews/3076884",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        }
-      ]
-    },
-    {
       "keyword_group": "创业板",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "【焦点复盘】创业板指高开高走涨逾2%，全市场近4900股飘红，算电协同概念获持续热捧",
@@ -1030,6 +1108,34 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时01分 ~ 06时25分]"
+        },
+        {
+          "title": "上证指数早盘收报3909.16点，跌0.58%。 深证成指早盘收报13748.30点，跌0.38%。 创业板指早盘收报3314.64点，跌0.07%。 沪深300早盘收报4516.10点，跌0.47%。 科创50早盘收报1302.30点，跌1.00%。 中证500早盘收报7705.21点，跌0.80%。 中证1000早盘收报7696.61点，跌0.70%。",
+          "url": "https://wallstreetcn.com/livenews/3077092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "问界 M6 会对智界 R7 构成严重冲击吗？",
+          "url": "https://www.zhihu.com/question/1999877795145343169",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         }
       ]
     },
@@ -1085,7 +1191,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
         }
