@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T12:10:06.627241+08:00",
-  "total_titles_processed": 931,
+  "generated_at": "2026-03-28T13:49:53.952032+08:00",
+  "total_titles_processed": 1036,
   "failed_sources": [],
   "trends": [
     {
@@ -333,7 +333,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -396,7 +396,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "中国人工智能走在世界前列",
@@ -426,11 +426,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时42分 ~ 12时10分]"
+          "appearance_count": 16,
+          "time_info": "[00时42分 ~ 13时49分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -439,11 +440,12 @@
           "ranks": [
             4,
             6,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时42分 ~ 12时10分]"
+          "appearance_count": 16,
+          "time_info": "[00时42分 ~ 13时49分]"
         },
         {
           "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
@@ -533,11 +535,12 @@
           "url": "https://wallstreetcn.com/livenews/3078534",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 13时49分]"
         },
         {
           "title": "人工智能机器人实验室（AI Robotics Lab）洽谈按110亿美元估值融资。",
@@ -566,13 +569,24 @@
           "time_info": "[05时25分 ~ 07时22分]"
         },
         {
+          "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
+          "url": "https://www.cls.cn/detail/2327720",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时49分"
+        },
+        {
           "title": "国家人工智能应用上海中试基地发布五大核心创新成果",
           "url": "https://flash.jin10.com/detail/20260328110545535800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -597,6 +611,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "雄安“人工智能+”产业生态融合发展论坛举行",
+          "url": "https://flash.jin10.com/detail/20260328122058917800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时49分"
         }
       ]
     },
@@ -666,8 +691,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 12时10分]"
+          "appearance_count": 3,
+          "time_info": "[12时09分 ~ 13时49分]"
         },
         {
           "title": "美伊局势走向不明，美股指下跌，半导体股、网络安全股普跌，布油涨超2%，美30年期国债收益率创去年9月来新高",
@@ -693,6 +718,17 @@
           "time_info": "[02时42分 ~ 03时36分]"
         },
         {
+          "title": "美官员称中国芯片制造商向伊朗军方提供芯片制造设备，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32842797",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时09分 ~ 13时49分]"
+        },
+        {
           "title": "纳斯达克100指数跌幅扩大至2%，纳指跌2.22%，生物科技指数跌2.91%，半导体指数跌1.93%，银行指数跌2.64%。",
           "url": "https://wallstreetcn.com/livenews/3078466",
           "source": "华尔街见闻-快讯",
@@ -715,17 +751,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时42分 ~ 02时42分]"
-        },
-        {
-          "title": "美官员称中国芯片制造商向伊朗军方提供芯片制造设备，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32842797",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 12时10分]"
         }
       ]
     },
@@ -756,8 +781,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时42分 ~ 12时10分]"
+          "appearance_count": 16,
+          "time_info": "[00时42分 ~ 13时49分]"
         },
         {
           "title": "黄金大买家的重大转向！土耳其央行在伊朗战争期间抛售80亿美元黄金",
@@ -779,8 +804,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时10分 ~ 12时10分]"
+          "appearance_count": 5,
+          "time_info": "[09时10分 ~ 13时49分]"
         },
         {
           "title": "欧洲央行执委Schnabel：我们面对一个大规模的能源价格冲击。",
@@ -852,8 +877,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时10分 ~ 12时10分]"
+          "appearance_count": 5,
+          "time_info": "[09时10分 ~ 13时49分]"
         },
         {
           "title": "以色列国防军：刚刚开始对真主党的基础设施进行大规模空袭。",
@@ -895,11 +920,12 @@
           "url": "https://wallstreetcn.com/livenews/3078523",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 13时49分]"
         },
         {
           "title": "伊朗高级官员：鉴于此前工业和核基础设施遭到袭击，德黑兰方面尚未决定是否回应美国的提议，这份回应原本预计于周五或周六作出。",
@@ -970,33 +996,36 @@
           "url": "https://www.zhihu.com/question/2020984478156239784",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 12时10分]"
+          "appearance_count": 3,
+          "time_info": "[12时09分 ~ 13时49分]"
         },
         {
           "title": "比亚迪2025年净利润326.2亿元",
           "url": "https://www.toutiao.com/trending/7621196344904843305/",
           "source": "今日头条",
           "ranks": [
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 12时10分]"
+          "appearance_count": 3,
+          "time_info": "[12时09分 ~ 13时49分]"
         },
         {
           "title": "特斯拉辟谣Model 3标准版在华上市：暂无引入计划",
           "url": "https://wallstreetcn.com/livenews/3078524",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 13时49分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌1.90%，报6593.28点，本周累计下跌2.22%。 热门中概股里，文远知行初步收跌9%，小马智行跌5.7%，金山云跌5.5%，比亚迪跌5.2%，蔚来跌4.4%，小鹏跌3.8%，阿里巴巴跌2.1%，再鼎医药涨2.8%。 ETF中，中概互联网指数ETF（KWEB）收跌1.03%，本周累跌1.13%，延续上周跌6.40%的表现； 中国科技指数ETF（CQQQ）收跌0.66%，本周累跌2.28%，延续上周跌6.39%的表现； 德银嘉实沪深300指数ETF（ASHR）收涨0.28%，本周累跌1.14%，延续上周跌3.46%的表现； XtrackersHarvest中证50（ASHS）收涨0.81%，本周累跌0.37%，延续上周跌7.35%的表现。",
