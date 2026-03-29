@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-29T07:21:32.779411+08:00",
-  "total_titles_processed": 500,
+  "generated_at": "2026-03-29T09:20:05.753692+08:00",
+  "total_titles_processed": 633,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "一个视频了解AI常识",
@@ -17,11 +17,13 @@
             8,
             4,
             26,
-            10
+            10,
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 09时20分]"
         },
         {
           "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
@@ -29,11 +31,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 09时20分]"
         },
         {
           "title": "AI神游!原神现六指派蒙",
@@ -44,8 +47,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 09时20分]"
         },
         {
           "title": "一行代码破甲,AI水军现原形",
@@ -56,8 +59,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 09时20分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -68,8 +71,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 09时20分]"
         },
         {
           "title": "西门子中国董事长肖松：AI进工厂，成败关键不在“卷算法”",
@@ -154,6 +157,17 @@
           "time_info": "01时21分"
         },
         {
+          "title": "巴林铝业公司（Aluminium Bahrain）表示，其设施在周六遭伊朗袭击，两人受轻伤，正在评估袭击对其设施造成的损失。",
+          "url": "https://flash.jin10.com/detail/20260329080955107800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
           "title": "AI医院真的要来了吗",
           "url": "https://www.baidu.com/s?wd=AI%E5%8C%BB%E9%99%A2%E7%9C%9F%E7%9A%84%E8%A6%81%E6%9D%A5%E4%BA%86%E5%90%97",
           "source": "百度热搜",
@@ -163,6 +177,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "基础设施 基建 地铁 高铁",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "市场消息：以色列国防军称，以色列空军刚刚完成了又一轮“广泛”的空袭，今天的第三轮空袭针对了数十个伊朗政权的基础设施。",
+          "url": "https://flash.jin10.com/detail/20260329041443395800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时21分 ~ 07时21分]"
+        },
+        {
+          "title": "中国太空基建新成果",
+          "url": "https://www.douyin.com/hot/2447092",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 09时20分]"
+        },
+        {
+          "title": "市场消息：伊朗总统佩泽希齐扬在与巴基斯坦总理的通话中表示，对基础设施的攻击和刺杀事件表明侵略者不可信。伊朗的防御反应是自然的。伊朗视穆斯林国家为兄弟，寻求不伤害任何穆斯林。",
+          "url": "https://flash.jin10.com/detail/20260329003613392800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时21分"
         }
       ]
     },
@@ -193,7 +248,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -213,67 +268,8 @@
       ]
     },
     {
-      "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "市场消息：以色列国防军称，以色列空军刚刚完成了又一轮“广泛”的空袭，今天的第三轮空袭针对了数十个伊朗政权的基础设施。",
-          "url": "https://flash.jin10.com/detail/20260329041443395800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时21分 ~ 07时21分]"
-        },
-        {
-          "title": "市场消息：伊朗总统佩泽希齐扬在与巴基斯坦总理的通话中表示，对基础设施的攻击和刺杀事件表明侵略者不可信。伊朗的防御反应是自然的。伊朗视穆斯林国家为兄弟，寻求不伤害任何穆斯林。",
-          "url": "https://flash.jin10.com/detail/20260329003613392800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "就业 裁员 招聘",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "猪厂大裁员,办公椅堆成小山",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352460&amp;topic_name=%E7%8C%AA%E5%8E%82%E5%A4%A7%E8%A3%81%E5%91%98%2C%E5%8A%9E%E5%85%AC%E6%A4%85%E5%A0%86%E6%88%90%E5%B0%8F%E5%B1%B1",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 07时21分]"
-        },
-        {
-          "title": "机构：美就业市场在二月的低迷之后，本月可能逐渐回暖",
-          "url": "https://flash.jin10.com/detail/20260329055243605800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        }
-      ]
-    },
-    {
       "keyword_group": "大学生 毕业生",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "长春一高校「翻转课堂」引争议，大学生发视频哭诉体验差，如何评价「翻转课堂」这一形式？",
@@ -292,6 +288,17 @@
           "time_info": "[00时22分 ~ 07时21分]"
         },
         {
+          "title": "大学生熬夜后脑出血致瘫：半年无记忆",
+          "url": "https://www.toutiao.com/trending/7621457569487539753/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 09时20分]"
+        },
+        {
           "title": "大学生如何社会化",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%A6%82%E4%BD%95%E7%A4%BE%E4%BC%9A%E5%8C%96",
           "source": "bilibili 热搜",
@@ -306,8 +313,19 @@
     },
     {
       "keyword_group": "苹果 iPhone",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "苹果停产Mac Pro",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E5%81%9C%E4%BA%A7Mac%20Pro",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 09时20分]"
+        },
         {
           "title": "苹果停产Mac Pro",
           "url": "https://www.douyin.com/hot/2446757",
@@ -317,8 +335,54 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时23分 ~ 05时21分]"
+          "appearance_count": 6,
+          "time_info": "[03时23分 ~ 09时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "就业 裁员 招聘",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "猪厂大裁员,办公椅堆成小山",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352460&amp;topic_name=%E7%8C%AA%E5%8E%82%E5%A4%A7%E8%A3%81%E5%91%98%2C%E5%8A%9E%E5%85%AC%E6%A4%85%E5%A0%86%E6%88%90%E5%B0%8F%E5%B1%B1",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 09时20分]"
+        },
+        {
+          "title": "机构：美就业市场在二月的低迷之后，本月可能逐渐回暖",
+          "url": "https://flash.jin10.com/detail/20260329055243605800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为 小米 荣耀",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "曝内存价格暴涨前华为提前囤货",
+          "url": "https://www.toutiao.com/trending/7621789201730175019/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 09时20分]"
         }
       ]
     },
@@ -332,11 +396,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 09时20分]"
         }
       ]
     },
@@ -352,8 +417,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 09时20分]"
         }
       ]
     }
