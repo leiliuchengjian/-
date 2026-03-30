@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-30T18:39:52.640639+08:00",
-  "total_titles_processed": 1323,
+  "generated_at": "2026-03-30T19:46:43.758312+08:00",
+  "total_titles_processed": 1443,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 28,
+      "match_count": 32,
       "titles": [
         {
           "title": "伊朗拒绝“停火协议”，美国筹划“地面进攻”，油价开盘突破115美元",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时20分 ~ 18时39分]"
+          "appearance_count": 8,
+          "time_info": "[09时20分 ~ 19时46分]"
         },
         {
           "title": "日本拟动用外储做空国际原油，以挽救日元汇率，对此你怎么看，其会重演 96 年「住友铜事件」么？",
@@ -90,17 +90,6 @@
           "time_info": "14时25分"
         },
         {
-          "title": "哈佛教授：人民币将在5年内成储备货币",
-          "url": "https://www.toutiao.com/trending/7622603024216932388/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时39分"
-        },
-        {
           "title": "现货黄金低开后走高，现报4506.22美元/盎司，日内上涨0.3%，稍早一度跌至4466.91美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3078767",
           "source": "华尔街见闻-快讯",
@@ -123,6 +112,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时36分 ~ 14时25分]"
+        },
+        {
+          "title": "哈佛教授：人民币将在5年内成储备货币",
+          "url": "https://www.toutiao.com/trending/7622603024216932388/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时39分 ~ 19时46分]"
         },
         {
           "title": "美、布两油周一高开约1%，现分别报102.57美元/桶和107.15美元/桶。",
@@ -154,11 +155,12 @@
           "source": "百度热搜",
           "ranks": [
             27,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时16分 ~ 18时39分]"
+          "appearance_count": 3,
+          "time_info": "[16时16分 ~ 19时46分]"
         },
         {
           "title": "中东局势升级，日韩股市收跌约3%，美股期货续跌跌势，布油一度涨破115美元、铝价上涨5%",
@@ -178,9 +180,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时39分"
+        },
+        {
+          "title": "美、布两油短线一度下跌后反弹，波幅达2美元，现分别报101.4美元/桶和114.8美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260330193031533800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
         },
         {
           "title": "新台币兑美元下跌0.4%至32.008。",
@@ -194,6 +207,17 @@
           "time_info": "12时37分"
         },
         {
+          "title": "碧桂园全年营收1,548.9亿元人民币，预估1,422.9亿元人民币；全年净利润32.6亿元人民币，上年同期亏损328亿元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3079297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
+        },
+        {
           "title": "纽约期银日内跌超1.00%，现报69.10美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260330090739107800",
           "source": "金十数据",
@@ -203,6 +227,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
+        },
+        {
+          "title": "碧桂园(02007.HK)：2025年本集团实现净利润约为人民币16.2亿元，归属本公司股东应占净利润约为人民币32.6亿元。",
+          "url": "https://flash.jin10.com/detail/20260330192906257800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
         },
         {
           "title": "韩国国民年金公团表示，可能需要采取行动来稳定韩元汇率。",
@@ -255,7 +290,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时39分"
         },
@@ -271,13 +306,24 @@
           "time_info": "07时23分"
         },
         {
+          "title": "招商轮船：通过全资子公司海宏轮船（香港）有限公司与大连造船签署10份《船舶订造协议》，订造10艘装配脱硫洗涤塔和轴带发电机的传统燃料VLCC油轮，协议总价折合人民币约为85.66亿元。",
+          "url": "https://flash.jin10.com/detail/20260330191424742800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
+        },
+        {
           "title": "现货白银日内涨幅达2.0%，报71.1美元/盎司；纽约银日内涨幅达2.0%，报71.19美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3079204",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时39分"
         },
@@ -321,7 +367,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时39分"
         }
@@ -369,8 +415,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时36分 ~ 18时39分]"
+          "appearance_count": 7,
+          "time_info": "[12时36分 ~ 19时46分]"
         },
         {
           "title": "广东出现高铁接触网挂异物故障，部分列车晚点",
@@ -393,8 +439,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时24分 ~ 18时39分]"
+          "appearance_count": 5,
+          "time_info": "[14时24分 ~ 19时46分]"
         },
         {
           "title": "中国将在长江水下开高铁",
@@ -411,17 +457,6 @@
         },
         {
           "title": "中国将在长江水下开高铁",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%B0%86%E5%9C%A8%E9%95%BF%E6%B1%9F%E6%B0%B4%E4%B8%8B%E5%BC%80%E9%AB%98%E9%93%81",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 12时37分]"
-        },
-        {
-          "title": "中国将在长江水下开高铁",
           "url": "https://www.douyin.com/hot/2448174",
           "source": "抖音",
           "ranks": [
@@ -430,8 +465,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时36分 ~ 18时39分]"
+          "appearance_count": 7,
+          "time_info": "[12时36分 ~ 19时46分]"
         },
         {
           "title": "“地铁擦血”女孩胡心瑶已到上海求诊：这条路会很难，但我会坚持走下去",
@@ -441,11 +476,23 @@
             15,
             18,
             16,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时36分 ~ 18时39分]"
+          "appearance_count": 7,
+          "time_info": "[12时36分 ~ 19时46分]"
+        },
+        {
+          "title": "中国将在长江水下开高铁",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%B0%86%E5%9C%A8%E9%95%BF%E6%B1%9F%E6%B0%B4%E4%B8%8B%E5%BC%80%E9%AB%98%E9%93%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 12时37分]"
         },
         {
           "title": "世界最大直径高铁盾构机“领航号”成功“上岸”",
@@ -564,7 +611,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时39分"
         },
@@ -575,7 +622,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时39分"
         },
@@ -621,8 +668,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时36分 ~ 18时39分]"
+          "appearance_count": 7,
+          "time_info": "[12时36分 ~ 19时46分]"
         },
         {
           "title": "欧洲央行管委维勒鲁瓦：欧洲央行已做好行动准备，但讨论欧洲央行可能加息的日期还为时过早。",
@@ -642,7 +689,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时39分"
         },
@@ -675,7 +722,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时39分"
         },
@@ -752,7 +799,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时39分"
         },
@@ -816,11 +863,12 @@
             8,
             9,
             13,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时24分 ~ 18时39分]"
+          "appearance_count": 18,
+          "time_info": "[00时24分 ~ 19时46分]"
         },
         {
           "title": "伊朗战争的账单，“AI牛市”来买？",
@@ -844,11 +892,12 @@
             18,
             21,
             22,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时24分 ~ 18时39分]"
+          "appearance_count": 18,
+          "time_info": "[00时24分 ~ 19时46分]"
         },
         {
           "title": "用 Ai 编程的你们真的不担心代码泄露吗？",
@@ -972,7 +1021,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时39分"
         },
@@ -1001,11 +1050,12 @@
             10,
             3,
             1,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时20分 ~ 18时39分]"
+          "appearance_count": 8,
+          "time_info": "[09时20分 ~ 19时46分]"
         },
         {
           "title": "王者荣耀大乔新皮肤",
@@ -1021,6 +1071,18 @@
           "time_info": "[12时36分 ~ 18时39分]"
         },
         {
+          "title": "王者荣耀",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时39分 ~ 19时46分]"
+        },
+        {
           "title": "王者荣耀大乔新皮肤",
           "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%A4%A7%E4%B9%94%E6%96%B0%E7%9A%AE%E8%82%A4&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -1030,17 +1092,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时36分 ~ 12时37分]"
-        },
-        {
-          "title": "王者荣耀",
-          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时39分"
         },
         {
           "title": "ClawBench：智谱、字节、小米共有4款模型跻身全球前十",
@@ -1117,6 +1168,45 @@
       ]
     },
     {
+      "keyword_group": "OPPO vivo",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "vivo发布会",
+          "url": "https://s.weibo.com/weibo?q=%23vivo%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
+        },
+        {
+          "title": "vivo X300 Ultra发布",
+          "url": "https://search.bilibili.com/all?keyword=vivo%20X300%20Ultra",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
+        },
+        {
+          "title": "vivo发布了一台相机",
+          "url": "https://search.bilibili.com/all?keyword=vivo%E5%8F%91%E5%B8%83%E4%BA%86%E4%B8%80%E5%8F%B0%E7%9B%B8%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
+        }
+      ]
+    },
+    {
       "keyword_group": "大模型 ChatGPT Kimi Sora OpenAI",
       "match_count": 3,
       "titles": [
@@ -1152,6 +1242,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源汽车 电动汽车 智能驾驶",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "市场监管总局：着力防治平台经济、光伏、锂电池、新能源汽车等重点行业和领域“内卷式”竞争",
+          "url": "https://www.cls.cn/detail/2328703",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
+        },
+        {
+          "title": "市场监管总局：着力防治平台经济、光伏、锂电池、新能源汽车等重点行业和领域“内卷式”竞争",
+          "url": "https://wallstreetcn.com/livenews/3078970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         }
       ]
     },
@@ -1207,8 +1325,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时36分 ~ 18时39分]"
+          "appearance_count": 7,
+          "time_info": "[12时36分 ~ 19时46分]"
         }
       ]
     },
@@ -1226,23 +1344,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源汽车 电动汽车 智能驾驶",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "市场监管总局：着力防治平台经济、光伏、锂电池、新能源汽车等重点行业和领域“内卷式”竞争",
-          "url": "https://wallstreetcn.com/livenews/3078970",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时25分"
         }
       ]
     },
