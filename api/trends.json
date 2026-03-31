@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T07:27:09.605404+08:00",
-  "total_titles_processed": 726,
+  "generated_at": "2026-03-31T09:21:14.134245+08:00",
+  "total_titles_processed": 886,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 35,
+      "match_count": 40,
       "titles": [
         {
           "title": "伊朗拒绝“停火协议”，美国筹划“地面进攻”，油价开盘突破115美元",
@@ -31,19 +31,20 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时01分 ~ 07时27分]"
+          "appearance_count": 16,
+          "time_info": "[00时01分 ~ 09时21分]"
         },
         {
           "title": "【早报】法案通过！伊朗：拟对霍尔木兹海峡征收通行费；美油近四年来首次站上100美元",
           "url": "https://www.cls.cn/detail/2329802",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时26分 ~ 07时27分]"
+          "appearance_count": 4,
+          "time_info": "[07时26分 ~ 09时21分]"
         },
         {
           "title": "WTI 5月原油期货收涨3.24美元，涨幅3.25%，报102.88美元/桶。 NYMEX 4月天然气期货收报2.8870美元/百万英热单位。 NYMEX 4月汽油期货收报3.3515美元/加仑，NYMEX 3月取暖油期货收报4.3643美元/加仑。",
@@ -63,7 +64,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         },
@@ -74,9 +75,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "人民币兑美元中间价报6.9194，上调29点；上一交易日中间价6.9223，上一交易日官方收盘价6.9130，上日夜盘报收6.9127。",
+          "url": "https://wallstreetcn.com/livenews/3079692",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         },
         {
           "title": "WTI原油突破106美元/桶，日内涨0.67%。",
@@ -85,7 +97,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         },
@@ -150,6 +162,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时25分 ~ 07时27分]"
+        },
+        {
+          "title": "特朗普欲让阿拉伯国家为美国打伊朗埋单 WTI原油结算价突破每桶100美元 | 环球市场",
+          "url": "https://www.cls.cn/detail/2329789",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时26分 ~ 09时21分]"
         },
         {
           "title": "WTI原油日内涨幅达5.0%，报104.64美元/桶。",
@@ -287,17 +311,6 @@
           "time_info": "[04时35分 ~ 05时33分]"
         },
         {
-          "title": "特朗普欲让阿拉伯国家为美国打伊朗埋单 WTI原油结算价突破每桶100美元 | 环球市场",
-          "url": "https://www.cls.cn/detail/2329789",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时26分 ~ 07时27分]"
-        },
-        {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨2.11%，暂报2441.68点。 MarketVectorTM数字资产100中盘指数涨2.33%，报2786.56点。 MarketVector数字资产100指数涨2.18%，报13671.07点。 目前，Solana涨3.63%，狗狗币涨2.76%，XRP涨2.25%。 比特币涨2.06%，暂报67699美元；以太坊涨4.17%，暂报2078美元。",
           "url": "https://wallstreetcn.com/livenews/3079502",
           "source": "华尔街见闻-快讯",
@@ -366,15 +379,37 @@
           "time_info": "01时44分"
         },
         {
+          "title": "标普500指数期货涨幅扩大至0.5%，美元指数回吐涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3079680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
           "title": "据英国金融时报：美国国防部长赫格塞思的经纪人曾在对伊朗发动袭击前寻求买入一只国防基金。摩根士丹利一位财富经理曾代表其就一项数百万美元的投资事宜与贝莱德接触。",
           "url": "https://flash.jin10.com/detail/20260331063800403800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：无法对具体的汇率水平发表评论。 不仅是石油期货市场，外汇市场也受到了投机行为的推动。 将随时在各方面做出回应，并时刻关注外汇波动对民众生活的影响。 日元兑欧元已略有回升，但在G7国家中，日本对中东地区的依赖程度最高。",
+          "url": "https://wallstreetcn.com/livenews/3079676",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         },
         {
           "title": "WTI原油日内大涨4.00%，现报105.58美元/桶。",
@@ -419,166 +454,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "外资买成芯片设计ETF第一大持有人，年内上市ETF首现",
-          "url": "https://www.cls.cn/detail/2329225",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 04时35分]"
         },
         {
-          "title": "鲍威尔表态安抚市场，美债反弹，美股高开低走，半导体指数跌超4%，美元五连涨",
-          "url": "https://wallstreetcn.com/articles/3768684",
-          "source": "华尔街见闻",
+          "title": "布伦特原油跌破107美元/桶，日内跌0.92%。",
+          "url": "https://flash.jin10.com/detail/20260331085919675800",
+          "source": "金十数据",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时33分 ~ 06时25分]"
-        },
-        {
-          "title": "鲍威尔表态提振美债反弹，但美股高开低走，半导体指数跌超4%，美元五连涨",
-          "url": "https://wallstreetcn.com/articles/3768684",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时26分 ~ 07时27分]"
-        },
-        {
-          "title": "美股费城半导体指数跌幅扩大至4.07%，相干公司/高意公司跌9.7%，美光跌8.2%，泰瑞达跌7.2%，Lumentum控股、Sandisk跌超6.5%，英特尔跌4.6%，格芯、Arm控股跌4.4%。 标普500指数跌0.15%，纳指跌0.5%。 白宫新闻秘书莱维特宣称，与伊朗的谈判在继续，而且进展顺利。美国国务卿卢比奥声称，在美国实现自己目标之后才会结束伊朗战争。",
-          "url": "https://wallstreetcn.com/livenews/3079527",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
-        },
-        {
-          "title": "半导体ETF收跌超3.1%，领跌美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3079569",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            15,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时35分 ~ 06时25分]"
-        },
-        {
-          "title": "半导体指数跌超4%，相干公司跌约10%，美光跌超8%",
-          "url": "https://wallstreetcn.com/livenews/3079527",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时45分 ~ 03时48分]"
-        },
-        {
-          "title": "中东冲突震动全球半导体供应链，氦气现货暴涨超 50%，为什么会这样？氦气涨价，会影响什么？",
-          "url": "https://www.zhihu.com/question/2021584407622940446",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时26分 ~ 07时27分]"
-        },
-        {
-          "title": "纳指科技股指数收跌约1.3%，半导体指数跌超4.2%，小盘股指跌超1.4%",
-          "url": "https://wallstreetcn.com/livenews/3079560",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时33分 ~ 06时25分]"
-        },
-        {
-          "title": "标普500指数收跌25.13点，跌幅0.39%，报6343.72点。 道琼斯工业平均指数收涨49.50点，涨幅0.11%，报45216.14点。 纳斯达克综合指数（纳指）收跌153.716点，跌幅0.73%，报20794.641点。 纳斯达克100指数收跌179.394点，跌幅0.78%，报22953.378点。 费城半导体指数收跌4.23%，报7142.334点。 费城证交所KBW银行指数收涨0.19%，报149.04点。 道琼斯KBW地区银行指数收涨0.33%，报123.52点。 纳斯达克生物科技指数收涨0.63%，报5584.44点。",
-          "url": "https://wallstreetcn.com/livenews/3079560",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时35分"
-        },
-        {
-          "title": "美股存储芯片指数收跌超6.9%，Rambus跌超11%，美光重挫约10%",
-          "url": "https://wallstreetcn.com/livenews/3079581",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时25分"
-        },
-        {
-          "title": "涨价周期开启，半导体产业迎量价齐升新阶段",
-          "url": "https://wallstreetcn.com/livenews/3079605",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时27分"
+          "time_info": "09时21分"
         },
         {
-          "title": "印度总理莫迪：周一与荷兰首相进行了通话，讨论了加强双边关系的途径，重点推进半导体和绿色氢能合作。",
-          "url": "https://flash.jin10.com/detail/20260330232608458800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "据港交所文件：中微半导体（ 深圳）股份有限公司向港交所提交上市申请书。",
-          "url": "https://wallstreetcn.com/livenews/3079471",
+          "title": "GasBuddy：美国汽油平均零售价格自2022年8月以来首次突破每加仑4美元大关。",
+          "url": "https://wallstreetcn.com/livenews/3079669",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            29
+            23
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "09时21分"
         }
       ]
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -605,8 +508,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时01分 ~ 07时27分]"
+          "appearance_count": 16,
+          "time_info": "[00时01分 ~ 09时21分]"
         },
         {
           "title": "复旦教授解析AI冲击职场真相",
@@ -619,6 +522,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时55分 ~ 07时27分]"
+        },
+        {
+          "title": "AI短剧 偷脸",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%20%E5%81%B7%E8%84%B8&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时20分 ~ 09时21分]"
         },
         {
           "title": "AI 会让年轻人的机会变多还是变少？",
@@ -680,6 +594,17 @@
           "time_info": "[00时01分 ~ 00时02分]"
         },
         {
+          "title": "两部门：推动人工智能、脑机接口等与医疗装备融合创新",
+          "url": "https://flash.jin10.com/detail/20260331090905354800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
           "title": "周一（3月30日），存储芯片与硬件供应链指数跌6.94%，报96.83点，小幅高开之后迅速转跌，日内绝大部分时间平缓地持续扩大跌幅。 成分股全线收跌，Rambus收跌11.14%，美光科技跌9.92%，西部数据跌8.60%，Sandisk跌7.04%，泰瑞达、拉姆研究、希捷科技、应用材料跌6.52%-4.17%。 北美科技软件股指数ETF涨0.95%，报77.62美元。 信息科技指数跌3.75%，报244.90点。 人工智能（AI）赢家指数跌3.93%，报259.19点。 AI软件先驱指数涨1.02%，报91.46点。",
           "url": "https://wallstreetcn.com/livenews/3079581",
           "source": "华尔街见闻-快讯",
@@ -697,15 +622,182 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "英伟达预期市盈率跌至AI热潮以来最低水平",
+          "url": "https://wallstreetcn.com/livenews/3079663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体 芯片 集成电路",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "鲍威尔表态提振美债反弹，但美股高开低走，半导体指数跌超4%，美元五连涨",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时26分 ~ 09时21分]"
+        },
+        {
+          "title": "外资买成芯片设计ETF第一大持有人，年内上市ETF首现",
+          "url": "https://www.cls.cn/detail/2329225",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 04时35分]"
+        },
+        {
+          "title": "鲍威尔表态安抚市场，美债反弹，美股高开低走，半导体指数跌超4%，美元五连涨",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时33分 ~ 06时25分]"
+        },
+        {
+          "title": "美股费城半导体指数跌幅扩大至4.07%，相干公司/高意公司跌9.7%，美光跌8.2%，泰瑞达跌7.2%，Lumentum控股、Sandisk跌超6.5%，英特尔跌4.6%，格芯、Arm控股跌4.4%。 标普500指数跌0.15%，纳指跌0.5%。 白宫新闻秘书莱维特宣称，与伊朗的谈判在继续，而且进展顺利。美国国务卿卢比奥声称，在美国实现自己目标之后才会结束伊朗战争。",
+          "url": "https://wallstreetcn.com/livenews/3079527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时44分"
+        },
+        {
+          "title": "半导体ETF收跌超3.1%，领跌美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3079569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时35分 ~ 06时25分]"
+        },
+        {
+          "title": "中东冲突震动全球半导体供应链，氦气现货暴涨超 50%，为什么会这样？氦气涨价，会影响什么？",
+          "url": "https://www.zhihu.com/question/2021584407622940446",
+          "source": "知乎",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时26分 ~ 09时21分]"
+        },
+        {
+          "title": "半导体指数跌超4%，相干公司跌约10%，美光跌超8%",
+          "url": "https://wallstreetcn.com/livenews/3079527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时45分 ~ 03时48分]"
+        },
+        {
+          "title": "纳指科技股指数收跌约1.3%，半导体指数跌超4.2%，小盘股指跌超1.4%",
+          "url": "https://wallstreetcn.com/livenews/3079560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时33分 ~ 06时25分]"
+        },
+        {
+          "title": "标普500指数收跌25.13点，跌幅0.39%，报6343.72点。 道琼斯工业平均指数收涨49.50点，涨幅0.11%，报45216.14点。 纳斯达克综合指数（纳指）收跌153.716点，跌幅0.73%，报20794.641点。 纳斯达克100指数收跌179.394点，跌幅0.78%，报22953.378点。 费城半导体指数收跌4.23%，报7142.334点。 费城证交所KBW银行指数收涨0.19%，报149.04点。 道琼斯KBW地区银行指数收涨0.33%，报123.52点。 纳斯达克生物科技指数收涨0.63%，报5584.44点。",
+          "url": "https://wallstreetcn.com/livenews/3079560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时35分"
+        },
+        {
+          "title": "美股存储芯片指数收跌超6.9%，Rambus跌超11%，美光重挫约10%",
+          "url": "https://wallstreetcn.com/livenews/3079581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时25分"
+        },
+        {
+          "title": "涨价周期开启，半导体产业迎量价齐升新阶段",
+          "url": "https://wallstreetcn.com/livenews/3079605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
+          "title": "印度总理莫迪：周一与荷兰首相进行了通话，讨论了加强双边关系的途径，重点推进半导体和绿色氢能合作。",
+          "url": "https://flash.jin10.com/detail/20260330232608458800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        },
+        {
+          "title": "据港交所文件：中微半导体（ 深圳）股份有限公司向港交所提交上市申请书。",
+          "url": "https://wallstreetcn.com/livenews/3079471",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
         }
       ]
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "鸽派带头“转鹰”，美联储高官暗示“降息或已结束”，但“加息概率不大”",
@@ -737,7 +829,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         },
@@ -765,6 +857,17 @@
           "time_info": "[05时33分 ~ 06时25分]"
         },
         {
+          "title": "从加息回归降息！鲍威尔一席话加速市场利率预期180度逆转……",
+          "url": "https://www.cls.cn/detail/2329880",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时20分 ~ 09时21分]"
+        },
+        {
           "title": "欧洲央行管委斯图纳拉斯：如果中东地区的冲突持续下去，那么欧洲央行的“三月基准情景”将面临风险。",
           "url": "https://flash.jin10.com/detail/20260331003119416800",
           "source": "金十数据",
@@ -785,6 +888,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
+        },
+        {
+          "title": "韩国央行行长提名人申铉松：韩元流动性良好，影响韩元的外部因素已显著改善，现在无需对韩元汇率过于担心，关键在于汇率能够吸收多少风险。",
+          "url": "https://wallstreetcn.com/livenews/3079672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
+          "title": "澳洲联储会议纪要：油价上涨增加了通胀在长时间内保持在目标之上的风险。 如果油价维持在100美元左右，将使6月季度的年度CPI通胀升至5%左右。 加息可以降低石油冲击转化为通胀预期的风险。 劳动力市场的下行风险在近几个月已减弱，可能已进一步收紧。 如果国内需求出现实质性收缩，委员会仍能做出有效反应。 澳元对冲突的反应将成为对经济影响的考量因素。",
+          "url": "https://wallstreetcn.com/livenews/3079671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
+          "title": "韩国央行行长提名人申铉松：中东危机带来的通胀压力有限。",
+          "url": "https://flash.jin10.com/detail/20260331085223047800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         }
       ]
     },
@@ -800,11 +936,12 @@
             9,
             8,
             13,
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时55分 ~ 07时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时55分 ~ 09时21分]"
         },
         {
           "title": "王者荣耀世界抢注昵称",
@@ -817,11 +954,12 @@
             22,
             15,
             17,
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时01分 ~ 06时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时01分 ~ 09时21分]"
         },
         {
           "title": "王者荣耀",
@@ -842,11 +980,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             29,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时25分 ~ 07时27分]"
+          "appearance_count": 5,
+          "time_info": "[06时25分 ~ 09时21分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.36%，报6569.63点。 热门中概股里，小马智行初步收跌7%，世纪互联跌5.8%，阿特斯太阳能、晶科能源跌超3%，小米跌2.6%，腾讯跌1.7%，拼多多跌1.3%，阿里巴巴跌0.5%，文远知行涨2%，蔚来涨3.8%，比亚迪涨7%。 ETF中，中国科技指数ETF（CQQQ）收跌0.75%，中概互联网指数ETF（KWEB）收跌0.47%。 德银嘉实沪深300指数ETF（ASHR）收涨0.66%，XtrackersHarvest中证50（ASHS）收涨1.13%。",
@@ -874,8 +1013,72 @@
       ]
     },
     {
+      "keyword_group": "基础设施 基建 地铁 高铁",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "中国将在长江水下开高铁",
+          "url": "https://www.douyin.com/hot/2448174",
+          "source": "抖音",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时01分 ~ 07时27分]"
+        },
+        {
+          "title": "“地铁擦血”女孩胡心瑶已到上海求诊：这条路会很难，但我会坚持走下去",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32858065",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时01分 ~ 07时27分]"
+        },
+        {
+          "title": "高铁晚点错过单依纯演唱会退票被拒",
+          "url": "https://www.toutiao.com/trending/7622685249013907510/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时20分 ~ 09时21分]"
+        },
+        {
+          "title": "上海地铁延误",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E5%BB%B6%E8%AF%AF&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时20分 ~ 09时21分]"
+        },
+        {
+          "title": "地铁吐血女孩频繁收到转账 账户被封",
+          "url": "https://www.baidu.com/s?wd=%E5%9C%B0%E9%93%81%E5%90%90%E8%A1%80%E5%A5%B3%E5%AD%A9%E9%A2%91%E7%B9%81%E6%94%B6%E5%88%B0%E8%BD%AC%E8%B4%A6+%E8%B4%A6%E6%88%B7%E8%A2%AB%E5%B0%81",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时20分 ~ 09时21分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "新能源汽车 电动汽车 智能驾驶",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "市场监管总局：着力防治平台经济、新能源汽车等重点行业领域内卷式竞争",
@@ -887,8 +1090,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时01分 ~ 07时27分]"
+          "appearance_count": 16,
+          "time_info": "[00时01分 ~ 09时21分]"
         },
         {
           "title": "通用汽车(GM.N)：底特律电动汽车工厂将停产至4月13日。",
@@ -914,6 +1117,57 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时35分 ~ 06时25分]"
+        },
+        {
+          "title": "韩国总统李在明： 需要采取更积极的措施来应对能源危机。 呼吁公众参与节能减排。 向可再生能源的转型比以往任何时候都更加紧迫。 在可再生能源丰富的地区，应加大对电动汽车的支持力度。",
+          "url": "https://wallstreetcn.com/livenews/3079689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "OPPO vivo",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "vivo高管回应新机发售秒被抢空",
+          "url": "https://www.toutiao.com/trending/7622573361302716470/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时20分 ~ 09时21分]"
+        },
+        {
+          "title": "3月30日，vivo发布vivo X300系列全新旗舰手机——vivo X300 Ultra、vivo X300s，其中vivo X300 Ultra起售价为6999元，vivo X300s起售价为4999元。",
+          "url": "https://wallstreetcn.com/livenews/3079485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 00时55分]"
+        },
+        {
+          "title": "vivo影像是懂审美的",
+          "url": "https://s.weibo.com/weibo?q=%23vivo%E5%BD%B1%E5%83%8F%E6%98%AF%E6%87%82%E5%AE%A1%E7%BE%8E%E7%9A%84%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 00时02分]"
         }
       ]
     },
@@ -998,62 +1252,30 @@
       ]
     },
     {
-      "keyword_group": "基础设施 基建 地铁 高铁",
+      "keyword_group": "苹果 iPhone",
       "match_count": 2,
       "titles": [
         {
-          "title": "中国将在长江水下开高铁",
-          "url": "https://www.douyin.com/hot/2448174",
-          "source": "抖音",
+          "title": "国行版苹果AI",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%A1%8C%E7%89%88%E8%8B%B9%E6%9E%9CAI",
+          "source": "bilibili 热搜",
           "ranks": [
-            8,
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时01分 ~ 07时27分]"
-        },
-        {
-          "title": "“地铁擦血”女孩胡心瑶已到上海求诊：这条路会很难，但我会坚持走下去",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32858065",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时01分 ~ 07时27分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "OPPO vivo",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "3月30日，vivo发布vivo X300系列全新旗舰手机——vivo X300 Ultra、vivo X300s，其中vivo X300 Ultra起售价为6999元，vivo X300s起售价为4999元。",
-          "url": "https://wallstreetcn.com/livenews/3079485",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            29
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时02分 ~ 00时55分]"
+          "time_info": "[09时20分 ~ 09时21分]"
         },
         {
-          "title": "vivo影像是懂审美的",
-          "url": "https://s.weibo.com/weibo?q=%23vivo%E5%BD%B1%E5%83%8F%E6%98%AF%E6%87%82%E5%AE%A1%E7%BE%8E%E7%9A%84%23&t=31&band_rank=16&Refer=top",
+          "title": "国行版苹果AI",
+          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%A1%8C%E7%89%88%E8%8B%B9%E6%9E%9CAI&t=31&band_rank=13&Refer=top",
           "source": "微博",
           "ranks": [
-            16
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
+          "time_info": "[09时20分 ~ 09时21分]"
         }
       ]
     },
@@ -1089,8 +1311,19 @@
     },
     {
       "keyword_group": "考研 考公 国考",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "美国考虑削减医疗支出，补贴伊朗战争开销",
+          "url": "https://news.ifeng.com/c/8rw4Kl0DGBM",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时20分 ~ 09时21分]"
+        },
         {
           "title": "韩国考虑35年来首次实施公众出行限行措施",
           "url": "https://wallstreetcn.com/livenews/3079551",
