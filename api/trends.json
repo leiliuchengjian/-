@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T18:44:30.372421+08:00",
-  "total_titles_processed": 1579,
+  "generated_at": "2026-03-31T20:13:53.394239+08:00",
+  "total_titles_processed": 1700,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 50,
+      "match_count": 51,
       "titles": [
         {
           "title": "伊朗拒绝“停火协议”，美国筹划“地面进攻”，油价开盘突破115美元",
@@ -462,13 +462,24 @@
           "time_info": "07时27分"
         },
         {
+          "title": "美元指数DXY短线走低十余点，现报100.4。",
+          "url": "https://flash.jin10.com/detail/20260331192634316800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
+        },
+        {
           "title": "花旗：将美光科技(MU.O)目标价从510美元下调至425美元。",
           "url": "https://flash.jin10.com/detail/20260331182456129800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         },
@@ -490,7 +501,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         },
@@ -597,7 +608,7 @@
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 46,
+      "match_count": 50,
       "titles": [
         {
           "title": "鸽派带头“转鹰”，美联储高官暗示“降息或已结束”，但“加息概率不大”",
@@ -634,8 +645,31 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时11分 ~ 18时44分]"
+          "appearance_count": 5,
+          "time_info": "[14时11分 ~ 20时13分]"
+        },
+        {
+          "title": "央行：建议发挥增量政策和存量政策集成效应 加强货币政策调控",
+          "url": "https://www.cls.cn/detail/2330644",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 20时13分]"
+        },
+        {
+          "title": "欧洲央行拉德夫：欧洲央行并未预先承诺具体的未来利率路径。",
+          "url": "https://flash.jin10.com/detail/20260331194216400800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
         },
         {
           "title": "欧洲央行管委Muller：未来几季利率可能上升。 若能源价格长期居高不下，欧洲央行就必须采取行动。",
@@ -647,6 +681,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
+        },
+        {
+          "title": "欧洲央行拉德夫：过去的通胀冲击已留下持久印记。通胀风险升高且呈不对称态势。",
+          "url": "https://flash.jin10.com/detail/20260331194058929800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
         },
         {
           "title": "印度央行延期实施自营交易融资新规 释放维稳信号",
@@ -704,15 +749,15 @@
           "time_info": "12时32分"
         },
         {
-          "title": "央行：建议发挥增量政策和存量政策集成效应 加强货币政策调控",
-          "url": "https://www.cls.cn/detail/2330644",
-          "source": "财联社热门",
+          "title": "欧洲央行拉德夫：外部冲击正传导至通胀预期。",
+          "url": "https://flash.jin10.com/detail/20260331193926542800",
+          "source": "金十数据",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时44分"
+          "time_info": "20时13分"
         },
         {
           "title": "贝莱德首席投资官Rick Rieder表示，美联储应降息，我认为他们也会这么做。",
@@ -766,7 +811,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         },
@@ -777,7 +822,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         },
@@ -799,7 +844,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         },
@@ -810,9 +855,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
+        },
+        {
+          "title": "欧洲央行官员Radev：外部冲击正传导至价格预期。",
+          "url": "https://wallstreetcn.com/livenews/3080141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
         },
         {
           "title": "中东战争成“降息梦”绝杀？美联储“三把手”：当前政策立场恰到好处！",
@@ -832,7 +888,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         },
@@ -843,7 +899,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         },
@@ -975,7 +1031,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         },
@@ -1041,7 +1097,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         },
@@ -1085,7 +1141,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         },
@@ -1115,7 +1171,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -1148,6 +1204,22 @@
           "time_info": "[00时01分 ~ 14时11分]"
         },
         {
+          "title": "凌晨3点上班,AI卷疯打工人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352553&amp;topic_name=%E5%87%8C%E6%99%A83%E7%82%B9%E4%B8%8A%E7%8F%AD%2CAI%E5%8D%B7%E7%96%AF%E6%89%93%E5%B7%A5%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3,
+            6,
+            9,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时31分 ~ 20时13分]"
+        },
+        {
           "title": "复旦教授解析AI冲击职场真相",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E8%A7%A3%E6%9E%90AI%E5%86%B2%E5%87%BB%E8%81%8C%E5%9C%BA%E7%9C%9F%E7%9B%B8",
           "source": "bilibili 热搜",
@@ -1160,21 +1232,6 @@
           "time_info": "[00时55分 ~ 07时27分]"
         },
         {
-          "title": "凌晨3点上班,AI卷疯打工人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352553&amp;topic_name=%E5%87%8C%E6%99%A83%E7%82%B9%E4%B8%8A%E7%8F%AD%2CAI%E5%8D%B7%E7%96%AF%E6%89%93%E5%B7%A5%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            3,
-            6,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时31分 ~ 18时44分]"
-        },
-        {
           "title": "功勋翻译下岗,AI包揽游戏翻译",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352562&amp;topic_name=%E5%8A%9F%E5%8B%8B%E7%BF%BB%E8%AF%91%E4%B8%8B%E5%B2%97%2CAI%E5%8C%85%E6%8F%BD%E6%B8%B8%E6%88%8F%E7%BF%BB%E8%AF%91",
           "source": "贴吧",
@@ -1183,11 +1240,12 @@
             6,
             9,
             14,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时31分 ~ 18时44分]"
+          "appearance_count": 7,
+          "time_info": "[12时31分 ~ 20时13分]"
         },
         {
           "title": "AI短剧 偷脸",
@@ -1284,6 +1342,17 @@
           "time_info": "[00时01分 ~ 00时02分]"
         },
         {
+          "title": "腾讯副总裁李强：“百虾大战”是必经阶段，国产AI优势是极致性价比",
+          "url": "https://wallstreetcn.com/livenews/3080149",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
+        },
+        {
           "title": "两部门：推动人工智能、脑机接口等与医疗装备融合创新",
           "url": "https://flash.jin10.com/detail/20260331090905354800",
           "source": "金十数据",
@@ -1374,6 +1443,199 @@
       ]
     },
     {
+      "keyword_group": "华为 小米 荣耀",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "张雪机车夺冠，小米 su7 仰望 u9x 跑纽北第一，领克车赛夺冠含金量一样吗？对我国是汽车文化有什么意义？",
+          "url": "https://www.zhihu.com/question/2021703750130083017",
+          "source": "知乎",
+          "ranks": [
+            9,
+            8,
+            13,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时55分 ~ 09时21分]"
+        },
+        {
+          "title": "王者荣耀世界抢注昵称",
+          "url": "https://www.douyin.com/hot/2449172",
+          "source": "抖音",
+          "ranks": [
+            26,
+            24,
+            20,
+            22,
+            15,
+            17,
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时01分 ~ 16时02分]"
+        },
+        {
+          "title": "王者荣耀世界稷下星之队",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E4%B8%96%E7%95%8C%E7%A8%B7%E4%B8%8B%E6%98%9F%E4%B9%8B%E9%98%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            23,
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时25分 ~ 12时32分]"
+        },
+        {
+          "title": "南向资金今日净买入7.03亿元。港股通（沪）方面，小米集团-W、长飞光纤光缆分别获净买入6.66亿港元、5.03亿港元；盈富基金净卖出额居首，金额为20.51亿港元；港股通（深）方面，腾讯控股、小米集团-W分别获净买入5.32亿港元、2.45亿港元；盈富基金净卖出额居首，金额为9.29亿港元。",
+          "url": "https://flash.jin10.com/detail/20260331173120878800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时54分"
+        },
+        {
+          "title": "华为2025年营收8809亿，研发投入1923亿",
+          "url": "https://wallstreetcn.com/livenews/3080153",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
+        },
+        {
+          "title": "华为Mate 90系列终于要来了",
+          "url": "https://www.toutiao.com/trending/7622150879864537094/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            5,
+            16,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时31分 ~ 16时02分]"
+        },
+        {
+          "title": "王者荣耀",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时45分 ~ 04时35分]"
+        },
+        {
+          "title": "张雪谈小米汽车“挖孔机盖”事件",
+          "url": "https://www.toutiao.com/trending/7623279571828244522/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时54分 ~ 18时44分]"
+        },
+        {
+          "title": "王者荣耀返场",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E8%BF%94%E5%9C%BA&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 20时13分]"
+        },
+        {
+          "title": "张雪机车夺冠，小米 su7 仰望 u9x 跑纽北第一，领克车赛夺冠含金量一样吗？对我国是机车文化有什么意义？",
+          "url": "https://www.zhihu.com/question/2021703750130083017",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 12时32分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.36%，报6569.63点。 热门中概股里，小马智行初步收跌7%，世纪互联跌5.8%，阿特斯太阳能、晶科能源跌超3%，小米跌2.6%，腾讯跌1.7%，拼多多跌1.3%，阿里巴巴跌0.5%，文远知行涨2%，蔚来涨3.8%，比亚迪涨7%。 ETF中，中国科技指数ETF（CQQQ）收跌0.75%，中概互联网指数ETF（KWEB）收跌0.47%。 德银嘉实沪深300指数ETF（ASHR）收涨0.66%，XtrackersHarvest中证50（ASHS）收涨1.13%。",
+          "url": "https://wallstreetcn.com/livenews/3079562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 05时33分]"
+        },
+        {
+          "title": "王者荣耀大乔新皮肤",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%A4%A7%E4%B9%94%E6%96%B0%E7%9A%AE%E8%82%A4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 04时35分]"
+        },
+        {
+          "title": "小米YU7GT新配色现身纽北",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3YU7GT%E6%96%B0%E9%85%8D%E8%89%B2%E7%8E%B0%E8%BA%AB%E7%BA%BD%E5%8C%97%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时54分"
+        },
+        {
+          "title": "王者荣耀世界英雄PV",
+          "url": "https://www.douyin.com/hot/2450059",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
+        },
+        {
+          "title": "五菱华为乾崑双向奔赴",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%94%E8%8F%B1%E5%8D%8E%E4%B8%BA%E4%B9%BE%E5%B4%91%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时54分"
+        }
+      ]
+    },
+    {
       "keyword_group": "半导体 芯片 集成电路",
       "match_count": 15,
       "titles": [
@@ -1388,8 +1650,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时26分 ~ 18时44分]"
+          "appearance_count": 11,
+          "time_info": "[07时26分 ~ 20时13分]"
         },
         {
           "title": "外资买成芯片设计ETF第一大持有人，年内上市ETF首现",
@@ -1554,178 +1816,8 @@
       ]
     },
     {
-      "keyword_group": "华为 小米 荣耀",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "张雪机车夺冠，小米 su7 仰望 u9x 跑纽北第一，领克车赛夺冠含金量一样吗？对我国是汽车文化有什么意义？",
-          "url": "https://www.zhihu.com/question/2021703750130083017",
-          "source": "知乎",
-          "ranks": [
-            9,
-            8,
-            13,
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时55分 ~ 09时21分]"
-        },
-        {
-          "title": "王者荣耀世界抢注昵称",
-          "url": "https://www.douyin.com/hot/2449172",
-          "source": "抖音",
-          "ranks": [
-            26,
-            24,
-            20,
-            22,
-            15,
-            17,
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时01分 ~ 16时02分]"
-        },
-        {
-          "title": "王者荣耀世界稷下星之队",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E4%B8%96%E7%95%8C%E7%A8%B7%E4%B8%8B%E6%98%9F%E4%B9%8B%E9%98%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29,
-            23,
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时25分 ~ 12时32分]"
-        },
-        {
-          "title": "南向资金今日净买入7.03亿元。港股通（沪）方面，小米集团-W、长飞光纤光缆分别获净买入6.66亿港元、5.03亿港元；盈富基金净卖出额居首，金额为20.51亿港元；港股通（深）方面，腾讯控股、小米集团-W分别获净买入5.32亿港元、2.45亿港元；盈富基金净卖出额居首，金额为9.29亿港元。",
-          "url": "https://flash.jin10.com/detail/20260331173120878800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时54分"
-        },
-        {
-          "title": "华为Mate 90系列终于要来了",
-          "url": "https://www.toutiao.com/trending/7622150879864537094/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            5,
-            16,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时31分 ~ 16时02分]"
-        },
-        {
-          "title": "王者荣耀",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25,
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时45分 ~ 04时35分]"
-        },
-        {
-          "title": "张雪谈小米汽车“挖孔机盖”事件",
-          "url": "https://www.toutiao.com/trending/7623279571828244522/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时54分 ~ 18时44分]"
-        },
-        {
-          "title": "张雪机车夺冠，小米 su7 仰望 u9x 跑纽北第一，领克车赛夺冠含金量一样吗？对我国是机车文化有什么意义？",
-          "url": "https://www.zhihu.com/question/2021703750130083017",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 12时32分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.36%，报6569.63点。 热门中概股里，小马智行初步收跌7%，世纪互联跌5.8%，阿特斯太阳能、晶科能源跌超3%，小米跌2.6%，腾讯跌1.7%，拼多多跌1.3%，阿里巴巴跌0.5%，文远知行涨2%，蔚来涨3.8%，比亚迪涨7%。 ETF中，中国科技指数ETF（CQQQ）收跌0.75%，中概互联网指数ETF（KWEB）收跌0.47%。 德银嘉实沪深300指数ETF（ASHR）收涨0.66%，XtrackersHarvest中证50（ASHS）收涨1.13%。",
-          "url": "https://wallstreetcn.com/livenews/3079562",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时35分 ~ 05时33分]"
-        },
-        {
-          "title": "王者荣耀大乔新皮肤",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%A4%A7%E4%B9%94%E6%96%B0%E7%9A%AE%E8%82%A4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时34分 ~ 04时35分]"
-        },
-        {
-          "title": "王者荣耀返场",
-          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E8%BF%94%E5%9C%BA&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时44分"
-        },
-        {
-          "title": "小米YU7GT新配色现身纽北",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3YU7GT%E6%96%B0%E9%85%8D%E8%89%B2%E7%8E%B0%E8%BA%AB%E7%BA%BD%E5%8C%97%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时54分"
-        },
-        {
-          "title": "五菱华为乾崑双向奔赴",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%94%E8%8F%B1%E5%8D%8E%E4%B8%BA%E4%B9%BE%E5%B4%91%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时54分"
-        }
-      ]
-    },
-    {
       "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "中国将在长江水下开高铁",
@@ -1784,8 +1876,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时54分 ~ 18时44分]"
+          "appearance_count": 3,
+          "time_info": "[17时54分 ~ 20时13分]"
         },
         {
           "title": "高铁晚点错过单依纯演唱会退票被拒",
@@ -1822,6 +1914,28 @@
           "time_info": "[09时20分 ~ 09时21分]"
         },
         {
+          "title": "欧洲理事会主席科斯塔：今天与伊朗总统通话时，我呼吁局势降级和保持克制，保护平民及其基础设施，并要求各方充分尊重国际法。",
+          "url": "https://flash.jin10.com/detail/20260331193200976800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
+        },
+        {
+          "title": "卡塔尔敦促中东冲突各方不要攻击能源和核基础设施",
+          "url": "https://wallstreetcn.com/livenews/3080138",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
+        },
+        {
           "title": "长江底下修高铁背后有哪些硬核技术",
           "url": "https://www.toutiao.com/trending/7623299587985378825/",
           "source": "今日头条",
@@ -1839,7 +1953,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         },
@@ -1850,7 +1964,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         }
@@ -1866,11 +1980,12 @@
           "source": "抖音",
           "ranks": [
             1,
-            2
+            2,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时31分 ~ 18时44分]"
+          "appearance_count": 7,
+          "time_info": "[12时31分 ~ 20时13分]"
         },
         {
           "title": "国行版苹果AI",
@@ -1904,7 +2019,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         },
@@ -2004,7 +2119,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         }
@@ -2092,11 +2207,12 @@
           "source": "贴吧",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时54分 ~ 18时44分]"
+          "appearance_count": 3,
+          "time_info": "[17时54分 ~ 20时13分]"
         },
         {
           "title": "3月30日，vivo发布vivo X300系列全新旗舰手机——vivo X300 Ultra、vivo X300s，其中vivo X300 Ultra起售价为6999元，vivo X300s起售价为4999元。",
@@ -2145,11 +2261,12 @@
           "source": "微博",
           "ranks": [
             13,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时54分 ~ 18时44分]"
+          "appearance_count": 3,
+          "time_info": "[17时54分 ~ 20时13分]"
         },
         {
           "title": "美联储威廉姆斯：低就业增速可能加剧经济悲观情绪。",
@@ -2216,6 +2333,47 @@
       ]
     },
     {
+      "keyword_group": "英伟达 台积电 AMD 高通",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "英伟达向MARVELL投资20亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3080156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
+        },
+        {
+          "title": "美国纽约联储主席（FOMC永久票委，号称美联储三把手）威廉姆斯：美国经济面临实质性风险和高度不确定性。 （伊朗）战争可能会在未来好几个月推高通胀。 战争还可能带来供应冲击，破坏经济。 长期通胀预期与2%目标保持一致。 现在看到能源领域发生供应链紊乱。 诸多指标针对就业市场释放喜忧参半的信号。",
+          "url": "https://wallstreetcn.com/livenews/3079563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时35分 ~ 06时25分]"
+        },
+        {
+          "title": "美联储威廉姆斯：战争可能既推高通胀，又抑制经济增长。",
+          "url": "https://flash.jin10.com/detail/20260331040059109800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时35分"
+        }
+      ]
+    },
+    {
       "keyword_group": "创业板",
       "match_count": 3,
       "titles": [
@@ -2267,8 +2425,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时20分 ~ 18时44分]"
+          "appearance_count": 9,
+          "time_info": "[09时20分 ~ 20时13分]"
         },
         {
           "title": "如何看待兰州大学通信工程考研复试 401 高分被刷，318 分被录取？",
@@ -2280,8 +2438,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时02分 ~ 18时44分]"
+          "appearance_count": 4,
+          "time_info": "[16时02分 ~ 20时13分]"
         },
         {
           "title": "韩国考虑35年来首次实施公众出行限行措施",
@@ -2298,39 +2456,22 @@
       ]
     },
     {
-      "keyword_group": "英伟达 台积电 AMD 高通",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美国纽约联储主席（FOMC永久票委，号称美联储三把手）威廉姆斯：美国经济面临实质性风险和高度不确定性。 （伊朗）战争可能会在未来好几个月推高通胀。 战争还可能带来供应冲击，破坏经济。 长期通胀预期与2%目标保持一致。 现在看到能源领域发生供应链紊乱。 诸多指标针对就业市场释放喜忧参半的信号。",
-          "url": "https://wallstreetcn.com/livenews/3079563",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时35分 ~ 06时25分]"
-        },
-        {
-          "title": "美联储威廉姆斯：战争可能既推高通胀，又抑制经济增长。",
-          "url": "https://flash.jin10.com/detail/20260331040059109800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时35分"
-        }
-      ]
-    },
-    {
       "keyword_group": "大学生 毕业生",
       "match_count": 2,
       "titles": [
+        {
+          "title": "交大学生推出校内恋爱匹配平台，65 道题筛选对象，算法真的靠谱吗？「系统派单」和「父母严选」哪个更好？",
+          "url": "https://www.zhihu.com/question/2017997183467672489",
+          "source": "知乎",
+          "ranks": [
+            19,
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时02分 ~ 20时13分]"
+        },
         {
           "title": "拯救“脆皮大学生”的三所高校火了",
           "url": "https://www.baidu.com/s?wd=%E6%8B%AF%E6%95%91%E2%80%9C%E8%84%86%E7%9A%AE%E5%A4%A7%E5%AD%A6%E7%94%9F%E2%80%9D%E7%9A%84%E4%B8%89%E6%89%80%E9%AB%98%E6%A0%A1%E7%81%AB%E4%BA%86",
@@ -2342,18 +2483,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时31分 ~ 14时11分]"
-        },
-        {
-          "title": "交大学生推出校内恋爱匹配平台，65 道题筛选对象，算法真的靠谱吗？「系统派单」和「父母严选」哪个更好？",
-          "url": "https://www.zhihu.com/question/2017997183467672489",
-          "source": "知乎",
-          "ranks": [
-            19,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时02分 ~ 18时44分]"
         }
       ]
     }
