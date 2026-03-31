@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-01T04:33:47.613338+08:00",
-  "total_titles_processed": 523,
+  "generated_at": "2026-04-01T05:29:14.182936+08:00",
+  "total_titles_processed": 570,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
+        {
+          "title": "高盛：若中东冲突升级并加剧西方财政担忧，黄金将冲击6100美元！",
+          "url": "https://wallstreetcn.com/articles/3768856",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时47分 ~ 05时29分]"
+        },
         {
           "title": "WTI 5月原油期货收报101.38美元/桶。 NYMEX 4月天然气期货收报2.8840美元/百万英热单位。 NYMEX 4月汽油期货收报3.3123美元/加仑，NYMEX 3月取暖油期货收报4.1634美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3080332",
@@ -39,18 +51,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
-        },
-        {
-          "title": "高盛：若中东冲突升级并加剧西方财政担忧，黄金将冲击6100美元！",
-          "url": "https://wallstreetcn.com/articles/3768856",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时47分 ~ 04时33分]"
         },
         {
           "title": "上期所原油期货2605合约夜盘收跌7.39%，报693.90元人民币/桶。 沪金夜盘收涨1.97%，沪银收涨5.18%。",
@@ -167,9 +167,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
+        },
+        {
+          "title": "周二（3月31日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.8892元，较周一纽约尾盘271点，日内整体交投于6.9216-6.8866元区间。",
+          "url": "https://wallstreetcn.com/livenews/3080380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
         },
         {
           "title": "瑞银CEO：在当前环境下，我看不出美国和美元有什么替代品。",
@@ -200,9 +211,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
+        },
+        {
+          "title": "纽约金5分钟内上涨6美元/盎司，报4705.2美元/盎司。 据伊朗半官方的迈赫尔通讯社报道，在伊斯法罕的伊朗主要钢铁生产商穆巴拉克钢铁周二遭到袭击。 该通讯社还报道称，胡齐斯坦钢铁厂也在美国和以色列的袭击中受到打击。",
+          "url": "https://wallstreetcn.com/livenews/3080371",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
         },
         {
           "title": "澳元兑美元AUD/USD站上0.69，日内涨0.70%。",
@@ -211,7 +233,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
         },
@@ -295,8 +317,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 04时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 05时29分]"
         },
         {
           "title": "欧洲央行管委Rehn：加息（预期）是没有保障的。",
@@ -417,7 +439,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "凌晨3点上班,AI卷疯打工人",
@@ -427,8 +449,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 04时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 05时29分]"
         },
         {
           "title": "功勋翻译下岗,AI包揽游戏翻译",
@@ -438,19 +460,20 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 04时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 05时29分]"
         },
         {
           "title": "OpenAI完成1220亿美元融资，估值达8520亿美元",
           "url": "https://flash.jin10.com/detail/20260401041908272800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时33分 ~ 05时29分]"
         },
         {
           "title": "如何看待前端排版库 Pretext，能否实现 AI 自动排版?",
@@ -461,30 +484,32 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时47分 ~ 04时33分]"
+          "appearance_count": 4,
+          "time_info": "[03时47分 ~ 05时29分]"
         },
         {
           "title": "据Axios：OpenAI在最近的一次私募融资中向个人投资者出售了约30亿美元的股份。",
           "url": "https://flash.jin10.com/detail/20260401041102848800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时33分 ~ 05时29分]"
         },
         {
           "title": "市场消息：OpenAI完成1220亿美元融资，估值达8520亿美元。",
           "url": "https://flash.jin10.com/detail/20260401041014408800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时33分 ~ 05时29分]"
         },
         {
           "title": "OpenAI完成1220亿美元融资，估值8520亿美元。",
@@ -493,136 +518,26 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "鲍威尔表态提振美债反弹，但美股高开低走，半导体指数跌超4%，美元五连涨",
-          "url": "https://wallstreetcn.com/articles/3768684",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 04时33分]"
-        },
-        {
-          "title": "半导体ETF收涨超5.7%，在3月份收官日领跑美股行业ETF，一季度能源业ETF涨37.9%",
-          "url": "https://wallstreetcn.com/livenews/3080358",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "04时33分"
         },
         {
-          "title": "3月份，标普累跌约5.1%、能源板块涨10%，道指跌约5.5%，纳指跌4.8%，半导体指数跌6.5%，银行指数跌3.1%，科技股七巨头指数跌7.9%。 一季度，标普累跌4.6%，道指累跌3.7%，纳指累跌7.2%。 周二当天，标普500指数初步收 %，电信板块涨4.3%，科技板块涨4.1%，可选消费板块涨3.2%，能源板块跌1.2%。 纳斯达克100指数初步收 %，成分股中，迈威尔科技/美满科技涨12.8%，Arm控股涨10.5%，MPWR涨9.3%，希捷科技涨8%，西部数据涨7.5%，T-Mobile跌1.8%，特许通讯跌2.3%，核电股CEG跌6.5%。",
-          "url": "https://wallstreetcn.com/livenews/3080350",
+          "title": "OpenAI按8520亿美元估值完成本轮1220亿美元规模的融资",
+          "url": "https://wallstreetcn.com/livenews/3080357",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时33分"
-        },
-        {
-          "title": "纽约银日内涨幅达7.0%，报75.52美元/盎司。 临近美股收盘，纳斯达克100指数涨幅扩大至3.5%，标普500指数涨3%，道指涨1152点、涨幅2.55%，纳指涨超3.9%，生物科技指数涨4.65%，半导体指数涨6.1%，银行指数涨3.6%，罗素2000指数涨3.3%。",
-          "url": "https://wallstreetcn.com/livenews/3080348",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时33分"
-        },
-        {
-          "title": "道指狂飙超千点，纳指涨超3.3%，半导体指数涨5%",
-          "url": "https://wallstreetcn.com/livenews/3080293",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "【每日收评】创业板指震荡走低跌2.7%，锂电、算力等热门赛道熄火，高铁概念股逆势活跃",
-          "url": "https://www.cls.cn/detail/2330580",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 04时33分]"
-        },
-        {
-          "title": "地铁吐血女孩银行账户已解封",
-          "url": "https://www.baidu.com/s?wd=%E5%9C%B0%E9%93%81%E5%90%90%E8%A1%80%E5%A5%B3%E5%AD%A9%E9%93%B6%E8%A1%8C%E8%B4%A6%E6%88%B7%E5%B7%B2%E8%A7%A3%E5%B0%81",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            18,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 04时33分]"
-        },
-        {
-          "title": "网友称高铁上蚊虫泛滥坐立难安",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E9%AB%98%E9%93%81%E4%B8%8A%E8%9A%8A%E8%99%AB%E6%B3%9B%E6%BB%A5%E5%9D%90%E7%AB%8B%E9%9A%BE%E5%AE%89",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            20,
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 04时33分]"
-        },
-        {
-          "title": "香港开往上海高铁车厢出现大量蚊虫",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%BC%80%E5%BE%80%E4%B8%8A%E6%B5%B7%E9%AB%98%E9%93%81%E8%BD%A6%E5%8E%A2%E5%87%BA%E7%8E%B0%E5%A4%A7%E9%87%8F%E8%9A%8A%E8%99%AB%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13,
-            17,
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 04时33分]"
+          "time_info": "05时29分"
         }
       ]
     },
     {
       "keyword_group": "苹果 iPhone",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "伊朗：将打击中东与苹果等有关的企业",
@@ -632,8 +547,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 04时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 05时29分]"
         },
         {
           "title": "巴菲特：在苹果上赚了1000亿，但卖早了；目前美股不便宜，不抄底",
@@ -644,8 +559,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 04时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 05时29分]"
         },
         {
           "title": "苹果公司：APP Store扩容至支持11种新语言。",
@@ -670,12 +585,146 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时54分 ~ 00时55分]"
+        },
+        {
+          "title": "苹果客服回应撤回国行AI",
+          "url": "https://www.douyin.com/hot/2449610",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 05时29分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体 芯片 集成电路",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "鲍威尔表态提振美债反弹，但美股高开低走，半导体指数跌超4%，美元五连涨",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 05时29分]"
+        },
+        {
+          "title": "半导体ETF收涨超5.7%，在3月份收官日领跑美股行业ETF，一季度能源业ETF涨37.9%",
+          "url": "https://wallstreetcn.com/livenews/3080358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时33分 ~ 05时29分]"
+        },
+        {
+          "title": "3月份，标普累跌约5.1%、能源板块涨10%，道指跌约5.5%，纳指跌4.8%，半导体指数跌6.5%，银行指数跌3.1%，科技股七巨头指数跌7.9%。 一季度，标普累跌4.6%，道指累跌3.7%，纳指累跌7.2%。 周二当天，标普500指数初步收 %，电信板块涨4.3%，科技板块涨4.1%，可选消费板块涨3.2%，能源板块跌1.2%。 纳斯达克100指数初步收 %，成分股中，迈威尔科技/美满科技涨12.8%，Arm控股涨10.5%，MPWR涨9.3%，希捷科技涨8%，西部数据涨7.5%，T-Mobile跌1.8%，特许通讯跌2.3%，核电股CEG跌6.5%。",
+          "url": "https://wallstreetcn.com/livenews/3080350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时33分"
+        },
+        {
+          "title": "纽约银日内涨幅达7.0%，报75.52美元/盎司。 临近美股收盘，纳斯达克100指数涨幅扩大至3.5%，标普500指数涨3%，道指涨1152点、涨幅2.55%，纳指涨超3.9%，生物科技指数涨4.65%，半导体指数涨6.1%，银行指数涨3.6%，罗素2000指数涨3.3%。",
+          "url": "https://wallstreetcn.com/livenews/3080348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时33分"
+        },
+        {
+          "title": "道指狂飙超千点，纳指涨超3.3%，半导体指数涨5%",
+          "url": "https://wallstreetcn.com/livenews/3080293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "基础设施 基建 地铁 高铁",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "地铁吐血女孩银行账户已解封",
+          "url": "https://www.baidu.com/s?wd=%E5%9C%B0%E9%93%81%E5%90%90%E8%A1%80%E5%A5%B3%E5%AD%A9%E9%93%B6%E8%A1%8C%E8%B4%A6%E6%88%B7%E5%B7%B2%E8%A7%A3%E5%B0%81",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 05时29分]"
+        },
+        {
+          "title": "网友称高铁上蚊虫泛滥坐立难安",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E9%AB%98%E9%93%81%E4%B8%8A%E8%9A%8A%E8%99%AB%E6%B3%9B%E6%BB%A5%E5%9D%90%E7%AB%8B%E9%9A%BE%E5%AE%89",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            20,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 05时29分]"
+        },
+        {
+          "title": "香港开往上海高铁车厢出现大量蚊虫",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%BC%80%E5%BE%80%E4%B8%8A%E6%B5%B7%E9%AB%98%E9%93%81%E8%BD%A6%E5%8E%A2%E5%87%BA%E7%8E%B0%E5%A4%A7%E9%87%8F%E8%9A%8A%E8%99%AB%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            17,
+            19,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 05时29分]"
+        },
+        {
+          "title": "【每日收评】创业板指震荡走低跌2.7%，锂电、算力等热门赛道熄火，高铁概念股逆势活跃",
+          "url": "https://www.cls.cn/detail/2330580",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 04时33分]"
         }
       ]
     },
     {
       "keyword_group": "华为 小米 荣耀",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "华为2025年销售收入8809亿",
@@ -687,8 +736,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 04时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 05时29分]"
         },
         {
           "title": "王者荣耀世界英雄PV",
@@ -699,11 +748,12 @@
             18,
             17,
             22,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 04时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 05时29分]"
         },
         {
           "title": "王者荣耀返场",
@@ -716,6 +766,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时47分 ~ 02时45分]"
+        },
+        {
+          "title": "华为Mate 90系列终于要来了",
+          "url": "https://www.toutiao.com/trending/7622150879864537094/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 05时29分]"
         }
       ]
     },
@@ -728,11 +789,12 @@
           "url": "https://wallstreetcn.com/livenews/3080361",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时33分 ~ 05时29分]"
         },
         {
           "title": "据日经新闻：法国与日本政府拟于年底在法国西南部启动公私合作项目，该项目将提纯用于电动汽车电机及其他技术的重稀土。",
@@ -759,8 +821,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 04时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 05时29分]"
         }
       ]
     },
@@ -792,11 +854,12 @@
           "ranks": [
             1,
             2,
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 04时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 05时29分]"
         }
       ]
     }
