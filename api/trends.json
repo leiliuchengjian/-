@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T12:39:44.604610+08:00",
-  "total_titles_processed": 1037,
+  "generated_at": "2026-04-01T14:21:59.177009+08:00",
+  "total_titles_processed": 1161,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "高盛：若中东冲突升级并加剧西方财政担忧，黄金将冲击6100美元！",
@@ -17,8 +17,31 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时47分 ~ 12时39分]"
+          "appearance_count": 15,
+          "time_info": "[01时47分 ~ 14时21分]"
+        },
+        {
+          "title": "重磅会议举行！人民币债券成为全球“避风港” 境外投资者持仓占比逐步提升",
+          "url": "https://www.cls.cn/detail/2331488",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时39分 ~ 14时21分]"
+        },
+        {
+          "title": "布伦特原油转跌，下破102美元/桶，最低至101.78美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260401135030729800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "WTI 5月原油期货收报101.38美元/桶。 NYMEX 4月天然气期货收报2.8840美元/百万英热单位。 NYMEX 4月汽油期货收报3.3123美元/加仑，NYMEX 3月取暖油期货收报4.1634美元/加仑。",
@@ -65,17 +88,6 @@
           "time_info": "00时55分"
         },
         {
-          "title": "重磅会议举行！人民币债券成为全球“避风港” 境外投资者持仓占比逐步提升",
-          "url": "https://www.cls.cn/detail/2331488",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
           "title": "2026年4月1日银行间外汇市场人民币汇率中间价",
           "url": "https://flash.jin10.com/detail/20260401091519637800",
           "source": "金十数据",
@@ -93,9 +105,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
+        },
+        {
+          "title": "布伦特原油日内跌幅达0.5%，报103.34美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3080643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "上期所原油期货2605合约夜盘收跌7.39%，报693.90元人民币/桶。 沪金夜盘收涨1.97%，沪银收涨5.18%。",
@@ -368,7 +391,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
         },
@@ -409,7 +432,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "凌晨3点上班,AI卷疯打工人",
@@ -418,11 +441,12 @@
           "ranks": [
             14,
             15,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时54分 ~ 12时39分]"
+          "appearance_count": 17,
+          "time_info": "[00时54分 ~ 14时21分]"
         },
         {
           "title": "功勋翻译下岗,AI包揽游戏翻译",
@@ -431,11 +455,12 @@
           "ranks": [
             22,
             23,
-            26
+            26,
+            25
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时54分 ~ 12时39分]"
+          "appearance_count": 17,
+          "time_info": "[00时54分 ~ 14时21分]"
         },
         {
           "title": "男子靠AI开一人公司年营收达150万",
@@ -462,6 +487,19 @@
           "time_info": "[04时33分 ~ 05时29分]"
         },
         {
+          "title": "OpenAI完成1220亿美元融资 美法官叫停白宫宴会厅改造项目 | 环球市场",
+          "url": "https://www.cls.cn/detail/2331334",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时24分 ~ 14时21分]"
+        },
+        {
           "title": "如何看待前端排版库 Pretext，能否实现 AI 自动排版?",
           "url": "https://www.zhihu.com/question/2021882744435646530",
           "source": "知乎",
@@ -474,16 +512,17 @@
           "time_info": "[03时47分 ~ 05时29分]"
         },
         {
-          "title": "OpenAI完成1220亿美元融资 美法官叫停白宫宴会厅改造项目 | 环球市场",
-          "url": "https://www.cls.cn/detail/2331334",
-          "source": "财联社热门",
+          "title": "借助AI监控伊朗高官后“定点清除”：以色列如何替美国“干脏活”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32865901",
+          "source": "澎湃新闻",
           "ranks": [
-            12,
+            18,
+            10,
             9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时24分 ~ 12时39分]"
+          "time_info": "[09时25分 ~ 14时21分]"
         },
         {
           "title": "据Axios：OpenAI在最近的一次私募融资中向个人投资者出售了约30亿美元的股份。",
@@ -510,16 +549,28 @@
           "time_info": "[04时33分 ~ 05时29分]"
         },
         {
-          "title": "借助AI监控伊朗高官后“定点清除”：以色列如何替美国“干脏活”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32865901",
-          "source": "澎湃新闻",
+          "title": "创纪录！OpenAI完成1220亿美元融资 投后估值达8520亿美元",
+          "url": "https://www.cls.cn/detail/2331423",
+          "source": "财联社热门",
           "ranks": [
-            18,
+            12,
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时25分 ~ 12时39分]"
+          "time_info": "[12时39分 ~ 14时21分]"
+        },
+        {
+          "title": "甲骨文启动新一轮大规模裁员，AI数据中心投入持续加码",
+          "url": "https://www.cls.cn/detail/2331293",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时39分 ~ 14时21分]"
         },
         {
           "title": "77部作品看到AI创作可能性",
@@ -555,28 +606,6 @@
           "time_info": "07时25分"
         },
         {
-          "title": "创纪录！OpenAI完成1220亿美元融资 投后估值达8520亿美元",
-          "url": "https://www.cls.cn/detail/2331423",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "甲骨文启动新一轮大规模裁员，AI数据中心投入持续加码",
-          "url": "https://www.cls.cn/detail/2331293",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
           "title": "重仓“隐藏款”浮出水面，基金经理沿AI主线布局",
           "url": "https://wallstreetcn.com/livenews/3080408",
           "source": "华尔街见闻-快讯",
@@ -588,15 +617,37 @@
           "time_info": "07时25分"
         },
         {
+          "title": "OpenAI创下史上最大融资纪录",
+          "url": "https://www.toutiao.com/trending/7623555636134940203/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2026-04-01）",
           "url": "https://flash.jin10.com/detail/20260401120044278800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
+        },
+        {
+          "title": "港股人工智能板块午后冲高，智谱(02513.HK)涨近30%，MINIMAX-W(00100.HK)涨超16%，兆易创新(03986.HK)涨超8%，哔哩哔哩(09626.HK)涨超7%，百度(09888.HK)涨超5%。",
+          "url": "https://flash.jin10.com/detail/20260401132954043800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "韩国总统府：韩国与印度尼西亚将双边关系提升为“特别全面战略伙伴关系”，双方同意在贸易、国防、投资、人工智能、核电站及能源转型等领域开展合作。",
@@ -759,9 +810,107 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "基础设施 基建 地铁 高铁",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "地铁吐血女孩银行账户已解封",
+          "url": "https://www.baidu.com/s?wd=%E5%9C%B0%E9%93%81%E5%90%90%E8%A1%80%E5%A5%B3%E5%AD%A9%E9%93%B6%E8%A1%8C%E8%B4%A6%E6%88%B7%E5%B7%B2%E8%A7%A3%E5%B0%81",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            18,
+            13,
+            12,
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时54分 ~ 09时25分]"
+        },
+        {
+          "title": "香港开往上海高铁车厢出现大量蚊虫",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%BC%80%E5%BE%80%E4%B8%8A%E6%B5%B7%E9%AB%98%E9%93%81%E8%BD%A6%E5%8E%A2%E5%87%BA%E7%8E%B0%E5%A4%A7%E9%87%8F%E8%9A%8A%E8%99%AB%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            17,
+            19,
+            26,
+            27,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时54分 ~ 07时25分]"
+        },
+        {
+          "title": "网友称高铁上蚊虫泛滥坐立难安",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E9%AB%98%E9%93%81%E4%B8%8A%E8%9A%8A%E8%99%AB%E6%B3%9B%E6%BB%A5%E5%9D%90%E7%AB%8B%E9%9A%BE%E5%AE%89",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            20,
+            17,
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时54分 ~ 07时25分]"
+        },
+        {
+          "title": "【每日收评】创业板指震荡走低跌2.7%，锂电、算力等热门赛道熄火，高铁概念股逆势活跃",
+          "url": "https://www.cls.cn/detail/2330580",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 04时33分]"
+        },
+        {
+          "title": "刷取餐码出了地铁站",
+          "url": "https://s.weibo.com/weibo?q=%E5%88%B7%E5%8F%96%E9%A4%90%E7%A0%81%E5%87%BA%E4%BA%86%E5%9C%B0%E9%93%81%E7%AB%99&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
+          "title": "A股高铁轨交板块持续调整，交大铁发跌超9%，通业科技、日月明、金鹰重工、中铁工业、雷尔伟跌逾5%。",
+          "url": "https://wallstreetcn.com/livenews/3080627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
+          "title": "国台办再谈和统后助台湾建设环岛高铁",
+          "url": "https://www.toutiao.com/trending/7623256973546553386/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         }
       ]
     },
@@ -769,17 +918,6 @@
       "keyword_group": "苹果 iPhone",
       "match_count": 7,
       "titles": [
-        {
-          "title": "伊朗：将打击中东与苹果等有关的企业",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E5%B0%86%E6%89%93%E5%87%BB%E4%B8%AD%E4%B8%9C%E4%B8%8E%E8%8B%B9%E6%9E%9C%E7%AD%89%E6%9C%89%E5%85%B3%E7%9A%84%E4%BC%81%E4%B8%9A",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时54分 ~ 07时25分]"
-        },
         {
           "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
           "url": "https://wallstreetcn.com/articles/3768902",
@@ -791,8 +929,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时24分 ~ 12时39分]"
+          "appearance_count": 8,
+          "time_info": "[06时24分 ~ 14时21分]"
+        },
+        {
+          "title": "伊朗：将打击中东与苹果等有关的企业",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E5%B0%86%E6%89%93%E5%87%BB%E4%B8%AD%E4%B8%9C%E4%B8%8E%E8%8B%B9%E6%9E%9C%E7%AD%89%E6%9C%89%E5%85%B3%E7%9A%84%E4%BC%81%E4%B8%9A",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时54分 ~ 07时25分]"
         },
         {
           "title": "巴菲特：在苹果上赚了1000亿，但卖早了；目前美股不便宜，不抄底",
@@ -921,7 +1070,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
         },
@@ -932,83 +1081,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "地铁吐血女孩银行账户已解封",
-          "url": "https://www.baidu.com/s?wd=%E5%9C%B0%E9%93%81%E5%90%90%E8%A1%80%E5%A5%B3%E5%AD%A9%E9%93%B6%E8%A1%8C%E8%B4%A6%E6%88%B7%E5%B7%B2%E8%A7%A3%E5%B0%81",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            18,
-            13,
-            12,
-            16,
-            23
-          ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时54分 ~ 09时25分]"
-        },
-        {
-          "title": "香港开往上海高铁车厢出现大量蚊虫",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%BC%80%E5%BE%80%E4%B8%8A%E6%B5%B7%E9%AB%98%E9%93%81%E8%BD%A6%E5%8E%A2%E5%87%BA%E7%8E%B0%E5%A4%A7%E9%87%8F%E8%9A%8A%E8%99%AB%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13,
-            17,
-            19,
-            26,
-            27,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时54分 ~ 07时25分]"
-        },
-        {
-          "title": "网友称高铁上蚊虫泛滥坐立难安",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E9%AB%98%E9%93%81%E4%B8%8A%E8%9A%8A%E8%99%AB%E6%B3%9B%E6%BB%A5%E5%9D%90%E7%AB%8B%E9%9A%BE%E5%AE%89",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            20,
-            17,
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时54分 ~ 07时25分]"
-        },
-        {
-          "title": "【每日收评】创业板指震荡走低跌2.7%，锂电、算力等热门赛道熄火，高铁概念股逆势活跃",
-          "url": "https://www.cls.cn/detail/2330580",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 04时33分]"
-        },
-        {
-          "title": "刷取餐码出了地铁站",
-          "url": "https://s.weibo.com/weibo?q=%E5%88%B7%E5%8F%96%E9%A4%90%E7%A0%81%E5%87%BA%E4%BA%86%E5%9C%B0%E9%93%81%E7%AB%99&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "12时39分"
         }
@@ -1079,7 +1152,7 @@
     },
     {
       "keyword_group": "就业 裁员 招聘",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "河南一高中近半历史老师无学生可教，媒体称若选科完全被就业市场牵引，新高考意义或被弱化，如何理解此观点？",
@@ -1097,11 +1170,23 @@
           "url": "https://s.weibo.com/weibo?q=%23%E7%94%B2%E9%AA%A8%E6%96%87%E5%87%8C%E6%99%A86%E7%82%B9%E7%AA%81%E5%8F%91%E8%A3%81%E5%91%983%E4%B8%87%E4%BA%BA%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
-            4
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时39分 ~ 14时21分]"
+        },
+        {
+          "title": "甲骨文凌晨宣布裁员3万人",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B2%E9%AA%A8%E6%96%87%E5%87%8C%E6%99%A8%E5%AE%A3%E5%B8%83%E8%A3%81%E5%91%983%E4%B8%87%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时39分"
+          "time_info": "14时21分"
         },
         {
           "title": "甲骨文裁员（至少）数千人。",
@@ -1173,11 +1258,29 @@
           "ranks": [
             12,
             13,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时54分 ~ 12时39分]"
+          "appearance_count": 17,
+          "time_info": "[00时54分 ~ 14时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "港股汽车股午后走强，蔚来、岚图汽车涨超10%，零跑汽车涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3080631",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         }
       ]
     },
@@ -1192,7 +1295,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
         }
