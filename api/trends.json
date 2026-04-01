@@ -1,22 +1,70 @@
 {
-  "generated_at": "2026-04-02T01:58:38.413155+08:00",
-  "total_titles_processed": 447,
+  "generated_at": "2026-04-02T02:45:25.324373+08:00",
+  "total_titles_processed": 494,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 19,
+      "match_count": 24,
       "titles": [
         {
           "title": "美伊释放停战信号，纳指涨超1%，科技股普涨，布油跌超2%，美元小幅走软，黄金日内涨2%",
           "url": "https://wallstreetcn.com/articles/3768936",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 01时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 02时45分]"
+        },
+        {
+          "title": "WTI 5月原油期货收报100.12美元/桶。 NYMEX 5月天然气期货收报2.8190美元/百万英热单位。 NYMEX 5月汽油期货收报3.0914美元/加仑，NYMEX 5月取暖油期货收报4.0568美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3081076",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
+          "title": "上期所原油期货2605合约夜盘收跌4.46%，报664.80元人民币/桶。 沪金夜盘收涨2.01%，沪银收涨0.69%。",
+          "url": "https://wallstreetcn.com/livenews/3081075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
+          "title": "报道称美财政部预计油价将长期维持在100美元上方，不排除涨至200美元的可能",
+          "url": "https://wallstreetcn.com/articles/3768996",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 02时45分]"
+        },
+        {
+          "title": "周三（4月1日），美联储隔夜逆回购协议（RRP）使用规模为21.07亿美元（交易对手9家），上个交易日报 亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3081054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时39分 ~ 02时45分]"
         },
         {
           "title": "美股存储板块全线爆发，西部数据大涨11.74%领涨，闪迪涨10.42%，美光科技涨10.77%报374美元，希捷科技涨9.08%。",
@@ -43,16 +91,17 @@
           "time_info": "[01时39分 ~ 01时58分]"
         },
         {
-          "title": "周三（4月1日），美联储隔夜逆回购协议（RRP）使用规模为21.07亿美元（交易对手9家），上个交易日报 亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3081054",
+          "title": "纽约金日内涨幅达3.0%，报4819美元/盎司；现货黄金突破4790美元/盎司关口，报4790.11美元/盎司。 纽约银日内涨幅达1.5%，报76.06美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3081052",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            9
+            5,
+            11,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时39分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[01时39分 ~ 02时45分]"
         },
         {
           "title": "纽约期金日内涨3.00%，现报4819.00美元/盎司。",
@@ -79,29 +128,6 @@
           "time_info": "[01时39分 ~ 01时58分]"
         },
         {
-          "title": "纽约金日内涨幅达3.0%，报4819美元/盎司；现货黄金突破4790美元/盎司关口，报4790.11美元/盎司。 纽约银日内涨幅达1.5%，报76.06美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3081052",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时39分 ~ 01时58分]"
-        },
-        {
-          "title": "报道称美财政部预计油价将长期维持在100美元上方，不排除涨至200美元的可能",
-          "url": "https://wallstreetcn.com/articles/3768996",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 01时58分]"
-        },
-        {
           "title": "美国汽油价格突破每加仑4美元，特朗普：美军离开伊朗油价就能跌",
           "url": "https://m.thepaper.cn/newsDetail_forward_32870657",
           "source": "澎湃新闻",
@@ -109,8 +135,34 @@
             20
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时38分 ~ 02时45分]"
+        },
+        {
+          "title": "现货白银日内涨幅达1.0%，报75.83美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3081049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            14,
+            29
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时38分 ~ 01时58分]"
+          "time_info": "[01时39分 ~ 02时45分]"
+        },
+        {
+          "title": "比特币涨1.5%，上探6.9万美元",
+          "url": "https://wallstreetcn.com/livenews/3081048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时39分 ~ 02时45分]"
         },
         {
           "title": "现货白银日内涨超1.00%，现报75.92美元/盎司。",
@@ -125,28 +177,16 @@
           "time_info": "[01时39分 ~ 01时58分]"
         },
         {
-          "title": "现货白银日内涨幅达1.0%，报75.83美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3081049",
+          "title": "WTI原油5分钟内下跌0.5美元/桶，报99.23美元/桶。 据阿拉伯媒体事件报 (Al Hadath)，伊朗外交部表示，最高领袖身体“健康”，可能会“很快公开露面”。",
+          "url": "https://wallstreetcn.com/livenews/3081057",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            14
+            6,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时39分 ~ 01时58分]"
-        },
-        {
-          "title": "比特币涨1.5%，上探6.9万美元",
-          "url": "https://wallstreetcn.com/livenews/3081048",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时39分 ~ 01时58分]"
+          "time_info": "[01时58分 ~ 02时45分]"
         },
         {
           "title": "WTI原油跌破100美元/桶关口，报99.85美元/桶 据Mehr报道，伊朗客运机场Kashan（卡尚）遭到美国和以色列的袭击。",
@@ -185,15 +225,26 @@
           "time_info": "[01时39分 ~ 01时58分]"
         },
         {
-          "title": "WTI原油5分钟内下跌0.5美元/桶，报99.23美元/桶。 据阿拉伯媒体事件报 (Al Hadath)，伊朗外交部表示，最高领袖身体“健康”，可能会“很快公开露面”。",
-          "url": "https://wallstreetcn.com/livenews/3081057",
+          "title": "中东股市收盘播报｜周三（4月1日），沙特证交所全股指数收涨0.23%，沙特阿美（ARAMCO.AB）收涨0.58%，在沙特上市的Albilad南方东英MSCI香港中国股票ETF收涨0.09%。 卡塔尔证交所指数收涨0.81%，科威特证交所超级市场价格回报指数收涨0.84%。 埃及证交所EGX 30指数收涨3.11%，埃及镑兑美元收涨1.71%，报53.6272埃及镑，3月31日曾跌至54.8317埃及镑创历史新低。 迪拜金融市场综合指数收涨2.03%，阿布扎比证券市场综合指数收涨1.35%。",
+          "url": "https://wallstreetcn.com/livenews/3081078",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时58分"
+          "time_info": "02时45分"
+        },
+        {
+          "title": "标普500指数涨幅收窄至不足0.9%，WTI原油5分钟内下跌0.49美元/桶，报99.21美元/桶。 美国驻北约特使Witkoff宣称，美国显然正与伊朗内部正确的人对话。 美方认为，伊朗能够针对（美国和以色列发动的伊朗战争）选择一个“退出渠道”（off-ramp）。",
+          "url": "https://wallstreetcn.com/livenews/3081072",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
         },
         {
           "title": "市场消息：Related Digital正在为甲骨文公司的一座巨型数据中心敲定160亿美元的融资。",
@@ -202,7 +253,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
         },
@@ -216,6 +267,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "周三（4月1日），韩元兑美元最终跌0.23%，报1512.58韩元。",
+          "url": "https://wallstreetcn.com/livenews/3081065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
         },
         {
           "title": "消息称SpaceX已秘密提交 IPO申请 估值或超1.75万亿美元",
@@ -232,41 +294,8 @@
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
-        {
-          "title": "加拿大央行纪要：油价上涨将使通胀率在低迷经济中升至2%的目标以上。",
-          "url": "https://flash.jin10.com/detail/20260402013220972800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时58分"
-        },
-        {
-          "title": "加拿大央行纪要：官员们将比往常更多地依赖判断力。",
-          "url": "https://flash.jin10.com/detail/20260402013210998800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时58分"
-        },
-        {
-          "title": "加拿大央行会议纪要：官员们同意在应对战争后果时应保持政策灵活性。",
-          "url": "https://flash.jin10.com/detail/20260402013154349800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时58分"
-        },
         {
           "title": "加拿大央行：在3月份货币政策会议上讨论了石油冲击对CPI的长期影响，但现在做出判断还言之过早。 央行官员们同意，他们可以花时间来观察（美国和以色列发动的）伊朗战争将如何演变。 除了伊朗战争，加拿大经济面临的风险还包括美国墨西哥加拿大贸易协议（USMCA）等。",
           "url": "https://wallstreetcn.com/livenews/3081061",
@@ -274,18 +303,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时58分"
-        },
-        {
-          "title": "加拿大央行会议纪要：可以稍作观望，观察伊朗局势的发展及其对经济前景的影响。",
-          "url": "https://flash.jin10.com/detail/20260402013130278800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
         },
@@ -295,44 +313,96 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 01时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 02时45分]"
+        },
+        {
+          "title": "加拿大央行纪要：油价上涨将使通胀率在低迷经济中升至2%的目标以上。",
+          "url": "https://flash.jin10.com/detail/20260402013220972800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 02时45分]"
+        },
+        {
+          "title": "加拿大央行纪要：官员们将比往常更多地依赖判断力。",
+          "url": "https://flash.jin10.com/detail/20260402013210998800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 02时45分]"
+        },
+        {
+          "title": "加拿大央行会议纪要：官员们同意在应对战争后果时应保持政策灵活性。",
+          "url": "https://flash.jin10.com/detail/20260402013154349800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 02时45分]"
+        },
+        {
+          "title": "加拿大央行会议纪要：可以稍作观望，观察伊朗局势的发展及其对经济前景的影响。",
+          "url": "https://flash.jin10.com/detail/20260402013130278800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 02时45分]"
         },
         {
           "title": "加拿大央行会议纪要：2022年通胀飙升后，公众对通胀的认知仍处于高位，且汽油价格对家庭通胀预期的评估具有重大影响。",
           "url": "https://flash.jin10.com/detail/20260402013119096800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 02时45分]"
         },
         {
           "title": "加拿大央行会议纪要：官员们不能忽视经济面临的贸易相关风险。",
           "url": "https://flash.jin10.com/detail/20260402013108184800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 02时45分]"
         },
         {
           "title": "加拿大央行会议纪要：鉴于通胀率接近目标水平，且核心指标显示通胀压力有限，管委会认为自身具备一定政策灵活性。",
           "url": "https://flash.jin10.com/detail/20260402013100399800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 02时45分]"
         },
         {
           "title": "加拿大央行会议纪要：管委会认为，短期内经济增长面临下行风险，而油价冲击则构成了通胀的额外上行风险。",
@@ -341,9 +411,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "秘鲁3月利马CPI同比上升2.38%，创1994年1月份以来最大升幅，受到国内天然气危机、全球油价上涨、恶劣天气的影响。",
+          "url": "https://wallstreetcn.com/livenews/3081070",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
         },
         {
           "title": "加拿大央行会议纪要：目前评估伊朗战争对经济前景的影响为时过早。",
@@ -352,7 +433,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
         },
@@ -363,7 +444,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
         },
@@ -374,9 +455,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "加拿大央行：伊朗战争不应凌驾于其他经济风险之上",
+          "url": "https://wallstreetcn.com/livenews/3081061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
         },
         {
           "title": "俄罗斯3月30日当周CPI周环比上升0.17%，2026年迄今累计上升2.95%。",
@@ -393,8 +485,19 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "据Axios：美国正征集相关提案，以协助企业将全栈式人工智能系统打包并推向全球市场。",
+          "url": "https://flash.jin10.com/detail/20260402023533205800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
         {
           "title": "【焦点复盘】A股放量普涨迎4月“开门红”，AI硬件、创新药概念强势领涨",
           "url": "https://www.cls.cn/detail/2332176",
@@ -404,8 +507,31 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 02时45分]"
+        },
+        {
+          "title": "凌晨3点上班,AI卷疯打工人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352553&amp;topic_name=%E5%87%8C%E6%99%A83%E7%82%B9%E4%B8%8A%E7%8F%AD%2CAI%E5%8D%B7%E7%96%AF%E6%89%93%E5%B7%A5%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 02时45分]"
+        },
+        {
+          "title": "Claude 正在自己设计下一代 Claude，当 AI 开始自我进化，将对行业带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2022254775757009403",
+          "source": "知乎",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时02分 ~ 01时58分]"
+          "time_info": "[01时38分 ~ 02时45分]"
         },
         {
           "title": "被AI短剧盗脸成丑角 女模特发声",
@@ -418,28 +544,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时02分 ~ 01时58分]"
-        },
-        {
-          "title": "凌晨3点上班,AI卷疯打工人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352553&amp;topic_name=%E5%87%8C%E6%99%A83%E7%82%B9%E4%B8%8A%E7%8F%AD%2CAI%E5%8D%B7%E7%96%AF%E6%89%93%E5%B7%A5%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 01时58分]"
-        },
-        {
-          "title": "Claude 正在自己设计下一代 Claude，当 AI 开始自我进化，将对行业带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2022254775757009403",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时38分 ~ 01时58分]"
         },
         {
           "title": "数亿美元OpenAI股份在二级市场无人接盘，20亿现金蓄势待投Anthropic",
@@ -460,7 +564,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
         },
@@ -474,6 +578,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "如何把 AI 训练成自己的「第二大脑」？",
+          "url": "https://www.zhihu.com/question/2017266017961736190",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源汽车 电动汽车 智能驾驶",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "斯泰兰蒂斯集团Stellantis洽谈在闲置的加拿大工厂生产中国电动汽车。",
+          "url": "https://wallstreetcn.com/livenews/3081077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
+          "title": "基于乘客排泄生物质产沼气的新能源汽车「拉了吗」，大家觉得可行么？",
+          "url": "https://www.zhihu.com/question/1996938316550014245",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 02时45分]"
+        },
+        {
+          "title": "市场消息：Stellantis(STLA.N)正洽谈在加拿大一家闲置工厂生产中国电动汽车。",
+          "url": "https://flash.jin10.com/detail/20260402023450326800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
         }
       ]
     },
@@ -504,11 +658,12 @@
           "url": "https://wallstreetcn.com/articles/3768902",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 01时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 02时45分]"
         }
       ]
     },
@@ -524,25 +679,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 01时58分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源汽车 电动汽车 智能驾驶",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "基于乘客排泄生物质产沼气的新能源汽车「拉了吗」，大家觉得可行么？",
-          "url": "https://www.zhihu.com/question/1996938316550014245",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 01时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 02时45分]"
         }
       ]
     },
@@ -574,7 +712,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
         }
@@ -592,8 +730,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 01时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 02时45分]"
         }
       ]
     }
