@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T12:19:49.205132+08:00",
-  "total_titles_processed": 1058,
+  "generated_at": "2026-04-02T14:06:13.457212+08:00",
+  "total_titles_processed": 1189,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 46,
+      "match_count": 55,
       "titles": [
         {
           "title": "美伊释放停战信号，纳指涨超1%，科技股普涨，布油跌超2%，美元小幅走软，黄金日内涨2%",
@@ -30,8 +30,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时02分 ~ 12时19分]"
+          "appearance_count": 17,
+          "time_info": "[00时02分 ~ 14时06分]"
         },
         {
           "title": "美国汽油价格突破每加仑4美元，特朗普：美军离开伊朗油价就能跌",
@@ -40,11 +40,12 @@
           "ranks": [
             20,
             19,
-            14
+            14,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时38分 ~ 12时19分]"
+          "appearance_count": 15,
+          "time_info": "[01时38分 ~ 14时06分]"
         },
         {
           "title": "WTI 5月原油期货收报100.12美元/桶。 NYMEX 5月天然气期货收报2.8190美元/百万英热单位。 NYMEX 5月汽油期货收报3.0914美元/加仑，NYMEX 5月取暖油期货收报4.0568美元/加仑。",
@@ -64,9 +65,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
+        },
+        {
+          "title": "快速停火期望破灭？特朗普演讲震动市场：原油、美元齐涨 亚太股市转跌",
+          "url": "https://www.cls.cn/detail/2332994",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 14时06分]"
         },
         {
           "title": "周三（4月1日），美联储隔夜逆回购协议（RRP）使用规模为21.07亿美元（交易对手9家），上个交易日报 亿美元。",
@@ -381,20 +394,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
         },
         {
-          "title": "快速停火期望破灭？特朗普演讲震动市场：原油、美元齐涨 亚太股市转跌",
-          "url": "https://www.cls.cn/detail/2332994",
-          "source": "财联社热门",
+          "title": "现货黄金跌破4600美元/盎司，日内跌幅达3.5%。 现货白银日内跌幅扩大至6%，报70.55美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3081356",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
+          "title": "WTI原油日内涨7.00%，现报106.06美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260402135253360800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时19分"
+          "time_info": "14时06分"
         },
         {
           "title": "GlobalStar美股盘后涨24%，报道称亚马逊洽谈按90亿美元收购该公司。",
@@ -419,6 +443,17 @@
           "time_info": "09时15分"
         },
         {
+          "title": "美元指数日内涨超0.50%，现报100.07。",
+          "url": "https://wallstreetcn.com/livenews/3081355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
           "title": "亚马逊洽谈90亿美元收购卫星集团GlobalStar。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3081149",
           "source": "华尔街见闻-快讯",
@@ -436,9 +471,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
+        },
+        {
+          "title": "现货黄金失守4600美元/盎司，日内跌幅3.30%。",
+          "url": "https://flash.jin10.com/detail/20260402134952754800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
+          "title": "美元持续反弹 金银走弱",
+          "url": "https://flash.jin10.com/detail/20260402134804154800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
         },
         {
           "title": "市场消息：Related Digital正在为甲骨文公司的一座巨型数据中心敲定160亿美元的融资。",
@@ -450,6 +507,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "现货白银日内跌幅达5.5%，报70.92美元/盎司。 现货黄金跌破4650美元，日内跌近2.5%。 上期所沪银主力合约大跌5%，报17730元/千克。",
+          "url": "https://wallstreetcn.com/livenews/3081343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
         },
         {
           "title": "礼来(LLY.N)：Foundayo在有商业保险的情况下，每月仅需25美元。",
@@ -474,6 +542,17 @@
           "time_info": "09时15分"
         },
         {
+          "title": "伦锡日内下跌4.00%，现报45515.00美元/吨。",
+          "url": "https://flash.jin10.com/detail/20260402133842944800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
           "title": "现货白银日内跌幅达2.0%，报73.4美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3081135",
           "source": "华尔街见闻-快讯",
@@ -491,9 +570,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
+        },
+        {
+          "title": "据韩联社：根据韩国交易所编制的数据，在韩国基准股指KOSPI的成分股中，626家于12月结账的企业去年合并净利润为189.4万亿韩元（合1245亿美元），较上年增长33.6%。",
+          "url": "https://flash.jin10.com/detail/20260402133711610800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
         },
         {
           "title": "美元指数DXY站上100，日内涨0.43%。",
@@ -502,7 +592,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
         },
@@ -513,7 +603,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
         },
@@ -529,13 +619,24 @@
           "time_info": "06时27分"
         },
         {
+          "title": "现货铂金跌逾3%，至1902.25美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260402133212897800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
           "title": "英镑兑美元GBP/USD日内跌超0.50%，现报1.3239。",
           "url": "https://flash.jin10.com/detail/20260402115214154800",
           "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
         },
@@ -549,6 +650,314 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能 AI",
+      "match_count": 26,
+      "titles": [
+        {
+          "title": "Claude 正在自己设计下一代 Claude，当 AI 开始自我进化，将对行业带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2022254775757009403",
+          "source": "知乎",
+          "ranks": [
+            17,
+            16,
+            14,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时38分 ~ 07时28分]"
+        },
+        {
+          "title": "【焦点复盘】A股放量普涨迎4月“开门红”，AI硬件、创新药概念强势领涨",
+          "url": "https://www.cls.cn/detail/2332176",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时02分 ~ 07时28分]"
+        },
+        {
+          "title": "凌晨3点上班,AI卷疯打工人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352553&amp;topic_name=%E5%87%8C%E6%99%A83%E7%82%B9%E4%B8%8A%E7%8F%AD%2CAI%E5%8D%B7%E7%96%AF%E6%89%93%E5%B7%A5%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时02分 ~ 09时15分]"
+        },
+        {
+          "title": "有了 AI 之后，遇到问题忍不住想找 AI 帮忙，长期这样下去会不会丧失思考能力？",
+          "url": "https://www.zhihu.com/question/2020209448975607009",
+          "source": "知乎",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时27分 ~ 14时06分]"
+        },
+        {
+          "title": "被AI短剧盗脸成丑角 女模特发声",
+          "url": "https://www.baidu.com/s?wd=%E8%A2%ABAI%E7%9F%AD%E5%89%A7%E7%9B%97%E8%84%B8%E6%88%90%E4%B8%91%E8%A7%92+%E5%A5%B3%E6%A8%A1%E7%89%B9%E5%8F%91%E5%A3%B0",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            26,
+            25,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 07时28分]"
+        },
+        {
+          "title": "工信部原副部长王江平谈“龙虾”：要关注AI发展的一体两面",
+          "url": "https://wallstreetcn.com/livenews/3081305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "IBM(IBM.N)：与Arm(ARM.O)合作开发新硬件，助力企业运行人工智能和数据密集型工作负载。",
+          "url": "https://flash.jin10.com/detail/20260402121026257800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "沪指跌1%，算力租赁、智谱AI、存储芯片板块跌幅居前。",
+          "url": "https://flash.jin10.com/detail/20260402135418756800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
+          "title": "美国商务部首次就“美国人工智能出口计划”征集提案。",
+          "url": "https://flash.jin10.com/detail/20260402031852137800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时52分 ~ 05时33分]"
+        },
+        {
+          "title": "据Axios：美国正征集相关提案，以协助企业将全栈式人工智能系统打包并推向全球市场。",
+          "url": "https://flash.jin10.com/detail/20260402023533205800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时45分 ~ 03时52分]"
+        },
+        {
+          "title": "男子利用AI编造谣言获刑6个月",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%88%A9%E7%94%A8AI%E7%BC%96%E9%80%A0%E8%B0%A3%E8%A8%80%E8%8E%B7%E5%88%916%E4%B8%AA%E6%9C%88",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 14时06分]"
+        },
+        {
+          "title": "我的专业真被AI取代了吗",
+          "url": "https://www.baidu.com/s?wd=%E6%88%91%E7%9A%84%E4%B8%93%E4%B8%9A%E7%9C%9F%E8%A2%ABAI%E5%8F%96%E4%BB%A3%E4%BA%86%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时05分 ~ 14时06分]"
+        },
+        {
+          "title": "图解OpenAI债务危机",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BE%E8%A7%A3OpenAI%E5%80%BA%E5%8A%A1%E5%8D%B1%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时05分 ~ 14时06分]"
+        },
+        {
+          "title": "如何把 AI 训练成自己的「第二大脑」？",
+          "url": "https://www.zhihu.com/question/2017266017961736190",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时45分 ~ 05时33分]"
+        },
+        {
+          "title": "AI 写游戏剧情已经与真人分不出差别，那么未来游戏文案策划的核心竞争力是什么？",
+          "url": "https://www.zhihu.com/question/2011753780459300532",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 07时28分]"
+        },
+        {
+          "title": "数亿美元OpenAI股份在二级市场无人接盘，20亿现金蓄势待投Anthropic",
+          "url": "https://wallstreetcn.com/livenews/3081032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时39分 ~ 01时58分]"
+        },
+        {
+          "title": "央视AI奇谈 流金谷恩仇录",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86AI%E5%A5%87%E8%B0%88%20%E6%B5%81%E9%87%91%E8%B0%B7%E6%81%A9%E4%BB%87%E5%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时15分"
+        },
+        {
+          "title": "可灵AI全球用户规模领先，成Sora关停后最受关注视频模型",
+          "url": "https://wallstreetcn.com/livenews/3081299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "伊朗官员Tabatabai：伊朗总统佩泽希齐扬给美国人民的重要信件将在几小时内发布。",
+          "url": "https://flash.jin10.com/detail/20260402012346170800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        },
+        {
+          "title": "AI缺电逻辑持续演绎，燃气轮机需求激增",
+          "url": "https://wallstreetcn.com/livenews/3081142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "文件显示，英特尔(INTC.O)计划向人工智能芯片初创公司Sambanova Systems再投资1500万美元。",
+          "url": "https://flash.jin10.com/detail/20260402064514420800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "韩国总统李在明：人工智能、核能、氢能技术是创新与韧性的关键，呼吁与法国就此展开合作。",
+          "url": "https://flash.jin10.com/detail/20260402064015575800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "如果 AI 能提供完美情绪价值，人需要 / 不需要真实的关系？",
+          "url": "https://www.zhihu.com/question/2021960266758317386",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        },
+        {
+          "title": "千问AI眼镜上线充值话费、扫码骑车、点外卖等AI能力",
+          "url": "https://wallstreetcn.com/livenews/3081325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
+          "title": "国家药监局：到2030年初步构建药品监管与人工智能融合创新体系",
+          "url": "https://wallstreetcn.com/livenews/3081273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "Sora退出 可灵AI周度活跃用户环比增长",
+          "url": "https://flash.jin10.com/detail/20260402132833065800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
         }
       ]
     },
@@ -632,6 +1041,30 @@
           "time_info": "[01时58分 ~ 02时45分]"
         },
         {
+          "title": "多国央行大幅减持美债",
+          "url": "https://www.douyin.com/hot/2452076",
+          "source": "抖音",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 14时06分]"
+        },
+        {
+          "title": "“滞胀”来袭！美银：美联储今年料降息50基点 油价全年维持100美元",
+          "url": "https://www.cls.cn/detail/2332777",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 14时06分]"
+        },
+        {
           "title": "加拿大央行会议纪要：2022年通胀飙升后，公众对通胀的认知仍处于高位，且汽油价格对家庭通胀预期的评估具有重大影响。",
           "url": "https://flash.jin10.com/detail/20260402013119096800",
           "source": "金十数据",
@@ -713,17 +1146,6 @@
           "time_info": "07时28分"
         },
         {
-          "title": "多国央行大幅减持美债",
-          "url": "https://www.douyin.com/hot/2452076",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时19分"
-        },
-        {
           "title": "加拿大央行会议纪要：管委会认为，短期内经济增长面临下行风险，而油价冲击则构成了通胀的额外上行风险。",
           "url": "https://flash.jin10.com/detail/20260402013049579800",
           "source": "金十数据",
@@ -757,24 +1179,13 @@
           "time_info": "01时58分"
         },
         {
-          "title": "“滞胀”来袭！美银：美联储今年料降息50基点 油价全年维持100美元",
-          "url": "https://www.cls.cn/detail/2332777",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时19分"
-        },
-        {
           "title": "印度卢比兑美元上涨1.7%，之前印度央行采取措施抑制投机。",
           "url": "https://wallstreetcn.com/livenews/3081291",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
         },
@@ -825,261 +1236,31 @@
       ]
     },
     {
-      "keyword_group": "人工智能 AI",
-      "match_count": 21,
+      "keyword_group": "基础设施 基建 地铁 高铁",
+      "match_count": 7,
       "titles": [
         {
-          "title": "Claude 正在自己设计下一代 Claude，当 AI 开始自我进化，将对行业带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2022254775757009403",
-          "source": "知乎",
-          "ranks": [
-            17,
-            16,
-            14,
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时38分 ~ 07时28分]"
-        },
-        {
-          "title": "【焦点复盘】A股放量普涨迎4月“开门红”，AI硬件、创新药概念强势领涨",
-          "url": "https://www.cls.cn/detail/2332176",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时02分 ~ 07时28分]"
-        },
-        {
-          "title": "凌晨3点上班,AI卷疯打工人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352553&amp;topic_name=%E5%87%8C%E6%99%A83%E7%82%B9%E4%B8%8A%E7%8F%AD%2CAI%E5%8D%B7%E7%96%AF%E6%89%93%E5%B7%A5%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时02分 ~ 09时15分]"
-        },
-        {
-          "title": "被AI短剧盗脸成丑角 女模特发声",
-          "url": "https://www.baidu.com/s?wd=%E8%A2%ABAI%E7%9F%AD%E5%89%A7%E7%9B%97%E8%84%B8%E6%88%90%E4%B8%91%E8%A7%92+%E5%A5%B3%E6%A8%A1%E7%89%B9%E5%8F%91%E5%A3%B0",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            26,
-            25,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 07时28分]"
-        },
-        {
-          "title": "工信部原副部长王江平谈“龙虾”：要关注AI发展的一体两面",
-          "url": "https://wallstreetcn.com/livenews/3081305",
+          "title": "广州：目标到2030年，基本建成现代化基础设施体系",
+          "url": "https://wallstreetcn.com/livenews/3081364",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时19分"
+          "time_info": "14时06分"
         },
         {
-          "title": "IBM(IBM.N)：与Arm(ARM.O)合作开发新硬件，助力企业运行人工智能和数据密集型工作负载。",
-          "url": "https://flash.jin10.com/detail/20260402121026257800",
+          "title": "广州：目标到2030年，基本建成现代化基础设施体系",
+          "url": "https://flash.jin10.com/detail/20260402135610492800",
           "source": "金十数据",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时19分"
+          "time_info": "14时06分"
         },
-        {
-          "title": "有了 AI 之后，遇到问题忍不住想找 AI 帮忙，长期这样下去会不会丧失思考能力？",
-          "url": "https://www.zhihu.com/question/2020209448975607009",
-          "source": "知乎",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时27分 ~ 12时19分]"
-        },
-        {
-          "title": "美国商务部首次就“美国人工智能出口计划”征集提案。",
-          "url": "https://flash.jin10.com/detail/20260402031852137800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            11,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时52分 ~ 05时33分]"
-        },
-        {
-          "title": "据Axios：美国正征集相关提案，以协助企业将全栈式人工智能系统打包并推向全球市场。",
-          "url": "https://flash.jin10.com/detail/20260402023533205800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时45分 ~ 03时52分]"
-        },
-        {
-          "title": "如何把 AI 训练成自己的「第二大脑」？",
-          "url": "https://www.zhihu.com/question/2017266017961736190",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时45分 ~ 05时33分]"
-        },
-        {
-          "title": "AI 写游戏剧情已经与真人分不出差别，那么未来游戏文案策划的核心竞争力是什么？",
-          "url": "https://www.zhihu.com/question/2011753780459300532",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时27分 ~ 07时28分]"
-        },
-        {
-          "title": "数亿美元OpenAI股份在二级市场无人接盘，20亿现金蓄势待投Anthropic",
-          "url": "https://wallstreetcn.com/livenews/3081032",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时39分 ~ 01时58分]"
-        },
-        {
-          "title": "央视AI奇谈 流金谷恩仇录",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86AI%E5%A5%87%E8%B0%88%20%E6%B5%81%E9%87%91%E8%B0%B7%E6%81%A9%E4%BB%87%E5%BD%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时15分"
-        },
-        {
-          "title": "可灵AI全球用户规模领先，成Sora关停后最受关注视频模型",
-          "url": "https://wallstreetcn.com/livenews/3081299",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时19分"
-        },
-        {
-          "title": "男子利用AI编造谣言获刑6个月",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%88%A9%E7%94%A8AI%E7%BC%96%E9%80%A0%E8%B0%A3%E8%A8%80%E8%8E%B7%E5%88%916%E4%B8%AA%E6%9C%88",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时19分"
-        },
-        {
-          "title": "伊朗官员Tabatabai：伊朗总统佩泽希齐扬给美国人民的重要信件将在几小时内发布。",
-          "url": "https://flash.jin10.com/detail/20260402012346170800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时58分"
-        },
-        {
-          "title": "AI缺电逻辑持续演绎，燃气轮机需求激增",
-          "url": "https://wallstreetcn.com/livenews/3081142",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "文件显示，英特尔(INTC.O)计划向人工智能芯片初创公司Sambanova Systems再投资1500万美元。",
-          "url": "https://flash.jin10.com/detail/20260402064514420800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "韩国总统李在明：人工智能、核能、氢能技术是创新与韧性的关键，呼吁与法国就此展开合作。",
-          "url": "https://flash.jin10.com/detail/20260402064015575800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "如果 AI 能提供完美情绪价值，人需要 / 不需要真实的关系？",
-          "url": "https://www.zhihu.com/question/2021960266758317386",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "国家药监局：到2030年初步构建药品监管与人工智能融合创新体系",
-          "url": "https://wallstreetcn.com/livenews/3081273",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 5,
-      "titles": [
         {
           "title": "乌克兰总统泽连斯基：俄罗斯以袭击乌克兰能源基础设施回击基辅提出的复活节停火倡议。",
           "url": "https://flash.jin10.com/detail/20260402005010083800",
@@ -1111,7 +1292,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
         },
@@ -1251,11 +1432,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352676&amp;topic_name=%E9%87%8D%E9%87%91%E6%8A%BC%E6%B3%A8%E7%A0%94%E5%8F%91%2C%E5%8D%8E%E4%B8%BA%E6%8C%81%E7%BB%AD%E5%8A%A0%E7%A0%81",
           "source": "贴吧",
           "ranks": [
-            5
+            5,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时19分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 14时06分]"
         },
         {
           "title": "王者荣耀无双",
@@ -1275,7 +1457,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
         }
@@ -1297,6 +1479,18 @@
           "time_info": "04时35分"
         },
         {
+          "title": "新势力3月销量环比大幅提升：零跑重回5万辆大关，理想超4万辆",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32872883",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 14时06分]"
+        },
+        {
           "title": "国产「张雪机车」夺得 WSBK 两连冠，如何评价它的技术实力？会成为摩托车界的「比亚迪」吗？",
           "url": "https://www.zhihu.com/question/2021921598555398146",
           "source": "知乎",
@@ -1306,17 +1500,45 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时27分 ~ 07时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "创业板",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "上证指数早盘收报3927.60点，跌0.53%。 深证成指早盘收报13548.46点，跌1.15%。 创业板指早盘收报3189.72点，跌1.78%。 沪深300早盘收报4492.35点，跌0.74%。 科创50早盘收报1268.90点，跌2.26%。 中证500早盘收报7644.25点，跌1.37%。 中证1000早盘收报7663.42点，跌1.30%。",
+          "url": "https://wallstreetcn.com/livenews/3081289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时19分"
         },
         {
-          "title": "新势力3月销量环比大幅提升：零跑重回5万辆大关，理想超4万辆",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32872883",
-          "source": "澎湃新闻",
+          "title": "4月2日午间收评：创业板指半日跌1.78%，油气、医药股逆势走强",
+          "url": "https://wallstreetcn.com/livenews/3081288",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "创业板指跌超2%，深成指跌1.3%，沪指跌0.7%。全市场下跌个股超4300只。",
+          "url": "https://wallstreetcn.com/livenews/3081323",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时19分"
+          "time_info": "14时06分"
         }
       ]
     },
@@ -1344,35 +1566,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "创业板",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "上证指数早盘收报3927.60点，跌0.53%。 深证成指早盘收报13548.46点，跌1.15%。 创业板指早盘收报3189.72点，跌1.78%。 沪深300早盘收报4492.35点，跌0.74%。 科创50早盘收报1268.90点，跌2.26%。 中证500早盘收报7644.25点，跌1.37%。 中证1000早盘收报7663.42点，跌1.30%。",
-          "url": "https://wallstreetcn.com/livenews/3081289",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时19分"
-        },
-        {
-          "title": "4月2日午间收评：创业板指半日跌1.78%，油气、医药股逆势走强",
-          "url": "https://wallstreetcn.com/livenews/3081288",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
         }
@@ -1392,8 +1586,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时02分 ~ 12时19分]"
+          "appearance_count": 17,
+          "time_info": "[00时02分 ~ 14时06分]"
         },
         {
           "title": "“小非农”大超预期！美国3月ADP就业人数增加6.2万人，薪资加速增长",
@@ -1436,7 +1630,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
         }
@@ -1468,11 +1662,12 @@
           "url": "https://www.zhihu.com/question/2022360841962480972",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时19分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 14时06分]"
         }
       ]
     }
