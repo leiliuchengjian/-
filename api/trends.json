@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T09:15:33.070604+08:00",
-  "total_titles_processed": 878,
+  "generated_at": "2026-04-02T12:19:49.205132+08:00",
+  "total_titles_processed": 1058,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 38,
+      "match_count": 46,
       "titles": [
         {
           "title": "美伊释放停战信号，纳指涨超1%，科技股普涨，布油跌超2%，美元小幅走软，黄金日内涨2%",
@@ -30,8 +30,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时02分 ~ 09时15分]"
+          "appearance_count": 15,
+          "time_info": "[00时02分 ~ 12时19分]"
         },
         {
           "title": "美国汽油价格突破每加仑4美元，特朗普：美军离开伊朗油价就能跌",
@@ -39,11 +39,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时38分 ~ 09时15分]"
+          "appearance_count": 13,
+          "time_info": "[01时38分 ~ 12时19分]"
         },
         {
           "title": "WTI 5月原油期货收报100.12美元/桶。 NYMEX 5月天然气期货收报2.8190美元/百万英热单位。 NYMEX 5月汽油期货收报3.0914美元/加仑，NYMEX 5月取暖油期货收报4.0568美元/加仑。",
@@ -55,6 +56,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时45分"
+        },
+        {
+          "title": "布伦特原油期货涨超6%，报107.39美元/桶；WTI涨超5%，报105.30美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3081304",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
         },
         {
           "title": "周三（4月1日），美联储隔夜逆回购协议（RRP）使用规模为21.07亿美元（交易对手9家），上个交易日报 亿美元。",
@@ -363,6 +375,28 @@
           "time_info": "07时28分"
         },
         {
+          "title": "美元指数重返100.00关口上方，日内涨超0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3081300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "快速停火期望破灭？特朗普演讲震动市场：原油、美元齐涨 亚太股市转跌",
+          "url": "https://www.cls.cn/detail/2332994",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
           "title": "GlobalStar美股盘后涨24%，报道称亚马逊洽谈按90亿美元收购该公司。",
           "url": "https://wallstreetcn.com/livenews/3081151",
           "source": "华尔街见闻-快讯",
@@ -380,7 +414,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
         },
@@ -394,6 +428,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "布伦特原油向上触及105美元/桶，日内涨6.28%。",
+          "url": "https://flash.jin10.com/detail/20260402120731341800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
         },
         {
           "title": "市场消息：Related Digital正在为甲骨文公司的一座巨型数据中心敲定160亿美元的融资。",
@@ -424,7 +469,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
         },
@@ -440,6 +485,39 @@
           "time_info": "07时28分"
         },
         {
+          "title": "WTI原油日内暴涨6.00%，现报105.07美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260402115844537800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "美元指数DXY站上100，日内涨0.43%。",
+          "url": "https://flash.jin10.com/detail/20260402115639411800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "美元兑瑞郎USD/CHF日内涨幅扩大至0.50%，现报0.7979。",
+          "url": "https://flash.jin10.com/detail/20260402115616135800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
           "title": "美元指数1日下跌",
           "url": "https://flash.jin10.com/detail/20260402052148679800",
           "source": "金十数据",
@@ -449,6 +527,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
+        },
+        {
+          "title": "英镑兑美元GBP/USD日内跌超0.50%，现报1.3239。",
+          "url": "https://flash.jin10.com/detail/20260402115214154800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
         },
         {
           "title": "消息称SpaceX已秘密提交 IPO申请 估值或超1.75万亿美元",
@@ -465,7 +554,7 @@
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "央行等四部门联合召开科技金融工作交流推进会",
@@ -624,6 +713,17 @@
           "time_info": "07时28分"
         },
         {
+          "title": "多国央行大幅减持美债",
+          "url": "https://www.douyin.com/hot/2452076",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
           "title": "加拿大央行会议纪要：管委会认为，短期内经济增长面临下行风险，而油价冲击则构成了通胀的额外上行风险。",
           "url": "https://flash.jin10.com/detail/20260402013049579800",
           "source": "金十数据",
@@ -657,6 +757,28 @@
           "time_info": "01时58分"
         },
         {
+          "title": "“滞胀”来袭！美银：美联储今年料降息50基点 油价全年维持100美元",
+          "url": "https://www.cls.cn/detail/2332777",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "印度卢比兑美元上涨1.7%，之前印度央行采取措施抑制投机。",
+          "url": "https://wallstreetcn.com/livenews/3081291",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
           "title": "加拿大央行将于十分钟后公布货币政策会议纪要。",
           "url": "https://flash.jin10.com/detail/20260402012000000800",
           "source": "金十数据",
@@ -685,7 +807,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
         },
@@ -704,7 +826,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
         {
           "title": "Claude 正在自己设计下一代 Claude，当 AI 开始自我进化，将对行业带来哪些影响？",
@@ -760,6 +882,41 @@
           "time_info": "[00时02分 ~ 07时28分]"
         },
         {
+          "title": "工信部原副部长王江平谈“龙虾”：要关注AI发展的一体两面",
+          "url": "https://wallstreetcn.com/livenews/3081305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "IBM(IBM.N)：与Arm(ARM.O)合作开发新硬件，助力企业运行人工智能和数据密集型工作负载。",
+          "url": "https://flash.jin10.com/detail/20260402121026257800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "有了 AI 之后，遇到问题忍不住想找 AI 帮忙，长期这样下去会不会丧失思考能力？",
+          "url": "https://www.zhihu.com/question/2020209448975607009",
+          "source": "知乎",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时27分 ~ 12时19分]"
+        },
+        {
           "title": "美国商务部首次就“美国人工智能出口计划”征集提案。",
           "url": "https://flash.jin10.com/detail/20260402031852137800",
           "source": "金十数据",
@@ -783,18 +940,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时45分 ~ 03时52分]"
-        },
-        {
-          "title": "有了 AI 之后，遇到问题忍不住想找 AI 帮忙，长期这样下去会不会丧失思考能力？",
-          "url": "https://www.zhihu.com/question/2020209448975607009",
-          "source": "知乎",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时27分 ~ 09时15分]"
         },
         {
           "title": "如何把 AI 训练成自己的「第二大脑」？",
@@ -837,9 +982,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
+        },
+        {
+          "title": "可灵AI全球用户规模领先，成Sora关停后最受关注视频模型",
+          "url": "https://wallstreetcn.com/livenews/3081299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "男子利用AI编造谣言获刑6个月",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%88%A9%E7%94%A8AI%E7%BC%96%E9%80%A0%E8%B0%A3%E8%A8%80%E8%8E%B7%E5%88%916%E4%B8%AA%E6%9C%88",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
         },
         {
           "title": "伊朗官员Tabatabai：伊朗总统佩泽希齐扬给美国人民的重要信件将在几小时内发布。",
@@ -895,12 +1062,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "国家药监局：到2030年初步构建药品监管与人工智能融合创新体系",
+          "url": "https://wallstreetcn.com/livenews/3081273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
         }
       ]
     },
     {
       "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "乌克兰总统泽连斯基：俄罗斯以袭击乌克兰能源基础设施回击基辅提出的复活节停火倡议。",
@@ -925,6 +1103,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时52分 ~ 04时35分]"
+        },
+        {
+          "title": "IBM(IBM.N)：企业基础设施必须支持可用性运营，同时满足安全性和本地数据主权要求。",
+          "url": "https://flash.jin10.com/detail/20260402121009976800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
         },
         {
           "title": "印度政府公告：自4月2日至6月30日，硝酸铵免征农业基础设施与发展税。",
@@ -1036,7 +1225,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
         },
@@ -1054,8 +1243,47 @@
       ]
     },
     {
+      "keyword_group": "华为 小米 荣耀",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "重金押注研发,华为持续加码",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352676&amp;topic_name=%E9%87%8D%E9%87%91%E6%8A%BC%E6%B3%A8%E7%A0%94%E5%8F%91%2C%E5%8D%8E%E4%B8%BA%E6%8C%81%E7%BB%AD%E5%8A%A0%E7%A0%81",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "王者荣耀无双",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%97%A0%E5%8F%8C&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时15分"
+        },
+        {
+          "title": "华为旗舰标准智界V9不计成本投入",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E6%97%97%E8%88%B0%E6%A0%87%E5%87%86%E6%99%BA%E7%95%8CV9%E4%B8%8D%E8%AE%A1%E6%88%90%E6%9C%AC%E6%8A%95%E5%85%A5%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "纳斯达克金龙中国指数初步收涨0.3%。 热门中概股里，理想初步收涨3.1%，蔚来涨2.7%，腾讯涨0.8%，阿里巴巴跌1.3%，比亚迪跌2.2%。",
@@ -1078,58 +1306,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时27分 ~ 07时28分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "就业 裁员 招聘",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如何看待甲骨文被曝凌晨 6 点突然裁员 3 万人？上季度其净利润刚暴涨 95%，为啥此时会大规模裁人？",
-          "url": "https://www.zhihu.com/question/2022645720885327267",
-          "source": "知乎",
-          "ranks": [
-            8,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时02分 ~ 09时15分]"
         },
         {
-          "title": "“小非农”大超预期！美国3月ADP就业人数增加6.2万人，薪资加速增长",
-          "url": "https://wallstreetcn.com/articles/3769008",
-          "source": "华尔街见闻",
+          "title": "新势力3月销量环比大幅提升：零跑重回5万辆大关，理想超4万辆",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32872883",
+          "source": "澎湃新闻",
           "ranks": [
-            10
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "华为 小米 荣耀",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "王者荣耀无双",
-          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%97%A0%E5%8F%8C&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时15分"
+          "time_info": "12时19分"
         }
       ]
     },
     {
       "keyword_group": "苹果 iPhone",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
@@ -1143,6 +1336,75 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时02分 ~ 05时33分]"
+        },
+        {
+          "title": "3台旧手机能换1台iPhone？实地调查",
+          "url": "https://www.baidu.com/s?wd=3%E5%8F%B0%E6%97%A7%E6%89%8B%E6%9C%BA%E8%83%BD%E6%8D%A21%E5%8F%B0iPhone%EF%BC%9F%E5%AE%9E%E5%9C%B0%E8%B0%83%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "创业板",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "上证指数早盘收报3927.60点，跌0.53%。 深证成指早盘收报13548.46点，跌1.15%。 创业板指早盘收报3189.72点，跌1.78%。 沪深300早盘收报4492.35点，跌0.74%。 科创50早盘收报1268.90点，跌2.26%。 中证500早盘收报7644.25点，跌1.37%。 中证1000早盘收报7663.42点，跌1.30%。",
+          "url": "https://wallstreetcn.com/livenews/3081289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "4月2日午间收评：创业板指半日跌1.78%，油气、医药股逆势走强",
+          "url": "https://wallstreetcn.com/livenews/3081288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "就业 裁员 招聘",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何看待甲骨文被曝凌晨 6 点突然裁员 3 万人？上季度其净利润刚暴涨 95%，为啥此时会大规模裁人？",
+          "url": "https://www.zhihu.com/question/2022645720885327267",
+          "source": "知乎",
+          "ranks": [
+            8,
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时02分 ~ 12时19分]"
+        },
+        {
+          "title": "“小非农”大超预期！美国3月ADP就业人数增加6.2万人，薪资加速增长",
+          "url": "https://wallstreetcn.com/articles/3769008",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时15分"
         }
       ]
     },
@@ -1164,6 +1426,23 @@
       ]
     },
     {
+      "keyword_group": "大模型 ChatGPT Kimi Sora OpenAI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "豆包大模型日均Token使用量超120万亿，Seedance 2.0 API开启公测",
+          "url": "https://wallstreetcn.com/livenews/3081298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "英伟达 台积电 AMD 高通",
       "match_count": 1,
       "titles": [
@@ -1177,6 +1456,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "双十一 618 电商 优惠券",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "瑞幸新品喝一半发现椰肉「变紫」，仅获退款和优惠券，瑞幸回应「淡粉色」属于正常的自然现象，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2022360841962480972",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
         }
       ]
     }
