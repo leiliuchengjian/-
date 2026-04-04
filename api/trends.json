@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T09:12:05.293482+08:00",
-  "total_titles_processed": 663,
+  "generated_at": "2026-04-04T12:07:59.605929+08:00",
+  "total_titles_processed": 824,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
             10,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时25分 ~ 09时12分]"
+          "appearance_count": 11,
+          "time_info": "[01时25分 ~ 12时07分]"
         },
         {
           "title": "美联储：美国上周银行存款18.987万亿美元，之前一周18.895万亿美元。",
@@ -155,7 +156,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
         },
@@ -185,7 +186,7 @@
     },
     {
       "keyword_group": "就业 裁员 招聘",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "超预期反弹！美国3月非农新增就业17.8万人，创逾一年新高，失业率意外降至4.3% ！",
@@ -199,8 +200,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 09时12分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 12时07分]"
         },
         {
           "title": "旧金山联储主席戴利（2027年FOMC票委）：（就业人口）零增长或负增长并不一定意味着（劳动力市场）疲软。 劳动力增速放缓，意味着就业人口增速放慢。",
@@ -249,6 +250,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时25分 ~ 04时24分]"
+        },
+        {
+          "title": "美国总统特朗普：3月新增非农就业人口17.8万人，失业率下降。各方都认为这是个好数字，连那些假新闻媒体也如此。让美国再次伟大！",
+          "url": "https://flash.jin10.com/detail/20260404110623924800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
         },
         {
           "title": "美国3月非农就业报告要点总结：“爆冷”走强",
@@ -300,6 +312,17 @@
           "time_info": "[01时25分 ~ 02时33分]"
         },
         {
+          "title": "华泰证券：3月非农超预期回升显示美国就业市场韧性 通胀目前是联储货币政策的核心变量",
+          "url": "https://flash.jin10.com/detail/20260404104944218800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
           "title": "周五（4月3日），美国股指期货提前结束交易，标普500股指期货（在非农就业报告发布后）最终跌0.32%，道指期货跌0.23%，纳斯达克100股指期货跌0.38%。 罗素2000股指期货跌0.52%。",
           "url": "https://wallstreetcn.com/livenews/3082248",
           "source": "华尔街见闻-快讯",
@@ -314,7 +337,7 @@
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "就在今晚！中东战火下首份非农出炉：美联储会倒向降息还是加息？",
@@ -415,6 +438,28 @@
           "time_info": "[00时28分 ~ 01时25分]"
         },
         {
+          "title": "\"新美联储通讯社\"：就业超预期增长暂解美联储两难，市场削减降息押注",
+          "url": "https://wallstreetcn.com/articles/3769224",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "越南3月CPI年率 4.65%，预期4.03%，前值3.35%。",
+          "url": "https://flash.jin10.com/detail/20260404090145779800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
           "title": "美国2027财年预算：特朗普拟寻求将近2.2万亿美元，预计CPI将上升2.3%",
           "url": "https://wallstreetcn.com/livenews/3082250",
           "source": "华尔街见闻-快讯",
@@ -429,7 +474,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "Claude源码能否让全球AI工具大升级",
@@ -439,11 +484,29 @@
             2,
             3,
             4,
-            9
+            9,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 09时12分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 12时07分]"
+        },
+        {
+          "title": "新版软著申请表要求不得使用 AI 编写代码或文档，违者纳入征信记录，对行业有哪些影响？",
+          "url": "https://www.zhihu.com/question/2022610310935115479",
+          "source": "知乎",
+          "ranks": [
+            18,
+            13,
+            10,
+            5,
+            2,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[03时32分 ~ 12时07分]"
         },
         {
           "title": "40岁男子AI成瘾无法接受版本更新",
@@ -465,43 +528,29 @@
           "time_info": "[00时28分 ~ 09时12分]"
         },
         {
-          "title": "新版软著申请表要求不得使用 AI 编写代码或文档，违者纳入征信记录，对行业有哪些影响？",
-          "url": "https://www.zhihu.com/question/2022610310935115479",
-          "source": "知乎",
-          "ranks": [
-            18,
-            13,
-            10,
-            5,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时32分 ~ 09时12分]"
-        },
-        {
           "title": "AI冲击+侵权,配音演员联合抵制",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352714&amp;topic_name=AI%E5%86%B2%E5%87%BB%2B%E4%BE%B5%E6%9D%83%2C%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E8%81%94%E5%90%88%E6%8A%B5%E5%88%B6",
           "source": "贴吧",
           "ranks": [
             25,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 09时12分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 12时07分]"
         },
         {
           "title": "江苏：加快打造人工智能创新发展高地 大力支持OPC创新创业",
           "url": "https://wallstreetcn.com/livenews/3082360",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 12时07分]"
         },
         {
           "title": "谷歌推出Veo 3.1 Lite版本，并在VertexAI平台新增Veo超分辨率升级功能。",
@@ -538,12 +587,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
+        },
+        {
+          "title": "江苏：加快打造人工智能创新发展高地 大力支持OPC创新创业",
+          "url": "https://flash.jin10.com/detail/20260404085049313800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
         }
       ]
     },
     {
       "keyword_group": "苹果 iPhone",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "苹果被曝高价扫荡全球手机内存，不惜牺牲利润锁死对手供应链，内存价格会再度暴涨吗？对安卓阵营冲击有多大？",
@@ -551,11 +611,12 @@
           "source": "知乎",
           "ranks": [
             2,
-            1
+            1,
+            14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 09时12分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 12时07分]"
         },
         {
           "title": "工信部紧急提醒苹果用户",
@@ -600,6 +661,18 @@
           "time_info": "[01时25分 ~ 09时12分]"
         },
         {
+          "title": "内存一年涨四倍！国产手机厂商集体涨价：会持续多久？苹果会加入吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32891755",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时11分 ~ 12时07分]"
+        },
+        {
           "title": "报道：苹果正高价囤积“所有的”移动DRAM",
           "url": "https://wallstreetcn.com/articles/3769176",
           "source": "华尔街见闻",
@@ -607,19 +680,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时11分 ~ 09时12分]"
-        },
-        {
-          "title": "内存一年涨四倍！国产手机厂商集体涨价：会持续多久？苹果会加入吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32891755",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时11分 ~ 09时12分]"
+          "appearance_count": 3,
+          "time_info": "[09时11分 ~ 12时07分]"
         },
         {
           "title": "工信部提醒苹果用户：做好风险排查",
@@ -631,6 +693,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "苹果设备被曝存在高危漏洞",
+          "url": "https://www.douyin.com/hot/2454543",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
         }
       ]
     },
@@ -656,7 +729,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
         },
@@ -699,57 +772,8 @@
       ]
     },
     {
-      "keyword_group": "大学生 毕业生",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "有一个大学生前来面试",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9C%89%E4%B8%80%E4%B8%AA%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%89%8D%E6%9D%A5%E9%9D%A2%E8%AF%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            13,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 09时12分]"
-        },
-        {
-          "title": "为什么有些大学生明明交了学费，却宁愿逃课也不去上课？",
-          "url": "https://www.zhihu.com/question/2021181209670088397",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 07时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "华为 小米 荣耀",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "内存疯涨,小米手机也涨价",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352734&amp;topic_name=%E5%86%85%E5%AD%98%E7%96%AF%E6%B6%A8%2C%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA%E4%B9%9F%E6%B6%A8%E4%BB%B7",
-          "source": "贴吧",
-          "ranks": [
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 09时12分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "比亚迪推出限时优惠政策",
@@ -764,6 +788,107 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时25分 ~ 07时25分]"
+        },
+        {
+          "title": "比亚迪再推两款12万级别新车",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%86%8D%E6%8E%A8%E4%B8%A4%E6%AC%BE12%E4%B8%87%E7%BA%A7%E5%88%AB%E6%96%B0%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "比亚迪再推两款12万级别新车",
+          "url": "https://www.toutiao.com/trending/7623711798637740068/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大学生 毕业生",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "有一个大学生前来面试",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%89%E4%B8%80%E4%B8%AA%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%89%8D%E6%9D%A5%E9%9D%A2%E8%AF%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            13,
+            9,
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 12时07分]"
+        },
+        {
+          "title": "为什么有些大学生明明交了学费，却宁愿逃课也不去上课？",
+          "url": "https://www.zhihu.com/question/2021181209670088397",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 07时25分]"
+        },
+        {
+          "title": "南京被害女大学生父亲现状",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E8%A2%AB%E5%AE%B3%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%88%B6%E4%BA%B2%E7%8E%B0%E7%8A%B6%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为 小米 荣耀",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "内存疯涨,小米手机也涨价",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352734&amp;topic_name=%E5%86%85%E5%AD%98%E7%96%AF%E6%B6%A8%2C%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA%E4%B9%9F%E6%B6%A8%E4%BB%B7",
+          "source": "贴吧",
+          "ranks": [
+            20,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 12时07分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大模型 ChatGPT Kimi Sora OpenAI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "千问3.6Plus大模型登顶全球模型调用排行榜首",
+          "url": "https://wallstreetcn.com/livenews/3082373",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
         }
       ]
     },
