@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-04T17:29:04.075936+08:00",
-  "total_titles_processed": 1173,
+  "generated_at": "2026-04-04T18:24:00.337175+08:00",
+  "total_titles_processed": 1241,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "“全球最重要的现货原油价格”飙升至140美元以上，2008年以来第一次！",
@@ -37,6 +37,18 @@
           "time_info": "[01时25分 ~ 15时42分]"
         },
         {
+          "title": "二战以来最大军费年增！特朗普政府寻求2027财年国防预算1.5万亿美元，非国防支出压缩10%",
+          "url": "https://wallstreetcn.com/articles/3769222",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时30分 ~ 18时24分]"
+        },
+        {
           "title": "美联储：美国上周银行存款18.987万亿美元，之前一周18.895万亿美元。",
           "url": "https://wallstreetcn.com/livenews/3082326",
           "source": "华尔街见闻-快讯",
@@ -49,18 +61,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时24分 ~ 09时12分]"
-        },
-        {
-          "title": "二战以来最大军费年增！特朗普政府寻求2027财年国防预算1.5万亿美元，非国防支出压缩10%",
-          "url": "https://wallstreetcn.com/articles/3769222",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时30分 ~ 17时29分]"
         },
         {
           "title": "马斯克要求那些参与SpaceX美国IPO的公司购买Grok。 某些银行同意在Grok开支数千万美元。 某些银行开始将Grok融合到它们的系统。（纽约时报）",
@@ -174,6 +174,28 @@
           "time_info": "09时12分"
         },
         {
+          "title": "印度塔塔钢铁因超额采矿被罚款约1.89亿美元",
+          "url": "https://wallstreetcn.com/livenews/3082419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
+          "title": "印度塔塔钢铁因超额采矿被罚款约1.89亿美元",
+          "url": "https://flash.jin10.com/detail/20260404171513707800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
           "title": "美元指数目前涨0.07%，在清淡行情中持稳于100.100点下方，北京时间20:30披露非农就业报告时从100整数位心理关口下方瞬间拉升至100.160刷新日高。 美国官员称，一架美军F-15战斗机在伊朗被击落，美方在搜寻被击落的F-15战斗机机组人员。",
           "url": "https://wallstreetcn.com/livenews/3082252",
           "source": "华尔街见闻-快讯",
@@ -194,6 +216,201 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能 AI",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "Claude源码能否让全球AI工具大升级",
+          "url": "https://search.bilibili.com/all?keyword=Claude%E6%BA%90%E7%A0%81%E8%83%BD%E5%90%A6%E8%AE%A9%E5%85%A8%E7%90%83AI%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%8D%87%E7%BA%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3,
+            4,
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 12时07分]"
+        },
+        {
+          "title": "新版软著申请表要求不得使用 AI 编写代码或文档，违者纳入征信记录，对行业有哪些影响？",
+          "url": "https://www.zhihu.com/question/2022610310935115479",
+          "source": "知乎",
+          "ranks": [
+            18,
+            13,
+            10,
+            5,
+            2,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[03时32分 ~ 15时42分]"
+        },
+        {
+          "title": "40岁男子AI成瘾无法接受版本更新",
+          "url": "https://www.baidu.com/s?wd=40%E5%B2%81%E7%94%B7%E5%AD%90AI%E6%88%90%E7%98%BE%E6%97%A0%E6%B3%95%E6%8E%A5%E5%8F%97%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            19,
+            17,
+            16,
+            10,
+            23,
+            25,
+            20,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 09时12分]"
+        },
+        {
+          "title": "AI冲击+侵权,配音演员联合抵制",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352714&amp;topic_name=AI%E5%86%B2%E5%87%BB%2B%E4%BE%B5%E6%9D%83%2C%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E8%81%94%E5%90%88%E6%8A%B5%E5%88%B6",
+          "source": "贴吧",
+          "ranks": [
+            25,
+            26,
+            28,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时28分 ~ 16时31分]"
+        },
+        {
+          "title": "Space X并购xAI目的何在",
+          "url": "https://search.bilibili.com/all?keyword=Space%20X%E5%B9%B6%E8%B4%ADxAI%E7%9B%AE%E7%9A%84%E4%BD%95%E5%9C%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时46分 ~ 18时24分]"
+        },
+        {
+          "title": "江苏：加快打造人工智能创新发展高地 大力支持OPC创新创业",
+          "url": "https://wallstreetcn.com/livenews/3082360",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时12分 ~ 13时50分]"
+        },
+        {
+          "title": "美媒：因AI初创公司Mercor发生数据泄露事件 Meta暂停与其合作",
+          "url": "https://flash.jin10.com/detail/20260404125453767800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时50分 ~ 14时46分]"
+        },
+        {
+          "title": "谷歌推出Veo 3.1 Lite版本，并在VertexAI平台新增Veo超分辨率升级功能。",
+          "url": "https://wallstreetcn.com/livenews/3082305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时33分 ~ 05时24分]"
+        },
+        {
+          "title": "千问AI打车上线后周环比增长超1500%",
+          "url": "https://wallstreetcn.com/livenews/3082383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            10,
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时50分 ~ 16时31分]"
+        },
+        {
+          "title": "胜宏科技：未来AI PCB是整个PCB行业最具确定性的增长细分方向",
+          "url": "https://wallstreetcn.com/livenews/3082402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时31分 ~ 18时24分]"
+        },
+        {
+          "title": "数千年炼铁方式变了 中国AI高炉出铁",
+          "url": "https://www.baidu.com/s?wd=%E6%95%B0%E5%8D%83%E5%B9%B4%E7%82%BC%E9%93%81%E6%96%B9%E5%BC%8F%E5%8F%98%E4%BA%86+%E4%B8%AD%E5%9B%BDAI%E9%AB%98%E7%82%89%E5%87%BA%E9%93%81",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时32分 ~ 04时24分]"
+        },
+        {
+          "title": "OpenAI在冲刺IPO的关键时刻，高管层大重组",
+          "url": "https://wallstreetcn.com/livenews/3082422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
+          "title": "除了外卖，美团其实投了大半个中国 AI 独角兽，如何看待美团在 AI 领域的投资布局？",
+          "url": "https://www.zhihu.com/question/2020797858002073328",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "江苏：加快打造人工智能创新发展高地 大力支持OPC创新创业",
+          "url": "https://flash.jin10.com/detail/20260404085049313800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时07分"
         }
       ]
     },
@@ -234,8 +451,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时07分 ~ 17时29分]"
+          "appearance_count": 11,
+          "time_info": "[12时07分 ~ 18时24分]"
         },
         {
           "title": "国际货币基金组织(IMF)：日本央行正在恰当地退出货币宽松政策。随着基础通胀率向日本央行目标靠拢，逐步加息直至利率达到中性水平的进程应该继续。",
@@ -375,188 +592,6 @@
       ]
     },
     {
-      "keyword_group": "人工智能 AI",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "Claude源码能否让全球AI工具大升级",
-          "url": "https://search.bilibili.com/all?keyword=Claude%E6%BA%90%E7%A0%81%E8%83%BD%E5%90%A6%E8%AE%A9%E5%85%A8%E7%90%83AI%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%8D%87%E7%BA%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            3,
-            4,
-            9,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时28分 ~ 12时07分]"
-        },
-        {
-          "title": "新版软著申请表要求不得使用 AI 编写代码或文档，违者纳入征信记录，对行业有哪些影响？",
-          "url": "https://www.zhihu.com/question/2022610310935115479",
-          "source": "知乎",
-          "ranks": [
-            18,
-            13,
-            10,
-            5,
-            2,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[03时32分 ~ 15时42分]"
-        },
-        {
-          "title": "40岁男子AI成瘾无法接受版本更新",
-          "url": "https://www.baidu.com/s?wd=40%E5%B2%81%E7%94%B7%E5%AD%90AI%E6%88%90%E7%98%BE%E6%97%A0%E6%B3%95%E6%8E%A5%E5%8F%97%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            19,
-            17,
-            16,
-            10,
-            23,
-            25,
-            20,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 09时12分]"
-        },
-        {
-          "title": "AI冲击+侵权,配音演员联合抵制",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352714&amp;topic_name=AI%E5%86%B2%E5%87%BB%2B%E4%BE%B5%E6%9D%83%2C%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E8%81%94%E5%90%88%E6%8A%B5%E5%88%B6",
-          "source": "贴吧",
-          "ranks": [
-            25,
-            26,
-            28,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时28分 ~ 16时31分]"
-        },
-        {
-          "title": "Space X并购xAI目的何在",
-          "url": "https://search.bilibili.com/all?keyword=Space%20X%E5%B9%B6%E8%B4%ADxAI%E7%9B%AE%E7%9A%84%E4%BD%95%E5%9C%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时46分 ~ 17时29分]"
-        },
-        {
-          "title": "江苏：加快打造人工智能创新发展高地 大力支持OPC创新创业",
-          "url": "https://wallstreetcn.com/livenews/3082360",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时12分 ~ 13时50分]"
-        },
-        {
-          "title": "美媒：因AI初创公司Mercor发生数据泄露事件 Meta暂停与其合作",
-          "url": "https://flash.jin10.com/detail/20260404125453767800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时50分 ~ 14时46分]"
-        },
-        {
-          "title": "谷歌推出Veo 3.1 Lite版本，并在VertexAI平台新增Veo超分辨率升级功能。",
-          "url": "https://wallstreetcn.com/livenews/3082305",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            12,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时33分 ~ 05时24分]"
-        },
-        {
-          "title": "千问AI打车上线后周环比增长超1500%",
-          "url": "https://wallstreetcn.com/livenews/3082383",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            10,
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时50分 ~ 16时31分]"
-        },
-        {
-          "title": "胜宏科技：未来AI PCB是整个PCB行业最具确定性的增长细分方向",
-          "url": "https://wallstreetcn.com/livenews/3082402",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 17时29分]"
-        },
-        {
-          "title": "数千年炼铁方式变了 中国AI高炉出铁",
-          "url": "https://www.baidu.com/s?wd=%E6%95%B0%E5%8D%83%E5%B9%B4%E7%82%BC%E9%93%81%E6%96%B9%E5%BC%8F%E5%8F%98%E4%BA%86+%E4%B8%AD%E5%9B%BDAI%E9%AB%98%E7%82%89%E5%87%BA%E9%93%81",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时32分 ~ 04时24分]"
-        },
-        {
-          "title": "除了外卖，美团其实投了大半个中国 AI 独角兽，如何看待美团在 AI 领域的投资布局？",
-          "url": "https://www.zhihu.com/question/2020797858002073328",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        },
-        {
-          "title": "江苏：加快打造人工智能创新发展高地 大力支持OPC创新创业",
-          "url": "https://flash.jin10.com/detail/20260404085049313800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        }
-      ]
-    },
-    {
       "keyword_group": "就业 裁员 招聘",
       "match_count": 12,
       "titles": [
@@ -574,8 +609,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时28分 ~ 17时29分]"
+          "appearance_count": 22,
+          "time_info": "[00时28分 ~ 18时24分]"
         },
         {
           "title": "旧金山联储主席戴利（2027年FOMC票委）：（就业人口）零增长或负增长并不一定意味着（劳动力市场）疲软。 劳动力增速放缓，意味着就业人口增速放慢。",
@@ -727,6 +762,18 @@
           "time_info": "[00时28分 ~ 09时12分]"
         },
         {
+          "title": "高铁站禁烟仅1天男子当众吸烟被拍",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E7%AB%99%E7%A6%81%E7%83%9F%E4%BB%851%E5%A4%A9%E7%94%B7%E5%AD%90%E5%BD%93%E4%BC%97%E5%90%B8%E7%83%9F%E8%A2%AB%E6%8B%8D%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时28分 ~ 18时24分]"
+        },
+        {
           "title": "以军称空袭德黑兰多处关键基础设施",
           "url": "https://wallstreetcn.com/livenews/3082392",
           "source": "华尔街见闻-快讯",
@@ -789,6 +836,17 @@
           "time_info": "[15时42分 ~ 16时31分]"
         },
         {
+          "title": "中国驻以使馆提醒：在以中国公民远离民用基础设施",
+          "url": "https://news.ifeng.com/c/8s3CgdlzyZ6",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时28分 ~ 18时24分]"
+        },
+        {
           "title": "伊朗称若基础设施遭袭将更有力回击",
           "url": "https://www.toutiao.com/trending/7624384049926569990/",
           "source": "今日头条",
@@ -799,17 +857,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时30分 ~ 17时29分]"
-        },
-        {
-          "title": "中国驻以使馆提醒：在以中国公民远离民用基础设施",
-          "url": "https://news.ifeng.com/c/8s3CgdlzyZ6",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 17时29分]"
         },
         {
           "title": "伊朗军方严正警告美方：若破坏基础设施必遭强硬回击",
@@ -833,17 +880,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时42分 ~ 16时31分]"
-        },
-        {
-          "title": "高铁站禁烟仅1天男子当众吸烟被拍",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E7%AB%99%E7%A6%81%E7%83%9F%E4%BB%851%E5%A4%A9%E7%94%B7%E5%AD%90%E5%BD%93%E4%BC%97%E5%90%B8%E7%83%9F%E8%A2%AB%E6%8B%8D%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 17时29分]"
         }
       ]
     },
@@ -863,8 +899,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时28分 ~ 17时29分]"
+          "appearance_count": 22,
+          "time_info": "[00时28分 ~ 18时24分]"
         },
         {
           "title": "工信部紧急提醒苹果用户",
@@ -890,8 +926,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时11分 ~ 17时29分]"
+          "appearance_count": 13,
+          "time_info": "[09时11分 ~ 18时24分]"
         },
         {
           "title": "业内：苹果欲牺牲利润阻击对手",
@@ -915,11 +951,12 @@
             9,
             14,
             12,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时07分 ~ 17时29分]"
+          "appearance_count": 11,
+          "time_info": "[12时07分 ~ 18时24分]"
         },
         {
           "title": "苹果第8号员工至今还在职",
@@ -965,6 +1002,20 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "比亚迪再推两款12万级别新车",
+          "url": "https://www.toutiao.com/trending/7623711798637740068/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            23,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时07分 ~ 18时24分]"
+        },
+        {
           "title": "比亚迪推出限时优惠政策",
           "url": "https://www.toutiao.com/trending/7624299443176751123/",
           "source": "今日头条",
@@ -992,39 +1043,28 @@
           "time_info": "[12时07分 ~ 14时46分]"
         },
         {
-          "title": "比亚迪再推两款12万级别新车",
-          "url": "https://www.toutiao.com/trending/7623711798637740068/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            23,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时07分 ~ 14时46分]"
-        },
-        {
           "title": "特斯拉超级充电桩全球突破80000根",
           "url": "https://wallstreetcn.com/livenews/3082412",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 18时24分]"
         },
         {
           "title": "特斯拉超级充电桩全球突破80000根",
           "url": "https://flash.jin10.com/detail/20260404163036906800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 18时24分]"
         }
       ]
     },
@@ -1090,6 +1130,48 @@
       ]
     },
     {
+      "keyword_group": "华为 小米 荣耀",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "内存疯涨,小米手机也涨价",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352734&amp;topic_name=%E5%86%85%E5%AD%98%E7%96%AF%E6%B6%A8%2C%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA%E4%B9%9F%E6%B6%A8%E4%BB%B7",
+          "source": "贴吧",
+          "ranks": [
+            20,
+            21,
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时28分 ~ 14时46分]"
+        },
+        {
+          "title": "公开质疑小米引热议 私募大佬深夜回应",
+          "url": "https://wallstreetcn.com/livenews/3082421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
+          "title": "公开质疑小米引热议 私募大佬深夜回应",
+          "url": "https://flash.jin10.com/detail/20260404171937400800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "大模型 ChatGPT Kimi Sora OpenAI",
       "match_count": 3,
       "titles": [
@@ -1126,29 +1208,9 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "华为 小米 荣耀",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "内存疯涨,小米手机也涨价",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352734&amp;topic_name=%E5%86%85%E5%AD%98%E7%96%AF%E6%B6%A8%2C%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA%E4%B9%9F%E6%B6%A8%E4%BB%B7",
-          "source": "贴吧",
-          "ranks": [
-            20,
-            21,
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时28分 ~ 14时46分]"
         }
       ]
     },
