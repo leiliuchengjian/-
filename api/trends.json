@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-04T07:25:27.346727+08:00",
-  "total_titles_processed": 544,
+  "generated_at": "2026-04-04T09:12:05.293482+08:00",
+  "total_titles_processed": 663,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "“全球最重要的现货原油价格”飙升至140美元以上，2008年以来第一次！",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 07时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 09时12分]"
         },
         {
           "title": "两周卖金118吨，价值200亿美元！土耳其上周抛售近70吨黄金，创2013年以来最高纪录",
@@ -26,11 +27,12 @@
           "ranks": [
             10,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时25分 ~ 07时25分]"
+          "appearance_count": 10,
+          "time_info": "[01时25分 ~ 09时12分]"
         },
         {
           "title": "美联储：美国上周银行存款18.987万亿美元，之前一周18.895万亿美元。",
@@ -39,11 +41,12 @@
           "ranks": [
             1,
             12,
-            17
+            17,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时24分 ~ 07时25分]"
+          "appearance_count": 4,
+          "time_info": "[05时24分 ~ 09时12分]"
         },
         {
           "title": "马斯克要求那些参与SpaceX美国IPO的公司购买Grok。 某些银行同意在Grok开支数千万美元。 某些银行开始将Grok融合到它们的系统。（纽约时报）",
@@ -59,6 +62,19 @@
           "time_info": "[02时33分 ~ 05时24分]"
         },
         {
+          "title": "周五（4月3日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.8859元，较周四纽约尾盘涨42点，日内整体交投于6.8904-6.8787元区间。",
+          "url": "https://wallstreetcn.com/livenews/3082335",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时22分 ~ 09时12分]"
+        },
+        {
           "title": "纽元/美元日内跌幅达0.5%，报0.5683。",
           "url": "https://wallstreetcn.com/livenews/3082321",
           "source": "华尔街见闻-快讯",
@@ -72,16 +88,17 @@
           "time_info": "[05时24分 ~ 07时25分]"
         },
         {
-          "title": "周五（4月3日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.8859元，较周四纽约尾盘涨42点，日内整体交投于6.8904-6.8787元区间。",
-          "url": "https://wallstreetcn.com/livenews/3082335",
+          "title": "比特币目前跌0.15%，持稳于66800美元上方。 据NBC报道，美国A-10战斗机在搜救之间坠毁飞机的过程中被伊朗击中。 A-10飞行员在科威特空域内弹射，目前是安全的。",
+          "url": "https://wallstreetcn.com/livenews/3082330",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            11
+            10,
+            15,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时22分 ~ 07时25分]"
+          "appearance_count": 3,
+          "time_info": "[06时22分 ~ 09时12分]"
         },
         {
           "title": "特朗普计划拨款1.52亿美元，重启“恶魔岛”监狱",
@@ -120,18 +137,6 @@
           "time_info": "[00时28分 ~ 01时25分]"
         },
         {
-          "title": "比特币目前跌0.15%，持稳于66800美元上方。 据NBC报道，美国A-10战斗机在搜救之间坠毁飞机的过程中被伊朗击中。 A-10飞行员在科威特空域内弹射，目前是安全的。",
-          "url": "https://wallstreetcn.com/livenews/3082330",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时22分 ~ 07时25分]"
-        },
-        {
           "title": "美国联手新伙伴，将霍尔木兹海峡再保险担保翻倍至400亿美元",
           "url": "https://wallstreetcn.com/livenews/3082264",
           "source": "华尔街见闻-快讯",
@@ -142,6 +147,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 01时25分]"
+        },
+        {
+          "title": "据福克斯新闻：美联航确认，从周五开始，购买机票的旅客托运行李费用将上涨10美元，达到50美元。",
+          "url": "https://flash.jin10.com/detail/20260404082346951800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
         },
         {
           "title": "美元指数目前涨0.07%，在清淡行情中持稳于100.100点下方，北京时间20:30披露非农就业报告时从100整数位心理关口下方瞬间拉升至100.160刷新日高。 美国官员称，一架美军F-15战斗机在伊朗被击落，美方在搜寻被击落的F-15战斗机机组人员。",
@@ -179,11 +195,12 @@
             9,
             8,
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 07时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 09时12分]"
         },
         {
           "title": "旧金山联储主席戴利（2027年FOMC票委）：（就业人口）零增长或负增长并不一定意味着（劳动力市场）疲软。 劳动力增速放缓，意味着就业人口增速放慢。",
@@ -360,6 +377,19 @@
           "time_info": "[00时28分 ~ 01时25分]"
         },
         {
+          "title": "IMF呼吁日本央行继续加息",
+          "url": "https://wallstreetcn.com/livenews/3082334",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时22分 ~ 09时12分]"
+        },
+        {
           "title": "全球央行“囤金时代”结束了吗",
           "url": "https://www.toutiao.com/trending/7624509232368324115/",
           "source": "今日头条",
@@ -371,18 +401,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时28分 ~ 06时22分]"
-        },
-        {
-          "title": "IMF呼吁日本央行继续加息",
-          "url": "https://wallstreetcn.com/livenews/3082334",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时22分 ~ 07时25分]"
         },
         {
           "title": "“新美联储通讯社”：就业超预期增长暂解美联储两难，市场削减降息押注",
@@ -411,7 +429,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "Claude源码能否让全球AI工具大升级",
@@ -420,11 +438,12 @@
           "ranks": [
             2,
             3,
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 07时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 09时12分]"
         },
         {
           "title": "40岁男子AI成瘾无法接受版本更新",
@@ -438,22 +457,12 @@
             10,
             23,
             25,
-            20
+            20,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 07时25分]"
-        },
-        {
-          "title": "AI冲击+侵权,配音演员联合抵制",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352714&amp;topic_name=AI%E5%86%B2%E5%87%BB%2B%E4%BE%B5%E6%9D%83%2C%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E8%81%94%E5%90%88%E6%8A%B5%E5%88%B6",
-          "source": "贴吧",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 07时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 09时12分]"
         },
         {
           "title": "新版软著申请表要求不得使用 AI 编写代码或文档，违者纳入征信记录，对行业有哪些影响？",
@@ -464,11 +473,35 @@
             13,
             10,
             5,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时32分 ~ 07时25分]"
+          "appearance_count": 8,
+          "time_info": "[03时32分 ~ 09时12分]"
+        },
+        {
+          "title": "AI冲击+侵权,配音演员联合抵制",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352714&amp;topic_name=AI%E5%86%B2%E5%87%BB%2B%E4%BE%B5%E6%9D%83%2C%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E8%81%94%E5%90%88%E6%8A%B5%E5%88%B6",
+          "source": "贴吧",
+          "ranks": [
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 09时12分]"
+        },
+        {
+          "title": "江苏：加快打造人工智能创新发展高地 大力支持OPC创新创业",
+          "url": "https://wallstreetcn.com/livenews/3082360",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
         },
         {
           "title": "谷歌推出Veo 3.1 Lite版本，并在VertexAI平台新增Veo超分辨率升级功能。",
@@ -510,7 +543,7 @@
     },
     {
       "keyword_group": "苹果 iPhone",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "苹果被曝高价扫荡全球手机内存，不惜牺牲利润锁死对手供应链，内存价格会再度暴涨吗？对安卓阵营冲击有多大？",
@@ -521,8 +554,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 07时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 09时12分]"
         },
         {
           "title": "工信部紧急提醒苹果用户",
@@ -530,11 +563,12 @@
           "source": "微博",
           "ranks": [
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 07时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 09时12分]"
         },
         {
           "title": "业内：苹果欲牺牲利润阻击对手",
@@ -543,11 +577,12 @@
           "ranks": [
             13,
             14,
-            15
+            15,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 07时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 09时12分]"
         },
         {
           "title": "苹果第8号员工至今还在职",
@@ -557,11 +592,34 @@
             16,
             17,
             23,
-            29
+            29,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时25分 ~ 07时25分]"
+          "appearance_count": 7,
+          "time_info": "[01时25分 ~ 09时12分]"
+        },
+        {
+          "title": "报道：苹果正高价囤积“所有的”移动DRAM",
+          "url": "https://wallstreetcn.com/articles/3769176",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时11分 ~ 09时12分]"
+        },
+        {
+          "title": "内存一年涨四倍！国产手机厂商集体涨价：会持续多久？苹果会加入吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32891755",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时11分 ~ 09时12分]"
         },
         {
           "title": "工信部提醒苹果用户：做好风险排查",
@@ -578,7 +636,7 @@
     },
     {
       "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "高铁运行中开窗会被吸出去系误区",
@@ -588,19 +646,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 07时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 09时12分]"
         },
         {
-          "title": "伊朗军方严正警告美方：若破坏伊基础设施必遭强硬回击",
-          "url": "https://flash.jin10.com/detail/20260404062116568800",
+          "title": "以色列军方：已开始对黎巴嫩贝鲁特境内的真主党基础设施目标发动空袭。",
+          "url": "https://flash.jin10.com/detail/20260404083252451800",
           "source": "金十数据",
           "ranks": [
-            2
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时25分"
+          "time_info": "09时12分"
         },
         {
           "title": "伊朗军方严正警告美方：若破坏伊基础设施必遭强硬回击",
@@ -608,11 +666,35 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            8
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时22分 ~ 09时12分]"
+        },
+        {
+          "title": "伊朗军方严正警告美方：若破坏伊基础设施必遭强硬回击",
+          "url": "https://flash.jin10.com/detail/20260404062116568800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时22分 ~ 07时25分]"
+          "time_info": "[07时25分 ~ 09时12分]"
+        },
+        {
+          "title": "伊朗军方严正警告美方：若破坏基础设施必遭强硬回击",
+          "url": "https://news.ifeng.com/c/8s2WMe387GA",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时11分 ~ 09时12分]"
         }
       ]
     },
@@ -631,8 +713,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 07时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 09时12分]"
         },
         {
           "title": "为什么有些大学生明明交了学费，却宁愿逃课也不去上课？",
@@ -656,11 +738,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352734&amp;topic_name=%E5%86%85%E5%AD%98%E7%96%AF%E6%B6%A8%2C%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA%E4%B9%9F%E6%B6%A8%E4%BB%B7",
           "source": "贴吧",
           "ranks": [
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 07时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 09时12分]"
         }
       ]
     },
