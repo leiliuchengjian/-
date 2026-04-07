@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T12:25:15.252778+08:00",
-  "total_titles_processed": 1036,
+  "generated_at": "2026-04-07T14:13:46.026221+08:00",
+  "total_titles_processed": 1157,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "人民币跨境支付系统单日交易额破 1.2 万亿元，3 月日均交易额创过去 12 个月以来最高，这意味着什么？",
@@ -29,7 +29,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
         },
@@ -43,17 +43,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时37分"
-        },
-        {
-          "title": "WTI原油期货站上116美元/桶关口，日内涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/3083142",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时25分"
         },
         {
           "title": "Omdia：2030年全球在线视频和电视收入将超过1万亿美元",
@@ -114,6 +103,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 06时25分]"
+        },
+        {
+          "title": "WTI原油期货站上116美元/桶关口，日内涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3083142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 14时13分]"
         },
         {
           "title": "WTI原油5分钟内下跌0.5美元/桶，报112.89美元/桶。",
@@ -297,6 +298,17 @@
           "time_info": "07时27分"
         },
         {
+          "title": "首形科技完成数亿元人民币A1轮融资",
+          "url": "https://wallstreetcn.com/livenews/3083169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        },
+        {
           "title": "高盛：对于2026/2027年之后，仍然坚持认为铜价将在2035年上涨至15000美元。",
           "url": "https://flash.jin10.com/detail/20260407053740657800",
           "source": "金十数据",
@@ -394,12 +406,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
+        },
+        {
+          "title": "据英国金融时报：美国战略与国际研究中心的高级国防与安全顾问Mark Cancian表示，他估计这场行动每天给美国带来的成本约为五亿美元。",
+          "url": "https://flash.jin10.com/detail/20260407131059081800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
         }
       ]
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "最刺激的“调研”？“网红AI研究机构”：公开数据漏报了50%霍尔木兹真实通行量",
@@ -514,9 +537,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
+        },
+        {
+          "title": "如果创造一个汉字来代替「AI」这个词，你会如何创造它的字形与发音，为什么？",
+          "url": "https://www.zhihu.com/question/667901263",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时18分 ~ 14时13分]"
         },
         {
           "title": "中国AI大模型调用量连续五周超美国",
@@ -524,17 +558,6 @@
           "source": "今日头条",
           "ranks": [
             8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时18分 ~ 12时25分]"
-        },
-        {
-          "title": "如果创造一个汉字来代替「AI」这个词，你会如何创造它的字形与发音，为什么？",
-          "url": "https://www.zhihu.com/question/667901263",
-          "source": "知乎",
-          "ranks": [
             10
           ],
           "is_new": false,
@@ -634,6 +657,17 @@
           "time_info": "01时37分"
         },
         {
+          "title": "芭比大战AI偶像",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8A%AD%E6%AF%94%E5%A4%A7%E6%88%98AI%E5%81%B6%E5%83%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        },
+        {
           "title": "AI翻唱淘金小镇",
           "url": "https://search.bilibili.com/all?keyword=AI%E7%BF%BB%E5%94%B1%E6%B7%98%E9%87%91%E5%B0%8F%E9%95%87",
           "source": "bilibili 热搜",
@@ -707,8 +741,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时35分 ~ 12时25分]"
+          "appearance_count": 18,
+          "time_info": "[00时35分 ~ 14时13分]"
         },
         {
           "title": "新人乘高铁接亲 网友直呼上亿的婚车",
@@ -866,6 +900,113 @@
       ]
     },
     {
+      "keyword_group": "央行 降息 降准 CPI 物价",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "央行抛售黄金影响几何？",
+          "url": "https://wallstreetcn.com/articles/3769303",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时35分 ~ 09时19分]"
+        },
+        {
+          "title": "法国央行卖出所有在美托管金条",
+          "url": "https://www.toutiao.com/trending/7625558557757456426/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        },
+        {
+          "title": "一买一卖 法国央行在美国的黄金库存归零",
+          "url": "https://flash.jin10.com/detail/20260407061117933800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时27分]"
+        },
+        {
+          "title": "多国央行开始卖黄金了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9B%BD%E5%A4%AE%E8%A1%8C%E5%BC%80%E5%A7%8B%E5%8D%96%E9%BB%84%E9%87%91%E4%BA%86%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时18分 ~ 09时19分]"
+        },
+        {
+          "title": "博主：俄土两国央行抛售难定黄金涨跌",
+          "url": "https://www.toutiao.com/trending/7625801623134015018/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时18分 ~ 09时19分]"
+        },
+        {
+          "title": "日本央行前审议委员：由于物价压力加大 央行可能在7月前加息",
+          "url": "https://flash.jin10.com/detail/20260407133955137800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        },
+        {
+          "title": "IMF总裁格奥尔基耶娃：若没有战争，IMF原本预计将其2026年3.3%的经济增长预期小幅上调；然而如今“所有路径都指向更高的物价和更慢的增长”。",
+          "url": "https://flash.jin10.com/detail/20260407024700269800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时45分"
+        },
+        {
+          "title": "韩国和法国央行举行关于数字资产和气候变化的研讨会。",
+          "url": "https://flash.jin10.com/detail/20260407133115939800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        },
+        {
+          "title": "本周中国央行公开市场将有3040亿元逆回购到期",
+          "url": "https://wallstreetcn.com/livenews/3083027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "苹果 iPhone",
       "match_count": 8,
       "titles": [
@@ -904,7 +1045,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
         },
@@ -915,7 +1056,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
         },
@@ -937,7 +1078,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
         },
@@ -948,7 +1089,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
         },
@@ -959,7 +1100,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
         }
@@ -1028,7 +1169,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
         },
@@ -1046,76 +1187,52 @@
       ]
     },
     {
-      "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 6,
+      "keyword_group": "创业板",
+      "match_count": 4,
       "titles": [
         {
-          "title": "央行抛售黄金影响几何？",
-          "url": "https://wallstreetcn.com/articles/3769303",
-          "source": "华尔街见闻",
+          "title": "上证指数早盘收报3881.17点，涨0.03%。 深证成指早盘收报13325.83点，跌0.20%。 创业板指早盘收报3135.18点，跌0.46%。 沪深300早盘收报4427.81点，跌0.29%。 科创50早盘收报1276.70点，涨1.63%。 中证500早盘收报7544.63点，涨0.13%。 中证1000早盘收报7567.91点，涨0.42%。",
+          "url": "https://wallstreetcn.com/livenews/3083130",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "4月7日午间收评：创业板指冲高回落跌0.46%，化工、猪肉股集体走强",
+          "url": "https://wallstreetcn.com/livenews/3083129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "创业板指回落翻绿，此前一度涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3083125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时35分 ~ 09时19分]"
+          "appearance_count": 1,
+          "time_info": "12时25分"
         },
         {
-          "title": "一买一卖 法国央行在美国的黄金库存归零",
-          "url": "https://flash.jin10.com/detail/20260407061117933800",
+          "title": "A股三大股指午后集体翻绿，创业板指现跌0.49%。",
+          "url": "https://flash.jin10.com/detail/20260407131919619800",
           "source": "金十数据",
           "ranks": [
-            3,
-            22
+            24
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时25分 ~ 07时27分]"
-        },
-        {
-          "title": "多国央行开始卖黄金了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9B%BD%E5%A4%AE%E8%A1%8C%E5%BC%80%E5%A7%8B%E5%8D%96%E9%BB%84%E9%87%91%E4%BA%86%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时18分 ~ 09时19分]"
-        },
-        {
-          "title": "博主：俄土两国央行抛售难定黄金涨跌",
-          "url": "https://www.toutiao.com/trending/7625801623134015018/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时18分 ~ 09时19分]"
-        },
-        {
-          "title": "IMF总裁格奥尔基耶娃：若没有战争，IMF原本预计将其2026年3.3%的经济增长预期小幅上调；然而如今“所有路径都指向更高的物价和更慢的增长”。",
-          "url": "https://flash.jin10.com/detail/20260407024700269800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时45分"
-        },
-        {
-          "title": "本周中国央行公开市场将有3040亿元逆回购到期",
-          "url": "https://wallstreetcn.com/livenews/3083027",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
+          "time_info": "14时13分"
         }
       ]
     },
@@ -1182,8 +1299,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时24分 ~ 12时25分]"
+          "appearance_count": 3,
+          "time_info": "[12时24分 ~ 14时13分]"
         },
         {
           "title": "IMF警告：全球不确定性上升，经济步入“高通胀、低增长”通道",
@@ -1195,45 +1312,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "创业板",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "上证指数早盘收报3881.17点，涨0.03%。 深证成指早盘收报13325.83点，跌0.20%。 创业板指早盘收报3135.18点，跌0.46%。 沪深300早盘收报4427.81点，跌0.29%。 科创50早盘收报1276.70点，涨1.63%。 中证500早盘收报7544.63点，涨0.13%。 中证1000早盘收报7567.91点，涨0.42%。",
-          "url": "https://wallstreetcn.com/livenews/3083130",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        },
-        {
-          "title": "4月7日午间收评：创业板指冲高回落跌0.46%，化工、猪肉股集体走强",
-          "url": "https://wallstreetcn.com/livenews/3083129",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        },
-        {
-          "title": "创业板指回落翻绿，此前一度涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3083125",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时25分"
         }
       ]
     },
@@ -1307,6 +1385,35 @@
       ]
     },
     {
+      "keyword_group": "双十一 618 电商 优惠券",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "兽用麻醉药被未成年人盯上，多家电商平台均有卖，商家的免责声明真能免责吗？药物滥用链条上各方该如何担责？",
+          "url": "https://www.zhihu.com/question/2023811326082905221",
+          "source": "知乎",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时24分 ~ 14时13分]"
+        },
+        {
+          "title": "电商要更好服务实体经济",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%95%86%E8%A6%81%E6%9B%B4%E5%A5%BD%E6%9C%8D%E5%8A%A1%E5%AE%9E%E4%BD%93%E7%BB%8F%E6%B5%8E%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        }
+      ]
+    },
+    {
       "keyword_group": "新能源汽车 电动汽车 智能驾驶",
       "match_count": 1,
       "titles": [
@@ -1321,6 +1428,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 06时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体 芯片 集成电路",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "全球首款纯内存芯片ETF近日在美股上市",
+          "url": "https://wallstreetcn.com/livenews/3083181",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
         }
       ]
     },
@@ -1341,23 +1465,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时35分 ~ 07时27分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "双十一 618 电商 优惠券",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "兽用麻醉药被未成年人盯上，多家电商平台均有卖，商家的免责声明真能免责吗？药物滥用链条上各方该如何担责？",
-          "url": "https://www.zhihu.com/question/2023811326082905221",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时24分 ~ 12时25分]"
         }
       ]
     }
