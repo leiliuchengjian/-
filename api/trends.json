@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-08T04:36:02.447723+08:00",
-  "total_titles_processed": 589,
+  "generated_at": "2026-04-08T05:35:13.060964+08:00",
+  "total_titles_processed": 639,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 34,
+      "match_count": 38,
       "titles": [
+        {
+          "title": "“调解人”巴基斯坦提出停火延期请求，美股抹平跌幅，油价跳水，黄金重回4700美元",
+          "url": "https://wallstreetcn.com/articles/3769370",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时34分 ~ 05时35分]"
+        },
         {
           "title": "世界银行行长彭安杰：世界银行可通过其危机窗口向需要帮助的国家提供数十亿美元的资金。",
           "url": "https://flash.jin10.com/detail/20260407234540070800",
@@ -19,13 +30,24 @@
           "time_info": "00时04分"
         },
         {
+          "title": "周二（4月7日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.8554元，较周一纽约尾盘涨193点，日内整体交投于6.8837-6.8537元区间。",
+          "url": "https://wallstreetcn.com/livenews/3083726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
           "title": "美元指数7日下跌",
           "url": "https://flash.jin10.com/detail/20260408042738985800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
         },
@@ -125,6 +147,42 @@
           "time_info": "[01时48分 ~ 02时46分]"
         },
         {
+          "title": "布伦特原油期货目前跌3.16%，报106.30美元，此前（布油收盘之后）一度跳水至104.76美元。 据福克斯新闻： 特朗普拒就巴基斯坦提出的两周期限置评，特朗普称不便发表评论，因为目前我们正处于激烈谈判中。",
+          "url": "https://wallstreetcn.com/livenews/3083705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时35分]"
+        },
+        {
+          "title": "美元指数刷新日低，报道称调停方巴基斯坦要求特朗普停火两周",
+          "url": "https://wallstreetcn.com/livenews/3083698",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时35分]"
+        },
+        {
+          "title": "周二（4月7日）纽约尾盘，ICE原糖期货跌2.67%，ICE白糖期货跌1.49%。 ICE阿拉比卡咖啡期货跌3.96%，咖啡“C”期货跌3.96%。罗布斯塔咖啡期货跌3.50%。 纽约可可期货跌7.23%，报3001美元/吨。伦敦可可期货跌5.16%。 芝加哥WCE双低油菜籽期货跌1.02%。 ICE棉花期货跌0.56%。",
+          "url": "https://wallstreetcn.com/livenews/3083694",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时35分]"
+        },
+        {
           "title": "美联储在固定利率逆回购操作中总计接纳了22个对手方的153.45亿美元。",
           "url": "https://flash.jin10.com/detail/20260408011915622800",
           "source": "金十数据",
@@ -145,6 +203,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
+        },
+        {
+          "title": "WTI原油5分钟内下跌0.69美元/桶，报110.81美元/桶。 伊朗最大的铝生产商伊朗铝业公司（IRALCO）遭到空袭。 据伊朗媒体Mehr报道，伊朗称其位于Mahshahr的石化设施Amirkabir Petrochemical遭到袭击。",
+          "url": "https://wallstreetcn.com/livenews/3083720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
         },
         {
           "title": "WTI原油期货目前涨2.5%，报115.22美元。 据塔斯尼姆通讯社报道，伊朗称政府已经敲定应对所有场景的措施。",
@@ -186,9 +255,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
+        },
+        {
+          "title": "英镑兑美元GBP/USD日内涨幅扩大至0.50%，现报1.3301。",
+          "url": "https://flash.jin10.com/detail/20260408044157910800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
         },
         {
           "title": "WTI原油5分钟内下跌0.65美元/桶，报116.02美元/桶。 据伊朗媒体MEHR报道，伊朗哈尔克岛局势得到控制，岛上石油设施没有受到影响。",
@@ -222,17 +302,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
-        },
-        {
-          "title": "布伦特原油期货目前跌3.16%，报106.30美元，此前（布油收盘之后）一度跳水至104.76美元。 据福克斯新闻： 特朗普拒就巴基斯坦提出的两周期限置评，特朗普称不便发表评论，因为目前我们正处于激烈谈判中。",
-          "url": "https://wallstreetcn.com/livenews/3083705",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时36分"
         },
         {
           "title": "美国2月消费信贷变动 94.84亿美元，预期 102.5亿美元，前值 80.5亿美元。",
@@ -290,17 +359,6 @@
           "time_info": "02时46分"
         },
         {
-          "title": "美元指数刷新日低，报道称调停方巴基斯坦要求特朗普停火两周",
-          "url": "https://wallstreetcn.com/livenews/3083698",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
           "title": "黑石机会型信贷基金募资达到100亿美元上限",
           "url": "https://wallstreetcn.com/livenews/3083639",
           "source": "华尔街见闻-快讯",
@@ -321,17 +379,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
-        },
-        {
-          "title": "周二（4月7日）纽约尾盘，ICE原糖期货跌2.67%，ICE白糖期货跌1.49%。 ICE阿拉比卡咖啡期货跌3.96%，咖啡“C”期货跌3.96%。罗布斯塔咖啡期货跌3.50%。 纽约可可期货跌7.23%，报3001美元/吨。伦敦可可期货跌5.16%。 芝加哥WCE双低油菜籽期货跌1.02%。 ICE棉花期货跌0.56%。",
-          "url": "https://wallstreetcn.com/livenews/3083694",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时36分"
         },
         {
           "title": "美国原油期货涨超4%，突破117美元",
@@ -384,7 +431,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
         }
@@ -394,6 +441,18 @@
       "keyword_group": "基础设施 基建 地铁 高铁",
       "match_count": 12,
       "titles": [
+        {
+          "title": "威胁炸伊朗基础设施、不怕牵涉战争罪，特朗普：伊朗人为了自由甘愿被炸",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32915193",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 05时35分]"
+        },
         {
           "title": "郑丽文体验时速300公里的大陆高铁",
           "url": "https://www.toutiao.com/trending/7625786571841536051/",
@@ -407,27 +466,28 @@
           "time_info": "[00时04分 ~ 02时46分]"
         },
         {
-          "title": "威胁炸伊朗基础设施、不怕牵涉战争罪，特朗普：伊朗人为了自由甘愿被炸",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32915193",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 04时36分]"
-        },
-        {
           "title": "伊朗武装部队哈塔姆·安比亚中央司令部发言人：将以更强力度继续对以色列及美国在该地区的军事、安全和经济基础设施发动袭击。",
           "url": "https://flash.jin10.com/detail/20260408042917398800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时35分]"
+        },
+        {
+          "title": "伊朗原子能组织：轰炸科研基础设施是对人类生命权的攻击",
+          "url": "https://wallstreetcn.com/livenews/3083696",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时35分]"
         },
         {
           "title": "伊朗警告将打击美及其盟友基础设施",
@@ -448,7 +508,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
         },
@@ -470,7 +530,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
         },
@@ -497,17 +557,6 @@
           "time_info": "02时46分"
         },
         {
-          "title": "伊朗原子能组织：轰炸科研基础设施是对人类生命权的攻击",
-          "url": "https://wallstreetcn.com/livenews/3083696",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
           "title": "法国外长：法国强烈反对针对民用基础设施的空袭。",
           "url": "https://flash.jin10.com/detail/20260408021945353800",
           "source": "金十数据",
@@ -525,7 +574,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
         }
@@ -542,11 +591,12 @@
           "ranks": [
             18,
             14,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 04时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 05时35分]"
         },
         {
           "title": "央行连续17个月增持黄金",
@@ -558,8 +608,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 04时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 05时35分]"
         },
         {
           "title": "多国央行开始卖黄金了",
@@ -569,8 +619,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 04时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 05时35分]"
         },
         {
           "title": "央行抛售引发金价地震",
@@ -578,11 +628,12 @@
           "source": "微博",
           "ranks": [
             25,
-            30
+            30,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时04分 ~ 05时35分]"
         },
         {
           "title": "法国央行卖出所有在美托管金条 黄金储备战略转移且实现三赢",
@@ -661,8 +712,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 04时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 05时35分]"
         },
         {
           "title": "大魔王迎战硬刚马斯克AI",
@@ -672,8 +723,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 04时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 05时35分]"
         },
         {
           "title": "芭比大战AI偶像",
@@ -715,17 +766,6 @@
           "time_info": "[00时04分 ~ 04时36分]"
         },
         {
-          "title": "周二（4月7日），美股行业ETF多数收涨，半导体ETF涨0.99%，能源业ETF涨0.8%，科技行业ETF涨0.48%，可选消费ETF则收队1.18%，日常消费品ETF跌1.69%。",
-          "url": "https://wallstreetcn.com/livenews/3083713",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
           "title": "A股三大股指震荡上涨，化工掀起涨停潮，煤炭股活跃，芯片股拉升、寒武纪大涨9%",
           "url": "https://wallstreetcn.com/articles/3769354",
           "source": "华尔街见闻",
@@ -733,8 +773,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时49分 ~ 04时36分]"
+          "appearance_count": 5,
+          "time_info": "[03时49分 ~ 05时35分]"
+        },
+        {
+          "title": "周二（4月7日），美股行业ETF多数收涨，半导体ETF涨0.99%，能源业ETF涨0.8%，科技行业ETF涨0.48%，可选消费ETF则收队1.18%，日常消费品ETF跌1.69%。",
+          "url": "https://wallstreetcn.com/livenews/3083713",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时35分]"
         },
         {
           "title": "标普500指数收涨5.02点，涨幅0.08%，报6616.85点。 道琼斯工业平均指数收跌85.42点，跌幅0.18%，报46584.46点。 纳斯达克综合指数（纳指）收涨21.512点，涨幅0.10，报22017.849点。 纳斯达克100指数收涨10.206点，涨幅0.04%，报24202.372点。 费城半导体指数收涨1.11%，报8003.867点。 费城证交所KBW银行指数收涨0.24%，报158.35点。 纳斯达克生物科技指数收跌0.21%，报5814.20点。",
@@ -743,9 +795,52 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房地产 房价 楼市 LPR",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "房地产高薪退潮：千万年薪销声匿迹",
+          "url": "https://www.baidu.com/s?wd=%E6%88%BF%E5%9C%B0%E4%BA%A7%E9%AB%98%E8%96%AA%E9%80%80%E6%BD%AE%EF%BC%9A%E5%8D%83%E4%B8%87%E5%B9%B4%E8%96%AA%E9%94%80%E5%A3%B0%E5%8C%BF%E8%BF%B9",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            10,
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 05时35分]"
+        },
+        {
+          "title": "房地产高薪退潮：郁亮去年薪水24万",
+          "url": "https://www.toutiao.com/trending/7625957305489559078/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 04时36分]"
+        },
+        {
+          "title": "周二（4月7日），美股大类资产类ETF多数收涨，恐慌指数做多涨3.36%，黄金ETF涨0.97%，巴克莱美国可转债ETF涨0.67%，欧元做多、新兴市场ETF、罗素2000指数ETF、美国房地产ETF、标普500 ETF、日元做多、纳指100 ETF至多涨0.42%。 美国国债20+年ETF则收跌0.01%，道指ETF跌0.19%，做多美元指数跌0.29%，大豆基金跌0.59%，农产品基金跌0.99%，美国布伦特油价基金跌2.10%。",
+          "url": "https://wallstreetcn.com/livenews/3083722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
         }
       ]
     },
@@ -763,8 +858,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时48分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[01时48分 ~ 05时35分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.94%，报6673.41点。 热门中概股里，文远知行初步收跌2.3%，阿里跌2.2%，小马智行跌2.1%，蔚来、拼多多、小鹏、小米跌超1%。 ETF中，中概互联网指数ETF（KWEB）收跌0.28%，中国科技指数ETF（CQQQ）收跌0.07%。 德银嘉实沪深300指数ETF（ASHR）收跌0.31%，XtrackersHarvest中证50（ASHS）收跌0.08%。",
+          "url": "https://wallstreetcn.com/livenews/3083703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时35分]"
         },
         {
           "title": "王者荣耀世界PC端预下载开启",
@@ -776,48 +883,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.94%，报6673.41点。 热门中概股里，文远知行初步收跌2.3%，阿里跌2.2%，小马智行跌2.1%，蔚来、拼多多、小鹏、小米跌超1%。 ETF中，中概互联网指数ETF（KWEB）收跌0.28%，中国科技指数ETF（CQQQ）收跌0.07%。 德银嘉实沪深300指数ETF（ASHR）收跌0.31%，XtrackersHarvest中证50（ASHS）收跌0.08%。",
-          "url": "https://wallstreetcn.com/livenews/3083703",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时36分"
         }
       ]
     },
     {
-      "keyword_group": "房地产 房价 楼市 LPR",
+      "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
       "match_count": 2,
       "titles": [
         {
-          "title": "房地产高薪退潮：千万年薪销声匿迹",
-          "url": "https://www.baidu.com/s?wd=%E6%88%BF%E5%9C%B0%E4%BA%A7%E9%AB%98%E8%96%AA%E9%80%80%E6%BD%AE%EF%BC%9A%E5%8D%83%E4%B8%87%E5%B9%B4%E8%96%AA%E9%94%80%E5%A3%B0%E5%8C%BF%E8%BF%B9",
-          "source": "百度热搜",
+          "title": "特斯拉下跌4.4%，恐将使得2026年至4月7日收盘的累计跌幅达到25%。",
+          "url": "https://wallstreetcn.com/livenews/3083594",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18,
-            10,
-            16
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 04时36分]"
+          "appearance_count": 1,
+          "time_info": "00时04分"
         },
         {
-          "title": "房地产高薪退潮：郁亮去年薪水24万",
-          "url": "https://www.toutiao.com/trending/7625957305489559078/",
-          "source": "今日头条",
+          "title": "美国参议员丽莎·穆尔科斯基：这种言论是对我们国家近250年来在世界各地努力维护和弘扬的理想的冒犯。它破坏了我们作为全球自由灯塔的长期地位，并直接危及美国公民在国内外的安全。",
+          "url": "https://flash.jin10.com/detail/20260408043313060800",
+          "source": "金十数据",
           "ranks": [
-            29,
-            20
+            23
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 04时36分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
         }
       ]
     },
@@ -830,28 +923,12 @@
           "url": "https://wallstreetcn.com/livenews/3083706",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "特斯拉下跌4.4%，恐将使得2026年至4月7日收盘的累计跌幅达到25%。",
-          "url": "https://wallstreetcn.com/livenews/3083594",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时35分]"
         }
       ]
     },
@@ -869,8 +946,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 04时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 05时35分]"
         }
       ]
     },
@@ -901,11 +978,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时48分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[01时48分 ~ 05时35分]"
         }
       ]
     },
@@ -941,8 +1019,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 04时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 05时35分]"
         }
       ]
     }
