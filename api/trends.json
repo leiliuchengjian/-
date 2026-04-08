@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-09T05:46:23.374907+08:00",
-  "total_titles_processed": 606,
+  "generated_at": "2026-04-09T06:29:56.817007+08:00",
+  "total_titles_processed": 653,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "人民币上有个哭出来的笑脸",
@@ -16,11 +16,12 @@
             5,
             10,
             2,
-            1
+            1,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 05时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 06时29分]"
         },
         {
           "title": "纽约期金日内涨超1.00%，现报4731.60美元/盎司。",
@@ -32,6 +33,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        },
+        {
+          "title": "CIPS单日交易量破万亿元，人民币国际支付角色加速强化",
+          "url": "https://wallstreetcn.com/livenews/3084606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时29分"
         },
         {
           "title": "上期所原油期货2605合约夜盘收跌4.41%，报635.10元人民币/桶。 沪金夜盘收跌0.24%，沪银收涨1.45%。",
@@ -57,6 +69,18 @@
           "time_info": "[01时58分 ~ 03时08分]"
         },
         {
+          "title": "离岸人民币一度涨至6.82元",
+          "url": "https://wallstreetcn.com/livenews/3084580",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时46分 ~ 06时29分]"
+        },
+        {
           "title": "美元指数跌超0.7%",
           "url": "https://wallstreetcn.com/livenews/3084552",
           "source": "华尔街见闻-快讯",
@@ -69,15 +93,15 @@
           "time_info": "[04时33分 ~ 05时46分]"
         },
         {
-          "title": "离岸人民币一度涨至6.82元",
-          "url": "https://wallstreetcn.com/livenews/3084580",
+          "title": "周四亚太盘初，WTI原油日内涨幅达2.5%，报96.85美元/桶。 纽约金日内跌幅达0.5%，报4746.8美元/盎司。 三大股指期货至多跌0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3084601",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时46分"
+          "time_info": "06时29分"
         },
         {
           "title": "美、布两油短线上扬近2美元，现分别报94.53美元/桶和92.92美元/桶。",
@@ -119,7 +143,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时46分"
         },
@@ -215,7 +239,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "员工离职变AI,上班不能停",
@@ -225,8 +249,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 05时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 06时29分]"
         },
         {
           "title": "AI染指鬼灭,日网友气急跳脚",
@@ -236,41 +260,66 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 05时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 06时29分]"
         },
         {
           "title": "OpenAI的CFO Sarah Friar：公司将在IPO中配售股票给散户们。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/3084581",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时46分 ~ 06时29分]"
         },
         {
           "title": "日本央行前执行董事Masaaki Kaizuka称，日本央行本月可能会提高基准利率，以避免在控制通胀方面落后。",
           "url": "https://flash.jin10.com/detail/20260409051523248800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时46分 ~ 06时29分]"
         },
         {
           "title": "OpenAI首席财务官表示，OpenAI正筹备上市，将向散户投资者分配IPO股份。",
           "url": "https://flash.jin10.com/detail/20260409051237886800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时46分 ~ 06时29分]"
+        },
+        {
+          "title": "AI21 Labs曾在2025年讨论出售给英伟达。 Nebius洽谈收购AI初创公司AI21。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3084595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时46分"
+          "time_info": "06时29分"
+        },
+        {
+          "title": "Nebius正商谈收购以色列人工智能初创公司AI21。",
+          "url": "https://flash.jin10.com/detail/20260409054349081800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时29分"
         },
         {
           "title": "刘耀文流口水 AI生成",
@@ -295,13 +344,24 @@
           "time_info": "01时58分"
         },
         {
+          "title": "周三（4月8日），存储芯片与硬件供应链指数涨8.08%，报125.83点，跳空高开、迅速刷新日高至127.77点，美股开盘后90分钟内呈现出冲高回落走势。 信息科技指数涨4.61%，人工智能（AI）赢家指数涨4.96%；AI软件先驱指数跌1.04%。",
+          "url": "https://wallstreetcn.com/livenews/3084589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时29分"
+        },
+        {
           "title": "万斯称十点提案有多个版本 有些像是AI写的",
           "url": "https://flash.jin10.com/detail/20260409042844092800",
           "source": "金十数据",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时46分"
         }
@@ -309,18 +369,63 @@
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 3,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "美国考虑解除对委内瑞拉央行的制裁",
+          "url": "https://flash.jin10.com/detail/20260409060747676800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时29分"
+        },
         {
           "title": "日本央行前官员：日本央行可能在4月份加息",
           "url": "https://flash.jin10.com/detail/20260409053445582800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时46分 ~ 06时29分]"
+        },
+        {
+          "title": "周三（4月8日），美股降息赢家指数涨4.42%，报90.26点。 “特朗普关税输家”指数涨4.03%，报101.50点；“特朗普金融指数”涨4.18%，报158.68点。 散户抱团概念股指数/迷因股（meme stock）指数涨8.80%，报125.83点。",
+          "url": "https://wallstreetcn.com/livenews/3084602",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时46分"
+          "time_info": "06时29分"
+        },
+        {
+          "title": "市场消息：美国考虑取消针对委内瑞拉央行的制裁，从而释放石油供应。",
+          "url": "https://flash.jin10.com/detail/20260409055813237800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时29分"
+        },
+        {
+          "title": "美国考虑取消针对委内瑞拉央行的制裁，从而解锁石油供应。",
+          "url": "https://wallstreetcn.com/livenews/3084600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时29分"
         },
         {
           "title": "连买17个月！如何看懂央行逻辑再追黄金？",
@@ -340,7 +445,58 @@
           "ranks": [
             16
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时46分"
+        },
+        {
+          "title": "前日本央行官员：日本央行很可能在4月提高利率",
+          "url": "https://wallstreetcn.com/livenews/3084590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体 芯片 集成电路",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创六年最大单日跌幅",
+          "url": "https://wallstreetcn.com/articles/3769443",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时29分"
+        },
+        {
+          "title": "周三（4月8日），美股行业ETF普遍收涨，半导体ETF涨5.76%，全球航空业ETF涨5.65%，全球科技股指数ETF、科技行业ETF、区域银行ETF、银行业ETF、可选消费ETF、金融业ETF、网络股指数ETF至少涨2.46%，能源业ETF则收跌3.51%。",
+          "url": "https://wallstreetcn.com/livenews/3084565",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时33分 ~ 05时46分]"
+        },
+        {
+          "title": "美国三大股指至少收涨超2.5%，半导体指数涨超6.3%创收盘历史新高",
+          "url": "https://wallstreetcn.com/livenews/3084560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时46分"
         }
@@ -368,36 +524,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "周三（4月8日），美股行业ETF普遍收涨，半导体ETF涨5.76%，全球航空业ETF涨5.65%，全球科技股指数ETF、科技行业ETF、区域银行ETF、银行业ETF、可选消费ETF、金融业ETF、网络股指数ETF至少涨2.46%，能源业ETF则收跌3.51%。",
-          "url": "https://wallstreetcn.com/livenews/3084565",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            18
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时33分 ~ 05时46分]"
-        },
-        {
-          "title": "美国三大股指至少收涨超2.5%，半导体指数涨超6.3%创收盘历史新高",
-          "url": "https://wallstreetcn.com/livenews/3084560",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "05时46分"
         }
@@ -412,11 +539,12 @@
           "url": "https://www.toutiao.com/trending/7626366497309753390/",
           "source": "今日头条",
           "ranks": [
-            30
+            30,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时32分 ~ 04时33分]"
+          "appearance_count": 3,
+          "time_info": "[04时32分 ~ 06时29分]"
         },
         {
           "title": "会议纪要：美联储官员们认为，伊朗战争给就业和通胀都带来风险",
@@ -440,11 +568,12 @@
           "url": "https://www.toutiao.com/trending/7626259728318349353/",
           "source": "今日头条",
           "ranks": [
-            23
+            23,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时46分 ~ 06时29分]"
         }
       ]
     },
@@ -459,11 +588,29 @@
           "ranks": [
             24,
             25,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 05时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 06时29分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "吉利销量连续两个月超越比亚迪",
+          "url": "https://www.toutiao.com/trending/7626325823544364586/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时29分"
         }
       ]
     },
@@ -479,11 +626,12 @@
             22,
             19,
             18,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 05时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 06时29分]"
         }
       ]
     },
@@ -517,8 +665,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 05时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 06时29分]"
         }
       ]
     }
