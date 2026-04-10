@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T04:59:25.216802+08:00",
-  "total_titles_processed": 531,
+  "generated_at": "2026-04-11T05:27:47.031713+08:00",
+  "total_titles_processed": 550,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "WTI 5月原油期货收跌1.30美元，跌幅1.33%，报96.57美元/桶。 NYMEX 5月天然气期货收报2.6480美元/百万英热单位。 NYMEX 5月汽油期货收报3.0373美元/加仑，NYMEX 5月取暖油期货收报3.7616美元/加仑。",
@@ -64,17 +64,6 @@
           "time_info": "[01时40分 ~ 03时37分]"
         },
         {
-          "title": "美联储：美国上周银行存款19.085万亿美元，之前一周18.996万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3086088",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时59分"
-        },
-        {
           "title": "市场消息：黑石集团考虑为一家数据中心收购公司进行20亿美元的首次公开募股（IPO）。",
           "url": "https://flash.jin10.com/detail/20260411003658275800",
           "source": "金十数据",
@@ -97,6 +86,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时40分 ~ 02时39分]"
+        },
+        {
+          "title": "美联储：美国上周银行存款19.085万亿美元，之前一周18.996万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3086088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时59分 ~ 05时27分]"
         },
         {
           "title": "比特币上探7.3万美元，和以太币最近七天涨超9%",
@@ -134,6 +135,18 @@
           "time_info": "[02时39分 ~ 03时37分]"
         },
         {
+          "title": "美国3月赤字扩大至1640亿美元，退税与农民救助推高支出",
+          "url": "https://wallstreetcn.com/livenews/3086086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时59分 ~ 05时27分]"
+        },
+        {
           "title": "周五（4月10日），韩元兑美元最终跌0.57%，报1483.19韩元，本周累计上涨1.83%，4月4日跳空高开之前持续低位震荡于1510韩元附近、之后持续交投于期内顶部1470.07韩元附近。",
           "url": "https://wallstreetcn.com/livenews/3086045",
           "source": "华尔街见闻-快讯",
@@ -145,15 +158,15 @@
           "time_info": "[02时39分 ~ 03时37分]"
         },
         {
-          "title": "美国3月赤字扩大至1640亿美元，退税与农民救助推高支出",
-          "url": "https://wallstreetcn.com/livenews/3086086",
+          "title": "周五（4月10日）纽约尾盘，现货黄金跌0.34%，报4750.39美元/盎司，本周累计上涨1.57%，4月6-7日在4650美元附近低位持稳，4月8日亚太盘初曾拉升至4856.81美元。 COMEX黄金期货跌0.95%，报4772.00美元/盎司，本周累涨2.02%。",
+          "url": "https://wallstreetcn.com/livenews/3086098",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时59分"
+          "time_info": "05时27分"
         },
         {
           "title": "美国3月政府预算 -1640亿美元，预期-1567亿美元，前值-3080亿美元。",
@@ -184,7 +197,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
         },
@@ -195,7 +208,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
         }
@@ -213,8 +226,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 05时27分]"
         },
         {
           "title": "AI换脸偷声侵权，那么大模型训练呢？",
@@ -224,8 +237,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 05时27分]"
+        },
+        {
+          "title": "据CNBC：美国副总统万斯和美国财长贝森特在Anthropic发布Mytho之前就AI安全问题质询科技巨头。",
+          "url": "https://flash.jin10.com/detail/20260411041419863800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时59分 ~ 05时27分]"
         },
         {
           "title": "软件股受累于AI颠覆担忧进一步下跌，芯片股继续上涨",
@@ -239,17 +263,6 @@
           "time_info": "[02时39分 ~ 03时37分]"
         },
         {
-          "title": "据CNBC：美国副总统万斯和美国财长贝森特在Anthropic发布Mytho之前就AI安全问题质询科技巨头。",
-          "url": "https://flash.jin10.com/detail/20260411041419863800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时59分"
-        },
-        {
           "title": "人工智能将纳入教师资格考试",
           "url": "https://www.douyin.com/hot/2461467",
           "source": "抖音",
@@ -260,8 +273,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 05时27分]"
         },
         {
           "title": "夫妻称用AI写公众号年赚200万被封号",
@@ -269,44 +282,48 @@
           "source": "今日头条",
           "ranks": [
             23,
-            17
+            17,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时40分 ~ 03时37分]"
+          "appearance_count": 4,
+          "time_info": "[01时40分 ~ 05时27分]"
         },
         {
           "title": "美国财长贝森特与副总统万斯向科技行业CEO们询问AI安全问题。 这发生在Anthropic发布Mythos之前。",
           "url": "https://wallstreetcn.com/livenews/3086083",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时59分 ~ 05时27分]"
         },
         {
           "title": "OpenAI的ChatGPT被指控加重了跟踪者的妄想。",
           "url": "https://wallstreetcn.com/livenews/3086079",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时59分 ~ 05时27分]"
         },
         {
           "title": "中国AI芯片格局反转",
           "url": "https://www.toutiao.com/trending/7627057914037289014/",
           "source": "今日头条",
           "ranks": [
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时37分"
+          "appearance_count": 2,
+          "time_info": "[03时37分 ~ 05时27分]"
         },
         {
           "title": "美媒：OpenAI创始人奥尔特曼住所遭人用燃烧瓶袭击",
@@ -348,7 +365,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
         }
@@ -367,8 +384,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 05时27分]"
         },
         {
           "title": "美国3月CPI同比上涨3.3%低于预期，环比0.9%为近四年最大涨幅，汽油创1967年以来最大涨幅",
@@ -379,8 +396,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 05时27分]"
         },
         {
           "title": "3月份CPI同比上涨1.0%",
@@ -408,6 +425,17 @@
           "time_info": "[00时43分 ~ 01时40分]"
         },
         {
+          "title": "伊朗媒体称，伊朗代表团成员包括外交部长、国防委员会秘书长、央行行长及多名议员。",
+          "url": "https://flash.jin10.com/detail/20260411034714242800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时59分 ~ 05时27分]"
+        },
+        {
           "title": "俄罗斯联邦统计局：俄罗斯3月份CPI同比上涨5.86%，环比上涨0.60%。",
           "url": "https://flash.jin10.com/detail/20260411000034914800",
           "source": "金十数据",
@@ -425,18 +453,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时59分"
-        },
-        {
-          "title": "伊朗媒体称，伊朗代表团成员包括外交部长、国防委员会秘书长、央行行长及多名议员。",
-          "url": "https://flash.jin10.com/detail/20260411034714242800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
         }
@@ -454,8 +471,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 05时27分]"
+        },
+        {
+          "title": "周五（4月10日），美股行业ETF多数收跌，生物科技指数ETF跌1.62%，医疗业ETF、区域银行ETF至少跌1.3%，能源业ETF跌0.68%，科技行业ETF则收涨0.39%，半导体ETF涨1.53%——继续创收盘历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3086084",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时59分 ~ 05时27分]"
         },
         {
           "title": "报道：特朗普推动芯片出口的计划或正受阻于官僚体制",
@@ -469,24 +498,13 @@
           "time_info": "[02时39分 ~ 03时37分]"
         },
         {
-          "title": "周五（4月10日），美股行业ETF多数收跌，生物科技指数ETF跌1.62%，医疗业ETF、区域银行ETF至少跌1.3%，能源业ETF跌0.68%，科技行业ETF则收涨0.39%，半导体ETF涨1.53%——继续创收盘历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3086084",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时59分"
-        },
-        {
           "title": "标普500指数收跌7.77点，跌幅0.11%，报6816.89点。 道琼斯工业平均指数收跌269.23点，跌幅0.56%，报47916.57点。 纳斯达克综合指数（纳指）收涨80.477点，涨幅0.35，报22902.894点。 纳斯达克100指数收涨34.251点，涨幅0.14%，报25116.338点。 费城半导体指数收涨2.31%，报8889.828点，连续三个交易日创收盘历史新高。 高盛、摩根大通、花旗集团等下周拉开美股财报季序幕之前，费城证交所KBW银行指数收跌0.69%，报165.34点。 道琼斯KBW地区银行指数收跌1.21%，报13.61点。",
           "url": "https://wallstreetcn.com/livenews/3086072",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
         },
@@ -515,8 +533,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 05时27分]"
         },
         {
           "title": "雷军回应小米冰淇淋",
@@ -528,8 +546,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 05时27分]"
         },
         {
           "title": "周深王者荣耀世界开服曲",
@@ -539,11 +557,12 @@
             26,
             16,
             30,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 05时27分]"
         },
         {
           "title": "王者荣耀世界PC端今日上线",
@@ -553,8 +572,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 05时27分]"
         }
       ]
     },
@@ -570,8 +589,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 05时27分]"
         },
         {
           "title": "【每日收评】创业板涨近4%再创阶段新高，锂电板块全线爆发，算力硬件反复活跃",
@@ -581,8 +600,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 05时27分]"
         },
         {
           "title": "3天拉涨超9%！创业板指创4年新高，“扛旗”主力权重盘点，这些股获融资客青睐",
@@ -594,8 +613,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 05时27分]"
         },
         {
           "title": "创业板暴涨近4%，动力电池领涨，光模块大涨、中际旭创创新高，港股中资券商集体爆发",
@@ -605,8 +624,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时39分 ~ 04时59分]"
+          "appearance_count": 4,
+          "time_info": "[02时39分 ~ 05时27分]"
         }
       ]
     },
@@ -658,11 +677,12 @@
           "url": "https://wallstreetcn.com/livenews/3086081",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时59分 ~ 05时27分]"
         },
         {
           "title": "世界银行行长：战争对能源基础设施造成的破坏尚可控制，但若袭击再度升级，其影响将进一步加深。",
@@ -686,11 +706,12 @@
           "url": "https://wallstreetcn.com/livenews/3086091",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时59分 ~ 05时27分]"
         }
       ]
     },
@@ -703,11 +724,12 @@
           "url": "https://wallstreetcn.com/livenews/3086074",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            18,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时59分 ~ 05时27分]"
         }
       ]
     },
@@ -723,8 +745,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 05时27分]"
         }
       ]
     }
