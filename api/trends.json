@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-04-16T04:42:55.162456+08:00",
-  "total_titles_processed": 528,
+  "generated_at": "2026-04-16T05:42:17.662350+08:00",
+  "total_titles_processed": 571,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 27,
+      "match_count": 34,
       "titles": [
         {
           "title": "美伊和谈预期升温，标普大涨近新高，纳指十连涨，原油大跌7%，人民币升破6.81",
           "url": "https://wallstreetcn.com/articles/3769897",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 04时42分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 05时42分]"
         },
         {
           "title": "谈判曙光提振市场，美股高开，美银、大摩涨近4%，阿斯麦跌3%，黄金重回4800美元，布油再度转跌",
@@ -24,33 +25,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 04时42分]"
-        },
-        {
-          "title": "美国2月外资净买入美国公债 20亿美元，前值499亿美元。",
-          "url": "https://flash.jin10.com/detail/20260416042042965800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
-        },
-        {
-          "title": "北美科技软件股指数ETF收涨4.40%，报82.98美元。 纳斯达克网络安全ETF收涨2.76%，ETFMG网络安全ETF收涨3.36%。",
-          "url": "https://wallstreetcn.com/livenews/3088777",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 05时42分]"
         },
         {
           "title": "韩国向伊朗提供50万美元人道主义援助，称与霍尔木兹通行无关",
@@ -60,8 +40,83 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 04时42分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 05时42分]"
+        },
+        {
+          "title": "为什么奖金只有 1.38 万美元的菲尔兹奖地位那么崇高？",
+          "url": "https://www.zhihu.com/question/1921367137244653470",
+          "source": "知乎",
+          "ranks": [
+            12,
+            9,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 05时42分]"
+        },
+        {
+          "title": "美联储亮鹰，每月美债购买量大减近 40%，月规模降至 250 亿美元，此举远超市场预期，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2027378015303157221",
+          "source": "知乎",
+          "ranks": [
+            20,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 05时42分]"
+        },
+        {
+          "title": "人民币汇率为何持续升值",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B1%87%E7%8E%87%E4%B8%BA%E4%BD%95%E6%8C%81%E7%BB%AD%E5%8D%87%E5%80%BC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            21,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 05时42分]"
+        },
+        {
+          "title": "谷歌关联公司拟发57亿美元垃圾债 助力数据中心建设",
+          "url": "https://flash.jin10.com/detail/20260416045257037800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "据英国金融时报：挪威2万亿美元主权财富基金“没有计划”减少美国资产。",
+          "url": "https://flash.jin10.com/detail/20260416045200647800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "美国2月外资净买入美国公债 20亿美元，前值499亿美元。",
+          "url": "https://flash.jin10.com/detail/20260416042042965800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时42分]"
         },
         {
           "title": "国际货币基金组织：2025年日元走弱并未对通胀产生显著传导效应。日元走弱有助于日本缓冲美国提高关税带来的部分冲击，但汇率水平应由市场决定。",
@@ -76,64 +131,108 @@
           "time_info": "[03时58分 ~ 04时42分]"
         },
         {
-          "title": "为什么奖金只有 1.38 万美元的菲尔兹奖地位那么崇高？",
-          "url": "https://www.zhihu.com/question/1921367137244653470",
-          "source": "知乎",
+          "title": "北美科技软件股指数ETF收涨4.40%，报82.98美元。 纳斯达克网络安全ETF收涨2.76%，ETFMG网络安全ETF收涨3.36%。",
+          "url": "https://wallstreetcn.com/livenews/3088777",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 04时42分]"
-        },
-        {
-          "title": "美联储亮鹰，每月美债购买量大减近 40%，月规模降至 250 亿美元，此举远超市场预期，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2027378015303157221",
-          "source": "知乎",
-          "ranks": [
-            20,
+            3,
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 04时42分]"
-        },
-        {
-          "title": "人民币汇率为何持续升值",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B1%87%E7%8E%87%E4%B8%BA%E4%BD%95%E6%8C%81%E7%BB%AD%E5%8D%87%E5%80%BC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 04时42分]"
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时42分]"
         },
         {
           "title": "美国2月长期资本净流入 585.78亿美元，前值155亿美元。",
           "url": "https://flash.jin10.com/detail/20260416040453935800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时42分]"
         },
         {
           "title": "美国2月国际资本净流入 1845.02亿美元，前值-250亿美元。",
           "url": "https://flash.jin10.com/detail/20260416040427427800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时42分]"
+        },
+        {
+          "title": "美国2月长期资本净流入 585.78亿美元，前值 155亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3088761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时42分]"
+        },
+        {
+          "title": "美国2月国际资本净流入 1845.02亿美元，前值 -250亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3088760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时42分]"
+        },
+        {
+          "title": "美元指数15日下跌",
+          "url": "https://flash.jin10.com/detail/20260416044116972800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时42分"
+          "time_info": "05时42分"
+        },
+        {
+          "title": "摩根大通CEO戴蒙卖出4000万美元股票。",
+          "url": "https://wallstreetcn.com/livenews/3088786",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "周三（4月15日）纽约尾盘（周四北京时间04:59），离岸人民币（CNH）兑美元报6.8181元，较周二纽约尾盘跌73点，日内整体交投于6.8086-6.8225元区间。",
+          "url": "https://wallstreetcn.com/livenews/3088785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "现货黄金跌超1%，亚太早盘曾涨向4800美元",
+          "url": "https://wallstreetcn.com/livenews/3088783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8188元，较周二夜盘收盘跌32点。成交量395.23亿美元。",
@@ -145,6 +244,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时58分"
+        },
+        {
+          "title": "托克与加蓬签署10亿美元石油预付款协议",
+          "url": "https://wallstreetcn.com/livenews/3088780",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
         },
         {
           "title": "摩根士丹利财报表现强劲后再度发债，摩根大通拟发债融资至少70亿美元",
@@ -180,17 +290,6 @@
           "time_info": "02时17分"
         },
         {
-          "title": "美国2月长期资本净流入 585.78亿美元，前值 155亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3088761",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
-        },
-        {
           "title": "美元兑日元USD/JPY短线走低20余点，现报158.77。",
           "url": "https://flash.jin10.com/detail/20260416002444957800",
           "source": "金十数据",
@@ -200,17 +299,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
-        },
-        {
-          "title": "美国2月国际资本净流入 1845.02亿美元，前值 -250亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3088760",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
         },
         {
           "title": "周三（4月15日），美联储隔夜逆回购协议（RRP）使用规模为2.23亿美元（交易对手6家），上个交易日报3.06亿美元。",
@@ -230,7 +318,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         },
@@ -315,7 +403,7 @@
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "美联储将于十分钟后公布经济状况褐皮书；英国央行行长贝利将于十分钟后就全球经济失衡发表讲话。",
@@ -349,6 +437,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
+        },
+        {
+          "title": "英国央行行长贝利：通胀正在上升。 伊朗战争将对（经济）活动造成负面影响。 这是一个非常重大的能源冲击。 （伊朗战争产生的）增速和通胀影响难以权衡。 （美国和以色列发动）伊朗战争之前，我本来预计会降息1-2次。 当前，这不再是我们的中心预期。",
+          "url": "https://wallstreetcn.com/livenews/3088787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
         },
         {
           "title": "IMF：日本央行可忽略中东冲突带来的通胀冲击",
@@ -386,6 +485,28 @@
           "time_info": "02时17分"
         },
         {
+          "title": "欧洲央行执委施纳贝尔：我们必须保持对数据的依赖，仔细思考哪些数据能告诉我们通胀可能会变得根深蒂固，并产生二次影响。",
+          "url": "https://flash.jin10.com/detail/20260416043137623800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "欧洲央行执委施纳贝尔：我们处于相对有利的位置，因为在战争开始之前，我们成功将通胀降至2%，并且货币政策立场总体上是中性的。",
+          "url": "https://flash.jin10.com/detail/20260416043059246800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
           "title": "消息人士：欧洲央行政策制定者对4月加息持谨慎态度，因为尚无二轮通胀效应的证据。",
           "url": "https://flash.jin10.com/detail/20260416003043749800",
           "source": "金十数据",
@@ -395,6 +516,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "欧洲央行执委施纳贝尔：必须非常谨慎地权衡政策决定。我们不想给经济带来不必要的成本。",
+          "url": "https://flash.jin10.com/detail/20260416042934019800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
         },
         {
           "title": "欧洲央行管委Nagel：不能排除4月加息可能性，因伊朗局势很不明朗",
@@ -521,19 +653,8 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "周三（4月15日），美股存储芯片与硬件供应链指数跌2.30%，报135.73点，呈现出V形走势。 成分股全线收跌，Sandisk跌5.58%，拉姆研究、希捷科技、美光科技跌2.66%-2.03%，Rambus跌1.40%，应用材料、西部数据、泰瑞达TER至多跌0.35%。 信息科技指数涨1.32%，报313.74点，北京时间00:56以来持续反弹。 人工智能（AI）赢家指数涨0.24%，报333.04点，00:56以来持续反弹。 AI软件先驱指数涨5.29%，报95.29点，美股盘初涨势陡峭、21:43以来持续平缓地走高。",
-          "url": "https://wallstreetcn.com/livenews/3088776",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
-        },
         {
           "title": "AI承诺赔10万,用户索赔败诉",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353249&amp;topic_name=AI%E6%89%BF%E8%AF%BA%E8%B5%9410%E4%B8%87%2C%E7%94%A8%E6%88%B7%E7%B4%A2%E8%B5%94%E8%B4%A5%E8%AF%89",
@@ -542,8 +663,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 04时42分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 05时42分]"
         },
         {
           "title": "斯坦福报告称「美国 AI 投资规模是中国的 23 倍，但模型基本没差距了」，如何看待差距「基本抹平」的结论？",
@@ -555,8 +676,31 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 04时42分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 05时42分]"
+        },
+        {
+          "title": "据AXIOS：OpenAI游说扩大人工智能在生命科学中的作用。",
+          "url": "https://flash.jin10.com/detail/20260416050117948800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "周三（4月15日），美股存储芯片与硬件供应链指数跌2.30%，报135.73点，呈现出V形走势。 成分股全线收跌，Sandisk跌5.58%，拉姆研究、希捷科技、美光科技跌2.66%-2.03%，Rambus跌1.40%，应用材料、西部数据、泰瑞达TER至多跌0.35%。 信息科技指数涨1.32%，报313.74点，北京时间00:56以来持续反弹。 人工智能（AI）赢家指数涨0.24%，报333.04点，00:56以来持续反弹。 AI软件先驱指数涨5.29%，报95.29点，美股盘初涨势陡峭、21:43以来持续平缓地走高。",
+          "url": "https://wallstreetcn.com/livenews/3088776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时42分]"
         },
         {
           "title": "Cadence与英伟达扩大合作伙伴关系，以在人工智能与加速计算时代重塑工程设计。",
@@ -585,8 +729,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 04时42分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 05时42分]"
         },
         {
           "title": "苏林访华将乘坐总计12小时高铁",
@@ -598,8 +742,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 04时42分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 05时42分]"
         },
         {
           "title": "国际政要在中国为什么都爱坐高铁",
@@ -612,6 +756,46 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时17分 ~ 04时42分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源汽车 电动汽车 智能驾驶",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "周三（4月15日），彭博电动汽车价格回报指数跌0.26%，报3870.70点。",
+          "url": "https://wallstreetcn.com/livenews/3088771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时42分]"
+        },
+        {
+          "title": "福特汽车电动汽车业务主管Doug请求离职。",
+          "url": "https://wallstreetcn.com/livenews/3088765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "福特电动汽车负责人因公司启动新一轮重组离职",
+          "url": "https://wallstreetcn.com/livenews/3088765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
         }
       ]
     },
@@ -666,11 +850,12 @@
             27,
             25,
             22,
-            21
+            21,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 04时42分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 05时42分]"
         },
         {
           "title": "谷歌公司：Gemini现在上架苹果公司Mac。",
@@ -686,30 +871,30 @@
       ]
     },
     {
-      "keyword_group": "新能源汽车 电动汽车 智能驾驶",
+      "keyword_group": "英伟达 台积电 AMD 高通",
       "match_count": 2,
       "titles": [
         {
-          "title": "周三（4月15日），彭博电动汽车价格回报指数跌0.26%，报3870.70点。",
-          "url": "https://wallstreetcn.com/livenews/3088771",
-          "source": "华尔街见闻-快讯",
+          "title": "欧洲央行执委施纳贝尔：高通胀的记忆依然非常鲜明。通胀预期可能更脆弱。",
+          "url": "https://flash.jin10.com/detail/20260416042621327800",
+          "source": "金十数据",
           "ranks": [
-            9
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时42分"
+          "time_info": "05时42分"
         },
         {
-          "title": "福特汽车电动汽车业务主管Doug请求离职。",
-          "url": "https://wallstreetcn.com/livenews/3088765",
+          "title": "英伟达涨约1.8%，重回200美元/股，创年内新高。",
+          "url": "https://wallstreetcn.com/livenews/3088653",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时42分"
+          "time_info": "01时01分"
         }
       ]
     },
@@ -755,8 +940,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 04时42分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 05时42分]"
         }
       ]
     },
@@ -786,11 +971,12 @@
           "url": "https://flash.jin10.com/detail/20260416040118406800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时42分]"
         }
       ]
     },
@@ -806,25 +992,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 04时42分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英伟达 台积电 AMD 高通",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "英伟达涨约1.8%，重回200美元/股，创年内新高。",
-          "url": "https://wallstreetcn.com/livenews/3088653",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 05时42分]"
         }
       ]
     },
@@ -840,8 +1009,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 04时42分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 05时42分]"
         }
       ]
     }
