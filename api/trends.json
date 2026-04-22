@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T07:28:09.564599+08:00",
-  "total_titles_processed": 728,
+  "generated_at": "2026-04-22T09:23:30.810525+08:00",
+  "total_titles_processed": 873,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 41,
+      "match_count": 44,
       "titles": [
         {
           "title": "现货黄金日内大跌3.00%，现报4675.97美元/盎司；美股短线跳水。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
+        },
+        {
+          "title": "人民币兑美元中间价报6.8635，下调41点；上一交易日中间价6.8594，上一交易日官方收盘价6.8165，上日夜盘报收6.8316。",
+          "url": "https://wallstreetcn.com/livenews/3092196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
         },
         {
           "title": "现货白银日内大跌5.00%，现报75.68美元/盎司。",
@@ -58,7 +69,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -207,13 +218,24 @@
           "time_info": "[01时51分 ~ 02时56分]"
         },
         {
+          "title": "美国防部拟斥资300亿美元增购关键弹药",
+          "url": "https://news.ifeng.com/c/8sWPx5prDq5",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
+        },
+        {
           "title": "必和必拓：第三财季平均实现铜价为每磅5.86美元，环比下降1%。",
           "url": "https://flash.jin10.com/detail/20260422064908551800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -235,7 +257,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -301,7 +323,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -323,7 +345,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -392,6 +414,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗并不想关闭霍尔木兹海峡，他们希望海峡开放，这样他们每天可以赚取5亿美元（因此，如果关闭，他们就会损失这笔钱！）。",
+          "url": "https://flash.jin10.com/detail/20260422083721213800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
         },
         {
           "title": "LME期铜收跌44美元，报13230美元/吨。 LME期铝收平，报3557美元/吨。 LME期锌收涨34美元，报3442美元/吨。 LME期铅收跌10美元，报1964美元/吨。 LME期镍收跌25美元，报18225美元/吨。 LME期锡收跌754美元，报49930美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -474,8 +507,32 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 19,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "灵魂摆渡电影全AI生成",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%81%B5%E9%AD%82%E6%91%86%E6%B8%A1%E7%94%B5%E5%BD%B1%E5%85%A8AI%E7%94%9F%E6%88%90%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时11分 ~ 09时23分]"
+        },
+        {
+          "title": "爱奇艺AI艺人库争议背后：为何要推进，如何保证演员和观众权益？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33011865",
+          "source": "澎湃新闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时11分 ~ 09时23分]"
+        },
         {
           "title": "国务院重磅部署！事关AI、算力、6G、卫星互联网等",
           "url": "https://www.cls.cn/detail/2350762",
@@ -488,28 +545,15 @@
           "time_info": "[00时11分 ~ 07时28分]"
         },
         {
-          "title": "灵魂摆渡电影全AI生成",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%81%B5%E9%AD%82%E6%91%86%E6%B8%A1%E7%94%B5%E5%BD%B1%E5%85%A8AI%E7%94%9F%E6%88%90%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
+          "title": "AI围剿影视圈,演员签卖身契",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353493&amp;topic_name=AI%E5%9B%B4%E5%89%BF%E5%BD%B1%E8%A7%86%E5%9C%88%2C%E6%BC%94%E5%91%98%E7%AD%BE%E5%8D%96%E8%BA%AB%E5%A5%91",
+          "source": "贴吧",
           "ranks": [
-            1,
-            2
+            28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时11分 ~ 07时28分]"
-        },
-        {
-          "title": "爱奇艺AI艺人库争议背后：为何要推进，如何保证演员和观众权益？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33011865",
-          "source": "澎湃新闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时11分 ~ 07时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时11分 ~ 09时23分]"
         },
         {
           "title": "《封神 3》正在后期制作，或用 AI 做特效，乌尔善能否逆风翻盘？",
@@ -522,17 +566,6 @@
             6,
             17,
             11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时11分 ~ 07时28分]"
-        },
-        {
-          "title": "AI围剿影视圈,演员签卖身契",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353493&amp;topic_name=AI%E5%9B%B4%E5%89%BF%E5%BD%B1%E8%A7%86%E5%9C%88%2C%E6%BC%94%E5%91%98%E7%AD%BE%E5%8D%96%E8%BA%AB%E5%A5%91",
-          "source": "贴吧",
-          "ranks": [
-            28
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -562,6 +595,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "SpaceX放出“IPO重磅炸弹”：太空AI技术未经验证，未必能商业化！",
+          "url": "https://www.cls.cn/detail/2351466",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
         },
         {
           "title": "OpenAI因杀手使用ChatGPT而在美国佛罗里达州面临刑事调查。",
@@ -599,6 +643,17 @@
           "time_info": "03时59分"
         },
         {
+          "title": "唐国强授权生成「数字版唐国强」，直言 AI 未来会比真人更完美，如何看待这种「主动拥抱替代」的态度？",
+          "url": "https://www.zhihu.com/question/2029861890638045761",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
+        },
+        {
           "title": "OpenAI推出ChatGPT Images2.0图像模型。",
           "url": "https://flash.jin10.com/detail/20260422032424290800",
           "source": "金十数据",
@@ -608,6 +663,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
+        },
+        {
+          "title": "《灵魂摆渡》电影全AI生成",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E7%81%B5%E9%AD%82%E6%91%86%E6%B8%A1%E3%80%8B%E7%94%B5%E5%BD%B1%E5%85%A8AI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
         },
         {
           "title": "若干未经授权的用户接入Anthropic的AI模型Mythos。",
@@ -649,7 +715,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -696,12 +762,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
+        },
+        {
+          "title": "报道：谷歌经营策略使其在AI编程领域处于追赶地位",
+          "url": "https://wallstreetcn.com/livenews/3092157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
+        },
+        {
+          "title": "AI创造营",
+          "url": "https://s.weibo.com/weibo?q=AI%E5%88%9B%E9%80%A0%E8%90%A5&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
         }
       ]
     },
     {
       "keyword_group": "苹果 iPhone",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
         {
           "title": "怎么评价库克执掌苹果15年表现",
@@ -711,11 +799,12 @@
             5,
             4,
             3,
-            1
+            1,
+            21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时11分 ~ 07时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时11分 ~ 09时23分]"
         },
         {
           "title": "苹果换帅！库克9月卸任CEO，硬件主管John Ternus接任",
@@ -736,11 +825,12 @@
             14,
             18,
             16,
-            17
+            17,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时11分 ~ 07时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时11分 ~ 09时23分]"
         },
         {
           "title": "换帅!苹果高管迎来大洗牌",
@@ -750,8 +840,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时11分 ~ 07时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时11分 ~ 09时23分]"
         },
         {
           "title": "苹果公司候任CEO Ternus：我们将再次改变世界。 AI将创造“几乎无限的潜力”。 在我任期内，公司的使命不会变化。",
@@ -790,6 +880,61 @@
           "time_info": "[03时59分 ~ 04时51分]"
         },
         {
+          "title": "特努斯为何能接任苹果CEO",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E5%8A%AA%E6%96%AF%E4%B8%BA%E4%BD%95%E8%83%BD%E6%8E%A5%E4%BB%BB%E8%8B%B9%E6%9E%9CCEO",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 09时23分]"
+        },
+        {
+          "title": "早盘开盘，国内期货主力合约涨跌不一。 SC原油、燃油、低硫燃料油（LU）、苯乙烯（EB）涨超2%，菜粕、豆二、沥青、液化石油气（LPG）、棕榈油、豆粕、PTA、乙二醇（EG）涨超1%；跌幅方面，沪银跌近4%，苹果、多晶硅、沪锡跌超1%，沪金、不锈钢、合成橡胶跌近1%。",
+          "url": "https://flash.jin10.com/detail/20260422090002448800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
+        },
+        {
+          "title": "苹果或被印度罚款380亿美元",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E6%88%96%E8%A2%AB%E5%8D%B0%E5%BA%A6%E7%BD%9A%E6%AC%BE380%E4%BA%BF%E7%BE%8E%E5%85%83&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
+        },
+        {
+          "title": "特努斯将带苹果走向何方",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E5%8A%AA%E6%96%AF%E5%B0%86%E5%B8%A6%E8%8B%B9%E6%9E%9C%E8%B5%B0%E5%90%91%E4%BD%95%E6%96%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
+        },
+        {
+          "title": "库克宣布将于 9 月卸任苹果 CEO，回顾其整个任期，你认为苹果哪一款数码产品的创新力最为突出？",
+          "url": "https://www.zhihu.com/question/2029878909613732543",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
+        },
+        {
           "title": "苹果更换CEO原因首次曝光",
           "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%9B%B4%E6%8D%A2CEO%E5%8E%9F%E5%9B%A0%E9%A6%96%E6%AC%A1%E6%9B%9D%E5%85%89",
           "source": "百度热搜",
@@ -823,21 +968,21 @@
           "time_info": "03时59分"
         },
         {
-          "title": "特努斯为何能接任苹果CEO",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E5%8A%AA%E6%96%AF%E4%B8%BA%E4%BD%95%E8%83%BD%E6%8E%A5%E4%BB%BB%E8%8B%B9%E6%9E%9CCEO",
-          "source": "bilibili 热搜",
+          "title": "苹果新CEO面临留人考验：高管与工程师流失压力上升",
+          "url": "https://flash.jin10.com/detail/20260422081210080800",
+          "source": "金十数据",
           "ranks": [
-            26
+            30
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时31分"
+          "time_info": "09时23分"
         }
       ]
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "降息潮下跳涨35个基点！有民营银行为吸储定存利率大幅“加息”，与大额存单利率倒挂",
@@ -849,8 +994,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时11分 ~ 07时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时11分 ~ 09时23分]"
         },
         {
           "title": "沃什听证会强调美联储独立性，称绝不会成为特朗普的“提线木偶”，从未被要求作出降息承诺",
@@ -861,19 +1006,31 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时56分 ~ 07时28分]"
+          "appearance_count": 8,
+          "time_info": "[02时56分 ~ 09时23分]"
         },
         {
           "title": "特朗普：预计美伊将达成“重大协议”，如果沃什不迅速降息将会感到失望",
           "url": "https://wallstreetcn.com/articles/3770519",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时56分 ~ 07时28分]"
+          "appearance_count": 8,
+          "time_info": "[02时56分 ~ 09时23分]"
+        },
+        {
+          "title": "2000字证词对货币政策避而不谈，沃什听证会焦点：降息态度为何大转弯？",
+          "url": "https://wallstreetcn.com/articles/3770487",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
         },
         {
           "title": "美联储主席提名人沃什：资产负债表在货币政策制定中发挥了不利的作用。 已经告诉总统，使用利率工具比购买债券更好。 需要逐步、谨慎地缩小资产负债表。 降息惠及更多人。",
@@ -909,6 +1066,17 @@
           "time_info": "00时11分"
         },
         {
+          "title": "中金：沃什的表述已显现出降息的倾向",
+          "url": "https://flash.jin10.com/detail/20260422081704455800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
+        },
+        {
           "title": "美联储主席提名人沃什：美联储无权发行数字货币，那将是一个糟糕的政策选择。 美联储的确不应该采用央行数字货币（CBDC）。",
           "url": "https://wallstreetcn.com/livenews/3091998",
           "source": "华尔街见闻-快讯",
@@ -918,6 +1086,83 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体 芯片 集成电路",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美伊谈判悬而未决，美股指收跌，半导体指数十四连涨，原油大涨",
+          "url": "https://wallstreetcn.com/articles/3770361",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 07时28分]"
+        },
+        {
+          "title": "伊朗停火谈判生变，美股收跌，芯片股指十五连涨，油价再涨，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3770463",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时27分 ~ 09时23分]"
+        },
+        {
+          "title": "江苏冲出一个千亿半导体IPO",
+          "url": "https://www.toutiao.com/trending/7631196205749374515/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            17,
+            22,
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时11分 ~ 07时28分]"
+        },
+        {
+          "title": "周二（4月21日），美股行业ETF普遍收跌，全球航空业ETF收跌2.90%，公用事业ETF、区域银行ETF、银行业ETF、医疗业ETF、生物科技指数ETF跌1.75%-1.01%，半导体ETF涨0.15%，能源业ETF涨1.45%。",
+          "url": "https://wallstreetcn.com/livenews/3092085",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时51分 ~ 05时37分]"
+        },
+        {
+          "title": "日本突发7.4级地震，影响多家半导体公司",
+          "url": "https://wallstreetcn.com/articles/3770431",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时11分"
+        },
+        {
+          "title": "半导体与电子零部件推动日本出口超预期回升",
+          "url": "https://flash.jin10.com/detail/20260422081930069800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
         }
       ]
     },
@@ -934,11 +1179,12 @@
             18,
             17,
             12,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时51分 ~ 07时28分]"
+          "appearance_count": 9,
+          "time_info": "[01时51分 ~ 09时23分]"
         },
         {
           "title": "美联储理事沃勒：第二种模式的一个潜在影响是，地区储备银行未来可能面临更低的就业水平。",
@@ -1060,72 +1306,6 @@
       ]
     },
     {
-      "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美伊谈判悬而未决，美股指收跌，半导体指数十四连涨，原油大涨",
-          "url": "https://wallstreetcn.com/articles/3770361",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时11分 ~ 07时28分]"
-        },
-        {
-          "title": "伊朗停火谈判生变，美股收跌，芯片股指十五连涨，油价再涨，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3770463",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时27分 ~ 07时28分]"
-        },
-        {
-          "title": "江苏冲出一个千亿半导体IPO",
-          "url": "https://www.toutiao.com/trending/7631196205749374515/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            17,
-            22,
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时11分 ~ 07时28分]"
-        },
-        {
-          "title": "周二（4月21日），美股行业ETF普遍收跌，全球航空业ETF收跌2.90%，公用事业ETF、区域银行ETF、银行业ETF、医疗业ETF、生物科技指数ETF跌1.75%-1.01%，半导体ETF涨0.15%，能源业ETF涨1.45%。",
-          "url": "https://wallstreetcn.com/livenews/3092085",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时51分 ~ 05时37分]"
-        },
-        {
-          "title": "日本突发7.4级地震，影响多家半导体公司",
-          "url": "https://wallstreetcn.com/articles/3770431",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        }
-      ]
-    },
-    {
       "keyword_group": "房地产 房价 楼市 LPR",
       "match_count": 3,
       "titles": [
@@ -1148,7 +1328,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -1188,11 +1368,12 @@
           "ranks": [
             2,
             12,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时11分 ~ 07时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时11分 ~ 09时23分]"
         },
         {
           "title": "大学生回炉读技校释放什么信号",
@@ -1219,7 +1400,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -1234,6 +1415,36 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时51分 ~ 05时37分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "创业板",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【焦点复盘】创业板指深V反转迎四连阳，算力硬件股现极致分化，商业航天概念强者恒强",
+          "url": "https://www.cls.cn/detail/2350801",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 07时28分]"
+        },
+        {
+          "title": "吴清：推动科创板、创业板等改革在京落地见效",
+          "url": "https://flash.jin10.com/detail/20260422084925761800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
         }
       ]
     },
@@ -1273,21 +1484,19 @@
       ]
     },
     {
-      "keyword_group": "创业板",
+      "keyword_group": "英伟达 台积电 AMD 高通",
       "match_count": 1,
       "titles": [
         {
-          "title": "【焦点复盘】创业板指深V反转迎四连阳，算力硬件股现极致分化，商业航天概念强者恒强",
-          "url": "https://www.cls.cn/detail/2350801",
-          "source": "财联社热门",
+          "title": "英伟达免费API好用吗",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%85%8D%E8%B4%B9API%E5%A5%BD%E7%94%A8%E5%90%97",
+          "source": "bilibili 热搜",
           "ranks": [
-            7,
-            8,
-            9
+            5
           ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时11分 ~ 07时28分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
         }
       ]
     },
@@ -1303,8 +1512,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时11分 ~ 07时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时11分 ~ 09时23分]"
         }
       ]
     }
