@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-29T06:46:03.128079+08:00",
-  "total_titles_processed": 540,
+  "generated_at": "2026-04-29T07:45:03.073256+08:00",
+  "total_titles_processed": 600,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时29分 ~ 06时46分]"
+          "appearance_count": 8,
+          "time_info": "[01时29分 ~ 07时45分]"
         },
         {
           "title": "WTI 6月原油期货收涨3.56美元，涨幅3.69%，报99.93美元/桶。 布伦特6月原油期货收涨3.03美元，涨幅2.80%，报111.26美元/桶。 中东Abu Dhabi Murban原油期货涨2.91%，报107.22美元/桶。 NYMEX 5月天然气期货收报2.5590美元/百万英热单位。 NYMEX 5月汽油期货收报3.5604美元/加仑，NYMEX 5月取暖油期货收报3.9712美元/加仑。",
@@ -147,6 +147,18 @@
           "time_info": "[01时29分 ~ 03时18分]"
         },
         {
+          "title": "WTI原油日内跌幅达0.5%，报99.43美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3096041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 07时45分]"
+        },
+        {
           "title": "铜价跌至两周低点，受累于美元走强及通胀担忧",
           "url": "https://wallstreetcn.com/livenews/3095935",
           "source": "华尔街见闻-快讯",
@@ -159,15 +171,28 @@
           "time_info": "[01时29分 ~ 03时18分]"
         },
         {
-          "title": "WTI原油日内跌幅达0.5%，报99.43美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3096041",
+          "title": "美国电网运营商MISO夏季拍卖出清价为每兆瓦日424美元",
+          "url": "https://wallstreetcn.com/livenews/3096040",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            11,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 07时45分]"
+        },
+        {
+          "title": "美国五角大楼已正式提出更名申请，拟将“国防部”更名为“战争部”，预计相关调整成本将超过5000万美元。据悉，五角大楼总法律顾问办公室已发布相关提案，推动修改法律以完成正式更名。",
+          "url": "https://flash.jin10.com/detail/20260429054636287800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 07时45分]"
         },
         {
           "title": "周二（4月28日）纽约尾盘，现货黄金跌1.86%，报4595.11美元/盎司，亚太早盘以来持续走低，北京时间20:01刷新日低至4555.02美元，19:00以来持续低位窄幅震荡。 COMEX黄金期货跌1.84%，报4607.40美元/盎司。 现货白银跌3.21%，报73.0888美元/盎司，14:00以来持续低位窄幅震荡——持续交投于73美元附近。",
@@ -181,17 +206,6 @@
           "time_info": "05时53分"
         },
         {
-          "title": "美国电网运营商MISO夏季拍卖出清价为每兆瓦日424美元",
-          "url": "https://wallstreetcn.com/livenews/3096040",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
           "title": "周二（4月28日），韩元兑美元最终涨0.13%，报1472.56韩元，北京时间19:57曾跌至1478.81韩元刷新日低。",
           "url": "https://wallstreetcn.com/livenews/3095953",
           "source": "华尔街见闻-快讯",
@@ -201,17 +215,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
-        },
-        {
-          "title": "美国五角大楼已正式提出更名申请，拟将“国防部”更名为“战争部”，预计相关调整成本将超过5000万美元。据悉，五角大楼总法律顾问办公室已发布相关提案，推动修改法律以完成正式更名。",
-          "url": "https://flash.jin10.com/detail/20260429054636287800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
         },
         {
           "title": "美国原油期货结算价为每桶99.93美元，上涨3.56美元，涨幅3.69%。",
@@ -305,18 +308,19 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "OpenAI增长疑云引发科技股回调 海合会召开特别峰会 | 今夜看点",
           "url": "https://www.cls.cn/detail/2358592",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时29分 ~ 06时46分]"
+          "appearance_count": 8,
+          "time_info": "[01时29分 ~ 07时45分]"
         },
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，纳指盘初跌1.2%，半导体集体回调，WTI涨破百元大关，金银下挫",
@@ -330,6 +334,53 @@
           "time_info": "[01时29分 ~ 05时53分]"
         },
         {
+          "title": "创业板跌超1%，医药逆势拉升、药明康德涨停，恒科指跌超2%，“全球AI硅光芯片第一股”暴涨近400%",
+          "url": "https://wallstreetcn.com/articles/3771068",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时29分 ~ 07时45分]"
+        },
+        {
+          "title": "AI海报杀疯,设计师饭碗被砸",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353780&amp;topic_name=AI%E6%B5%B7%E6%8A%A5%E6%9D%80%E7%96%AF%2C%E8%AE%BE%E8%AE%A1%E5%B8%88%E9%A5%AD%E7%A2%97%E8%A2%AB%E7%A0%B8",
+          "source": "贴吧",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时29分 ~ 07时45分]"
+        },
+        {
+          "title": "如何评价红果下架播放量 8 亿的 AI 短剧《菩提临世》？问题出在哪？AI 短剧创作要注意什么？",
+          "url": "https://www.zhihu.com/question/2032163714355263384",
+          "source": "知乎",
+          "ranks": [
+            6,
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时29分 ~ 07时45分]"
+        },
+        {
+          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
+          "url": "https://wallstreetcn.com/articles/3771095",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时44分 ~ 07时45分]"
+        },
+        {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股债齐跌，半导体集体回调，WTI涨破百元大关，金银下挫",
           "url": "https://wallstreetcn.com/articles/3771095",
           "source": "华尔街见闻",
@@ -341,15 +392,16 @@
           "time_info": "[06时45分 ~ 06时46分]"
         },
         {
-          "title": "创业板跌超1%，医药逆势拉升、药明康德涨停，恒科指跌超2%，“全球AI硅光芯片第一股”暴涨近400%",
-          "url": "https://wallstreetcn.com/articles/3771068",
-          "source": "华尔街见闻",
+          "title": "美股收盘：OpenAI相关股票承压 三大指数集体下跌",
+          "url": "https://www.cls.cn/detail/2358855",
+          "source": "财联社热门",
           "ranks": [
-            8
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时29分 ~ 06时46分]"
+          "appearance_count": 4,
+          "time_info": "[06时45分 ~ 07时45分]"
         },
         {
           "title": "埃隆·马斯克在加州联邦法院的OpenAI案庭审中出庭作证。",
@@ -374,30 +426,6 @@
           "time_info": "03时18分"
         },
         {
-          "title": "AI海报杀疯,设计师饭碗被砸",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353780&amp;topic_name=AI%E6%B5%B7%E6%8A%A5%E6%9D%80%E7%96%AF%2C%E8%AE%BE%E8%AE%A1%E5%B8%88%E9%A5%AD%E7%A2%97%E8%A2%AB%E7%A0%B8",
-          "source": "贴吧",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时29分 ~ 06时46分]"
-        },
-        {
-          "title": "如何评价红果下架播放量 8 亿的 AI 短剧《菩提临世》？问题出在哪？AI 短剧创作要注意什么？",
-          "url": "https://www.zhihu.com/question/2032163714355263384",
-          "source": "知乎",
-          "ranks": [
-            6,
-            19,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时29分 ~ 06时46分]"
-        },
-        {
           "title": "OpenAI：华尔街日报的报道是标题党，公司各项业务“火力全开”",
           "url": "https://wallstreetcn.com/livenews/3095943",
           "source": "华尔街见闻-快讯",
@@ -410,15 +438,16 @@
           "time_info": "[01时29分 ~ 03时18分]"
         },
         {
-          "title": "美股收盘：OpenAI相关股票承压 三大指数集体下跌",
-          "url": "https://www.cls.cn/detail/2358855",
-          "source": "财联社热门",
+          "title": "报道：OpenAI预计用户将大规模转向更廉价的ChatGPT订阅层级",
+          "url": "https://wallstreetcn.com/livenews/3096044",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            7,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时45分 ~ 06时46分]"
+          "time_info": "[06时46分 ~ 07时45分]"
         },
         {
           "title": "随着微软放弃排他性协议，亚马逊将开始销售OpenAI的技术",
@@ -433,6 +462,53 @@
           "time_info": "[01时29分 ~ 03时18分]"
         },
         {
+          "title": "AI算力需求持续爆发，工业富联Q1营收同比增长57%，净利润增长103%｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3771123",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时44分 ~ 07时45分]"
+        },
+        {
+          "title": "据The Information：OpenAI预计今年将有1.12亿用户订阅ChatGPT Go。",
+          "url": "https://flash.jin10.com/detail/20260429060010713800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 07时45分]"
+        },
+        {
+          "title": "据The Information：OpenAI预计今年“8美元ChatGPT Go”的订阅量将大幅增长。",
+          "url": "https://flash.jin10.com/detail/20260429055922440800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 07时45分]"
+        },
+        {
+          "title": "据AXIOS：OpenAI与Anthropic就先进网络模型与美国众议院委员会举行会议。",
+          "url": "https://flash.jin10.com/detail/20260429055656678800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 07时45分]"
+        },
+        {
           "title": "马斯克律师：OpenAI“偷走了一个慈善机构”，针对AI公司及Altman的审判开启",
           "url": "https://wallstreetcn.com/livenews/3095934",
           "source": "华尔街见闻-快讯",
@@ -445,59 +521,28 @@
           "time_info": "[01时29分 ~ 03时18分]"
         },
         {
-          "title": "报道：OpenAI预计用户将大规模转向更廉价的ChatGPT订阅层级",
-          "url": "https://wallstreetcn.com/livenews/3096044",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
-          "title": "据The Information：OpenAI预计今年将有1.12亿用户订阅ChatGPT Go。",
-          "url": "https://flash.jin10.com/detail/20260429060010713800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
-          "title": "据The Information：OpenAI预计今年“8美元ChatGPT Go”的订阅量将大幅增长。",
-          "url": "https://flash.jin10.com/detail/20260429055922440800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
-          "title": "据AXIOS：OpenAI与Anthropic就先进网络模型与美国众议院委员会举行会议。",
-          "url": "https://flash.jin10.com/detail/20260429055656678800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
           "title": "据CNBC记者：美国国防部的人工智能负责人确认，该部门正在扩大对谷歌Gemini人工智能模型的使用。",
           "url": "https://flash.jin10.com/detail/20260429054900131800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 07时45分]"
+        },
+        {
+          "title": "OpenAI与Anthropic（上）周四向美国众议院国土安全委员会做了一次简报。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3096036",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 07时45分]"
         },
         {
           "title": "据知情人士透露，黑石集团旗下QTS要求银行业提供20亿美元资金，用于保障（来自公用事业行业）AI电力供应。（彭博）",
@@ -509,17 +554,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
-        },
-        {
-          "title": "OpenAI与Anthropic（上）周四向美国众议院国土安全委员会做了一次简报。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3096036",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
         },
         {
           "title": "英伟达推出NEMOTRON 3 NANO OMNI模型，实现视觉、音频和语言的统一，使AI智能体的效率提高至9倍。",
@@ -568,6 +602,95 @@
       ]
     },
     {
+      "keyword_group": "央行 降息 降准 CPI 物价",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "全球迎来超级央行周",
+          "url": "https://www.douyin.com/hot/2482690",
+          "source": "抖音",
+          "ranks": [
+            9,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时29分 ~ 07时45分]"
+        },
+        {
+          "title": "英国国家经济社会研究院：预计在温和情景下，英国央行的利率将上调至4%。",
+          "url": "https://flash.jin10.com/detail/20260429070259394800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
+          "title": "委内瑞拉临时总统罗德里格斯：我们接近于结束2024年开始的降息周期。在下次货币政策决策中，我们将考虑进行本轮周期中的最后一次降息。",
+          "url": "https://flash.jin10.com/detail/20260429050445206800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时53分 ~ 07时45分]"
+        },
+        {
+          "title": "智利央行一致决定维持利率在4.50%不变。",
+          "url": "https://flash.jin10.com/detail/20260429060037235800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 07时45分]"
+        },
+        {
+          "title": "智利央行维持关键利率在4.5%不变，符合预期。 全球经济继续表现出不确定性。",
+          "url": "https://wallstreetcn.com/livenews/3096038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 07时45分]"
+        },
+        {
+          "title": "英国国家经济社会研究院：在不利情景下，英国央行的关键利率应上升至5.25%。",
+          "url": "https://flash.jin10.com/detail/20260429070145059800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
+          "title": "周二（4月28日）纽约尾盘，美元兑日元涨0.15%，报159.65日元，日内交投区间为158.96-159.79日元，日本央行宣布利率决议之际、在北京时间11:04显著跳水，随后逐步回升。 欧元兑日元涨0.01%，报186.990日元，日本央行行长举行新闻发布会之际，14:43刷新日低至186.07日元；英镑兑日元跌0.01%，报215.763日元，整体呈现出W形走势。",
+          "url": "https://wallstreetcn.com/livenews/3095984",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时58分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
       "match_count": 5,
       "titles": [
@@ -581,8 +704,21 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时29分 ~ 07时45分]"
+        },
+        {
+          "title": "李想称理想比上汽大众竞品至少领先两代，大众高管回应「仅价格和营销领先」，真正的「领先」有哪些衡量维度？",
+          "url": "https://www.zhihu.com/question/2032096021916988183",
+          "source": "知乎",
+          "ranks": [
+            15,
+            12,
+            20
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[01时29分 ~ 06时46分]"
+          "time_info": "[01时29分 ~ 07时45分]"
         },
         {
           "title": "比亚迪短期借款飙升至纪录高位，季度利润降至数年来最低",
@@ -595,19 +731,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时29分 ~ 03时18分]"
-        },
-        {
-          "title": "李想称理想比上汽大众竞品至少领先两代，大众高管回应「仅价格和营销领先」，真正的「领先」有哪些衡量维度？",
-          "url": "https://www.zhihu.com/question/2032096021916988183",
-          "source": "知乎",
-          "ranks": [
-            15,
-            12,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时29分 ~ 06时46分]"
         },
         {
           "title": "蔚来李斌：我们已进入残酷的决赛阶段",
@@ -634,69 +757,6 @@
       ]
     },
     {
-      "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "全球迎来超级央行周",
-          "url": "https://www.douyin.com/hot/2482690",
-          "source": "抖音",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时29分 ~ 06时46分]"
-        },
-        {
-          "title": "委内瑞拉临时总统罗德里格斯：我们接近于结束2024年开始的降息周期。在下次货币政策决策中，我们将考虑进行本轮周期中的最后一次降息。",
-          "url": "https://flash.jin10.com/detail/20260429050445206800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时53分 ~ 06时46分]"
-        },
-        {
-          "title": "智利央行一致决定维持利率在4.50%不变。",
-          "url": "https://flash.jin10.com/detail/20260429060037235800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
-          "title": "智利央行维持关键利率在4.5%不变，符合预期。 全球经济继续表现出不确定性。",
-          "url": "https://wallstreetcn.com/livenews/3096038",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
-          "title": "周二（4月28日）纽约尾盘，美元兑日元涨0.15%，报159.65日元，日内交投区间为158.96-159.79日元，日本央行宣布利率决议之际、在北京时间11:04显著跳水，随后逐步回升。 欧元兑日元涨0.01%，报186.990日元，日本央行行长举行新闻发布会之际，14:43刷新日低至186.07日元；英镑兑日元跌0.01%，报215.763日元，整体呈现出W形走势。",
-          "url": "https://wallstreetcn.com/livenews/3095984",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时58分"
-        }
-      ]
-    },
-    {
       "keyword_group": "华为 小米 荣耀",
       "match_count": 3,
       "titles": [
@@ -710,8 +770,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时29分 ~ 06时46分]"
+          "appearance_count": 8,
+          "time_info": "[01时29分 ~ 07时45分]"
         },
         {
           "title": "老外在中国被华为笔记本震惊了",
@@ -855,11 +915,12 @@
           "ranks": [
             20,
             16,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时29分 ~ 06时46分]"
+          "appearance_count": 8,
+          "time_info": "[01时29分 ~ 07时45分]"
         }
       ]
     },
