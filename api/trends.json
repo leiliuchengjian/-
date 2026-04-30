@@ -1,22 +1,287 @@
 {
-  "generated_at": "2026-05-01T02:03:51.339400+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2026-05-01T04:04:58.582547+08:00",
+  "total_titles_processed": 475,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "人工智能 AI",
-      "match_count": 14,
+      "keyword_group": "美元 人民币 汇率",
+      "match_count": 23,
       "titles": [
         {
-          "title": "Yubico与OpenAI达成合作协议，前者用户可以通过OpenAI的安全项目购买Yubikeys。",
-          "url": "https://wallstreetcn.com/livenews/3097659",
+          "title": "美联储34年最大分歧叠加油价飙升，美债重挫，美股横盘，美元走强，黄金三连跌",
+          "url": "https://wallstreetcn.com/articles/3771214",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 04时04分]"
+        },
+        {
+          "title": "周四（4月30日）纽约尾盘，ICE美元指数跌0.88%，报98.090点，4月份累计下跌1.88%，整体交投区间为100.273-97.632点，大部分时间交投于99点下方。",
+          "url": "https://wallstreetcn.com/livenews/3097685",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
+          "time_info": "04时04分"
+        },
+        {
+          "title": "委内瑞拉代总统罗德里格斯：月最低工资将上调至240美元。",
+          "url": "https://flash.jin10.com/detail/20260501035316765800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
+        },
+        {
+          "title": "周四（4月30日），美联储隔夜逆回购协议（RRP）使用规模为82.61亿美元（交易对手12家），上个交易日报6.43亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3097653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
           "time_info": "02时03分"
+        },
+        {
+          "title": "Meta拟发巨额债券，欲募资多达250亿美元",
+          "url": "https://wallstreetcn.com/livenews/3097637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 02时03分]"
+        },
+        {
+          "title": "WTI原油5分钟内下跌1.33美元/桶，报103.46美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3097658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时03分 ~ 04时04分]"
+        },
+        {
+          "title": "人民币冒充日元?日网友又爆典",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353910&amp;topic_name=%E4%BA%BA%E6%B0%91%E5%B8%81%E5%86%92%E5%85%85%E6%97%A5%E5%85%83%3F%E6%97%A5%E7%BD%91%E5%8F%8B%E5%8F%88%E7%88%86%E5%85%B8",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 04时04分]"
+        },
+        {
+          "title": "美国对伊战争已花掉250亿美元，特朗普欲推出“海上自由联盟”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33082398",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 04时04分]"
+        },
+        {
+          "title": "美国银行：预计铝价格将提前至2026年四季度达到4000美元/吨，之前预计要到2027年二季度才会涨至那样的水平。 上调锌价格预期12.7%，至3309美元/吨。 铜市场仍然供应紧俏，预计2026-27年将存在供应缺口。 重申对未来12个月黄金价格6000美元/盎司的预期。",
+          "url": "https://wallstreetcn.com/livenews/3097626",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 02时03分]"
+        },
+        {
+          "title": "狗狗币涨超4%，4月份已累涨将近15%，比特币月内涨约12%一度逼近8万美元关口",
+          "url": "https://wallstreetcn.com/livenews/3097652",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时03分"
+        },
+        {
+          "title": "美国官员：伊朗战争成本接近500亿美元。",
+          "url": "https://flash.jin10.com/detail/20260501034727215800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
+        },
+        {
+          "title": "美国投资公司协会（ICI）：美国货币市场资产降低至7.626万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3097680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
+        },
+        {
+          "title": "英镑/美元日内涨幅达1.0%，报1.3608。",
+          "url": "https://wallstreetcn.com/livenews/3097678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
+        },
+        {
+          "title": "避险交易逐渐平息 美元料创去年6月以来最差单月表现",
+          "url": "https://flash.jin10.com/detail/20260501013533451800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时03分"
+        },
+        {
+          "title": "Meta的美元债发行获得大约960亿美元投资者认购。",
+          "url": "https://wallstreetcn.com/livenews/3097644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时03分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8310元，较周三夜盘收盘涨120点。成交量410.55亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3097674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
+        },
+        {
+          "title": "WTI原油回落至105美元/桶下方，日内跌4.71%。",
+          "url": "https://flash.jin10.com/detail/20260501013112566800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时03分"
+        },
+        {
+          "title": "WTI 6月原油期货收报105.07美元/桶，4月份累涨超12.78%。 布伦特6月原油期货收报114.01美元/桶，4月份累涨超9.56%，4月30日亚太午盘曾达到126.41美元。 中东Abu Dhabi Murban原油期货报109.61美元/桶，4月份累涨2.62%。 NYMEX 6月天然气期货收报2.7670美元/百万英热单位。 NYMEX 5月汽油期货收报3.7715美元/加仑，NYMEX 5月取暖油期货收报4.1384美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3097671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了12个对手方的82.61亿美元。",
+          "url": "https://flash.jin10.com/detail/20260501011649881800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时03分"
+        },
+        {
+          "title": "美国加州州长纽森：在特朗普与伊朗的冲突持续61天后，国家平均汽油价格已达到每加仑4.30美元，涨幅近30%。此外，食品、运输、航班等价格也在上涨。特朗普政府和共和党国会对此的反应？沉默无声。",
+          "url": "https://flash.jin10.com/detail/20260501032134400800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
+        },
+        {
+          "title": "SpaceX投资者137 Ventures持股超1%，价值突破100亿美元",
+          "url": "https://wallstreetcn.com/livenews/3097662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
+        },
+        {
+          "title": "商品货币澳元/美元日内涨幅达1.0%，报0.7188。纽元/美元日内涨幅达1.0%，报0.5888。",
+          "url": "https://wallstreetcn.com/livenews/3097608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时17分"
+        },
+        {
+          "title": "墨西哥石油公司Pemex一季度净亏损459.9亿墨西哥比索，上年同期亏损433.3亿比索。 一季度末，公司对供应商们的债务规模为207.63亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3097628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能 AI",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "假如AI能模拟去世亲人",
+          "url": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82AI%E8%83%BD%E6%A8%A1%E6%8B%9F%E5%8E%BB%E4%B8%96%E4%BA%B2%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 04时04分]"
         },
         {
           "title": "美国白宫人工智能顾问萨克斯：Mythos不是世界末日装置。",
@@ -25,21 +290,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
         },
         {
-          "title": "假如AI能模拟去世亲人",
-          "url": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82AI%E8%83%BD%E6%A8%A1%E6%8B%9F%E5%8E%BB%E4%B8%96%E4%BA%B2%E4%BA%BA",
-          "source": "bilibili 热搜",
+          "title": "Yubico与OpenAI达成合作协议，前者用户可以通过OpenAI的安全项目购买Yubikeys。",
+          "url": "https://wallstreetcn.com/livenews/3097659",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            7
+            1,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 02时03分]"
+          "appearance_count": 2,
+          "time_info": "[02时03分 ~ 04时04分]"
         },
         {
           "title": "云计算三巨头验证AI商业化前景 日元汇率剧烈波动 | 今夜看点",
@@ -49,8 +314,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 04时04分]"
         },
         {
           "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
@@ -58,11 +323,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 04时04分]"
         },
         {
           "title": "中央网信办部署开展“清朗·整治AI应用乱象”专项行动",
@@ -72,8 +338,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 04时04分]"
         },
         {
           "title": "AI魔改黑袍,星光姐被玩坏",
@@ -83,8 +349,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 04时04分]"
         },
         {
           "title": "高通CEO表示：新型AI芯片业务将在2027年贡献显著营收。",
@@ -99,13 +365,25 @@
           "time_info": "[00时17分 ~ 02时03分]"
         },
         {
+          "title": "深圳14岁男孩用AI备考押中奥赛题",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B314%E5%B2%81%E7%94%B7%E5%AD%A9%E7%94%A8AI%E5%A4%87%E8%80%83%E6%8A%BC%E4%B8%AD%E5%A5%A5%E8%B5%9B%E9%A2%98%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时03分 ~ 04时04分]"
+        },
+        {
           "title": "美国国防部长赫格塞思：人工智能并未做出致命决策；Anthropic公司由一位“意识形态狂人”领导。",
           "url": "https://flash.jin10.com/detail/20260501014458806800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
         },
@@ -127,7 +405,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
         },
@@ -138,18 +416,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时03分"
-        },
-        {
-          "title": "深圳14岁男孩用AI备考押中奥赛题",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B314%E5%B2%81%E7%94%B7%E5%AD%A9%E7%94%A8AI%E5%A4%87%E8%80%83%E6%8A%BC%E4%B8%AD%E5%A5%A5%E8%B5%9B%E9%A2%98%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
         },
@@ -160,171 +427,103 @@
           "ranks": [
             24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元 人民币 汇率",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "美联储34年最大分歧叠加油价飙升，美债重挫，美股横盘，美元走强，黄金三连跌",
-          "url": "https://wallstreetcn.com/articles/3771214",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 02时03分]"
-        },
-        {
-          "title": "WTI原油5分钟内下跌1.33美元/桶，报103.46美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3097658",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "02时03分"
         },
         {
-          "title": "周四（4月30日），美联储隔夜逆回购协议（RRP）使用规模为82.61亿美元（交易对手12家），上个交易日报6.43亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3097653",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时03分"
-        },
-        {
-          "title": "Meta拟发巨额债券，欲募资多达250亿美元",
-          "url": "https://wallstreetcn.com/livenews/3097637",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 02时03分]"
-        },
-        {
-          "title": "人民币冒充日元?日网友又爆典",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353910&amp;topic_name=%E4%BA%BA%E6%B0%91%E5%B8%81%E5%86%92%E5%85%85%E6%97%A5%E5%85%83%3F%E6%97%A5%E7%BD%91%E5%8F%8B%E5%8F%88%E7%88%86%E5%85%B8",
-          "source": "贴吧",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 02时03分]"
-        },
-        {
-          "title": "美国对伊战争已花掉250亿美元，特朗普欲推出“海上自由联盟”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33082398",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 02时03分]"
-        },
-        {
-          "title": "美国银行：预计铝价格将提前至2026年四季度达到4000美元/吨，之前预计要到2027年二季度才会涨至那样的水平。 上调锌价格预期12.7%，至3309美元/吨。 铜市场仍然供应紧俏，预计2026-27年将存在供应缺口。 重申对未来12个月黄金价格6000美元/盎司的预期。",
-          "url": "https://wallstreetcn.com/livenews/3097626",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 02时03分]"
-        },
-        {
-          "title": "狗狗币涨超4%，4月份已累涨将近15%，比特币月内涨约12%一度逼近8万美元关口",
-          "url": "https://wallstreetcn.com/livenews/3097652",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时03分"
-        },
-        {
-          "title": "避险交易逐渐平息 美元料创去年6月以来最差单月表现",
-          "url": "https://flash.jin10.com/detail/20260501013533451800",
+          "title": "美防长斥责Anthropic首席执行官 为五角大楼使用AI辩护",
+          "url": "https://flash.jin10.com/detail/20260501032025979800",
           "source": "金十数据",
           "ranks": [
-            12
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时03分"
+          "time_info": "04时04分"
         },
         {
-          "title": "Meta的美元债发行获得大约960亿美元投资者认购。",
-          "url": "https://wallstreetcn.com/livenews/3097644",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时03分"
-        },
-        {
-          "title": "WTI原油回落至105美元/桶下方，日内跌4.71%。",
-          "url": "https://flash.jin10.com/detail/20260501013112566800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时03分"
-        },
-        {
-          "title": "美联储在固定利率逆回购操作中总计接纳了12个对手方的82.61亿美元。",
-          "url": "https://flash.jin10.com/detail/20260501011649881800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时03分"
-        },
-        {
-          "title": "商品货币澳元/美元日内涨幅达1.0%，报0.7188。纽元/美元日内涨幅达1.0%，报0.5888。",
-          "url": "https://wallstreetcn.com/livenews/3097608",
+          "title": "OpenAI为用户提供新安全措施，可抛弃密码登录",
+          "url": "https://wallstreetcn.com/livenews/3097661",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时17分"
+          "time_info": "04时04分"
         },
         {
-          "title": "墨西哥石油公司Pemex一季度净亏损459.9亿墨西哥比索，上年同期亏损433.3亿比索。 一季度末，公司对供应商们的债务规模为207.63亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3097628",
+          "title": "美国“战争部”部长赫格塞斯：Anthropic由“一群思想狂热分子”经营。 并没有让人工智能（AI）做出致命性的决策。",
+          "url": "https://wallstreetcn.com/livenews/3097660",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时03分"
+          "time_info": "04时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体 芯片 集成电路",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "【数据看盘】超30亿元资金买入算力芯片龙头 多路资金联手抢筹中国长城",
+          "url": "https://www.cls.cn/detail/2361202",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 04时04分]"
+        },
+        {
+          "title": "高盛：建议买入超大规模云服务商，而非芯片股",
+          "url": "https://wallstreetcn.com/livenews/3097686",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
+        },
+        {
+          "title": "【每日收评】科创50指数涨超5%，芯片产业链集体爆发，寒武纪20CM涨停重夺“股王”宝座",
+          "url": "https://www.cls.cn/detail/2361107",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 04时04分]"
+        },
+        {
+          "title": "4月收官！沪指站稳4100点，科创50指数大涨25%，芯片半导体爆发，寒武纪重夺股王宝座",
+          "url": "https://wallstreetcn.com/articles/3771338",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
+        },
+        {
+          "title": "知情人士：欧盟拟改革芯片法案以刺激投资",
+          "url": "https://flash.jin10.com/detail/20260430234624595800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时17分"
         }
       ]
     },
@@ -350,7 +549,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
         },
@@ -390,8 +589,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 04时04分]"
         },
         {
           "title": "武汉楼市新政公布，扩大住房公积金异地贷款范围",
@@ -411,48 +610,9 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "【数据看盘】超30亿元资金买入算力芯片龙头 多路资金联手抢筹中国长城",
-          "url": "https://www.cls.cn/detail/2361202",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 02时03分]"
-        },
-        {
-          "title": "【每日收评】科创50指数涨超5%，芯片产业链集体爆发，寒武纪20CM涨停重夺“股王”宝座",
-          "url": "https://www.cls.cn/detail/2361107",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 02时03分]"
-        },
-        {
-          "title": "知情人士：欧盟拟改革芯片法案以刺激投资",
-          "url": "https://flash.jin10.com/detail/20260430234624595800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
         }
       ]
     },
@@ -468,19 +628,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 04时04分]"
         },
         {
           "title": "华为Pura 90系列影像表现实测",
           "url": "https://search.bilibili.com/all?keyword=%E5%8D%8E%E4%B8%BAPura%2090%E7%B3%BB%E5%88%97%E5%BD%B1%E5%83%8F%E8%A1%A8%E7%8E%B0%E5%AE%9E%E6%B5%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            14
+            14,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时03分 ~ 04时04分]"
         }
       ]
     },
@@ -494,11 +655,12 @@
           "source": "微博",
           "ranks": [
             20,
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 04时04分]"
         },
         {
           "title": "苹果(AAPL.O)在提交的文件中指控印度监管机构越权，并寻求暂停反垄断案件。",
@@ -522,11 +684,12 @@
           "url": "https://www.zhihu.com/question/2032096036068357494",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 04时04分]"
         },
         {
           "title": "纳斯达克金龙中国指数涨超1.3%，刷新日高至6880点上方。 热门中概股里，百度涨超4.6%，贝壳涨4.4%，再鼎医药涨4.3%，美团涨3.4%，网易涨2.8%，携程涨2.7%，新东方涨1.7%，拼多多涨1.5%，阿里巴巴涨0.4%，蔚来跌约1.9%。 ETF中，CQQQ涨超3%，KWEB涨1.7%，ASHS涨1.5%，ASHR涨1.1%。 富时A50夜期涨约0.4%。",
@@ -553,8 +716,42 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 04时04分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英伟达 台积电 AMD 高通",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股收盘，道指初步收涨1.62%、标普500指数涨1.02%、纳指0.89涨%。Alphabet(GOOG.O)收涨9.95%，创历史新高；高通(QCOM.O)涨超15%。纳斯达克中国金龙指数涨2.1%，阿里巴巴(BABA.N)涨超1%。",
+          "url": "https://flash.jin10.com/detail/20260501040155496800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "就业 裁员 招聘",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Meta Platforms(META.O)在内部会议上告知员工，不排除进一步裁员的可能性。",
+          "url": "https://flash.jin10.com/detail/20260501035752739800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
         }
       ]
     }
