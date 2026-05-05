@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-06T06:46:51.524697+08:00",
-  "total_titles_processed": 570,
+  "generated_at": "2026-05-06T07:40:05.490217+08:00",
+  "total_titles_processed": 634,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "上调寒武纪、下调浪潮信息！高盛预言了“国产AI芯片的崛起”场景",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时39分 ~ 06时46分]"
+          "appearance_count": 9,
+          "time_info": "[01时39分 ~ 07时40分]"
         },
         {
           "title": "奥斯卡新规明确禁用 AI 演员、限制 AI 剧本，究竟是守护创作本质，还是在开时代倒车？",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时39分 ~ 06时46分]"
+          "appearance_count": 9,
+          "time_info": "[01时39分 ~ 07时40分]"
         },
         {
           "title": "立场反转，特朗普政府考虑对AI模型进行安全审查",
@@ -41,8 +41,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时39分 ~ 06时46分]"
+          "appearance_count": 9,
+          "time_info": "[01时39分 ~ 07时40分]"
         },
         {
           "title": "美国豪赌AI,取代人类科学家",
@@ -52,8 +52,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时39分 ~ 06时46分]"
+          "appearance_count": 9,
+          "time_info": "[01时39分 ~ 07时40分]"
         },
         {
           "title": "AI主播上电视,虚拟人抢饭碗?",
@@ -63,19 +63,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时39分 ~ 06时46分]"
-        },
-        {
-          "title": "Meta正在打造一款AI Agent（人工智能智能体），名叫Hatch和一款Instagram内的购物工具代理。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3098967",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
+          "appearance_count": 9,
+          "time_info": "[01时39分 ~ 07时40分]"
         },
         {
           "title": "公司高管称，OpenAI向美国政府提前开放了GPT-5.5的访问权限以进行安全测试。",
@@ -94,11 +83,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            11
+            11,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 06时46分]"
+          "appearance_count": 3,
+          "time_info": "[06时21分 ~ 07时40分]"
         },
         {
           "title": "AI驱动增长全面爆发，Palantir Q1营收激增85%、上调全年指引远超预期 | 财报见闻",
@@ -111,6 +101,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时39分 ~ 04时54分]"
+        },
+        {
+          "title": "Meta正在打造一款AI Agent（人工智能智能体），名叫Hatch和一款Instagram内的购物工具代理。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3098967",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 07时40分]"
         },
         {
           "title": "OpenAI：GPT-5.5 Instant已开始在ChatGPT中推出",
@@ -183,6 +185,28 @@
           "time_info": "01时39分"
         },
         {
+          "title": "澳大利亚4月AIG建筑业表现指数 -19.3，前值-31.4。",
+          "url": "https://flash.jin10.com/detail/20260506070043740800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "澳大利亚4月AIG/PWC制造业表现指数 -27.9，前值-27.9。",
+          "url": "https://flash.jin10.com/detail/20260506070037685800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
           "title": "谷歌正在测试AI代理“Remy”，或对标OpenClaw",
           "url": "https://wallstreetcn.com/livenews/3098891",
           "source": "华尔街见闻-快讯",
@@ -222,7 +246,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
         },
@@ -293,6 +317,17 @@
           "time_info": "06时21分"
         },
         {
+          "title": "据The Information：Meta Platforms(META.O)正在开发一款名为“Hatch”的人工智能代理，并在Instagram上打造一款基于代理的购物工具。",
+          "url": "https://flash.jin10.com/detail/20260506063919812800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
           "title": "知情人士透露，谷歌(GOOG.O)正在为Gemini打造一个7x24小时全天候运行的人工智能“个人代理”。",
           "url": "https://flash.jin10.com/detail/20260506014918064800",
           "source": "金十数据",
@@ -329,8 +364,30 @@
     },
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "WTI原油6月期货合约下跌2.70美元，跌破100美元关口，此前特朗普宣布暂停“自由计划”行动。",
+          "url": "https://flash.jin10.com/detail/20260506072347684800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "现货白银站上74美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260506071906620800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
         {
           "title": "WTI 6月原油期货收跌4.15美元，跌幅3.90%，报102.27美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3098900",
@@ -371,11 +428,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 06时46分]"
+          "appearance_count": 3,
+          "time_info": "[06时21分 ~ 07时40分]"
         },
         {
           "title": "金价涨超0.7%，自4500美元附近反弹",
@@ -558,7 +616,7 @@
     },
     {
       "keyword_group": "英伟达 台积电 AMD 高通",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "AMD美股盘后涨幅扩大至超过14.2%",
@@ -567,7 +625,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
         },
@@ -662,9 +720,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
+        },
+        {
+          "title": "AMD美股盘后涨幅扩大至15.24%，最高达到409.40美元。",
+          "url": "https://wallstreetcn.com/livenews/3098968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
         },
         {
           "title": "AMD(AMD.O)预计第二季度营收为112亿美元，而市场预期为105.16亿美元。",
@@ -703,7 +772,7 @@
     },
     {
       "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "中东局势再吃紧，标普盘中转跌，道指跌超1%，存储芯片股逆市走高，布油一度涨超6%",
@@ -731,13 +800,24 @@
           "time_info": "[01时39分 ~ 06时21分]"
         },
         {
+          "title": "美伊局势暂趋缓和，芯片股力挺标普纳指新高，原油下挫，盘后AMD大涨",
+          "url": "https://wallstreetcn.com/articles/3771589",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时39分 ~ 07时40分]"
+        },
+        {
           "title": "美伊局势暂趋缓和，标普、纳指新高，半导体指数大涨4%，原油下挫",
           "url": "https://wallstreetcn.com/articles/3771589",
           "source": "华尔街见闻",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
         },
@@ -841,6 +921,18 @@
           "time_info": "01时39分"
         },
         {
+          "title": "苹果正考虑与英特尔和三星合作，为其生产主要设备芯片",
+          "url": "https://wallstreetcn.com/articles/3771570",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时46分 ~ 07时40分]"
+        },
+        {
           "title": "苹果(AAPL.O)：将在今年秋季发布的iOS 27中提供更灵活的人工智能方案。",
           "url": "https://flash.jin10.com/detail/20260506012430985800",
           "source": "金十数据",
@@ -863,17 +955,6 @@
           "time_info": "01时39分"
         },
         {
-          "title": "苹果正考虑与英特尔和三星合作，为其生产主要设备芯片",
-          "url": "https://wallstreetcn.com/articles/3771570",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
           "title": "苹果公司将允许用户选用多款第三方人工智能服务，为旗下全系软件功能提供智能支持。 据知情人士透露，用户未来可选择多款第三方AI模型，完成文字创作编辑、图像生成修改等任务。 这项功能变更定于今年秋季随iOS 27、iPadOS 27以及macOS 27正式上线，用户可通过设置应用，自主挑选想要为苹果智能功能提供服务的AI平台。",
           "url": "https://wallstreetcn.com/livenews/3098878",
           "source": "华尔街见闻-快讯",
@@ -887,8 +968,80 @@
       ]
     },
     {
+      "keyword_group": "央行 降息 降准 CPI 物价",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "韩国4月CPI环比 0.5%，预期0.50%，前值0.30%。 韩国4月CPI同比 2.6%，增速创2024年7月来新高，预期2.6%，前值2.20%。",
+          "url": "https://wallstreetcn.com/livenews/3098977",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "韩国4月CPI创2024年7月以来最大同比升幅。",
+          "url": "https://flash.jin10.com/detail/20260506070429323800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "韩国4月CPI月率 0.5%，预期0.50%，前值0.30%。",
+          "url": "https://flash.jin10.com/detail/20260506070002310800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "韩国4月CPI年率 2.6%，预期2.6%，前值2.20%。",
+          "url": "https://flash.jin10.com/detail/20260506070002307800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "欧洲央行首席经济学家Lane：未来预计的气温上升可能进一步推高食品价格对夏季酷热的反应。",
+          "url": "https://wallstreetcn.com/livenews/3098847",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "债券交易员押注美联储下一步行动为加息而非降息",
+          "url": "https://flash.jin10.com/detail/20260506062625157800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        }
+      ]
+    },
+    {
       "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "乘客地铁吸烟无人劝阻",
@@ -898,8 +1051,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时39分 ~ 06时46分]"
+          "appearance_count": 9,
+          "time_info": "[01时39分 ~ 07时40分]"
         },
         {
           "title": "两女子地铁车厢吸烟躺卧",
@@ -912,6 +1065,56 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时20分 ~ 06时46分]"
+        },
+        {
+          "title": "印尼外交部：我们呼吁各方保持最大克制，全面尊重停火协议，并遵守国际法，包括保护民用基础设施。我们随时准备支持旨在降温和促进对话以实现地区持久和平与稳定的努力。",
+          "url": "https://flash.jin10.com/detail/20260506062622582800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "就业 裁员 招聘",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "新西兰第一季度就业人数季率 0.2%，预期0.3%，前值0.50%。",
+          "url": "https://flash.jin10.com/detail/20260506064502683800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "新西兰第一季度就业参与率 70.4%，预期70.50%，前值70.50%。",
+          "url": "https://flash.jin10.com/detail/20260506064502682800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "新西兰联储金融稳定报告：目前看来经济复苏将有所放缓，这将影响就业增长和债务偿还能力。",
+          "url": "https://flash.jin10.com/detail/20260506050516105800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         }
       ]
     },
@@ -936,40 +1139,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "欧洲央行首席经济学家Lane：未来预计的气温上升可能进一步推高食品价格对夏季酷热的反应。",
-          "url": "https://wallstreetcn.com/livenews/3098847",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "就业 裁员 招聘",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "新西兰联储金融稳定报告：目前看来经济复苏将有所放缓，这将影响就业增长和债务偿还能力。",
-          "url": "https://flash.jin10.com/detail/20260506050516105800",
-          "source": "金十数据",
-          "ranks": [
-            26
           ],
           "is_new": false,
           "appearance_count": 1,
