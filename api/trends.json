@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-05-12T13:32:56.940843+08:00",
-  "total_titles_processed": 930,
+  "generated_at": "2026-05-12T16:24:03.798883+08:00",
+  "total_titles_processed": 1099,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 37,
+      "match_count": 42,
       "titles": [
+        {
+          "title": "中美元首北京会晤 三个特殊时间点",
+          "url": "https://www.toutiao.com/trending/7638867764131843622/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 16时24分]"
+        },
+        {
+          "title": "布伦特原油突破107美元/桶，日内涨约2.9%，报107.1美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3102153",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
         {
           "title": "中美元首会晤官宣为何是全球利好",
           "url": "https://www.toutiao.com/trending/7637913647012954158/",
@@ -29,9 +51,22 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
+        },
+        {
+          "title": "外交部：中美元首将就事关中美关系以及世界和平与发展的重大问题深入交换意见",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33155631",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时57分 ~ 16时24分]"
         },
         {
           "title": "周一（5月11日），美联储隔夜逆回购协议（RRP）使用规模为11.33亿美元（交易对手7家），上个交易日报7.87亿美元。",
@@ -58,16 +93,27 @@
           "time_info": "[03时26分 ~ 05时10分]"
         },
         {
-          "title": "外交部：中美元首将就事关中美关系以及世界和平与发展的重大问题深入交换意见",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33155631",
+          "title": "一图看懂｜特朗普时隔9年再访华，回顾中美元首历次会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33157149",
           "source": "澎湃新闻",
           "ranks": [
-            20,
-            13
+            17,
+            15
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时57分 ~ 13时32分]"
+          "time_info": "[13时32分 ~ 16时24分]"
+        },
+        {
+          "title": "哈佛教授：中美元首峰会最大成果或是避免局势升级",
+          "url": "https://news.ifeng.com/c/8t43s8azZuq",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 16时24分]"
         },
         {
           "title": "摩根大通：预计2026年原油均价为96美元/桶，其中二季度、三季度、四季度（均价）料将先后处于103、104、以及98美元。",
@@ -125,6 +171,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
+        },
+        {
+          "title": "WTI原油日内涨幅达3.0%，报101.06美元/桶；布伦特原油日内涨幅达2.5%，报106.87美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3102139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了7个对手方的11.33亿美元。",
@@ -188,7 +245,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -248,17 +305,6 @@
           "time_info": "01时49分"
         },
         {
-          "title": "一图看懂｜特朗普时隔9年再访华，回顾中美元首历次会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33157149",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
           "title": "LME期铜涨2.6%，连续第六个交易日上涨，报13930美元/吨，创1月29日以来新高，逼近1月所创历史最高位14527美元。 LME期铝涨2.1%，报3576美元。 LME期锡涨3.5%，报54970美元，创3月2日以来新高。 LME期锌涨1.4%，报3478美元。 LME期铅涨0.6%，报1987美元。 LME期镍涨1.9%，报19255美元。",
           "url": "https://wallstreetcn.com/livenews/3101785",
           "source": "华尔街见闻-快讯",
@@ -276,7 +322,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -287,9 +333,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
+        },
+        {
+          "title": "美、布两油继续走高 美油站上101美元",
+          "url": "https://flash.jin10.com/detail/20260512160229406800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "韩元兑美元下跌0.7%，跑输亚洲新兴市场货币。",
@@ -309,7 +366,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -397,7 +454,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -427,7 +484,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "把AI用到了最有意义的场合",
@@ -439,11 +496,12 @@
             7,
             2,
             1,
-            6
+            6,
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时48分 ~ 13时32分]"
+          "appearance_count": 11,
+          "time_info": "[01时48分 ~ 16时24分]"
         },
         {
           "title": "AI原创短片国产爱死机",
@@ -454,11 +512,12 @@
             22,
             20,
             15,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时48分 ~ 09时58分]"
+          "appearance_count": 10,
+          "time_info": "[01时48分 ~ 16时24分]"
         },
         {
           "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
@@ -466,11 +525,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时57分 ~ 13时32分]"
+          "appearance_count": 5,
+          "time_info": "[09时57分 ~ 16时24分]"
         },
         {
           "title": "AI时代如何评价各专业",
@@ -482,11 +542,12 @@
             22,
             19,
             24,
-            20
+            20,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时48分 ~ 13时32分]"
+          "appearance_count": 9,
+          "time_info": "[01时48分 ~ 16时24分]"
         },
         {
           "title": "论文严查AI使用率是否合理",
@@ -498,11 +559,12 @@
             26,
             22,
             21,
-            28
+            28,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时48分 ~ 13时32分]"
+          "appearance_count": 9,
+          "time_info": "[01时48分 ~ 16时24分]"
         },
         {
           "title": "【每日收评】沪指涨超1%站上4200点，两市成交额突破3.5万亿，半导体、AI硬件持续爆发",
@@ -551,6 +613,42 @@
           "time_info": "[05时10分 ~ 06时45分]"
         },
         {
+          "title": "“全民分红”来临？韩国政策高层提议将AI超额利润回馈给全体公民",
+          "url": "https://www.cls.cn/detail/2368705",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时32分 ~ 16时24分]"
+        },
+        {
+          "title": "贾跃亭出任 FF 全球 CEO，公司将升为物理 AI 生态公司，这是什么概念，市场为何愿意不断为其梦想买单？",
+          "url": "https://www.zhihu.com/question/2037128887558207003",
+          "source": "知乎",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时32分 ~ 16时24分]"
+        },
+        {
+          "title": "从加法到减法：人工智能时代最难的，不是创新，而是割舍",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33149674",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时32分 ~ 16时24分]"
+        },
+        {
           "title": "谷歌：首次发现黑客借助AI开发“零日”漏洞攻击工具",
           "url": "https://wallstreetcn.com/livenews/3101797",
           "source": "华尔街见闻-快讯",
@@ -561,6 +659,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时49分 ~ 03时26分]"
+        },
+        {
+          "title": "看了短剧才知道为什么AI越来越像真人",
+          "url": "https://www.toutiao.com/trending/7638658104632020507/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 16时24分]"
+        },
+        {
+          "title": "国产AI爱死机到底怎么做出来的",
+          "url": "https://www.douyin.com/hot/2495617",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 16时24分]"
         },
         {
           "title": "CORTIS新歌ACAI的MV来了",
@@ -585,46 +705,13 @@
           "time_info": "03时26分"
         },
         {
-          "title": "贾跃亭出任 FF 全球 CEO，公司将升为物理 AI 生态公司，这是什么概念，市场为何愿意不断为其梦想买单？",
-          "url": "https://www.zhihu.com/question/2037128887558207003",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
           "title": "王腾AI睡眠公司获新一轮融资，多方资本加持",
           "url": "https://wallstreetcn.com/livenews/3102026",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
-          "title": "“全民分红”来临？韩国政策高层提议将AI超额利润回馈给全体公民",
-          "url": "https://www.cls.cn/detail/2368705",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
-          "title": "从加法到减法：人工智能时代最难的，不是创新，而是割舍",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33149674",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -635,7 +722,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -690,7 +777,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -734,7 +821,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -756,15 +843,224 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         }
       ]
     },
     {
+      "keyword_group": "央行 降息 降准 CPI 物价",
+      "match_count": 18,
+      "titles": [
+        {
+          "title": "中国央行Q1货币政策执行报告：继续实施好适度宽松的货币政策，密切关注外部输入型通胀影响",
+          "url": "https://wallstreetcn.com/articles/3771998",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时48分 ~ 16时24分]"
+        },
+        {
+          "title": "央行：继续实施好适度宽松的货币政策",
+          "url": "https://www.cls.cn/detail/2368168",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时48分 ~ 07时46分]"
+        },
+        {
+          "title": "通胀“核弹”今晚引爆！美国CPI恐创近三年来最高？",
+          "url": "https://www.cls.cn/detail/2368874",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 16时24分]"
+        },
+        {
+          "title": "日本央行将于十分钟后公布4月货币政策会议审议委员意见摘要。",
+          "url": "https://flash.jin10.com/detail/20260512074000001800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时46分"
+        },
+        {
+          "title": "财联社C50风向指数调查：5月资金面或小幅收敛但不收紧，物价回升削弱市场降息预期",
+          "url": "https://www.cls.cn/detail/2368750",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时32分 ~ 16时24分]"
+        },
+        {
+          "title": "美国CPI前，全球股债在美伊僵持影响下承压，英债领跌，油价涨超2%",
+          "url": "https://wallstreetcn.com/articles/3772040",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 16时24分]"
+        },
+        {
+          "title": "国际清算银行：日本央行行长植田和男被任命为全球金融体系委员会主席，任期两年。",
+          "url": "https://flash.jin10.com/detail/20260512160745031800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
+          "title": "中国央行公开市场开展5亿元7天期逆回购操作，操作利率1.40%，持平上日。今日无逆回购到期。",
+          "url": "https://wallstreetcn.com/livenews/3101946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "国际清算银行：董事会选举意大利央行行长、欧洲央行执委帕内塔为新任主席。",
+          "url": "https://flash.jin10.com/detail/20260512160522343800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
+          "title": "欧洲央行管委兼德国央行行长Nagel：如果通胀预期出现脱锚，将采取行动，六月我们会观察情况。 基准情景中包含了两次加息。",
+          "url": "https://wallstreetcn.com/livenews/3102129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：不会对日本央行的具体货币政策工具发表评论。",
+          "url": "https://wallstreetcn.com/livenews/3101937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "美元兑日元USD/JPY走高，日内涨0.2%，最新报157.50。日本财务大臣片山皋月对日本央行在6月加息的可能性不予置评。",
+          "url": "https://flash.jin10.com/detail/20260512092626751800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "中国央行逆回购操作当日实现净投放5亿元",
+          "url": "https://flash.jin10.com/detail/20260512092312322800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "欧洲央行管委内格尔：若石油冲击导致通胀预期脱锚，央行必须采取行动",
+          "url": "https://flash.jin10.com/detail/20260512160011173800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
+          "title": "俄罗斯副总理诺瓦克：俄罗斯预计2026年通胀率为5.2%，2027年将回归俄罗斯央行4%的目标。",
+          "url": "https://flash.jin10.com/detail/20260512050554497800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时45分"
+        },
+        {
+          "title": "美国财政部长贝森特：未向高市首相提出任何有关货币政策的要求。 与日本财务省保持非常密切的联系。 我们都认为外汇波动性不可取。 日本经济基本面强劲且具有韧性，这将反映在汇率上。 对日本央行行长植田和男在引导货币政策方面充满信心。 日本国债收益率或许反映了通胀，我认为这只是短期的通胀波动，是暂时性的。 没有针对财政政策提出具体的要求。",
+          "url": "https://wallstreetcn.com/livenews/3102114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
+          "title": "CPI公布日，竞猜赢大奖",
+          "url": "https://flash.jin10.com/detail/20260512092023775800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "美国CPI前瞻：租金数据或带来一次性推升效果",
+          "url": "https://flash.jin10.com/detail/20260512155059027800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "全球芯片LOF溢价率47%惊呆市场！是机会还是暗藏风险？",
@@ -786,11 +1082,12 @@
           "ranks": [
             5,
             4,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时48分 ~ 13时32分]"
+          "appearance_count": 11,
+          "time_info": "[01时48分 ~ 16时24分]"
         },
         {
           "title": "海力士的奖金，半导体的周期",
@@ -811,9 +1108,31 @@
           "ranks": [
             4
           ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时32分 ~ 16时24分]"
+        },
+        {
+          "title": "深圳夫妻囤存储芯片5个月狂涨320亿",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%A4%AB%E5%A6%BB%E5%9B%A4%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%875%E4%B8%AA%E6%9C%88%E7%8B%82%E6%B6%A8320%E4%BA%BF%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 16时24分]"
+        },
+        {
+          "title": "港股收盘：恒生指数指收跌0.22%，恒生科技指数收跌0.7%。华虹半导体跌超3%，宁德时代跌近1%，剑桥科技跌近4%，长飞光纤光缆涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/3102143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时32分"
+          "time_info": "16时24分"
         },
         {
           "title": "周一（5月11日），美股存储芯片与硬件供应链指数涨3.36%，报194.70点，再次创收盘历史新高。 成分股西部数据涨7.46%，希捷科技涨6.56%，美光科技涨6.50%，闪迪跌0.95%。",
@@ -840,6 +1159,18 @@
           "time_info": "[06时45分 ~ 13时32分]"
         },
         {
+          "title": "夫妻囤存储芯片 5个月涨320亿",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%9B%A4%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87+5%E4%B8%AA%E6%9C%88%E6%B6%A8320%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时32分 ~ 16时24分]"
+        },
+        {
           "title": "韩国为何成半导体行情核心引擎",
           "url": "https://www.toutiao.com/trending/7638769840957689353/",
           "source": "今日头条",
@@ -849,6 +1180,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时57分 ~ 09时58分]"
+        },
+        {
+          "title": "夫妻囤存储芯片 5个月狂涨320亿",
+          "url": "https://www.toutiao.com/trending/7638615706019302922/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 16时24分]"
         },
         {
           "title": "A股存储芯片板块今日调整，华特气体跌超6%，恒烁股份、澜起科技、金宏气体、神工股份跌超5%，东芯股份、有研新材跟跌。",
@@ -862,15 +1204,15 @@
           "time_info": "09时58分"
         },
         {
-          "title": "夫妻囤存储芯片 5个月涨320亿",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%9B%A4%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87+5%E4%B8%AA%E6%9C%88%E6%B6%A8320%E4%BA%BF",
-          "source": "百度热搜",
+          "title": "港股收盘，恒指收跌0.22%，科指收跌0.7%。零跑汽车(09863.HK)跌超6%，联想集团(00992.HK)、华虹半导体(01347.HK)跌超3%。",
+          "url": "https://flash.jin10.com/detail/20260512160841228800",
+          "source": "金十数据",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时32分"
+          "time_info": "16时24分"
         },
         {
           "title": "能源业ETF收涨超2.6%，与半导体ETF领跑美股行业ETF",
@@ -908,126 +1250,6 @@
       ]
     },
     {
-      "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "中国央行Q1货币政策执行报告：继续实施好适度宽松的货币政策，密切关注外部输入型通胀影响",
-          "url": "https://wallstreetcn.com/articles/3771998",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时48分 ~ 13时32分]"
-        },
-        {
-          "title": "央行：继续实施好适度宽松的货币政策",
-          "url": "https://www.cls.cn/detail/2368168",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时48分 ~ 07时46分]"
-        },
-        {
-          "title": "日本央行将于十分钟后公布4月货币政策会议审议委员意见摘要。",
-          "url": "https://flash.jin10.com/detail/20260512074000001800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时46分"
-        },
-        {
-          "title": "财联社C50风向指数调查：5月资金面或小幅收敛但不收紧，物价回升削弱市场降息预期",
-          "url": "https://www.cls.cn/detail/2368750",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
-          "title": "中国央行公开市场开展5亿元7天期逆回购操作，操作利率1.40%，持平上日。今日无逆回购到期。",
-          "url": "https://wallstreetcn.com/livenews/3101946",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时58分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：不会对日本央行的具体货币政策工具发表评论。",
-          "url": "https://wallstreetcn.com/livenews/3101937",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时58分"
-        },
-        {
-          "title": "美元兑日元USD/JPY走高，日内涨0.2%，最新报157.50。日本财务大臣片山皋月对日本央行在6月加息的可能性不予置评。",
-          "url": "https://flash.jin10.com/detail/20260512092626751800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时58分"
-        },
-        {
-          "title": "中国央行逆回购操作当日实现净投放5亿元",
-          "url": "https://flash.jin10.com/detail/20260512092312322800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时58分"
-        },
-        {
-          "title": "俄罗斯副总理诺瓦克：俄罗斯预计2026年通胀率为5.2%，2027年将回归俄罗斯央行4%的目标。",
-          "url": "https://flash.jin10.com/detail/20260512050554497800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时45分"
-        },
-        {
-          "title": "CPI公布日，竞猜赢大奖",
-          "url": "https://flash.jin10.com/detail/20260512092023775800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时58分"
-        }
-      ]
-    },
-    {
       "keyword_group": "创业板",
       "match_count": 9,
       "titles": [
@@ -1050,7 +1272,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -1061,7 +1283,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -1094,7 +1316,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -1127,91 +1349,15 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "【早报】特朗普将访华，中方回应；京沪高铁：部分线路涨价",
-          "url": "https://www.cls.cn/detail/2368498",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时46分 ~ 13时32分]"
-        },
-        {
-          "title": "第一次坐高铁竟是为见女儿最后一面",
-          "url": "https://www.baidu.com/s?wd=%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9D%90%E9%AB%98%E9%93%81%E7%AB%9F%E6%98%AF%E4%B8%BA%E8%A7%81%E5%A5%B3%E5%84%BF%E6%9C%80%E5%90%8E%E4%B8%80%E9%9D%A2",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时57分 ~ 13时32分]"
-        },
-        {
-          "title": "北京试点携自行车上地铁，票价 30 元 / 次，如何看待这一操作？你支持该服务全国推广吗？",
-          "url": "https://www.zhihu.com/question/2037114683254125447",
-          "source": "知乎",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时57分 ~ 13时32分]"
-        },
-        {
-          "title": "京沪高铁：对京沪高速线、合蚌高速线部分动车组列车公布票价上浮20%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33156618",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时57分 ~ 13时32分]"
-        },
-        {
-          "title": "首次坐高铁竟为见女儿最后一面",
-          "url": "https://www.toutiao.com/trending/7637903413669478443/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
-          "title": "京沪高铁宣布涨价",
-          "url": "https://www.douyin.com/hot/2495550",
-          "source": "抖音",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时46分"
         }
       ]
     },
     {
       "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "理想乱停车,游客上厕所被堵",
@@ -1242,6 +1388,17 @@
           "time_info": "[01时48分 ~ 09时58分]"
         },
         {
+          "title": "10.5万吨级“理想号”邮轮从大连顺利启航",
+          "url": "https://wallstreetcn.com/livenews/3102141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "恒指高开0.34%，报26497.03点；恒生科技指数涨 0.45%。快手涨9.9%，此前报道称快手计划分拆可灵独立上市。中芯国际、携程、蔚来涨超1%。",
           "url": "https://wallstreetcn.com/livenews/3101945",
           "source": "华尔街见闻-快讯",
@@ -1264,6 +1421,17 @@
           "time_info": "05时10分"
         },
         {
+          "title": "理想汽车CTO谢炎：想成为头部公司，AI芯片是必须做的事",
+          "url": "https://wallstreetcn.com/livenews/3102127",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "原特斯拉CFO Deepak Ahuja加盟Redwood Materials。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/3101782",
           "source": "华尔街见闻-快讯",
@@ -1273,6 +1441,85 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "基础设施 基建 地铁 高铁",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "【早报】特朗普将访华，中方回应；京沪高铁：部分线路涨价",
+          "url": "https://www.cls.cn/detail/2368498",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时46分 ~ 16时24分]"
+        },
+        {
+          "title": "第一次坐高铁竟是为见女儿最后一面",
+          "url": "https://www.baidu.com/s?wd=%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9D%90%E9%AB%98%E9%93%81%E7%AB%9F%E6%98%AF%E4%B8%BA%E8%A7%81%E5%A5%B3%E5%84%BF%E6%9C%80%E5%90%8E%E4%B8%80%E9%9D%A2",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时57分 ~ 16时24分]"
+        },
+        {
+          "title": "北京试点携自行车上地铁，票价 30 元 / 次，如何看待这一操作？你支持该服务全国推广吗？",
+          "url": "https://www.zhihu.com/question/2037114683254125447",
+          "source": "知乎",
+          "ranks": [
+            9,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时57分 ~ 16时24分]"
+        },
+        {
+          "title": "京沪高铁：对京沪高速线、合蚌高速线部分动车组列车公布票价上浮20%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33156618",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时57分 ~ 16时24分]"
+        },
+        {
+          "title": "首次坐高铁竟为见女儿最后一面",
+          "url": "https://www.toutiao.com/trending/7637903413669478443/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "京沪高铁宣布涨价",
+          "url": "https://www.douyin.com/hot/2495550",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时46分"
         }
       ]
     },
@@ -1309,7 +1556,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         }
@@ -1337,7 +1584,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -1364,11 +1611,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时57分 ~ 13时32分]"
+          "appearance_count": 5,
+          "time_info": "[09时57分 ~ 16时24分]"
         }
       ]
     },
@@ -1454,7 +1702,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         }
