@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-23T20:57:47.677125+08:00",
-  "total_titles_processed": 1313,
+  "generated_at": "2026-05-23T23:55:01.399798+08:00",
+  "total_titles_processed": 1472,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "中国证监会拟对富途合计罚款18.5亿元人民币，老虎证券合计被罚没约4.1亿元",
@@ -19,8 +19,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时14分 ~ 20时57分]"
+          "appearance_count": 17,
+          "time_info": "[00时14分 ~ 23时55分]"
         },
         {
           "title": "市场消息：消息人士称，Anthropic将于下周尽快完成最新一轮融资，规模将超过300亿美元。Anthropic预计下个月收入年化将超过500亿美元。",
@@ -332,12 +332,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
+        },
+        {
+          "title": "石油“狂人”：大陆资源公司将追加资本开支至28亿美元",
+          "url": "https://wallstreetcn.com/livenews/3108373",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         }
       ]
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "AI浪潮提振全球股市，道指新高，量子计算股拉升，老虎证券、富途大跌逾30%，油价涨势暂歇",
@@ -420,6 +431,19 @@
           "time_info": "[00时14分 ~ 07时57分]"
         },
         {
+          "title": "从“两弹一星”到AI时代，我们如何谈论科学家精神？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33218829",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时21分 ~ 23时55分]"
+        },
+        {
           "title": "如何看待达摩院、北大最新 Nature 成果，AI 绘制中国首张高精度风光分布图，这对新能源行业有何价值？",
           "url": "https://www.zhihu.com/question/2040809853350831319",
           "source": "知乎",
@@ -459,6 +483,30 @@
           "time_info": "00时14分"
         },
         {
+          "title": "AI 泡沫还能持续多久？",
+          "url": "https://www.zhihu.com/question/1903030274536743238",
+          "source": "知乎",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时53分 ~ 23时55分]"
+        },
+        {
+          "title": "AI光算力第一股上市首日暴涨380%",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%85%89%E7%AE%97%E5%8A%9B%E7%AC%AC%E4%B8%80%E8%82%A1%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E6%9A%B4%E6%B6%A8380%25%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时53分 ~ 23时55分]"
+        },
+        {
           "title": "美国批准向多个间谍部门的90亿美元拨款，用于利用人工智能（AI）技术。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3108254",
           "source": "华尔街见闻-快讯",
@@ -485,18 +533,6 @@
           "time_info": "[18时21分 ~ 20时57分]"
         },
         {
-          "title": "从“两弹一星”到AI时代，我们如何谈论科学家精神？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33218829",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时21分 ~ 20时57分]"
-        },
-        {
           "title": "ai漫剧硬通货 泡面火腿纯净水",
           "url": "https://s.weibo.com/weibo?q=ai%E6%BC%AB%E5%89%A7%E7%A1%AC%E9%80%9A%E8%B4%A7%20%E6%B3%A1%E9%9D%A2%E7%81%AB%E8%85%BF%E7%BA%AF%E5%87%80%E6%B0%B4&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -510,28 +546,16 @@
           "time_info": "[05时57分 ~ 07时57分]"
         },
         {
-          "title": "AI 泡沫还能持续多久？",
-          "url": "https://www.zhihu.com/question/1903030274536743238",
-          "source": "知乎",
+          "title": "SpaceX、OpenAI、Anthropic“超级IPO”扎堆，美银：这是超级泡沫的重演",
+          "url": "https://wallstreetcn.com/articles/3772963",
+          "source": "华尔街见闻",
           "ranks": [
-            14,
-            15
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时53分 ~ 20时57分]"
-        },
-        {
-          "title": "AI光算力第一股上市首日暴涨380%",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E5%85%89%E7%AE%97%E5%8A%9B%E7%AC%AC%E4%B8%80%E8%82%A1%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E6%9A%B4%E6%B6%A8380%25%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时53分 ~ 20时57分]"
+          "time_info": "[20时57分 ~ 23时55分]"
         },
         {
           "title": "英伟达(NVDA.O)CEO黄仁勋：人工智能将影响每个行业。",
@@ -546,15 +570,15 @@
           "time_info": "[18时21分 ~ 19时54分]"
         },
         {
-          "title": "SpaceX、OpenAI、Anthropic“超级IPO”扎堆，美银：这是超级泡沫的重演",
-          "url": "https://wallstreetcn.com/articles/3772963",
-          "source": "华尔街见闻",
+          "title": "SpaceX抢跑 OpenAI追击",
+          "url": "https://www.toutiao.com/trending/7643095600006696499/",
+          "source": "今日头条",
           "ranks": [
-            10
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时54分 ~ 23时55分]"
         },
         {
           "title": "一周热榜精选：沃什履新之际加息呼声渐高！SpaceX和OpenAI即将IPO",
@@ -585,6 +609,20 @@
       "match_count": 11,
       "titles": [
         {
+          "title": "沃什宣誓就任美联储主席 此刻华尔街已不再幻想降息",
+          "url": "https://www.cls.cn/detail/2379634",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时12分 ~ 23时55分]"
+        },
+        {
           "title": "美联储理事沃勒放鹰，称未来加息与降息“五五开”，市场预计年底加息",
           "url": "https://wallstreetcn.com/articles/3772945",
           "source": "华尔街见闻",
@@ -600,27 +638,13 @@
           "time_info": "[04时27分 ~ 20时57分]"
         },
         {
-          "title": "沃什宣誓就任美联储主席 此刻华尔街已不再幻想降息",
-          "url": "https://www.cls.cn/detail/2379634",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时12分 ~ 20时57分]"
-        },
-        {
           "title": "欧洲央行管委：央行或不可避免加冕加息，以捍卫政策公信力",
           "url": "https://wallstreetcn.com/livenews/3108366",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
         },
@@ -732,8 +756,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时58分 ~ 20时57分]"
+          "appearance_count": 9,
+          "time_info": "[13时58分 ~ 23时55分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收跌1.9%，业绩报告发布当周回撤超4.4%",
@@ -831,8 +855,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时57分 ~ 20时57分]"
+          "appearance_count": 11,
+          "time_info": "[07时57分 ~ 23时55分]"
         },
         {
           "title": "台当局称正调查3人将英伟达芯片走私到大陆，外交部回应",
@@ -901,6 +925,72 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "基础设施 基建 地铁 高铁",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "凿通昆仑隧洞,大国基建秀翻全场",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354501&amp;topic_name=%E5%87%BF%E9%80%9A%E6%98%86%E4%BB%91%E9%9A%A7%E6%B4%9E%2C%E5%A4%A7%E5%9B%BD%E5%9F%BA%E5%BB%BA%E7%A7%80%E7%BF%BB%E5%85%A8%E5%9C%BA",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时14分 ~ 23时55分]"
+        },
+        {
+          "title": "高铁行李架上掉下一条蛇",
+          "url": "https://www.toutiao.com/trending/7643001840024600586/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时57分 ~ 23时55分]"
+        },
+        {
+          "title": "国家数据局：“数据要素×”行动推动数据基础设施建设运营加快",
+          "url": "https://wallstreetcn.com/livenews/3108322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时12分 ~ 19时54分]"
+        },
+        {
+          "title": "地铁站外大量老鼠肆意穿行 街道回应",
+          "url": "https://www.baidu.com/s?wd=%E5%9C%B0%E9%93%81%E7%AB%99%E5%A4%96%E5%A4%A7%E9%87%8F%E8%80%81%E9%BC%A0%E8%82%86%E6%84%8F%E7%A9%BF%E8%A1%8C+%E8%A1%97%E9%81%93%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时54分 ~ 23时55分]"
+        },
+        {
+          "title": "国家数据局：“数据要素×”行动推动数据基础设施建设运营加快",
+          "url": "https://flash.jin10.com/detail/20260523141147871800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时12分"
         }
       ]
     },
@@ -985,6 +1075,18 @@
           "time_info": "[16时11分 ~ 20时57分]"
         },
         {
+          "title": "比亚迪 5 月 28 日将举办智能化战略发布会，预计宣布新突破，可能涉及什么技术？你有哪些期待？",
+          "url": "https://www.zhihu.com/question/2041247388258362911",
+          "source": "知乎",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时57分 ~ 23时55分]"
+        },
+        {
           "title": "特斯拉电池供应商Solus Advance Materials Co.与旗下四个Volta Energy部门因铜箔专利纠纷而对SK Nexilis Co.欠款300万美元。",
           "url": "https://wallstreetcn.com/livenews/3108243",
           "source": "华尔街见闻-快讯",
@@ -995,17 +1097,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时57分 ~ 06时51分]"
-        },
-        {
-          "title": "比亚迪 5 月 28 日将举办智能化战略发布会，预计宣布新突破，可能涉及什么技术？你有哪些期待？",
-          "url": "https://www.zhihu.com/question/2041247388258362911",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时57分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌2.2%，本周累跌4.8%。 热门中概股里，蔚来初步收跌6.8%，美团跌4.3%，拼多多跌3.3%，网易涨2%，日月光半导体涨6.8%。",
@@ -1032,62 +1123,8 @@
       ]
     },
     {
-      "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "凿通昆仑隧洞,大国基建秀翻全场",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354501&amp;topic_name=%E5%87%BF%E9%80%9A%E6%98%86%E4%BB%91%E9%9A%A7%E6%B4%9E%2C%E5%A4%A7%E5%9B%BD%E5%9F%BA%E5%BB%BA%E7%A7%80%E7%BF%BB%E5%85%A8%E5%9C%BA",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时14分 ~ 20时57分]"
-        },
-        {
-          "title": "国家数据局：“数据要素×”行动推动数据基础设施建设运营加快",
-          "url": "https://wallstreetcn.com/livenews/3108322",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时12分 ~ 19时54分]"
-        },
-        {
-          "title": "高铁行李架上掉下一条蛇",
-          "url": "https://www.toutiao.com/trending/7643001840024600586/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时57分"
-        },
-        {
-          "title": "国家数据局：“数据要素×”行动推动数据基础设施建设运营加快",
-          "url": "https://flash.jin10.com/detail/20260523141147871800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时12分"
-        }
-      ]
-    },
-    {
       "keyword_group": "华为 小米 荣耀",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "雷军：“媲美保时捷和特斯拉”不是吹嘘，希望大家有耐心再等小米5年",
@@ -1115,11 +1152,12 @@
             29,
             25,
             22,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时14分 ~ 20时57分]"
+          "appearance_count": 17,
+          "time_info": "[00时14分 ~ 23时55分]"
         },
         {
           "title": "小米 17Max 手机正式发布，起售价 4799 元，有哪些亮点？你认为值得购买吗？",
@@ -1131,12 +1169,23 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时14分 ~ 10时12分]"
+        },
+        {
+          "title": "雷军透露小米下一步规划",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E9%80%8F%E9%9C%B2%E5%B0%8F%E7%B1%B3%E4%B8%8B%E4%B8%80%E6%AD%A5%E8%A7%84%E5%88%92%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时54分 ~ 23时55分]"
         }
       ]
     },
     {
       "keyword_group": "大学生 毕业生",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "中国大学生方程式锦标赛",
@@ -1151,6 +1200,29 @@
           "time_info": "[13时58分 ~ 16时12分]"
         },
         {
+          "title": "大学生“手搓”蝴蝶卖1500元/只",
+          "url": "https://www.toutiao.com/trending/7642632049598185515/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时21分 ~ 23时55分]"
+        },
+        {
+          "title": "我要的是闺女不是大学生",
+          "url": "https://s.weibo.com/weibo?q=%E6%88%91%E8%A6%81%E7%9A%84%E6%98%AF%E9%97%BA%E5%A5%B3%E4%B8%8D%E6%98%AF%E5%A4%A7%E5%AD%A6%E7%94%9F&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时54分 ~ 23时55分]"
+        },
+        {
           "title": "大学生“手搓”蝴蝶 单只售价1500元",
           "url": "https://www.toutiao.com/trending/7642632049598185515/",
           "source": "今日头条",
@@ -1160,17 +1232,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时11分 ~ 16时12分]"
-        },
-        {
-          "title": "大学生“手搓”蝴蝶卖1500元/只",
-          "url": "https://www.toutiao.com/trending/7642632049598185515/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时21分"
         }
       ]
     },
@@ -1178,6 +1239,18 @@
       "keyword_group": "创业板",
       "match_count": 2,
       "titles": [
+        {
+          "title": "算力巨头超聚变闯关创业板，80亿募资要下怎样一盘棋？",
+          "url": "https://www.cls.cn/detail/2379778",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时57分 ~ 23时55分]"
+        },
         {
           "title": "创业板涨超2%，算力硬件集体爆发，PCB、光模块齐涨，恒科指涨超2%，联想暴涨20%，智谱狂飙斤30%",
           "url": "https://wallstreetcn.com/articles/3772886",
@@ -1188,17 +1261,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
-        },
-        {
-          "title": "算力巨头超聚变闯关创业板，80亿募资要下怎样一盘棋？",
-          "url": "https://www.cls.cn/detail/2379778",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时57分"
         }
       ]
     },
