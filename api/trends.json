@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T13:58:35.157439+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2026-05-23T16:12:01.829850+08:00",
+  "total_titles_processed": 1048,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 13时58分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 16时12分]"
         },
         {
           "title": "市场消息：消息人士称，Anthropic将于下周尽快完成最新一轮融资，规模将超过300亿美元。Anthropic预计下个月收入年化将超过500亿美元。",
@@ -95,6 +96,30 @@
           "time_info": "[06时51分 ~ 07时57分]"
         },
         {
+          "title": "商务部：1—4月全国吸收外资2876.9亿元人民币",
+          "url": "https://wallstreetcn.com/livenews/3108313",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 16时12分]"
+        },
+        {
+          "title": "富途：完成约1.6亿美元美国存托股份回购",
+          "url": "https://wallstreetcn.com/livenews/3108306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 16时12分]"
+        },
+        {
           "title": "联合国拨款6000万美元，来加速应对刚果（金）等地埃博拉疫情",
           "url": "https://wallstreetcn.com/livenews/3108194",
           "source": "华尔街见闻-快讯",
@@ -117,17 +142,6 @@
           "time_info": "02时28分"
         },
         {
-          "title": "商务部：1—4月全国吸收外资2876.9亿元人民币",
-          "url": "https://wallstreetcn.com/livenews/3108313",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
           "title": "据知情人士透露，沃旭能源Orsted AS考虑出售价值超过10亿美元的美国可再生能源资产。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3108147",
           "source": "华尔街见闻-快讯",
@@ -148,17 +162,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
-        },
-        {
-          "title": "富途：完成约1.6亿美元美国存托股份回购",
-          "url": "https://wallstreetcn.com/livenews/3108306",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
         },
         {
           "title": "美国财政部：外国投资者在最新的双周报告期内购买了56.29亿美元3年期国债，较上月的68.34亿美元有所减少；购买了62.30亿美元10年期国债，较上月的57.89亿美元有所增加；购买了27.67亿美元的30年期债券，较上月的23.13亿美元有所增加。",
@@ -200,7 +203,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -233,7 +236,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -307,7 +310,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "AI浪潮提振全球股市，道指新高，量子计算股拉升，老虎证券、富途大跌逾30%，油价涨势暂歇",
@@ -351,6 +354,19 @@
           "time_info": "[00时14分 ~ 10时12分]"
         },
         {
+          "title": "OpenAI称攻克80年数学难题",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E7%A7%B0%E6%94%BB%E5%85%8B80%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时12分 ~ 16时12分]"
+        },
+        {
           "title": "【每日收评】创业板指高开高走涨超2%，PCB等AI硬件全线爆发",
           "url": "https://www.cls.cn/detail/2379110",
           "source": "财联社热门",
@@ -360,6 +376,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时14分 ~ 07时57分]"
+        },
+        {
+          "title": "曝 DeepSeek 推进 700 亿元融资，梁文锋称坚持开源 AI 模型，此举意味着什么？",
+          "url": "https://www.zhihu.com/question/2041154123677126717",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时11分 ~ 16时12分]"
         },
         {
           "title": "如何看待达摩院、北大最新 Nature 成果，AI 绘制中国首张高精度风光分布图，这对新能源行业有何价值？",
@@ -414,18 +441,6 @@
           "time_info": "[05时57分 ~ 07时57分]"
         },
         {
-          "title": "OpenAI称攻克80年数学难题",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E7%A7%B0%E6%94%BB%E5%85%8B80%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时12分 ~ 13时58分]"
-        },
-        {
           "title": "ai漫剧硬通货 泡面火腿纯净水",
           "url": "https://s.weibo.com/weibo?q=ai%E6%BC%AB%E5%89%A7%E7%A1%AC%E9%80%9A%E8%B4%A7%20%E6%B3%A1%E9%9D%A2%E7%81%AB%E8%85%BF%E7%BA%AF%E5%87%80%E6%B0%B4&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -476,8 +491,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时27分 ~ 13时58分]"
+          "appearance_count": 9,
+          "time_info": "[04时27分 ~ 16时12分]"
         },
         {
           "title": "沃什宣誓就任美联储主席 此刻华尔街已不再幻想降息",
@@ -485,11 +500,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时12分 ~ 13时58分]"
+          "appearance_count": 4,
+          "time_info": "[10时12分 ~ 16时12分]"
         },
         {
           "title": "结束“地量”操作！央行25日开展6000亿元MLF操作 5月下旬流动性扰动因素增加",
@@ -568,17 +584,6 @@
       "match_count": 6,
       "titles": [
         {
-          "title": "台当局称正调查3人将英伟达芯片走私到大陆，外交部回应",
-          "url": "https://news.ifeng.com/c/8tKrOi6SXHJ",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 07时57分]"
-        },
-        {
           "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
           "url": "https://www.cls.cn/detail/2379649",
           "source": "财联社热门",
@@ -588,8 +593,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时57分 ~ 13时58分]"
+          "appearance_count": 5,
+          "time_info": "[07时57分 ~ 16时12分]"
+        },
+        {
+          "title": "台当局称正调查3人将英伟达芯片走私到大陆，外交部回应",
+          "url": "https://news.ifeng.com/c/8tKrOi6SXHJ",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 07时57分]"
         },
         {
           "title": "美光科技CEO Mehrotra：存储芯片供应短缺问题将持续到2026年之后。（彭博）",
@@ -660,7 +676,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -691,57 +707,20 @@
       ]
     },
     {
-      "keyword_group": "华为 小米 荣耀",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "雷军：“媲美保时捷和特斯拉”不是吹嘘，希望大家有耐心再等小米5年",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33206353",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 10时12分]"
-        },
-        {
-          "title": "小米YU7GT独家评测",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E7%B1%B3YU7GT%E7%8B%AC%E5%AE%B6%E8%AF%84%E6%B5%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            14,
-            11,
-            20,
-            27,
-            29,
-            25,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 13时58分]"
-        },
-        {
-          "title": "小米 17Max 手机正式发布，起售价 4799 元，有哪些亮点？你认为值得购买吗？",
-          "url": "https://www.zhihu.com/question/2040888661999350787",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 10时12分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "莫迪多次邀特斯拉来印设厂，马斯克为何最终拒绝？",
+          "url": "https://news.ifeng.com/c/8tM7SvgZdOf",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时11分 ~ 16时12分]"
+        },
         {
           "title": "特斯拉电池供应商Solus Advance Materials Co.与旗下四个Volta Energy部门因铜箔专利纠纷而对SK Nexilis Co.欠款300万美元。",
           "url": "https://wallstreetcn.com/livenews/3108243",
@@ -779,6 +758,94 @@
       ]
     },
     {
+      "keyword_group": "基础设施 基建 地铁 高铁",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "凿通昆仑隧洞,大国基建秀翻全场",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354501&amp;topic_name=%E5%87%BF%E9%80%9A%E6%98%86%E4%BB%91%E9%9A%A7%E6%B4%9E%2C%E5%A4%A7%E5%9B%BD%E5%9F%BA%E5%BB%BA%E7%A7%80%E7%BF%BB%E5%85%A8%E5%9C%BA",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 16时12分]"
+        },
+        {
+          "title": "国家数据局：“数据要素×”行动推动数据基础设施建设运营加快",
+          "url": "https://wallstreetcn.com/livenews/3108322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        },
+        {
+          "title": "国家数据局：“数据要素×”行动推动数据基础设施建设运营加快",
+          "url": "https://flash.jin10.com/detail/20260523141147871800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为 小米 荣耀",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "雷军：“媲美保时捷和特斯拉”不是吹嘘，希望大家有耐心再等小米5年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33206353",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时14分 ~ 10时12分]"
+        },
+        {
+          "title": "小米YU7GT独家评测",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E7%B1%B3YU7GT%E7%8B%AC%E5%AE%B6%E8%AF%84%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            14,
+            11,
+            20,
+            27,
+            29,
+            25,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 16时12分]"
+        },
+        {
+          "title": "小米 17Max 手机正式发布，起售价 4799 元，有哪些亮点？你认为值得购买吗？",
+          "url": "https://www.zhihu.com/question/2040888661999350787",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时14分 ~ 10时12分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "英伟达 台积电 AMD 高通",
       "match_count": 3,
       "titles": [
@@ -795,6 +862,17 @@
           "time_info": "[07时57分 ~ 10时12分]"
         },
         {
+          "title": "英伟达重组,游戏部门other",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354529&amp;topic_name=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%87%8D%E7%BB%84%2C%E6%B8%B8%E6%88%8F%E9%83%A8%E9%97%A8other",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时58分 ~ 16时12分]"
+        },
+        {
           "title": "美股收盘：三大股指收涨 高通涨超11%",
           "url": "https://flash.jin10.com/detail/20260523040305525800",
           "source": "金十数据",
@@ -804,17 +882,35 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时57分 ~ 07时57分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大学生 毕业生",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "中国大学生方程式锦标赛",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%96%B9%E7%A8%8B%E5%BC%8F%E9%94%A6%E6%A0%87%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时58分 ~ 16时12分]"
         },
         {
-          "title": "英伟达重组,游戏部门other",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354529&amp;topic_name=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%87%8D%E7%BB%84%2C%E6%B8%B8%E6%88%8F%E9%83%A8%E9%97%A8other",
-          "source": "贴吧",
+          "title": "大学生“手搓”蝴蝶 单只售价1500元",
+          "url": "https://www.toutiao.com/trending/7642632049598185515/",
+          "source": "今日头条",
           "ranks": [
-            6
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时11分 ~ 16时12分]"
         }
       ]
     },
@@ -827,29 +923,12 @@
           "url": "https://wallstreetcn.com/livenews/3108307",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "凿通昆仑隧洞,大国基建秀翻全场",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354501&amp;topic_name=%E5%87%BF%E9%80%9A%E6%98%86%E4%BB%91%E9%9A%A7%E6%B4%9E%2C%E5%A4%A7%E5%9B%BD%E5%9F%BA%E5%BB%BA%E7%A7%80%E7%BF%BB%E5%85%A8%E5%9C%BA",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            17
+            11,
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 13时58分]"
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 16时12分]"
         }
       ]
     },
@@ -885,23 +964,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大学生 毕业生",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中国大学生方程式锦标赛",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%96%B9%E7%A8%8B%E5%BC%8F%E9%94%A6%E6%A0%87%E8%B5%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
         }
       ]
     },
