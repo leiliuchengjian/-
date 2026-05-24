@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-24T17:13:45.092639+08:00",
-  "total_titles_processed": 959,
+  "generated_at": "2026-05-24T19:06:57.455102+08:00",
+  "total_titles_processed": 1069,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "从“两弹一星”到AI时代，我们如何谈论科学家精神？",
@@ -44,11 +44,12 @@
             9,
             7,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时47分 ~ 17时13分]"
+          "appearance_count": 7,
+          "time_info": "[07时47分 ~ 19时06分]"
         },
         {
           "title": "AI 泡沫还能持续多久？",
@@ -66,22 +67,24 @@
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2Dai%20Dai%20MV%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时13分 ~ 19时06分]"
         },
         {
           "title": "一季度AI领域融资超1100亿元 国产大模型融资金额暴增",
           "url": "https://flash.jin10.com/detail/20260524165346994800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时13分 ~ 19时06分]"
         },
         {
           "title": "AI进入“按量付费与算力配给”时代--Anthropic和DeepSeek告诉我们的事",
@@ -106,6 +109,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时27分 ~ 17时13分]"
+        },
+        {
+          "title": "供不应求却拒绝涨价，日东纺\"市占率保卫战\"背后，豪赌AI玻纤长期景气",
+          "url": "https://wallstreetcn.com/articles/3772986",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时13分 ~ 19时06分]"
         },
         {
           "title": "AI时代最不可替代的东西",
@@ -174,21 +189,21 @@
           "time_info": "[00时48分 ~ 00时49分]"
         },
         {
-          "title": "供不应求却拒绝涨价，日东纺\"市占率保卫战\"背后，豪赌AI玻纤长期景气",
-          "url": "https://wallstreetcn.com/articles/3772986",
-          "source": "华尔街见闻",
+          "title": "为什么大众对 AI 生成代码的道德容忍度要明显高于 AI 生成的图片视频和音乐？",
+          "url": "https://www.zhihu.com/question/2009963807217304580",
+          "source": "知乎",
           "ranks": [
-            10
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时13分"
+          "time_info": "19时06分"
         }
       ]
     },
     {
       "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "凿通昆仑隧洞,大国基建秀翻全场",
@@ -197,11 +212,12 @@
           "ranks": [
             20,
             24,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时48分 ~ 17时13分]"
+          "appearance_count": 15,
+          "time_info": "[00时48分 ~ 19时06分]"
         },
         {
           "title": "地铁吐血女孩捐款次日深夜被送急诊",
@@ -232,6 +248,17 @@
           "time_info": "[02时53分 ~ 07时47分]"
         },
         {
+          "title": "高铁时速350公里 为啥反而不用安全带",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E6%97%B6%E9%80%9F350%E5%85%AC%E9%87%8C+%E4%B8%BA%E5%95%A5%E5%8F%8D%E8%80%8C%E4%B8%8D%E7%94%A8%E5%AE%89%E5%85%A8%E5%B8%A6",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时06分"
+        },
+        {
           "title": "高铁行李架掉下条蛇？铁路部门回应",
           "url": "https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E8%A1%8C%E6%9D%8E%E6%9E%B6%E6%8E%89%E4%B8%8B%E6%9D%A1%E8%9B%87%EF%BC%9F%E9%93%81%E8%B7%AF%E9%83%A8%E9%97%A8%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
@@ -243,6 +270,17 @@
           "time_info": "[14时27分 ~ 14时28分]"
         },
         {
+          "title": "高铁行李架掉下条蛇？铁路部门辟谣",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E8%A1%8C%E6%9D%8E%E6%9E%B6%E6%8E%89%E4%B8%8B%E6%9D%A1%E8%9B%87%EF%BC%9F%E9%93%81%E8%B7%AF%E9%83%A8%E9%97%A8%E8%BE%9F%E8%B0%A3",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时13分 ~ 19时06分]"
+        },
+        {
           "title": "地铁站外大量老鼠肆意穿行 街道回应",
           "url": "https://www.baidu.com/s?wd=%E5%9C%B0%E9%93%81%E7%AB%99%E5%A4%96%E5%A4%A7%E9%87%8F%E8%80%81%E9%BC%A0%E8%82%86%E6%84%8F%E7%A9%BF%E8%A1%8C+%E8%A1%97%E9%81%93%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
@@ -252,23 +290,12 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时48分 ~ 00时49分]"
-        },
-        {
-          "title": "高铁行李架掉下条蛇？铁路部门辟谣",
-          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E8%A1%8C%E6%9D%8E%E6%9E%B6%E6%8E%89%E4%B8%8B%E6%9D%A1%E8%9B%87%EF%BC%9F%E9%93%81%E8%B7%AF%E9%83%A8%E9%97%A8%E8%BE%9F%E8%B0%A3",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时13分"
         }
       ]
     },
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "中国证监会拟对富途合计罚款18.5亿元人民币，老虎证券合计被罚没约4.1亿元",
@@ -305,6 +332,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时04分 ~ 10时05分]"
+        },
+        {
+          "title": "梁文锋与DeepSeek的十万亿美元棋盘",
+          "url": "https://wallstreetcn.com/articles/3772995",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时06分"
         },
         {
           "title": "美伊据报达成谅解备忘录：结束战争、开放海峡、释放250亿美元资产",
@@ -386,11 +424,12 @@
           "ranks": [
             7,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时48分 ~ 17时13分]"
+          "appearance_count": 15,
+          "time_info": "[00时48分 ~ 19时06分]"
         },
         {
           "title": "国产算力的大刀向英伟达砍去",
@@ -412,11 +451,12 @@
           "url": "https://wallstreetcn.com/livenews/3108465",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时13分 ~ 19时06分]"
         }
       ]
     },
@@ -436,30 +476,32 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时48分 ~ 17时13分]"
+          "appearance_count": 15,
+          "time_info": "[00时48分 ~ 19时06分]"
         },
         {
           "title": "即便美伊协议快速达成，汇丰仍认为“通胀影响持续存在，更多央行将加息”",
           "url": "https://wallstreetcn.com/articles/3772987",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时13分 ~ 19时06分]"
         },
         {
           "title": "欧洲央行管委Kocher：除非伊朗局势改善，否则欧洲央行必须集中精力采取行动。",
           "url": "https://wallstreetcn.com/livenews/3108463",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时13分 ~ 19时06分]"
         }
       ]
     },
@@ -535,11 +577,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时28分 ~ 17时13分]"
+          "appearance_count": 3,
+          "time_info": "[14时28分 ~ 19时06分]"
         }
       ]
     },
@@ -570,8 +613,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时48分 ~ 17时13分]"
+          "appearance_count": 15,
+          "time_info": "[00时48分 ~ 19时06分]"
         }
       ]
     },
@@ -589,8 +632,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时48分 ~ 17时13分]"
+          "appearance_count": 15,
+          "time_info": "[00时48分 ~ 19时06分]"
         }
       ]
     }
