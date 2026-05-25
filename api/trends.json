@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T10:13:25.564107+08:00",
-  "total_titles_processed": 710,
+  "generated_at": "2026-05-25T15:02:19.637993+08:00",
+  "total_titles_processed": 918,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 小米 荣耀",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "下周重磅日程：“美联储最爱通胀指标”、中国PMI、长鑫科技上会、拼多多小米财报",
@@ -24,22 +24,12 @@
           "url": "https://wallstreetcn.com/articles/3772885",
           "source": "华尔街见闻",
           "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "华为与航天能源签署合作MOU/备忘录协议",
-          "url": "https://wallstreetcn.com/livenews/3108628",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
+            2,
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时13分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时13分 ~ 15时02分]"
         },
         {
           "title": "小米通报空调安装「抽真空」造假，两名涉事师傅被永久拉黑，抽真空环节有多重要？这种造假行为能有效遏制吗？",
@@ -48,7 +38,18 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时13分 ~ 15时02分]"
+        },
+        {
+          "title": "华为与航天能源签署合作MOU/备忘录协议",
+          "url": "https://wallstreetcn.com/livenews/3108628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -67,13 +68,46 @@
           "time_info": "[00时51分 ~ 05时45分]"
         },
         {
+          "title": "华为发表半导体韬定律",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%8F%91%E8%A1%A8%E5%8D%8A%E5%AF%BC%E4%BD%93%E9%9F%AC%E5%AE%9A%E5%BE%8B%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时01分 ~ 15时02分]"
+        },
+        {
+          "title": "华为首提半导体演进新原则 目标2031年实现1.4纳米等效性能",
+          "url": "https://www.cls.cn/detail/2380476",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时01分 ~ 15时02分]"
+        },
+        {
+          "title": "华为麒麟 2026 手机芯片今秋面世，率先采用逻辑折叠技术，这是一项怎样的技术？用户能感受到什么变化？",
+          "url": "https://www.zhihu.com/question/2042194731078247407",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时01分 ~ 15时02分]"
+        },
+        {
           "title": "华为与航天能源签署合作MOU/备忘录协议",
           "url": "https://flash.jin10.com/detail/20260525095500043800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -84,7 +118,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -95,7 +129,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -106,7 +140,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -117,7 +151,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -139,7 +173,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -150,7 +184,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         }
@@ -158,7 +192,7 @@
     },
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "梁文锋与DeepSeek的十万亿美元棋盘",
@@ -166,11 +200,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 10时13分]"
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 15时02分]"
         },
         {
           "title": "现货白银持续走高，日内大涨4%，现报78.48美元/盎司。",
@@ -255,6 +290,17 @@
           "time_info": "07时51分"
         },
         {
+          "title": "在中美元首会晤期间，日本是否成为双方讨论的话题？中方回应",
+          "url": "https://wallstreetcn.com/livenews/3108715",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
+        },
+        {
           "title": "现货白银日内涨幅达3%，现报77.71美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260525064806759800",
           "source": "金十数据",
@@ -283,15 +329,26 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
+        },
+        {
+          "title": "在中美元首会晤期间，日本是否成为双方讨论的话题？中方回应",
+          "url": "https://flash.jin10.com/detail/20260525142450155800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         }
       ]
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "什么情况下，本轮AI大行情会结束？",
@@ -303,8 +360,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 10时13分]"
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 15时02分]"
         },
         {
           "title": "世界杯主题曲Dai Dai MV正式上线",
@@ -315,11 +372,12 @@
             24,
             26,
             22,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时51分 ~ 10时13分]"
+          "appearance_count": 10,
+          "time_info": "[01时51分 ~ 15时02分]"
         },
         {
           "title": "欧洲央行将呼吁银行业解决因人工智能（AI）而暴露出来的瑕疵。 欧洲央行计划强调Anthropic模型Mythos构成的威胁的严重程度。 欧洲央行将于周二召开银行业会议讨论网络安全事宜。（英国金融时报）",
@@ -337,6 +395,28 @@
           "time_info": "[03时01分 ~ 07时51分]"
         },
         {
+          "title": "实名购药、严禁AI替代审方 《处方药网络零售合规指南》发布",
+          "url": "https://flash.jin10.com/detail/20260525143618155800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
+        },
+        {
+          "title": "实名购药、严禁AI替代审方 《处方药网络零售合规指南》发布",
+          "url": "https://wallstreetcn.com/livenews/3108725",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
+        },
+        {
           "title": "欧洲央行紧急召集银行开会 敦促修复AI模型暴露的网络安全漏洞",
           "url": "https://flash.jin10.com/detail/20260525012651977800",
           "source": "金十数据",
@@ -347,6 +427,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时51分 ~ 03时01分]"
+        },
+        {
+          "title": "券商晨会精华：看好AI产业链与算力网建设",
+          "url": "https://www.cls.cn/detail/2380227",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时13分 ~ 15时02分]"
         },
         {
           "title": "训练AI取代自己？纺织工和外卖骑手正收集“第一人称视角数据”",
@@ -397,24 +489,13 @@
           "time_info": "[01时51分 ~ 03时01分]"
         },
         {
-          "title": "券商晨会精华：看好AI产业链与算力网建设",
-          "url": "https://www.cls.cn/detail/2380227",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
           "title": "多家巨头密集押注 “百镜大战”催热供应链！AI眼镜有望加速进入千万台级别市场？",
           "url": "https://www.cls.cn/detail/2380061",
           "source": "财联社热门",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         }
@@ -422,7 +503,7 @@
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "即便美伊协议快速达成，汇丰仍认为“通胀影响持续存在，更多央行将加息”",
@@ -446,8 +527,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时50分 ~ 10时13分]"
+          "appearance_count": 5,
+          "time_info": "[07时50分 ~ 15时02分]"
         },
         {
           "title": "印度央行行长称，印度卢比可能被低估。",
@@ -456,7 +537,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -514,7 +595,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -525,7 +606,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -536,15 +617,26 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
+        },
+        {
+          "title": "货币市场价格显示，市场预期欧洲央行6月加息的机率为70%，上周五尾盘则为80%。",
+          "url": "https://flash.jin10.com/detail/20260525142015201800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         }
       ]
     },
     {
       "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "7只半导体热门股拟套现近127亿",
@@ -575,13 +667,36 @@
           "time_info": "[00时51分 ~ 07时51分]"
         },
         {
+          "title": "7只半导体热门股拟套现127亿",
+          "url": "https://www.baidu.com/s?wd=7%E5%8F%AA%E5%8D%8A%E5%AF%BC%E4%BD%93%E7%83%AD%E9%97%A8%E8%82%A1%E6%8B%9F%E5%A5%97%E7%8E%B0127%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时13分 ~ 15时02分]"
+        },
+        {
+          "title": "半导体扩产预期升温 设备板块集体井喷 机构看好国产化进程",
+          "url": "https://www.cls.cn/detail/2380429",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时01分 ~ 15时02分]"
+        },
+        {
           "title": "半导体芯片股集体走强，新洁能涨停，东芯股份、晶丰明源、帝奥微、芯朋微涨超10%，寒武纪、中芯国际拉升涨超7%。",
           "url": "https://wallstreetcn.com/livenews/3108620",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -592,7 +707,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -603,18 +718,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "7只半导体热门股拟套现127亿",
-          "url": "https://www.baidu.com/s?wd=7%E5%8F%AA%E5%8D%8A%E5%AF%BC%E4%BD%93%E7%83%AD%E9%97%A8%E8%82%A1%E6%8B%9F%E5%A5%97%E7%8E%B0127%E4%BA%BF",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -625,7 +729,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -636,7 +740,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         }
@@ -644,7 +748,7 @@
     },
     {
       "keyword_group": "创业板",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "算力巨头超聚变闯关创业板，80亿募资要下怎样一盘棋？",
@@ -659,13 +763,24 @@
           "time_info": "[00时51分 ~ 06时46分]"
         },
         {
+          "title": "创业板指尾盘涨超2%，科创50指数涨幅扩大至6%，中芯国际涨19%领涨成分股。",
+          "url": "https://wallstreetcn.com/livenews/3108730",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
+        },
+        {
           "title": "深证成指翻绿，创业板指跌0.37%，沪指现涨0.33%。",
           "url": "https://flash.jin10.com/detail/20260525094817201800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -676,7 +791,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -687,7 +802,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         }
@@ -695,7 +810,7 @@
     },
     {
       "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "高铁行李架掉下条蛇？铁路部门辟谣",
@@ -719,6 +834,45 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时51分 ~ 10时13分]"
+        },
+        {
+          "title": "乘客在高铁静音车厢连打二十分钟电话，乘务员举牌多次劝阻均被忽视，静音车厢的柔性劝阻该升级为硬性管理吗？",
+          "url": "https://www.zhihu.com/question/2040800838864593443",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时01分 ~ 15时02分]"
+        },
+        {
+          "title": "武汉地铁十二号线被指低频振动噪音扰民：住更局称正研究解决，地铁回应路过将减速",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33224636",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时01分 ~ 15时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房地产 房价 楼市 LPR",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "内地买家挤爆香港楼市",
+          "url": "https://www.toutiao.com/trending/7643226476485820435/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         }
       ]
     },
@@ -751,7 +905,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         }
@@ -767,11 +921,12 @@
           "source": "贴吧",
           "ranks": [
             14,
-            15
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 10时13分]"
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 15时02分]"
         }
       ]
     },
@@ -805,7 +960,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         }
