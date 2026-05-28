@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-28T09:55:30.665601+08:00",
-  "total_titles_processed": 705,
+  "generated_at": "2026-05-28T14:02:23.768513+08:00",
+  "total_titles_processed": 891,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "韩国历史第二例！三星工会同意新薪酬方案：人均40万美元奖金！",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 09时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 14时02分]"
         },
         {
           "title": "瑞银、巴克莱大幅上调美光、闪迪目标价，华尔街再燃存储股狂潮，美光市值突破1万亿美元",
@@ -265,7 +266,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
@@ -281,6 +282,17 @@
           "time_info": "03时18分"
         },
         {
+          "title": "报道：国家大基金领投DeepSeek，投前估值450亿美元",
+          "url": "https://wallstreetcn.com/livenews/3110453",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
           "title": "美国财政部拍卖700亿美元五年期国债，得标利率4.182%（5月11日），投标倍数2.34。",
           "url": "https://wallstreetcn.com/livenews/3110204",
           "source": "华尔街见闻-快讯",
@@ -294,234 +306,8 @@
       ]
     },
     {
-      "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 20,
-      "titles": [
-        {
-          "title": "墨西哥央行行长Rodriguez：预计经济将在二季度重拾增长趋势。",
-          "url": "https://wallstreetcn.com/livenews/3110232",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时18分"
-        },
-        {
-          "title": "墨西哥央行第一季度报告：预计投资将在至少2026年下半年之前保持疲软，这反映了与美国贸易关系的不确定性以及即将进行的美墨加协定（USMCA）审查。",
-          "url": "https://flash.jin10.com/detail/20260528030107185800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时18分"
-        },
-        {
-          "title": "墨西哥央行第一季度报告：展望未来，委员会认为维持当前利率水平是合适的。",
-          "url": "https://flash.jin10.com/detail/20260528025145089800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时18分"
-        },
-        {
-          "title": "韩国央行：将实施政策以稳定通胀在目标水平。 将在监测通胀压力的同时做出决定。 需要关注汇率的剧烈波动。 中东战争加剧通胀压力和不确定性。 出口强劲推动经济增长强于预期。 金融稳定性风险依然存在。",
-          "url": "https://wallstreetcn.com/livenews/3110360",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "韩国央行：两名持异议的委员会成员呼吁加息。",
-          "url": "https://flash.jin10.com/detail/20260528093831184800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "墨西哥央行下调今年经济增速预期",
-          "url": "https://wallstreetcn.com/livenews/3110224",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时18分"
-        },
-        {
-          "title": "韩国央行预估中值显示六个月后基准利率在3%",
-          "url": "https://wallstreetcn.com/livenews/3110359",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：日本央行法要求在确保央行独立性的同时与政府进行充分沟通。",
-          "url": "https://flash.jin10.com/detail/20260528093806570800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：希望日本央行能够采取适当的货币政策，稳定、可持续地实现2%的价格目标，并伴随工资上涨。",
-          "url": "https://flash.jin10.com/detail/20260528093749112800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "韩国央行：今天的利率决议并非一致通过，两位委员要求加息。",
-          "url": "https://wallstreetcn.com/livenews/3110356",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：我们的内阁一致认为，具体的货币政策手段由日本央行决定。",
-          "url": "https://flash.jin10.com/detail/20260528093735015800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：预计日本央行将与政府紧密协调。",
-          "url": "https://flash.jin10.com/detail/20260528093725379800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "中国央行公开市场开展1013亿元7天期逆回购操作，操作利率1.40%，持平上日。今日1000亿元逆回购到期。",
-          "url": "https://wallstreetcn.com/livenews/3110348",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "韩国央行：未来经济增长路径上既存在巨大的上行风险，也存在巨大的下行风险。",
-          "url": "https://flash.jin10.com/detail/20260528093641521800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "韩国央行：必须继续关注汇率的高度波动。",
-          "url": "https://flash.jin10.com/detail/20260528093606170800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "韩国央行：将评估通货膨胀压力的上升程度、国内经济的改善趋势以及金融稳定性状况。",
-          "url": "https://flash.jin10.com/detail/20260528093554227800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "韩国央行：委员会将决定加息的时机。",
-          "url": "https://flash.jin10.com/detail/20260528093505503800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "韩国央行点阵图显示，21名委员会成员中有2人预计未来六个月政策利率将为2.50%。",
-          "url": "https://flash.jin10.com/detail/20260528093440012800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "韩国央行点阵图显示，21名委员会成员中有7人预计未来六个月政策利率将为2.75%。",
-          "url": "https://flash.jin10.com/detail/20260528093331584800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "韩元兑美元维持跌势，此前韩国央行维持利率不变，符合预期。",
-          "url": "https://wallstreetcn.com/livenews/3110331",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        }
-      ]
-    },
-    {
       "keyword_group": "人工智能 AI",
-      "match_count": 18,
+      "match_count": 23,
       "titles": [
         {
           "title": "AI大行其道,古法PS吧没落",
@@ -529,11 +315,38 @@
           "source": "贴吧",
           "ranks": [
             3,
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 09时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 14时02分]"
+        },
+        {
+          "title": "野生vs养殖,AI大战鲤鱼图",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354618&amp;topic_name=%E9%87%8E%E7%94%9Fvs%E5%85%BB%E6%AE%96%2CAI%E5%A4%A7%E6%88%98%E9%B2%A4%E9%B1%BC%E5%9B%BE",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 14时02分]"
+        },
+        {
+          "title": "AI坑爹,棒球名帅丢饭碗",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354604&amp;topic_name=AI%E5%9D%91%E7%88%B9%2C%E6%A3%92%E7%90%83%E5%90%8D%E5%B8%85%E4%B8%A2%E9%A5%AD%E7%A2%97",
+          "source": "贴吧",
+          "ranks": [
+            17,
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 14时02分]"
         },
         {
           "title": "AI热潮推动下，美股盘初美光涨5%，半导体股普涨，石油股下跌，金银油齐跌",
@@ -548,28 +361,15 @@
           "time_info": "[00时32分 ~ 05时45分]"
         },
         {
-          "title": "野生vs养殖,AI大战鲤鱼图",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354618&amp;topic_name=%E9%87%8E%E7%94%9Fvs%E5%85%BB%E6%AE%96%2CAI%E5%A4%A7%E6%88%98%E9%B2%A4%E9%B1%BC%E5%9B%BE",
-          "source": "贴吧",
+          "title": "人工智能成外贸增长新引擎",
+          "url": "https://www.douyin.com/hot/2514888",
+          "source": "抖音",
           "ranks": [
-            13,
-            14
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 09时55分]"
-        },
-        {
-          "title": "AI坑爹,棒球名帅丢饭碗",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354604&amp;topic_name=AI%E5%9D%91%E7%88%B9%2C%E6%A3%92%E7%90%83%E5%90%8D%E5%B8%85%E4%B8%A2%E9%A5%AD%E7%A2%97",
-          "source": "贴吧",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 09时55分]"
+          "appearance_count": 2,
+          "time_info": "[14时01分 ~ 14时02分]"
         },
         {
           "title": "和平预期与AI热潮双轮驱动，标普、纳指创新高，半导体指数五连涨，美光飙涨20%",
@@ -602,8 +402,64 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时08分 ~ 14时02分]"
+        },
+        {
+          "title": "明查｜起底“中国强拆寺庙”AI虚假视频背后：隐秘的协同发布与矩阵传播危害",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33244573",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时08分 ~ 09时55分]"
+          "time_info": "[09时55分 ~ 14时02分]"
+        },
+        {
+          "title": "AI改写黑袍纠察队结局",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%94%B9%E5%86%99%E9%BB%91%E8%A2%8D%E7%BA%A0%E5%AF%9F%E9%98%9F%E7%BB%93%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时01分 ~ 14时02分]"
+        },
+        {
+          "title": "美国网红券商允许散户用AI炒股 段永平举牌泡泡玛特 | 环球市场",
+          "url": "https://www.cls.cn/detail/2383558",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时01分 ~ 14时02分]"
+        },
+        {
+          "title": "小说AI直出?8u评论区吵翻",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354649&amp;topic_name=%E5%B0%8F%E8%AF%B4AI%E7%9B%B4%E5%87%BA%3F8u%E8%AF%84%E8%AE%BA%E5%8C%BA%E5%90%B5%E7%BF%BB",
+          "source": "贴吧",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时01分 ~ 14时02分]"
+        },
+        {
+          "title": "美以伊战争启示录｜当杀戮被娱乐化：扭曲的信息战中，AI造梗正在去人性化",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33234425",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时01分 ~ 14时02分]"
         },
         {
           "title": "中信证券：“AI+能化”构成今年杠铃配置结构",
@@ -637,17 +493,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
-        },
-        {
-          "title": "明查｜起底“中国强拆寺庙”AI虚假视频背后：隐秘的协同发布与矩阵传播危害",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33244573",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时55分"
         },
         {
           "title": "美联储理事库克：可能需要长时间地观察AI对经济的结构性改变。",
@@ -711,7 +556,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
@@ -729,8 +574,234 @@
       ]
     },
     {
+      "keyword_group": "央行 降息 降准 CPI 物价",
+      "match_count": 20,
+      "titles": [
+        {
+          "title": "墨西哥央行行长Rodriguez：预计经济将在二季度重拾增长趋势。",
+          "url": "https://wallstreetcn.com/livenews/3110232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        },
+        {
+          "title": "墨西哥央行第一季度报告：预计投资将在至少2026年下半年之前保持疲软，这反映了与美国贸易关系的不确定性以及即将进行的美墨加协定（USMCA）审查。",
+          "url": "https://flash.jin10.com/detail/20260528030107185800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        },
+        {
+          "title": "墨西哥央行第一季度报告：展望未来，委员会认为维持当前利率水平是合适的。",
+          "url": "https://flash.jin10.com/detail/20260528025145089800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        },
+        {
+          "title": "韩国央行：将实施政策以稳定通胀在目标水平。 将在监测通胀压力的同时做出决定。 需要关注汇率的剧烈波动。 中东战争加剧通胀压力和不确定性。 出口强劲推动经济增长强于预期。 金融稳定性风险依然存在。",
+          "url": "https://wallstreetcn.com/livenews/3110360",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "韩国央行：两名持异议的委员会成员呼吁加息。",
+          "url": "https://flash.jin10.com/detail/20260528093831184800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "墨西哥央行下调今年经济增速预期",
+          "url": "https://wallstreetcn.com/livenews/3110224",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        },
+        {
+          "title": "韩国央行预估中值显示六个月后基准利率在3%",
+          "url": "https://wallstreetcn.com/livenews/3110359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：日本央行法要求在确保央行独立性的同时与政府进行充分沟通。",
+          "url": "https://flash.jin10.com/detail/20260528093806570800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：希望日本央行能够采取适当的货币政策，稳定、可持续地实现2%的价格目标，并伴随工资上涨。",
+          "url": "https://flash.jin10.com/detail/20260528093749112800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "韩国央行：今天的利率决议并非一致通过，两位委员要求加息。",
+          "url": "https://wallstreetcn.com/livenews/3110356",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：我们的内阁一致认为，具体的货币政策手段由日本央行决定。",
+          "url": "https://flash.jin10.com/detail/20260528093735015800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：预计日本央行将与政府紧密协调。",
+          "url": "https://flash.jin10.com/detail/20260528093725379800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "中国央行公开市场开展1013亿元7天期逆回购操作，操作利率1.40%，持平上日。今日1000亿元逆回购到期。",
+          "url": "https://wallstreetcn.com/livenews/3110348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "韩国央行：未来经济增长路径上既存在巨大的上行风险，也存在巨大的下行风险。",
+          "url": "https://flash.jin10.com/detail/20260528093641521800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "韩国央行：必须继续关注汇率的高度波动。",
+          "url": "https://flash.jin10.com/detail/20260528093606170800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "韩国央行：将评估通货膨胀压力的上升程度、国内经济的改善趋势以及金融稳定性状况。",
+          "url": "https://flash.jin10.com/detail/20260528093554227800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "韩国央行：委员会将决定加息的时机。",
+          "url": "https://flash.jin10.com/detail/20260528093505503800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "韩国央行点阵图显示，21名委员会成员中有2人预计未来六个月政策利率将为2.50%。",
+          "url": "https://flash.jin10.com/detail/20260528093440012800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "韩国央行点阵图显示，21名委员会成员中有7人预计未来六个月政策利率将为2.75%。",
+          "url": "https://flash.jin10.com/detail/20260528093331584800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "韩元兑美元维持跌势，此前韩国央行维持利率不变，符合预期。",
+          "url": "https://wallstreetcn.com/livenews/3110331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "中国第一大 DRAM 厂商长鑫科技科创板 IPO 获上市委会议通过，会对国产芯片市场有怎样的影响？",
@@ -752,11 +823,12 @@
           "source": "贴吧",
           "ranks": [
             14,
-            15
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 09时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 14时02分]"
         },
         {
           "title": "创业板指跌超1%，沪指跌0.25%，深成指跌0.85%，贵金属、半导体、白酒、光伏设备等方向跌幅居前，沪深京三市下跌个股超2200只。",
@@ -765,9 +837,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "社媒帖子点燃欧洲半导体妖股 晶圆厂股票突遭资金疯抢",
+          "url": "https://www.cls.cn/detail/2383476",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 14时02分]"
         },
         {
           "title": "600亿算力芯片概念股拟定增募资不超23亿元用于信息化芯片等项目|盘后公告集锦",
@@ -787,18 +870,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "社媒帖子点燃欧洲半导体妖股 晶圆厂股票突遭资金疯抢",
-          "url": "https://www.cls.cn/detail/2383476",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
@@ -809,7 +881,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
@@ -831,9 +903,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "大华股份5月28日在互动平台表示，公司持续聚焦于智慧物联的主航道，目前无芯片设计相关业务。",
+          "url": "https://flash.jin10.com/detail/20260528132520991800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "周三（5月27日），美股行业ETF涨跌各异，能源业ETF收跌1.49%，半导体ETF、区域银行ETF、银行业ETF至多跌1.10%，日常消费品ETF、可选消费ETF至多涨1.76%，全球航空业ETF涨2.90%。",
@@ -853,7 +936,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
@@ -861,6 +944,72 @@
           "title": "特朗普威胁称，阿曼要么老实点，“否则我们就会炸他们”。目前，标普500指数跌超0.2%，纳斯达克100指数跌超0.5%，费城半导体指数跌超2.5%，银行指数跌1%。",
           "url": "https://wallstreetcn.com/livenews/3110205",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为 小米 荣耀",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "华为公司董事、半导体业务部总裁何庭波：华为比同行更早遇到这堵“墙”",
+          "url": "https://www.cls.cn/detail/2383556",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 14时02分]"
+        },
+        {
+          "title": "塞尔维亚总统武契奇说小米车漂亮但买不起，雷军回应「YU7 标准版定价 23.35 万」，如何看待这一回应？",
+          "url": "https://www.zhihu.com/question/2042890815265923370",
+          "source": "知乎",
+          "ranks": [
+            4,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 07时09分]"
+        },
+        {
+          "title": "雷军回应武契奇说小米车漂亮但买不起",
+          "url": "https://www.toutiao.com/trending/7643645124177854510/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            25,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时18分 ~ 07时09分]"
+        },
+        {
+          "title": "何庭波三分钟详解华为韬（τ）定律：芯片发展有了加速度，未来10年我们不会越来越远，只会越来越好",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33249817",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时01分 ~ 14时02分]"
+        },
+        {
+          "title": "武契奇在小米汽车工厂买了啥",
+          "url": "https://www.toutiao.com/trending/7643858808741625894/",
+          "source": "今日头条",
           "ranks": [
             27
           ],
@@ -880,11 +1029,12 @@
           "source": "贴吧",
           "ranks": [
             7,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 09时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 14时02分]"
         },
         {
           "title": "余承东称新款问界M9是最强悍SUV",
@@ -918,7 +1068,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
@@ -936,62 +1086,69 @@
       ]
     },
     {
-      "keyword_group": "华为 小米 荣耀",
-      "match_count": 4,
+      "keyword_group": "创业板",
+      "match_count": 5,
       "titles": [
         {
-          "title": "塞尔维亚总统武契奇说小米车漂亮但买不起，雷军回应「YU7 标准版定价 23.35 万」，如何看待这一回应？",
-          "url": "https://www.zhihu.com/question/2042890815265923370",
-          "source": "知乎",
+          "title": "A股三大指数午后集体翻红，沪指上涨0.01%，深证成指上涨0.45%，创业板指上涨1.4%。沪深京三市上涨个股超2500只。",
+          "url": "https://wallstreetcn.com/livenews/3110489",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 07时09分]"
-        },
-        {
-          "title": "华为公司董事、半导体业务部总裁何庭波：华为比同行更早遇到这堵“墙”",
-          "url": "https://www.cls.cn/detail/2383556",
-          "source": "财联社热门",
-          "ranks": [
-            3
+            6
           ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "创业板指午后涨超1%，早盘一度跌超1.8%，沪指跌0.26%，深证成指涨0.05%。",
+          "url": "https://wallstreetcn.com/livenews/3110483",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "创业板指涨1%，此前一度跌1.8%，深证成指翻红，沪指跌0.23%，培育钻石、超级电容板块涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20260528132739587800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "上证指数开盘报4080.30点，跌0.33%。 深证成指开盘报15691.16点，跌0.29%。 创业板指开盘报4042.08点，跌0.09%。 沪深300开盘报4889.27点，跌0.39%。 科创50开盘报1805.11点，跌0.57%。 中证500开盘报8503.67点，跌0.32%。 中证1000开盘报8527.91点，跌0.22%。",
+          "url": "https://wallstreetcn.com/livenews/3110349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
         {
-          "title": "雷军回应武契奇说小米车漂亮但买不起",
-          "url": "https://www.toutiao.com/trending/7643645124177854510/",
-          "source": "今日头条",
+          "title": "深交所理事长沙雁：2025年创业板上市公司研发投入同比增长9.8%",
+          "url": "https://wallstreetcn.com/livenews/3110468",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            24,
-            25,
-            22
+            19
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时18分 ~ 07时09分]"
-        },
-        {
-          "title": "武契奇在小米汽车工厂买了啥",
-          "url": "https://www.toutiao.com/trending/7643858808741625894/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时18分"
+          "time_info": "14时02分"
         }
       ]
     },
     {
       "keyword_group": "房地产 房价 楼市 LPR",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "A股房地产板块异动拉升，天健集团直线涨停，津投城开涨超6%，万通发展、京投发展、华丽家族、大龙地产跟涨。",
@@ -1000,9 +1157,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "房价都跌了年轻人为什么还是不愿买房",
+          "url": "https://www.toutiao.com/trending/7644714059262070308/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时01分 ~ 14时02分]"
         },
         {
           "title": "韩国央行：必须继续关注房地产市场和家庭债务的相关情况。",
@@ -1011,9 +1179,40 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大模型 ChatGPT Kimi Sora OpenAI",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "千问“拒聊”盒马粉木耳事件？人民网：大模型不能内嵌企业立场",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33245808",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时18分 ~ 14时02分]"
+        },
+        {
+          "title": "港股大模型股震荡走强，智谱盘中涨超8%。",
+          "url": "https://wallstreetcn.com/livenews/3110487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         }
       ]
     },
@@ -1061,42 +1260,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大模型 ChatGPT Kimi Sora OpenAI",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "千问“拒聊”盒马粉木耳事件？人民网：大模型不能内嵌企业立场",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33245808",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时18分 ~ 09时55分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "创业板",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "上证指数开盘报4080.30点，跌0.33%。 深证成指开盘报15691.16点，跌0.29%。 创业板指开盘报4042.08点，跌0.09%。 沪深300开盘报4889.27点，跌0.39%。 科创50开盘报1805.11点，跌0.57%。 中证500开盘报8503.67点，跌0.32%。 中证1000开盘报8527.91点，跌0.22%。",
-          "url": "https://wallstreetcn.com/livenews/3110349",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时55分"
         }
       ]
     }
