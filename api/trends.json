@@ -1,12 +1,45 @@
 {
-  "generated_at": "2026-06-02T03:51:43.520407+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-06-02T06:30:40.094530+08:00",
+  "total_titles_processed": 400,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 15,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "大力推进人工智能+能源融合发展",
+          "url": "https://www.douyin.com/hot/2520343",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时30分]"
+        },
+        {
+          "title": "AI芯片出口被卡死，美国“堵漏洞”盯上中企海外子公司",
+          "url": "https://news.ifeng.com/c/8tbOoFh3a7h",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时30分]"
+        },
+        {
+          "title": "【每日收评】科创50指数再跌5%，AI硬件、半导体延续调整，AI应用逆势爆发",
+          "url": "https://www.cls.cn/detail/2387170",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时30分]"
+        },
         {
           "title": "Anthropic已提交IPO申请 OpenAI创始人称不争首家“头衔”",
           "url": "https://flash.jin10.com/detail/20260602032624584800",
@@ -19,37 +52,26 @@
           "time_info": "03时51分"
         },
         {
-          "title": "大力推进人工智能+能源融合发展",
-          "url": "https://www.douyin.com/hot/2520343",
-          "source": "抖音",
+          "title": "中东局势与AI热潮交织，标普八连涨再新高，英伟达大涨",
+          "url": "https://wallstreetcn.com/articles/3773537",
+          "source": "华尔街见闻",
           "ranks": [
             3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时51分"
+          "time_info": "06时30分"
         },
         {
-          "title": "AI芯片出口被卡死，美国“堵漏洞”盯上中企海外子公司",
-          "url": "https://news.ifeng.com/c/8tbOoFh3a7h",
-          "source": "凤凰网",
+          "title": "Anthropic抢跑IPO的先发优势将扩大其对OpenAI的领先地位",
+          "url": "https://wallstreetcn.com/livenews/3112665",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时51分"
-        },
-        {
-          "title": "【每日收评】科创50指数再跌5%，AI硬件、半导体延续调整，AI应用逆势爆发",
-          "url": "https://www.cls.cn/detail/2387170",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时51分"
+          "time_info": "06时30分"
         },
         {
           "title": "OpenAI在一份声明中针对美国佛罗里达州公诉人的指控表示，它已经为年轻用户制定了保障措施，包括“更具保护性的体验”以及允许父母监控孩子如何使用该工具的工具。 OpenAI表示：“人工智能是一项全新的、强大的技术，我们相信未成年人需要重大的保护，这就是为什么我们实施了行业领先的保护措施和政策。我们深知，仅仅指出这些工作并不能让逝去的孩子复生，但我们致力于将这项工作做好。”",
@@ -67,38 +89,51 @@
           "url": "https://wallstreetcn.com/articles/3773561",
           "source": "华尔街见闻",
           "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时30分]"
+        },
+        {
+          "title": "AI坑健身小白买20kg哑铃",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354756&amp;topic_name=AI%E5%9D%91%E5%81%A5%E8%BA%AB%E5%B0%8F%E7%99%BD%E4%B9%B020kg%E5%93%91%E9%93%83",
+          "source": "贴吧",
+          "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时51分"
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时30分]"
         },
         {
           "title": "英伟达发布PC芯片 AI狂欢席卷全球市场 美股期指上涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2387523",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时30分]"
+        },
+        {
+          "title": "亚马逊(AMZN.O)：OpenAI的GPT-5.5、GPT-5.4及Codex现已登陆Amazon Bedrock。",
+          "url": "https://flash.jin10.com/detail/20260602053510657800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时51分"
+          "time_info": "06时30分"
         },
         {
           "title": "OpenAI：BARN项目预计在租赁期内产生10亿美元的税收收入。",
           "url": "https://flash.jin10.com/detail/20260602031452989800",
           "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时51分"
-        },
-        {
-          "title": "AI坑健身小白买20kg哑铃",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354756&amp;topic_name=AI%E5%9D%91%E5%81%A5%E8%BA%AB%E5%B0%8F%E7%99%BD%E4%B9%B020kg%E5%93%91%E9%93%83",
-          "source": "贴吧",
           "ranks": [
             8
           ],
@@ -127,6 +162,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时51分"
+        },
+        {
+          "title": "Alphabet(GOOG.O)：AI需求已超出公司现有供应能力。公司正面临来自企业和消费者对人工智能解决方案的强劲需求。",
+          "url": "https://flash.jin10.com/detail/20260602050120532800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时30分"
         },
         {
           "title": "OpenAI创始人奥尔特曼：OpenAI将在对公司有利时进行IPO。",
@@ -162,6 +208,17 @@
           "time_info": "03时51分"
         },
         {
+          "title": "伯克希尔对谷歌母公司投资100亿美元，加大对AI的押注",
+          "url": "https://wallstreetcn.com/livenews/3112644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时30分"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：人们对人工智能感到焦虑是合理的。",
           "url": "https://flash.jin10.com/detail/20260602024250472800",
           "source": "金十数据",
@@ -176,18 +233,31 @@
     },
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "六神包装“撞脸”人民币引热议",
           "url": "https://www.toutiao.com/trending/7646392563909266990/",
           "source": "今日头条",
           "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时30分]"
+        },
+        {
+          "title": "韩国 SK 海力士工厂突发火灾，有哪些信息值得关注？公司市值刚突破 1 万亿美元，火灾会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2044805544947494930",
+          "source": "知乎",
+          "ranks": [
+            3,
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时51分"
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时30分]"
         },
         {
           "title": "美国参议院多数党领袖图恩：美国参议院将推进720亿美元的移民执法支出法案。",
@@ -212,15 +282,15 @@
           "time_info": "03时51分"
         },
         {
-          "title": "韩国 SK 海力士工厂突发火灾，有哪些信息值得关注？公司市值刚突破 1 万亿美元，火灾会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2044805544947494930",
-          "source": "知乎",
+          "title": "伯克希尔“新王”上任“第一把火”：85亿美元！卖油气，买地产",
+          "url": "https://wallstreetcn.com/articles/3773528",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时51分"
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时30分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7660元，较上周五夜盘收盘涨3点。成交量334.67亿美元。",
@@ -234,15 +304,15 @@
           "time_info": "03时51分"
         },
         {
-          "title": "伯克希尔“新王”上任“第一把火”：85亿美元！卖油气，买地产",
-          "url": "https://wallstreetcn.com/articles/3773528",
-          "source": "华尔街见闻",
+          "title": "谷歌拟筹800亿美元 伯克希尔100亿美元跟投",
+          "url": "https://flash.jin10.com/detail/20260602050830269800",
+          "source": "金十数据",
           "ranks": [
-            9
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时51分"
+          "time_info": "06时30分"
         },
         {
           "title": "上期所原油期货2607合约夜盘收涨3.57%，报605.70元人民币/桶。 沪金夜盘收跌1.28%，沪银收跌0.73%。",
@@ -256,6 +326,28 @@
           "time_info": "03时51分"
         },
         {
+          "title": "周一（6月1日）纽约尾盘（周二北京时间04:59），离岸人民币（CNH）兑美元报6.7653元，较上周五纽约尾盘跌18点，21:09出现一波短线跳水行情，日内整体交投于6.7617-6.7709元区间，持稳于上周五顶部6.7605元附近。",
+          "url": "https://wallstreetcn.com/livenews/3112652",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时30分"
+        },
+        {
+          "title": "纽约期金跌超1.7%，失守4500美元",
+          "url": "https://wallstreetcn.com/livenews/3112648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时30分"
+        },
+        {
           "title": "周一（6月1日），韩元兑美元最终跌0.58%，报1513.17韩元。",
           "url": "https://wallstreetcn.com/livenews/3112604",
           "source": "华尔街见闻-快讯",
@@ -265,6 +357,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时51分"
+        },
+        {
+          "title": "市场消息：Alphabet(GOOG.O)拟进行800亿美元的股权融资，伯克希尔·哈撒韦将向Alphabet投资100亿美元。",
+          "url": "https://flash.jin10.com/detail/20260602044259333800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时30分"
         },
         {
           "title": "周一（6月1日），美联储隔夜逆回购协议（RRP）使用规模为13.02亿美元（交易对手5家），上个交易日报116.77亿美元。",
@@ -281,7 +384,7 @@
     },
     {
       "keyword_group": "华为 小米 荣耀",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "经济日报：华为韬定律为何出道即顶流",
@@ -291,36 +394,49 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时51分"
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时30分]"
         },
         {
           "title": "小米能否在技术上，以低成本方案阻止安装空调虚假抽真空行为？",
           "url": "https://www.zhihu.com/question/2042568711505179731",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时51分"
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时30分]"
         },
         {
           "title": "华为nova 16价格公布",
           "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BAnova+16%E4%BB%B7%E6%A0%BC%E5%85%AC%E5%B8%83",
           "source": "百度热搜",
           "ranks": [
-            30
+            30,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时51分"
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时30分]"
+        },
+        {
+          "title": "华为nova 16系列发布",
+          "url": "https://www.toutiao.com/trending/7646027347536543794/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 06时30分]"
         }
       ]
     },
     {
       "keyword_group": "英伟达 台积电 AMD 高通",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "你看好英伟达即将发布的首款笔记本电脑 N1X 吗？",
@@ -330,8 +446,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时51分"
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时30分]"
+        },
+        {
+          "title": "黄仁勋宣布英伟达正重新发明PC：意义不亚于智能手机的诞生",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33282044",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时30分]"
         },
         {
           "title": "英伟达Computex 2026要点总结",
@@ -345,21 +472,21 @@
           "time_info": "03时51分"
         },
         {
-          "title": "黄仁勋宣布英伟达正重新发明PC：意义不亚于智能手机的诞生",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33282044",
-          "source": "澎湃新闻",
+          "title": "英伟达收涨6.3%，市值增加3190亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3112633",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            29
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时51分"
+          "time_info": "06时30分"
         }
       ]
     },
     {
       "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美国参议院多数党领袖图恩：如果白宫能够放弃这项基金，那将是最理想的情况。",
@@ -371,6 +498,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时51分"
+        },
+        {
+          "title": "比亚迪王传福扔下的“深水炸弹”",
+          "url": "https://www.toutiao.com/trending/7646185087121244166/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 06时30分]"
         },
         {
           "title": "比亚迪5月销量38.35万辆",
@@ -397,8 +535,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时51分"
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时30分]"
         },
         {
           "title": "两大芯片巨头互攻",
@@ -408,8 +546,25 @@
             15
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时30分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "基础设施 基建 地铁 高铁",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Alphabet(GOOG.O)募资以扩建AI基础设施及算力。",
+          "url": "https://flash.jin10.com/detail/20260602044358873800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时51分"
+          "time_info": "06时30分"
         }
       ]
     },
@@ -427,6 +582,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源汽车 电动汽车 智能驾驶",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周一（6月1日），彭博电动汽车价格回报指数跌0.29%，报4007.36点。",
+          "url": "https://wallstreetcn.com/livenews/3112634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时30分"
         }
       ]
     }
