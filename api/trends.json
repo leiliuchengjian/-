@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-02T06:30:40.094530+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-06-02T08:06:04.821021+08:00",
+  "total_titles_processed": 503,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "大力推进人工智能+能源融合发展",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时51分 ~ 06时30分]"
+          "appearance_count": 5,
+          "time_info": "[03时51分 ~ 08时06分]"
         },
         {
           "title": "AI芯片出口被卡死，美国“堵漏洞”盯上中企海外子公司",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时51分 ~ 06时30分]"
+          "appearance_count": 5,
+          "time_info": "[03时51分 ~ 08时06分]"
         },
         {
           "title": "【每日收评】科创50指数再跌5%，AI硬件、半导体延续调整，AI应用逆势爆发",
@@ -39,6 +39,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时51分 ~ 06时30分]"
+        },
+        {
+          "title": "中东局势与AI热潮交织，标普纳指八连涨再新高，英伟达和Arm大涨，美油一度涨超8%",
+          "url": "https://wallstreetcn.com/articles/3773537",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 08时06分]"
         },
         {
           "title": "Anthropic已提交IPO申请 OpenAI创始人称不争首家“头衔”",
@@ -58,20 +69,44 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
         },
         {
-          "title": "Anthropic抢跑IPO的先发优势将扩大其对OpenAI的领先地位",
-          "url": "https://wallstreetcn.com/livenews/3112665",
+          "title": "英伟达掀桌，Windows 终于迎来真 AI PC",
+          "url": "https://wallstreetcn.com/articles/3773561",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时51分 ~ 08时06分]"
+        },
+        {
+          "title": "AI软件指数涨超8.7%，MongoDB涨超20.3%，HubSpot涨超18.8%",
+          "url": "https://wallstreetcn.com/livenews/3112692",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时30分"
+          "time_info": "08时06分"
+        },
+        {
+          "title": "AI坑健身小白买20kg哑铃",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354756&amp;topic_name=AI%E5%9D%91%E5%81%A5%E8%BA%AB%E5%B0%8F%E7%99%BD%E4%B9%B020kg%E5%93%91%E9%93%83",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时51分 ~ 08时06分]"
         },
         {
           "title": "OpenAI在一份声明中针对美国佛罗里达州公诉人的指控表示，它已经为年轻用户制定了保障措施，包括“更具保护性的体验”以及允许父母监控孩子如何使用该工具的工具。 OpenAI表示：“人工智能是一项全新的、强大的技术，我们相信未成年人需要重大的保护，这就是为什么我们实施了行业领先的保护措施和政策。我们深知，仅仅指出这些工作并不能让逝去的孩子复生，但我们致力于将这项工作做好。”",
@@ -85,39 +120,41 @@
           "time_info": "03时51分"
         },
         {
-          "title": "英伟达掀桌，Windows 终于迎来真 AI PC",
-          "url": "https://wallstreetcn.com/articles/3773561",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时51分 ~ 06时30分]"
-        },
-        {
-          "title": "AI坑健身小白买20kg哑铃",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354756&amp;topic_name=AI%E5%9D%91%E5%81%A5%E8%BA%AB%E5%B0%8F%E7%99%BD%E4%B9%B020kg%E5%93%91%E9%93%83",
-          "source": "贴吧",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时51分 ~ 06时30分]"
-        },
-        {
           "title": "英伟达发布PC芯片 AI狂欢席卷全球市场 美股期指上涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2387523",
           "source": "财联社热门",
           "ranks": [
             8,
-            9
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时51分 ~ 08时06分]"
+        },
+        {
+          "title": "Anthropic抢跑IPO的先发优势将扩大其对OpenAI的领先地位",
+          "url": "https://wallstreetcn.com/livenews/3112665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时30分 ~ 08时06分]"
+        },
+        {
+          "title": "亚马逊已停止跟踪员工 Token 消耗榜单，你所在公司「为了用 AI 而用 AI」的情况严重吗？",
+          "url": "https://www.zhihu.com/question/2044719064757397392",
+          "source": "知乎",
+          "ranks": [
+            18,
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[03时51分 ~ 06时30分]"
+          "time_info": "[03时51分 ~ 08时06分]"
         },
         {
           "title": "亚马逊(AMZN.O)：OpenAI的GPT-5.5、GPT-5.4及Codex现已登陆Amazon Bedrock。",
@@ -126,7 +163,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
         },
@@ -164,13 +201,24 @@
           "time_info": "03时51分"
         },
         {
+          "title": "3家港股AI企业正在“回A”辅导，“A+H”持续扩容",
+          "url": "https://wallstreetcn.com/livenews/3112679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
           "title": "Alphabet(GOOG.O)：AI需求已超出公司现有供应能力。公司正面临来自企业和消费者对人工智能解决方案的强劲需求。",
           "url": "https://flash.jin10.com/detail/20260602050120532800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
         },
@@ -197,26 +245,26 @@
           "time_info": "03时51分"
         },
         {
-          "title": "亚马逊已停止跟踪员工 Token 消耗榜单，你所在公司「为了用 AI 而用 AI」的情况严重吗？",
-          "url": "https://www.zhihu.com/question/2044719064757397392",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时51分"
-        },
-        {
           "title": "伯克希尔对谷歌母公司投资100亿美元，加大对AI的押注",
           "url": "https://wallstreetcn.com/livenews/3112644",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
+        },
+        {
+          "title": "端侧AI驱动下一轮增长，国产存储芯片迎新机遇",
+          "url": "https://wallstreetcn.com/livenews/3112670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
         },
         {
           "title": "OpenAI创始人奥尔特曼：人们对人工智能感到焦虑是合理的。",
@@ -233,8 +281,20 @@
     },
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "韩国 SK 海力士工厂突发火灾，有哪些信息值得关注？公司市值刚突破 1 万亿美元，火灾会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2044805544947494930",
+          "source": "知乎",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时51分 ~ 08时06分]"
+        },
         {
           "title": "六神包装“撞脸”人民币引热议",
           "url": "https://www.toutiao.com/trending/7646392563909266990/",
@@ -248,16 +308,15 @@
           "time_info": "[03时51分 ~ 06时30分]"
         },
         {
-          "title": "韩国 SK 海力士工厂突发火灾，有哪些信息值得关注？公司市值刚突破 1 万亿美元，火灾会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2044805544947494930",
-          "source": "知乎",
+          "title": "六神包装“撞脸”人民币",
+          "url": "https://www.toutiao.com/trending/7646392563909266990/",
+          "source": "今日头条",
           "ranks": [
-            3,
-            1
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时51分 ~ 06时30分]"
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 08时06分]"
         },
         {
           "title": "美国参议院多数党领袖图恩：美国参议院将推进720亿美元的移民执法支出法案。",
@@ -286,11 +345,12 @@
           "url": "https://wallstreetcn.com/articles/3773528",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时51分 ~ 06时30分]"
+          "appearance_count": 5,
+          "time_info": "[03时51分 ~ 08时06分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7660元，较上周五夜盘收盘涨3点。成交量334.67亿美元。",
@@ -310,7 +370,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
         },
@@ -332,7 +392,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
         },
@@ -343,7 +403,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
         },
@@ -365,7 +425,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
         },
@@ -379,6 +439,153 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英伟达 台积电 AMD 高通",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "你看好英伟达即将发布的首款笔记本电脑 N1X 吗？",
+          "url": "https://www.zhihu.com/question/2044358497320562857",
+          "source": "知乎",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时51分 ~ 08时06分]"
+        },
+        {
+          "title": "美股收盘：三大指数均创收盘新高 英伟达领涨科技股",
+          "url": "https://www.cls.cn/detail/2387720",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 08时06分]"
+        },
+        {
+          "title": "周一（6月1日），美股信息科技指数涨3.20%，报450.89点，继续创收盘历史新高。 成分股中，MongoDB涨20.36%，Nebius集团涨14.46%，发行垃圾债融资的CoreWeave涨13.96%，Datadog涨12.19%，Cloudflare涨11.99%，戴尔科技涨10.70%，铿腾电子涨10.46%表现第七，Credo则收跌4.2%跌幅第四大，英特尔跌4.67%，Astera Lab跌6.64%，高通跌8.78%。",
+          "url": "https://wallstreetcn.com/livenews/3112689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "黄仁勋宣布英伟达正重新发明PC：意义不亚于智能手机的诞生",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33282044",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时51分 ~ 08时06分]"
+        },
+        {
+          "title": "英伟达市值一夜大增3190亿美元",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E5%A4%A7%E5%A2%9E3190%E4%BA%BF%E7%BE%8E%E5%85%83%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 08时06分]"
+        },
+        {
+          "title": "英伟达Computex 2026要点总结",
+          "url": "https://wallstreetcn.com/livenews/3112613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时51分"
+        },
+        {
+          "title": "英伟达收涨6.3%，市值增加3190亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3112633",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体 芯片 集成电路",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "英伟达GTC ：Vera Rubin全面量产，杀入PC芯片市场，携宇树布局机器人",
+          "url": "https://wallstreetcn.com/articles/3773548",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时51分 ~ 08时06分]"
+        },
+        {
+          "title": "【早报】全线大涨，美股芯片股批量创新高；特朗普：美伊或于“一周内”达成协议",
+          "url": "https://www.cls.cn/detail/2387748",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 08时06分]"
+        },
+        {
+          "title": "两大芯片巨头互攻",
+          "url": "https://www.toutiao.com/trending/7646324933521313323/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时51分 ~ 08时06分]"
+        },
+        {
+          "title": "美股收盘：芯片股多涨 英伟达涨超6%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E8%8A%AF%E7%89%87%E8%82%A1%E5%A4%9A%E6%B6%A8+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%B6%A8%E8%B6%856%25",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 08时06分]"
+        },
+        {
+          "title": "美股存储芯片指数收涨约3.5%，成分股美光涨超6.6%",
+          "url": "https://wallstreetcn.com/livenews/3112686",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
         }
       ]
     },
@@ -403,11 +610,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            11
+            11,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时51分 ~ 06时30分]"
+          "appearance_count": 5,
+          "time_info": "[03时51分 ~ 08时06分]"
         },
         {
           "title": "华为nova 16价格公布",
@@ -418,8 +626,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时51分 ~ 06时30分]"
+          "appearance_count": 5,
+          "time_info": "[03时51分 ~ 08时06分]"
         },
         {
           "title": "华为nova 16系列发布",
@@ -431,56 +639,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时29分 ~ 06时30分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英伟达 台积电 AMD 高通",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "你看好英伟达即将发布的首款笔记本电脑 N1X 吗？",
-          "url": "https://www.zhihu.com/question/2044358497320562857",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时51分 ~ 06时30分]"
-        },
-        {
-          "title": "黄仁勋宣布英伟达正重新发明PC：意义不亚于智能手机的诞生",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33282044",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时51分 ~ 06时30分]"
-        },
-        {
-          "title": "英伟达Computex 2026要点总结",
-          "url": "https://wallstreetcn.com/livenews/3112613",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时51分"
-        },
-        {
-          "title": "英伟达收涨6.3%，市值增加3190亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3112633",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时30分"
         }
       ]
     },
@@ -504,11 +662,12 @@
           "url": "https://www.toutiao.com/trending/7646185087121244166/",
           "source": "今日头条",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时29分 ~ 06时30分]"
+          "appearance_count": 4,
+          "time_info": "[06时29分 ~ 08时06分]"
         },
         {
           "title": "比亚迪5月销量38.35万辆",
@@ -524,30 +683,47 @@
       ]
     },
     {
-      "keyword_group": "半导体 芯片 集成电路",
+      "keyword_group": "央行 降息 降准 CPI 物价",
       "match_count": 2,
       "titles": [
         {
-          "title": "英伟达GTC ：Vera Rubin全面量产，杀入PC芯片市场，携宇树布局机器人",
-          "url": "https://wallstreetcn.com/articles/3773548",
-          "source": "华尔街见闻",
+          "title": "韩国5月CPI月率 0.5%，预期0.30%，前值0.50%。",
+          "url": "https://flash.jin10.com/detail/20260602070002186800",
+          "source": "金十数据",
           "ranks": [
-            1
+            27
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时51分 ~ 06时30分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
         },
         {
-          "title": "两大芯片巨头互攻",
-          "url": "https://www.toutiao.com/trending/7646324933521313323/",
-          "source": "今日头条",
+          "title": "韩国5月CPI年率 3.1%，预期3.00%，前值2.60%。",
+          "url": "https://flash.jin10.com/detail/20260602070002182800",
+          "source": "金十数据",
           "ranks": [
-            15
+            28
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时51分 ~ 06时30分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房地产 房价 楼市 LPR",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "一线楼市回暖进行时",
+          "url": "https://wallstreetcn.com/livenews/3112673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
         }
       ]
     },
@@ -562,7 +738,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
         }
@@ -596,7 +772,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
         }
