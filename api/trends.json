@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T05:16:44.513933+08:00",
-  "total_titles_processed": 452,
+  "generated_at": "2026-06-06T06:57:45.309959+08:00",
+  "total_titles_processed": 522,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 33,
+      "match_count": 36,
       "titles": [
         {
           "title": "在这件事上，特朗普宣布要花7亿美元",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时46分 ~ 05时16分]"
+          "appearance_count": 5,
+          "time_info": "[01时46分 ~ 06时57分]"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了5个对手方的7.61亿美元。",
@@ -28,28 +28,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
-        },
-        {
-          "title": "谷歌与SpaceX签署协议 计划以每月9.2亿美元的价格购买算力",
-          "url": "https://flash.jin10.com/detail/20260606042427126800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "美国银行存款从上周的19.285万亿美元上升至19.333万亿美元。",
-          "url": "https://flash.jin10.com/detail/20260606041804168800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时16分"
         },
         {
           "title": "周五（6月5日），美联储隔夜逆回购协议（RRP）使用规模为7.61亿美元（交易对手5家），上个交易日报11.22亿美元。",
@@ -80,9 +58,33 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "谷歌与SpaceX签署协议 计划以每月9.2亿美元的价格购买算力",
+          "url": "https://flash.jin10.com/detail/20260606042427126800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 06时57分]"
+        },
+        {
+          "title": "美国银行存款从上周的19.285万亿美元上升至19.333万亿美元。",
+          "url": "https://flash.jin10.com/detail/20260606041804168800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 06时57分]"
         },
         {
           "title": "现货白银日内跌幅达8.0%，报67.93美元/盎司。",
@@ -193,7 +195,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -226,7 +228,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -253,6 +255,17 @@
           "time_info": "03时31分"
         },
         {
+          "title": "美元指数5日上涨",
+          "url": "https://flash.jin10.com/detail/20260606052940978800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
+        },
+        {
           "title": "英镑/美元日内跌幅达0.5%，报1.3352。",
           "url": "https://wallstreetcn.com/livenews/3115258",
           "source": "华尔街见闻-快讯",
@@ -262,6 +275,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
+        },
+        {
+          "title": "渣打银行美洲区经济学家Dan Pan：这种“引爆级”的（美国非农就业）数据“让美国例外论的故事卷土重来”。 美国利率的飙升和美元的走强，给新兴市场的表现带来了沉重打击。",
+          "url": "https://wallstreetcn.com/livenews/3115355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
         },
         {
           "title": "商品货币澳元兑美元跌1%，刷新日低至0.7061。 纽元兑美元日内跌幅达1.0%，报0.5807。",
@@ -369,26 +393,38 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "周五（6月5日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.7907元，较周四纽约尾盘跌138点，日内整体交投于6.7648-6.7920元区间。",
+          "url": "https://wallstreetcn.com/livenews/3115346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
         }
       ]
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "罕见！“AI巨头”呼吁全球暂停AI开发，警告模型正逐步具备“自我升级”能力",
           "url": "https://wallstreetcn.com/articles/3773915",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时46分 ~ 05时16分]"
+          "appearance_count": 5,
+          "time_info": "[01时46分 ~ 06时57分]"
         },
         {
           "title": "AI交易降温，纳指走V仍收跌，道指创新高，博通大跌超12%，原油下挫，金银反弹",
@@ -399,8 +435,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时46分 ~ 05时16分]"
+          "appearance_count": 5,
+          "time_info": "[01时46分 ~ 06时57分]"
         },
         {
           "title": "非农大超预期，美债收益率全线拉升，纳指重挫3.2%，AI剧烈回调，WTI原油下跌3.3%",
@@ -437,17 +473,6 @@
           "time_info": "03时31分"
         },
         {
-          "title": "英媒：Meta拟通过股票发行筹集数百亿美元资金 以支持在AI领域的雄心",
-          "url": "https://flash.jin10.com/detail/20260606041131799800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
           "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
           "url": "https://wallstreetcn.com/articles/3773921",
           "source": "华尔街见闻",
@@ -455,30 +480,42 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时46分 ~ 05时16分]"
+          "appearance_count": 5,
+          "time_info": "[01时46分 ~ 06时57分]"
+        },
+        {
+          "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
+          "url": "https://www.cls.cn/detail/2392497",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
+        },
+        {
+          "title": "英媒：Meta拟通过股票发行筹集数百亿美元资金 以支持在AI领域的雄心",
+          "url": "https://flash.jin10.com/detail/20260606041131799800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时16分"
         },
         {
           "title": "【焦点复盘】沪指冲高回落失守半年线，TMT产业链遭深幅回调，物理AI概念逆势活跃",
           "url": "https://www.cls.cn/detail/2391959",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时46分 ~ 05时16分]"
-        },
-        {
-          "title": "Anthropic：高昂的计算成本是推动IPO的主因，呼吁全球暂缓前沿AI研发",
-          "url": "https://wallstreetcn.com/articles/3773907",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时46分 ~ 05时16分]"
+          "appearance_count": 5,
+          "time_info": "[01时46分 ~ 06时57分]"
         },
         {
           "title": "马上评｜该对AI外呼骚扰电话出手了",
@@ -486,11 +523,12 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时46分 ~ 05时16分]"
+          "appearance_count": 5,
+          "time_info": "[01时46分 ~ 06时57分]"
         },
         {
           "title": "严防作弊!高考期间AI搜题关停",
@@ -498,6 +536,17 @@
           "source": "贴吧",
           "ranks": [
             10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时46分 ~ 06时57分]"
+        },
+        {
+          "title": "Anthropic：高昂的计算成本是推动IPO的主因，呼吁全球暂缓前沿AI研发",
+          "url": "https://wallstreetcn.com/articles/3773907",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -544,7 +593,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -577,7 +626,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -588,7 +637,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         }
@@ -596,8 +645,19 @@
     },
     {
       "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
+          "url": "https://wallstreetcn.com/articles/3773946",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
+        },
         {
           "title": "纳斯达克100指数跌幅扩大至3.5%，半导体指数重挫超过8.1%。",
           "url": "https://wallstreetcn.com/livenews/3115269",
@@ -627,7 +687,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -660,7 +720,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -682,7 +742,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -693,7 +753,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -704,7 +764,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -723,7 +783,7 @@
     },
     {
       "keyword_group": "就业 裁员 招聘",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "炸裂！美国5月非农新增就业17.2万人，超过预期近一倍，失业率维持在4.3%",
@@ -733,8 +793,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时46分 ~ 05时16分]"
+          "appearance_count": 5,
+          "time_info": "[01时46分 ~ 06时57分]"
         },
         {
           "title": "美就业数据推动加息预期 金价承压并回吐年内涨幅",
@@ -748,13 +808,46 @@
           "time_info": "03时31分"
         },
         {
+          "title": "美国两年期国债收益率涨超10个基点，非农就业报告推高对美联储加息的预期",
+          "url": "https://wallstreetcn.com/livenews/3115365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
+        },
+        {
+          "title": "美国就业报告异常强劲，新兴市场货币应声暴跌",
+          "url": "https://wallstreetcn.com/livenews/3115362",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
+        },
+        {
+          "title": "美国总统特朗普夸赞就业数据。",
+          "url": "https://flash.jin10.com/detail/20260606053520855800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
+        },
+        {
           "title": "美国总统特朗普重申非农就业数据不错。",
           "url": "https://wallstreetcn.com/livenews/3115312",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -772,21 +865,48 @@
       ]
     },
     {
-      "keyword_group": "央行 降息 降准 CPI 物价",
+      "keyword_group": "基础设施 基建 地铁 高铁",
       "match_count": 3,
       "titles": [
         {
-          "title": "美非农大超预期打击降息前景 纳指期货盘前跌超1% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2392284",
-          "source": "财联社热门",
+          "title": "摩托车驾驶员为博流量飙到高铁速度，警方通报",
+          "url": "https://news.ifeng.com/c/8tiI3jf70vb",
+          "source": "凤凰网",
           "ranks": [
-            4,
-            5
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时46分 ~ 05时16分]"
+          "appearance_count": 5,
+          "time_info": "[01时46分 ~ 06时57分]"
         },
+        {
+          "title": "数字基础设施建设公司ITG Communications LLC.计划IPO，其支持者包括橡树资本。",
+          "url": "https://wallstreetcn.com/livenews/3115332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
+          "title": "阿波罗资管和黑石集团已为Anthropic敲定350亿美元的融资方案，用于扩建其AI基础设施。",
+          "url": "https://wallstreetcn.com/livenews/3115354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "央行 降息 降准 CPI 物价",
+      "match_count": 3,
+      "titles": [
         {
           "title": "美国5月非农延续“爆表”节奏 美联储降息选项被彻底扫下台面",
           "url": "https://www.cls.cn/detail/2392300",
@@ -796,8 +916,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时46分 ~ 05时16分]"
+          "appearance_count": 5,
+          "time_info": "[01时46分 ~ 06时57分]"
+        },
+        {
+          "title": "美非农大超预期打击降息前景 纳指期货盘前跌超1% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2392284",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时46分 ~ 06时57分]"
         },
         {
           "title": "英国央行行长贝利：英国的关键问题在于经济增长。",
@@ -813,34 +946,6 @@
       ]
     },
     {
-      "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "摩托车驾驶员为博流量飙到高铁速度，警方通报",
-          "url": "https://news.ifeng.com/c/8tiI3jf70vb",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时46分 ~ 05时16分]"
-        },
-        {
-          "title": "数字基础设施建设公司ITG Communications LLC.计划IPO，其支持者包括橡树资本。",
-          "url": "https://wallstreetcn.com/livenews/3115332",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
       "match_count": 2,
       "titles": [
@@ -852,8 +957,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时46分 ~ 05时16分]"
+          "appearance_count": 5,
+          "time_info": "[01时46分 ~ 06时57分]"
         },
         {
           "title": "美国股市延续跌势，纳指下跌3.00%；特斯拉(TSLA.O)日内跌超5%。",
@@ -888,6 +993,23 @@
       ]
     },
     {
+      "keyword_group": "新能源汽车 电动汽车 智能驾驶",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周五（6月5日），彭博电动汽车价格回报指数跌4.10%，报3776.20点，北京时间08:00开盘以来持续下挫，16:00-20:00（美国非农就业报告发布之前）持稳于3860点上方，本周累计下跌5.88%，6月3日08:00高开至4108.09点，随后持续走低。",
+          "url": "https://wallstreetcn.com/livenews/3115353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
+        }
+      ]
+    },
+    {
       "keyword_group": "英伟达 台积电 AMD 高通",
       "match_count": 1,
       "titles": [
@@ -901,6 +1023,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "考研 考公 国考",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国能源部长Wright：美国考虑在加州储备石油。 已尝试与加利福尼亚州州长纽森展开合作，从而应对该州面临的石油精炼困局（炼油瓶颈）。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3115364",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
         }
       ]
     },
@@ -935,8 +1074,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时46分 ~ 05时16分]"
+          "appearance_count": 5,
+          "time_info": "[01时46分 ~ 06时57分]"
         }
       ]
     }
