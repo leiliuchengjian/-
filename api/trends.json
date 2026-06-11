@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-12T02:02:23.153796+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-12T04:25:44.790324+08:00",
+  "total_titles_processed": 421,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 14,
+      "match_count": 26,
       "titles": [
+        {
+          "title": "特朗普威胁发动新袭击，美股高开，甲骨文跌12%，英特尔涨10%，油价走低，黄金重回4080美元",
+          "url": "https://wallstreetcn.com/articles/3774389",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时01分 ~ 04时25分]"
+        },
         {
           "title": "数据中心成本担忧加剧，甲骨文资本开支超预期，新财年计划融资翻倍至400亿美元，盘后大跌｜财报见闻",
           "url": "https://wallstreetcn.com/articles/3774364",
@@ -19,24 +31,13 @@
           "time_info": "[02时01分 ~ 02时02分]"
         },
         {
-          "title": "特朗普威胁发动新袭击，美股高开，甲骨文跌12%，英特尔涨10%，油价走低，黄金重回4080美元",
-          "url": "https://wallstreetcn.com/articles/3774389",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 02时02分]"
-        },
-        {
           "title": "巴西雷亚尔兑美元涨1.4%，创最近两个月最佳盘中表现，美国总统特朗普取消打击伊朗的计划，称即将宣布签署协议的时间和地点。",
           "url": "https://wallstreetcn.com/livenews/3118342",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
         },
@@ -47,9 +48,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "Adobe(ADBE.O)预计第三季度收入将为66.7亿美元至67.2亿美元，而此前预估为65.1亿美元。",
+          "url": "https://flash.jin10.com/detail/20260612040903427800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
         },
         {
           "title": "布伦特原油向下触及89美元/桶，日内跌5.06%。",
@@ -58,7 +70,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
         },
@@ -69,9 +81,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "SpaceX IPO定价为每股135美元，创史上最大规模IPO",
+          "url": "https://wallstreetcn.com/livenews/3118380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
         },
         {
           "title": "周四（6月11日），美联储隔夜逆回购协议（RRP）使用规模为4.60亿美元（交易对手3家），上个交易日报3.87亿美元。",
@@ -80,7 +103,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
         },
@@ -91,7 +114,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
         },
@@ -102,7 +125,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
         },
@@ -113,7 +136,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
         },
@@ -124,7 +147,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
         },
@@ -135,9 +158,31 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "澳元/美元日内涨幅达0.5%，报0.7038。",
+          "url": "https://wallstreetcn.com/livenews/3118371",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "SpaceX注册声明在6月11日宣布生效。 递交FWP文件，显示IPO股票发行价为每股135美元。",
+          "url": "https://wallstreetcn.com/livenews/3118370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
         },
         {
           "title": "据知情人士透露，SpaceX美国IPO散户认购金额已经突破1000亿美元。（彭博）",
@@ -146,9 +191,86 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "纽元/美元日内涨幅达0.5%，报0.5825。",
+          "url": "https://wallstreetcn.com/livenews/3118368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "现货黄金日内涨幅达2.5%，报4173.01美元/盎司。 纽约金日内涨幅达1.5%，报4195.6美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3118367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "美联储披露6-7月短期国债（T-Bill）购买计划。 将购买100亿美元债券用于储备金管理。 将购买165亿美元债券用于抵押贷款支持证券（MBS）再投资。",
+          "url": "https://wallstreetcn.com/livenews/3118365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7720元，较周三夜盘收盘涨18点。成交量327.61亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3118361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "墨西哥比索兑美元上涨接近1%，墨西哥主要股指上涨超过3%。",
+          "url": "https://flash.jin10.com/detail/20260612034714084800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "美国投资公司协会（ICI）：美国货币市场资产下降至7.87万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3118359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "WTI 7月原油期货收跌2.32美元，跌幅2.58报87.71美元/桶。 布伦特8月原油期货收跌2.72美元，跌幅2.92%，报90.38美元/桶。 中东Abu Dhabi Murban原油期货跌3.36%，报86.97美元/桶。 NYMEX 7月天然气期货收报3.0870美元/百万英热单位。 NYMEX 7月汽油期货收报3.1014美元/加仑，NYMEX 7月取暖油期货收报3.5131美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3118358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
         },
         {
           "title": "谷歌母公司Alphabet旗下无人驾驶部门Waymo面向出行请求频率最高的人员首发每个月30美元的订阅服务。",
@@ -157,15 +279,26 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "上期所原油期货2607合约夜盘收跌3.63%，报564.70元人民币/桶。 沪金夜盘收涨0.75%，沪银收涨2.41%。",
+          "url": "https://wallstreetcn.com/livenews/3118357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
         }
       ]
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "一份研报引爆AI硬件“惊魂时刻”，CPO和800VDC故事要改写？",
@@ -175,30 +308,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 02时02分]"
+          "appearance_count": 3,
+          "time_info": "[02时01分 ~ 04时25分]"
         },
         {
           "title": "补贴→Token计费→降价！OpenAI打响价格战，Token经济学拐点将至？",
           "url": "https://wallstreetcn.com/articles/3774400",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 02时02分]"
-        },
-        {
-          "title": "AI战略项目遇困之后，钉钉的“内忧”和“外患”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33352142",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 02时02分]"
+          "appearance_count": 3,
+          "time_info": "[02时01分 ~ 04时25分]"
         },
         {
           "title": "【焦点复盘】科创50缩量收涨0.62%，AI上游涨价概念多点开花，机器人、物理AI板块遭重挫",
@@ -208,52 +331,68 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 02时02分]"
+          "appearance_count": 3,
+          "time_info": "[02时01分 ~ 04时25分]"
+        },
+        {
+          "title": "AI战略项目遇困之后，钉钉的“内忧”和“外患”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33352142",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时01分 ~ 04时25分]"
         },
         {
           "title": "AI短片效果看到起鸡皮疙瘩了",
           "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E7%89%87%E6%95%88%E6%9E%9C%E7%9C%8B%E5%88%B0%E8%B5%B7%E9%B8%A1%E7%9A%AE%E7%96%99%E7%98%A9%E4%BA%86&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
-            6
+            6,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 02时02分]"
-        },
-        {
-          "title": "抖音AI创作大赛来了",
-          "url": "https://www.douyin.com/hot/2529851",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 02时02分]"
+          "appearance_count": 3,
+          "time_info": "[02时01分 ~ 04时25分]"
         },
         {
           "title": "如出一辙！又一则“数据中心停工”消息引爆美国AI股新一轮调整？",
           "url": "https://wallstreetcn.com/articles/3774376",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 02时02分]"
+          "appearance_count": 3,
+          "time_info": "[02时01分 ~ 04时25分]"
+        },
+        {
+          "title": "抖音AI创作大赛来了",
+          "url": "https://www.douyin.com/hot/2529851",
+          "source": "抖音",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时01分 ~ 04时25分]"
         },
         {
           "title": "AI冲击就业前景引发广泛讨论，专家热议“谁将真正受益于人机混合劳动力时代”？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33352580",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 02时02分]"
+          "appearance_count": 3,
+          "time_info": "[02时01分 ~ 04时25分]"
         },
         {
           "title": "超模女球迷爆火后出镜 自证不是AI",
@@ -263,8 +402,152 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 02时02分]"
+          "appearance_count": 3,
+          "time_info": "[02时01分 ~ 04时25分]"
+        },
+        {
+          "title": "华尔街激辩“Token经济学”：AI账单失控了吗？",
+          "url": "https://wallstreetcn.com/articles/3774382",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "UP主做了个AI谢苗",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%81%9A%E4%BA%86%E4%B8%AAAI%E8%B0%A2%E8%8B%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体 芯片 集成电路",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "周四（6月11日），美股行业ETF普遍收涨，半导体ETF收涨6.75%，全球航空业ETF涨6.31%，全球科技股指数ETF、科技行业ETF、生物科技指数ETF、可选消费ETF、银行业ETF、网络股指数ETF至多涨3.73%，能源业ETF跌1.96%。",
+          "url": "https://wallstreetcn.com/livenews/3118388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "【每日收评】创业板震荡调整跌超1%， 半导体材料持续爆发，小金属概念逆势活跃",
+          "url": "https://www.cls.cn/detail/2397208",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时01分 ~ 04时25分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收涨0.2%。 热门中概股里，日月光半导体初步收涨7.2%，网易涨0.2%，阿里跌1.5%。 CQQQ涨1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3118384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "美股半导体指数创2025年4月份以来最大单日涨幅",
+          "url": "https://wallstreetcn.com/livenews/3118382",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "【特朗普称美伊协议进入最后定稿阶段，有望本周末签署】道指狂暴超1000点，涨幅扩大至2%，标普500指数涨1.9%，纳指涨2.5%，纳斯达克100指数涨3.3%，半导体指数涨7.8%。 据央视报道，6月11日，美国总统特朗普就伊朗问题表示“达成了极好的协议”，并称相关文件已进入最后定稿阶段，未来几天内有望最终敲定，并即将签署。他还表示，协议可能在欧洲签署，时间可能在本周末，美国副总统万斯将出席。特朗普称，一旦伊朗方面签署协议，霍尔木兹海峡就会开放。伊朗方面对此暂无回应。",
+          "url": "https://wallstreetcn.com/livenews/3118377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "标普500指数涨幅扩大至2%，纳斯达克100指数涨3.5%，半导体指数涨7.8%。",
+          "url": "https://wallstreetcn.com/livenews/3118375",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "美国5-10年期国债收益率下跌10个基点，刷新日低。 标普500指数涨超1.6%，道指涨895点涨幅1.8%，纳指涨2.1%，纳斯达克100指数涨2.9%，生物科技指数涨3.1%，半导体指数涨6.8%。",
+          "url": "https://wallstreetcn.com/livenews/3118372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "央行 降息 降准 CPI 物价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "德债收益率至少跌4个基点，两年期收益率在欧洲央行宣布加息后反弹并一度刷新日高",
+          "url": "https://wallstreetcn.com/livenews/3118321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "野村：欧洲央行本周期将再加息三次，欧元将受到支撑",
+          "url": "https://wallstreetcn.com/livenews/3118363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "欧洲央行6月加息后，IMF称或需进一步加息",
+          "url": "https://wallstreetcn.com/livenews/3118313",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
         }
       ]
     },
@@ -280,19 +563,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 02时02分]"
+          "appearance_count": 3,
+          "time_info": "[02时01分 ~ 04时25分]"
         },
         {
           "title": "淘宝、京东、拼多多、抖音、小红书 5 家电商平台被约谈，具有哪些警示意义？还有哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2048363384991477880",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 02时02分]"
+          "appearance_count": 3,
+          "time_info": "[02时01分 ~ 04时25分]"
         },
         {
           "title": "不吃美国这套，韩国对美国电商处以创纪录罚款",
@@ -302,8 +586,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 02时02分]"
+          "appearance_count": 3,
+          "time_info": "[02时01分 ~ 04时25分]"
         }
       ]
     },
@@ -316,11 +600,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33358912",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 02时02分]"
+          "appearance_count": 3,
+          "time_info": "[02时01分 ~ 04时25分]"
         },
         {
           "title": "一口罚1000?香港地铁禁喝水",
@@ -330,36 +615,25 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 02时02分]"
+          "appearance_count": 3,
+          "time_info": "[02时01分 ~ 04时25分]"
         }
       ]
     },
     {
-      "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 2,
+      "keyword_group": "新能源汽车 电动汽车 智能驾驶",
+      "match_count": 1,
       "titles": [
         {
-          "title": "德债收益率至少跌4个基点，两年期收益率在欧洲央行宣布加息后反弹并一度刷新日高",
-          "url": "https://wallstreetcn.com/livenews/3118321",
+          "title": "周四（6月11日），彭博电动汽车价格回报指数涨1.16%，报3663.28点。 北京时间10:45，指数刷新日低至35688.91点，随后持续走高。",
+          "url": "https://wallstreetcn.com/livenews/3118385",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "欧洲央行6月加息后，IMF称或需进一步加息",
-          "url": "https://wallstreetcn.com/livenews/3118313",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时02分"
+          "time_info": "04时25分"
         }
       ]
     },
@@ -372,28 +646,12 @@
           "url": "https://www.zhihu.com/question/2048159787817375467",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 02时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【每日收评】创业板震荡调整跌超1%， 半导体材料持续爆发，小金属概念逆势活跃",
-          "url": "https://www.cls.cn/detail/2397208",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 02时02分]"
+          "appearance_count": 3,
+          "time_info": "[02时01分 ~ 04时25分]"
         }
       ]
     },
@@ -409,8 +667,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 02时02分]"
+          "appearance_count": 3,
+          "time_info": "[02时01分 ~ 04时25分]"
         }
       ]
     },
@@ -423,11 +681,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33331622",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 02时02分]"
+          "appearance_count": 3,
+          "time_info": "[02时01分 ~ 04时25分]"
         }
       ]
     }
