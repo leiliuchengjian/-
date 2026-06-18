@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-18T10:35:47.641240+08:00",
-  "total_titles_processed": 777,
+  "generated_at": "2026-06-18T15:26:10.136808+08:00",
+  "total_titles_processed": 982,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "必胜客被卖了，百胜中国 12 亿美元收购中国大陆品牌所有权，卖身原因有哪些？如何看待其中国市场前景？",
@@ -103,6 +103,17 @@
           "time_info": "[05时54分 ~ 07时16分]"
         },
         {
+          "title": "沃什“首秀”美联储放鹰，三大美股指转跌，美元拉升，美债黄金跳水",
+          "url": "https://wallstreetcn.com/articles/3774939",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时26分]"
+        },
+        {
           "title": "现货白银跌破67美元/盎司，日内跌4.32%。",
           "url": "https://flash.jin10.com/detail/20260618033904783800",
           "source": "金十数据",
@@ -131,7 +142,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -241,7 +252,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -285,7 +296,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -318,7 +329,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -351,7 +362,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         }
@@ -359,8 +370,33 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "一天涨出一个巴菲特！AI加持，马斯克身家涨到飞起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33333525",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            11,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时57分 ~ 15时26分]"
+        },
+        {
+          "title": "00后股民全仓AI股2个月赚30万",
+          "url": "https://s.weibo.com/weibo?q=00%E5%90%8E%E8%82%A1%E6%B0%91%E5%85%A8%E4%BB%93AI%E8%82%A12%E4%B8%AA%E6%9C%88%E8%B5%9A30%E4%B8%87&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时26分]"
+        },
         {
           "title": "悬在市场上空的“三大利空”：沃什“鹰鸽不明”，AI“武器化监管”，美股史上最大股票发行潮",
           "url": "https://wallstreetcn.com/articles/3774852",
@@ -394,7 +430,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -411,19 +447,6 @@
           "time_info": "[01时43分 ~ 07时16分]"
         },
         {
-          "title": "一天涨出一个巴菲特！AI加持，马斯克身家涨到飞起",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33333525",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时57分 ~ 10时35分]"
-        },
-        {
           "title": "【每日收评】科创50低开高走涨超4.5%，AI硬件反复活跃，半导体产业链再迎爆发",
           "url": "https://www.cls.cn/detail/2402436",
           "source": "财联社热门",
@@ -434,6 +457,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时43分 ~ 03时57分]"
+        },
+        {
+          "title": "为什么 AI 写的代码没人说有 AI 味儿，但是 AI 写的文章就一眼看出 AI 味儿？",
+          "url": "https://www.zhihu.com/question/14853864339",
+          "source": "知乎",
+          "ranks": [
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时35分 ~ 15时26分]"
+        },
+        {
+          "title": "黄金和AI：谁在见顶？",
+          "url": "https://wallstreetcn.com/articles/3774914",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时26分]"
         },
         {
           "title": "AI Agent 的核心技术是什么？",
@@ -493,13 +539,24 @@
           "time_info": "[01时43分 ~ 01时44分]"
         },
         {
+          "title": "端午和周星驰拍上AI食神大片了",
+          "url": "https://www.douyin.com/hot/2538982",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时26分]"
+        },
+        {
           "title": "国家发改委、人社部：适应人工智能发展促进就业创业 挖掘新兴领域吸纳就业潜能",
           "url": "https://flash.jin10.com/detail/20260618101636372800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -532,18 +589,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
-          "title": "为什么 AI 写的代码没人说有 AI 味儿，但是 AI 写的文章就一眼看出 AI 味儿？",
-          "url": "https://www.zhihu.com/question/14853864339",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -565,7 +611,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -579,6 +625,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
+        },
+        {
+          "title": "谷歌：我们认为欧盟的《云与人工智能发展法案》的某些条款应进行修改，以避免造成非预期的市场隔离。",
+          "url": "https://flash.jin10.com/detail/20260618150632520800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         },
         {
           "title": "据英国金融时报：Anthropic首席执行官呼吁G7领导人“抵制分裂人工智能的诱惑”。",
@@ -606,7 +663,7 @@
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 11,
+      "match_count": 19,
       "titles": [
         {
           "title": "美联储按兵不动但释放鹰派信号 年内利率变化预期由降息变加息",
@@ -618,8 +675,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时57分 ~ 10时35分]"
+          "appearance_count": 6,
+          "time_info": "[03时57分 ~ 15时26分]"
         },
         {
           "title": "宣布六项政策，央行行长潘功胜详解中国金融结构变迁和金融市场现代化",
@@ -653,9 +710,42 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
+        },
+        {
+          "title": "印尼央行行长：已加大货币干预力度以捍卫印尼盾。我们已提高印尼银行证券（SRBI）利率以吸引外资流入。",
+          "url": "https://flash.jin10.com/detail/20260618151251798800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "菲律宾央行行长：如有需要，随时可召开临时会议，进行更大幅度的加息。",
+          "url": "https://flash.jin10.com/detail/20260618151236834800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "印尼央行行长：印尼盾已走强，得益于印尼央行的稳定措施。",
+          "url": "https://flash.jin10.com/detail/20260618151223235800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         },
         {
           "title": "被问及是否讨论过降息 沃什称“桌面上只有一个提案”",
@@ -675,7 +765,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -691,6 +781,17 @@
           "time_info": "07时16分"
         },
         {
+          "title": "印尼央行行长：2026年经常账户赤字预计为GDP的1.3%至0.5%，保持不变。",
+          "url": "https://flash.jin10.com/detail/20260618151030896800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
           "title": "周三（6月17日），美股降息赢家指数跌2.29%，报93.60点，彭博数据显示，北京时间21:51（美股盘初）曾瞬间跳水至零，02:00美联储决议声明发布后转跌。",
           "url": "https://wallstreetcn.com/livenews/3121251",
           "source": "华尔街见闻-快讯",
@@ -700,6 +801,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时54分"
+        },
+        {
+          "title": "菲律宾央行再次上调基准利率 以抑制伊朗战争引发的通胀",
+          "url": "https://wallstreetcn.com/livenews/3121474",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "印尼央行行长：2026年GDP展望预计在4.9%至5.7%区间，保持不变。需要加强国际收支。",
+          "url": "https://flash.jin10.com/detail/20260618150854486800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         },
         {
           "title": "美联储启动改革：沃什拟设立五大工作组重塑央行框架",
@@ -724,130 +847,35 @@
           "time_info": "07时16分"
         },
         {
+          "title": "菲律宾央行关键利率上调25基点至4.750%，符合预期。",
+          "url": "https://wallstreetcn.com/livenews/3121465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "印尼央行行长：中东战争导致的全球不确定性依然很高，即使美伊达成协议。",
+          "url": "https://flash.jin10.com/detail/20260618150423871800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
           "title": "中金：维持美联储年内不加息、不降息的判断 但提示明年加息风险上升",
           "url": "https://wallstreetcn.com/livenews/3121324",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 iPhone",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "苹果将涨价",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%B0%86%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
-          "title": "库克：因内存芯片短缺，苹果将涨价",
-          "url": "https://flash.jin10.com/detail/20260618051323211800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时54分"
-        },
-        {
-          "title": "库克：苹果将因存储芯片供应问题而涨价",
-          "url": "https://wallstreetcn.com/livenews/3121261",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时54分 ~ 07时16分]"
-        },
-        {
-          "title": "苹果(AAPL.O)美股盘后小幅拉升，现涨0.7%。",
-          "url": "https://flash.jin10.com/detail/20260618050254137800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时54分"
-        },
-        {
-          "title": "库克：苹果将涨价",
-          "url": "https://flash.jin10.com/detail/20260618050150293800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时54分"
-        },
-        {
-          "title": "苹果库克称“涨价已无法避免” 刚果（金）收获队史世界杯首球和首分 | 环球市场",
-          "url": "https://www.cls.cn/detail/2403039",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
-          "title": "苹果(AAPL.O)正在为2027年春季发布第二代iPhone Air做准备。iPhone Air原型机将配备第二后置摄像头并升级电池。",
-          "url": "https://flash.jin10.com/detail/20260618035839383800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时54分"
-        },
-        {
-          "title": "苹果筹备第二代iPhone Air，预计2027年春季推出",
-          "url": "https://wallstreetcn.com/livenews/3121243",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时54分"
-        },
-        {
-          "title": "iPhone18Pro或涨270美元",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E6%88%96%E6%B6%A8270%E7%BE%8E%E5%85%83%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
-          "title": "库克：苹果产品将涨价",
-          "url": "https://www.baidu.com/s?wd=%E5%BA%93%E5%85%8B%EF%BC%9A%E8%8B%B9%E6%9E%9C%E4%BA%A7%E5%93%81%E5%B0%86%E6%B6%A8%E4%BB%B7",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "10时35分"
         }
@@ -855,7 +883,7 @@
     },
     {
       "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 10,
+      "match_count": 15,
       "titles": [
         {
           "title": "美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫",
@@ -867,8 +895,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时54分 ~ 10时35分]"
+          "appearance_count": 5,
+          "time_info": "[05时54分 ~ 15时26分]"
         },
         {
           "title": "市场静待沃什首秀，美股指走高，半导体股多数上涨，SpaceX跌幅扩大至4%，油价涨1%",
@@ -903,7 +931,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -921,15 +949,59 @@
           "time_info": "[01时43分 ~ 07时16分]"
         },
         {
+          "title": "最强芯片液冷技术！无需特种散热材料 冷却性能达此前纪录10倍",
+          "url": "https://www.cls.cn/detail/2403131",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时26分]"
+        },
+        {
+          "title": "存储芯片疯狂涨价",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E7%96%AF%E7%8B%82%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时26分]"
+        },
+        {
+          "title": "存储芯片疯狂涨价",
+          "url": "https://www.baidu.com/s?wd=%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E7%96%AF%E7%8B%82%E6%B6%A8%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时26分]"
+        },
+        {
           "title": "A股半导体设备股早盘拉升，晶升股份触及20cm涨停，屹唐股份、恒运昌、金海通、盛美上海、华亚智能跟涨。",
           "url": "https://wallstreetcn.com/livenews/3121348",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
+        },
+        {
+          "title": "A股收盘：创业板指、科创50均创历史新高，半导体、算力硬件股持续走强",
+          "url": "https://wallstreetcn.com/livenews/3121489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         },
         {
           "title": "周三（6月17日），美股存储芯片与硬件供应链指数涨1.78%，报250.51点，过半交易时间持稳于256点附近，北京时间02:00美联储披露经济预期概要（SEP）之后显著回吐涨幅，美联储主席沃什新闻发布会开始后一度冲高至260点上方刷新日高。 成分股西部数据涨超4.5%，应用材料涨超4.3%，希捷科技、美光科技、拉姆研究至少涨超1%，闪迪、Rambus则跌超1%。",
@@ -971,15 +1043,194 @@
           "ranks": [
             24
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "金十图示：2026年06月18日（周四）富时中国A50指数成分股今日收盘行情一览：多数板块下跌，半导体、通信设备、消费电子表现强势。",
+          "url": "https://flash.jin10.com/detail/20260618150337905800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 iPhone",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "苹果将涨价",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%B0%86%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "库克：因内存芯片短缺，苹果将涨价",
+          "url": "https://flash.jin10.com/detail/20260618051323211800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
+          "title": "苹果库克称“涨价已无法避免” 刚果（金）收获队史世界杯首球和首分 | 环球市场",
+          "url": "https://www.cls.cn/detail/2403039",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时35分 ~ 15时26分]"
+        },
+        {
+          "title": "库克：苹果将因存储芯片供应问题而涨价",
+          "url": "https://wallstreetcn.com/livenews/3121261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时54分 ~ 07时16分]"
+        },
+        {
+          "title": "苹果(AAPL.O)美股盘后小幅拉升，现涨0.7%。",
+          "url": "https://flash.jin10.com/detail/20260618050254137800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
+          "title": "库克：苹果将涨价",
+          "url": "https://flash.jin10.com/detail/20260618050150293800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
+          "title": "苹果(AAPL.O)正在为2027年春季发布第二代iPhone Air做准备。iPhone Air原型机将配备第二后置摄像头并升级电池。",
+          "url": "https://flash.jin10.com/detail/20260618035839383800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
+          "title": "苹果筹备第二代iPhone Air，预计2027年春季推出",
+          "url": "https://wallstreetcn.com/livenews/3121243",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
+          "title": "iPhone18Pro或涨270美元",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E6%88%96%E6%B6%A8270%E7%BE%8E%E5%85%83%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "库克：苹果产品将涨价",
+          "url": "https://www.baidu.com/s?wd=%E5%BA%93%E5%85%8B%EF%BC%9A%E8%8B%B9%E6%9E%9C%E4%BA%A7%E5%93%81%E5%B0%86%E6%B6%A8%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         }
       ]
     },
     {
+      "keyword_group": "创业板",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "创业板指快速拉升涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3121346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "上证指数收报4090.48点，跌0.43%。 深证成指收报16030.70点，涨0.94%。 创业板指收报4252.39点，涨2.05%。 沪深300收报4941.60点，涨0.21%。 科创50收报1911.51点，涨3.84%。 中证500收报8673.09点，涨0.53%。 中证1000收报8771.02点，涨0.76%。",
+          "url": "https://wallstreetcn.com/livenews/3121487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "上证指数开盘报4094.23点，跌0.34%。 深证成指开盘报15826.79点，跌0.34%。 创业板指开盘报4153.62点，跌0.32%。 沪深300开盘报4916.04点，跌0.31%。 科创50开盘报1837.07点，跌0.20%。 中证500开盘报8590.50点，跌0.42%。 中证1000开盘报8666.64点，跌0.43%。",
+          "url": "https://wallstreetcn.com/livenews/3121340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "中国上证综指6月18日（周四）收盘下跌17.59点，跌幅：0.43%，报4090.48点；<br/>中国深证成指6月18日（周四）收盘上涨149.75点，涨幅：0.94%，报16030.7点；<br/>中国沪深300指数6月18日（周四）收盘上涨10.21点，涨幅：0.21%，报4941.6点；<br/>中国创业板指数6月18日（周四）收盘上涨85.34点，涨幅：2.05%，报4252.39点；<br/>中国科创50指数6月18日（周四）收盘上涨70.69点，涨幅：3.84%，报1911.51点。",
+          "url": "https://flash.jin10.com/detail/20260618150230803800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        }
+      ]
+    },
+    {
       "keyword_group": "就业 裁员 招聘",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "未来五年就业优先这样干",
@@ -1013,12 +1264,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时57分"
+        },
+        {
+          "title": "英国4月三个月ILO就业人数变动 10万人，预期 7.3万人，前值 14.8万人。",
+          "url": "https://wallstreetcn.com/livenews/3121455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         }
       ]
     },
     {
       "keyword_group": "华为 小米 荣耀",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "小米高管称数字抽真空会成为趋势，格力称空调不行抽多久真空也白扯，如何看待双方观点？双方到底在争什么？",
@@ -1034,6 +1296,17 @@
           "time_info": "[01时43分 ~ 10时35分]"
         },
         {
+          "title": "小米称西安警方侦破 AI 造谣刑案，4 人被刑拘，利用 AI 造谣将面临哪些法律责任？",
+          "url": "https://www.zhihu.com/question/2050636227766964582",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时26分]"
+        },
+        {
           "title": "《黑暗荣耀 2》中河道英明知道女儿不是自己的，为什么还视如己出？",
           "url": "https://www.zhihu.com/question/589113454",
           "source": "知乎",
@@ -1047,8 +1320,47 @@
       ]
     },
     {
+      "keyword_group": "新能源汽车 电动汽车 智能驾驶",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "我国将启动2026年新能源汽车下乡",
+          "url": "https://www.toutiao.com/trending/7652589530977517610/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时26分]"
+        },
+        {
+          "title": "周三（6月17日），彭博电动汽车价格回报指数跌0.84%，报3797.43点。",
+          "url": "https://wallstreetcn.com/livenews/3121249",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
+          "title": "五部门组织开展2026年新能源汽车下乡活动",
+          "url": "https://wallstreetcn.com/livenews/3121464",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "比亚迪大唐23.99万起上市",
@@ -1060,6 +1372,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时43分 ~ 01时44分]"
+        },
+        {
+          "title": "蔚来四平台超70万用户同步升级",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%94%9A%E6%9D%A5%E5%9B%9B%E5%B9%B3%E5%8F%B0%E8%B6%8570%E4%B8%87%E7%94%A8%E6%88%B7%E5%90%8C%E6%AD%A5%E5%8D%87%E7%BA%A7%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时26分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌1.14%，报6122.30点。 热门中概股里，理想跌3.4%，阿里跌3.1%，蔚来涨0.2%，日月光半导体涨2%。 ETF中，中概互联网指数ETF（KWEB）收跌1.93%，中国科技指数ETF（CQQQ）收涨1.72%。 MSCI新兴市场ex中国ETF（EMXC）收涨0.35%，德银嘉实沪深300指数ETF（ASHR）收跌0.08%，XtrackersHarvest中证50（ASHS）收涨0.31%。",
@@ -1075,37 +1398,20 @@
       ]
     },
     {
-      "keyword_group": "创业板",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "创业板指快速拉升涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3121346",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
-          "title": "上证指数开盘报4094.23点，跌0.34%。 深证成指开盘报15826.79点，跌0.34%。 创业板指开盘报4153.62点，跌0.32%。 沪深300开盘报4916.04点，跌0.31%。 科创50开盘报1837.07点，跌0.20%。 中证500开盘报8590.50点，跌0.42%。 中证1000开盘报8666.64点，跌0.43%。",
-          "url": "https://wallstreetcn.com/livenews/3121340",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        }
-      ]
-    },
-    {
       "keyword_group": "大学生 毕业生",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "如何评价北京体育大学被指在中国大学生排球联赛总决赛中举眩晕板、打错对方大学名称、吹喇叭等一系列行为？",
+          "url": "https://www.zhihu.com/question/2050363944313869571",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时26分]"
+        },
         {
           "title": "女大学生遭已婚男欺骗后坠亡，法院判赔37万，男子至今未履行",
           "url": "https://news.ifeng.com/c/8u3AtJ60oop",
@@ -1113,7 +1419,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -1127,6 +1433,37 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "基础设施 基建 地铁 高铁",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "地铁变卧室,大爷吊床薅冷气",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355212&amp;topic_name=%E5%9C%B0%E9%93%81%E5%8F%98%E5%8D%A7%E5%AE%A4%2C%E5%A4%A7%E7%88%B7%E5%90%8A%E5%BA%8A%E8%96%85%E5%86%B7%E6%B0%94",
+          "source": "贴吧",
+          "ranks": [
+            27,
+            28,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时43分 ~ 10时35分]"
+        },
+        {
+          "title": "警方辟谣上海地铁顶部大面积坠落",
+          "url": "https://www.douyin.com/hot/2539314",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时26分]"
         }
       ]
     },
@@ -1157,43 +1494,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "地铁变卧室,大爷吊床薅冷气",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355212&amp;topic_name=%E5%9C%B0%E9%93%81%E5%8F%98%E5%8D%A7%E5%AE%A4%2C%E5%A4%A7%E7%88%B7%E5%90%8A%E5%BA%8A%E8%96%85%E5%86%B7%E6%B0%94",
-          "source": "贴吧",
-          "ranks": [
-            27,
-            28,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时43分 ~ 10时35分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源汽车 电动汽车 智能驾驶",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周三（6月17日），彭博电动汽车价格回报指数跌0.84%，报3797.43点。",
-          "url": "https://wallstreetcn.com/livenews/3121249",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1246,11 +1546,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33402371",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时35分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时35分 ~ 15时26分]"
         }
       ]
     },
