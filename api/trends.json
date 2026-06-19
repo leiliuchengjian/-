@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-19T07:44:15.548999+08:00",
-  "total_titles_processed": 514,
+  "generated_at": "2026-06-19T08:20:06.100280+08:00",
+  "total_titles_processed": 578,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "周四（6月18日）纽约尾盘，彭博谷物分类指数跌0.92%，报29.7383点。 CBOT玉米期货跌1%，CBOT小麦期货跌跌1.19%。 CBOT大豆期货跌0.63%，报11.42美元/蒲式耳，豆粕期货跌0.88%，豆油期货跌1.75%。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
+        },
+        {
+          "title": "现货黄金盘初持续走低，跌破4190美元/盎司，日内跌0.45%。",
+          "url": "https://flash.jin10.com/detail/20260619074543721800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时20分"
         },
         {
           "title": "美元指数创13个月新高，两天涨超1.3%",
@@ -54,6 +65,18 @@
           "time_info": "[02时14分 ~ 04时10分]"
         },
         {
+          "title": "现货黄金短线回落至4200美元/盎司下方，日内跌0.21%。",
+          "url": "https://flash.jin10.com/detail/20260619070341696800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时44分 ~ 08时20分]"
+        },
+        {
           "title": "美国财政部拍卖240亿美元五年期通胀保值国债（TIPS），得标利率1.955%——创2024年12月以来新高，投标倍数2.61。",
           "url": "https://wallstreetcn.com/livenews/3121843",
           "source": "华尔街见闻-快讯",
@@ -75,17 +98,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
-        },
-        {
-          "title": "现货黄金短线回落至4200美元/盎司下方，日内跌0.21%。",
-          "url": "https://flash.jin10.com/detail/20260619070341696800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时44分"
         },
         {
           "title": "美元兑日元USD/JPY短线一度下挫约80点至160.94，现回升至161.53。",
@@ -270,7 +282,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -288,8 +300,225 @@
       ]
     },
     {
+      "keyword_group": "央行 降息 降准 CPI 物价",
+      "match_count": 19,
+      "titles": [
+        {
+          "title": "日本央行副行长冰见野良三：日本经济正在温和复苏。",
+          "url": "https://wallstreetcn.com/livenews/3121939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时20分"
+        },
+        {
+          "title": "欧洲央行管委艾斯克里瓦：关于工资的第二轮效应尚未显现。",
+          "url": "https://flash.jin10.com/detail/20260619014321355800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时14分"
+        },
+        {
+          "title": "日本央行会议纪要：多位成员表示需要更多时间确认中东局势对日本经济和物价的影响。",
+          "url": "https://flash.jin10.com/detail/20260619075134973800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时20分"
+        },
+        {
+          "title": "日本央行4月27-28日货币政策会议纪要：委员们称，将继续加息，以应对经济和物价进展。 委员们称，密切关注中东局势的影响，权衡利率调整步伐。 一位委员表示，日本央行应维持宽松的货币政策，如果日本面临严重的供应链中断，应避免加息。 一位委员表示，日本央行在货币政策中不以汇率为目标，汇率应由市场决定。 内阁办公室代表表示，日本央行必须引导适当的货币政策，以确保日本经济强劲增长，物价稳定，希望日本央行按照与政府的联合声明指导政策。",
+          "url": "https://wallstreetcn.com/livenews/3121937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时20分"
+        },
+        {
+          "title": "欧洲央行管委艾斯克里瓦：关于工资方面的第二轮效应存在不确定性。",
+          "url": "https://flash.jin10.com/detail/20260619014254632800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时14分"
+        },
+        {
+          "title": "日本5月CPI(除生鲜食品及能源)同比 1.8%，预期 1.8%，前值 1.9%。",
+          "url": "https://wallstreetcn.com/livenews/3121936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时20分"
+        },
+        {
+          "title": "欧洲央行管委艾斯克里瓦：油价及通胀传导存在不确定性。",
+          "url": "https://flash.jin10.com/detail/20260619014238359800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时14分"
+        },
+        {
+          "title": "日本5月核心-核心CPI增速为自2022年9月以来最慢。",
+          "url": "https://flash.jin10.com/detail/20260619073458350800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时20分"
+        },
+        {
+          "title": "日本5月CPI(除生鲜食品)同比 1.4%，预期 1.4%，前值 1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3121935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时20分"
+        },
+        {
+          "title": "日本5月核心CPI年率将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260619072000001800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时44分 ~ 08时20分]"
+        },
+        {
+          "title": "欧洲央行管委Escriva：能源成本蔓延至服务业、交通领域。",
+          "url": "https://wallstreetcn.com/livenews/3121848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时14分 ~ 04时10分]"
+        },
+        {
+          "title": "欧洲央行管委艾斯克里瓦：基线情景存在相当大的不确定性。",
+          "url": "https://flash.jin10.com/detail/20260619013905187800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时14分"
+        },
+        {
+          "title": "日本5月全国未季调CPI月率 0.5%，前值0.3%。",
+          "url": "https://flash.jin10.com/detail/20260619073128476800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时20分"
+        },
+        {
+          "title": "日本5月CPI同比 1.5%，预期 1.5%，前值 1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3121934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时20分"
+        },
+        {
+          "title": "欧洲央行管委艾斯克里瓦：石油生产恢复需要多长时间尚不明确。",
+          "url": "https://flash.jin10.com/detail/20260619013856127800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时14分"
+        },
+        {
+          "title": "日本5月全国CPI年率 1.5%，预期1.50%，前值1.40%。",
+          "url": "https://flash.jin10.com/detail/20260619073002778800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时20分"
+        },
+        {
+          "title": "日本5月核心CPI年率 1.4%，预期1.40%，前值1.40%。",
+          "url": "https://flash.jin10.com/detail/20260619073002769800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时20分"
+        },
+        {
+          "title": "欧洲央行管委艾斯克里瓦：能源成本上涨正传导至服务业与交通运输行业。",
+          "url": "https://flash.jin10.com/detail/20260619011829005800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时14分"
+        },
+        {
+          "title": "英国两年期国债收益率在央行决议日涨约3个基点",
+          "url": "https://wallstreetcn.com/livenews/3121831",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时14分"
+        }
+      ]
+    },
+    {
       "keyword_group": "人工智能 AI",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "让AI走进千家万户",
@@ -299,30 +528,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时14分 ~ 07时44分]"
-        },
-        {
-          "title": "“AI教父”最新警告：马斯克的xAI已经“失败了”，AI行业或迎“泡沫大爆炸”",
-          "url": "https://wallstreetcn.com/articles/3775029",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时43分 ~ 07时44分]"
-        },
-        {
-          "title": "当微软都烧不起Token了，“模型路由”成为企业AI的“核心需求”",
-          "url": "https://wallstreetcn.com/articles/3774993",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时43分 ~ 07时44分]"
+          "appearance_count": 7,
+          "time_info": "[02时14分 ~ 08时20分]"
         },
         {
           "title": "如何看待「豆包日活超 2 亿，日收入却不足百万」？免费 AI 市场下，付费模式该如何落地？",
@@ -331,11 +538,48 @@
           "ranks": [
             13,
             9,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时14分 ~ 07时44分]"
+          "appearance_count": 7,
+          "time_info": "[02时14分 ~ 08时20分]"
+        },
+        {
+          "title": "“AI教父”最新警告：马斯克的xAI已经“失败了”，AI行业或迎“泡沫大爆炸”",
+          "url": "https://wallstreetcn.com/articles/3775029",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时43分 ~ 08时20分]"
+        },
+        {
+          "title": "当微软都烧不起Token了，“模型路由”成为企业AI的“核心需求”",
+          "url": "https://wallstreetcn.com/articles/3774993",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时43分 ~ 08时20分]"
+        },
+        {
+          "title": "【每日收评】科创50放量涨近4%，AI硬件与半导体持续火爆，多只科技权重续创历史新高",
+          "url": "https://www.cls.cn/detail/2403645",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时14分 ~ 08时20分]"
         },
         {
           "title": "商务部等八部门发布《关于加快“人工智能+消费”发展的实施意见》",
@@ -360,18 +604,6 @@
           "time_info": "02时14分"
         },
         {
-          "title": "【每日收评】科创50放量涨近4%，AI硬件与半导体持续火爆，多只科技权重续创历史新高",
-          "url": "https://www.cls.cn/detail/2403645",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时14分 ~ 07时44分]"
-        },
-        {
           "title": "“AI教父”杨立昆：马斯克的xAI已成失败案例 行业或面临巨大泡沫破裂",
           "url": "https://www.cls.cn/detail/2404033",
           "source": "财联社热门",
@@ -380,8 +612,20 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时09分 ~ 08时20分]"
+        },
+        {
+          "title": "72家公司一夜集体预警：A股AI炒作到了哪个阶段？",
+          "url": "https://wallstreetcn.com/articles/3775010",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[04时09分 ~ 07时44分]"
+          "time_info": "[07时43分 ~ 08时20分]"
         },
         {
           "title": "5月证券APP月活1.82亿，月活增速谁最强？新一轮卡位在AI Skill",
@@ -396,17 +640,6 @@
           "time_info": "[02时14分 ~ 04时10分]"
         },
         {
-          "title": "72家公司一夜集体预警：A股AI炒作到了哪个阶段？",
-          "url": "https://wallstreetcn.com/articles/3775010",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时43分 ~ 07时44分]"
-        },
-        {
           "title": "Alphabet、Visa等公司释放加强AI监管信号",
           "url": "https://wallstreetcn.com/livenews/3121845",
           "source": "华尔街见闻-快讯",
@@ -419,15 +652,27 @@
           "time_info": "[02时14分 ~ 04时10分]"
         },
         {
+          "title": "智谱与MiniMax两级分化！市场出现AI大模型“多空配对交易”",
+          "url": "https://wallstreetcn.com/articles/3775011",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时19分 ~ 08时20分]"
+        },
+        {
           "title": "周四（6月18日），美股人工智能（AI）赢家指数涨4.57%，报457.59点，时隔一个交易日再创收盘历史新高。 成分股中，Bloom能源收涨15.41%，闪迪、Astera Labs、康宁公司、超微电脑涨11.54%-10.37%紧随其后，微软涨0.13%涨幅最小，天弘股份跌2.06%跌幅第三大，Lumentum跌2.30%，戴尔科技跌2.34%。",
           "url": "https://wallstreetcn.com/livenews/3121914",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            16,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时44分 ~ 08时20分]"
         },
         {
           "title": "AI巨头为啥在这个时间窗口集体上市",
@@ -458,115 +703,9 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "日本5月核心CPI年率将于十分钟后公布。",
-          "url": "https://flash.jin10.com/detail/20260619072000001800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时44分"
-        },
-        {
-          "title": "欧洲央行管委艾斯克里瓦：关于工资的第二轮效应尚未显现。",
-          "url": "https://flash.jin10.com/detail/20260619014321355800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时14分"
-        },
-        {
-          "title": "欧洲央行管委艾斯克里瓦：关于工资方面的第二轮效应存在不确定性。",
-          "url": "https://flash.jin10.com/detail/20260619014254632800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时14分"
-        },
-        {
-          "title": "欧洲央行管委艾斯克里瓦：油价及通胀传导存在不确定性。",
-          "url": "https://flash.jin10.com/detail/20260619014238359800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时14分"
-        },
-        {
-          "title": "欧洲央行管委Escriva：能源成本蔓延至服务业、交通领域。",
-          "url": "https://wallstreetcn.com/livenews/3121848",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时14分 ~ 04时10分]"
-        },
-        {
-          "title": "欧洲央行管委艾斯克里瓦：基线情景存在相当大的不确定性。",
-          "url": "https://flash.jin10.com/detail/20260619013905187800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时14分"
-        },
-        {
-          "title": "欧洲央行管委艾斯克里瓦：石油生产恢复需要多长时间尚不明确。",
-          "url": "https://flash.jin10.com/detail/20260619013856127800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时14分"
-        },
-        {
-          "title": "欧洲央行管委艾斯克里瓦：能源成本上涨正传导至服务业与交通运输行业。",
-          "url": "https://flash.jin10.com/detail/20260619011829005800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时14分"
-        },
-        {
-          "title": "英国两年期国债收益率在央行决议日涨约3个基点",
-          "url": "https://wallstreetcn.com/livenews/3121831",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时14分"
         }
       ]
     },
@@ -574,6 +713,29 @@
       "keyword_group": "半导体 芯片 集成电路",
       "match_count": 6,
       "titles": [
+        {
+          "title": "霍尔木兹海峡重开提振股债，半导体指数收创新高，原油走V，美元两连涨，黄金承压",
+          "url": "https://wallstreetcn.com/articles/3774963",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时43分 ~ 08时20分]"
+        },
+        {
+          "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
+          "url": "https://www.cls.cn/detail/2404196",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时43分 ~ 08时20分]"
+        },
         {
           "title": "美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫",
           "url": "https://wallstreetcn.com/articles/3774887",
@@ -597,37 +759,16 @@
           "time_info": "[02时14分 ~ 04时10分]"
         },
         {
-          "title": "霍尔木兹海峡重开提振股债，半导体指数收创新高，原油走V，美元两连涨，黄金承压",
-          "url": "https://wallstreetcn.com/articles/3774963",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时43分 ~ 07时44分]"
-        },
-        {
-          "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
-          "url": "https://www.cls.cn/detail/2404196",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时43分 ~ 07时44分]"
-        },
-        {
           "title": "【早报】芯片股暴涨；伊朗推迟赴瑞士行程；瑞士4-1波黑",
           "url": "https://www.cls.cn/detail/2404187",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时43分 ~ 07时44分]"
+          "appearance_count": 4,
+          "time_info": "[07时43分 ~ 08时20分]"
         },
         {
           "title": "周四（6月18日），美股存储芯片与硬件供应链指数涨6.29%，报266.26点，突破6月15日所创收盘历史最高位253.05点。 成分股全面上涨，闪迪收涨11.54%，时隔两个交易日再创收盘历史新高；美光科技涨8.70%，时隔两天再创收盘历史新高；Rambus涨8.51%，泰瑞达涨7.19%，西部数据涨4.79%，连续四天创收盘历史新高，6月11日以来累计上涨52.27%；应用材料涨4.08%，拉姆研究涨3.97%，希捷科技涨0.39%，也连续四天创新高。",
@@ -636,7 +777,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         }
@@ -652,11 +793,12 @@
           "source": "抖音",
           "ranks": [
             8,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时14分 ~ 07时44分]"
+          "appearance_count": 7,
+          "time_info": "[02时14分 ~ 08时20分]"
         },
         {
           "title": "我国将启动2026年新能源汽车下乡",
@@ -667,15 +809,56 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时09分 ~ 07时44分]"
+          "appearance_count": 6,
+          "time_info": "[04时09分 ~ 08时20分]"
         },
         {
           "title": "2026新能源汽车下乡车型目录公布",
           "url": "https://www.douyin.com/hot/2539912",
           "source": "抖音",
           "ranks": [
-            12
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时43分 ~ 08时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大学生 毕业生",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "假如王者英雄给大学生当老师",
+          "url": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82%E7%8E%8B%E8%80%85%E8%8B%B1%E9%9B%84%E7%BB%99%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%BD%93%E8%80%81%E5%B8%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时14分 ~ 04时10分]"
+        },
+        {
+          "title": "2名大学生溺亡 家属称为了救同学",
+          "url": "https://www.baidu.com/s?wd=2%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%BA%BA%E4%BA%A1+%E5%AE%B6%E5%B1%9E%E7%A7%B0%E4%B8%BA%E4%BA%86%E6%95%91%E5%90%8C%E5%AD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时19分 ~ 08时20分]"
+        },
+        {
+          "title": "江西两名大学生不幸溺亡",
+          "url": "https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E4%B8%A4%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%B8%8D%E5%B9%B8%E6%BA%BA%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -696,8 +879,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时14分 ~ 07时44分]"
+          "appearance_count": 7,
+          "time_info": "[02时14分 ~ 08时20分]"
         },
         {
           "title": "库克终于放风：苹果也要涨价了",
@@ -709,35 +892,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时14分 ~ 04时10分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大学生 毕业生",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "假如王者英雄给大学生当老师",
-          "url": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82%E7%8E%8B%E8%80%85%E8%8B%B1%E9%9B%84%E7%BB%99%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%BD%93%E8%80%81%E5%B8%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时14分 ~ 04时10分]"
-        },
-        {
-          "title": "江西两名大学生不幸溺亡",
-          "url": "https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E4%B8%A4%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%B8%8D%E5%B9%B8%E6%BA%BA%E4%BA%A1",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时43分 ~ 07时44分]"
         }
       ]
     },
@@ -807,8 +961,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时14分 ~ 07时44分]"
+          "appearance_count": 7,
+          "time_info": "[02时14分 ~ 08时20分]"
         }
       ]
     }
