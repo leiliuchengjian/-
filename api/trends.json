@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T18:25:46.885843+08:00",
-  "total_titles_processed": 1009,
+  "generated_at": "2026-06-20T20:23:23.894344+08:00",
+  "total_titles_processed": 1122,
   "failed_sources": [],
   "trends": [
     {
@@ -67,8 +67,20 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时24分 ~ 20时23分]"
+        },
+        {
+          "title": "鸿海董事长：每1GW Vera Rubin数据中心，资本开支高达470亿美元，每年电力成本13亿美元",
+          "url": "https://wallstreetcn.com/articles/3775108",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时24分 ~ 18时25分]"
+          "time_info": "[15时41分 ~ 20时23分]"
         },
         {
           "title": "越南前女首富爱马仕包拍出44万美元",
@@ -82,18 +94,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时10分 ~ 06时05分]"
-        },
-        {
-          "title": "鸿海董事长：每1GW Vera Rubin数据中心，资本开支高达470亿美元，每年电力成本13亿美元",
-          "url": "https://wallstreetcn.com/articles/3775108",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时41分 ~ 18时25分]"
         },
         {
           "title": "LME期铜收跌96美元，报13595美元/吨。 LME期铝收涨10美元，报3396美元/吨。 LME期锌收跌82美元，报3556美元/吨。 LME期铅收跌30美元，报1954美元/吨。 LME期镍收跌262美元，报17580美元/吨。 LME期锡收跌360美元，报53293美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -235,6 +235,18 @@
           "time_info": "[05时01分 ~ 07时59分]"
         },
         {
+          "title": "1192亿美元！本周美股吸引创纪录资金，投资者涌向科技股",
+          "url": "https://wallstreetcn.com/articles/3775107",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 20时23分]"
+        },
+        {
           "title": "布伦特原油日内涨幅达1.0%，报80.34美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3122153",
           "source": "华尔街见闻-快讯",
@@ -269,17 +281,6 @@
           "time_info": "03时24分"
         },
         {
-          "title": "1192亿美元！本周美股吸引创纪录资金，投资者涌向科技股",
-          "url": "https://wallstreetcn.com/articles/3775107",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
           "title": "ICE 7月汽油期货结算价为每吨905.00美元。",
           "url": "https://flash.jin10.com/detail/20260619235745551800",
           "source": "金十数据",
@@ -297,7 +298,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -316,7 +317,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "AI写作涌入市场，“人”的信任和感动何处安放？",
@@ -361,33 +362,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时41分 ~ 18时25分]"
-        },
-        {
-          "title": "美国电网扛不住AI热潮",
-          "url": "https://wallstreetcn.com/livenews/3122234",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "腾讯：微信正在灰度测试 AI助手“小微”",
-          "url": "https://wallstreetcn.com/livenews/3122233",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
+          "appearance_count": 4,
+          "time_info": "[15时41分 ~ 20时23分]"
         },
         {
           "title": "男子称高价挂专家号 医生竟悄悄问AI",
@@ -415,6 +395,30 @@
           "time_info": "[06时05分 ~ 11时24分]"
         },
         {
+          "title": "美国电网扛不住AI热潮",
+          "url": "https://wallstreetcn.com/livenews/3122234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 20时23分]"
+        },
+        {
+          "title": "腾讯：微信正在灰度测试 AI助手“小微”",
+          "url": "https://wallstreetcn.com/livenews/3122233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 20时23分]"
+        },
+        {
           "title": "当AI开始自己造AI",
           "url": "https://www.toutiao.com/trending/7653272712957136393/",
           "source": "今日头条",
@@ -427,6 +431,18 @@
           "time_info": "[11时24分 ~ 15时42分]"
         },
         {
+          "title": "相比“开源模型”，“前沿模型”溢价类似“奢侈品包包”！德银：这可能导致市场重估AI",
+          "url": "https://wallstreetcn.com/articles/3775111",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 20时23分]"
+        },
+        {
           "title": "亚马逊旗下电影部门放弃拍摄有关OpenAI的电影。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3122199",
           "source": "华尔街见闻-快讯",
@@ -437,6 +453,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时24分 ~ 15时42分]"
+        },
+        {
+          "title": "1年500元你会把脸卖给AI短剧吗",
+          "url": "https://s.weibo.com/weibo?q=%231%E5%B9%B4500%E5%85%83%E4%BD%A0%E4%BC%9A%E6%8A%8A%E8%84%B8%E5%8D%96%E7%BB%99AI%E7%9F%AD%E5%89%A7%E5%90%97%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 20时23分]"
         },
         {
           "title": "AI 时代，文科生最应该培养哪些核心能力以保持竞争力？",
@@ -467,7 +495,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -483,15 +511,15 @@
           "time_info": "03时24分"
         },
         {
-          "title": "相比“开源模型”，“前沿模型”溢价类似“奢侈品包包”！德银：这可能导致市场重估AI",
-          "url": "https://wallstreetcn.com/articles/3775111",
+          "title": "“AI最紧瓶颈”！存储的影响已扩展至宏观经济，加剧整体通胀",
+          "url": "https://wallstreetcn.com/articles/3775113",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时25分"
+          "time_info": "20时23分"
         },
         {
           "title": "腾讯客服：微信正在灰度测试 AI助手“小微”",
@@ -500,9 +528,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
+        },
+        {
+          "title": "学习英伟达“好榜样”，谷歌和博通都开始“有样学样”，开启“AI芯片闭环”",
+          "url": "https://wallstreetcn.com/articles/3775105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "挪威首相周五表示，挪威将近乎全面禁止小学生使用生成式人工智能工具，同时限制其在年龄较大的儿童教育中的使用，以防止对学习产生负面影响。",
@@ -522,100 +561,15 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
-        },
-        {
-          "title": "1年500元你会把脸卖给AI短剧吗",
-          "url": "https://s.weibo.com/weibo?q=%231%E5%B9%B4500%E5%85%83%E4%BD%A0%E4%BC%9A%E6%8A%8A%E8%84%B8%E5%8D%96%E7%BB%99AI%E7%9F%AD%E5%89%A7%E5%90%97%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "【早报】芯片股暴涨；伊朗推迟赴瑞士行程；瑞士4-1波黑",
-          "url": "https://www.cls.cn/detail/2404187",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时10分 ~ 18时25分]"
-        },
-        {
-          "title": "EMIB+玻璃基板+金刚石......陈立武谈英特尔芯片业务：在材料层面寻求突破",
-          "url": "https://www.cls.cn/detail/2404404",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时10分 ~ 18时25分]"
-        },
-        {
-          "title": "霍尔木兹海峡重开提振股债，半导体指数收创新高，原油走V，美元两连涨，黄金承压",
-          "url": "https://wallstreetcn.com/articles/3774963",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 06时05分]"
-        },
-        {
-          "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
-          "url": "https://www.cls.cn/detail/2404196",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时10分 ~ 18时25分]"
-        },
-        {
-          "title": "存储芯片涨价失控",
-          "url": "https://s.weibo.com/weibo?q=%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E6%B6%A8%E4%BB%B7%E5%A4%B1%E6%8E%A7&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26,
-            9,
-            16,
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时24分 ~ 11时24分]"
         }
       ]
     },
     {
       "keyword_group": "苹果 iPhone",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "史上最贵iPhone要来了吗",
@@ -648,9 +602,20 @@
           "ranks": [
             18
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 20时23分]"
+        },
+        {
+          "title": "苹果相册乱起名字",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E7%9B%B8%E5%86%8C%E4%B9%B1%E8%B5%B7%E5%90%8D%E5%AD%97&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时25分"
+          "time_info": "20时23分"
         },
         {
           "title": "苹果计划涨价，库克称供应链过去四十多年从未见过如此情况，9 月的 iPhone18 系列会大幅加价吗？",
@@ -662,6 +627,119 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体 芯片 集成电路",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "【早报】芯片股暴涨；伊朗推迟赴瑞士行程；瑞士4-1波黑",
+          "url": "https://www.cls.cn/detail/2404187",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[01时10分 ~ 20时23分]"
+        },
+        {
+          "title": "EMIB+玻璃基板+金刚石......陈立武谈英特尔芯片业务：在材料层面寻求突破",
+          "url": "https://www.cls.cn/detail/2404404",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[01时10分 ~ 20时23分]"
+        },
+        {
+          "title": "霍尔木兹海峡重开提振股债，半导体指数收创新高，原油走V，美元两连涨，黄金承压",
+          "url": "https://wallstreetcn.com/articles/3774963",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时10分 ~ 06时05分]"
+        },
+        {
+          "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
+          "url": "https://www.cls.cn/detail/2404196",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[01时10分 ~ 20时23分]"
+        },
+        {
+          "title": "存储芯片涨价失控",
+          "url": "https://s.weibo.com/weibo?q=%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E6%B6%A8%E4%BB%B7%E5%A4%B1%E6%8E%A7&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            9,
+            16,
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时24分 ~ 11时24分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大学生 毕业生",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "那些 985 院校毕业但成绩不好的毕业生都去了哪？",
+          "url": "https://www.zhihu.com/question/304703381",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时24分 ~ 20时23分]"
+        },
+        {
+          "title": "长沙一高校婚庆专业毕业答辩变成实操婚礼，毕业生策划四场不同风格婚礼仪式，这样的答辩怎么样？值得推广吗？",
+          "url": "https://www.zhihu.com/question/2050293317737375449",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        },
+        {
+          "title": "清华版大学生小学生对话",
+          "url": "https://s.weibo.com/weibo?q=%E6%B8%85%E5%8D%8E%E7%89%88%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%AF%B9%E8%AF%9D&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         }
       ]
     },
@@ -688,9 +766,9 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 20时23分]"
         }
       ]
     },
@@ -766,8 +844,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时10分 ~ 18时25分]"
+          "appearance_count": 13,
+          "time_info": "[01时10分 ~ 20时23分]"
         },
         {
           "title": "网友提问“中国大模型何时达到Fable级别？”，马斯克“可能明年Q1”，智谱CEO唐杰“不需要那么久”",
@@ -779,6 +857,34 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时10分 ~ 07时59分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英伟达 台积电 AMD 高通",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "英伟达云显卡降价35%",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%BA%91%E6%98%BE%E5%8D%A1%E9%99%8D%E4%BB%B735%25",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "高通联发科将首发台积电第2代2nm工艺",
+          "url": "https://www.toutiao.com/trending/7652772841300983850/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         }
       ]
     },
@@ -807,34 +913,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大学生 毕业生",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "那些 985 院校毕业但成绩不好的毕业生都去了哪？",
-          "url": "https://www.zhihu.com/question/304703381",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时24分 ~ 18时25分]"
-        },
-        {
-          "title": "长沙一高校婚庆专业毕业答辩变成实操婚礼，毕业生策划四场不同风格婚礼仪式，这样的答辩怎么样？值得推广吗？",
-          "url": "https://www.zhihu.com/question/2050293317737375449",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时24分"
         }
       ]
     },
@@ -875,23 +953,6 @@
       ]
     },
     {
-      "keyword_group": "英伟达 台积电 AMD 高通",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "英伟达云显卡降价35%",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%BA%91%E6%98%BE%E5%8D%A1%E9%99%8D%E4%BB%B735%25",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        }
-      ]
-    },
-    {
       "keyword_group": "就业 裁员 招聘",
       "match_count": 1,
       "titles": [
@@ -902,9 +963,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 20时23分]"
         }
       ]
     },
