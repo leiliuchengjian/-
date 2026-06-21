@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-21T15:24:28.298022+08:00",
-  "total_titles_processed": 824,
+  "generated_at": "2026-06-21T18:59:21.538629+08:00",
+  "total_titles_processed": 998,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "“新美联储通讯社”：1996还是1999？沃什的第一场考验是“如何看AI”",
@@ -47,6 +47,18 @@
           "time_info": "[00时16分 ~ 10时36分]"
         },
         {
+          "title": "企业端开始“算力降本”之际，高盛警告5.3万亿AI资本支出正逼近信贷饱和！",
+          "url": "https://wallstreetcn.com/articles/3775121",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时24分 ~ 18时59分]"
+        },
+        {
           "title": "经纬度：让AI走进千家万户，人工智能消费按下加速键",
           "url": "https://m.thepaper.cn/newsDetail_forward_33415864",
           "source": "澎湃新闻",
@@ -61,15 +73,17 @@
           "time_info": "[00时16分 ~ 07时05分]"
         },
         {
-          "title": "企业端开始“算力降本”之际，高盛警告5.3万亿AI资本支出正逼近信贷饱和！",
-          "url": "https://wallstreetcn.com/articles/3775121",
+          "title": "AI算力的物理基石：PTFE从“塑料王”到“M10高速互联刚需材料”的范式跃迁",
+          "url": "https://wallstreetcn.com/premium/articles/3774876?layout=wscn-layout",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            10,
+            6,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时24分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时05分 ~ 18时59分]"
         },
         {
           "title": "学习英伟达“好榜样”，谷歌和博通都开始“有样学样”，开启“AI芯片闭环”",
@@ -82,6 +96,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时16分 ~ 07时05分]"
+        },
+        {
+          "title": "女子用AI写3000字股市谣言被罚",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%94%A8AI%E5%86%993000%E5%AD%97%E8%82%A1%E5%B8%82%E8%B0%A3%E8%A8%80%E8%A2%AB%E7%BD%9A",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时35分 ~ 18时59分]"
         },
         {
           "title": "谐音歌词版WAIYA",
@@ -110,38 +135,49 @@
           "time_info": "[00时16分 ~ 07时05分]"
         },
         {
-          "title": "AI算力的物理基石：PTFE从“塑料王”到“M10高速互联刚需材料”的范式跃迁",
-          "url": "https://wallstreetcn.com/premium/articles/3774876?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时05分 ~ 10时36分]"
-        },
-        {
-          "title": "女子用AI写3000字股市谣言被罚",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%94%A8AI%E5%86%993000%E5%AD%97%E8%82%A1%E5%B8%82%E8%B0%A3%E8%A8%80%E8%A2%AB%E7%BD%9A",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时35分 ~ 15时24分]"
-        },
-        {
           "title": "下周重磅日程：“美联储最爱通胀指标”、英伟达股东大会、OpenAI或发新模型、美光财报",
           "url": "https://wallstreetcn.com/articles/3775117",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时24分 ~ 18时59分]"
+        },
+        {
+          "title": "AI短剧严重“缺脸” 500元买一张脸",
+          "url": "https://www.toutiao.com/trending/7653430042109853737/",
+          "source": "今日头条",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时24分"
+          "time_info": "18时59分"
+        },
+        {
+          "title": "对话丨被AI震动的两年人生，数学博士生的新难题：如何证明自己？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33407734",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
+          "title": "微信“小微”来了！数百万个小程序有了AI“总控台”",
+          "url": "https://www.cls.cn/detail/2404757",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
         },
         {
           "title": "华泰证券：AI服务器测试电源或迎国产替代机遇",
@@ -161,7 +197,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -172,7 +208,107 @@
           "ranks": [
             25
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "父亲节用AI表达爱",
+          "url": "https://www.douyin.com/hot/2542302",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元 人民币 汇率",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "鸿海董事长：每1GW Vera Rubin数据中心，资本开支高达470亿美元，每年电力成本13亿美元",
+          "url": "https://wallstreetcn.com/articles/3775108",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 10时36分]"
+        },
+        {
+          "title": "1192亿美元！本周美股吸引创纪录资金，投资者涌向科技股",
+          "url": "https://wallstreetcn.com/articles/3775107",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 07时05分]"
+        },
+        {
+          "title": "金价年内涨幅尽数回吐，高盛下调目标价，4000美元关口面临考验？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33420304",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            18,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 15时24分]"
+        },
+        {
+          "title": "以黎局势挑动市场神经，欧股一度转涨，布油艰难反弹，美元跌落一年高位",
+          "url": "https://wallstreetcn.com/articles/3775100",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 05时59分]"
+        },
+        {
+          "title": "伊总统：60亿美元冻结资金将返还给伊朗",
+          "url": "https://flash.jin10.com/detail/20260621172821814800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
+          "title": "据半岛电视台：伊朗总统表示，作为与美国结束战争的初步协议的一部分，目前由卡塔尔持有的60亿美元被冻结资金将被归还。",
+          "url": "https://flash.jin10.com/detail/20260621172327857800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
+          "title": "金价仍可能重返5000美元",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%BB%8D%E5%8F%AF%E8%83%BD%E9%87%8D%E8%BF%945000%E7%BE%8E%E5%85%83%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         }
@@ -237,7 +373,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -251,73 +387,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元 人民币 汇率",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "鸿海董事长：每1GW Vera Rubin数据中心，资本开支高达470亿美元，每年电力成本13亿美元",
-          "url": "https://wallstreetcn.com/articles/3775108",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 10时36分]"
-        },
-        {
-          "title": "1192亿美元！本周美股吸引创纪录资金，投资者涌向科技股",
-          "url": "https://wallstreetcn.com/articles/3775107",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 07时05分]"
-        },
-        {
-          "title": "金价年内涨幅尽数回吐，高盛下调目标价，4000美元关口面临考验？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33420304",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            18,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 15时24分]"
-        },
-        {
-          "title": "以黎局势挑动市场神经，欧股一度转涨，布油艰难反弹，美元跌落一年高位",
-          "url": "https://wallstreetcn.com/articles/3775100",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 05时59分]"
-        },
-        {
-          "title": "金价仍可能重返5000美元",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%BB%8D%E5%8F%AF%E8%83%BD%E9%87%8D%E8%BF%945000%E7%BE%8E%E5%85%83%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时24分"
         }
       ]
     },
@@ -368,6 +437,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "央行 降息 降准 CPI 物价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "阿曼政府数据显示，阿曼5月消费者物价指数环比上涨0.47%。",
+          "url": "https://flash.jin10.com/detail/20260621184428441800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
+          "title": "伊朗央行行长：希望在未来几天内与美国达成协议，通过恢复石油出口和资源流通，我们将创造更好的条件。",
+          "url": "https://flash.jin10.com/detail/20260621144504269800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "伊朗央行行长：战争期间我们的外汇储备增加了45亿美元。",
+          "url": "https://flash.jin10.com/detail/20260621144151041800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         }
       ]
     },
@@ -425,35 +533,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "伊朗央行行长：希望在未来几天内与美国达成协议，通过恢复石油出口和资源流通，我们将创造更好的条件。",
-          "url": "https://flash.jin10.com/detail/20260621144504269800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时24分"
-        },
-        {
-          "title": "伊朗央行行长：战争期间我们的外汇储备增加了45亿美元。",
-          "url": "https://flash.jin10.com/detail/20260621144151041800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         }
