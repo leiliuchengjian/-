@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-06-23T10:59:37.742312+08:00",
-  "total_titles_processed": 801,
+  "generated_at": "2026-06-23T14:50:09.655811+08:00",
+  "total_titles_processed": 1013,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "SpaceX跌超16%，跌穿IPO首日收盘价！宣布发债后“三连跌”，市值蒸发超6000亿美元",
           "url": "https://wallstreetcn.com/articles/3775217",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时59分 ~ 14时50分]"
+        },
+        {
+          "title": "现货钯金跌逾3%至每盎司1,224.51美元。",
+          "url": "https://wallstreetcn.com/livenews/3123235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时59分"
+          "time_info": "14时50分"
         },
         {
           "title": "丹斯克银行：预计2026年剩余时间内布伦特原油均价将为每桶80美元",
@@ -40,6 +52,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 07时59分]"
+        },
+        {
+          "title": "如何看待 Steam Machine 定价 1049 美元起？",
+          "url": "https://www.zhihu.com/question/2052643077081321839",
+          "source": "知乎",
+          "ranks": [
+            20,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时59分 ~ 14时50分]"
         },
         {
           "title": "SpaceX收跌16%，市值蒸发4000亿美元。",
@@ -147,7 +171,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         },
@@ -174,6 +198,17 @@
           "time_info": "04时32分"
         },
         {
+          "title": "WTI原油跌幅扩大至1%，现报73.05美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3123211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
+        },
+        {
           "title": "点心债持续扩容，离岸人民币市场融资加速",
           "url": "https://wallstreetcn.com/livenews/3123055",
           "source": "华尔街见闻-快讯",
@@ -183,17 +218,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
-        },
-        {
-          "title": "如何看待 Steam Machine 定价 1049 美元起？",
-          "url": "https://www.zhihu.com/question/2052643077081321839",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
         },
         {
           "title": "美元指数22日上涨",
@@ -224,7 +248,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         },
@@ -257,7 +281,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         },
@@ -268,16 +292,39 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
+        },
+        {
+          "title": "现货白银日内跌4%，现报62.47美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3123197",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
         }
       ]
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "规模腰斩后，半夏投资发声：坚守低估值内需资产，AI泡沫破裂的触发条件已经出现",
+          "url": "https://wallstreetcn.com/articles/3775200",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时24分 ~ 14时50分]"
+        },
         {
           "title": "【焦点复盘】沪指放量长阳收复30日均线，全市场超200股涨逾10%，AI上游材料方向持续火爆",
           "url": "https://www.cls.cn/detail/2405734",
@@ -290,18 +337,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时24分 ~ 07时59分]"
-        },
-        {
-          "title": "规模腰斩后，半夏投资发声：坚守低估值内需资产，AI泡沫破裂的触发条件已经出现",
-          "url": "https://wallstreetcn.com/articles/3775200",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 10时59分]"
         },
         {
           "title": "米游AI女友上线,玩家有福了",
@@ -340,6 +375,64 @@
           "time_info": "[04时32分 ~ 06时31分]"
         },
         {
+          "title": "AI算力新变局：谁能动英伟达奶酪",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33431385",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时59分 ~ 14时50分]"
+        },
+        {
+          "title": "OpenAI、Anthropic左右开弓挖人 谷歌遭遇近一年最惨一跌",
+          "url": "https://www.cls.cn/detail/2406155",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时59分 ~ 14时50分]"
+        },
+        {
+          "title": "SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元",
+          "url": "https://www.cls.cn/detail/2406127",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时59分 ~ 14时50分]"
+        },
+        {
+          "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
+          "url": "https://www.zhihu.com/question/2044875348719005741",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时49分 ~ 14时50分]"
+        },
+        {
+          "title": "武亮说峰学要拥抱AI带来的变化",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AD%A6%E4%BA%AE%E8%AF%B4%E5%B3%B0%E5%AD%A6%E8%A6%81%E6%8B%A5%E6%8A%B1AI%E5%B8%A6%E6%9D%A5%E7%9A%84%E5%8F%98%E5%8C%96%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时49分 ~ 14时50分]"
+        },
+        {
           "title": "物理AI第一股上市首日高开302%",
           "url": "https://www.baidu.com/s?wd=%E7%89%A9%E7%90%86AI%E7%AC%AC%E4%B8%80%E8%82%A1%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E9%AB%98%E5%BC%80302%25",
           "source": "百度热搜",
@@ -350,28 +443,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时59分 ~ 10时59分]"
-        },
-        {
-          "title": "OpenAI、Anthropic左右开弓挖人 谷歌遭遇近一年最惨一跌",
-          "url": "https://www.cls.cn/detail/2406155",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
-          "title": "SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元",
-          "url": "https://www.cls.cn/detail/2406127",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
         },
         {
           "title": "美国FAA选用Air Space Intelligence打造AI空管工具",
@@ -385,24 +456,13 @@
           "time_info": "06时31分"
         },
         {
-          "title": "AI算力新变局：谁能动英伟达奶酪",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33431385",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
           "title": "港股人工智能板块走低，智谱跌超13%，曦智科技-P、群核科技跌超7%，MINIMAX-W跌超6%，澜起科技、兆易创新跌超5%。",
           "url": "https://wallstreetcn.com/livenews/3123126",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         },
@@ -418,13 +478,24 @@
           "time_info": "06时31分"
         },
         {
+          "title": "消息人士：日产汽车在去年年初已停止开发其电动版Qashqai SUV。即使重启项目，该车型也要到下个十年才能上市。",
+          "url": "https://flash.jin10.com/detail/20260623141237233800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
+        },
+        {
           "title": "液冷概念股开盘活跃，英维克、大元泵业、康盛股份、金富科技涨停，高澜股份涨超18%，飞龙股份、强瑞技术、川环科技、淳中科技、佳力图、新朋股份纷纷高开，消息上，英伟达发文详细介绍了即将量产的Vera Rubin平台所使用的45℃全面液冷技术，表示其帮助AI数据中心大幅降低能耗，并称Rubin是全球首个实现100%液冷的AI计算平台。",
           "url": "https://wallstreetcn.com/livenews/3123106",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         },
@@ -446,7 +517,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         },
@@ -476,8 +547,19 @@
     },
     {
       "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "科技巨头下挫拖累美股大盘，芯片股指新高，原油转跌，美债收益率“补涨”",
+          "url": "https://wallstreetcn.com/articles/3775156",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时59分 ~ 14时50分]"
+        },
         {
           "title": "美伊达成协议文件，美股盘初涨跌互现，半导体股普涨，油价跌超2%",
           "url": "https://wallstreetcn.com/articles/3775156",
@@ -488,17 +570,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时24分 ~ 04时32分]"
-        },
-        {
-          "title": "科技巨头下挫拖累美股大盘，芯片股指新高，原油转跌，美债收益率“补涨”",
-          "url": "https://wallstreetcn.com/articles/3775156",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时59分 ~ 10时59分]"
         },
         {
           "title": "科技巨头下挫拖累美股大盘，芯片股指、小盘股指逆市新高，原油高开走跌，美债收益率“补涨”",
@@ -518,7 +589,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         },
@@ -543,6 +614,167 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        },
+        {
+          "title": "港股存储芯片板块震荡走低，南方两倍做多海力士跌超20%，澜起科技跌超9%，兆易创新跌超5%。",
+          "url": "https://wallstreetcn.com/livenews/3123196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为 小米 荣耀",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "雷军再谈与董明珠赌约直言后悔，称本是玩笑董大姐当真了，小米被逼做空调，如何看待当年赌约对小米布局影响？",
+          "url": "https://www.zhihu.com/question/2052405403254616397",
+          "source": "知乎",
+          "ranks": [
+            11,
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时24分 ~ 14时50分]"
+        },
+        {
+          "title": "网友按压胳膊冒出一排小米粒",
+          "url": "https://www.toutiao.com/trending/7653621212706914358/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            4,
+            29,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 07时59分]"
+        },
+        {
+          "title": "如何评价小米 YU7 GT 以 10 分 29 秒 483 创下全球首个纽北自动驾驶圈速记录？",
+          "url": "https://www.zhihu.com/question/2052342121999380803",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 01时25分]"
+        },
+        {
+          "title": "华为乾坤高阶智驾包自 7 月 1 日起调价， 一次性购买恢复至标准价 3.6 万元，你怎么看？",
+          "url": "https://www.zhihu.com/question/2050900350299852955",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时49分 ~ 14时50分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收跌1.2%。 热门中概股里，小马智行初步收跌5.5%，文远知行跌4.6%，小米跌4.1%，比亚迪跌3.5%，阿里跌2.1%，拼多多跌1.8%，再鼎医药涨1.6%，携程涨3%。",
+          "url": "https://wallstreetcn.com/livenews/3123011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时32分"
+        },
+        {
+          "title": "华为宣布对智驾兜底",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%AE%A3%E5%B8%83%E5%AF%B9%E6%99%BA%E9%A9%BE%E5%85%9C%E5%BA%95%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "创业板",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "【每日收评】创业板指大涨2.52%，大金融板块集体爆发，两市成交额创历史第二大量",
+          "url": "https://www.cls.cn/detail/2405667",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 06时31分]"
+        },
+        {
+          "title": "创业板指跌超4%，有色金属、PCB、光通信、光伏锂电等方向跌幅居前，沪深京三市下跌个股近2800只。",
+          "url": "https://wallstreetcn.com/livenews/3123226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
+        },
+        {
+          "title": "创业板指跌超4% 有色金属、PCB概念跌幅居前",
+          "url": "https://flash.jin10.com/detail/20260623141941791800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
+        },
+        {
+          "title": "创业板指跌超2%，沪指跌0.39%，深成指跌1.82%，有色金属、铜箔、PCB、光通信等方向跌幅居前，沪深京三市下跌个股超2000只。",
+          "url": "https://wallstreetcn.com/livenews/3123120",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "创业板指跌超1%，沪指跌0.06%，深成指跌0.76%，贵金属、有色、MLCC、PCB等方向跌幅居前，沪深京三市下跌个股超1700只。",
+          "url": "https://wallstreetcn.com/livenews/3123117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "上证指数开盘报4153.59点，跌0.23%。 深证成指开盘报16324.24点，跌0.29%。 创业板指开盘报4343.88点，跌0.36%。 沪深300开盘报5048.03点，跌0.23%。 科创50开盘报1929.27点，跌1.01%。 中证500开盘报8831.59点，跌0.42%。 中证1000开盘报8838.76点，跌0.30%。",
+          "url": "https://wallstreetcn.com/livenews/3123101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时59分"
         }
       ]
     },
@@ -559,8 +791,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 10时59分]"
+          "appearance_count": 8,
+          "time_info": "[01时24分 ~ 14时50分]"
         },
         {
           "title": "伊朗央行行长：剩余的被冻结资金不一定仅用于基本商品，伊朗将能够购买其他未受制裁的商品。",
@@ -580,7 +812,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         },
@@ -613,72 +845,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "华为 小米 荣耀",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "网友按压胳膊冒出一排小米粒",
-          "url": "https://www.toutiao.com/trending/7653621212706914358/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            4,
-            29,
-            27
-          ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 07时59分]"
-        },
-        {
-          "title": "雷军再谈与董明珠赌约直言后悔，称本是玩笑董大姐当真了，小米被逼做空调，如何看待当年赌约对小米布局影响？",
-          "url": "https://www.zhihu.com/question/2052405403254616397",
-          "source": "知乎",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 10时59分]"
-        },
-        {
-          "title": "如何评价小米 YU7 GT 以 10 分 29 秒 483 创下全球首个纽北自动驾驶圈速记录？",
-          "url": "https://www.zhihu.com/question/2052342121999380803",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时24分 ~ 01时25分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收跌1.2%。 热门中概股里，小马智行初步收跌5.5%，文远知行跌4.6%，小米跌4.1%，比亚迪跌3.5%，阿里跌2.1%，拼多多跌1.8%，再鼎医药涨1.6%，携程涨3%。",
-          "url": "https://wallstreetcn.com/livenews/3123011",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时32分"
-        },
-        {
-          "title": "华为宣布对智驾兜底",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%AE%A3%E5%B8%83%E5%AF%B9%E6%99%BA%E9%A9%BE%E5%85%9C%E5%BA%95%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "10时59分"
         }
@@ -695,7 +862,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         },
@@ -735,126 +902,8 @@
       ]
     },
     {
-      "keyword_group": "创业板",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "【每日收评】创业板指大涨2.52%，大金融板块集体爆发，两市成交额创历史第二大量",
-          "url": "https://www.cls.cn/detail/2405667",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 06时31分]"
-        },
-        {
-          "title": "创业板指跌超2%，沪指跌0.39%，深成指跌1.82%，有色金属、铜箔、PCB、光通信等方向跌幅居前，沪深京三市下跌个股超2000只。",
-          "url": "https://wallstreetcn.com/livenews/3123120",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
-          "title": "创业板指跌超1%，沪指跌0.06%，深成指跌0.76%，贵金属、有色、MLCC、PCB等方向跌幅居前，沪深京三市下跌个股超1700只。",
-          "url": "https://wallstreetcn.com/livenews/3123117",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
-          "title": "上证指数开盘报4153.59点，跌0.23%。 深证成指开盘报16324.24点，跌0.29%。 创业板指开盘报4343.88点，跌0.36%。 沪深300开盘报5048.03点，跌0.23%。 科创50开盘报1929.27点，跌1.01%。 中证500开盘报8831.59点，跌0.42%。 中证1000开盘报8838.76点，跌0.30%。",
-          "url": "https://wallstreetcn.com/livenews/3123101",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大模型 ChatGPT Kimi Sora OpenAI",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "字节跳动发布豆包大模型2.1 Pro",
-          "url": "https://flash.jin10.com/detail/20260623103326108800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
-          "title": "火山引擎总裁谭待：豆包大模型日均Tokens使用量已突破180万亿",
-          "url": "https://wallstreetcn.com/livenews/3123135",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
-          "title": "火山引擎总裁谭待：豆包大模型日均Tokens使用量已突破180万亿",
-          "url": "https://flash.jin10.com/detail/20260623102138794800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "老人强拽女孩让座和家长扭打，成都地铁回应",
-          "url": "https://news.ifeng.com/c/8uAVMHxegaV",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 10时59分]"
-        },
-        {
-          "title": "以色列国防部长卡茨：以色列国防军将继续驻扎在黎巴嫩安全区，保护北部定居点，消除威胁，并摧毁地面和地下的武装组织基础设施。",
-          "url": "https://flash.jin10.com/detail/20260623004641132800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "乐道总裁回应买不起蔚来才买乐道",
@@ -871,6 +920,28 @@
           "time_info": "[01时24分 ~ 07时59分]"
         },
         {
+          "title": "特斯拉机器人量产在即？上游供应商传出备战信号",
+          "url": "https://www.cls.cn/detail/2406488",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时49分 ~ 14时50分]"
+        },
+        {
+          "title": "比亚迪大唐手握15万辆订单",
+          "url": "https://www.toutiao.com/trending/7653415611460714534/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时49分 ~ 14时50分]"
+        },
+        {
           "title": "特斯拉致命车祸引发美国汽车安全机构调查",
           "url": "https://flash.jin10.com/detail/20260623035053847800",
           "source": "金十数据",
@@ -884,8 +955,87 @@
       ]
     },
     {
+      "keyword_group": "基础设施 基建 地铁 高铁",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "老人强拽女孩让座和家长扭打，成都地铁回应",
+          "url": "https://news.ifeng.com/c/8uAVMHxegaV",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时24分 ~ 14时50分]"
+        },
+        {
+          "title": "没人管还是管不了？高铁站台控烟难",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%A1%E4%BA%BA%E7%AE%A1%E8%BF%98%E6%98%AF%E7%AE%A1%E4%B8%8D%E4%BA%86%EF%BC%9F%E9%AB%98%E9%93%81%E7%AB%99%E5%8F%B0%E6%8E%A7%E7%83%9F%E9%9A%BE",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时49分 ~ 14时50分]"
+        },
+        {
+          "title": "以色列国防部长卡茨：以色列国防军将继续驻扎在黎巴嫩安全区，保护北部定居点，消除威胁，并摧毁地面和地下的武装组织基础设施。",
+          "url": "https://flash.jin10.com/detail/20260623004641132800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大模型 ChatGPT Kimi Sora OpenAI",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "字节跳动发布豆包大模型2.1 Pro",
+          "url": "https://flash.jin10.com/detail/20260623103326108800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "火山引擎总裁谭待：豆包大模型日均Tokens使用量已突破180万亿",
+          "url": "https://wallstreetcn.com/livenews/3123135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "火山引擎总裁谭待：豆包大模型日均Tokens使用量已突破180万亿",
+          "url": "https://flash.jin10.com/detail/20260623102138794800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        }
+      ]
+    },
+    {
       "keyword_group": "就业 裁员 招聘",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美国芝加哥联储主席Goolsbee（2027年FOMC票委）：不后悔在6月份FOMC货币政策会议上投出反对票。 市场依然保持稳定。 通胀远高于目标水平，且正在朝着错误的方向发展。 我们尚未遭遇滞胀冲击，就业市场一直保持稳定。 需要证据来证明当前的通胀只是暂时的。 服务业通胀情况令人有些担忧。 在我看来，需要确定此次通胀是否会持续下去。（Marketplace）",
@@ -898,6 +1048,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 07时59分]"
+        },
+        {
+          "title": "甲骨文裁员2.1万人",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B2%E9%AA%A8%E6%96%87%E8%A3%81%E5%91%982.1%E4%B8%87%E4%BA%BA%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时49分 ~ 14时50分]"
         },
         {
           "title": "美媒：特朗普情报系统大裁员启动 “深层政府”清洗行动展开",
@@ -914,8 +1075,19 @@
     },
     {
       "keyword_group": "苹果 iPhone",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "G胖偷师苹果收天价存储税",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355521&amp;topic_name=G%E8%83%96%E5%81%B7%E5%B8%88%E8%8B%B9%E6%9E%9C%E6%94%B6%E5%A4%A9%E4%BB%B7%E5%AD%98%E5%82%A8%E7%A8%8E",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时49分 ~ 14时50分]"
+        },
         {
           "title": "iPhone18标准版外观曝光",
           "url": "https://s.weibo.com/weibo?q=%23iPhone18%E6%A0%87%E5%87%86%E7%89%88%E5%A4%96%E8%A7%82%E6%9B%9D%E5%85%89%23&t=31&band_rank=9&Refer=top",
@@ -923,9 +1095,66 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英伟达 台积电 AMD 高通",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "全面液冷时代要来了？Rubin平台放量前夕 英伟达发文详解自家核心技术",
+          "url": "https://www.cls.cn/detail/2405571",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 01时25分]"
+        },
+        {
+          "title": "英伟达突然不香了？GPU租赁价格持续回落……",
+          "url": "https://www.cls.cn/detail/2406321",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时49分 ~ 14时50分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大学生 毕业生",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "那些 985 院校毕业但成绩不好的毕业生都去了哪？",
+          "url": "https://www.zhihu.com/question/304703381",
+          "source": "知乎",
+          "ranks": [
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时59分 ~ 14时50分]"
+        },
+        {
+          "title": "高三毕业生将老师画成课本封面走红",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%89%E6%AF%95%E4%B8%9A%E7%94%9F%E5%B0%86%E8%80%81%E5%B8%88%E7%94%BB%E6%88%90%E8%AF%BE%E6%9C%AC%E5%B0%81%E9%9D%A2%E8%B5%B0%E7%BA%A2",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时49分 ~ 14时50分]"
         }
       ]
     },
@@ -948,40 +1177,6 @@
       ]
     },
     {
-      "keyword_group": "英伟达 台积电 AMD 高通",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "全面液冷时代要来了？Rubin平台放量前夕 英伟达发文详解自家核心技术",
-          "url": "https://www.cls.cn/detail/2405571",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时24分 ~ 01时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大学生 毕业生",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "那些 985 院校毕业但成绩不好的毕业生都去了哪？",
-          "url": "https://www.zhihu.com/question/304703381",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        }
-      ]
-    },
-    {
       "keyword_group": "福瑞 Furry 兽展 兽人",
       "match_count": 1,
       "titles": [
@@ -991,11 +1186,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            4
+            4,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时59分 ~ 10时59分]"
+          "appearance_count": 4,
+          "time_info": "[07时59分 ~ 14时50分]"
         }
       ]
     }
