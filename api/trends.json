@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T02:08:14.784381+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-07-04T04:10:12.556925+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 02时08分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 04时10分]"
         },
         {
           "title": "欧洲央行管委内格尔：欧洲央行应保持警惕，保持灵活性。",
@@ -52,6 +52,18 @@
           "time_info": "00时28分"
         },
         {
+          "title": "欧洲央行行长将亲自出席下周的欧盟经济和财政事务理事会会议",
+          "url": "https://wallstreetcn.com/livenews/3128807",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时08分 ~ 04时10分]"
+        },
+        {
           "title": "英国央行行长贝利：如果美国和以色列没有对伊朗发动战争，英国通胀将达到目标。",
           "url": "https://wallstreetcn.com/livenews/3128784",
           "source": "华尔街见闻-快讯",
@@ -73,17 +85,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
-        },
-        {
-          "title": "欧洲央行行长将亲自出席下周的欧盟经济和财政事务理事会会议",
-          "url": "https://wallstreetcn.com/livenews/3128807",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时08分"
         },
         {
           "title": "英国央行行长贝利：如果没有战争，英国通胀将达到目标。",
@@ -136,7 +137,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
         },
@@ -154,8 +155,151 @@
       ]
     },
     {
+      "keyword_group": "美元 人民币 汇率",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "摩根大通：黄金短期承压 2026下半年或冲4500美元",
+          "url": "https://flash.jin10.com/detail/20260704014528189800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时08分"
+        },
+        {
+          "title": "周五（7月3日），韩元兑美元最终涨0.50%，报1529.72韩元，北京时间14:15以来持稳于1530韩元附近。 本周，韩元累涨0.33%。",
+          "url": "https://wallstreetcn.com/livenews/3128810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时08分 ~ 04时10分]"
+        },
+        {
+          "title": "布伦特9月原油期货收涨0.32美元，涨幅超过0.44%，报72.12美元/桶，本周累计下跌0.66%。 中东Abu Dhabi Murban原油期货涨1.47%，报66.18美元/桶，本周累跌1.61%。",
+          "url": "https://wallstreetcn.com/livenews/3128808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时08分 ~ 04时10分]"
+        },
+        {
+          "title": "摩根大通：预计黄金价格将在近期区间震荡，然后才会出现复苏。 预计2026年三季度均价4300美元/盎司，四季度料位4500美元。 维持长期看涨金价的立场不变，预计将在2027年进一步复苏。",
+          "url": "https://wallstreetcn.com/livenews/3128809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时08分 ~ 04时10分]"
+        },
+        {
+          "title": "SQM合资企业寻求智利30亿美元锂项目获批",
+          "url": "https://wallstreetcn.com/livenews/3128786",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 02时08分]"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨2.33%，暂报2234.25点，上周五结束交易以来（7*24）累计上涨5.08%，6月27-30日低位持稳于2100点附近，7月1-3日持续上扬。 MarketVectorTM数字资产100中盘指数涨1.85%，报2573.64点，最近七天累涨3.75%。 MarketVector数字资产100指数涨0.95%，报12402.25点，最近七天累涨4.56%。 目前，Solana涨0.64%、最近七天迄今累涨13%，狗狗币涨2.98%、最近七天迄今累涨1.37%，XRP涨2.77%、、最近七天迄今累涨6.81%。 比特币涨0.85%，暂报62032.74美元，最近七天迄今累涨4.07%；以太坊涨1.97%，暂报1732.62美元，最近七天迄今累涨10.49%。",
+          "url": "https://wallstreetcn.com/livenews/3128802",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时08分 ~ 04时10分]"
+        },
+        {
+          "title": "ICE布伦特原油9月期货结算价为每桶72.12美元。",
+          "url": "https://flash.jin10.com/detail/20260704011953341800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时08分"
+        },
+        {
+          "title": "摩根大通：预计黄金短期内将维持区间震荡，随后回升，2026年第三季度均价为4,300美元/盎司，第四季度均价为4,500美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260704011652357800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时08分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7780元，较周四夜盘收盘涨50点。成交量459.30亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3128821",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时10分"
+        },
+        {
+          "title": "上期所原油期货2608合约夜盘收跌0.16%，报438.30元人民币/桶。 沪金夜盘收涨0.81%，沪银收涨1.61%。",
+          "url": "https://wallstreetcn.com/livenews/3128817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时10分"
+        },
+        {
+          "title": "现货钯金日内走低2.00%，现报1225.57美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260704005920244800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时08分"
+        },
+        {
+          "title": "巴西6月贸易顺差扩大至97.58亿美元，预期盈余110亿美元。 6月出口达到362.77亿美元，预期379亿美元。 6月进口增至265.20亿美元，预期266亿美元。 1-6月贸易盈余423.57亿美元，1-5月顺差326亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3128815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时10分"
+        }
+      ]
+    },
+    {
       "keyword_group": "人工智能 AI",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
@@ -165,8 +309,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 02时08分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 04时10分]"
         },
         {
           "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
@@ -176,8 +320,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 02时08分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 04时10分]"
         },
         {
           "title": "4名大学生出题 AI考了0分",
@@ -187,8 +331,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 02时08分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 04时10分]"
         },
         {
           "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
@@ -198,19 +342,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 02时08分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 04时10分]"
         },
         {
           "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
           "url": "https://wallstreetcn.com/articles/3776098",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 02时08分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 04时10分]"
         },
         {
           "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
@@ -221,8 +366,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 02时08分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 04时10分]"
         },
         {
           "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
@@ -232,8 +377,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 02时08分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 04时10分]"
+        },
+        {
+          "title": "特朗普前AI顾问：美国不会设立类FDA的AI监管机构",
+          "url": "https://wallstreetcn.com/livenews/3128826",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时10分"
         },
         {
           "title": "行业最直观的风向标闪烁红灯，词元经济学动摇AI热潮叙事",
@@ -260,112 +416,6 @@
       ]
     },
     {
-      "keyword_group": "美元 人民币 汇率",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "摩根大通：黄金短期承压 2026下半年或冲4500美元",
-          "url": "https://flash.jin10.com/detail/20260704014528189800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时08分"
-        },
-        {
-          "title": "周五（7月3日），韩元兑美元最终涨0.50%，报1529.72韩元，北京时间14:15以来持稳于1530韩元附近。 本周，韩元累涨0.33%。",
-          "url": "https://wallstreetcn.com/livenews/3128810",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时08分"
-        },
-        {
-          "title": "布伦特9月原油期货收涨0.32美元，涨幅超过0.44%，报72.12美元/桶，本周累计下跌0.66%。 中东Abu Dhabi Murban原油期货涨1.47%，报66.18美元/桶，本周累跌1.61%。",
-          "url": "https://wallstreetcn.com/livenews/3128808",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时08分"
-        },
-        {
-          "title": "摩根大通：预计黄金价格将在近期区间震荡，然后才会出现复苏。 预计2026年三季度均价4300美元/盎司，四季度料位4500美元。 维持长期看涨金价的立场不变，预计将在2027年进一步复苏。",
-          "url": "https://wallstreetcn.com/livenews/3128809",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时08分"
-        },
-        {
-          "title": "SQM合资企业寻求智利30亿美元锂项目获批",
-          "url": "https://wallstreetcn.com/livenews/3128786",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 02时08分]"
-        },
-        {
-          "title": "ICE布伦特原油9月期货结算价为每桶72.12美元。",
-          "url": "https://flash.jin10.com/detail/20260704011953341800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时08分"
-        },
-        {
-          "title": "摩根大通：预计黄金短期内将维持区间震荡，随后回升，2026年第三季度均价为4,300美元/盎司，第四季度均价为4,500美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260704011652357800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时08分"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨2.33%，暂报2234.25点，上周五结束交易以来（7*24）累计上涨5.08%，6月27-30日低位持稳于2100点附近，7月1-3日持续上扬。 MarketVectorTM数字资产100中盘指数涨1.85%，报2573.64点，最近七天累涨3.75%。 MarketVector数字资产100指数涨0.95%，报12402.25点，最近七天累涨4.56%。 目前，Solana涨0.64%、最近七天迄今累涨13%，狗狗币涨2.98%、最近七天迄今累涨1.37%，XRP涨2.77%、、最近七天迄今累涨6.81%。 比特币涨0.85%，暂报62032.74美元，最近七天迄今累涨4.07%；以太坊涨1.97%，暂报1732.62美元，最近七天迄今累涨10.49%。",
-          "url": "https://wallstreetcn.com/livenews/3128802",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时08分"
-        },
-        {
-          "title": "现货钯金日内走低2.00%，现报1225.57美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260704005920244800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时08分"
-        }
-      ]
-    },
-    {
       "keyword_group": "半导体 芯片 集成电路",
       "match_count": 5,
       "titles": [
@@ -377,8 +427,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 02时08分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 04时10分]"
         },
         {
           "title": "一枚芯片拯救了葡萄牙和 C 罗，有人称科技让规则绝对精准，有人称科技让足球失去偶然性和原始美感，你怎么看？",
@@ -389,41 +439,44 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 02时08分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 04时10分]"
         },
         {
           "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
           "url": "https://wallstreetcn.com/articles/3776105",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 02时08分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 04时10分]"
         },
         {
           "title": "【焦点复盘】市场全天现缩量震荡，超160家个股涨逾10%，大批芯片强势股遭遇补跌",
           "url": "https://www.cls.cn/detail/2416647",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 02时08分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 04时10分]"
         },
         {
           "title": "【每日收评】三大指数冲高回落小幅收红，机器人产业链全线爆发，半导体材料概念股集体调整",
           "url": "https://www.cls.cn/detail/2416590",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 02时08分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 04时10分]"
         }
       ]
     },
@@ -439,8 +492,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 02时08分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 04时10分]"
         },
         {
           "title": "三部门调整节能汽车、新能源汽车车船税优惠政策，哪些信息值得关注？",
@@ -451,8 +504,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 02时08分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 04时10分]"
         },
         {
           "title": "新能源汽车车船税优惠政策调整",
@@ -463,8 +516,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 02时08分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 04时10分]"
         }
       ]
     },
@@ -480,8 +533,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 02时08分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 04时10分]"
         },
         {
           "title": "小米高管评老企业不敢承诺十年包修",
@@ -561,11 +614,12 @@
           "url": "https://wallstreetcn.com/livenews/3128806",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时08分 ~ 04时10分]"
         }
       ]
     },
@@ -581,8 +635,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 02时08分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 04时10分]"
         }
       ]
     },
@@ -596,11 +650,12 @@
           "source": "今日头条",
           "ranks": [
             22,
-            26
+            26,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 02时08分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 04时10分]"
         }
       ]
     }
