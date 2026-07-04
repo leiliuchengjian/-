@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T13:37:07.347659+08:00",
-  "total_titles_processed": 869,
+  "generated_at": "2026-07-04T16:22:10.155160+08:00",
+  "total_titles_processed": 1009,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
@@ -29,6 +29,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时27分 ~ 06时54分]"
+        },
+        {
+          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
+          "url": "https://wallstreetcn.com/articles/3776124",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时56分 ~ 16时22分]"
         },
         {
           "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
@@ -67,18 +79,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时27分 ~ 13时37分]"
-        },
-        {
-          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
-          "url": "https://wallstreetcn.com/articles/3776124",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时56分 ~ 13时37分]"
         },
         {
           "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
@@ -217,6 +217,17 @@
           "time_info": "09时50分"
         },
         {
+          "title": "业内首个AI-eSIM产业协同平台成立",
+          "url": "https://wallstreetcn.com/livenews/3128902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
           "title": "如何看待AI模型蒸馏",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85AI%E6%A8%A1%E5%9E%8B%E8%92%B8%E9%A6%8F%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -245,7 +256,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -256,7 +267,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -275,18 +286,54 @@
     },
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
           "url": "https://wallstreetcn.com/articles/3776174",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时36分 ~ 16时22分]"
+        },
+        {
+          "title": "佛得角收获1100万美元赛事奖金",
+          "url": "https://www.toutiao.com/trending/7658547175105777162/",
+          "source": "今日头条",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时36分 ~ 13时37分]"
+          "time_info": "[16时21分 ~ 16时22分]"
+        },
+        {
+          "title": "佛得角队收获1100万美元奖金",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BD%9B%E5%BE%97%E8%A7%92%E9%98%9F%E6%94%B6%E8%8E%B71100%E4%B8%87%E7%BE%8E%E5%85%83%E5%A5%96%E9%87%91%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时36分 ~ 16时22分]"
+        },
+        {
+          "title": "佛得角收获1100万美元奖金",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%9B%E5%BE%97%E8%A7%92%E6%94%B6%E8%8E%B71100%E4%B8%87%E7%BE%8E%E5%85%83%E5%A5%96%E9%87%91",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时36分 ~ 16时22分]"
         },
         {
           "title": "摩根大通：黄金短期承压 2026下半年或冲4500美元",
@@ -450,26 +497,15 @@
           "time_info": "[04时10分 ~ 05时56分]"
         },
         {
-          "title": "佛得角收获1100万美元奖金",
-          "url": "https://www.baidu.com/s?wd=%E4%BD%9B%E5%BE%97%E8%A7%92%E6%94%B6%E8%8E%B71100%E4%B8%87%E7%BE%8E%E5%85%83%E5%A5%96%E9%87%91",
-          "source": "百度热搜",
+          "title": "霉霉夫妇婚礼捐赠2600万美元",
+          "url": "https://www.douyin.com/hot/2557935",
+          "source": "抖音",
           "ranks": [
-            22
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时36分 ~ 13时37分]"
-        },
-        {
-          "title": "佛得角队收获1100万美元奖金",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BD%9B%E5%BE%97%E8%A7%92%E9%98%9F%E6%94%B6%E8%8E%B71100%E4%B8%87%E7%BE%8E%E5%85%83%E5%A5%96%E9%87%91%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时36分 ~ 13时37分]"
+          "time_info": "[16时21分 ~ 16时22分]"
         },
         {
           "title": "ICE布伦特原油9月期货结算价为每桶72.12美元。",
@@ -519,8 +555,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 13时37分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 16时22分]"
         },
         {
           "title": "美元料创4月以来最大单周跌幅 降息预期升温打压走势",
@@ -694,7 +730,7 @@
     },
     {
       "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "非农降温击碎鹰派叙事，道指新高，芯片股再重挫，纳指100盘中跌2%，黄金大涨",
@@ -737,6 +773,22 @@
           "time_info": "[00时27分 ~ 07时56分]"
         },
         {
+          "title": "一颗14克的芯片，拯救了葡萄牙和C罗",
+          "url": "https://wallstreetcn.com/articles/3776164",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            5,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[05时55分 ~ 16时22分]"
+        },
+        {
           "title": "【焦点复盘】市场全天现缩量震荡，超160家个股涨逾10%，大批芯片强势股遭遇补跌",
           "url": "https://www.cls.cn/detail/2416647",
           "source": "财联社热门",
@@ -762,30 +814,16 @@
           "time_info": "[00时27分 ~ 07时56分]"
         },
         {
-          "title": "一颗14克的芯片，拯救了葡萄牙和C罗",
-          "url": "https://wallstreetcn.com/articles/3776164",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时55分 ~ 13时37分]"
-        },
-        {
           "title": "美光斥资90亿美元扩建日本西部芯片工厂",
           "url": "https://flash.jin10.com/detail/20260704122345270800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时37分 ~ 16时22分]"
         },
         {
           "title": "首款神经动力学芯片问世，有助于脑机接口等技术发展",
@@ -794,7 +832,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -805,9 +843,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：准备协助海外芯片制造商在日本投资。",
+          "url": "https://flash.jin10.com/detail/20260704135129983800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：准备援助在日投资的海外芯片制造商。",
+          "url": "https://wallstreetcn.com/livenews/3128897",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "存储芯片涨价",
@@ -823,71 +883,53 @@
       ]
     },
     {
-      "keyword_group": "华为 小米 荣耀",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "月供五百开SU7?小米拿捏年轻人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355844&amp;topic_name=%E6%9C%88%E4%BE%9B%E4%BA%94%E7%99%BE%E5%BC%80SU7%3F%E5%B0%8F%E7%B1%B3%E6%8B%BF%E6%8D%8F%E5%B9%B4%E8%BD%BB%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            24,
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 09时50分]"
-        },
-        {
-          "title": "华为何庭波发布 V2 版“韬定律”论文 补充工程细节和实测数据",
-          "url": "https://flash.jin10.com/detail/20260704125108512800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时37分"
-        },
-        {
-          "title": "华为何庭波发布V2版“韬定律”论文，补充工程细节和实测数据",
-          "url": "https://wallstreetcn.com/livenews/3128891",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时37分"
-        },
-        {
-          "title": "小米高管评老企业不敢承诺十年包修",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E9%AB%98%E7%AE%A1%E8%AF%84%E8%80%81%E4%BC%81%E4%B8%9A%E4%B8%8D%E6%95%A2%E6%89%BF%E8%AF%BA%E5%8D%81%E5%B9%B4%E5%8C%85%E4%BF%AE%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时28分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "苹果 iPhone",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "华强北提前开苹果发布会了",
           "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E5%BC%BA%E5%8C%97%E6%8F%90%E5%89%8D%E5%BC%80%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A%E4%BA%86&t=31&band_rank=17&Refer=top",
           "source": "微博",
           "ranks": [
-            17
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时36分 ~ 16时22分]"
+        },
+        {
+          "title": "印度正调查泄密iPhone事件",
+          "url": "https://www.douyin.com/hot/2557979",
+          "source": "抖音",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时36分 ~ 13时37分]"
+          "time_info": "[16时21分 ~ 16时22分]"
+        },
+        {
+          "title": "如何看待苹果手机信息泄露，程度堪比马圣开源？",
+          "url": "https://www.zhihu.com/question/2055966649900183829",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 16时22分]"
+        },
+        {
+          "title": "曝iPhone18无缘iOS27两大功能",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DiPhone18%E6%97%A0%E7%BC%98iOS27%E4%B8%A4%E5%A4%A7%E5%8A%9F%E8%83%BD%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 16时22分]"
         },
         {
           "title": "印度政府：正调查苹果手机信息泄露事件",
@@ -896,7 +938,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -921,6 +963,71 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为 小米 荣耀",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "月供五百开SU7?小米拿捏年轻人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355844&amp;topic_name=%E6%9C%88%E4%BE%9B%E4%BA%94%E7%99%BE%E5%BC%80SU7%3F%E5%B0%8F%E7%B1%B3%E6%8B%BF%E6%8D%8F%E5%B9%B4%E8%BD%BB%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            24,
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 09时50分]"
+        },
+        {
+          "title": "奕境X9将搭载华为乾崑智驾ADS 5",
+          "url": "https://wallstreetcn.com/livenews/3128915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "华为何庭波发布 V2 版“韬定律”论文 补充工程细节和实测数据",
+          "url": "https://flash.jin10.com/detail/20260704125108512800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时37分 ~ 16时22分]"
+        },
+        {
+          "title": "华为何庭波发布V2版“韬定律”论文，补充工程细节和实测数据",
+          "url": "https://wallstreetcn.com/livenews/3128891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时37分 ~ 16时22分]"
+        },
+        {
+          "title": "小米高管评老企业不敢承诺十年包修",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E9%AB%98%E7%AE%A1%E8%AF%84%E8%80%81%E4%BC%81%E4%B8%9A%E4%B8%8D%E6%95%A2%E6%89%BF%E8%AF%BA%E5%8D%81%E5%B9%B4%E5%8C%85%E4%BF%AE%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时28分]"
         }
       ]
     },
@@ -975,11 +1082,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33511352",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 16时22分]"
         }
       ]
     },
@@ -1025,8 +1133,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时36分 ~ 13时37分]"
+          "appearance_count": 4,
+          "time_info": "[13时36分 ~ 16时22分]"
         },
         {
           "title": "宇树高管谈具身智能ChatGPT时刻",
@@ -1035,7 +1143,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         }
