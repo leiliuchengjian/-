@@ -1,12 +1,171 @@
 {
-  "generated_at": "2026-07-06T06:50:48.516011+08:00",
-  "total_titles_processed": 529,
+  "generated_at": "2026-07-06T07:56:14.875058+08:00",
+  "total_titles_processed": 600,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美元 人民币 汇率",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "HBM竞赛升级！美光日本90亿美元扩建项目开工，预计2028年出货",
+          "url": "https://wallstreetcn.com/articles/3776210",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 07时56分]"
+        },
+        {
+          "title": "美光93亿美元扩建广岛项目动工 预计2028下半年出货HBM",
+          "url": "https://www.cls.cn/detail/2417195",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 07时56分]"
+        },
+        {
+          "title": "现货黄金站上4200美元",
+          "url": "https://flash.jin10.com/detail/20260706072831809800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时56分"
+        },
+        {
+          "title": "墨西哥全队退还百万美元名表",
+          "url": "https://www.baidu.com/s?wd=%E5%A2%A8%E8%A5%BF%E5%93%A5%E5%85%A8%E9%98%9F%E9%80%80%E8%BF%98%E7%99%BE%E4%B8%87%E7%BE%8E%E5%85%83%E5%90%8D%E8%A1%A8",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时50分 ~ 07时56分]"
+        },
+        {
+          "title": "招商轮船：预计上半年净利润为人民币66亿元-73亿元，同比增加 214%-248%",
+          "url": "https://wallstreetcn.com/livenews/3128977",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 05时51分]"
+        },
+        {
+          "title": "纽约期金站上4200美元/盎司，日内涨1.80%。",
+          "url": "https://flash.jin10.com/detail/20260706063331026800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时50分 ~ 07时56分]"
+        },
+        {
+          "title": "现货白银站上63美元/盎司，日内涨1.03%。",
+          "url": "https://flash.jin10.com/detail/20260706062940266800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时50分 ~ 07时56分]"
+        },
+        {
+          "title": "现货黄金周一开盘高开近10美元后回落至4178.75美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260706060134131800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时50分 ~ 07时56分]"
+        },
+        {
+          "title": "WTI原油周一小幅低开0.3%，现报68.54美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260706060042874800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时50分 ~ 07时56分]"
+        },
+        {
+          "title": "麦格理：将双汇发展评级下调至中性，目标价23元人民币。",
+          "url": "https://flash.jin10.com/detail/20260705235542214800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时11分"
+        },
+        {
+          "title": "现货黄金站上4190美元/盎司，日内涨0.37%。",
+          "url": "https://flash.jin10.com/detail/20260706063735558800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时56分"
+        },
+        {
+          "title": "美国高级官员：（特朗普）将在北约峰会期间宣布涉及数十亿美元的计划。",
+          "url": "https://flash.jin10.com/detail/20260706011614677800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时00分"
+        }
+      ]
+    },
     {
       "keyword_group": "人工智能 AI",
       "match_count": 11,
       "titles": [
+        {
+          "title": "HBM之父金正浩：AI的本质是内存，GPU真正工作的时间只有10%",
+          "url": "https://wallstreetcn.com/articles/3776219",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 07时56分]"
+        },
         {
           "title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧",
           "url": "https://wallstreetcn.com/articles/3776218",
@@ -16,20 +175,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 06时50分]"
-        },
-        {
-          "title": "HBM之父金正浩：AI的本质是内存，GPU真正工作的时间只有10%",
-          "url": "https://wallstreetcn.com/articles/3776219",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 06时50分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 07时56分]"
         },
         {
           "title": "智能体下线,AI女友凉了？",
@@ -37,11 +184,12 @@
           "source": "贴吧",
           "ranks": [
             8,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 06时50分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 07时56分]"
         },
         {
           "title": "有业绩支撑的非AI板块修复在即？十大券商策略来了",
@@ -51,11 +199,12 @@
             13,
             12,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时11分 ~ 06时50分]"
+          "appearance_count": 9,
+          "time_info": "[01时11分 ~ 07时56分]"
         },
         {
           "title": "2026中国互联网大会将举办，聚焦AI产业化落地、算力互联互通等核心议题",
@@ -63,11 +212,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 06时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 07时56分]"
         },
         {
           "title": "电诈人员用AI同时和100多人聊天",
@@ -98,11 +248,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            15
+            15,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时51分 ~ 06时50分]"
+          "appearance_count": 3,
+          "time_info": "[05时51分 ~ 07时56分]"
         },
         {
           "title": "国泰海通：机器人、商业航天、AI新材料等主题投资再次兴起",
@@ -140,127 +291,8 @@
       ]
     },
     {
-      "keyword_group": "美元 人民币 汇率",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "HBM竞赛升级！美光日本90亿美元扩建项目开工，预计2028年出货",
-          "url": "https://wallstreetcn.com/articles/3776210",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 06时50分]"
-        },
-        {
-          "title": "美光93亿美元扩建广岛项目动工 预计2028下半年出货HBM",
-          "url": "https://www.cls.cn/detail/2417195",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 06时50分]"
-        },
-        {
-          "title": "纽约期金站上4200美元/盎司，日内涨1.80%。",
-          "url": "https://flash.jin10.com/detail/20260706063331026800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时50分"
-        },
-        {
-          "title": "现货白银站上63美元/盎司，日内涨1.03%。",
-          "url": "https://flash.jin10.com/detail/20260706062940266800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时50分"
-        },
-        {
-          "title": "招商轮船：预计上半年净利润为人民币66亿元-73亿元，同比增加 214%-248%",
-          "url": "https://wallstreetcn.com/livenews/3128977",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 05时51分]"
-        },
-        {
-          "title": "墨西哥全队退还百万美元名表",
-          "url": "https://www.baidu.com/s?wd=%E5%A2%A8%E8%A5%BF%E5%93%A5%E5%85%A8%E9%98%9F%E9%80%80%E8%BF%98%E7%99%BE%E4%B8%87%E7%BE%8E%E5%85%83%E5%90%8D%E8%A1%A8",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时50分 ~ 06时50分]"
-        },
-        {
-          "title": "现货黄金周一开盘高开近10美元后回落至4178.75美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260706060134131800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时50分"
-        },
-        {
-          "title": "WTI原油周一小幅低开0.3%，现报68.54美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260706060042874800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时50分"
-        },
-        {
-          "title": "麦格理：将双汇发展评级下调至中性，目标价23元人民币。",
-          "url": "https://flash.jin10.com/detail/20260705235542214800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "美国高级官员：（特朗普）将在北约峰会期间宣布涉及数十亿美元的计划。",
-          "url": "https://flash.jin10.com/detail/20260706011614677800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时00分"
-        }
-      ]
-    },
-    {
       "keyword_group": "苹果 iPhone",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "印度工厂泄露 iPhone18Pro 机密，这如何影响苹果在印度的布局？",
@@ -270,23 +302,12 @@
             14,
             7,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 06时50分]"
-        },
-        {
-          "title": "印度再坑苹果,机密惨遭开源",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355913&amp;topic_name=%E5%8D%B0%E5%BA%A6%E5%86%8D%E5%9D%91%E8%8B%B9%E6%9E%9C%2C%E6%9C%BA%E5%AF%86%E6%83%A8%E9%81%AD%E5%BC%80%E6%BA%90",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 06时50分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 07时56分]"
         },
         {
           "title": "印度政府正调查塔塔电子大规模数据泄露事件， 涉及苹果、特斯拉，这种泄露影响有多大？暴露了哪些安全隐患？",
@@ -298,8 +319,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时13分 ~ 06时50分]"
+          "appearance_count": 6,
+          "time_info": "[04时13分 ~ 07时56分]"
+        },
+        {
+          "title": "印度再坑苹果,机密惨遭开源",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355913&amp;topic_name=%E5%8D%B0%E5%BA%A6%E5%86%8D%E5%9D%91%E8%8B%B9%E6%9E%9C%2C%E6%9C%BA%E5%AF%86%E6%83%A8%E9%81%AD%E5%BC%80%E6%BA%90",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 07时56分]"
         },
         {
           "title": "郭明錤称苹果折叠手机或与其他机型同场发布、较晚开卖，供应紧张延续至年底",
@@ -307,11 +341,23 @@
           "source": "金十数据",
           "ranks": [
             1,
-            14
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时51分 ~ 07时56分]"
+        },
+        {
+          "title": "苹果印度代工厂被开源",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E5%8D%B0%E5%BA%A6%E4%BB%A3%E5%B7%A5%E5%8E%82%E8%A2%AB%E5%BC%80%E6%BA%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时51分 ~ 06时50分]"
+          "time_info": "[07时55分 ~ 07时56分]"
         }
       ]
     },
@@ -339,19 +385,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 06时50分]"
-        },
-        {
-          "title": "韩国拟设“未来应对基金”，以半导体税收支持未来增长",
-          "url": "https://wallstreetcn.com/livenews/3129027",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时50分"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 07时56分]"
         },
         {
           "title": "韩国总统幕僚长：政府寻求利用半导体繁荣带来的税收盈余设立“未来应对基金”。基金应投资于未来的增长动力，解决K型两极分化问题。",
@@ -363,6 +398,57 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时02分 ~ 05时51分]"
+        },
+        {
+          "title": "韩国拟设“未来应对基金”，以半导体税收支持未来增长",
+          "url": "https://wallstreetcn.com/livenews/3129027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时50分 ~ 07时56分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "央行 降息 降准 CPI 物价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "物价悄悄上涨真的很可怕",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%A9%E4%BB%B7%E6%82%84%E6%82%84%E4%B8%8A%E6%B6%A8%E7%9C%9F%E7%9A%84%E5%BE%88%E5%8F%AF%E6%80%95&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 06时50分]"
+        },
+        {
+          "title": "韩国央行称，将密切关注韩元24小时交易的影响及走势。",
+          "url": "https://wallstreetcn.com/livenews/3129043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时56分"
+        },
+        {
+          "title": "本周重要事件与数据预告：美联储会议纪要；中国CPI、外储；SK海力士登陆美股",
+          "url": "https://flash.jin10.com/detail/20260706070621012800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时56分"
         }
       ]
     },
@@ -375,11 +461,12 @@
           "url": "https://www.cls.cn/detail/2417200",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 06时50分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 07时56分]"
         },
         {
           "title": "一辆华为问界 M9 于隧道内起火，起火原因不明，但现场没有明显碰撞痕迹，具体原因可能是怎样的？",
@@ -389,11 +476,12 @@
             19,
             13,
             10,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时11分 ~ 06时50分]"
+          "appearance_count": 9,
+          "time_info": "[01时11分 ~ 07时56分]"
         }
       ]
     },
@@ -411,25 +499,25 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 06时50分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 07时56分]"
         }
       ]
     },
     {
-      "keyword_group": "央行 降息 降准 CPI 物价",
+      "keyword_group": "基础设施 基建 地铁 高铁",
       "match_count": 1,
       "titles": [
         {
-          "title": "物价悄悄上涨真的很可怕",
-          "url": "https://s.weibo.com/weibo?q=%E7%89%A9%E4%BB%B7%E6%82%84%E6%82%84%E4%B8%8A%E6%B6%A8%E7%9C%9F%E7%9A%84%E5%BE%88%E5%8F%AF%E6%80%95&t=31&band_rank=21&Refer=top",
-          "source": "微博",
+          "title": "在重庆坐个地铁也太难了",
+          "url": "https://www.douyin.com/hot/2558851",
+          "source": "抖音",
           "ranks": [
-            21
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 06时50分]"
+          "appearance_count": 2,
+          "time_info": "[07时55分 ~ 07时56分]"
         }
       ]
     },
@@ -443,11 +531,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 06时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 07时56分]"
         }
       ]
     },
@@ -465,8 +554,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 06时50分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 07时56分]"
         }
       ]
     }
