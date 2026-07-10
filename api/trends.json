@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T09:49:36.589100+08:00",
-  "total_titles_processed": 720,
+  "generated_at": "2026-07-10T13:53:43.383729+08:00",
+  "total_titles_processed": 933,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "现货黄金回落至4110美元/盎司下方，日内跌0.34%。",
@@ -14,7 +14,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         },
@@ -59,11 +59,24 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时02分 ~ 13时53分]"
+        },
+        {
+          "title": "美元 / 日元从 100 跌到 160 这几年，日本国内有什么变化吗？",
+          "url": "https://www.zhihu.com/question/2052496384218117286",
+          "source": "知乎",
+          "ranks": [
+            12,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时02分 ~ 09时49分]"
+          "time_info": "[09时49分 ~ 13时53分]"
         },
         {
           "title": "WTI 8月原油期货收跌1.44美元，跌幅1.96%，报72.08美元/桶。 中东Abu Dhabi Murban原油期货跌3.13%，报71.27美元/桶。 NYMEX 8月天然气期货收报3.0120美元/百万英热单位。 NYMEX 8月汽油期货收报3.0387美元/加仑，NYMEX 8月取暖油期货收报3.5716美元/加仑。",
@@ -99,6 +112,17 @@
           "time_info": "03时20分"
         },
         {
+          "title": "MiniMax合计约20亿美元的股份配售和可转换债券发行获得投资者数倍超额认购。做多策略的投资者参与认购，现有股东以及接受越墙安排的投资者也参与认购。MiniMax的管理层深度参与了配售。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3131756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
           "title": "WTI原油日内大跌4.00%，现报71.54美元/桶。布伦特原油向下触及76美元/桶，日内跌3.75%。",
           "url": "https://flash.jin10.com/detail/20260710005458441800",
           "source": "金十数据",
@@ -127,18 +151,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        },
-        {
-          "title": "美元 / 日元从 100 跌到 160 这几年，日本国内有什么变化吗？",
-          "url": "https://www.zhihu.com/question/2052496384218117286",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         },
@@ -237,7 +250,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         },
@@ -248,9 +261,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
+        },
+        {
+          "title": "汇丰：将微软(MSFT.O)目标价从571美元下调至567美元。",
+          "url": "https://flash.jin10.com/detail/20260710131535304800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         },
         {
           "title": "布伦特原油日内跌幅达3.0%，报75.66美元/桶。",
@@ -303,7 +327,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         },
@@ -377,7 +401,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "午后大反击！创业板暴涨超4%，科创50狂飙8%，中芯国际创新高，港股AI大模型双雄分化，智谱涨11%、MINIMAX大跌18%",
@@ -386,11 +410,12 @@
           "ranks": [
             5,
             6,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时11分 ~ 09时49分]"
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 13时53分]"
         },
         {
           "title": "美联储会议纪要：通胀担忧加剧，少数官员支持6月加息，AI跻身三大通胀风险",
@@ -468,7 +493,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         },
@@ -505,8 +530,20 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时02分 ~ 13时53分]"
+        },
+        {
+          "title": "美联储官宣五大改革工作组领导阵容，前央行行长、硅谷AI大佬、诺奖经济学家加盟",
+          "url": "https://wallstreetcn.com/articles/3776606",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时02分 ~ 09时49分]"
+          "time_info": "[09时49分 ~ 13时53分]"
         },
         {
           "title": "OpenAI：Chatgpt Work将开始向网页版和移动端的Pro、Enterprise及Edu用户推出，Plus和Business用户将在未来几天陆续获得访问权限。",
@@ -520,17 +557,6 @@
           "time_info": "01时12分"
         },
         {
-          "title": "美联储官宣五大改革工作组领导阵容，前央行行长、硅谷AI大佬、诺奖经济学家加盟",
-          "url": "https://wallstreetcn.com/articles/3776606",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        },
-        {
           "title": "Meta：探索AI云业务是合理的，考虑出租算力",
           "url": "https://wallstreetcn.com/livenews/3131509",
           "source": "华尔街见闻-快讯",
@@ -540,6 +566,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "美国AI股太贵了？顶级基金经理：转战中国科技股、英股高股息与全球能源",
+          "url": "https://wallstreetcn.com/articles/3776590",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         },
         {
           "title": "OpenAI：推出由GPT-5.6驱动的Chatgpt Work，这是我们最新的前沿模型系列。全新Chatgpt桌面应用将聊天、工作与Codex整合在一起。",
@@ -562,6 +599,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "国家能源局：鼓励能源领域人工智能模型创新，探索数智化节能降碳解决方案",
+          "url": "https://wallstreetcn.com/livenews/3131743",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
+          "title": "经纬度：AI硬件、机器人出海，上海外贸新引擎动力十足",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33549462",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         },
         {
           "title": "OpenAI：微软将通过API调用其模型，向Microsoft 365客户推出GPT-5.6服务。",
@@ -603,7 +662,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         },
@@ -622,7 +681,7 @@
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "国家统计局：6月份CPI同比上涨1.0%",
@@ -710,7 +769,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         },
@@ -754,7 +813,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         },
@@ -768,6 +827,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "6 月 PPI 同比上涨 4.1% 、 CPI 上涨 1.0%，数据分化意味着什么？下半年走势如何？",
+          "url": "https://www.zhihu.com/question/2058572492420145492",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         },
         {
           "title": "欧洲央行行长拉加德：不会参加法国总统竞选。",
@@ -798,7 +868,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         },
@@ -817,7 +887,7 @@
     },
     {
       "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨",
@@ -844,6 +914,17 @@
           "time_info": "[01时11分 ~ 07时02分]"
         },
         {
+          "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
+          "url": "https://wallstreetcn.com/articles/3776523",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 13时53分]"
+        },
+        {
           "title": "美股期指上涨 纳指期货涨近1% 芯片股盘前集体走强 | 今夜看点",
           "url": "https://www.cls.cn/detail/2422043",
           "source": "财联社热门",
@@ -856,15 +937,15 @@
           "time_info": "[01时11分 ~ 09时49分]"
         },
         {
-          "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
-          "url": "https://wallstreetcn.com/articles/3776523",
-          "source": "华尔街见闻",
+          "title": "【数读IPO】今日1申购2上市，涉及半导体零部件龙头等",
+          "url": "https://www.cls.cn/detail/2422276",
+          "source": "财联社热门",
           "ranks": [
-            1
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 13时53分]"
         },
         {
           "title": "拐点已至！长鑫IPO或引爆国产半导体Capex新周期",
@@ -888,17 +969,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
-        },
-        {
-          "title": "【数读IPO】今日1申购2上市，涉及半导体零部件龙头等",
-          "url": "https://www.cls.cn/detail/2422276",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时49分"
         },
         {
           "title": "卢特尼克敦促SK海力士、三星扩大美国存储芯片产能",
@@ -981,13 +1051,24 @@
           "time_info": "05时12分"
         },
         {
+          "title": "乾照光电：在研100G VCSEL光芯片可用于800G光模块",
+          "url": "https://flash.jin10.com/detail/20260710125741426800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
           "title": "美国商务部长敦促SK海力士和三星电子扩大在美国的内存芯片产能",
           "url": "https://wallstreetcn.com/livenews/3131607",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         }
@@ -1047,7 +1128,7 @@
     },
     {
       "keyword_group": "华为 小米 荣耀",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "雷军提出车内空间不该固定，小米澎程主打「空间自定义」，这有必要吗？会不会重新定义未来家用车的设计逻辑？",
@@ -1056,11 +1137,12 @@
           "ranks": [
             6,
             3,
-            8
+            8,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时11分 ~ 09时49分]"
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 13时53分]"
         },
         {
           "title": "华为联合伙伴发起OPEN NPO项目",
@@ -1069,9 +1151,88 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
+        },
+        {
+          "title": "NPO规模商用有望加速 华为发起首个多源协议 多家A股公司参与",
+          "url": "https://www.cls.cn/detail/2422336",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英伟达 台积电 AMD 高通",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "胜宏科技回应英伟达传闻：核心客户合作平稳，产品正常推进",
+          "url": "https://wallstreetcn.com/livenews/3131758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
+          "title": "台积电表示将推迟月度销售业绩公布日期至7月13日。今日，台股因台风休市一日。",
+          "url": "https://wallstreetcn.com/livenews/3131623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
+          "title": "胜宏科技回应英伟达传闻：核心客户合作平稳，产品正常推进",
+          "url": "https://flash.jin10.com/detail/20260710125206051800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 iPhone",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "印度工厂泄密对苹果影响有多大",
+          "url": "https://www.toutiao.com/trending/7660463339939565097/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时20分 ~ 05时12分]"
+        },
+        {
+          "title": "苹果很感兴趣！美初创公司将阿里270亿参数量模型压进iPhone",
+          "url": "https://www.cls.cn/detail/2422239",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         }
       ]
     },
@@ -1116,7 +1277,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         },
@@ -1127,27 +1288,9 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 iPhone",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "印度工厂泄密对苹果影响有多大",
-          "url": "https://www.toutiao.com/trending/7660463339939565097/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时20分 ~ 05时12分]"
         }
       ]
     },
@@ -1177,28 +1320,12 @@
           "url": "https://wallstreetcn.com/articles/3776605",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英伟达 台积电 AMD 高通",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "台积电表示将推迟月度销售业绩公布日期至7月13日。今日，台股因台风休市一日。",
-          "url": "https://wallstreetcn.com/livenews/3131623",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 13时53分]"
         }
       ]
     },
