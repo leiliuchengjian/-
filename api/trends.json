@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T19:50:46.370542+08:00",
-  "total_titles_processed": 1294,
+  "generated_at": "2026-07-10T21:56:03.844842+08:00",
+  "total_titles_processed": 1451,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 45,
+      "match_count": 51,
       "titles": [
         {
           "title": "报道：SK海力士ADR指导价149美元，较韩股收盘价溢价3.1%",
@@ -18,8 +18,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时02分 ~ 19时50分]"
+          "appearance_count": 8,
+          "time_info": "[07时02分 ~ 21时56分]"
         },
         {
           "title": "Argus Research：将微软(MSFT.O)目标价从620美元下调至510美元。",
@@ -28,7 +28,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -42,6 +42,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
+        },
+        {
+          "title": "SK海力士美国存托凭证预示开盘价或为180美元，发行价为149美元。",
+          "url": "https://flash.jin10.com/detail/20260710215204806800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7910元，较周三夜盘收盘涨142点。成交量431.64亿美元。",
@@ -122,6 +133,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时00分"
+        },
+        {
+          "title": "美国天然气期货日内跌幅达3.00%，现报2.921美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260710214203255800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         },
         {
           "title": "上期所原油期货2608合约夜盘收跌3.22%，报465.20元人民币/桶。 沪金夜盘收涨1.31%，沪银收涨3.22%。",
@@ -306,7 +328,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -353,6 +375,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
+        },
+        {
+          "title": "现货黄金跌破4090美元/盎司，日内跌0.82%。纽约期金向下触及4100美元/盎司，日内跌0.79%。",
+          "url": "https://flash.jin10.com/detail/20260710212811599800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
+        },
+        {
+          "title": "杰富瑞：将雪佛龙公司目标价从236美元下调至216美元。",
+          "url": "https://flash.jin10.com/detail/20260710212754606800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
+        },
+        {
+          "title": "宏观对冲基金Deem从阿布扎比投资委员会（ADIC）筹集了10亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3132096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         },
         {
           "title": "布伦特原油日内跌幅达3.0%，报75.66美元/桶。",
@@ -405,7 +460,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -482,9 +537,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
+        },
+        {
+          "title": "英镑兑美元GBP/USD一年期隐含波动率降至6.9275%，为2020年2月以来最低水平。",
+          "url": "https://flash.jin10.com/detail/20260710211012380800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         },
         {
           "title": "美国投资公司协会（ICI）：美国货币市场资产达到7.953万亿美元，创历史新高。",
@@ -512,7 +578,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "午后大反击！创业板暴涨超4%，科创50狂飙8%，中芯国际创新高，港股AI大模型双雄分化，智谱涨11%、MINIMAX大跌18%",
@@ -540,6 +606,20 @@
           "time_info": "[01时11分 ~ 05时12分]"
         },
         {
+          "title": "美联储官宣五大改革工作组领导阵容，前央行行长、硅谷AI大佬、诺奖经济学家加盟",
+          "url": "https://wallstreetcn.com/articles/3776606",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时49分 ~ 21时56分]"
+        },
+        {
           "title": "海力士美股IPO点燃AI热情，美股高开，科技股反弹，康宁涨超8%，黄金涨超1%，原油回落",
           "url": "https://wallstreetcn.com/articles/3776523",
           "source": "华尔街见闻",
@@ -556,11 +636,12 @@
           "url": "https://www.cls.cn/detail/2422609",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时59分 ~ 19时50分]"
+          "appearance_count": 5,
+          "time_info": "[16时59分 ~ 21时56分]"
         },
         {
           "title": "日本高中生携AI爆破被捕",
@@ -573,20 +654,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时11分 ~ 09时49分]"
-        },
-        {
-          "title": "美联储官宣五大改革工作组领导阵容，前央行行长、硅谷AI大佬、诺奖经济学家加盟",
-          "url": "https://wallstreetcn.com/articles/3776606",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时49分 ~ 19时50分]"
         },
         {
           "title": "韩股跌入熊市，高盛建议客户“转投中国AI产业链”",
@@ -693,6 +760,18 @@
           "time_info": "[16时59分 ~ 19时50分]"
         },
         {
+          "title": "【每日收评】创业板指放量跌超4%，半导体、AI硬件股集体调整，创新药板块逆势活跃",
+          "url": "https://www.cls.cn/detail/2422921",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时50分 ~ 21时56分]"
+        },
+        {
           "title": "经纬度：AI硬件、机器人出海，上海外贸新引擎动力十足",
           "url": "https://m.thepaper.cn/newsDetail_forward_33549462",
           "source": "澎湃新闻",
@@ -725,6 +804,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时59分 ~ 17时00分]"
+        },
+        {
+          "title": "SpaceXAI 发布 Grok 4.5，和 Cursor 一起联合开发的 AI 模型有什么特别的？",
+          "url": "https://www.zhihu.com/question/2058472497230648834",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 21时56分]"
         },
         {
           "title": "村上春树新书发售当天就出现 AI 译本，AI 译文质量靠谱吗？会普及吗？你能接受阅读 AI 译版作品吗？",
@@ -782,26 +872,26 @@
           "time_info": "01时12分"
         },
         {
-          "title": "【每日收评】创业板指放量跌超4%，半导体、AI硬件股集体调整，创新药板块逆势活跃",
-          "url": "https://www.cls.cn/detail/2422921",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时50分"
-        },
-        {
           "title": "听障人士用AI做了款反诈应用",
           "url": "https://www.toutiao.com/trending/7660363750279086121/",
           "source": "今日头条",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
+        },
+        {
+          "title": "AI投资狂潮之下 科技巨头债务规模翻倍",
+          "url": "https://wallstreetcn.com/livenews/3132102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         },
         {
           "title": "OpenAI：GPT‑5.6现已成为微软365 Copilot的首选模型。",
@@ -920,9 +1010,232 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体 芯片 集成电路",
+      "match_count": 19,
+      "titles": [
+        {
+          "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
+          "url": "https://wallstreetcn.com/articles/3776523",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时49分 ~ 21时56分]"
+        },
+        {
+          "title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨",
+          "url": "https://wallstreetcn.com/articles/3776425",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 07时02分]"
+        },
+        {
+          "title": "半导体行业两大催化共振 科创50创今年最大单日涨幅",
+          "url": "https://www.cls.cn/detail/2421662",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 07时02分]"
+        },
+        {
+          "title": "美股期指上涨 纳指期货涨近1% 芯片股盘前集体走强 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2422043",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时11分 ~ 09时49分]"
+        },
+        {
+          "title": "【数读IPO】今日1申购2上市，涉及半导体零部件龙头等",
+          "url": "https://www.cls.cn/detail/2422276",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 13时53分]"
+        },
+        {
+          "title": "拐点已至！长鑫IPO或引爆国产半导体Capex新周期",
+          "url": "https://wallstreetcn.com/articles/3776548",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 07时02分]"
+        },
+        {
+          "title": "芯片股领涨提振美股，油价下跌令市场暂时搁置地缘风险，黄金加密货币反弹",
+          "url": "https://wallstreetcn.com/articles/3776523",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "卢特尼克敦促SK海力士、三星扩大美国存储芯片产能",
+          "url": "https://flash.jin10.com/detail/20260710044106700800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时12分 ~ 07时02分]"
+        },
+        {
+          "title": "怎么看印度扬言要在芯片领域超过中国",
+          "url": "https://www.toutiao.com/trending/7660534796434542143/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 07时02分]"
+        },
+        {
+          "title": "【每日收评】创业板指探底回升涨超4%，半导体产业链持续爆发，算力硬件股集体反攻",
+          "url": "https://www.cls.cn/detail/2421711",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 03时20分]"
+        },
+        {
+          "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2423243",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 21时56分]"
+        },
+        {
+          "title": "半导体设备新股暴涨1070%",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%AE%BE%E5%A4%87%E6%96%B0%E8%82%A1%E6%9A%B4%E6%B6%A81070%25%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 21时56分]"
+        },
+        {
+          "title": "半导体大跌结束了吗",
+          "url": "https://www.toutiao.com/trending/7660877593171725874/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 21时56分]"
+        },
+        {
+          "title": "周四（7月9日），美股行业ETF多数收涨，半导体ETF涨2.48%，科技行业ETF涨2.18%，全球科技股指数ETF涨2.06%，日常消费品ETF、能源业ETF至少跌1.40%。",
+          "url": "https://wallstreetcn.com/livenews/3131539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "标普500指数收涨60.93点，涨幅0.81%，报7543.64点。 道琼斯工业平均指数收涨139.02点，涨幅0.27%，报52487.41点。 纳斯达克综合指数（纳指）收涨336.238点，涨幅1.30%，报26206.89点。 纳斯达克100指数收涨474.535点，涨幅1.62%，报29727.097点。 纳斯达克科技市值加权指数收涨1.74%，报2939.4248点。 费城半导体指数收涨385.036点，涨幅3.06%，报12960.003点。 费城证交所KBW银行指数收涨1.93%，报186.26点。 道琼斯KBW地区银行指数收涨1.66%，报145.18点。 罗素2000指数收涨1.22%，报2992.541点。 纳斯达克生物科技指数收涨0.39%，报6818.99点。 标普中盘股400指数收涨1.24%，纳斯达克美国中等市值指数涨1.08%。 恐慌指数VIX收跌6.27%，报15.84。",
+          "url": "https://wallstreetcn.com/livenews/3131531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "标普500指数涨超0.5%，刷新日高，道指涨超0.2%，纳指涨约0.8%，半导体指数涨4.6%。",
+          "url": "https://wallstreetcn.com/livenews/3131459",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 芯片股走强",
+          "url": "https://flash.jin10.com/detail/20260710040126846800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "乾照光电：在研100G VCSEL光芯片可用于800G光模块",
+          "url": "https://flash.jin10.com/detail/20260710125741426800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
+          "title": "美国商务部长敦促SK海力士和三星电子扩大在美国的内存芯片产能",
+          "url": "https://wallstreetcn.com/livenews/3131607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时49分"
         }
       ]
     },
@@ -972,7 +1285,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -1144,196 +1457,6 @@
       ]
     },
     {
-      "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨",
-          "url": "https://wallstreetcn.com/articles/3776425",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 07时02分]"
-        },
-        {
-          "title": "半导体行业两大催化共振 科创50创今年最大单日涨幅",
-          "url": "https://www.cls.cn/detail/2421662",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 07时02分]"
-        },
-        {
-          "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
-          "url": "https://wallstreetcn.com/articles/3776523",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时49分 ~ 19时50分]"
-        },
-        {
-          "title": "美股期指上涨 纳指期货涨近1% 芯片股盘前集体走强 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2422043",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时11分 ~ 09时49分]"
-        },
-        {
-          "title": "【数读IPO】今日1申购2上市，涉及半导体零部件龙头等",
-          "url": "https://www.cls.cn/detail/2422276",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时49分 ~ 13时53分]"
-        },
-        {
-          "title": "拐点已至！长鑫IPO或引爆国产半导体Capex新周期",
-          "url": "https://wallstreetcn.com/articles/3776548",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 07时02分]"
-        },
-        {
-          "title": "芯片股领涨提振美股，油价下跌令市场暂时搁置地缘风险，黄金加密货币反弹",
-          "url": "https://wallstreetcn.com/articles/3776523",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "卢特尼克敦促SK海力士、三星扩大美国存储芯片产能",
-          "url": "https://flash.jin10.com/detail/20260710044106700800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时12分 ~ 07时02分]"
-        },
-        {
-          "title": "怎么看印度扬言要在芯片领域超过中国",
-          "url": "https://www.toutiao.com/trending/7660534796434542143/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            21,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 07时02分]"
-        },
-        {
-          "title": "【每日收评】创业板指探底回升涨超4%，半导体产业链持续爆发，算力硬件股集体反攻",
-          "url": "https://www.cls.cn/detail/2421711",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 03时20分]"
-        },
-        {
-          "title": "周四（7月9日），美股行业ETF多数收涨，半导体ETF涨2.48%，科技行业ETF涨2.18%，全球科技股指数ETF涨2.06%，日常消费品ETF、能源业ETF至少跌1.40%。",
-          "url": "https://wallstreetcn.com/livenews/3131539",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时12分"
-        },
-        {
-          "title": "标普500指数收涨60.93点，涨幅0.81%，报7543.64点。 道琼斯工业平均指数收涨139.02点，涨幅0.27%，报52487.41点。 纳斯达克综合指数（纳指）收涨336.238点，涨幅1.30%，报26206.89点。 纳斯达克100指数收涨474.535点，涨幅1.62%，报29727.097点。 纳斯达克科技市值加权指数收涨1.74%，报2939.4248点。 费城半导体指数收涨385.036点，涨幅3.06%，报12960.003点。 费城证交所KBW银行指数收涨1.93%，报186.26点。 道琼斯KBW地区银行指数收涨1.66%，报145.18点。 罗素2000指数收涨1.22%，报2992.541点。 纳斯达克生物科技指数收涨0.39%，报6818.99点。 标普中盘股400指数收涨1.24%，纳斯达克美国中等市值指数涨1.08%。 恐慌指数VIX收跌6.27%，报15.84。",
-          "url": "https://wallstreetcn.com/livenews/3131531",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时12分"
-        },
-        {
-          "title": "标普500指数涨超0.5%，刷新日高，道指涨超0.2%，纳指涨约0.8%，半导体指数涨4.6%。",
-          "url": "https://wallstreetcn.com/livenews/3131459",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "美股收盘：三大股指收涨 芯片股走强",
-          "url": "https://flash.jin10.com/detail/20260710040126846800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时12分"
-        },
-        {
-          "title": "乾照光电：在研100G VCSEL光芯片可用于800G光模块",
-          "url": "https://flash.jin10.com/detail/20260710125741426800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时53分"
-        },
-        {
-          "title": "美国商务部长敦促SK海力士和三星电子扩大在美国的内存芯片产能",
-          "url": "https://wallstreetcn.com/livenews/3131607",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        }
-      ]
-    },
-    {
       "keyword_group": "基础设施 基建 地铁 高铁",
       "match_count": 5,
       "titles": [
@@ -1368,7 +1491,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -1393,6 +1516,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英伟达 台积电 AMD 高通",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "胜宏科技回应英伟达传闻：核心客户合作平稳，产品正常推进",
+          "url": "https://wallstreetcn.com/livenews/3131758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
+          "title": "美股开盘，道指开涨0.26%，标普500指数开涨0.08%，纳指跌0.15%。美光科技(MU.O)跌3%，高通(QCOM.O)跌2%，闪迪(SNDK.O)跌4%，西部数据(WDC.O)跌1.9%，Meta Platforms(META.O)涨4.9%。",
+          "url": "https://flash.jin10.com/detail/20260710213029119800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
+        },
+        {
+          "title": "台积电表示将推迟月度销售业绩公布日期至7月13日。今日，台股因台风休市一日。",
+          "url": "https://wallstreetcn.com/livenews/3131623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
+          "title": "胜宏科技回应英伟达传闻：核心客户合作平稳，产品正常推进",
+          "url": "https://flash.jin10.com/detail/20260710125206051800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         }
       ]
     },
@@ -1474,48 +1647,9 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英伟达 台积电 AMD 高通",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "胜宏科技回应英伟达传闻：核心客户合作平稳，产品正常推进",
-          "url": "https://wallstreetcn.com/livenews/3131758",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时53分"
-        },
-        {
-          "title": "台积电表示将推迟月度销售业绩公布日期至7月13日。今日，台股因台风休市一日。",
-          "url": "https://wallstreetcn.com/livenews/3131623",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        },
-        {
-          "title": "胜宏科技回应英伟达传闻：核心客户合作平稳，产品正常推进",
-          "url": "https://flash.jin10.com/detail/20260710125206051800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时53分"
         }
       ]
     },
@@ -1591,8 +1725,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时49分 ~ 19时50分]"
+          "appearance_count": 7,
+          "time_info": "[09时49分 ~ 21时56分]"
         },
         {
           "title": "如何看待 Codex 与 ChatGPT 合并，实际使用体验有什么变化？",
@@ -1646,7 +1780,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         }
