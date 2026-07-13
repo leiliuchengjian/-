@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T09:31:49.334403+08:00",
-  "total_titles_processed": 666,
+  "generated_at": "2026-07-13T13:25:03.190484+08:00",
+  "total_titles_processed": 867,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "立邦涂料据悉将出价86亿美元收购阿克苏诺贝尔的涂料部门。（彭博）",
@@ -121,7 +121,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -137,13 +137,24 @@
           "time_info": "07时43分"
         },
         {
+          "title": "印度卢比兑美元下跌0.5%，至95.7838。",
+          "url": "https://wallstreetcn.com/livenews/3132604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
           "title": "匈牙利规模最大的商业银行OTP银行公开股份有限公司据悉考虑发行3年期点心债，规模约为10亿至15亿元人民币。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3132497",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -154,7 +165,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -165,9 +176,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "黄金避险属性为弱于美元？盘面交易的优先级是...｜黄金头条",
+          "url": "https://flash.jin10.com/detail/20260713123611713800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
         },
         {
           "title": "华尔街巨头集体看多美元，美国例外论的“吸血风暴”已成定局？",
@@ -176,7 +198,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         }
@@ -184,7 +206,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "人口第一大国，被AI做空了",
@@ -195,8 +217,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时44分 ~ 09时31分]"
+          "appearance_count": 16,
+          "time_info": "[00时44分 ~ 13时25分]"
         },
         {
           "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
@@ -251,11 +273,69 @@
           "url": "https://wallstreetcn.com/articles/3776632",
           "source": "华尔街见闻",
           "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时31分 ~ 13时25分]"
+        },
+        {
+          "title": "韩国总统李在明：将引导政府支持芯片、人工智能数据中心及物理人工智能这三大重点项目。",
+          "url": "https://flash.jin10.com/detail/20260713130702547800",
+          "source": "金十数据",
+          "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "13时25分"
+        },
+        {
+          "title": "五大亮点提前看！世界人工智能大会本周开幕：智慧、硬核、体验、年轻、治理",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33571516",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时31分 ~ 13时25分]"
+        },
+        {
+          "title": "手慢无、买完还得防举报：“空调羞耻”下欧洲人的AI自救",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33559448",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时31分 ~ 13时25分]"
+        },
+        {
+          "title": "AI“下半场”的赛道变了？不再光比谁更大、更强……",
+          "url": "https://www.cls.cn/detail/2424196",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 13时25分]"
+        },
+        {
+          "title": "“存储双雄”又暴跌！韩国央行发声：AI驱动的芯片超级周期将持续",
+          "url": "https://www.cls.cn/detail/2424084",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 13时25分]"
         },
         {
           "title": "手机成大模型竞争新赛场 AI“超级载体”利好哪些硬件环节？",
@@ -264,29 +344,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "手慢无、买完还得防举报：“空调羞耻”下欧洲人的AI自救",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33559448",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "五大亮点提前看！世界人工智能大会本周开幕：智慧、硬核、体验、年轻、治理",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33571516",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -297,7 +355,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         }
@@ -305,7 +363,7 @@
     },
     {
       "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "全球存储扩产+海外设备供应告急，国产半导体设备迎“超级时代”",
@@ -339,11 +397,23 @@
           "url": "https://www.cls.cn/detail/2423960",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时31分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时31分 ~ 13时25分]"
+        },
+        {
+          "title": "半导体设备龙头复牌巨震：从大跌18%到拉升大涨",
+          "url": "https://www.cls.cn/detail/2424235",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 13时25分]"
         },
         {
           "title": "新莱应材：半导体大厂扩产将直接带动洁净室相关设备及零部件需求",
@@ -352,7 +422,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -383,7 +453,7 @@
     },
     {
       "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "南京地铁地面及高架区段暂停运营",
@@ -424,12 +494,112 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时44分 ~ 05时39分]"
+        },
+        {
+          "title": "科技巨头狂发“AI基建债”吸金，华尔街呼吁：发慢点吧！",
+          "url": "https://flash.jin10.com/detail/20260713130656064800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "创业板",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "上证指数开盘报3966.02点，跌0.75%。 深证成指开盘报14908.98点，跌0.92%。 创业板指开盘报3809.86点，跌0.86%。 沪深300开盘报4745.44点，跌0.74%。 科创50开盘报2038.36点，跌1.29%。 中证500开盘报8409.14点，跌1.12%。 中证1000开盘报8124.36点，跌0.90%。",
+          "url": "https://wallstreetcn.com/livenews/3132513",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "深证成指午后跌幅扩大至3%，上证综指跌1.81%，创业板指跌近3%。",
+          "url": "https://flash.jin10.com/detail/20260713130230231800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "上证指数早盘收报3934.74点，跌1.54%。 深证成指早盘收报14654.49点，跌2.61%。 创业板指早盘收报3751.33点，跌2.38%。 沪深300早盘收报4716.67点，跌1.34%。 科创50早盘收报2026.96点，跌1.84%。 中证500早盘收报8233.65点，跌3.18%。 中证1000早盘收报7914.59点，跌3.46%。",
+          "url": "https://wallstreetcn.com/livenews/3132593",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "7月13日午间收评：深成指、创业板指均跌超2%，全市场下跌个股超4500只",
+          "url": "https://wallstreetcn.com/livenews/3132592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "三星准备生产特斯拉AI5芯片",
+          "url": "https://flash.jin10.com/detail/20260713131019006800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "特斯拉次时代AI芯片AI5，已完成设计定案，即将进入大规模量产准备阶段。该芯片由三星电子德州泰勒厂采用2纳米制程制造。 (台湾电子时报)",
+          "url": "https://wallstreetcn.com/livenews/3132618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "比亚迪开启电动车“炫耀之旅”",
+          "url": "https://www.toutiao.com/trending/7661674856559152682/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         }
       ]
     },
     {
       "keyword_group": "英伟达 台积电 AMD 高通",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "英伟达路演：季度收入近千亿美元、增速还在加快，Rubin Ultra没有延期",
@@ -437,28 +607,41 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时44分 ~ 09时31分]"
+          "appearance_count": 16,
+          "time_info": "[00时44分 ~ 13时25分]"
         },
         {
           "title": "机构实地调研：台积电赢了现在的CPO，三星在押注下一场",
           "url": "https://wallstreetcn.com/articles/3776716",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时44分 ~ 07时43分]"
+          "appearance_count": 15,
+          "time_info": "[00时44分 ~ 13时25分]"
+        },
+        {
+          "title": "新产品配套英伟达产业链 液冷概念股斩获3天2板 本周机构密集调研相关上市公司",
+          "url": "https://www.cls.cn/detail/2423885",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 13时25分]"
         }
       ]
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "本周重要事件与数据预告：美国CPI、中国GDP、沃什国会首秀",
@@ -478,9 +661,37 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "印度央行在外汇市场抛售美元以支撑卢比汇率。",
+          "url": "https://wallstreetcn.com/livenews/3132614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为 小米 荣耀",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "小米SU7成20万以上轿车6月销量第一",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3SU7%E6%88%9020%E4%B8%87%E4%BB%A5%E4%B8%8A%E8%BD%BF%E8%BD%A66%E6%9C%88%E9%94%80%E9%87%8F%E7%AC%AC%E4%B8%80%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 13时25分]"
         }
       ]
     },
@@ -494,45 +705,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时44分 ~ 09时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "比亚迪开启电动车“炫耀之旅”",
-          "url": "https://www.toutiao.com/trending/7661674856559152682/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "创业板",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "上证指数开盘报3966.02点，跌0.75%。 深证成指开盘报14908.98点，跌0.92%。 创业板指开盘报3809.86点，跌0.86%。 沪深300开盘报4745.44点，跌0.74%。 科创50开盘报2038.36点，跌1.29%。 中证500开盘报8409.14点，跌1.12%。 中证1000开盘报8124.36点，跌0.90%。",
-          "url": "https://wallstreetcn.com/livenews/3132513",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时31分"
+          "appearance_count": 16,
+          "time_info": "[00时44分 ~ 13时25分]"
         }
       ]
     }
