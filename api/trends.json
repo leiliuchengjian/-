@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T21:06:07.526242+08:00",
-  "total_titles_processed": 1600,
+  "generated_at": "2026-07-14T23:16:29.456808+08:00",
+  "total_titles_processed": 1752,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时40分 ~ 21时06分]"
+          "appearance_count": 9,
+          "time_info": "[12时40分 ~ 23时16分]"
         },
         {
           "title": "据知情人士透露，印度亿万富翁库马尔·曼加拉姆·比拉旗下集团的一家子公司，已从三菱日联金融集团获得约15亿美元的收购融资，用于收购壳牌(SHEL.N)在印度的可再生能源资产。",
@@ -327,7 +327,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
         },
@@ -514,7 +514,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
         },
@@ -525,7 +525,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
         },
@@ -558,7 +558,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
         },
@@ -602,7 +602,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
         },
@@ -613,7 +613,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
         },
@@ -632,7 +632,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 47,
+      "match_count": 49,
       "titles": [
         {
           "title": "习近平将出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
@@ -692,6 +692,20 @@
           "time_info": "[00时36分 ~ 15时03分]"
         },
         {
+          "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
+          "url": "https://www.zhihu.com/question/2059349642496710015",
+          "source": "知乎",
+          "ranks": [
+            7,
+            13,
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时02分 ~ 23时16分]"
+        },
+        {
           "title": "AI恐慌叠加中东局势升温，美股指盘中齐跌，SK海力士跌7%，油价涨超4%，黄金跌超2%，",
           "url": "https://wallstreetcn.com/articles/3776754",
           "source": "华尔街见闻",
@@ -703,32 +717,6 @@
           "time_info": "[00时36分 ~ 04时07分]"
         },
         {
-          "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
-          "url": "https://www.zhihu.com/question/2059349642496710015",
-          "source": "知乎",
-          "ranks": [
-            7,
-            13,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时02分 ~ 21时06分]"
-        },
-        {
-          "title": "疑AI照片拿了摄影比赛一等奖",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%96%91AI%E7%85%A7%E7%89%87%E6%8B%BF%E4%BA%86%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E4%B8%80%E7%AD%89%E5%A5%96%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            1,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时45分 ~ 21时06分]"
-        },
-        {
           "title": "当AI穿上白大褂：谁来唤醒沉睡的医疗数据？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33524110",
           "source": "澎湃新闻",
@@ -737,11 +725,26 @@
             17,
             13,
             12,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时40分 ~ 21时06分]"
+          "appearance_count": 9,
+          "time_info": "[12时40分 ~ 23时16分]"
+        },
+        {
+          "title": "疑AI照片拿了摄影比赛一等奖",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%96%91AI%E7%85%A7%E7%89%87%E6%8B%BF%E4%BA%86%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E4%B8%80%E7%AD%89%E5%A5%96%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            1,
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时45分 ~ 23时16分]"
         },
         {
           "title": "AI生成图片被评摄影一等奖 官方通报",
@@ -749,11 +752,12 @@
           "source": "百度热搜",
           "ranks": [
             5,
-            6
+            6,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时16分 ~ 21时06分]"
+          "appearance_count": 5,
+          "time_info": "[19时16分 ~ 23时16分]"
         },
         {
           "title": "摄影比赛一等奖确系AI生成 官方通报",
@@ -773,9 +777,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
+        },
+        {
+          "title": "全美首个州级“刹车令”！纽约州暂停新建大型AI数据中心，一年内不再发放新许可",
+          "url": "https://wallstreetcn.com/articles/3776903",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时16分 ~ 23时16分]"
         },
         {
           "title": "疑AI生成环卫工照片获摄影比赛一等奖",
@@ -825,18 +841,6 @@
           "time_info": "[17时45分 ~ 21时06分]"
         },
         {
-          "title": "全美首个州级“刹车令”！纽约州暂停新建大型AI数据中心，一年内不再发放新许可",
-          "url": "https://wallstreetcn.com/articles/3776903",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时16分 ~ 21时06分]"
-        },
-        {
           "title": "周一（7月13日），美股存储芯片与硬件供应链指数跌6.96%，报213.87点。 美股超大规模云服务商（Hyperscalers）跌1.01%，报93.03点。 信息科技指数跌4.60%，报405.46点。 人工智能（AI）赢家指数跌4.36%，报402.62点。 AI软件先驱指数涨1.04%，报111.48点。 北美科技软件股指数ETF涨0.31%，Global X网络安全ETF涨0.69%，纳斯达克网络安全ETF跌0.04%，ETFMG网络安全ETF涨0.28%。 美国科技股七巨头（Magnificent 7）指数跌0.94%，报215.76点，整体持续走低。 “超大”市值科技股指数跌1.81%，报438.29点。",
           "url": "https://wallstreetcn.com/livenews/3133099",
           "source": "华尔街见闻-快讯",
@@ -862,6 +866,29 @@
           "time_info": "[00时36分 ~ 09时20分]"
         },
         {
+          "title": "如何评价呼和浩特摄影比赛一等奖作品疑 AI 生成，工作人员称「的确太假了」？应该允许 AI 作品参展吗？",
+          "url": "https://www.zhihu.com/question/2060385485915263811",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时05分 ~ 23时16分]"
+        },
+        {
+          "title": "AI生成环卫工照片获摄影比赛一等奖",
+          "url": "https://www.toutiao.com/trending/7662295509886697491/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时05分 ~ 23时16分]"
+        },
+        {
           "title": "AI杀死时尚行业",
           "url": "https://s.weibo.com/weibo?q=AI%E6%9D%80%E6%AD%BB%E6%97%B6%E5%B0%9A%E8%A1%8C%E4%B8%9A&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -885,6 +912,18 @@
           "time_info": "[12时40分 ~ 15时03分]"
         },
         {
+          "title": "摄影获奖作品被质疑为AI生成，呼和浩特官方发布情况通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33583402",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时05分 ~ 23时16分]"
+        },
+        {
           "title": "AI短剧为何共用一张脸",
           "url": "https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7%E4%B8%BA%E4%BD%95%E5%85%B1%E7%94%A8%E4%B8%80%E5%BC%A0%E8%84%B8",
           "source": "百度热搜",
@@ -897,28 +936,6 @@
           "time_info": "[17时45分 ~ 19时17分]"
         },
         {
-          "title": "AI生成环卫工照片获摄影比赛一等奖",
-          "url": "https://www.toutiao.com/trending/7662295509886697491/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时05分 ~ 21时06分]"
-        },
-        {
-          "title": "如何评价呼和浩特摄影比赛一等奖作品疑 AI 生成，工作人员称「的确太假了」？应该允许 AI 作品参展吗？",
-          "url": "https://www.zhihu.com/question/2060385485915263811",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时05分 ~ 21时06分]"
-        },
-        {
           "title": "看陈泽AI跳舞是一种挑战",
           "url": "https://www.douyin.com/hot/2570068",
           "source": "抖音",
@@ -929,17 +946,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时20分 ~ 12时40分]"
-        },
-        {
-          "title": "摄影获奖作品被质疑为AI生成，呼和浩特官方发布情况通报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33583402",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时05分 ~ 21时06分]"
         },
         {
           "title": "AI脸 恐怖谷效应",
@@ -981,7 +987,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
         },
@@ -992,7 +998,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
         },
@@ -1014,7 +1020,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
         },
@@ -1041,6 +1047,17 @@
           "time_info": "07时43分"
         },
         {
+          "title": "印度接近接受Fairfax对IDBI银行的加价收购要约",
+          "url": "https://wallstreetcn.com/livenews/3133724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
           "title": "美国总统特朗普：（关于伊朗）我们将摧毁镐山（Pickaxe Mountain）。",
           "url": "https://flash.jin10.com/detail/20260714043115058800",
           "source": "金十数据",
@@ -1052,13 +1069,24 @@
           "time_info": "05时44分"
         },
         {
+          "title": "经纬度：中国人工智能发展的战略定力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33574020",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
           "title": "智谱：公司英文名称已由\"Knowledge Atlas Technology Joint Stock Company Limited\"变更为\"Z.AI Co., Ltd.\"",
           "url": "https://wallstreetcn.com/livenews/3133639",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
         },
@@ -1124,7 +1152,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
         },
@@ -1176,7 +1204,7 @@
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 28,
+      "match_count": 35,
       "titles": [
         {
           "title": "美国或六年来首现环比“负CPI”？但今晚的重点不在这……",
@@ -1219,9 +1247,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
+        },
+        {
+          "title": "美国CPI六年来首现负增长！市场随即“开香槟” 但油价风险已经重燃",
+          "url": "https://www.cls.cn/detail/2426354",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         },
         {
           "title": "美国6月CPI环比 -0.4%，预期 -0.1%，前值 0.5%。",
@@ -1230,9 +1269,42 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
+        },
+        {
+          "title": "央行将开展14000亿元买断式逆回购",
+          "url": "https://www.toutiao.com/trending/7661521641490432036/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
+          "title": "通胀全面降温！美国6月CPI同比上涨3.5%远低于预期，环比六年来首次下降，核心CPI涨幅收窄至2.6%",
+          "url": "https://wallstreetcn.com/articles/3776924",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
+          "title": "美国6月CPI低于预期 纳指期货涨超1% IBM盘前暴跌逾22% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2426306",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         },
         {
           "title": "美国6月CPI同比 3.5%，预期 3.8%，前值 4.2%。",
@@ -1241,7 +1313,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
         },
@@ -1250,33 +1322,36 @@
           "url": "https://wallstreetcn.com/articles/3776884",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时05分 ~ 21时06分]"
+          "appearance_count": 3,
+          "time_info": "[21时05分 ~ 23时16分]"
         },
         {
           "title": "央行将开展14000亿元买断式逆回购",
           "url": "https://www.douyin.com/hot/2571364",
           "source": "抖音",
           "ranks": [
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时05分 ~ 21时06分]"
+          "appearance_count": 3,
+          "time_info": "[21时05分 ~ 23时16分]"
         },
         {
           "title": "央行将开展14000亿元买断式逆回购",
           "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%E5%B0%86%E5%BC%80%E5%B1%9514000%E4%BA%BF%E5%85%83%E4%B9%B0%E6%96%AD%E5%BC%8F%E9%80%86%E5%9B%9E%E8%B4%AD",
           "source": "百度热搜",
           "ranks": [
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时05分 ~ 21时06分]"
+          "appearance_count": 3,
+          "time_info": "[21时05分 ~ 23时16分]"
         },
         {
           "title": "美国6月核心CPI环比 0%，预期 0.2%，前值 0.2%。",
@@ -1285,7 +1360,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
         },
@@ -1296,7 +1371,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
         },
@@ -1321,6 +1396,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
+        },
+        {
+          "title": "“美联储传声筒”：6月CPI帮了沃什一个大忙",
+          "url": "https://flash.jin10.com/detail/20260714224648251800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         },
         {
           "title": "欧洲央行执委施纳贝尔阐述欧洲增长面临的挑战与对策",
@@ -1395,7 +1481,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
         },
@@ -1406,7 +1492,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
         },
@@ -1461,9 +1547,31 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
+        },
+        {
+          "title": "美联储主席沃什：我明白在危机时期，央行需要介入市场。",
+          "url": "https://flash.jin10.com/detail/20260714224012499800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
+          "title": "美联储主席沃什：美联储很荣幸成为一个独立的央行。",
+          "url": "https://flash.jin10.com/detail/20260714223948109800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         },
         {
           "title": "日本高官紧急表态强调央行独立性",
@@ -1491,7 +1599,7 @@
     },
     {
       "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
@@ -1500,11 +1608,12 @@
           "ranks": [
             1,
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时42分 ~ 21时06分]"
+          "appearance_count": 12,
+          "time_info": "[07时42分 ~ 23时16分]"
         },
         {
           "title": "美股收盘：美伊局势升级打压风险偏好 芯片股重挫纳指跌逾1.5%",
@@ -1546,6 +1655,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时36分 ~ 07时43分]"
+        },
+        {
+          "title": "9分钟回撤11个点！半导体龙头复盘次日再巨震，全市场高波动股名单一览",
+          "url": "https://www.cls.cn/detail/2426035",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时16分 ~ 23时16分]"
         },
         {
           "title": "静待沃什证词和CPI，美股盘前存储芯片股普涨，IBM跌17%，原油涨近5%，黄金小幅上扬",
@@ -1606,6 +1728,17 @@
           "time_info": "[00时36分 ~ 06时44分]"
         },
         {
+          "title": "美国通胀降温，美股盘初涨跌互现，存储芯片股大涨，IBM跌26%，原油涨3%，黄金涨2%",
+          "url": "https://wallstreetcn.com/articles/3776859",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
           "title": "全球芯片LOF：将于7月15日开市起停牌，10:30起复牌",
           "url": "https://flash.jin10.com/detail/20260714190356210800",
           "source": "金十数据",
@@ -1617,16 +1750,15 @@
           "time_info": "19时17分"
         },
         {
-          "title": "9分钟回撤11个点！半导体龙头复盘次日再巨震，全市场高波动股名单一览",
-          "url": "https://www.cls.cn/detail/2426035",
-          "source": "财联社热门",
+          "title": "威兆半导体递表港交所",
+          "url": "https://wallstreetcn.com/livenews/3133726",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            6
+            10
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时16分 ~ 21时06分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         },
         {
           "title": "韩国芯片股杠杆产品惨遭反噬，最大ETF自推出以来跌去45%",
@@ -1695,6 +1827,17 @@
           "time_info": "12时40分"
         },
         {
+          "title": "据港交所文件：深圳市威兆半导体股份有限公司向港交所提交上市申请书。",
+          "url": "https://flash.jin10.com/detail/20260714223836638800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
           "title": "浙江省省长刘捷在宁波专题调研集成电路产业发展工作",
           "url": "https://wallstreetcn.com/livenews/3132977",
           "source": "华尔街见闻-快讯",
@@ -1723,6 +1866,18 @@
       "match_count": 10,
       "titles": [
         {
+          "title": "专家：比亚迪不是车企",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E6%AF%94%E4%BA%9A%E8%BF%AA%E4%B8%8D%E6%98%AF%E8%BD%A6%E4%BC%81",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时05分 ~ 23时16分]"
+        },
+        {
           "title": "比亚迪4S店承诺补贴成“空头支票”",
           "url": "https://www.toutiao.com/trending/7661608516637868086/",
           "source": "今日头条",
@@ -1739,17 +1894,6 @@
           "source": "今日头条",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时05分 ~ 21时06分]"
-        },
-        {
-          "title": "专家：比亚迪不是车企",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E6%AF%94%E4%BA%9A%E8%BF%AA%E4%B8%8D%E6%98%AF%E8%BD%A6%E4%BC%81",
-          "source": "百度热搜",
-          "ranks": [
-            25
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -1806,7 +1950,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
         },
@@ -1923,6 +2067,69 @@
       ]
     },
     {
+      "keyword_group": "华为 小米 荣耀",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "荣耀与阿里将宣布重要合作",
+          "url": "https://flash.jin10.com/detail/20260714123301587800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "南向资金今日大幅净买入109.97亿元。港股通（沪）方面，智谱、兆易创新分别获净买入22.9亿港元、8.1亿港元；小米集团-W净卖出额居首，金额为0.43亿港元；港股通（深）方面，网易、快手-W分别获净买入28.7亿港元、14.6亿港元；美团-W净卖出额居首，金额为5.58亿港元。",
+          "url": "https://flash.jin10.com/detail/20260714173121036800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时45分"
+        },
+        {
+          "title": "小米回应网传澎程价格推测，称部分推测显著低于成本，推测要讲科学，你认为多少钱可以接受？",
+          "url": "https://www.zhihu.com/question/2059629861941895196",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时40分 ~ 17时45分]"
+        },
+        {
+          "title": "小米机器人打螺丝成功率98%",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%93%E8%9E%BA%E4%B8%9D%E6%88%90%E5%8A%9F%E7%8E%8798%25",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
+          "title": "荣耀与阿里将官宣重磅合作",
+          "url": "https://wallstreetcn.com/livenews/3133350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        }
+      ]
+    },
+    {
       "keyword_group": "创业板",
       "match_count": 5,
       "titles": [
@@ -1943,11 +2150,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时16分 ~ 21时06分]"
+          "appearance_count": 5,
+          "time_info": "[19时16分 ~ 23时16分]"
         },
         {
           "title": "A股股指持续走高，上证综指涨幅扩大至1%，深证成指现涨2.33%，创业板指涨近3%；全市场近4000只个股上涨。",
@@ -2006,7 +2214,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
         },
@@ -2029,7 +2237,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
         },
@@ -2040,67 +2248,15 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
         }
       ]
     },
     {
-      "keyword_group": "华为 小米 荣耀",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "荣耀与阿里将宣布重要合作",
-          "url": "https://flash.jin10.com/detail/20260714123301587800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时40分"
-        },
-        {
-          "title": "南向资金今日大幅净买入109.97亿元。港股通（沪）方面，智谱、兆易创新分别获净买入22.9亿港元、8.1亿港元；小米集团-W净卖出额居首，金额为0.43亿港元；港股通（深）方面，网易、快手-W分别获净买入28.7亿港元、14.6亿港元；美团-W净卖出额居首，金额为5.58亿港元。",
-          "url": "https://flash.jin10.com/detail/20260714173121036800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时45分"
-        },
-        {
-          "title": "小米回应网传澎程价格推测，称部分推测显著低于成本，推测要讲科学，你认为多少钱可以接受？",
-          "url": "https://www.zhihu.com/question/2059629861941895196",
-          "source": "知乎",
-          "ranks": [
-            14,
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时40分 ~ 17时45分]"
-        },
-        {
-          "title": "荣耀与阿里将官宣重磅合作",
-          "url": "https://wallstreetcn.com/livenews/3133350",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时03分"
-        }
-      ]
-    },
-    {
       "keyword_group": "苹果 iPhone",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "苹果开始测试中国企业长鑫存储内存芯片，背后有哪些战略考量？此举将带来哪些产业影响？",
@@ -2140,6 +2296,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
+        },
+        {
+          "title": "怎么看待那些背着一千多的寇驰包，拿着 iPhone，但是全身上下衣服却不超几十块钱的人？",
+          "url": "https://www.zhihu.com/question/9783691829",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英伟达 台积电 AMD 高通",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美联储主席沃什：我和我的同僚们认识到，高通胀一直是美国家庭和企业的不当负担。从更长时间维度看，潜在通胀在很大程度上由货币政策决定。",
+          "url": "https://flash.jin10.com/detail/20260714204401957800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时06分"
+        },
+        {
+          "title": "美联储主席沃什：美国高通胀意味着，对外沟通改革具有重要性。 价格稳定性与长期收益率下滑相一致。",
+          "url": "https://wallstreetcn.com/livenews/3133725",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
+          "title": "美联储主席沃什：高通胀表明沟通改革至关重要。",
+          "url": "https://flash.jin10.com/detail/20260714224348857800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         }
       ]
     },
@@ -2204,23 +2410,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时44分 ~ 06时44分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英伟达 台积电 AMD 高通",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美联储主席沃什：我和我的同僚们认识到，高通胀一直是美国家庭和企业的不当负担。从更长时间维度看，潜在通胀在很大程度上由货币政策决定。",
-          "url": "https://flash.jin10.com/detail/20260714204401957800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时06分"
         }
       ]
     }
