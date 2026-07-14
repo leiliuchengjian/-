@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-14T12:40:24.555521+08:00",
-  "total_titles_processed": 1003,
+  "generated_at": "2026-07-14T15:03:16.198825+08:00",
+  "total_titles_processed": 1143,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
+        {
+          "title": "WTI原油日内涨幅达3%，报80.53美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3133382",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        },
         {
           "title": "现货黄金站上4020美元/盎司，日内涨0.46%。",
           "url": "https://flash.jin10.com/detail/20260714123235921800",
@@ -14,7 +25,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         },
@@ -36,7 +47,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         },
@@ -95,6 +106,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时27分 ~ 04时07分]"
+        },
+        {
+          "title": "韩国信贷耗尽、SK海力士蒸发890亿美元——但A股在同一场恐慌里完成了两笔反向投票",
+          "url": "https://wallstreetcn.com/articles/3776834",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时40分 ~ 15时03分]"
         },
         {
           "title": "特朗普针对霍尔木兹海峡的要求意味着每艘超级油轮需缴费3,000万美元，本来伊朗只收最多200万",
@@ -177,17 +200,6 @@
           "time_info": "07时43分"
         },
         {
-          "title": "韩国信贷耗尽、SK海力士蒸发890亿美元——但A股在同一场恐慌里完成了两笔反向投票",
-          "url": "https://wallstreetcn.com/articles/3776834",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时40分"
-        },
-        {
           "title": "布伦特原油日内涨幅达7.0%，报81.36美元/桶；WTI原油日内涨幅达7.0%，报76.41美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3133027",
           "source": "华尔街见闻-快讯",
@@ -216,7 +228,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         },
@@ -392,7 +404,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         },
@@ -422,7 +434,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "习近平将出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
@@ -432,8 +444,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 12时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 15时03分]"
         },
         {
           "title": "五大亮点提前看！世界人工智能大会本周开幕：智慧、硬核、体验、年轻、治理",
@@ -443,8 +455,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 12时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 15时03分]"
         },
         {
           "title": "解锁2026世界人工智能大会新亮点",
@@ -478,8 +490,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 12时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 15时03分]"
         },
         {
           "title": "AI恐慌叠加中东局势升温，美股指盘中齐跌，SK海力士跌7%，油价涨超4%，黄金跌超2%，",
@@ -499,7 +511,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         },
@@ -529,6 +541,40 @@
           "time_info": "[00时36分 ~ 09时20分]"
         },
         {
+          "title": "台风淹水致商铺狼藉图片为AI合成",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E6%B7%B9%E6%B0%B4%E8%87%B4%E5%95%86%E9%93%BA%E7%8B%BC%E8%97%89%E5%9B%BE%E7%89%87%E4%B8%BAAI%E5%90%88%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时40分 ~ 15时03分]"
+        },
+        {
+          "title": "当AI穿上白大褂：谁来唤醒沉睡的医疗数据？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33524110",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时40分 ~ 15时03分]"
+        },
+        {
+          "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
+          "url": "https://www.zhihu.com/question/2059349642496710015",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时02分 ~ 15时03分]"
+        },
+        {
           "title": "看陈泽AI跳舞是一种挑战",
           "url": "https://www.douyin.com/hot/2570068",
           "source": "抖音",
@@ -539,6 +585,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时20分 ~ 12时40分]"
+        },
+        {
+          "title": "AI杀死时尚行业",
+          "url": "https://s.weibo.com/weibo?q=AI%E6%9D%80%E6%AD%BB%E6%97%B6%E5%B0%9A%E8%A1%8C%E4%B8%9A&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时02分 ~ 15时03分]"
+        },
+        {
+          "title": "AI脸 恐怖谷效应",
+          "url": "https://s.weibo.com/weibo?q=AI%E8%84%B8%20%E6%81%90%E6%80%96%E8%B0%B7%E6%95%88%E5%BA%94&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时02分 ~ 15时03分]"
         },
         {
           "title": "险资年内密集参设股权投资基金，布局AI、半导体等领域",
@@ -558,7 +626,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         },
@@ -574,17 +642,6 @@
           "time_info": "07时43分"
         },
         {
-          "title": "台风淹水致商铺狼藉图片为AI合成",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E6%B7%B9%E6%B0%B4%E8%87%B4%E5%95%86%E9%93%BA%E7%8B%BC%E8%97%89%E5%9B%BE%E7%89%87%E4%B8%BAAI%E5%90%88%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时40分"
-        },
-        {
           "title": "美国总统特朗普：（关于伊朗）我们将摧毁镐山（Pickaxe Mountain）。",
           "url": "https://flash.jin10.com/detail/20260714043115058800",
           "source": "金十数据",
@@ -594,17 +651,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
-        },
-        {
-          "title": "当AI穿上白大褂：谁来唤醒沉睡的医疗数据？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33524110",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时40分"
         },
         {
           "title": "美国总统特朗普：将摧毁“镐头山”（Pickaxe Mountain），并警告伊朗做好准备。",
@@ -646,7 +692,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         },
@@ -687,7 +733,7 @@
     },
     {
       "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
@@ -697,8 +743,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时42分 ~ 12时40分]"
+          "appearance_count": 6,
+          "time_info": "[07时42分 ~ 15时03分]"
+        },
+        {
+          "title": "美股收盘：美伊局势升级打压风险偏好 芯片股重挫纳指跌逾1.5%",
+          "url": "https://www.cls.cn/detail/2425183",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时44分 ~ 15时03分]"
         },
         {
           "title": "全球首颗近存计算3D芯片发布",
@@ -713,19 +772,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时36分 ~ 07时43分]"
-        },
-        {
-          "title": "美股收盘：美伊局势升级打压风险偏好 芯片股重挫纳指跌逾1.5%",
-          "url": "https://www.cls.cn/detail/2425183",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时44分 ~ 12时40分]"
         },
         {
           "title": "创业板跌超3%，科技齐跌，存储芯片重挫、兆易创新跌停，恒科指跌1%，半导体集体调整",
@@ -775,13 +821,24 @@
           "time_info": "[00时36分 ~ 06时44分]"
         },
         {
+          "title": "同比倍增！6月集成电路、稀土出口额双双迎来爆发",
+          "url": "https://www.cls.cn/detail/2425418",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时02分 ~ 15时03分]"
+        },
+        {
           "title": "韩国芯片股杠杆产品惨遭反噬，最大ETF自推出以来跌去45%",
           "url": "https://wallstreetcn.com/livenews/3133300",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         },
@@ -797,13 +854,24 @@
           "time_info": "04时07分"
         },
         {
+          "title": "曦智科技将发布首款基于光电混合计算芯片的一体化边缘计算盒",
+          "url": "https://wallstreetcn.com/livenews/3133363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        },
+        {
           "title": "港股午评：恒生指数半日跌0.47% 科技、半导体概念股走低",
           "url": "https://flash.jin10.com/detail/20260714120708315800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         },
@@ -825,7 +893,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         },
@@ -855,8 +923,30 @@
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 7,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "交易员加大英国央行加息押注，完全定价9月前将加息25个基点。",
+          "url": "https://wallstreetcn.com/livenews/3133381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        },
+        {
+          "title": "6月CPI前瞻：“纸面回落”VS“战时反弹”",
+          "url": "https://flash.jin10.com/detail/20260714143216998800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        },
         {
           "title": "欧洲央行执委施纳贝尔阐述欧洲增长面临的挑战与对策",
           "url": "https://wallstreetcn.com/livenews/3133024",
@@ -880,15 +970,48 @@
           "time_info": "09时20分"
         },
         {
+          "title": "金十整理：机构前瞻美国6月CPI及核心CPI月率",
+          "url": "https://flash.jin10.com/detail/20260714143009101800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        },
+        {
           "title": "金价反弹全抹，CPI+沃什会不会再补一刀？",
           "url": "https://flash.jin10.com/detail/20260714121200284800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
+        },
+        {
+          "title": "瑞士6月生产者/进口物价指数月率 -0.3%，前值-0.40%。",
+          "url": "https://flash.jin10.com/detail/20260714143002436800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        },
+        {
+          "title": "瑞士6月生产者/进口物价指数年率 -2.1%，前值-1.80%。",
+          "url": "https://flash.jin10.com/detail/20260714143002428800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
         },
         {
           "title": "美国银行团队：日本财务大臣片山皋月关于货币政策应交由日本央行决定的表态，表明日元和日本国债已触及令政策制定者感到压力的水平，可能促使当局采取更为审慎的态度。 我们也不会忽视她关于政府养老投资基金GPIF增配日本国内债券的呼吁，因为这对各方而言都有其合理性。",
@@ -959,9 +1082,33 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
+        },
+        {
+          "title": "被高铁“逼退”的大巴车换了个活法",
+          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E9%AB%98%E9%93%81%E2%80%9C%E9%80%BC%E9%80%80%E2%80%9D%E7%9A%84%E5%A4%A7%E5%B7%B4%E8%BD%A6%E6%8D%A2%E4%BA%86%E4%B8%AA%E6%B4%BB%E6%B3%95",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时40分 ~ 15时03分]"
+        },
+        {
+          "title": "机票突现“1”字头 比坐高铁还便宜",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E7%A5%A8%E7%AA%81%E7%8E%B0%E2%80%9C1%E2%80%9D%E5%AD%97%E5%A4%B4+%E6%AF%94%E5%9D%90%E9%AB%98%E9%93%81%E8%BF%98%E4%BE%BF%E5%AE%9C",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时40分 ~ 15时03分]"
         },
         {
           "title": "亚马逊云服务(AWS)：OpenAI GPT-5.6 SOL、TERRA 和 LUNA 现已在亚马逊基础设施上全面上线。",
@@ -975,28 +1122,6 @@
           "time_info": "05时44分"
         },
         {
-          "title": "被高铁“逼退”的大巴车换了个活法",
-          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E9%AB%98%E9%93%81%E2%80%9C%E9%80%BC%E9%80%80%E2%80%9D%E7%9A%84%E5%A4%A7%E5%B7%B4%E8%BD%A6%E6%8D%A2%E4%BA%86%E4%B8%AA%E6%B4%BB%E6%B3%95",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时40分"
-        },
-        {
-          "title": "机票突现“1”字头 比坐高铁还便宜",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E7%A5%A8%E7%AA%81%E7%8E%B0%E2%80%9C1%E2%80%9D%E5%AD%97%E5%A4%B4+%E6%AF%94%E5%9D%90%E9%AB%98%E9%93%81%E8%BF%98%E4%BE%BF%E5%AE%9C",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时40分"
-        },
-        {
           "title": "也门胡塞武装领导人表示，该组织将把沙特阿拉伯的“关键基础设施”作为目标。",
           "url": "https://flash.jin10.com/detail/20260714014136309800",
           "source": "金十数据",
@@ -1006,6 +1131,146 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "比亚迪全新B级闪充轿车秦MAX官宣",
+          "url": "https://www.toutiao.com/trending/7661207271717208091/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "港股汽车股午后持续走高，蔚来-SW(09866.HK)涨超8%，小鹏集团(09868.HK)、理想汽车(02015.HK)涨超3%，比亚迪股份(01211.HK)、广汽集团(02238.HK)涨近3%。",
+          "url": "https://flash.jin10.com/detail/20260714142911874800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        },
+        {
+          "title": "比亚迪多款车型迎来更新",
+          "url": "https://www.toutiao.com/trending/7661456150982148139/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "加州新电动车补贴方案出炉，特斯拉成最大赢家",
+          "url": "https://wallstreetcn.com/livenews/3133073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "创业板",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "沪指涨幅扩大至1%，深证成指涨2.33%，创业板指涨近3%。",
+          "url": "https://wallstreetcn.com/livenews/3133377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        },
+        {
+          "title": "A股股指持续走高，上证综指涨幅扩大至1%，深证成指现涨2.33%，创业板指涨近3%；全市场近4000只个股上涨。",
+          "url": "https://flash.jin10.com/detail/20260714143300656800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        },
+        {
+          "title": "上证指数早盘收报3887.92点，跌0.66%。 深证成指早盘收报14461.20点，跌0.42%。 创业板指早盘收报3712.74点，跌0.29%。 沪深300早盘收报4677.31点，跌0.39%。 科创50早盘收报1925.43点，跌3.45%。 中证500早盘收报8024.59点，跌1.40%。 中证1000早盘收报7718.18点，跌0.89%。",
+          "url": "https://wallstreetcn.com/livenews/3133293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "创业板指涨超3%，深成指涨超2%，沪指涨0.63%，算力硬件、医药、油气等方向领涨，沪深京三市上涨个股近3900只。",
+          "url": "https://wallstreetcn.com/livenews/3133346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为 小米 荣耀",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "荣耀与阿里将宣布重要合作",
+          "url": "https://flash.jin10.com/detail/20260714123301587800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "小米回应网传澎程价格推测，称部分推测显著低于成本，推测要讲科学，你认为多少钱可以接受？",
+          "url": "https://www.zhihu.com/question/2059629861941895196",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时40分 ~ 15时03分]"
+        },
+        {
+          "title": "荣耀与阿里将官宣重磅合作",
+          "url": "https://wallstreetcn.com/livenews/3133350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
         }
       ]
     },
@@ -1048,48 +1313,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "比亚迪全新B级闪充轿车秦MAX官宣",
-          "url": "https://www.toutiao.com/trending/7661207271717208091/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时20分"
-        },
-        {
-          "title": "比亚迪多款车型迎来更新",
-          "url": "https://www.toutiao.com/trending/7661456150982148139/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
           "time_info": "12时40分"
-        },
-        {
-          "title": "加州新电动车补贴方案出炉，特斯拉成最大赢家",
-          "url": "https://wallstreetcn.com/livenews/3133073",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时44分"
         }
       ]
     },
@@ -1123,37 +1349,20 @@
       ]
     },
     {
-      "keyword_group": "华为 小米 荣耀",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "荣耀与阿里将宣布重要合作",
-          "url": "https://flash.jin10.com/detail/20260714123301587800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时40分"
-        },
-        {
-          "title": "小米回应网传澎程价格推测，称部分推测显著低于成本，推测要讲科学，你认为多少钱可以接受？",
-          "url": "https://www.zhihu.com/question/2059629861941895196",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时40分"
-        }
-      ]
-    },
-    {
       "keyword_group": "就业 裁员 招聘",
       "match_count": 2,
       "titles": [
+        {
+          "title": "要赢中国，“还得再裁员5万”",
+          "url": "https://news.ifeng.com/c/8ukMQsVJAxY",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时40分 ~ 15时03分]"
+        },
         {
           "title": "新西兰经济研究所（NZIER）：商业信心在二季度改善。 8%的受访企业预计经济形势将改善。 1%的受访企业称二季度贸易形势改善。 54%的受访企业预计将在三季度涨价。 1%的受访企业预计将在三季度裁员。 10%的受访企业预计三季度贸易形势将更好。",
           "url": "https://wallstreetcn.com/livenews/3133111",
@@ -1165,17 +1374,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时44分 ~ 07时43分]"
-        },
-        {
-          "title": "要赢中国，“还得再裁员5万”",
-          "url": "https://news.ifeng.com/c/8ukMQsVJAxY",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时40分"
         }
       ]
     },
@@ -1194,23 +1392,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时44分 ~ 06时44分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "创业板",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "上证指数早盘收报3887.92点，跌0.66%。 深证成指早盘收报14461.20点，跌0.42%。 创业板指早盘收报3712.74点，跌0.29%。 沪深300早盘收报4677.31点，跌0.39%。 科创50早盘收报1925.43点，跌3.45%。 中证500早盘收报8024.59点，跌1.40%。 中证1000早盘收报7718.18点，跌0.89%。",
-          "url": "https://wallstreetcn.com/livenews/3133293",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时40分"
         }
       ]
     }
