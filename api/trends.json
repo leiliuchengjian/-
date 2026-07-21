@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T15:29:47.284698+08:00",
-  "total_titles_processed": 1108,
+  "generated_at": "2026-07-21T18:13:58.915214+08:00",
+  "total_titles_processed": 1293,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 37,
+      "match_count": 40,
       "titles": [
         {
           "title": "霍尔木兹海峡几近瘫痪，国际油价盘中突破90美元大关",
@@ -31,8 +31,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时18分 ~ 15时29分]"
+          "appearance_count": 12,
+          "time_info": "[01时18分 ~ 18时13分]"
         },
         {
           "title": "美国钢铁(X.N)向美国钢铁工人联合会提出一项为期五年的劳资协议方案，包括累计18.2%的工资涨幅和4000美元协议批准奖金。双方将于8月10日在匹兹堡恢复谈判。",
@@ -52,7 +52,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         },
@@ -77,6 +77,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        },
+        {
+          "title": "布伦特原油日内涨超1.00%，现报88.38美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260721175814749800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
+          "title": "WTI原油日内涨幅扩大至1.00%，现报83.74美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260721175756156800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         },
         {
           "title": "美加墨世界杯落下帷幕 FIFA预估狂揽90亿美元收入",
@@ -257,6 +279,17 @@
           "time_info": "03时23分"
         },
         {
+          "title": "现货白银日内涨幅达5%，报59.21美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3137493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
           "title": "现货黄金失守4000美元/盎司，日内跌幅0.22%。",
           "url": "https://flash.jin10.com/detail/20260721065442000800",
           "source": "金十数据",
@@ -362,7 +395,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         },
@@ -406,7 +439,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         },
@@ -428,7 +461,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         }
@@ -436,7 +469,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
         {
           "title": "今天为什么需要世界人工智能大会",
@@ -482,11 +515,12 @@
             11,
             12,
             18,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时18分 ~ 15时29分]"
+          "appearance_count": 12,
+          "time_info": "[01时18分 ~ 18时13分]"
         },
         {
           "title": "王祖贤肖像授权网易AI",
@@ -497,11 +531,12 @@
             13,
             14,
             20,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时18分 ~ 15时29分]"
+          "appearance_count": 12,
+          "time_info": "[01时18分 ~ 18时13分]"
         },
         {
           "title": "清华姚班 全球AI半壁江山",
@@ -550,11 +585,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 15时29分]"
+          "appearance_count": 3,
+          "time_info": "[12时58分 ~ 18时13分]"
         },
         {
           "title": "WAIC机器人格斗拳拳到铁",
@@ -581,15 +617,17 @@
           "time_info": "[09时27分 ~ 15时29分]"
         },
         {
-          "title": "AI的猴子为什么能让菲律宾“破防”",
-          "url": "https://www.toutiao.com/trending/7664683124179337279/",
-          "source": "今日头条",
+          "title": "OpenAI 负责人称 Kimi 开源是减速主义，他的说法有道理吗？开源对 AI 的发展能带来什么？",
+          "url": "https://www.zhihu.com/question/2062575282591209175",
+          "source": "知乎",
           "ranks": [
-            5
+            18,
+            5,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时29分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时27分 ~ 18时13分]"
         },
         {
           "title": "超节点、超集群、TPU方案涌现 算力“拼系统”时代产业最关心Token性价比|WAIC观察",
@@ -604,16 +642,28 @@
           "time_info": "[09时27分 ~ 15时29分]"
         },
         {
-          "title": "OpenAI 负责人称 Kimi 开源是减速主义，他的说法有道理吗？开源对 AI 的发展能带来什么？",
-          "url": "https://www.zhihu.com/question/2062575282591209175",
-          "source": "知乎",
+          "title": "抛售已近尾声？瑞银喊话：逢低买入AI与半导体股时机已到",
+          "url": "https://www.cls.cn/detail/2432258",
+          "source": "财联社热门",
           "ranks": [
-            18,
-            5
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时27分 ~ 15时29分]"
+          "appearance_count": 2,
+          "time_info": "[15时29分 ~ 18时13分]"
+        },
+        {
+          "title": "AI的猴子为什么能让菲律宾“破防”",
+          "url": "https://www.toutiao.com/trending/7664683124179337279/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时29分 ~ 18时13分]"
         },
         {
           "title": "SK董事长：明年AI芯片需求将增长100%，存储价格将进一步上涨",
@@ -632,11 +682,12 @@
           "source": "贴吧",
           "ranks": [
             6,
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 15时29分]"
+          "appearance_count": 3,
+          "time_info": "[12时58分 ~ 18时13分]"
         },
         {
           "title": "AI动量交易面临挑战，高盛：对冲基金过去两个月创纪录抛售美国科技股",
@@ -647,8 +698,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 15时29分]"
+          "appearance_count": 3,
+          "time_info": "[12时58分 ~ 18时13分]"
+        },
+        {
+          "title": "专访UCL教授：AI正抽走职业梯子的最底层，大学必须补上这一环",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33622414",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时58分 ~ 18时13分]"
         },
         {
           "title": "市场消息：Anthropic与作者团体达成15亿美元版权和解，以终结其因下载数百万本盗版书籍训练AI引发的集体诉讼。",
@@ -663,16 +727,15 @@
           "time_info": "[05时59分 ~ 06时57分]"
         },
         {
-          "title": "专访UCL教授：AI正抽走职业梯子的最底层，大学必须补上这一环",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33622414",
-          "source": "澎湃新闻",
+          "title": "AI 的「最后一公里」，还要走多久？",
+          "url": "https://www.zhihu.com/question/2058520434031555606",
+          "source": "知乎",
           "ranks": [
-            17,
-            18
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时58分 ~ 15时29分]"
+          "time_info": "[15时29分 ~ 18时13分]"
         },
         {
           "title": "英国政府任命Wes Streeting为国防大臣。 任命Stephen Kinnock为威尔士事务大臣。 任命Chris Bryant为北爱尔兰事务大臣。 任命Ellie Reeves为总检察长。 任命Emma Reynolds为财政部首席秘书。 任命Kanishka Narayan为人工智能（AI）部长。 任命Hamish Falconer为欧洲关系部长。",
@@ -687,15 +750,27 @@
           "time_info": "[06时57分 ~ 07时49分]"
         },
         {
-          "title": "抛售已近尾声？瑞银喊话：逢低买入AI与半导体股时机已到",
-          "url": "https://www.cls.cn/detail/2432258",
+          "title": "对话︱图灵奖得主萨顿：智慧并不等于知识的堆砌，AI迈向“经验时代”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33620327",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时29分 ~ 18时13分]"
+        },
+        {
+          "title": "锁定万亿订单就能躺赚？这可能是AI产业链条上最大的“伪命题”！",
+          "url": "https://www.cls.cn/detail/2432387",
           "source": "财联社热门",
           "ranks": [
-            7
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时29分"
+          "time_info": "18时13分"
         },
         {
           "title": "瑞银证券孟磊：短期震荡后，继续看好科技和AI为下半年市场主线",
@@ -704,20 +779,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         },
         {
-          "title": "AI 的「最后一公里」，还要走多久？",
-          "url": "https://www.zhihu.com/question/2058520434031555606",
-          "source": "知乎",
+          "title": "嘉实基金王贵重：AI产业链仍然存在持续的投资机会",
+          "url": "https://wallstreetcn.com/livenews/3137480",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时29分"
+          "time_info": "18时13分"
         },
         {
           "title": "AI遭两头夹击！出逃资金何时流向黄金？",
@@ -759,20 +834,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         },
         {
-          "title": "对话︱图灵奖得主萨顿：智慧并不等于知识的堆砌，AI迈向“经验时代”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33620327",
-          "source": "澎湃新闻",
+          "title": "原来AI也是二游",
+          "url": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5AI%E4%B9%9F%E6%98%AF%E4%BA%8C%E6%B8%B8&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时29分"
+          "time_info": "18时13分"
         },
         {
           "title": "AI点燃韩国出口 7月前20天芯片出口暴增180%",
@@ -822,7 +897,7 @@
     },
     {
       "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "半导体指数跌入熊市，高盛悄然转向三大替代投资主题",
@@ -836,19 +911,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时18分 ~ 15时29分]"
+          "appearance_count": 12,
+          "time_info": "[01时18分 ~ 18时13分]"
         },
         {
           "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
           "url": "https://wallstreetcn.com/articles/3777383",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时48分 ~ 15时29分]"
+          "appearance_count": 6,
+          "time_info": "[07时48分 ~ 18时13分]"
         },
         {
           "title": "美股芯片板块盘前反弹 中东局势扑朔迷离 | 今夜看点",
@@ -904,7 +980,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         },
@@ -920,15 +996,15 @@
           "time_info": "[01时18分 ~ 06时57分]"
         },
         {
-          "title": "科创50大涨10.73% 半导体全线爆发",
-          "url": "https://www.baidu.com/s?wd=%E7%A7%91%E5%88%9B50%E5%A4%A7%E6%B6%A810.73%25+%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%85%A8%E7%BA%BF%E7%88%86%E5%8F%91",
-          "source": "百度热搜",
+          "title": "绝地大反转！科创50狂涨超10%，芯片半导体集体爆发、存储“一哥”涨停，恒科指涨超1%，智谱飙涨超35%",
+          "url": "https://wallstreetcn.com/articles/3777521",
+          "source": "华尔街见闻",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时29分"
+          "time_info": "18时13分"
         },
         {
           "title": "金十图示：2026年07月21日（周二）富时中国A50指数成分股今日收盘行情一览：半导体、通信设备、消费电子板块大幅收高，中际旭创大涨13%，寒武纪涨11%，煤炭、白酒板块收低",
@@ -937,9 +1013,22 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
+        },
+        {
+          "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
+          "url": "https://wallstreetcn.com/articles/3777467",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时27分 ~ 18时13分]"
         },
         {
           "title": "微软将推出三款基于AMD芯片的Azure虚拟机服务",
@@ -955,17 +1044,28 @@
           "time_info": "[05时59分 ~ 07时49分]"
         },
         {
-          "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
-          "url": "https://wallstreetcn.com/articles/3777467",
-          "source": "华尔街见闻",
+          "title": "科创50大涨10.73% 半导体全线爆发",
+          "url": "https://www.baidu.com/s?wd=%E7%A7%91%E5%88%9B50%E5%A4%A7%E6%B6%A810.73%25+%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%85%A8%E7%BA%BF%E7%88%86%E5%8F%91",
+          "source": "百度热搜",
           "ranks": [
-            8,
-            7,
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时29分 ~ 18时13分]"
+        },
+        {
+          "title": "【午报】科创50探底回升涨近7%，半导体芯片产业链集体爆发",
+          "url": "https://www.cls.cn/detail/2432290",
+          "source": "财联社热门",
+          "ranks": [
+            10,
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时27分 ~ 15时29分]"
+          "appearance_count": 2,
+          "time_info": "[15时29分 ~ 18时13分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨0.90%，报6337.52点，（高开之后）美股早盘呈现出V形走势，北京时间00:33刷新日高至6397.94点，之后再次回吐涨幅。 热门中概股里，阿里巴巴初步收涨4.7%，腾讯涨3.6%，百度涨2.4%，拼多多涨2.3%，网易涨2.2%，小鹏则跌2.6%，日月光半导体跌3.7%。 ETF中，中概互联网指数ETF（KWEB）收涨2.35%，中国科技指数ETF（CQQQ）收涨0.22%。 德银嘉实沪深300指数ETF（ASHR）收涨1.04%，MSCI新兴市场ex中国ETF（EMXC）收跌0.12%，XtrackersHarvest中证50（ASHS）收跌1.39%。",
@@ -1009,9 +1109,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
+        },
+        {
+          "title": "澜起科技：DDR5 RCD芯片出货量显著增加 CPU需求增加将推动内存互连芯片市场规模扩大",
+          "url": "https://flash.jin10.com/detail/20260721175424662800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         },
         {
           "title": "科创50涨超6% 芯片股领涨",
@@ -1031,7 +1142,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         },
@@ -1042,20 +1153,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         },
         {
-          "title": "【午报】科创50探底回升涨近7%，半导体芯片产业链集体爆发",
-          "url": "https://www.cls.cn/detail/2432290",
+          "title": "【每日收评】创业板指探底回升涨超7%，半导体芯片、算力硬件等科技赛道卷土重来",
+          "url": "https://www.cls.cn/detail/2432689",
           "source": "财联社热门",
           "ranks": [
-            10
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时29分"
+          "time_info": "18时13分"
         },
         {
           "title": "A股收评：创业板指收涨7.05%，芯片产业链集体爆发",
@@ -1064,7 +1175,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         },
@@ -1097,7 +1208,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         },
@@ -1108,7 +1219,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         },
@@ -1141,9 +1252,201 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "央行 降息 降准 CPI 物价",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "物价飞涨,日本增产1日元硬币",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356315&amp;topic_name=%E7%89%A9%E4%BB%B7%E9%A3%9E%E6%B6%A8%2C%E6%97%A5%E6%9C%AC%E5%A2%9E%E4%BA%A71%E6%97%A5%E5%85%83%E7%A1%AC%E5%B8%81",
+          "source": "贴吧",
+          "ranks": [
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时18分 ~ 09时27分]"
+        },
+        {
+          "title": "日本内阁官房长官木原稔：货币政策的具体细节应交由日本央行决定。",
+          "url": "https://wallstreetcn.com/livenews/3137418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        },
+        {
+          "title": "新西兰二季度CPI季环比 1.5%，预期 1.4%，前值 0.9%。 二季度CPI同比 4.1%，预期 4.0%，前值 3.1%。 二季度可贸易部门的CPI季环比 2.7%，预期 2.5%，前值 0.7%。 二季度非可贸易部门的CPI季环比 0.6%，预期 0.6%，前值 1.1%。",
+          "url": "https://wallstreetcn.com/livenews/3137124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时57分 ~ 07时49分]"
+        },
+        {
+          "title": "新西兰第二季度CPI年率 4.1%，预期4%，前值3.10%。",
+          "url": "https://flash.jin10.com/detail/20260721064502646800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时49分"
+        },
+        {
+          "title": "宝盛集团：多数亚洲央行可能按兵不动",
+          "url": "https://flash.jin10.com/detail/20260721175208803800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
+          "title": "新西兰第二季度CPI季率 1.5%，预期1.4%，前值0.90%。",
+          "url": "https://flash.jin10.com/detail/20260721064502639800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时49分"
+        },
+        {
+          "title": "印度央行：草案规则包括采用基于原则的、对被投资者和投资者中立的条款，以适应不断发展的商业实践。",
+          "url": "https://flash.jin10.com/detail/20260721174757757800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
+          "title": "印度央行：草案规则明确区分了《外汇管理法》（FEMA）的程序性条款与政策、行业特定要求，包括简化程序、降低合规负担、通过投资者友好的监管框架提供更大的操作灵活性。",
+          "url": "https://flash.jin10.com/detail/20260721174735539800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
+          "title": "印度央行发布外汇管理规则合理化的草案。",
+          "url": "https://flash.jin10.com/detail/20260721174610641800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "基础设施 基建 地铁 高铁",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "深圳地铁 安检",
+          "url": "https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81%20%E5%AE%89%E6%A3%80&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "深圳地铁「逢包必检、逢人必查」，将对市民出行带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2062519287487714974",
+          "source": "知乎",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时58分 ~ 18时13分]"
+        },
+        {
+          "title": "地铁吐血女孩：最讨厌来蹭吃蹭喝的人",
+          "url": "https://www.baidu.com/s?wd=%E5%9C%B0%E9%93%81%E5%90%90%E8%A1%80%E5%A5%B3%E5%AD%A9%EF%BC%9A%E6%9C%80%E8%AE%A8%E5%8E%8C%E6%9D%A5%E8%B9%AD%E5%90%83%E8%B9%AD%E5%96%9D%E7%9A%84%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时27分 ~ 15时29分]"
+        },
+        {
+          "title": "深圳地铁堵麻了",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81%E5%A0%B5%E9%BA%BB%E4%BA%86%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        },
+        {
+          "title": "国家重大科技基础设施强流重离子加速器装置试运行",
+          "url": "https://wallstreetcn.com/livenews/3137473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
+          "title": "俄罗斯国防部：俄罗斯军队袭击了乌克兰敖德萨港口乌克兰军方使用的基础设施。",
+          "url": "https://flash.jin10.com/detail/20260721174446458800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
+          "title": "深圳地铁新规致乘客通勤多花40分钟",
+          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81%E6%96%B0%E8%A7%84%E8%87%B4%E4%B9%98%E5%AE%A2%E9%80%9A%E5%8B%A4%E5%A4%9A%E8%8A%B140%E5%88%86%E9%92%9F",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         }
       ]
     },
@@ -1158,7 +1461,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         },
@@ -1181,7 +1484,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         },
@@ -1214,7 +1517,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         },
@@ -1228,6 +1531,82 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大模型 ChatGPT Kimi Sora OpenAI",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "Kimi：算力紧缺，即日起暂停C端新用户订阅，将已有算力全部投入于服务已订阅用户",
+          "url": "https://wallstreetcn.com/articles/3777376",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时18分 ~ 07时49分]"
+        },
+        {
+          "title": "更多Token、更多芯片！Kimi K3体现“杰文斯悖论”，效率提升反而增加资源消耗",
+          "url": "https://wallstreetcn.com/articles/3777389",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时18分 ~ 09时27分]"
+        },
+        {
+          "title": "国家超算互联网上线Kimi K3 API服务",
+          "url": "https://wallstreetcn.com/livenews/3137498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
+          "title": "美国为何急着打压中国开源大模型",
+          "url": "https://www.toutiao.com/trending/7663664769782431787/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时00分 ~ 06时57分]"
+        },
+        {
+          "title": "DeepSeek V4 开放灰度测试，你认为能超越 Kimi K3 吗？两个大模型各有哪些优劣？",
+          "url": "https://www.zhihu.com/question/2062579631564093084",
+          "source": "知乎",
+          "ranks": [
+            19,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时29分 ~ 18时13分]"
+        },
+        {
+          "title": "复刻“DeepSeek时刻”？华尔街齐称：Kimi K3反而强化算力需求",
+          "url": "https://wallstreetcn.com/articles/3777510",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         }
       ]
     },
@@ -1294,120 +1673,6 @@
       ]
     },
     {
-      "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "物价飞涨,日本增产1日元硬币",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356315&amp;topic_name=%E7%89%A9%E4%BB%B7%E9%A3%9E%E6%B6%A8%2C%E6%97%A5%E6%9C%AC%E5%A2%9E%E4%BA%A71%E6%97%A5%E5%85%83%E7%A1%AC%E5%B8%81",
-          "source": "贴吧",
-          "ranks": [
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时18分 ~ 09时27分]"
-        },
-        {
-          "title": "日本内阁官房长官木原稔：货币政策的具体细节应交由日本央行决定。",
-          "url": "https://wallstreetcn.com/livenews/3137418",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时29分"
-        },
-        {
-          "title": "新西兰二季度CPI季环比 1.5%，预期 1.4%，前值 0.9%。 二季度CPI同比 4.1%，预期 4.0%，前值 3.1%。 二季度可贸易部门的CPI季环比 2.7%，预期 2.5%，前值 0.7%。 二季度非可贸易部门的CPI季环比 0.6%，预期 0.6%，前值 1.1%。",
-          "url": "https://wallstreetcn.com/livenews/3137124",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时57分 ~ 07时49分]"
-        },
-        {
-          "title": "新西兰第二季度CPI年率 4.1%，预期4%，前值3.10%。",
-          "url": "https://flash.jin10.com/detail/20260721064502646800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时49分"
-        },
-        {
-          "title": "新西兰第二季度CPI季率 1.5%，预期1.4%，前值0.90%。",
-          "url": "https://flash.jin10.com/detail/20260721064502639800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "深圳地铁 安检",
-          "url": "https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81%20%E5%AE%89%E6%A3%80&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "地铁吐血女孩：最讨厌来蹭吃蹭喝的人",
-          "url": "https://www.baidu.com/s?wd=%E5%9C%B0%E9%93%81%E5%90%90%E8%A1%80%E5%A5%B3%E5%AD%A9%EF%BC%9A%E6%9C%80%E8%AE%A8%E5%8E%8C%E6%9D%A5%E8%B9%AD%E5%90%83%E8%B9%AD%E5%96%9D%E7%9A%84%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时27分 ~ 15时29分]"
-        },
-        {
-          "title": "深圳地铁「逢包必检、逢人必查」，将对市民出行带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2062519287487714974",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 15时29分]"
-        },
-        {
-          "title": "深圳地铁堵麻了",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81%E5%A0%B5%E9%BA%BB%E4%BA%86%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时29分"
-        }
-      ]
-    },
-    {
       "keyword_group": "新能源汽车 电动汽车 智能驾驶",
       "match_count": 4,
       "titles": [
@@ -1459,59 +1724,6 @@
       ]
     },
     {
-      "keyword_group": "大模型 ChatGPT Kimi Sora OpenAI",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "Kimi：算力紧缺，即日起暂停C端新用户订阅，将已有算力全部投入于服务已订阅用户",
-          "url": "https://wallstreetcn.com/articles/3777376",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时18分 ~ 07时49分]"
-        },
-        {
-          "title": "更多Token、更多芯片！Kimi K3体现“杰文斯悖论”，效率提升反而增加资源消耗",
-          "url": "https://wallstreetcn.com/articles/3777389",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时18分 ~ 09时27分]"
-        },
-        {
-          "title": "美国为何急着打压中国开源大模型",
-          "url": "https://www.toutiao.com/trending/7663664769782431787/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时00分 ~ 06时57分]"
-        },
-        {
-          "title": "DeepSeek V4 开放灰度测试，你认为能超越 Kimi K3 吗？两个大模型各有哪些优劣？",
-          "url": "https://www.zhihu.com/question/2062579631564093084",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时29分"
-        }
-      ]
-    },
-    {
       "keyword_group": "双十一 618 电商 优惠券",
       "match_count": 2,
       "titles": [
@@ -1535,7 +1747,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         }
@@ -1578,6 +1790,23 @@
       ]
     },
     {
+      "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "工信部点赞比亚迪打破技术瓶颈",
+          "url": "https://www.toutiao.com/trending/7664430049763983401/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        }
+      ]
+    },
+    {
       "keyword_group": "就业 裁员 招聘",
       "match_count": 1,
       "titles": [
@@ -1588,7 +1817,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         }
