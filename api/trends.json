@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T00:14:28.817464+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-07-23T02:02:05.856432+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,31 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 02时02分]"
+        },
+        {
+          "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
+          "url": "https://wallstreetcn.com/articles/3777699",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 02时02分]"
         },
         {
           "title": "别再给AI乱传文件了",
           "url": "https://s.weibo.com/weibo?q=%E5%88%AB%E5%86%8D%E7%BB%99AI%E4%B9%B1%E4%BC%A0%E6%96%87%E4%BB%B6%E4%BA%86&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
-            1
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 02时02分]"
         },
         {
           "title": "OpenAI：将向国家实验室和大学中约2000名“创世使命”研究人员提供400万美元的Codex访问权限。",
@@ -41,15 +53,28 @@
           "time_info": "00时14分"
         },
         {
-          "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
-          "url": "https://wallstreetcn.com/articles/3777699",
-          "source": "华尔街见闻",
+          "title": "用AI通关高难度跑步游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E9%80%9A%E5%85%B3%E9%AB%98%E9%9A%BE%E5%BA%A6%E8%B7%91%E6%AD%A5%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
           "ranks": [
+            6,
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 02时02分]"
+        },
+        {
+          "title": "为什么要说尽量少跟AI倾诉聊天",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%AF%B4%E5%B0%BD%E9%87%8F%E5%B0%91%E8%B7%9FAI%E5%80%BE%E8%AF%89%E8%81%8A%E5%A4%A9&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 02时02分]"
         },
         {
           "title": "OpenAI：将为参与研究的人员提供高达1000万美元的API使用额度，花费其250万美元经费。",
@@ -63,15 +88,73 @@
           "time_info": "00时14分"
         },
         {
-          "title": "用AI通关高难度跑步游戏",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E9%80%9A%E5%85%B3%E9%AB%98%E9%9A%BE%E5%BA%A6%E8%B7%91%E6%AD%A5%E6%B8%B8%E6%88%8F",
-          "source": "bilibili 热搜",
+          "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
+          "url": "https://wallstreetcn.com/articles/3777627",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 02时02分]"
+        },
+        {
+          "title": "AMD首次押注Anthropic：最高投资50亿美元 并锁定数百亿美元AI服务器订单",
+          "url": "https://www.cls.cn/detail/2434311",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 02时02分]"
+        },
+        {
+          "title": "从“靠天发电”到可控发电：光伏告别规模扩张后 AI与光储融合构筑新增长底座",
+          "url": "https://www.cls.cn/detail/2434259",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 02时02分]"
+        },
+        {
+          "title": "OpenAI 模型「失控」入侵全球最大 AI 开源社区，敲响了哪些 AI 安全警钟？",
+          "url": "https://www.zhihu.com/question/2063264614834336987",
+          "source": "知乎",
+          "ranks": [
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 02时02分]"
+        },
+        {
+          "title": "前所未有的人工智能失控事故！中方救场",
+          "url": "https://news.ifeng.com/c/8uyRMC8mtQh",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 02时02分]"
+        },
+        {
+          "title": "OpenAI遭遇史上首次评测失控事故",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E9%81%AD%E9%81%87%E5%8F%B2%E4%B8%8A%E9%A6%96%E6%AC%A1%E8%AF%84%E6%B5%8B%E5%A4%B1%E6%8E%A7%E4%BA%8B%E6%95%85",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 02时02分]"
         },
         {
           "title": "OpenAI：将承诺提供300万美元的API支持，用于两项大规模科学活动，以针对重大科学挑战测试前沿模型。",
@@ -83,83 +166,172 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元 人民币 汇率",
+      "match_count": 11,
+      "titles": [
         {
-          "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
-          "url": "https://wallstreetcn.com/articles/3777627",
-          "source": "华尔街见闻",
+          "title": "派拉蒙天舞1100亿美元收购华纳兄弟探索公司的交易获得欧盟有条件的批准。",
+          "url": "https://wallstreetcn.com/livenews/3138345",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时14分"
+          "time_info": "02时02分"
         },
         {
-          "title": "为什么要说尽量少跟AI倾诉聊天",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%AF%B4%E5%B0%BD%E9%87%8F%E5%B0%91%E8%B7%9FAI%E5%80%BE%E8%AF%89%E8%81%8A%E5%A4%A9&t=31&band_rank=8&Refer=top",
-          "source": "微博",
+          "title": "周三（7月22日），美联储隔夜逆回购协议（RRP）使用规模为3.76亿美元（交易对手2家），上个交易日报2.75亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3138344",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时14分"
+          "time_info": "02时02分"
         },
         {
-          "title": "从“靠天发电”到可控发电：光伏告别规模扩张后 AI与光储融合构筑新增长底座",
-          "url": "https://www.cls.cn/detail/2434259",
-          "source": "财联社热门",
+          "title": "欧盟反垄断监管机构批准派拉蒙(PSKY.O)以1100亿美元收购华纳兄弟探索公司(WBD.O)。",
+          "url": "https://flash.jin10.com/detail/20260723013846284800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "德银：日本政策重心或从干预汇率转向管理收益率",
+          "url": "https://wallstreetcn.com/livenews/3138340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "美国财政部拍卖130亿美元20年期国债，得标利率5.163%（6月16日为4.927%），投标倍数2.64（前次为2.75）。",
+          "url": "https://wallstreetcn.com/livenews/3138339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.55%，暂报2174.29点。 MarketVectorTM数字资产100中盘指数跌0.72%，报2491.90点，亚太午盘持续扩大跌幅。 MarketVector数字资产100指数跌0.31%，报13130点。 目前，Solana涨0.95%，狗狗币跌0.22%，XRP持平。 比特币跌0.32%，暂报66188.99美元；以太坊涨1.31%，暂报1947.90美元。",
+          "url": "https://wallstreetcn.com/livenews/3138337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "LME期铜收跌77美元，报13808美元/吨。 LME期铝收涨34美元，报3192美元/吨。 LME期锌收涨40美元，报3592美元/吨。 LME期铅收涨28美元，报1896美元/吨。 LME期镍收涨149美元，报17234美元/吨。 LME期锡收涨37美元，报53922美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3138335",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时14分"
+          "time_info": "02时02分"
         },
         {
-          "title": "前所未有的人工智能失控事故！中方救场",
-          "url": "https://news.ifeng.com/c/8uyRMC8mtQh",
-          "source": "凤凰网",
+          "title": "美联储在固定利率逆回购操作中总计接纳了2个对手方的3.76亿美元。",
+          "url": "https://flash.jin10.com/detail/20260723011632329800",
+          "source": "金十数据",
           "ranks": [
-            12
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "摩根士丹利从SpaceX IPO中获1亿美元，但这仅仅是开始",
+          "url": "https://wallstreetcn.com/livenews/3138328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "超微电脑涨幅扩大至25%，创2024年以来最佳盘中表现，初步业绩显示，该公司积压订单超过600亿美元——创新高。",
+          "url": "https://wallstreetcn.com/livenews/3138291",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
         },
         {
-          "title": "AMD首次押注Anthropic：最高投资50亿美元 并锁定数百亿美元AI服务器订单",
-          "url": "https://www.cls.cn/detail/2434311",
-          "source": "财联社热门",
+          "title": "特朗普政府暂停向美国两州拨付10亿美元医疗补助资金",
+          "url": "https://wallstreetcn.com/livenews/3138289",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "基础设施 基建 地铁 高铁",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "伊朗议会议长：如果伊朗的安全得不到保障，任何基础设施都不会安全。",
+          "url": "https://wallstreetcn.com/livenews/3138346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
         },
         {
-          "title": "OpenAI 模型「失控」入侵全球最大 AI 开源社区，敲响了哪些 AI 安全警钟？",
-          "url": "https://www.zhihu.com/question/2063264614834336987",
-          "source": "知乎",
+          "title": "央媒评“深圳地铁安检全覆盖后排队数百米”：公共服务当有充分科学预判",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33634584",
+          "source": "澎湃新闻",
           "ranks": [
-            15
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 02时02分]"
         },
         {
-          "title": "OpenAI遭遇史上首次评测失控事故",
-          "url": "https://www.baidu.com/s?wd=OpenAI%E9%81%AD%E9%81%87%E5%8F%B2%E4%B8%8A%E9%A6%96%E6%AC%A1%E8%AF%84%E6%B5%8B%E5%A4%B1%E6%8E%A7%E4%BA%8B%E6%95%85",
-          "source": "百度热搜",
+          "title": "伊朗议会议长卡利巴夫：如果我们的安全得不到保障，就不会有任何基础设施是安全的。霍尔木兹海峡的安全取决于美国军队不在该地区存在。",
+          "url": "https://flash.jin10.com/detail/20260723012737481800",
+          "source": "金十数据",
           "ranks": [
-            16
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时14分"
+          "time_info": "02时02分"
         }
       ]
     },
@@ -175,8 +347,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 02时02分]"
         },
         {
           "title": "Meta定制版AMD MI450芯片算力减半、内存大缩水，SemiAnalysis：这是Meta公司文化的悲哀",
@@ -186,8 +358,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 02时02分]"
         },
         {
           "title": "英伟达涨2.9%，刷新日高，半导体指数目前涨1.1%。",
@@ -214,8 +386,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 02时02分]"
         },
         {
           "title": "英伟达(NVDA.O)持续走高，涨幅扩大至3%。",
@@ -223,34 +395,6 @@
           "source": "金十数据",
           "ranks": [
             18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元 人民币 汇率",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "超微电脑涨幅扩大至25%，创2024年以来最佳盘中表现，初步业绩显示，该公司积压订单超过600亿美元——创新高。",
-          "url": "https://wallstreetcn.com/livenews/3138291",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
-        },
-        {
-          "title": "特朗普政府暂停向美国两州拨付10亿美元医疗补助资金",
-          "url": "https://wallstreetcn.com/livenews/3138289",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -267,39 +411,24 @@
           "url": "https://www.toutiao.com/trending/7664226945405517887/",
           "source": "今日头条",
           "ranks": [
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 02时02分]"
         },
         {
           "title": "哈工大学生研制紫丁香三号成功发射",
           "url": "https://www.baidu.com/s?wd=%E5%93%88%E5%B7%A5%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%A0%94%E5%88%B6%E7%B4%AB%E4%B8%81%E9%A6%99%E4%B8%89%E5%8F%B7%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84",
           "source": "百度热搜",
           "ranks": [
-            29
+            29,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "央媒评“深圳地铁安检全覆盖后排队数百米”：公共服务当有充分科学预判",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33634584",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 02时02分]"
         }
       ]
     },
@@ -315,8 +444,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 02时02分]"
         }
       ]
     },
@@ -329,11 +458,12 @@
           "url": "https://wallstreetcn.com/livenews/3138324",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 02时02分]"
         }
       ]
     },
@@ -349,8 +479,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 02时02分]"
         }
       ]
     }
