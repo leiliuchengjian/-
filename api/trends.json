@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T15:30:22.929576+08:00",
-  "total_titles_processed": 1140,
+  "generated_at": "2026-07-24T18:19:44.851357+08:00",
+  "total_titles_processed": 1325,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 48,
+      "match_count": 51,
       "titles": [
         {
           "title": "谷歌Q2自由现金流首次转负，上调全年资本开支至最高2050亿美元，云业务爆发82%增长｜财报见闻",
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时59分 ~ 15时30分]"
+          "appearance_count": 4,
+          "time_info": "[12时59分 ~ 18时19分]"
         },
         {
           "title": "美股科技七巨头市值蒸发近8千亿美元",
@@ -158,6 +158,17 @@
           "time_info": "[02时07分 ~ 04时08分]"
         },
         {
+          "title": "金价连涨四天，现货黄金重回 4100 美元，深圳水贝挤满购金人，如何看待黄金当下行情？",
+          "url": "https://www.zhihu.com/question/2063412432022901058",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时29分 ~ 18时19分]"
+        },
+        {
           "title": "甲骨文与美国五角大楼签订10年期软件承包合同，价值高达70亿美元。 甲骨文（ORCL）美股盘后涨4%。",
           "url": "https://wallstreetcn.com/livenews/3139073",
           "source": "华尔街见闻-快讯",
@@ -211,17 +222,6 @@
           "source": "百度热搜",
           "ranks": [
             18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时29分 ~ 15时30分]"
-        },
-        {
-          "title": "金价连涨四天，现货黄金重回 4100 美元，深圳水贝挤满购金人，如何看待黄金当下行情？",
-          "url": "https://www.zhihu.com/question/2063412432022901058",
-          "source": "知乎",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -303,6 +303,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
+        },
+        {
+          "title": "市场消息：国防科技公司安杜里尔（Anduril ）正在洽谈融资，估值约为1000亿美元。目前尚未就未来融资做出任何决定。据悉该公司可能要求投资者承诺以更高估值参与后续第二轮融资。",
+          "url": "https://flash.jin10.com/detail/20260724180223087800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
+          "title": "15个月来最惨烈一天：美股“七巨头”单日市值蒸发约8000亿美元",
+          "url": "https://www.cls.cn/detail/2435936",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         },
         {
           "title": "D.A. Davidson：将英特尔(INTC.O)目标价从77美元上调至100美元。",
@@ -443,7 +465,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时30分"
         },
@@ -465,7 +487,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时30分"
         },
@@ -498,9 +520,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时30分"
+        },
+        {
+          "title": "为什么美元石油黄金一起涨",
+          "url": "https://www.toutiao.com/trending/7665964732095925779/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         },
         {
           "title": "美国没有将任何国家列为汇率操纵国。",
@@ -542,7 +575,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时30分"
         }
@@ -550,7 +583,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 43,
+      "match_count": 49,
       "titles": [
         {
           "title": "AI每赚1块钱，谷歌花出去2块",
@@ -589,11 +622,12 @@
             18,
             19,
             16,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时28分 ~ 15时30分]"
+          "appearance_count": 14,
+          "time_info": "[00时28分 ~ 18时19分]"
         },
         {
           "title": "对话｜请人工智能反腐，这个国家用上“AI部长”能奏效吗？",
@@ -629,11 +663,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时29分 ~ 15时30分]"
+          "appearance_count": 6,
+          "time_info": "[09时29分 ~ 18时19分]"
         },
         {
           "title": "中国AI大反超 美国还能挡多久",
@@ -658,6 +693,17 @@
           "time_info": "[00时28分 ~ 06时46分]"
         },
         {
+          "title": "全球最大的通用AI机器人公司智元创新表示，公司已启动赴港上市流程",
+          "url": "https://wallstreetcn.com/livenews/3139415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
           "title": "又两家PCB大厂公告！百亿投资能买回一张AI“船票”吗",
           "url": "https://www.cls.cn/detail/2435740",
           "source": "财联社热门",
@@ -680,6 +726,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时07分"
+        },
+        {
+          "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
+          "url": "https://www.zhihu.com/question/2063832242242184073",
+          "source": "知乎",
+          "ranks": [
+            17,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时29分 ~ 18时19分]"
+        },
+        {
+          "title": "AI需求火热！英特尔财报会实录：CPU景气周期将延续至2028年",
+          "url": "https://www.cls.cn/detail/2435979",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         },
         {
           "title": "英特尔(INTC.O)首席财务官：人工智能个人电脑业务收入环比增长26%，现在占我们客户收入结构的三分之二。",
@@ -716,17 +785,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 02时07分]"
-        },
-        {
-          "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
-          "url": "https://www.zhihu.com/question/2063832242242184073",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时29分 ~ 15时30分]"
         },
         {
           "title": "为什么不见程序员害怕失业抵制AI",
@@ -771,6 +829,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
+          "url": "https://wallstreetcn.com/articles/3777836",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         },
         {
           "title": "菲尔兹奖得主谈加入OpenAI",
@@ -828,6 +897,17 @@
           "time_info": "04时08分"
         },
         {
+          "title": "亚马逊升级Alexa+AI助手，新增多项智能代理功能",
+          "url": "https://wallstreetcn.com/livenews/3139397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
           "title": "据华尔街日报：消息人士称，Stripe正在洽谈收购人工智能模型聚合平台OpenRouter。",
           "url": "https://flash.jin10.com/detail/20260724045621832800",
           "source": "金十数据",
@@ -870,6 +950,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
+        },
+        {
+          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         },
         {
           "title": "存算一体芯片是AI的答案吗",
@@ -1004,13 +1095,24 @@
           "time_info": "02时07分"
         },
         {
+          "title": "欧洲央行调查76家企业：AI投资升温，但制造业仍在寻找“出路”",
+          "url": "https://flash.jin10.com/detail/20260724175007668800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
           "title": "【小鹏人形机器人正小批量试生产，量产产线进入最后联调阶段】小鹏人形机器人已在广州工厂正式开启小批量试生产，同时量产产线进入最后联调阶段，量产冲刺正式进入倒计时。此前，小鹏集团内部召开机器人量产动员大会，明确了关键时间节点：2026年实现人形机器人量产，预计2027年起将陆续进驻全球小鹏门店及商业场景，承担导购、讲解等服务。据悉，小鹏机器人业务整合集团在硬件、AI大模型、供应链及营销等模块能力，并将汽车业务积累的软硬件协同研发、智能制造与全球化渠道经验，系统性地复用于机器人领域，加速高阶人形机器人的量产与商业化进程。（新浪科技）",
           "url": "https://wallstreetcn.com/livenews/3139267",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时30分"
         },
@@ -1051,7 +1153,7 @@
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 15,
+      "match_count": 28,
       "titles": [
         {
           "title": "日本6月全国未季调CPI月率 0%，前值0.5%。",
@@ -1063,6 +1165,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
+        },
+        {
+          "title": "欧洲央行管委西姆库斯：加息的可能性高于维持不变",
+          "url": "https://flash.jin10.com/detail/20260724181121963800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
+          "title": "欧洲央行管委Sleijpen：即使没有第二轮效应，9月仍可能加息。",
+          "url": "https://wallstreetcn.com/livenews/3139417",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         },
         {
           "title": "日本6月CPI(除生鲜食品)同比 1.6%，预期 1.6%，前值 1.4%。",
@@ -1143,6 +1267,17 @@
           "time_info": "[00时28分 ~ 02时07分]"
         },
         {
+          "title": "欧洲央行：将在欧元区抵押品框架中扩大气候因素的使用，涵盖非金融企业的信用债权。",
+          "url": "https://flash.jin10.com/detail/20260724180614474800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
           "title": "交易员称，印度央行在离岸和在岸外汇市场抛售美元以支撑卢比汇率，推动卢比走高。 美元/卢比1个月期NDF一度跌0.4%至96.82；美元/卢比一度跌0.1%至96.4962。",
           "url": "https://wallstreetcn.com/livenews/3139217",
           "source": "华尔街见闻-快讯",
@@ -1165,6 +1300,39 @@
           "time_info": "07时51分"
         },
         {
+          "title": "欧洲央行管委Simkus：过去六周显示了环境的不确定性。 每桶100美元的油价将给通胀带来影响。 通胀环境已经加剧。 通胀风险偏向上行。 现在急于做决定没有意义。 9月我们将再次获得更多通胀数据。",
+          "url": "https://wallstreetcn.com/livenews/3139399",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
+          "title": "日本央行下周政策会议势将维持关键利率不变。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3139395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
+          "title": "欧洲央行管委西姆库斯：仍然认为加息的可能性高于维持不变。",
+          "url": "https://flash.jin10.com/detail/20260724175853659800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
           "title": "美国至7月17日当周外国央行持有美国国债 248.14亿美元，前值6.39亿美元。",
           "url": "https://flash.jin10.com/detail/20260724043339186800",
           "source": "金十数据",
@@ -1174,6 +1342,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
+        },
+        {
+          "title": "欧洲央行管委西姆库斯：通胀预计将长期高于目标。",
+          "url": "https://flash.jin10.com/detail/20260724175715934800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         },
         {
           "title": "消息人士称，日本央行下周将维持通胀可能超过2%目标的警告，但暗示由油价引发的即时价格冲击风险已较4月有所缓解。（路透）",
@@ -1204,9 +1383,75 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时30分"
+        },
+        {
+          "title": "央行：将预付卡发行与受理归入储值账户运营Ⅱ类业务",
+          "url": "https://wallstreetcn.com/livenews/3139378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
+          "title": "欧洲央行管委西姆库斯：九月份我们将会获得额外的通胀数据。",
+          "url": "https://flash.jin10.com/detail/20260724175016619800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
+          "title": "欧洲央行管委西姆库斯：过去六周显示环境的不确定性。",
+          "url": "https://flash.jin10.com/detail/20260724175001584800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
+          "title": "欧洲央行管委西姆库斯：现在急于做出决定没有价值。",
+          "url": "https://flash.jin10.com/detail/20260724174956107800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
+          "title": "欧洲央行管委西姆库斯：100美元/桶的石油将对通胀产生影响。",
+          "url": "https://flash.jin10.com/detail/20260724174949788800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
+          "title": "中国央行将在7月29日至7月31日、8月3日开展隔夜逆回购操作",
+          "url": "https://wallstreetcn.com/livenews/3139365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         },
         {
           "title": "欧洲央行按兵不动符合预期，但9月预防性加息已迫在眉睫",
@@ -1234,8 +1479,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时46分 ~ 15时30分]"
+          "appearance_count": 9,
+          "time_info": "[06时46分 ~ 18时19分]"
         },
         {
           "title": "美股收盘：七巨头齐跌特斯拉重挫14% 纳指降2%布油站上100美元",
@@ -1312,6 +1557,18 @@
           "time_info": "[07时50分 ~ 09时30分]"
         },
         {
+          "title": "比亚迪“大汉”要来了",
+          "url": "https://www.toutiao.com/trending/7665730129716985865/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时29分 ~ 18时19分]"
+        },
+        {
           "title": "美国将在特斯拉致死事故后着手制定车门安全新规",
           "url": "https://wallstreetcn.com/livenews/3139014",
           "source": "华尔街见闻-快讯",
@@ -1322,17 +1579,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时07分 ~ 04时08分]"
-        },
-        {
-          "title": "比亚迪“大汉”要来了",
-          "url": "https://www.toutiao.com/trending/7665730129716985865/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时29分 ~ 15时30分]"
         },
         {
           "title": "美国科技股七巨头指数收跌4.8%，市值蒸发7970亿美元。 成分股特斯拉与谷歌母公司Alphabet市值在业绩报告发布次日分别收跌14.52%和7.13%，合计蒸发（至少）数千亿美元。",
@@ -1394,7 +1640,7 @@
     },
     {
       "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "A股三大股指震荡收涨，锂矿、电网爆发，科创50跌近4%，半导体产业链齐跌，恒指涨超1%，科网股普涨",
@@ -1410,6 +1656,17 @@
           "time_info": "[00时28分 ~ 09时30分]"
         },
         {
+          "title": "英特尔电话会：产品需求前所未见，存储、逻辑芯片等短缺将持续存在，大幅上调今明两年资本开支",
+          "url": "https://wallstreetcn.com/articles/3777822",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时59分 ~ 18时19分]"
+        },
+        {
           "title": "中国“芯片刻刀”终于出鞘",
           "url": "https://www.toutiao.com/trending/7664586420367376438/",
           "source": "今日头条",
@@ -1421,17 +1678,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时56分 ~ 07时51分]"
-        },
-        {
-          "title": "英特尔电话会：产品需求前所未见，存储、逻辑芯片等短缺将持续存在，大幅上调今明两年资本开支",
-          "url": "https://wallstreetcn.com/articles/3777822",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时59分 ~ 15时30分]"
         },
         {
           "title": "AMD的CEO苏姿丰：新款Venice CPU扩大（本公司产品）在行业的领先地位。 全新EPYC架构带来了史上最大幅度的代际性能飞跃。 新款服务器CPU遥遥领先那些基于Arm的芯片。 新款EPYC性能比英伟达CPU高出20%。 Venice全面投产，客户需求强劲。 那些基于Venice的系统将在四季度出现。",
@@ -1458,6 +1704,17 @@
           "time_info": "[05时56分 ~ 06时46分]"
         },
         {
+          "title": "半导体扩产遇瓶颈：设备交期大幅拉长 韩国存储巨头考虑提前下单",
+          "url": "https://www.cls.cn/detail/2435916",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
           "title": "AMD(AMD.O)CEO苏姿丰：公司正在与芯片设计公司Cerebras合作，通过Cerebras的云服务提供高速推理能力。",
           "url": "https://flash.jin10.com/detail/20260724013547190800",
           "source": "金十数据",
@@ -1467,6 +1724,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时07分"
+        },
+        {
+          "title": "【每日收评】深成指、创业板指双双跌超2%，两市成交额不足2万亿，半导体设备逆势活跃",
+          "url": "https://www.cls.cn/detail/2436369",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         },
         {
           "title": "AMD(AMD.O)CEO苏姿丰：我们的新款服务器CPU相比基于Arm架构的芯片拥有明显领先优势。",
@@ -1537,8 +1805,135 @@
       ]
     },
     {
+      "keyword_group": "英伟达 台积电 AMD 高通",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "Melius Research：将AMD(AMD.O)目标价从540美元上调至660美元。",
+          "url": "https://flash.jin10.com/detail/20260724180801602800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
+          "title": "“跪美”账单来了，台积电明年要涨价",
+          "url": "https://news.ifeng.com/c/8v0v4boOwzh",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 09时30分]"
+        },
+        {
+          "title": "AMD(AMD.O)与Cerebras的合作产品将于今年晚些时候推向市场。",
+          "url": "https://flash.jin10.com/detail/20260724013820220800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时07分"
+        },
+        {
+          "title": "AMD(AMD.O)CEO苏姿丰：Venice已全面投产，客户需求强劲。基于Venice的系统将于第四季度推出。",
+          "url": "https://flash.jin10.com/detail/20260724012549800800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时07分"
+        },
+        {
+          "title": "AMD跌幅扩大至4%，刷新日低，该公司高管正在讲话。",
+          "url": "https://wallstreetcn.com/livenews/3139007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时07分"
+        },
+        {
+          "title": "AMD(AMD.O)CEO苏姿丰：新款EPYC处理器相比英伟达CPU性能提升20%。",
+          "url": "https://flash.jin10.com/detail/20260724012249689800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时07分"
+        },
+        {
+          "title": "欧洲央行管委西姆库斯：我们没有看到更高通胀的二次效应。",
+          "url": "https://flash.jin10.com/detail/20260724175843571800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
+          "title": "AMD发布新产品，剑指2万亿美元市场机遇",
+          "url": "https://wallstreetcn.com/livenews/3139003",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时07分"
+        },
+        {
+          "title": "AMD(AMD.O)CEO苏姿丰：我们的新款Venice CPU将进一步巩固公司在行业内的领先地位。新款Epyc设计带来了最大的代际提升。",
+          "url": "https://flash.jin10.com/detail/20260724011602955800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时07分"
+        },
+        {
+          "title": "报道：英伟达据报将对涉及GDDR6和GDDR7的显存套件进行涨价",
+          "url": "https://wallstreetcn.com/livenews/3139383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
+          "title": "AMD(AMD.O)CEO 苏姿丰：Anthropic将在云服务商、新型云计算平台以及潜在的自有数据中心中使用AMD的CPU和GPU。",
+          "url": "https://flash.jin10.com/detail/20260724031248368800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时08分"
+        }
+      ]
+    },
+    {
       "keyword_group": "华为 小米 荣耀",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "任正非：韬定律是华为唯一突围道路",
@@ -1630,6 +2025,17 @@
           "time_info": "[09时29分 ~ 09时30分]"
         },
         {
+          "title": "如何评价荣耀最新的 logo？为啥要在这个时间点更换 logo？",
+          "url": "https://www.zhihu.com/question/2063634663818762184",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
           "title": "小米汽车公布增程器",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%85%AC%E5%B8%83%E5%A2%9E%E7%A8%8B%E5%99%A8%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -1654,102 +2060,8 @@
       ]
     },
     {
-      "keyword_group": "英伟达 台积电 AMD 高通",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "“跪美”账单来了，台积电明年要涨价",
-          "url": "https://news.ifeng.com/c/8v0v4boOwzh",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 09时30分]"
-        },
-        {
-          "title": "AMD(AMD.O)与Cerebras的合作产品将于今年晚些时候推向市场。",
-          "url": "https://flash.jin10.com/detail/20260724013820220800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时07分"
-        },
-        {
-          "title": "AMD(AMD.O)CEO苏姿丰：Venice已全面投产，客户需求强劲。基于Venice的系统将于第四季度推出。",
-          "url": "https://flash.jin10.com/detail/20260724012549800800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时07分"
-        },
-        {
-          "title": "AMD跌幅扩大至4%，刷新日低，该公司高管正在讲话。",
-          "url": "https://wallstreetcn.com/livenews/3139007",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时07分"
-        },
-        {
-          "title": "AMD(AMD.O)CEO苏姿丰：新款EPYC处理器相比英伟达CPU性能提升20%。",
-          "url": "https://flash.jin10.com/detail/20260724012249689800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时07分"
-        },
-        {
-          "title": "AMD发布新产品，剑指2万亿美元市场机遇",
-          "url": "https://wallstreetcn.com/livenews/3139003",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时07分"
-        },
-        {
-          "title": "AMD(AMD.O)CEO苏姿丰：我们的新款Venice CPU将进一步巩固公司在行业内的领先地位。新款Epyc设计带来了最大的代际提升。",
-          "url": "https://flash.jin10.com/detail/20260724011602955800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时07分"
-        },
-        {
-          "title": "AMD(AMD.O)CEO 苏姿丰：Anthropic将在云服务商、新型云计算平台以及潜在的自有数据中心中使用AMD的CPU和GPU。",
-          "url": "https://flash.jin10.com/detail/20260724031248368800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时08分"
-        }
-      ]
-    },
-    {
       "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "伊朗称袭击美国亚马逊公司在巴林的数据基础设施，这个地方有多重要？将造成哪些影响？",
@@ -1796,6 +2108,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时07分"
+        },
+        {
+          "title": "全国首条穿越长江高铁隧道贯通，这是一个怎样的工程？在长江底下挖高铁隧道，有多难？",
+          "url": "https://www.zhihu.com/question/2063952005505324990",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         },
         {
           "title": "OpenAI基础设施负责人：OpenAI计划与AMD合作开发MI500系列AI芯片及后续产品。",
@@ -1888,7 +2211,7 @@
     },
     {
       "keyword_group": "大学生 毕业生",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "38岁清华毕业生回应被北大医学部录取：挺激动的，太不容易了",
@@ -1899,11 +2222,12 @@
             20,
             18,
             15,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时28分 ~ 15时30分]"
+          "appearance_count": 14,
+          "time_info": "[00时28分 ~ 18时19分]"
         },
         {
           "title": "网传贫困生连续 37 天喝 9.9 元咖啡，其补助金是否该取消？较多自称贫困生的大学生维护喝咖啡自由，合理吗？",
@@ -1928,6 +2252,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时07分 ~ 06时46分]"
+        },
+        {
+          "title": "河南大学生3姐弟暑假仍是自律模式",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%A4%A7%E5%AD%A6%E7%94%9F3%E5%A7%90%E5%BC%9F%E6%9A%91%E5%81%87%E4%BB%8D%E6%98%AF%E8%87%AA%E5%BE%8B%E6%A8%A1%E5%BC%8F",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
+          "title": "大学生长期腰疼查出有3个肾",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%95%BF%E6%9C%9F%E8%85%B0%E7%96%BC%E6%9F%A5%E5%87%BA%E6%9C%893%E4%B8%AA%E8%82%BE",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         }
       ]
     },
@@ -1984,7 +2330,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时30分"
         }
@@ -1999,11 +2345,12 @@
           "url": "https://www.cls.cn/detail/2435988",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时29分 ~ 15时30分]"
+          "appearance_count": 3,
+          "time_info": "[15时29分 ~ 18时19分]"
         }
       ]
     },
@@ -2018,9 +2365,26 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "考研 考公 国考",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "曝美国考虑在马里动武",
+          "url": "https://www.toutiao.com/trending/7665995682691436078/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         }
       ]
     }
