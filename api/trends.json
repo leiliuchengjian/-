@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-07-25T20:04:51.060676+08:00",
-  "total_titles_processed": 1195,
+  "generated_at": "2026-07-25T22:27:03.682025+08:00",
+  "total_titles_processed": 1347,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 35,
+      "match_count": 40,
       "titles": [
+        {
+          "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
+          "url": "https://wallstreetcn.com/articles/3777901",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时55分 ~ 22时27分]"
+        },
         {
           "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
           "url": "https://wallstreetcn.com/articles/3777849",
@@ -23,20 +37,6 @@
           "time_info": "[02时10分 ~ 12时56分]"
         },
         {
-          "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
-          "url": "https://wallstreetcn.com/articles/3777901",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时55分 ~ 20时04分]"
-        },
-        {
           "title": "中国AI反超,老美急眼下黑手",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
           "source": "贴吧",
@@ -44,11 +44,12 @@
             3,
             5,
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时55分 ~ 20时04分]"
+          "appearance_count": 9,
+          "time_info": "[12时55分 ~ 22时27分]"
         },
         {
           "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
@@ -64,6 +65,21 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时10分 ~ 09时31分]"
+        },
+        {
+          "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
+          "url": "https://www.zhihu.com/question/2064272326489628784",
+          "source": "知乎",
+          "ranks": [
+            20,
+            13,
+            8,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时09分 ~ 22时27分]"
         },
         {
           "title": "AI烧钱担忧叠加中东局势，纳斯达克100指数跌幅扩大至1.2%，存储芯片板块重挫逾6%，SK海力士跌7%，油价跌超2%",
@@ -92,20 +108,6 @@
           "time_info": "[02时10分 ~ 09时31分]"
         },
         {
-          "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
-          "url": "https://www.zhihu.com/question/2064272326489628784",
-          "source": "知乎",
-          "ranks": [
-            20,
-            13,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时09分 ~ 20时04分]"
-        },
-        {
           "title": "据韩联社：韩国互联网门户运营商Naver公司已获得英伟达和美国私募股权公司Brookfield总计100亿美元的投资承诺，用于资助其在韩国建设人工智能（AI）数据中心的计划。",
           "url": "https://flash.jin10.com/detail/20260725122018676800",
           "source": "金十数据",
@@ -115,6 +117,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
+        },
+        {
+          "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
+          "url": "https://wallstreetcn.com/articles/3777926",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时04分 ~ 22时27分]"
         },
         {
           "title": "SK海力士：与英伟达达成长期AI内存合作协议。",
@@ -221,6 +235,17 @@
           "time_info": "[02时10分 ~ 04时10分]"
         },
         {
+          "title": "有人呼吁美“封杀”中国大模型，黄仁勋等人急了：快开源美国AI",
+          "url": "https://news.ifeng.com/c/8v36WP0WL2Y",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时04分 ~ 22时27分]"
+        },
+        {
           "title": "AI已经摸不透柯洁了",
           "url": "https://www.douyin.com/hot/2584747",
           "source": "抖音",
@@ -244,6 +269,17 @@
           "time_info": "[02时10分 ~ 02时11分]"
         },
         {
+          "title": "黄仁勋首推支持开源AI模型，奥特曼意外呼应，马斯克称所有涉及X系统的代码将开源",
+          "url": "https://wallstreetcn.com/articles/3777898",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时26分 ~ 22时27分]"
+        },
+        {
           "title": "据社交媒体信息：OpenAI的ChatGPT与Codex出现大范围无法使用故障。",
           "url": "https://flash.jin10.com/detail/20260725172016965800",
           "source": "金十数据",
@@ -254,6 +290,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时02分 ~ 20时04分]"
+        },
+        {
+          "title": "中东断供叠加AI算力爆发，电子布涨超100%，龙头急扩产",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33654798",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时26分 ~ 22时27分]"
         },
         {
           "title": "OpenAI失控中国大模型救场",
@@ -267,26 +314,26 @@
           "time_info": "[09时30分 ~ 09时31分]"
         },
         {
-          "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
-          "url": "https://wallstreetcn.com/articles/3777926",
-          "source": "华尔街见闻",
+          "title": "事关基础研究、人工智能、人民城市，上海这场重磅会议锚定哪些关键方向",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33656318",
+          "source": "澎湃新闻",
           "ranks": [
-            9
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时26分 ~ 22时27分]"
         },
         {
-          "title": "有人呼吁美“封杀”中国大模型，黄仁勋等人急了：快开源美国AI",
-          "url": "https://news.ifeng.com/c/8v36WP0WL2Y",
-          "source": "凤凰网",
+          "title": "黄仁勋发布首条推文力挺开源AI：世界需要前沿的开源模型",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33656792",
+          "source": "澎湃新闻",
           "ranks": [
-            10
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时26分 ~ 22时27分]"
         },
         {
           "title": "Anthropic推出更具成本效益的日常任务AI模型",
@@ -309,6 +356,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
+        },
+        {
+          "title": "亚洲大型股票基金转向落后股，来规避AI波动风险",
+          "url": "https://wallstreetcn.com/livenews/3139752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         },
         {
           "title": "Meta Platforms(META.O)：未来几周内，Meta AI 的新功能将扩展至更多国家及平台（包括WhatsApp）。",
@@ -591,6 +649,18 @@
           "time_info": "[17时28分 ~ 19时02分]"
         },
         {
+          "title": "詹姆斯降薪 4875 万美元加盟后，费城的阵容如何调整才能避免球权冲突？球队有哪些隐患？",
+          "url": "https://www.zhihu.com/question/2064281439982576241",
+          "source": "知乎",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时04分 ~ 22时27分]"
+        },
+        {
           "title": "美联储：美国上周银行存款19.466万亿美元，之前一周19.362万亿美元。",
           "url": "https://wallstreetcn.com/livenews/3139645",
           "source": "华尔街见闻-快讯",
@@ -703,17 +773,6 @@
           "time_info": "02时11分"
         },
         {
-          "title": "詹姆斯降薪 4875 万美元加盟后，费城的阵容如何调整才能避免球权冲突？球队有哪些隐患？",
-          "url": "https://www.zhihu.com/question/2064281439982576241",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时04分"
-        },
-        {
           "title": "LME期铜收涨50美元，报13645美元/吨。 LME期铝收跌28美元，报3160美元/吨。 LME期锌收涨6美元，报3592美元/吨。 LME期铅收跌6美元，报1887美元/吨。 LME期镍收涨146美元，报17379美元/吨。 LME期锡收涨455美元，报53781美元/吨。 LME期钴收平，报56290美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3139578",
           "source": "华尔街见闻-快讯",
@@ -761,8 +820,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时55分 ~ 20时04分]"
+          "appearance_count": 12,
+          "time_info": "[07时55分 ~ 22时27分]"
         },
         {
           "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
@@ -774,8 +833,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时55分 ~ 20时04分]"
+          "appearance_count": 12,
+          "time_info": "[07时55分 ~ 22时27分]"
         },
         {
           "title": "三星、SK海力士将宣布与美国科技巨头达成大规模芯片合作",
@@ -786,11 +845,12 @@
             3,
             2,
             6,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[02时10分 ~ 20时04分]"
+          "appearance_count": 17,
+          "time_info": "[02时10分 ~ 22时27分]"
         },
         {
           "title": "脑机接口迎重大突破：视网膜芯片获准在欧上市 可帮助患者恢复视力",
@@ -804,8 +864,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时30分 ~ 20时04分]"
+          "appearance_count": 11,
+          "time_info": "[09时30分 ~ 22时27分]"
         },
         {
           "title": "被SK海力士踢出局！“韩国芯片唱空专业户”大摩在韩快混不下去了",
@@ -1037,7 +1097,7 @@
     },
     {
       "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "印日高铁撕破脸,兄妹互甩锅",
@@ -1046,11 +1106,12 @@
           "ranks": [
             3,
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时09分 ~ 20时04分]"
+          "appearance_count": 7,
+          "time_info": "[15时09分 ~ 22时27分]"
         },
         {
           "title": "我国首条穿越长江高铁隧道贯通",
@@ -1086,6 +1147,32 @@
           "time_info": "[12时55分 ~ 12时56分]"
         },
         {
+          "title": "印度和日本因高铁闹翻",
+          "url": "https://www.toutiao.com/trending/7666341208477748782/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            23,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时28分 ~ 22时27分]"
+        },
+        {
+          "title": "李权哲高铁占座",
+          "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E6%9D%83%E5%93%B2%E9%AB%98%E9%93%81%E5%8D%A0%E5%BA%A7&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时01分 ~ 22时27分]"
+        },
+        {
           "title": "印度和日本因高铁闹翻了",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%92%8C%E6%97%A5%E6%9C%AC%E5%9B%A0%E9%AB%98%E9%93%81%E9%97%B9%E7%BF%BB%E4%BA%86%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -1096,18 +1183,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时30分 ~ 12时56分]"
-        },
-        {
-          "title": "印度和日本因高铁闹翻",
-          "url": "https://www.toutiao.com/trending/7666341208477748782/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时28分 ~ 20时04分]"
         },
         {
           "title": "深圳地铁",
@@ -1133,27 +1208,38 @@
           "time_info": "[02时10分 ~ 04时10分]"
         },
         {
-          "title": "李权哲高铁占座",
-          "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E6%9D%83%E5%93%B2%E9%AB%98%E9%93%81%E5%8D%A0%E5%BA%A7&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时01分 ~ 20时04分]"
-        },
-        {
           "title": "科威特签署160亿美元能源基础设施合作协议",
           "url": "https://wallstreetcn.com/livenews/3139720",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时04分 ~ 22时27分]"
+        },
+        {
+          "title": "25岁男星被指在高铁占素人座位",
+          "url": "https://www.baidu.com/s?wd=25%E5%B2%81%E7%94%B7%E6%98%9F%E8%A2%AB%E6%8C%87%E5%9C%A8%E9%AB%98%E9%93%81%E5%8D%A0%E7%B4%A0%E4%BA%BA%E5%BA%A7%E4%BD%8D",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时26分 ~ 22时27分]"
+        },
+        {
+          "title": "李权哲方回应高铁占座",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%9D%83%E5%93%B2%E6%96%B9%E5%9B%9E%E5%BA%94%E9%AB%98%E9%93%81%E5%8D%A0%E5%BA%A7%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时26分 ~ 22时27分]"
         },
         {
           "title": "深圳地铁或因台风提前停运",
@@ -1162,7 +1248,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时04分"
         }
@@ -1179,11 +1265,12 @@
           "ranks": [
             4,
             6,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时55分 ~ 20时04分]"
+          "appearance_count": 9,
+          "time_info": "[12时55分 ~ 22时27分]"
         },
         {
           "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
@@ -1290,6 +1377,18 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "任正非为什么说「τ 定律是华为唯一出路」？",
+          "url": "https://www.zhihu.com/question/2063930109304594992",
+          "source": "知乎",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时09分 ~ 22时27分]"
+        },
+        {
           "title": "王者荣耀牛年限定皮肤返场",
           "url": "https://www.douyin.com/hot/2583766",
           "source": "抖音",
@@ -1302,18 +1401,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时10分 ~ 09时31分]"
-        },
-        {
-          "title": "任正非为什么说「τ 定律是华为唯一出路」？",
-          "url": "https://www.zhihu.com/question/2063930109304594992",
-          "source": "知乎",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时09分 ~ 20时04分]"
         },
         {
           "title": "小米澎程 skynomadn90max 白色测试车现身，这意味着什么？",
@@ -1345,7 +1432,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时04分"
         }
@@ -1353,7 +1440,7 @@
     },
     {
       "keyword_group": "英伟达 台积电 AMD 高通",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "韩美科技巨头聚首旧金山 英伟达、Anthropic宣布达成大型协议",
@@ -1365,8 +1452,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时55分 ~ 20时04分]"
+          "appearance_count": 9,
+          "time_info": "[12时55分 ~ 22时27分]"
         },
         {
           "title": "英伟达计划与韩国SK集团达成5000亿美元的合作协议",
@@ -1384,11 +1471,23 @@
           "url": "https://wallstreetcn.com/articles/3777900",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时04分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时04分 ~ 22时27分]"
+        },
+        {
+          "title": "英伟达被“错杀”了吗",
+          "url": "https://www.toutiao.com/trending/7666437219288108594/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时26分 ~ 22时27分]"
         },
         {
           "title": "英伟达将向韩国Naver投资10亿美元 并扩大与SK集团合作协议",
@@ -1437,11 +1536,12 @@
           "url": "https://s.weibo.com/weibo?q=ChatGPT%E5%B4%A9%E4%BA%86&t=31&band_rank=28&Refer=top",
           "source": "微博",
           "ranks": [
-            28
+            28,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时01分 ~ 19时02分]"
+          "appearance_count": 4,
+          "time_info": "[19时01分 ~ 22时27分]"
         }
       ]
     },
@@ -1561,8 +1661,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时55分 ~ 20时04分]"
+          "appearance_count": 9,
+          "time_info": "[12时55分 ~ 22时27分]"
         },
         {
           "title": "欧洲央行首席经济学家：美国并非国际贸易主导力量",
