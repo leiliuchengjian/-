@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T09:43:41.835166+08:00",
-  "total_titles_processed": 595,
+  "generated_at": "2026-08-02T13:16:42.321879+08:00",
+  "total_titles_processed": 756,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时47分 ~ 09时43分]"
+          "appearance_count": 11,
+          "time_info": "[00时47分 ~ 13时16分]"
         },
         {
           "title": "“AI股神”致信投资者：遭遇“银行挤兑”，再也不加杠杆了，今年仍涨80%，我们能东山再起",
@@ -28,17 +29,6 @@
             4,
             3,
             2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时47分 ~ 09时43分]"
-        },
-        {
-          "title": "神了,OpenAI攻克十年数学难题",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356711&amp;topic_name=%E7%A5%9E%E4%BA%86%2COpenAI%E6%94%BB%E5%85%8B%E5%8D%81%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
-          "source": "贴吧",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 10,
@@ -72,6 +62,18 @@
           "time_info": "[00时47分 ~ 09时43分]"
         },
         {
+          "title": "神了,OpenAI攻克十年数学难题",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356711&amp;topic_name=%E7%A5%9E%E4%BA%86%2COpenAI%E6%94%BB%E5%85%8B%E5%8D%81%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时47分 ~ 13时16分]"
+        },
+        {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
           "url": "https://www.cls.cn/detail/2443270",
           "source": "财联社热门",
@@ -80,8 +82,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时47分 ~ 09时43分]"
+          "appearance_count": 11,
+          "time_info": "[00时47分 ~ 13时16分]"
         },
         {
           "title": "“AI股神”最新表态：再也不碰杠杆了",
@@ -93,8 +95,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时47分 ~ 09时43分]"
+          "appearance_count": 11,
+          "time_info": "[00时47分 ~ 13时16分]"
         },
         {
           "title": "AI生成的作品算艺术吗",
@@ -121,27 +123,62 @@
           "time_info": "[00时47分 ~ 09时43分]"
         },
         {
-          "title": "这届AI进化到开始玩心眼了",
-          "url": "https://www.douyin.com/hot/2592773",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时47分 ~ 09时43分]"
-        },
-        {
           "title": "OpenAI确认下一代模型Astra存在，以2000美元算力成本破解十项数学未解难题，正向监管层展示",
           "url": "https://wallstreetcn.com/articles/3778497",
           "source": "华尔街见闻",
           "ranks": [
             8,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时47分 ~ 09时43分]"
+          "appearance_count": 3,
+          "time_info": "[07时47分 ~ 13时16分]"
+        },
+        {
+          "title": "这届AI进化到开始玩心眼了",
+          "url": "https://www.douyin.com/hot/2592773",
+          "source": "抖音",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时47分 ~ 13时16分]"
+        },
+        {
+          "title": "OpenAI的10项数学突破含金量多高",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E7%9A%8410%E9%A1%B9%E6%95%B0%E5%AD%A6%E7%AA%81%E7%A0%B4%E5%90%AB%E9%87%91%E9%87%8F%E5%A4%9A%E9%AB%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        },
+        {
+          "title": "从韩国到美国：多亏了AI，蓝领越来越吃香了",
+          "url": "https://wallstreetcn.com/articles/3778495",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        },
+        {
+          "title": "怎么看 GCC 正式拒绝所有 AI 代码，基于 AI 代码人改的都不行？",
+          "url": "https://www.zhihu.com/question/2066611104294482895",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
         },
         {
           "title": "美两家AI巨头承认自家大模型“失控”",
@@ -164,12 +201,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "OpenAI总裁兼联合创始人Brockman：ChatGPT是一种非常棒的思维放大器。",
+          "url": "https://flash.jin10.com/detail/20260802095047745800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
         }
       ]
     },
     {
       "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "老人戒指掉入高铁厕所、12306回复称不符合寻找条件？铁路部门回应",
@@ -179,11 +227,12 @@
             14,
             15,
             13,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时47分 ~ 09时43分]"
+          "appearance_count": 11,
+          "time_info": "[00时47分 ~ 13时16分]"
         },
         {
           "title": "戒指掉入高铁厕所无法寻找？官方回应",
@@ -212,26 +261,38 @@
           "time_info": "[01时52分 ~ 04时05分]"
         },
         {
+          "title": "盘点全国城市好听的地铁站名",
+          "url": "https://www.douyin.com/hot/2593104",
+          "source": "抖音",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时43分 ~ 13时16分]"
+        },
+        {
           "title": "不吃压力并展示了基建",
           "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E5%90%83%E5%8E%8B%E5%8A%9B%E5%B9%B6%E5%B1%95%E7%A4%BA%E4%BA%86%E5%9F%BA%E5%BB%BA&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
         },
         {
-          "title": "盘点全国城市好听的地铁站名",
-          "url": "https://www.douyin.com/hot/2593104",
-          "source": "抖音",
+          "title": "美以拟周末对伊朗能源基础设施实施“猛烈轰炸” ，瞄准发电厂、炼油厂，伊朗：全面反击方案已就绪",
+          "url": "https://wallstreetcn.com/articles/3778501",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时43分"
+          "time_info": "13时16分"
         },
         {
           "title": "专家：美国威胁轰炸伊朗能源基础设施或将加剧紧张局势",
@@ -240,15 +301,89 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
         }
       ]
     },
     {
+      "keyword_group": "华为 小米 荣耀",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "小米多款手机今起正式涨价",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%A4%9A%E6%AC%BE%E6%89%8B%E6%9C%BA%E4%BB%8A%E8%B5%B7%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时43分 ~ 13时16分]"
+        },
+        {
+          "title": "小米多款手机今起正式涨价",
+          "url": "https://www.douyin.com/hot/2594149",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        },
+        {
+          "title": "王者荣耀英雄梯度排行",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E8%8B%B1%E9%9B%84%E6%A2%AF%E5%BA%A6%E6%8E%92%E8%A1%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时52分 ~ 13时16分]"
+        },
+        {
+          "title": "小米多款手机今起正式涨价",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%A4%9A%E6%AC%BE%E6%89%8B%E6%9C%BA%E4%BB%8A%E8%B5%B7%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
+          "title": "雷军说晚安被指营销 小米高管回应",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E8%AF%B4%E6%99%9A%E5%AE%89%E8%A2%AB%E6%8C%87%E8%90%A5%E9%94%80+%E5%B0%8F%E7%B1%B3%E9%AB%98%E7%AE%A1%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        },
+        {
+          "title": "恶搞余承东视频被华为投诉下架",
+          "url": "https://www.baidu.com/s?wd=%E6%81%B6%E6%90%9E%E4%BD%99%E6%89%BF%E4%B8%9C%E8%A7%86%E9%A2%91%E8%A2%AB%E5%8D%8E%E4%B8%BA%E6%8A%95%E8%AF%89%E4%B8%8B%E6%9E%B6",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美财长笔记本写着“买50-100亿美元的日元”，被拍到后日元升值",
@@ -274,19 +409,20 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时47分 ~ 09时43分]"
+          "appearance_count": 11,
+          "time_info": "[00时47分 ~ 13时16分]"
         },
         {
           "title": "美军坠机,1亿美元化成灰",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356700&amp;topic_name=%E7%BE%8E%E5%86%9B%E5%9D%A0%E6%9C%BA%2C1%E4%BA%BF%E7%BE%8E%E5%85%83%E5%8C%96%E6%88%90%E7%81%B0",
           "source": "贴吧",
           "ranks": [
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时47分 ~ 09时43分]"
+          "appearance_count": 11,
+          "time_info": "[00时47分 ~ 13时16分]"
         },
         {
           "title": "特朗普媒体公司推出了Truth API，该付费服务​​使订阅用户可以比普通用户更早实时访问“真相社交媒体”（Truth Social）上的帖子。该服务每月费用高达10万美元，主要面向交易公司和企业。",
@@ -312,45 +448,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时47分 ~ 07时47分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "华为 小米 荣耀",
-      "match_count": 3,
-      "titles": [
+        },
         {
-          "title": "小米多款手机今起正式涨价",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%A4%9A%E6%AC%BE%E6%89%8B%E6%9C%BA%E4%BB%8A%E8%B5%B7%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7",
-          "source": "百度热搜",
+          "title": "印尼能源部将8月上半月5300大卡等级煤炭基准价格定为每公吨93.27美元，4100大卡等级煤炭的基准价格定为每吨65.48美元。",
+          "url": "https://flash.jin10.com/detail/20260802102019430800",
+          "source": "金十数据",
           "ranks": [
-            2
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时43分"
-        },
-        {
-          "title": "小米多款手机今起正式涨价",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%A4%9A%E6%AC%BE%E6%89%8B%E6%9C%BA%E4%BB%8A%E8%B5%B7%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时43分"
-        },
-        {
-          "title": "王者荣耀英雄梯度排行",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E8%8B%B1%E9%9B%84%E6%A2%AF%E5%BA%A6%E6%8E%92%E8%A1%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
+          "time_info": "13时16分"
         }
       ]
     },
@@ -390,9 +498,38 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源汽车 电动汽车 智能驾驶",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "电动汽车开了5年 电池应该在啥水平",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E5%BC%80%E4%BA%865%E5%B9%B4+%E7%94%B5%E6%B1%A0%E5%BA%94%E8%AF%A5%E5%9C%A8%E5%95%A5%E6%B0%B4%E5%B9%B3",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时43分 ~ 13时16分]"
+        },
+        {
+          "title": "现代和起亚上半年在欧洲的电动汽车销量超过10万辆",
+          "url": "https://flash.jin10.com/detail/20260802111250104800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
         }
       ]
     },
@@ -464,23 +601,6 @@
       ]
     },
     {
-      "keyword_group": "新能源汽车 电动汽车 智能驾驶",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "电动汽车开了5年 电池应该在啥水平",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E5%BC%80%E4%BA%865%E5%B9%B4+%E7%94%B5%E6%B1%A0%E5%BA%94%E8%AF%A5%E5%9C%A8%E5%95%A5%E6%B0%B4%E5%B9%B3",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时43分"
-        }
-      ]
-    },
-    {
       "keyword_group": "大模型 ChatGPT Kimi Sora OpenAI",
       "match_count": 1,
       "titles": [
@@ -490,11 +610,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时43分 ~ 09时43分]"
+          "appearance_count": 5,
+          "time_info": "[06时43分 ~ 13时16分]"
         }
       ]
     },
@@ -509,11 +630,12 @@
           "ranks": [
             5,
             7,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时47分 ~ 09时43分]"
+          "appearance_count": 9,
+          "time_info": "[00时47分 ~ 13时16分]"
         }
       ]
     },
@@ -526,11 +648,12 @@
           "url": "https://www.zhihu.com/question/2065166119082766374",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时43分 ~ 13时16分]"
         }
       ]
     },
