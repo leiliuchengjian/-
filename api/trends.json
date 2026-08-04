@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T10:13:49.924887+08:00",
-  "total_titles_processed": 772,
+  "generated_at": "2026-08-04T13:38:26.761774+08:00",
+  "total_titles_processed": 962,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "专家谈美日共同干预日元汇率",
@@ -15,11 +15,12 @@
             8,
             9,
             10,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时47分 ~ 10时13分]"
+          "appearance_count": 10,
+          "time_info": "[01时47分 ~ 13时38分]"
         },
         {
           "title": "美伊谈判乐观情绪升温，美股指高开，亚马逊涨近5%，市值突破3万亿美元，WTI油价跌7%",
@@ -242,6 +243,17 @@
           "time_info": "[04时54分 ~ 05时58分]"
         },
         {
+          "title": "亚马逊正式跻身3万亿美元俱乐部！AWS负责人：“与客户签五年期长期合同，需求远超供给”",
+          "url": "https://wallstreetcn.com/articles/3778603",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
           "title": "周一（8月3日），美联储隔夜逆回购协议（RRP）使用规模为21.27亿美元（交易对手4家），上个交易日报21.51亿美元。",
           "url": "https://wallstreetcn.com/livenews/3144289",
           "source": "华尔街见闻-快讯",
@@ -297,6 +309,17 @@
           "time_info": "01时48分"
         },
         {
+          "title": "花旗：日本捍卫日元不必抛售逾1.1万亿美元的美债持仓",
+          "url": "https://wallstreetcn.com/livenews/3144528",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
           "title": "美国金融业监管局（FINRA）：因反洗钱违规，对瑞银金融公司处以2000万美元罚款。瑞银未能合理监控超过6万笔交易，总金额达100亿美元。",
           "url": "https://flash.jin10.com/detail/20260804012330576800",
           "source": "金十数据",
@@ -325,7 +348,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -347,9 +370,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
+        },
+        {
+          "title": "汇丰控股第二季度除税前利润101亿美元，预估95.1亿美元。 第二季度营收191.2亿美元，预估185.7亿美元。 第二季度普通股一级资本充足率14.1％，预估14.2％。 第二次每股中期股息0.10美元。 上半年除税前利润195.2亿美元，营收377.4亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3144518",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
         },
         {
           "title": "美国总统特朗普：将批准2450万美元资金，用于应对密苏里州遭遇的严重风暴、强风、龙卷风和洪水灾害。",
@@ -377,7 +411,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "如何看待 7 月末至 8 月初有多家韩国公司发布 AI 称性能强于 DeepSeek？",
@@ -393,6 +427,19 @@
           "time_info": "[01时47分 ~ 06时55分]"
         },
         {
+          "title": "OpenAI降价,老日高喊中国万岁",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时47分 ~ 13时38分]"
+        },
+        {
           "title": "【焦点复盘】创业板指弱势震荡再失年线，AI软硬件持续分化，电网产业链卷土重来",
           "url": "https://www.cls.cn/detail/2444244",
           "source": "财联社热门",
@@ -404,18 +451,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时47分 ~ 07时59分]"
-        },
-        {
-          "title": "OpenAI降价,老日高喊中国万岁",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时47分 ~ 10时13分]"
         },
         {
           "title": "UP主自制AI短片 洪流之上",
@@ -440,11 +475,25 @@
             26,
             10,
             29,
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时17分 ~ 07时59分]"
+          "appearance_count": 7,
+          "time_info": "[03时17分 ~ 13时38分]"
+        },
+        {
+          "title": "“InP短缺将比内存更严峻”！Lumentum、SemiAnalysis警告：光互联成AI新瓶颈",
+          "url": "https://wallstreetcn.com/articles/3778565",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时54分 ~ 13时38分]"
         },
         {
           "title": "用AI编造期货市场“小作文”，95后男子趁机牟利8.5万，监管出手重罚",
@@ -495,16 +544,41 @@
           "time_info": "[05时58分 ~ 07时59分]"
         },
         {
-          "title": "“InP短缺将比内存更严峻”！Lumentum、SemiAnalysis警告：光互联成AI新瓶颈",
-          "url": "https://wallstreetcn.com/articles/3778565",
-          "source": "华尔街见闻",
+          "title": "北美“四朵云”联袂上涨！AI行情从“卖铲人”切换到“用铲人” 有哪些逻辑支撑？",
+          "url": "https://www.cls.cn/detail/2444783",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            8
+            12,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时54分 ~ 10时13分]"
+          "appearance_count": 2,
+          "time_info": "[10时13分 ~ 13时38分]"
+        },
+        {
+          "title": "上半年 AI 短剧全网上线超二十万部，但播放破亿作品仅有千部，爆款率为啥这么低？大家都不爱看吗？",
+          "url": "https://www.zhihu.com/question/2067564276433401082",
+          "source": "知乎",
+          "ranks": [
+            7,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时59分 ~ 13时38分]"
+        },
+        {
+          "title": "如何看待 24 岁华尔街 AI 天才掌管 450 亿美元、以 4 倍杠杆极致梭哈 AI 硬件，最终遭华尔街「围猎」爆仓？",
+          "url": "https://www.zhihu.com/question/2066578072997049748",
+          "source": "知乎",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时13分 ~ 13时38分]"
         },
         {
           "title": "核能初创公司Valar首席执行官Isaiah Taylor：人工智能正在飞速发展。我们在各个方面都需要大量电力。对我们来说，这关乎规模化。这正是我们去建设所需的火力。 预计8月初这笔融资我们希望证明我们的生产节奏。我们希望将建造一座反应堆的周期从一年缩短到六个月，再到一个月一次，甚至更快。（彭博电视）",
@@ -519,18 +593,6 @@
           "time_info": "[06时55分 ~ 07时59分]"
         },
         {
-          "title": "上半年 AI 短剧全网上线超二十万部，但播放破亿作品仅有千部，爆款率为啥这么低？大家都不爱看吗？",
-          "url": "https://www.zhihu.com/question/2067564276433401082",
-          "source": "知乎",
-          "ranks": [
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时59分 ~ 10时13分]"
-        },
-        {
           "title": "OpenAI的CEO Altman被要求就AI安全事故向美国众议院介绍情况。",
           "url": "https://wallstreetcn.com/livenews/3144359",
           "source": "华尔街见闻-快讯",
@@ -543,26 +605,26 @@
           "time_info": "[05时58分 ~ 06时55分]"
         },
         {
-          "title": "如何看待 24 岁华尔街 AI 天才掌管 450 亿美元、以 4 倍杠杆极致梭哈 AI 硬件，最终遭华尔街「围猎」爆仓？",
-          "url": "https://www.zhihu.com/question/2066578072997049748",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "北美“四朵云”联袂上涨！AI行情从“卖铲人”切换到“用铲人” 有哪些逻辑支撑？",
-          "url": "https://www.cls.cn/detail/2444783",
+          "title": "三巨头蓄力AI存储新赛道：首套HBF标准规范发布 产业联盟初步成型",
+          "url": "https://www.cls.cn/detail/2444881",
           "source": "财联社热门",
           "ranks": [
-            12
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时13分"
+          "time_info": "13时38分"
+        },
+        {
+          "title": "电脑手机小电驴全线涨价，「打工人三件套」同步抬价，如何看待普通人被迫缴纳 AI 税？",
+          "url": "https://www.zhihu.com/question/2067576901791638083",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
         },
         {
           "title": "OpenAI等巨头大幅降价对标DeepSeek",
@@ -571,7 +633,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -634,7 +696,7 @@
     },
     {
       "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "科创50跌超5%，半导体再跌、兆易创新跌停，核电掀涨停潮，恒科指涨1%，阿里大涨超7%",
@@ -642,11 +704,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时47分 ~ 10时13分]"
+          "appearance_count": 10,
+          "time_info": "[01时47分 ~ 13时38分]"
         },
         {
           "title": "修订后的《集成电路布图设计保护条例》公布",
@@ -669,8 +732,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时59分 ~ 10时13分]"
+          "appearance_count": 3,
+          "time_info": "[07时59分 ~ 13时38分]"
         },
         {
           "title": "A股存储芯片板块震荡走高，沃格光电、盛视科技、中京电子等涨停，伟测科技、生益科技涨超7%。",
@@ -679,9 +742,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
+        },
+        {
+          "title": "中韩半导体ETF华泰柏瑞涨超5%，成交额超110亿元。",
+          "url": "https://flash.jin10.com/detail/20260804133301645800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
         },
         {
           "title": "安森美半导体(ON.O)2026年Q2营收16亿美元，市场预期为15.9亿美元；预计第三季度营收16.5亿至17.5亿美元，市场预估16.7亿美元。",
@@ -708,13 +782,24 @@
           "time_info": "07时59分"
         },
         {
+          "title": "创业板指大涨超5%，沪指涨0.19%，深成指涨2.91%，算力硬件、算力租赁、半导体芯片、医药医疗等方向涨幅居前，沪深京三市上涨个股超3700只。",
+          "url": "https://wallstreetcn.com/livenews/3144531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
           "title": "创业板指涨超3%，深成指涨1.7%。全市场上涨个股超3600只。算力租赁、半导体、医药生物等方向涨幅居前。",
           "url": "https://flash.jin10.com/detail/20260804094851828800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -736,7 +821,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -747,112 +832,26 @@
           "ranks": [
             25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "米莱推出「让阿根廷再次伟大」改革，主动戴上「财政脚镣」，甚至禁止央行为财政融资，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2067222221161078816",
-          "source": "知乎",
-          "ranks": [
-            16,
-            13,
-            10,
-            12
-          ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时47分 ~ 06时55分]"
-        },
-        {
-          "title": "韩国7月CPI环比 -0.2%，预估 -0.1%。 韩国7月CPI同比 +2.8%; 预估 +3.0%。 韩国7月核心CPI同比 +2.6%，涨幅创2023年12月以来新高。",
-          "url": "https://wallstreetcn.com/livenews/3144388",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "韩国7月CPI月率 -0.2%，预期0.1%，前值0.10%。",
-          "url": "https://flash.jin10.com/detail/20260804070002816800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "韩国7月CPI年率 2.8%，预期3.00%，前值3.20%。",
-          "url": "https://flash.jin10.com/detail/20260804070002610800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "业界预计降准降息可能适时启用",
-          "url": "https://wallstreetcn.com/livenews/3144381",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "中国央行公开市场今日净回笼5590亿元人民币",
-          "url": "https://wallstreetcn.com/livenews/3144427",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
         {
-          "title": "哥伦比亚央行：2027年国内生产总值增长预期为1.9%，低于之前的2.1%。",
-          "url": "https://flash.jin10.com/detail/20260804033959490800",
-          "source": "金十数据",
+          "title": "8月4日午间收评：创业板指半日涨4.83%，算力、芯片板块集体反弹",
+          "url": "https://wallstreetcn.com/livenews/3144507",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时54分"
-        },
-        {
-          "title": "美国银行：相比欧盟市场，更青睐英国利率期货。 市场对英国央行加息前景的定价过高。",
-          "url": "https://wallstreetcn.com/livenews/3144269",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "time_info": "13时38分"
         }
       ]
     },
     {
       "keyword_group": "华为 小米 荣耀",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "小米多款手机涨价，有旗舰机型上涨 500 元，店员称昨晚接到调价通知，购机该趁早入手还是继续观望？",
@@ -932,6 +931,39 @@
           "time_info": "07时59分"
         },
         {
+          "title": "2人用AI造谣小米车祸视频被罚",
+          "url": "https://www.toutiao.com/trending/7669754577818828854/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
+          "title": "用AI造谣抹黑小米 两人被处罚",
+          "url": "https://www.baidu.com/s?wd=%E7%94%A8AI%E9%80%A0%E8%B0%A3%E6%8A%B9%E9%BB%91%E5%B0%8F%E7%B1%B3+%E4%B8%A4%E4%BA%BA%E8%A2%AB%E5%A4%84%E7%BD%9A",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
+          "title": "用AI造谣抹黑小米 两人被处罚",
+          "url": "https://www.douyin.com/hot/2596251",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收涨0.75%，报6647.91点。 热门中概股里，大全新能源初步收涨13.3%，金山云涨7%，阿里巴巴、日月光半导体涨4.1%，晶科能源涨3.9%，腾讯、拼多多、百度涨超1%，小米跌2.5%，理想跌3.7%，小鹏跌4.5%。 ETF中，中概互联网指数ETF（KWEB）收涨0.88%，中国科技指数ETF（CQQQ）收跌0.22%。 MSCI新兴市场ex中国ETF（EMXC）收涨0.49%，德银嘉实沪深300指数ETF（ASHR）收跌0.82%，trackersHarvest中证50（ASHS）收跌1.09%。",
           "url": "https://wallstreetcn.com/livenews/3144343",
           "source": "华尔街见闻-快讯",
@@ -945,8 +977,105 @@
       ]
     },
     {
+      "keyword_group": "央行 降息 降准 CPI 物价",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "米莱推出「让阿根廷再次伟大」改革，主动戴上「财政脚镣」，甚至禁止央行为财政融资，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2067222221161078816",
+          "source": "知乎",
+          "ranks": [
+            16,
+            13,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时47分 ~ 06时55分]"
+        },
+        {
+          "title": "韩国7月CPI环比 -0.2%，预估 -0.1%。 韩国7月CPI同比 +2.8%; 预估 +3.0%。 韩国7月核心CPI同比 +2.6%，涨幅创2023年12月以来新高。",
+          "url": "https://wallstreetcn.com/livenews/3144388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "韩国7月CPI月率 -0.2%，预期0.1%，前值0.10%。",
+          "url": "https://flash.jin10.com/detail/20260804070002816800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "韩国7月CPI年率 2.8%，预期3.00%，前值3.20%。",
+          "url": "https://flash.jin10.com/detail/20260804070002610800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "业界预计降准降息可能适时启用",
+          "url": "https://wallstreetcn.com/livenews/3144381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "中国央行公开市场今日净回笼5590亿元人民币",
+          "url": "https://wallstreetcn.com/livenews/3144427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "哥伦比亚央行：2027年国内生产总值增长预期为1.9%，低于之前的2.1%。",
+          "url": "https://flash.jin10.com/detail/20260804033959490800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
+          "title": "美国银行：相比欧盟市场，更青睐英国利率期货。 市场对英国央行加息前景的定价过高。",
+          "url": "https://wallstreetcn.com/livenews/3144269",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时48分"
+        }
+      ]
+    },
+    {
       "keyword_group": "创业板",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "韩国交易所：韩国创业板指（KOSDAQ）期货下跌超过6%，触发五分钟交易暂停。",
@@ -955,7 +1084,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -966,7 +1095,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -977,7 +1106,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -988,7 +1117,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -999,7 +1128,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -1010,9 +1139,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
+        },
+        {
+          "title": "上证指数早盘收报3815.59点，涨0.16%。 深证成指早盘收报13817.39点，涨2.74%。 创业板指早盘收报3462.05点，涨4.83%。 沪深300早盘收报4585.65点，涨0.93%。 科创50早盘收报1598.13点，涨2.91%。 中证500早盘收报7583.50点，涨2.28%。 中证1000早盘收报7261.93点，涨2.57%。",
+          "url": "https://wallstreetcn.com/livenews/3144508",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
         }
       ]
     },
@@ -1026,11 +1166,12 @@
           "source": "微博",
           "ranks": [
             11,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时59分 ~ 10时13分]"
+          "appearance_count": 3,
+          "time_info": "[07时59分 ~ 13时38分]"
         },
         {
           "title": "印度政府考虑将生产设备及零部件进口免税政策延长至2041年，苹果在印度的iPhone生产将获得进一步推动。",
@@ -1102,11 +1243,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%87%BA%E6%89%8B+%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E5%85%85%E7%94%B5%E5%B0%86%E5%85%A8%E9%9D%A2%E5%8D%87%E7%BA%A7",
           "source": "百度热搜",
           "ranks": [
-            1
+            1,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时13分 ~ 13时38分]"
         },
         {
           "title": "周一（8月3日），彭博电动汽车价格回报指数跌0.03%，报3352.55点。",
@@ -1125,8 +1267,19 @@
     },
     {
       "keyword_group": "英伟达 台积电 AMD 高通",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "台积电：熊本晶圆厂已完全恢复。",
+          "url": "https://flash.jin10.com/detail/20260804133736097800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
         {
           "title": "台积电熊本第一工厂恢复正常运行",
           "url": "https://flash.jin10.com/detail/20260804072629705800",
@@ -1145,7 +1298,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -1187,9 +1340,42 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "就业 裁员 招聘",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "住房公积金条例迎重大修订，装修、物业费被明确纳入范围，灵活就业人员可自愿缴存，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2067218440234985170",
+          "source": "知乎",
+          "ranks": [
+            1,
+            18,
+            17,
+            11,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时47分 ~ 07时59分]"
+        },
+        {
+          "title": "美国7月ISM制造业PMI超预期升至四年最高，需求、生产与就业同步改善",
+          "url": "https://wallstreetcn.com/articles/3778595",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
         }
       ]
     },
@@ -1204,7 +1390,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -1213,11 +1399,12 @@
           "url": "https://www.zhihu.com/question/2065477563548546516",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时13分 ~ 13时38分]"
         }
       ]
     },
@@ -1254,30 +1441,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时47分 ~ 10时13分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "就业 裁员 招聘",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "住房公积金条例迎重大修订，装修、物业费被明确纳入范围，灵活就业人员可自愿缴存，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2067218440234985170",
-          "source": "知乎",
-          "ranks": [
-            1,
-            18,
-            17,
-            11,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时47分 ~ 07时59分]"
+          "appearance_count": 10,
+          "time_info": "[01时47分 ~ 13时38分]"
         }
       ]
     },
