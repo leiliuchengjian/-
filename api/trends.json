@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T11:06:39.337364+08:00",
-  "total_titles_processed": 776,
+  "generated_at": "2026-08-10T13:15:50.308077+08:00",
+  "total_titles_processed": 924,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "如何看待当前物价运行态势",
@@ -79,13 +79,35 @@
           "time_info": "[03时25分 ~ 05时21分]"
         },
         {
+          "title": "交易员：印度央行可能在出售美元以支持卢比。",
+          "url": "https://flash.jin10.com/detail/20260810130248701800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
+        },
+        {
+          "title": "美股新高即将迎来考验，CPI会来带抛售潮吗？",
+          "url": "https://flash.jin10.com/detail/20260810130237090800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
+        },
+        {
           "title": "西太平洋银行：下行风险兑现但CPI降温 澳联储8月料维持利率不变",
           "url": "https://flash.jin10.com/detail/20260810102044156800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时06分"
         },
@@ -258,7 +280,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
@@ -321,8 +343,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 11时06分]"
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 13时15分]"
         },
         {
           "title": "AI快问快答,D老师语出惊人",
@@ -330,11 +352,12 @@
           "source": "贴吧",
           "ranks": [
             20,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 11时06分]"
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 13时15分]"
         },
         {
           "title": "数学家张寿武获颁基础科学奖章，笑称“不敢跟AI交流”",
@@ -354,11 +377,24 @@
           "url": "https://www.zhihu.com/question/2063944037544023265",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时06分 ~ 13时15分]"
+        },
+        {
+          "title": "建议每个人都用AI做的三件事",
+          "url": "https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E7%94%A8AI%E5%81%9A%E7%9A%84%E4%B8%89%E4%BB%B6%E4%BA%8B&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时06分 ~ 13时15分]"
         },
         {
           "title": "毛宁向世界分享AI“中式天庭”",
@@ -389,9 +425,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时06分"
+        },
+        {
+          "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
+          "url": "https://wallstreetcn.com/articles/3779038",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
         },
         {
           "title": "韩媒：李在明将视察人工智能相关投资计划的进展情况",
@@ -400,9 +447,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时06分"
+        },
+        {
+          "title": "67 岁农户听信 AI 喷农药致 150 亩地一夜枯萎，老人听 AI 翻车的事层出不穷，有啥办法能帮助他们辨别吗？",
+          "url": "https://www.zhihu.com/question/2069770698055050765",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
         },
         {
           "title": "日本央行7月货币政策会议审议委员意见摘要：一名委员表示，中东局势发展、不断扩大的AI相关需求以及日元走软均有助于推高物价。 一名委员表示，预计入秋后消费品通胀将再次加速。 一名委员表示，尽管生产价格受进口成本上涨影响有所上升，但消费者通胀率仍低于2%。 一名委员表示，警惕受日元走软和AI相关需求强劲影响所带来的通胀上行风险。 一名委员表示，通胀前景面临巨大的上行风险，主要由于石油成本上涨传导至消费者通胀，同时全球AI需求与日本扩张性财政政策提振了需求。 一名委员表示，金融环境仍保持宽松，因为短期实际利率依然为负。 一名委员表示，在本次会议上维持利率稳定是恰当的，因为过去的加息对通胀和国内经济产生影响存在1至1.5年的滞后。 一名委员表示，我们目前处于需要警惕核心通胀可能向上偏离风险的阶段。 一名委员表示，在评估日本核心通胀能否稳定在符合日本央行价格目标的水平时，必须仔细审查中长期通胀预期是否稳定在2%左右。",
@@ -427,24 +485,13 @@
           "time_info": "00时21分"
         },
         {
-          "title": "建议每个人都用AI做的三件事",
-          "url": "https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E7%94%A8AI%E5%81%9A%E7%9A%84%E4%B8%89%E4%BB%B6%E4%BA%8B&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时06分"
-        },
-        {
           "title": "AI网络攻击风险升温 日本拟借助尖端模型强化“主动防御”",
           "url": "https://flash.jin10.com/detail/20260810100511432800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时06分"
         }
@@ -452,7 +499,7 @@
     },
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
@@ -591,6 +638,17 @@
           "time_info": "[06时19分 ~ 07时20分]"
         },
         {
+          "title": "印度卢比兑美元最新报95.2275，日内变动不大。",
+          "url": "https://flash.jin10.com/detail/20260810130300957800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
+        },
+        {
           "title": "现货白银突破64美元/盎司，日内涨0.74%。",
           "url": "https://flash.jin10.com/detail/20260810081503471800",
           "source": "金十数据",
@@ -608,7 +666,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时06分"
         },
@@ -630,7 +688,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时06分"
         }
@@ -638,20 +696,8 @@
     },
     {
       "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "台风来势汹汹,上海地铁停运",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356990&amp;topic_name=%E5%8F%B0%E9%A3%8E%E6%9D%A5%E5%8A%BF%E6%B1%B9%E6%B1%B9%2C%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E5%81%9C%E8%BF%90",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 11时06分]"
-        },
         {
           "title": "上海地铁停运",
           "url": "https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E5%81%9C%E8%BF%90&t=31&band_rank=6&Refer=top",
@@ -667,6 +713,19 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时21分 ~ 08时54分]"
+        },
+        {
+          "title": "台风来势汹汹,上海地铁停运",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356990&amp;topic_name=%E5%8F%B0%E9%A3%8E%E6%9D%A5%E5%8A%BF%E6%B1%B9%E6%B1%B9%2C%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E5%81%9C%E8%BF%90",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 13时15分]"
         },
         {
           "title": "上海地铁",
@@ -722,30 +781,43 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时53分 ~ 11时06分]"
+          "appearance_count": 4,
+          "time_info": "[08时53分 ~ 13时15分]"
         },
         {
           "title": "上海地铁：8月10日，3号线、5号线、16号线、浦江线全线停运",
           "url": "https://www.cls.cn/detail/2449403",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时06分 ~ 13时15分]"
         },
         {
           "title": "受台风「白海豚」影响，8 月 10 日上海地铁多条线路停运，你早高峰出行受影响了吗？今天有居家办公吗？",
           "url": "https://www.zhihu.com/question/2070054600602642235",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时06分 ~ 13时15分]"
+        },
+        {
+          "title": "新疆发行15年期市政基建专项地方债，规模3.1000亿元，发行利率2.1000%，边际倍数2.77倍，倍数预期2.10。",
+          "url": "https://wallstreetcn.com/livenews/3147260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时06分"
+          "time_info": "13时15分"
         },
         {
           "title": "南京地铁",
@@ -761,69 +833,42 @@
       ]
     },
     {
-      "keyword_group": "英伟达 台积电 AMD 高通",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "索尼和台积电将向日本熊本工厂投资1万亿日元，最早将于2029年开始量产下一代图像传感器。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/3147223",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时06分"
-        },
-        {
-          "title": "索尼、台积电1万亿日元布局图像传感器 目标2029年在熊本实现量产",
-          "url": "https://flash.jin10.com/detail/20260810100959431800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时06分"
-        },
-        {
-          "title": "据日经新闻：索尼集团与台积电(TSM.N)最早将于2029年量产新一代图像传感器。",
-          "url": "https://flash.jin10.com/detail/20260810100324838800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时06分"
-        },
-        {
-          "title": "据日经新闻：索尼集团与台积电(TSM.N)将向熊本工厂投资1万亿日元。",
-          "url": "https://flash.jin10.com/detail/20260810100226558800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时06分"
-        }
-      ]
-    },
-    {
       "keyword_group": "创业板",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "创业板指跌超2%，沪指涨0.29%，深成指跌0.93%，CPO、玻璃基板、PCB、6G等方向跌幅居前，沪深京三市下跌个股超1900只。",
           "url": "https://wallstreetcn.com/livenews/3147245",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时06分 ~ 13时15分]"
+        },
+        {
+          "title": "上证指数早盘收报3947.91点，涨0.20%。 深证成指早盘收报14148.86点，跌1.13%。 创业板指早盘收报3485.44点，跌2.18%。 沪深300早盘收报4670.05点，跌0.52%。 科创50早盘收报1716.69点，跌1.57%。 中证500早盘收报7942.84点，跌0.47%。 中证1000早盘收报7647.01点，跌0.42%。",
+          "url": "https://wallstreetcn.com/livenews/3147268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时06分"
+          "time_info": "13时15分"
+        },
+        {
+          "title": "8月10日午间收评：创业板指半日跌超2%，医药、消费股逆势走强",
+          "url": "https://wallstreetcn.com/livenews/3147267",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
         },
         {
           "title": "华泰证券：A股超跌反弹仍有演绎空间 重点关注创业板指",
@@ -843,7 +888,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时06分"
         },
@@ -854,15 +899,77 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时06分"
         }
       ]
     },
     {
+      "keyword_group": "半导体 芯片 集成电路",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "马斯克凭什么建全球最大的芯片厂",
+          "url": "https://www.toutiao.com/trending/7671960489291382810/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时19分 ~ 08时54分]"
+        },
+        {
+          "title": "A股存储芯片概念午后持续下挫，普冉股份跌超10%，北京君正、兆易创新、长信科技、恒烁股份、大普微等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260810130539699800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
+        },
+        {
+          "title": "全球最大半导体ETF管理人：长鑫科技最早或于9月底纳入公司旗下ETF",
+          "url": "https://wallstreetcn.com/articles/3779017",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时06分"
+        },
+        {
+          "title": "A股存储芯片板块震荡走低，朗科科技跌超13%，普冉股份、托伦斯、圣邦股份、北京君正、佰维存储跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3147211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时06分"
+        },
+        {
+          "title": "马斯克的8000亿芯片梦会是灾难吗",
+          "url": "https://www.toutiao.com/trending/7672219771949026870/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
+        }
+      ]
+    },
+    {
       "keyword_group": "华为 小米 荣耀",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "2026 上半年国内手机销量 TOP30 出炉，苹果包揽前三、华为领跑国产，哪些品牌的表现值得关注？",
@@ -899,44 +1006,65 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时53分 ~ 08时54分]"
+        },
+        {
+          "title": "阿维塔高管：不认为和华为的合作模式是“必要项”",
+          "url": "https://wallstreetcn.com/livenews/3147250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
         }
       ]
     },
     {
-      "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 3,
+      "keyword_group": "英伟达 台积电 AMD 高通",
+      "match_count": 4,
       "titles": [
         {
-          "title": "马斯克凭什么建全球最大的芯片厂",
-          "url": "https://www.toutiao.com/trending/7671960489291382810/",
-          "source": "今日头条",
+          "title": "索尼和台积电将向日本熊本工厂投资1万亿日元，最早将于2029年开始量产下一代图像传感器。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3147223",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            24
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时19分 ~ 08时54分]"
-        },
-        {
-          "title": "全球最大半导体ETF管理人：长鑫科技最早或于9月底纳入公司旗下ETF",
-          "url": "https://wallstreetcn.com/articles/3779017",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "11时06分"
         },
         {
-          "title": "A股存储芯片板块震荡走低，朗科科技跌超13%，普冉股份、托伦斯、圣邦股份、北京君正、佰维存储跟跌。",
-          "url": "https://wallstreetcn.com/livenews/3147211",
-          "source": "华尔街见闻-快讯",
+          "title": "索尼、台积电1万亿日元布局图像传感器 目标2029年在熊本实现量产",
+          "url": "https://flash.jin10.com/detail/20260810100959431800",
+          "source": "金十数据",
           "ranks": [
-            20
+            19
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时06分"
+        },
+        {
+          "title": "据日经新闻：索尼集团与台积电(TSM.N)最早将于2029年量产新一代图像传感器。",
+          "url": "https://flash.jin10.com/detail/20260810100324838800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时06分"
+        },
+        {
+          "title": "据日经新闻：索尼集团与台积电(TSM.N)将向熊本工厂投资1万亿日元。",
+          "url": "https://flash.jin10.com/detail/20260810100226558800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时06分"
         }
@@ -944,7 +1072,7 @@
     },
     {
       "keyword_group": "苹果 iPhone",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "报道：苹果测试长鑫科技存储芯片，用于iPhone和MacBook",
@@ -964,11 +1092,51 @@
           "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E5%8F%91%E5%B8%83%E4%BC%9A%E6%97%B6%E9%97%B4%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
-            10
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时06分 ~ 13时15分]"
+        },
+        {
+          "title": "苹果被曝正测试长鑫存储芯片 用于在中国市场销售的设备",
+          "url": "https://www.cls.cn/detail/2449544",
+          "source": "财联社热门",
+          "ranks": [
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时06分"
+          "time_info": "13时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "双十一 618 电商 优惠券",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "钟睒睒：必须限制电商平台权利",
+          "url": "https://www.baidu.com/s?wd=%E9%92%9F%E7%9D%92%E7%9D%92%EF%BC%9A%E5%BF%85%E9%A1%BB%E9%99%90%E5%88%B6%E7%94%B5%E5%95%86%E5%B9%B3%E5%8F%B0%E6%9D%83%E5%88%A9",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
+        },
+        {
+          "title": "如何看待钟睒睒称电商平台把城市的很多零售商都「杀」光了，并呼吁限制其能力？电商平台究竟带来了哪些影响？",
+          "url": "https://www.zhihu.com/question/2070052893034373687",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
         }
       ]
     },
@@ -983,9 +1151,26 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Jefferies把特斯拉目标价从400美元下调至350美元。",
+          "url": "https://wallstreetcn.com/livenews/3147274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
         }
       ]
     }
