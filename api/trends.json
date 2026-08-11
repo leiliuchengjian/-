@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T11:01:15.842839+08:00",
-  "total_titles_processed": 885,
+  "generated_at": "2026-08-11T12:18:13.878002+08:00",
+  "total_titles_processed": 996,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 43,
+      "match_count": 46,
       "titles": [
         {
           "title": "布伦特原油突破87美元/桶，日内涨6.77%。",
@@ -47,7 +47,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
         },
@@ -258,6 +258,17 @@
           "time_info": "00时43分"
         },
         {
+          "title": "菲律宾比索跌至1美元兑61.066比索，为8月4日以来最低。",
+          "url": "https://wallstreetcn.com/livenews/3147832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7495元，较上周五夜盘收盘跌39点。成交量259.38亿美元。",
           "url": "https://wallstreetcn.com/livenews/3147657",
           "source": "华尔街见闻-快讯",
@@ -333,6 +344,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
+        },
+        {
+          "title": "离岸人民币同业拆息利率涨跌互现，HKMA日间回购协议流动性被用过半",
+          "url": "https://flash.jin10.com/detail/20260811113603455800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
         },
         {
           "title": "美国2026财年前10个月联邦赤字为1.8万亿美元",
@@ -445,6 +467,17 @@
           "time_info": "06时26分"
         },
         {
+          "title": "菲律宾披索兑美元跌至61.066，为8月4日以来的最低水平。",
+          "url": "https://flash.jin10.com/detail/20260811112438831800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
           "title": "WTI原油日内涨幅达5.0%，报82.1美元/桶；布伦特原油日内涨幅达5.0%，报87.74美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3147646",
           "source": "华尔街见闻-快讯",
@@ -484,7 +517,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
         }
@@ -492,7 +525,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
         {
           "title": "MLCC供应告急引发抢货潮！国巨：越来越多AI客户抢签长协锁定产能",
@@ -503,8 +536,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时42分 ~ 11时01分]"
+          "appearance_count": 13,
+          "time_info": "[00时42分 ~ 12时18分]"
         },
         {
           "title": "AI挤占短剧业,真人演员遭偷家",
@@ -512,11 +545,24 @@
           "source": "贴吧",
           "ranks": [
             21,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时42分 ~ 11时01分]"
+          "appearance_count": 13,
+          "time_info": "[00时42分 ~ 12时18分]"
+        },
+        {
+          "title": "AI在黎曼猜想上做出了什么突破",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%9C%A8%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%B8%8A%E5%81%9A%E5%87%BA%E4%BA%86%E4%BB%80%E4%B9%88%E7%AA%81%E7%A0%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时59分 ~ 12时18分]"
         },
         {
           "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
@@ -543,15 +589,16 @@
           "time_info": "[00时42分 ~ 07时25分]"
         },
         {
-          "title": "AI在黎曼猜想上做出了什么突破",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%9C%A8%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%B8%8A%E5%81%9A%E5%87%BA%E4%BA%86%E4%BB%80%E4%B9%88%E7%AA%81%E7%A0%B4",
-          "source": "bilibili 热搜",
+          "title": "用AI重返那年相遇的青涩夏天",
+          "url": "https://www.douyin.com/hot/2605104",
+          "source": "抖音",
           "ranks": [
-            1
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时01分]"
+          "appearance_count": 6,
+          "time_info": "[08时52分 ~ 12时18分]"
         },
         {
           "title": "美国得克萨斯州州长阿博特：OpenAI已经作出承诺，会严格遵循当地数据中心的相关规范标准。",
@@ -565,16 +612,16 @@
           "time_info": "02时42分"
         },
         {
-          "title": "用AI重返那年相遇的青涩夏天",
-          "url": "https://www.douyin.com/hot/2605104",
-          "source": "抖音",
+          "title": "城市竞争进入AI答案时代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            10
+            10,
+            8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[08时52分 ~ 11时01分]"
+          "time_info": "[10时59分 ~ 12时18分]"
         },
         {
           "title": "孙女用AI把奶奶P进《西游记》",
@@ -624,17 +671,6 @@
           "time_info": "[07时25分 ~ 08时53分]"
         },
         {
-          "title": "城市竞争进入AI答案时代",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时01分]"
-        },
-        {
           "title": "高盛研判中国AI股：近期回调已释放核心风险，建议多元布局四大主线",
           "url": "https://www.cls.cn/detail/2449895",
           "source": "财联社热门",
@@ -678,6 +714,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时42分 ~ 00时43分]"
+        },
+        {
+          "title": "爱芯元智下一代大算力AI芯片完成流片，支持多芯级联实现边缘侧满血大模型推理",
+          "url": "https://flash.jin10.com/detail/20260811115612569800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-08-11）",
+          "url": "https://flash.jin10.com/detail/20260811115144518800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
         },
         {
           "title": "微软希望在仅生产数万个当前一代Maia人工智能芯片后，大幅扩大该芯片的产能。",
@@ -851,15 +909,26 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
+        },
+        {
+          "title": "千问开放AI眼镜生态 支持自建导游、教练、巡检等多种skill",
+          "url": "https://flash.jin10.com/detail/20260811111212869800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
         }
       ]
     },
     {
       "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "台风来势汹汹,上海地铁停运",
@@ -867,11 +936,12 @@
           "source": "贴吧",
           "ranks": [
             23,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时42分 ~ 11时01分]"
+          "appearance_count": 13,
+          "time_info": "[00时42分 ~ 12时18分]"
         },
         {
           "title": "高铁双人座被免票儿童挤成3人座",
@@ -889,6 +959,18 @@
           "time_info": "[00时42分 ~ 08时53分]"
         },
         {
+          "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
+          "url": "https://wallstreetcn.com/articles/3779115",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时52分 ~ 12时18分]"
+        },
+        {
           "title": "高铁双人座被免票儿童挤成3人座",
           "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E5%8F%8C%E4%BA%BA%E5%BA%A7%E8%A2%AB%E5%85%8D%E7%A5%A8%E5%84%BF%E7%AB%A5%E6%8C%A4%E6%88%903%E4%BA%BA%E5%BA%A7%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -900,18 +982,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时42分 ~ 06时26分]"
-        },
-        {
-          "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
-          "url": "https://wallstreetcn.com/articles/3779115",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时52分 ~ 11时01分]"
         },
         {
           "title": "OpenAI刊发针对AI基础设施问题向美国得州州长发送的信函。",
@@ -926,13 +996,24 @@
           "time_info": "[02时42分 ~ 03时48分]"
         },
         {
+          "title": "俄称打击乌军基础设施",
+          "url": "https://www.toutiao.com/trending/7671583102933729326/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 12时18分]"
+        },
+        {
           "title": "英伟达携手华尔街六巨头，承诺5000亿美元AI基建融资",
           "url": "https://flash.jin10.com/detail/20260811103319557800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
         },
@@ -976,19 +1057,6 @@
       "match_count": 9,
       "titles": [
         {
-          "title": "创业板触底回升跌0.7%，医药、消费大涨，芯片算力集体下挫、寒武纪跌超6%，港股老铺黄金大涨12%",
-          "url": "https://wallstreetcn.com/articles/3779046",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时42分 ~ 11时01分]"
-        },
-        {
           "title": "美股收盘：芯片股&光通信概念重挫 三大指数收低中概逆市走强",
           "url": "https://www.cls.cn/detail/2450652",
           "source": "财联社热门",
@@ -998,8 +1066,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时26分 ~ 11时01分]"
+          "appearance_count": 8,
+          "time_info": "[06时26分 ~ 12时18分]"
+        },
+        {
+          "title": "创业板触底回升跌0.7%，医药、消费大涨，芯片算力集体下挫、寒武纪跌超6%，港股老铺黄金大涨12%",
+          "url": "https://wallstreetcn.com/articles/3779046",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时42分 ~ 12时18分]"
         },
         {
           "title": "【早报】美股芯片股大跌；中概股逆势走强；原油飙升、黄金收涨；A股又一波回购潮来了",
@@ -1010,8 +1091,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时25分 ~ 11时01分]"
+          "appearance_count": 7,
+          "time_info": "[07时25分 ~ 12时18分]"
         },
         {
           "title": "霍尔木兹僵局推油价大涨5%，英伟达\"循环融资\"担忧打压美股指，芯片指数跌3%，黄金续涨",
@@ -1026,24 +1107,25 @@
           "time_info": "[06时26分 ~ 07时25分]"
         },
         {
+          "title": "新股N超纯大涨超600%，单签盈利超20万，公司是半导体特殊涂层零部件设备商，主要面向芯片制造、精密光学等领域，提供经材料改性、精密表面加工、精密清洗和特殊涂层工艺后的精密零部件产品及服务。",
+          "url": "https://wallstreetcn.com/livenews/3147789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 12时18分]"
+        },
+        {
           "title": "A股存储芯片板块走高，太极实业涨停，联芸科技涨超10%，麦捷科技、圣邦股份、江波龙、托伦斯、科翔股份跟涨。",
           "url": "https://flash.jin10.com/detail/20260811103924565800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "新股N超纯大涨超600%，单签盈利超20万，公司是半导体特殊涂层零部件设备商，主要面向芯片制造、精密光学等领域，提供经材料改性、精密表面加工、精密清洗和特殊涂层工艺后的精密零部件产品及服务。",
-          "url": "https://wallstreetcn.com/livenews/3147789",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
         },
@@ -1094,8 +1176,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时52分 ~ 11时01分]"
+          "appearance_count": 6,
+          "time_info": "[08时52分 ~ 12时18分]"
         },
         {
           "title": "英伟达CDS狂飙！5000亿美元表外“债务幽灵”引爆 华尔街吓坏了？",
@@ -1105,8 +1187,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时01分]"
+          "appearance_count": 4,
+          "time_info": "[10时59分 ~ 12时18分]"
+        },
+        {
+          "title": "私募巨头集体入局 据称英伟达将牵头5000亿美元融资大单",
+          "url": "https://www.cls.cn/detail/2450613",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时52分 ~ 12时18分]"
         },
         {
           "title": "英伟达信用违约互换跃升，巨额融资报道引发关注",
@@ -1120,18 +1215,6 @@
           "time_info": "03时48分"
         },
         {
-          "title": "私募巨头集体入局 据称英伟达将牵头5000亿美元融资大单",
-          "url": "https://www.cls.cn/detail/2450613",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时52分 ~ 11时01分]"
-        },
-        {
           "title": "英伟达跌幅扩大至2.6%，刷新日低。",
           "url": "https://wallstreetcn.com/livenews/3147618",
           "source": "华尔街见闻-快讯",
@@ -1141,6 +1224,180 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "创业板",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "创业板指涨超1%，沪指跌0.3%，深成指涨0.27%，医药医疗、MLCC、油气、影视等方向涨幅居前，沪深京三市上涨个股近1800只。",
+          "url": "https://wallstreetcn.com/livenews/3147812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 12时18分]"
+        },
+        {
+          "title": "上证指数早盘收报3964.79点，跌0.05%。 深证成指早盘收报14410.34点，涨0.65%。 创业板指早盘收报3587.24点，涨1.41%。 沪深300早盘收报4709.10点，涨0.15%。 科创50早盘收报1740.62点，涨0.16%。 中证500早盘收报8062.88点，涨0.40%。 中证1000早盘收报7771.45点，涨0.49%。",
+          "url": "https://wallstreetcn.com/livenews/3147838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "8月11日午间收评：创业板指半日涨1.41%，MLCC概念集体走强",
+          "url": "https://wallstreetcn.com/livenews/3147837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "上证指数开盘报3950.71点，跌0.40%。 深证成指开盘报14266.44点，跌0.35%。 创业板指开盘报3533.89点，跌0.09%。 沪深300开盘报4689.45点，跌0.27%。 科创50开盘报1713.26点，跌1.41%。 中证500开盘报7979.28点，跌0.64%。 中证1000开盘报7686.04点，跌0.62%。",
+          "url": "https://wallstreetcn.com/livenews/3147771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时01分"
+        },
+        {
+          "title": "创业板指持续走强，盘中涨逾1%，MLCC概念、创新药板块领涨大盘。",
+          "url": "https://flash.jin10.com/detail/20260811102532633800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "央行 降息 降准 CPI 物价",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "7月CPI可能反弹，但美联储当前更怕错杀而非落后——新版发布",
+          "url": "https://flash.jin10.com/detail/20260811121142931800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "美银：CPI恐证通胀韧性，美联储9月仍可能加息",
+          "url": "https://flash.jin10.com/detail/20260811105125686800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时01分"
+        },
+        {
+          "title": "哈萨克斯坦央行：7月份的净黄金和外汇储备为617.24亿美元（环比变化3.2%）。",
+          "url": "https://flash.jin10.com/detail/20260811120328823800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "新任印尼央行行长面临平衡增长与独立性的考验",
+          "url": "https://flash.jin10.com/detail/20260811113002609800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "中国央行公开市场7天期逆回购操作量为零。今日465亿元逆回购到期。",
+          "url": "https://wallstreetcn.com/livenews/3147769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为 小米 荣耀",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "原字节跳动机器人一号位加入小米，负责基座模型研发，这透露出小米在人工智能领域的哪些战略意图？",
+          "url": "https://www.zhihu.com/question/2069868469005326051",
+          "source": "知乎",
+          "ranks": [
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时52分 ~ 11时01分]"
+        },
+        {
+          "title": "阿维塔高管称不认为和华为的合作模式是「必要项」，阿维塔具备差异化的能力，如何看待这一表态？",
+          "url": "https://www.zhihu.com/question/2070107144536560600",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 12时18分]"
+        },
+        {
+          "title": "达成战略合作意向，华为将向北京数据集团提供昇腾算力设备",
+          "url": "https://flash.jin10.com/detail/20260811105048786800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时01分"
+        },
+        {
+          "title": "恒生科技指数日内跌幅扩大至1%。蔚来、京东、比亚迪股份、小米等跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3147828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
         }
       ]
     },
@@ -1189,7 +1446,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
         }
@@ -1210,8 +1467,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时41分 ~ 11时01分]"
+          "appearance_count": 11,
+          "time_info": "[02时41分 ~ 12时18分]"
         },
         {
           "title": "推动高质量充分就业取得新进展",
@@ -1221,8 +1478,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时01分]"
+          "appearance_count": 4,
+          "time_info": "[10时59分 ~ 12时18分]"
         },
         {
           "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日澳洲联储利率决定、美国ADP就业人数公布。",
@@ -1245,102 +1502,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "创业板",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "创业板指涨超1%，沪指跌0.3%，深成指涨0.27%，医药医疗、MLCC、油气、影视等方向涨幅居前，沪深京三市上涨个股近1800只。",
-          "url": "https://wallstreetcn.com/livenews/3147812",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "上证指数开盘报3950.71点，跌0.40%。 深证成指开盘报14266.44点，跌0.35%。 创业板指开盘报3533.89点，跌0.09%。 沪深300开盘报4689.45点，跌0.27%。 科创50开盘报1713.26点，跌1.41%。 中证500开盘报7979.28点，跌0.64%。 中证1000开盘报7686.04点，跌0.62%。",
-          "url": "https://wallstreetcn.com/livenews/3147771",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "创业板指持续走强，盘中涨逾1%，MLCC概念、创新药板块领涨大盘。",
-          "url": "https://flash.jin10.com/detail/20260811102532633800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "华为 小米 荣耀",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "原字节跳动机器人一号位加入小米，负责基座模型研发，这透露出小米在人工智能领域的哪些战略意图？",
-          "url": "https://www.zhihu.com/question/2069868469005326051",
-          "source": "知乎",
-          "ranks": [
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时52分 ~ 11时01分]"
-        },
-        {
-          "title": "达成战略合作意向，华为将向北京数据集团提供昇腾算力设备",
-          "url": "https://flash.jin10.com/detail/20260811105048786800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美银：CPI恐证通胀韧性，美联储9月仍可能加息",
-          "url": "https://flash.jin10.com/detail/20260811105125686800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "中国央行公开市场7天期逆回购操作量为零。今日465亿元逆回购到期。",
-          "url": "https://wallstreetcn.com/livenews/3147769",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时01分"
         }
       ]
     },
@@ -1370,11 +1531,12 @@
           "url": "https://wallstreetcn.com/livenews/3147820",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 12时18分]"
         }
       ]
     },
