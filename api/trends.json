@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-13T03:56:32.340076+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2026-08-13T04:32:56.904558+08:00",
+  "total_titles_processed": 435,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "美元指数12日上涨",
+          "url": "https://flash.jin10.com/detail/20260813041909701800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时32分"
+        },
         {
           "title": "美国财政部：2026财年年初至今预算赤字为1.799万亿美元，而2025财年同期预算赤字为1.629万亿美元。",
           "url": "https://flash.jin10.com/detail/20260813020444172800",
@@ -17,6 +28,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
+        },
+        {
+          "title": "湖人售价120亿美元",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B9%96%E4%BA%BA%E5%94%AE%E4%BB%B7120%E4%BA%BF%E7%BE%8E%E5%85%83%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            9,
+            8,
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时49分 ~ 04时32分]"
+        },
+        {
+          "title": "沃尔特以超120亿美元出售湖人",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%83%E5%B0%94%E7%89%B9%E4%BB%A5%E8%B6%85120%E4%BA%BF%E7%BE%8E%E5%85%83%E5%87%BA%E5%94%AE%E6%B9%96%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时49分 ~ 04时32分]"
+        },
+        {
+          "title": "美国7月政府预算 -4323.08亿美元，预期 -3460亿美元，前值 -2911亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3148730",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时46分 ~ 04时32分]"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了1个对手方的7.25亿美元。",
@@ -44,41 +94,28 @@
           "time_info": "[01时50分 ~ 03时56分]"
         },
         {
-          "title": "美国7月政府预算 -4323.08亿美元，预期 -3460亿美元，前值 -2911亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3148730",
+          "title": "周三（8月12日）纽约尾盘，ICE美元指数涨0.22%，刷新日高至99.874点，整体先跌后涨，北京时间20:20跌至99.484点刷新日低，之后扭转跌幅持续走强。",
+          "url": "https://wallstreetcn.com/livenews/3148741",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
+            9,
             19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时46分 ~ 03时56分]"
+          "time_info": "[03时56分 ~ 04时32分]"
         },
         {
-          "title": "湖人售价120亿美元",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B9%96%E4%BA%BA%E5%94%AE%E4%BB%B7120%E4%BA%BF%E7%BE%8E%E5%85%83%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
+          "title": "周三（8月12日）纽约尾盘，ICE原糖期货跌1.79%报16.43美分/磅，棉花期货跌0.18%报84.24美分/磅，可可期货涨1.15%报5719.00美元/吨，咖啡期货涨0.49%报317.25美分/磅。",
+          "url": "https://wallstreetcn.com/livenews/3148740",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            9,
-            8,
-            14
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时49分 ~ 03时56分]"
-        },
-        {
-          "title": "沃尔特以超120亿美元出售湖人",
-          "url": "https://www.baidu.com/s?wd=%E6%B2%83%E5%B0%94%E7%89%B9%E4%BB%A5%E8%B6%85120%E4%BA%BF%E7%BE%8E%E5%85%83%E5%87%BA%E5%94%AE%E6%B9%96%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时49分 ~ 03时56分]"
+          "appearance_count": 2,
+          "time_info": "[03时56分 ~ 04时32分]"
         },
         {
           "title": "Jane Street发行146亿美元债券 10年期收益率逾8%",
@@ -149,35 +186,13 @@
           "time_info": "02时46分"
         },
         {
-          "title": "周三（8月12日）纽约尾盘，ICE美元指数涨0.22%，刷新日高至99.874点，整体先跌后涨，北京时间20:20跌至99.484点刷新日低，之后扭转跌幅持续走强。",
-          "url": "https://wallstreetcn.com/livenews/3148741",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时56分"
-        },
-        {
-          "title": "周三（8月12日）纽约尾盘，ICE原糖期货跌1.79%报16.43美分/磅，棉花期货跌0.18%报84.24美分/磅，可可期货涨1.15%报5719.00美元/吨，咖啡期货涨0.49%报317.25美分/磅。",
-          "url": "https://wallstreetcn.com/livenews/3148740",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时56分"
-        },
-        {
           "title": "布伦特原油期货结算价为每桶88.98美元，上涨7美分，涨幅0.08%。",
           "url": "https://flash.jin10.com/detail/20260813024705554800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
         },
@@ -188,7 +203,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
         }
@@ -196,7 +211,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
@@ -206,8 +221,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时49分 ~ 03时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时49分 ~ 04时32分]"
         },
         {
           "title": "光速关服,AI虚拟歌姬停运",
@@ -217,8 +232,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时49分 ~ 03时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时49分 ~ 04时32分]"
         },
         {
           "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
@@ -228,8 +243,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时49分 ~ 03时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时49分 ~ 04时32分]"
         },
         {
           "title": "腾讯电话会：AI投入回报空间已现，WorkBuddy毛利率已显著改善，算力出租为“安全垫”",
@@ -239,8 +254,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时49分 ~ 03时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时49分 ~ 04时32分]"
+        },
+        {
+          "title": "如何看待杨奇回应《黑神话：钟馗》进度「设计阶段会远离 AIGC 工具，诺兰的奥德赛也是古法创作」？",
+          "url": "https://www.zhihu.com/question/2070508935673378471",
+          "source": "知乎",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时46分 ~ 04时32分]"
         },
         {
           "title": "三角洲AI夏日晚会",
@@ -267,17 +294,6 @@
           "time_info": "[02时46分 ~ 03时56分]"
         },
         {
-          "title": "如何看待杨奇回应《黑神话：钟馗》进度「设计阶段会远离 AIGC 工具，诺兰的奥德赛也是古法创作」？",
-          "url": "https://www.zhihu.com/question/2070508935673378471",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时46分 ~ 03时56分]"
-        },
-        {
           "title": "SpaceXAI宣布推出Grok 4.6",
           "url": "https://wallstreetcn.com/livenews/3148703",
           "source": "华尔街见闻-快讯",
@@ -288,6 +304,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时50分 ~ 02时46分]"
+        },
+        {
+          "title": "AI概念股飙升，存储芯片股方面，SK海力士涨超9%，闪迪涨超5%，西部数据涨超3%，希捷涨超7%，美光科技涨超4%；半导体设备股方面，应用材料涨超4%，泛林集团涨超4%，科磊涨超3%；新一代AI云服务公司方面，Nebius涨超34%，CoreWeave涨超19%；光通信和光子产品公司方面，Lumentum涨超13%，Coherent涨超8%，康宁涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3148753",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时32分"
         },
         {
           "title": "消息人士称，上周谷歌(GOOG.O)高管召开全体员工大会，讨论人工智能部门重组事宜，以回应员工的担忧。",
@@ -336,8 +363,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时49分 ~ 03时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时49分 ~ 04时32分]"
         },
         {
           "title": "美国7月CPI通胀全面符合预期 美联储9月加息预期进一步降温 金价刷新日内高点",
@@ -347,8 +374,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时49分 ~ 03时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时49分 ~ 04时32分]"
         },
         {
           "title": "算力租赁、光通信利好不断 美国7月CPI平稳落地 | 今夜看点",
@@ -358,19 +385,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时49分 ~ 03时56分]"
-        },
-        {
-          "title": "周三（8月12日）纽约尾盘，2年期至7年期美债收益率日内微跌，长端收益率基本持平。此前7月CPI数据表现温和，交易员小幅下调了对美联储未来几个月加息次数的押注。 美国10年期国债收益率涨0.21个基点，报4.684%。 两年期美债收益率跌0.64个基点，报4.197%；30年期美债收益率涨0.96个基点，报5.250%。 受美债标售及大宗交易推动，2年期与10年期美债收益率价差一度触及49个基点，创下5月中旬以来的最阔水平，曲线趋陡态势明显。 10年期通胀保值国债（TIPS）收益率跌0.56个基点，至2.414%；30年期TIPS收益率跌0.2个基点，至3.013%。",
-          "url": "https://wallstreetcn.com/livenews/3148749",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时56分"
+          "appearance_count": 5,
+          "time_info": "[01时49分 ~ 04时32分]"
         },
         {
           "title": "今晚美国CPI料温和放缓，9月加息预期或再遭一击！",
@@ -380,8 +396,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时49分 ~ 03时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时49分 ~ 04时32分]"
         },
         {
           "title": "美银：今夜CPI“下行意外”影响更大，若核心CPI意外走低或将排除9月加息",
@@ -391,8 +407,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时49分 ~ 03时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时49分 ~ 04时32分]"
         },
         {
           "title": "央行：综合运用并适时调整货币政策工具 保持流动性充裕和社会融资条件相对宽松",
@@ -402,8 +418,44 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时49分 ~ 03时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时49分 ~ 04时32分]"
+        },
+        {
+          "title": "周三（8月12日）纽约尾盘，2年期至7年期美债收益率日内微跌，长端收益率基本持平。此前7月CPI数据表现温和，交易员小幅下调了对美联储未来几个月加息次数的押注。 美国10年期国债收益率涨0.21个基点，报4.684%。 两年期美债收益率跌0.64个基点，报4.197%；30年期美债收益率涨0.96个基点，报5.250%。 受美债标售及大宗交易推动，2年期与10年期美债收益率价差一度触及49个基点，创下5月中旬以来的最阔水平，曲线趋陡态势明显。 10年期通胀保值国债（TIPS）收益率跌0.56个基点，至2.414%；30年期TIPS收益率跌0.2个基点，至3.013%。",
+          "url": "https://wallstreetcn.com/livenews/3148749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时56分 ~ 04时32分]"
+        },
+        {
+          "title": "央行将开展隔夜逆回购操作",
+          "url": "https://www.douyin.com/hot/2607310",
+          "source": "抖音",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时56分 ~ 04时32分]"
+        },
+        {
+          "title": "市场消息：英国央行前副行长兼国际货币基金组织董事米努什·沙菲克已卸任英国首相首席经济顾问一职。",
+          "url": "https://flash.jin10.com/detail/20260813032249789800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时56分 ~ 04时32分]"
         },
         {
           "title": "俄罗斯7月CPI环比上涨0.54%，预估增幅为0.68%。俄罗斯7月CPI同比上涨5.98%；预估增幅为6.10%。",
@@ -416,28 +468,58 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时50分 ~ 02时46分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房地产 房价 楼市 LPR",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "【每日收评】双创指数均涨超1%，算力硬件股全线反弹，房地产板块异军突起",
+          "url": "https://www.cls.cn/detail/2452399",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时49分 ~ 04时32分]"
         },
         {
-          "title": "央行将开展隔夜逆回购操作",
-          "url": "https://www.douyin.com/hot/2607310",
-          "source": "抖音",
+          "title": "周三（8月12日），美股行业ETF普遍收涨，半导体ETF收涨2.32%，KBW银行ETF涨1.08%，房地产ETF涨0.91%，机器人与人工智能ETF涨0.88%，地区银行ETF涨0.74%。太阳能ETF则收跌0.70%，可选消费ETF收跌1.15%。",
+          "url": "https://wallstreetcn.com/livenews/3148756",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时56分"
+          "time_info": "04时32分"
         },
         {
-          "title": "市场消息：英国央行前副行长兼国际货币基金组织董事米努什·沙菲克已卸任英国首相首席经济顾问一职。",
-          "url": "https://flash.jin10.com/detail/20260813032249789800",
+          "title": "新西兰房地产协会：7月份调整后的中位房价较去年下降0.6%。",
+          "url": "https://flash.jin10.com/detail/20260813033143203800",
           "source": "金十数据",
           "ranks": [
-            14
+            7,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时56分 ~ 04时32分]"
+        },
+        {
+          "title": "新西兰房地产协会：7月份调整后的中位房价较6月份下降0.5%。",
+          "url": "https://flash.jin10.com/detail/20260813033113695800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时56分 ~ 04时32分]"
         }
       ]
     },
@@ -454,20 +536,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时49分 ~ 03时56分]"
-        },
-        {
-          "title": "荣耀发布首款机器人手机 9999元起售",
-          "url": "https://www.baidu.com/s?wd=%E8%8D%A3%E8%80%80%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA+9999%E5%85%83%E8%B5%B7%E5%94%AE",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时49分 ~ 03时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时49分 ~ 04时32分]"
         },
         {
           "title": "《王者荣耀世界》第二赛季无限期延期，官方补偿 6500 玄晶加 10 连抽，玩家会买账吗？",
@@ -475,6 +545,18 @@
           "source": "知乎",
           "ranks": [
             11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时49分 ~ 04时32分]"
+        },
+        {
+          "title": "荣耀发布首款机器人手机 9999元起售",
+          "url": "https://www.baidu.com/s?wd=%E8%8D%A3%E8%80%80%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA+9999%E5%85%83%E8%B5%B7%E5%94%AE",
+          "source": "百度热搜",
+          "ranks": [
+            6,
             12
           ],
           "is_new": false,
@@ -492,45 +574,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时49分 ~ 03时56分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "房地产 房价 楼市 LPR",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "【每日收评】双创指数均涨超1%，算力硬件股全线反弹，房地产板块异军突起",
-          "url": "https://www.cls.cn/detail/2452399",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时49分 ~ 03时56分]"
-        },
-        {
-          "title": "新西兰房地产协会：7月份调整后的中位房价较去年下降0.6%。",
-          "url": "https://flash.jin10.com/detail/20260813033143203800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时56分"
-        },
-        {
-          "title": "新西兰房地产协会：7月份调整后的中位房价较6月份下降0.5%。",
-          "url": "https://flash.jin10.com/detail/20260813033113695800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时56分"
         }
       ]
     },
@@ -587,8 +630,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时49分 ~ 03时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时49分 ~ 04时32分]"
         },
         {
           "title": "新能源汽车迎来两个“首次”突破",
@@ -597,11 +640,12 @@
           "ranks": [
             7,
             18,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时49分 ~ 03时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时49分 ~ 04时32分]"
         }
       ]
     },
@@ -614,11 +658,12 @@
           "url": "https://www.douyin.com/hot/2607298",
           "source": "抖音",
           "ranks": [
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时49分 ~ 01时50分]"
+          "appearance_count": 3,
+          "time_info": "[01时49分 ~ 04时32分]"
         }
       ]
     },
@@ -634,8 +679,25 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时49分 ~ 03时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时49分 ~ 04时32分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英伟达 台积电 AMD 高通",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "“英伟达挑战者”CEREBRAS Q2营收翻倍但亏损依旧，盘后跳水逾12%",
+          "url": "https://wallstreetcn.com/livenews/3148760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时32分"
         }
       ]
     }
