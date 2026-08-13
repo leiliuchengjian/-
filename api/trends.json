@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T04:31:12.588277+08:00",
-  "total_titles_processed": 504,
+  "generated_at": "2026-08-14T05:34:51.159520+08:00",
+  "total_titles_processed": 557,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 27,
+      "match_count": 33,
       "titles": [
         {
           "title": "业绩增长超预期 中芯国际Q2销售收入达30亿美元 产能利用率进一步提升",
@@ -15,8 +15,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 04时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 05时34分]"
+        },
+        {
+          "title": "史上最大IPO要易主了？据称Anthropic将于10月IPO，估值或突破2万亿美元",
+          "url": "https://www.cls.cn/detail/2453351",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 05时34分]"
         },
         {
           "title": "消息人士：底特律汽车制造商将向白宫表示，修订后的北美贸易协定可能会给其带来数十亿美元的成本。",
@@ -30,27 +42,15 @@
           "time_info": "00时45分"
         },
         {
-          "title": "史上最大IPO要易主了？据称Anthropic将于10月IPO，估值或突破2万亿美元",
-          "url": "https://www.cls.cn/detail/2453351",
-          "source": "财联社热门",
+          "title": "阿根廷LNG项目申请加入RIGI激励制度，涉及投资规模510亿美元。",
+          "url": "https://flash.jin10.com/detail/20260814051307220800",
+          "source": "金十数据",
           "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 04时31分]"
-        },
-        {
-          "title": "美光科技：美光风投基金总承诺出资规模增至 5.5 亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3149309",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时31分"
+          "time_info": "05时34分"
         },
         {
           "title": "上期所原油期货2609合约夜盘收涨0.79%，报558.60元人民币/桶。 沪金夜盘收跌1.16%，沪银收跌1.47%。",
@@ -64,6 +64,17 @@
           "time_info": "02时46分"
         },
         {
+          "title": "周四（8月13日）纽约尾盘（周五北京时间04:59），美元兑离岸人民币（CNH）报6.7444元，较周三纽约尾盘跌14点，日内整体交投于6.74793-6.74218元区间。",
+          "url": "https://wallstreetcn.com/livenews/3149328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时34分"
+        },
+        {
           "title": "美国原油期货结算价为每桶81.25美元，下跌2.02美元，跌幅2.43%。",
           "url": "https://flash.jin10.com/detail/20260814023513124800",
           "source": "金十数据",
@@ -73,6 +84,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
+        },
+        {
+          "title": "周四（8月13日）纽约尾盘，现货黄金跌1.34%，报4350.20美元/盎司。 现货白银跌1.43%，报64.427美元/盎司，日内震荡下行，交投于66.303-64.219美元。 COMEX铜期货跌0.35%，报6.5326美元/磅，盘中一度走V收复跌幅，美PPI数据后较日高回落收跌。",
+          "url": "https://wallstreetcn.com/livenews/3149326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时34分"
         },
         {
           "title": "Anthropic IPO前密会投资者 2万亿美元估值非官方目标",
@@ -98,6 +120,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时45分 ~ 02时46分]"
+        },
+        {
+          "title": "美光科技：美光风投基金总承诺出资规模增至 5.5 亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3149309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时31分 ~ 05时34分]"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了1个对手方的4.5亿美元。",
@@ -153,7 +187,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -164,9 +198,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "伊朗将9月销往亚洲的伊朗轻质原油价格定为阿曼/迪拜基准价贴水4.70美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260814044923170800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时34分"
+        },
+        {
+          "title": "泛林集团计划在未来五年内投资超过30亿美元，以扩大其全球实验室网络，目标是将实验产能提升50%以上。",
+          "url": "https://wallstreetcn.com/livenews/3149319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时34分"
         },
         {
           "title": "美联储：经季节性调整后，美国未偿商业票据余额在8月12日当周增加16亿美元；经非季节性调整后，美国未偿商业票据余额在8月12日当周减少11亿美元，美国未偿外国金融商业票据余额在8月12日当周增加109亿美元。",
@@ -186,7 +242,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -208,9 +264,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "据华尔街日报：美国总统特朗普下令海军移除航母电磁弹射系统，恢复蒸汽弹射方案，预计相关改装将推高成本数十亿美元。",
+          "url": "https://flash.jin10.com/detail/20260814043950826800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时34分"
         },
         {
           "title": "周四（8月13日）纽约尾盘，美元兑日元涨0.05%，报159.51日元，日内交投区间为159.016-159.560日元。",
@@ -219,7 +286,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -230,7 +297,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -241,7 +308,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -252,7 +319,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -263,7 +330,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -274,7 +341,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -285,7 +352,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -296,7 +363,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -307,7 +374,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         }
@@ -325,19 +392,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 04时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 05时34分]"
         },
         {
           "title": "受益AI需求外溢，中芯国际Q2营收突破30亿美元，净利暴增近4倍，Q3收入环比预增2%至4%｜财报见闻",
           "url": "https://wallstreetcn.com/articles/3779371",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 04时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 05时34分]"
         },
         {
           "title": "用AI给小时候的自己做头像",
@@ -345,11 +413,12 @@
           "source": "抖音",
           "ranks": [
             13,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 04时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 05时34分]"
         },
         {
           "title": "AI拍出中国版怪奇物语",
@@ -361,8 +430,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 04时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 05时34分]"
         },
         {
           "title": "用AI给朋友做个专属小游戏",
@@ -375,8 +444,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 04时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 05时34分]"
         },
         {
           "title": "光速关服,AI虚拟歌姬停运",
@@ -387,8 +456,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 04时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 05时34分]"
         },
         {
           "title": "OpenAI：GPT-5.6 Sol超高速模式（UltraFast Mode）已向部分客户群体开放有限预览。",
@@ -465,7 +534,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -553,7 +622,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         }
@@ -572,11 +641,12 @@
             14,
             7,
             21,
-            9
+            9,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 04时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 05时34分]"
         },
         {
           "title": "iPhone18系列发布节奏确认",
@@ -616,6 +686,18 @@
           "time_info": "[01时49分 ~ 04时31分]"
         },
         {
+          "title": "周四（8月13日），万得美国科技股七巨头（Magnificent 7）指数涨0.82%。 特斯拉涨3.80%，Meta Platforms涨2.74%，苹果涨1.01%，微软涨0.90%，英伟达涨0.56%，谷歌涨0.44%，亚马逊跌0.80%。",
+          "url": "https://wallstreetcn.com/livenews/3149305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时31分 ~ 05时34分]"
+        },
+        {
           "title": "苹果(AAPL.O)在休斯顿投资数亿美元，首批先进AI服务器已发货。",
           "url": "https://flash.jin10.com/detail/20260814023226248800",
           "source": "金十数据",
@@ -625,17 +707,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
-        },
-        {
-          "title": "周四（8月13日），万得美国科技股七巨头（Magnificent 7）指数涨0.82%。 特斯拉涨3.80%，Meta Platforms涨2.74%，苹果涨1.01%，微软涨0.90%，英伟达涨0.56%，谷歌涨0.44%，亚马逊跌0.80%。",
-          "url": "https://wallstreetcn.com/livenews/3149305",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时31分"
         },
         {
           "title": "苹果(AAPL.O)：宣布将在今年开始在休斯顿生产Mac Mini，并在休斯顿开设先进制造中心。",
@@ -663,8 +734,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 04时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 05时34分]"
         },
         {
           "title": "标普冲击新高 费城半导体指数即将重回“牛市” | 今夜看点",
@@ -675,19 +746,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 04时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 05时34分]"
         },
         {
           "title": "截至8月13日，已有30余家北交所上市公司披露2026年半年报，企业成长成色初现。总体来看，已披露半年报的公司业绩表现抢眼，约三分之一企业上半年归母净利润同比增长超80%。算力服务、新能源、半导体等高景气赛道成为拉动业绩增长的核心引擎，凸显北交所“专精特新”企业的成长活力。（经济参考报）",
           "url": "https://wallstreetcn.com/livenews/3149302",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时31分 ~ 05时34分]"
         },
         {
           "title": "美股存储芯片股大涨，闪迪涨逾15%",
@@ -699,6 +771,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "央行 降息 降准 CPI 物价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
+          "url": "https://wallstreetcn.com/articles/3779257",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 05时34分]"
+        },
+        {
+          "title": "韩国7月进口物价指数年率 18.7%，前值由20.60%修正为20.9%。",
+          "url": "https://flash.jin10.com/detail/20260814050002152800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时34分"
+        },
+        {
+          "title": "韩国7月出口物价指数年率 49.1%，前值由48.90%修正为48.7%。",
+          "url": "https://flash.jin10.com/detail/20260814050002110800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时34分"
+        },
+        {
+          "title": "加拿大央行：加拿大投资市场协会（CIMPA）和加拿大存管机构（CDS）宣布针对加拿大政府证券交易的\"失败费用框架\"启动试行期。",
+          "url": "https://flash.jin10.com/detail/20260814032421111800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         }
       ]
     },
@@ -716,8 +838,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 04时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 05时34分]"
         },
         {
           "title": "如何评价 9999 元起售的荣耀 RobotPhone，有哪些亮点值得关注？",
@@ -735,30 +857,36 @@
       ]
     },
     {
-      "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 2,
+      "keyword_group": "房地产 房价 楼市 LPR",
+      "match_count": 1,
       "titles": [
         {
-          "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
-          "url": "https://wallstreetcn.com/articles/3779257",
-          "source": "华尔街见闻",
+          "title": "周四（8月13日），美股行业ETF普遍收涨，房地产ETF涨1.42%，日常消费ETF涨1.07%，半导体ETF涨0.76%，金融精选ETF涨0.56%，太阳能ETF、可选消费ETF、地区银行、公用事业ETF涨0.42%-0.48%不等。医疗保健ETF则微跌0.04%。",
+          "url": "https://wallstreetcn.com/livenews/3149311",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 04时31分]"
-        },
-        {
-          "title": "加拿大央行：加拿大投资市场协会（CIMPA）和加拿大存管机构（CDS）宣布针对加拿大政府证券交易的\"失败费用框架\"启动试行期。",
-          "url": "https://flash.jin10.com/detail/20260814032421111800",
-          "source": "金十数据",
-          "ranks": [
-            14
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时31分"
+          "time_info": "05时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "基础设施 基建 地铁 高铁",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "母亲报警赶高铁回家24岁儿子已离世",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E6%8A%A5%E8%AD%A6%E8%B5%B6%E9%AB%98%E9%93%81%E5%9B%9E%E5%AE%B624%E5%B2%81%E5%84%BF%E5%AD%90%E5%B7%B2%E7%A6%BB%E4%B8%96%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时34分"
         }
       ]
     },
@@ -809,11 +937,12 @@
           "source": "知乎",
           "ranks": [
             20,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时46分 ~ 04时31分]"
+          "appearance_count": 4,
+          "time_info": "[02时46分 ~ 05时34分]"
         }
       ]
     },
@@ -828,11 +957,12 @@
           "ranks": [
             24,
             22,
-            7
+            7,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 02时46分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 05时34分]"
         }
       ]
     }
