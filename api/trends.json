@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T09:01:43.331045+08:00",
-  "total_titles_processed": 807,
+  "generated_at": "2026-08-14T11:24:21.981334+08:00",
+  "total_titles_processed": 977,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "业绩增长超预期 中芯国际Q2销售收入达30亿美元 产能利用率进一步提升",
@@ -241,6 +241,17 @@
           "time_info": "01时49分"
         },
         {
+          "title": "新台币兑美元升破32关口，为7月份以来首次。",
+          "url": "https://wallstreetcn.com/livenews/3149434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        },
+        {
           "title": "WTI 9月原油期货下跌2.02美元，收于每桶81.25美元，跌幅为2.43%。 布伦特10月原油期货下跌1.91美元，收于每桶87.07美元，跌幅为2.15%。",
           "url": "https://wallstreetcn.com/livenews/3149297",
           "source": "华尔街见闻-快讯",
@@ -382,23 +393,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "人民币兑美元中间价创2023年2月8日以来新高",
+          "url": "https://wallstreetcn.com/livenews/3149403",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时24分"
         }
       ]
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 27,
+      "match_count": 34,
       "titles": [
         {
           "title": "AI给假网,吧友中招银狐病毒",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357340&amp;topic_name=AI%E7%BB%99%E5%81%87%E7%BD%91%2C%E5%90%A7%E5%8F%8B%E4%B8%AD%E6%8B%9B%E9%93%B6%E7%8B%90%E7%97%85%E6%AF%92",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 09时01分]"
+          "appearance_count": 12,
+          "time_info": "[00时44分 ~ 11时24分]"
         },
         {
           "title": "受益AI需求外溢，中芯国际Q2营收突破30亿美元，净利暴增近4倍，Q3收入环比预增2%至4%｜财报见闻",
@@ -411,8 +434,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 09时01分]"
+          "appearance_count": 12,
+          "time_info": "[00时44分 ~ 11时24分]"
         },
         {
           "title": "用AI给小时候的自己做头像",
@@ -426,8 +449,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 09时01分]"
+          "appearance_count": 12,
+          "time_info": "[00时44分 ~ 11时24分]"
         },
         {
           "title": "用AI给朋友做个专属小游戏",
@@ -440,11 +463,12 @@
             23,
             18,
             13,
-            22
+            22,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 09时01分]"
+          "appearance_count": 12,
+          "time_info": "[00时44分 ~ 11时24分]"
         },
         {
           "title": "AI拍出中国版怪奇物语",
@@ -459,8 +483,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 09时01分]"
+          "appearance_count": 12,
+          "time_info": "[00时44分 ~ 11时24分]"
         },
         {
           "title": "光速关服,AI虚拟歌姬停运",
@@ -468,11 +492,23 @@
           "source": "贴吧",
           "ranks": [
             25,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 09时01分]"
+          "appearance_count": 12,
+          "time_info": "[00时44分 ~ 11时24分]"
+        },
+        {
+          "title": "下黑手！特朗普政府开发AI工具打击贸易伙伴：让你们帮中国",
+          "url": "https://news.ifeng.com/c/8vYz7iCdmvg",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时24分"
         },
         {
           "title": "OpenAI：GPT-5.6 Sol超高速模式（UltraFast Mode）已向部分客户群体开放有限预览。",
@@ -520,6 +556,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时45分 ~ 01时49分]"
+        },
+        {
+          "title": "戚薇推出数字分身，成为首位内娱开放 AI 授权的艺人，明星拥抱数字分身将带来哪些新变化？",
+          "url": "https://www.zhihu.com/question/2068993919958742400",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时24分"
         },
         {
           "title": "OpenAI：丹尼斯·德雷瑟将在过渡期后离开OpenAI，寻求其他发展机会。",
@@ -588,6 +635,17 @@
           "time_info": "07时31分"
         },
         {
+          "title": "AI交易降温后银行股受益 华尔街押注金融板块延续上涨",
+          "url": "https://www.cls.cn/detail/2453846",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        },
+        {
           "title": "OpenAI在不到一年内任命新首席营收官。",
           "url": "https://flash.jin10.com/detail/20260813235531398800",
           "source": "金十数据",
@@ -649,9 +707,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "LG与英伟达签署关于机器人、AI工厂和行动技术的备忘录。",
+          "url": "https://wallstreetcn.com/livenews/3149425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时24分"
         },
         {
           "title": "人工智能芯片制造商Cerebras：数据中心对所有人都是挑战。",
@@ -676,6 +745,17 @@
           "time_info": "02时46分"
         },
         {
+          "title": "AI再次推进黎曼猜想进度",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%86%8D%E6%AC%A1%E6%8E%A8%E8%BF%9B%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E8%BF%9B%E5%BA%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        },
+        {
           "title": "市场消息：OpenAI年化营收在IPO前已突破400亿美元。",
           "url": "https://flash.jin10.com/detail/20260814053819730800",
           "source": "金十数据",
@@ -685,6 +765,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        },
+        {
+          "title": "A股AI应用方向开盘拉升，理工能科2连板，石基信息、久其软件直线涨停，大恒科技、合合信息、达梦数据跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3149415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时24分"
         },
         {
           "title": "OpenAI营收部门二度换帅 加速营收增长为上市铺路",
@@ -707,12 +798,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "中芯国际赵海军：下半年人工智能产生的产业推动与溢出效应还将持续",
+          "url": "https://wallstreetcn.com/livenews/3149402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时24分"
         }
       ]
     },
     {
       "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
@@ -724,6 +826,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时44分 ~ 06时31分]"
+        },
+        {
+          "title": "中国人民银行副行长邹澜出席金砖国家财长和央行行长会议",
+          "url": "https://wallstreetcn.com/livenews/3149450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时24分"
         },
         {
           "title": "秘鲁央行维持基准利率在4.25%不变。",
@@ -743,7 +856,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         },
@@ -782,15 +895,37 @@
           "time_info": "05时34分"
         },
         {
+          "title": "央行开展10000亿元买断式逆回购",
+          "url": "https://www.douyin.com/hot/2608549",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        },
+        {
           "title": "日元维持盘整 日本央行加息预期或提供支撑",
           "url": "https://flash.jin10.com/detail/20260814082523233800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "中国人民银行副行长邹澜出席金砖国家财长和央行行长会议",
+          "url": "https://flash.jin10.com/detail/20260814105909204800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时24分"
         },
         {
           "title": "加拿大央行：加拿大投资市场协会（CIMPA）和加拿大存管机构（CDS）宣布针对加拿大政府证券交易的\"失败费用框架\"启动试行期。",
@@ -810,7 +945,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         },
@@ -821,7 +956,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         },
@@ -832,7 +967,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         },
@@ -843,9 +978,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "中国央行连续4日7天期逆回购操作量为零。同时，开展了3490亿元隔夜逆回购操作。今日10亿元逆回购到期。",
+          "url": "https://wallstreetcn.com/livenews/3149406",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时24分"
         },
         {
           "title": "中信证券：下阶段央行或继续加大金融对于实体经济的支持力度",
@@ -854,7 +1000,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         }
@@ -876,11 +1022,12 @@
             9,
             20,
             12,
-            10
+            10,
+            23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 09时01分]"
+          "appearance_count": 12,
+          "time_info": "[00时44分 ~ 11时24分]"
         },
         {
           "title": "iPhone18系列发布节奏确认",
@@ -961,7 +1108,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         }
@@ -969,7 +1116,7 @@
     },
     {
       "keyword_group": "半导体 芯片 集成电路",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "费城半导体指数即将重回技术性牛市 华尔街怎么看？",
@@ -990,11 +1137,12 @@
           "ranks": [
             11,
             9,
-            10
+            10,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 09时01分]"
+          "appearance_count": 12,
+          "time_info": "[00时44分 ~ 11时24分]"
         },
         {
           "title": "截至8月13日，已有30余家北交所上市公司披露2026年半年报，企业成长成色初现。总体来看，已披露半年报的公司业绩表现抢眼，约三分之一企业上半年归母净利润同比增长超80%。算力服务、新能源、半导体等高景气赛道成为拉动业绩增长的核心引擎，凸显北交所“专精特新”企业的成长活力。（经济参考报）",
@@ -1009,6 +1157,17 @@
           "time_info": "[04时31分 ~ 05时34分]"
         },
         {
+          "title": "创业板指涨超1%，沪指跌0.1%，深成指涨0.51%，电子特气、CPO、存储芯片、6G等方向领涨，沪深京三市上涨个股超2400只。",
+          "url": "https://wallstreetcn.com/livenews/3149418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        },
+        {
           "title": "中国两大芯片巨头业绩超预期",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%B8%A4%E5%A4%A7%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4%E4%B8%9A%E7%BB%A9%E8%B6%85%E9%A2%84%E6%9C%9F%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -1018,6 +1177,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "A股存储芯片板块开盘活跃，阿莱德涨超10%，联芸科技、普冉股份、兆易创新、德明利、长鑫科技等集体高开。",
+          "url": "https://wallstreetcn.com/livenews/3149410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时24分"
         },
         {
           "title": "美股存储芯片股大涨，闪迪涨逾15%",
@@ -1034,7 +1204,7 @@
     },
     {
       "keyword_group": "华为 小米 荣耀",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "红米新品发布后，小米高管回应网友评论称「内存实在太贵了」，反映了当前手机行业哪些挑战？",
@@ -1065,6 +1235,17 @@
           "time_info": "[00时44分 ~ 09时01分]"
         },
         {
+          "title": "华为“天才少年”宁博宇回应离职",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E2%80%9C%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4%E2%80%9D%E5%AE%81%E5%8D%9A%E5%AE%87%E5%9B%9E%E5%BA%94%E7%A6%BB%E8%81%8C",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        },
+        {
           "title": "专访离职的华为“天才少年”宁博宇",
           "url": "https://www.toutiao.com/trending/7673369650491326507/",
           "source": "今日头条",
@@ -1075,6 +1256,57 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时30分 ~ 07时31分]"
+        },
+        {
+          "title": "小米升降车标专利曝光：提高车辆续航",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%8D%87%E9%99%8D%E8%BD%A6%E6%A0%87%E4%B8%93%E5%88%A9%E6%9B%9D%E5%85%89%EF%BC%9A%E6%8F%90%E9%AB%98%E8%BD%A6%E8%BE%86%E7%BB%AD%E8%88%AA",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英伟达 台积电 AMD 高通",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "文件显示AMD的47.5亿美元高级无担保票据发行定价方案已确定，共分为四个批次。",
+          "url": "https://wallstreetcn.com/livenews/3149335",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时31分]"
+        },
+        {
+          "title": "LG牵手英伟达 明年一季度将推出新一代人形机器人",
+          "url": "https://flash.jin10.com/detail/20260814105127184800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        },
+        {
+          "title": "报道：AMD拟发行投资级债券 筹资最高50亿美元",
+          "url": "https://wallstreetcn.com/livenews/3149234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时45分"
         }
       ]
     },
@@ -1109,38 +1341,20 @@
       ]
     },
     {
-      "keyword_group": "英伟达 台积电 AMD 高通",
+      "keyword_group": "基础设施 基建 地铁 高铁",
       "match_count": 2,
       "titles": [
         {
-          "title": "文件显示AMD的47.5亿美元高级无担保票据发行定价方案已确定，共分为四个批次。",
-          "url": "https://wallstreetcn.com/livenews/3149335",
-          "source": "华尔街见闻-快讯",
+          "title": "这些硬核基建共同回答了一个问题",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E7%A1%AC%E6%A0%B8%E5%9F%BA%E5%BB%BA%E5%85%B1%E5%90%8C%E5%9B%9E%E7%AD%94%E4%BA%86%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98",
+          "source": "百度热搜",
           "ranks": [
-            8,
-            17
+            3
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时31分 ~ 07时31分]"
-        },
-        {
-          "title": "报道：AMD拟发行投资级债券 筹资最高50亿美元",
-          "url": "https://wallstreetcn.com/livenews/3149234",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "基础设施 基建 地铁 高铁",
-      "match_count": 1,
-      "titles": [
+          "time_info": "11时24分"
+        },
         {
           "title": "母亲报警赶高铁回家24岁儿子已离世",
           "url": "https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E6%8A%A5%E8%AD%A6%E8%B5%B6%E9%AB%98%E9%93%81%E5%9B%9E%E5%AE%B624%E5%B2%81%E5%84%BF%E5%AD%90%E5%B7%B2%E7%A6%BB%E4%B8%96%23&t=31&band_rank=20&Refer=top",
@@ -1157,7 +1371,7 @@
     },
     {
       "keyword_group": "特斯拉 比亚迪 问界 蔚来 理想",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "比亚迪秦MAX上市",
@@ -1172,6 +1386,34 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时44分 ~ 04时31分]"
+        },
+        {
+          "title": "【数读IPO】背靠宁德时代、比亚迪等，智能制造领域领军企业今日申购",
+          "url": "https://www.cls.cn/detail/2454007",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "创业板",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上证指数开盘报3930.02点，涨0.08%。 深证成指开盘报14335.41点，涨0.32%。 创业板指开盘报3610.19点，涨0.67%。 沪深300开盘报4672.98点，涨0.19%。 科创50开盘报1738.82点，涨1.23%。 中证500开盘报7989.65点，涨0.27%。 中证1000开盘报7750.99点，涨0.45%。",
+          "url": "https://wallstreetcn.com/livenews/3149407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时24分"
         }
       ]
     },
@@ -1188,11 +1430,12 @@
             18,
             17,
             12,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时46分 ~ 09时01分]"
+          "appearance_count": 9,
+          "time_info": "[02时46分 ~ 11时24分]"
         }
       ]
     },
@@ -1205,11 +1448,12 @@
           "url": "https://www.zhihu.com/question/2068274576514082601",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 11时24分]"
         }
       ]
     },
