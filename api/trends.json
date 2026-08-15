@@ -1,44 +1,34 @@
 {
-  "generated_at": "2026-08-15T05:16:04.942149+08:00",
-  "total_titles_processed": 497,
+  "generated_at": "2026-08-15T08:36:20.566231+08:00",
+  "total_titles_processed": 637,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元 人民币 汇率",
-      "match_count": 15,
+      "match_count": 21,
       "titles": [
         {
           "title": "中国7月新增社融1.41万亿元，人民币贷款减少3400亿，M2同比增长7.7%",
           "url": "https://wallstreetcn.com/articles/3779446",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时44分 ~ 05时16分]"
+          "appearance_count": 8,
+          "time_info": "[01时44分 ~ 08时36分]"
         },
         {
-          "title": "布伦特原油日内涨2%，现报88.89美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3149881",
-          "source": "华尔街见闻-快讯",
+          "title": "消息人士称，Anthropic预计2028年收入将达到1900亿至2000亿美元。",
+          "url": "https://flash.jin10.com/detail/20260815081946244800",
+          "source": "金十数据",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "哈佛大学披露持有SpaceX价值22亿美元的股权。",
-          "url": "https://wallstreetcn.com/livenews/3149879",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时16分"
+          "time_info": "08时36分"
         },
         {
           "title": "美国证券交易委员会文件显示，英特尔(INTC.O)CEO陈立武于8月11日在公开市场以平均每股95美元的价格购买了105,263股英特尔股票。",
@@ -47,7 +37,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -101,6 +91,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时54分 ~ 04时21分]"
+        },
+        {
+          "title": "布伦特原油日内涨2%，现报88.89美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3149881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 08时36分]"
+        },
+        {
+          "title": "哈佛大学披露持有SpaceX价值22亿美元的股权。",
+          "url": "https://wallstreetcn.com/livenews/3149879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 08时36分]"
         },
         {
           "title": "布伦特原油期货结算价为每桶88.52美元，上涨1.45美元，涨幅1.67%。",
@@ -157,7 +171,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -179,27 +193,82 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "据英国金融时报：简街（JaneStreet）在七月份录得约150亿美元的亏损。",
+          "url": "https://flash.jin10.com/detail/20260815053237241800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时36分"
+        },
+        {
+          "title": "Jane Street 7月遭遇约150亿美元巨亏",
+          "url": "https://wallstreetcn.com/livenews/3149892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时36分"
+        },
+        {
+          "title": "Anthropic二季度营收超115亿美元 较去年同期增长至少14倍",
+          "url": "https://wallstreetcn.com/livenews/3149891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时36分"
+        },
+        {
+          "title": "Anthropic二季度营收超115亿美元 较去年同期增长至少14倍",
+          "url": "https://flash.jin10.com/detail/20260815053103557800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时36分"
+        },
+        {
+          "title": "市场消息：Anthropic在2026年第二季度初步营收超过115亿美元，较上年同期至少增长了14倍，同时报告实现调整后营业利润为正。",
+          "url": "https://flash.jin10.com/detail/20260815051457331800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时36分"
         }
       ]
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
-          "title": "如何评价北京协和医院住院医用 AI 解决了困扰数学界的难题 Crouzeix 猜想？",
-          "url": "https://www.zhihu.com/question/2071486982732223991",
-          "source": "知乎",
+          "title": "英伟达CPO交换机全面量产，AI数据中心迈入“硅光时代”！",
+          "url": "https://wallstreetcn.com/articles/3779448",
+          "source": "华尔街见闻",
           "ranks": [
-            2,
-            3
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时44分 ~ 05时16分]"
+          "appearance_count": 8,
+          "time_info": "[01时44分 ~ 08时36分]"
         },
         {
           "title": "人工智能激活力 “新”意盎然促发展",
@@ -209,19 +278,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时44分 ~ 05时16分]"
-        },
-        {
-          "title": "英伟达CPO交换机全面量产，AI数据中心迈入“硅光时代”！",
-          "url": "https://wallstreetcn.com/articles/3779448",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时44分 ~ 05时16分]"
+          "appearance_count": 8,
+          "time_info": "[01时44分 ~ 08时36分]"
         },
         {
           "title": "中国AI把价格打下来，美国巨头一口气降80%",
@@ -231,19 +289,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时44分 ~ 05时16分]"
+          "appearance_count": 8,
+          "time_info": "[01时44分 ~ 08时36分]"
         },
         {
-          "title": "围棋与境界、修养之类的东西毫无关系，能赢是因为计算力强，这么明显的道理在 AI 以前人们怎么不懂？",
-          "url": "https://www.zhihu.com/question/2068917345393940011",
+          "title": "如何评价北京协和医院住院医用 AI 解决了困扰数学界的难题 Crouzeix 猜想？",
+          "url": "https://www.zhihu.com/question/2071486982732223991",
           "source": "知乎",
           "ranks": [
-            10
+            2,
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时44分 ~ 05时16分]"
+          "appearance_count": 8,
+          "time_info": "[01时44分 ~ 08时36分]"
         },
         {
           "title": "AI给假网,吧友中招银狐病毒",
@@ -253,8 +313,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时44分 ~ 05时16分]"
+          "appearance_count": 8,
+          "time_info": "[01时44分 ~ 08时36分]"
         },
         {
           "title": "用AI给小时候的自己做头像",
@@ -263,7 +323,19 @@
           "ranks": [
             21,
             24,
-            20
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时44分 ~ 08时36分]"
+        },
+        {
+          "title": "围棋与境界、修养之类的东西毫无关系，能赢是因为计算力强，这么明显的道理在 AI 以前人们怎么不懂？",
+          "url": "https://www.zhihu.com/question/2068917345393940011",
+          "source": "知乎",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -280,6 +352,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时21分 ~ 05时16分]"
+        },
+        {
+          "title": "据华尔街日报：消息人士称，英伟达(NVDA.O)与OpenAI已修订在俄亥俄州10千兆瓦数据中心项目的交易提议结构。英伟达将保证5吉瓦的项目，将担保金额从2500亿美元降低至不足1200亿美元。",
+          "url": "https://flash.jin10.com/detail/20260815080428529800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时36分"
+        },
+        {
+          "title": "近日，富国基金旗下全资子公司富国资产管理（香港）有限公司获银河国际证券（新加坡）有限公司委任为投资顾问，为一只聚焦新加坡本地中小市值股票的主动管理型权益ETF提供选股支持。该产品已启动发行，预计后续将在新加坡交易所主板挂牌。 富国香港依托富国基金基本面与AI双轮驱动的量化模型体系，为该ETF提供选股决策支持。本次合作是公募基金“出海”模式升级的具体体现，表明中资资管机构在境外市场正逐步向能力端的投研服务者延伸。（证券日报）",
+          "url": "https://wallstreetcn.com/livenews/3149895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时36分"
         },
         {
           "title": "马斯克：由于电力供应不足以及地面设施审批困难，到2029年左右，轨道计算（即太空计算平台）可能是大规模扩展AI的唯一出路。",
@@ -315,6 +409,17 @@
           "time_info": "04时21分"
         },
         {
+          "title": "陈丹青谈AI对艺术的影响",
+          "url": "https://search.bilibili.com/all?keyword=%E9%99%88%E4%B8%B9%E9%9D%92%E8%B0%88AI%E5%AF%B9%E8%89%BA%E6%9C%AF%E7%9A%84%E5%BD%B1%E5%93%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时36分"
+        },
+        {
           "title": "美联储古尔斯比：若生产率继续走低，将需要重新审视关于AI的预期。",
           "url": "https://flash.jin10.com/detail/20260815003802424800",
           "source": "金十数据",
@@ -329,18 +434,19 @@
     },
     {
       "keyword_group": "英伟达 台积电 AMD 高通",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "英伟达官宣CPO交换机全面量产！硅光新时代来了？",
           "url": "https://www.cls.cn/detail/2454461",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时44分 ~ 05时16分]"
+          "appearance_count": 8,
+          "time_info": "[01时44分 ~ 08时36分]"
         },
         {
           "title": "AMD发行47.5亿美元债券，创公司最高规模发债纪录",
@@ -398,7 +504,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -409,7 +515,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -420,7 +526,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -445,6 +551,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
+        },
+        {
+          "title": "据美国证券交易委员会文件显示： THIRD POINT LLC已出售其持有的全部英伟达股份。同时将其持有的亚马逊公司股份减持9.8%，减持后持股数为180万股。",
+          "url": "https://wallstreetcn.com/livenews/3149889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时36分"
         }
       ]
     },
@@ -457,11 +574,12 @@
           "url": "https://www.cls.cn/detail/2454596",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时44分 ~ 05时16分]"
+          "appearance_count": 8,
+          "time_info": "[01时44分 ~ 08时36分]"
         },
         {
           "title": "索罗斯基金管理公司披露增持29,004股苹果(AAPL.O)股份，持仓升至529,538股。",
@@ -470,7 +588,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         }
@@ -488,8 +606,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时44分 ~ 05时16分]"
+          "appearance_count": 8,
+          "time_info": "[01时44分 ~ 08时36分]"
         },
         {
           "title": "阿里开源Qwen3.8，千问大模型全球下载超30亿次",
@@ -501,6 +619,63 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "创业板",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【焦点复盘】创业板指强势收复30日线，算力租赁概念再度爆发，光通信人气股录得20cm五连板",
+          "url": "https://www.cls.cn/detail/2454650",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时44分 ~ 08时36分]"
+        },
+        {
+          "title": "创业板缩量涨超1%，算力硬件集体拉升，恒科指跌近2%，京东大跌10%、华虹宏力跌12%",
+          "url": "https://wallstreetcn.com/articles/3779421",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "央行 降息 降准 CPI 物价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "央行将发行江泽民诞辰100周年纪念币",
+          "url": "https://www.cls.cn/detail/2454813",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时44分 ~ 08时36分]"
+        },
+        {
+          "title": "周五（8月14日）纽约尾盘，国际贵金属期货收盘涨跌不一。 现货黄金先跌后涨，日内涨幅0.6%，报4375.67美元/盎司，本周累计上涨0.81%。 COMEX黄金期货涨0.26%报4432.00美元/盎司，本周累计上涨0.73%。美国经济数据走弱令美联储加息预期降温，叠加中东局势不确定性，加上央行长期净增持黄金托底，共同支撑金价。 现货白银涨0.40%，报64.667美元/盎司，本周累涨超1.8%。 COMEX白银期货跌0.26%报64.83美元/盎司，本周累计上涨2.09%。",
+          "url": "https://wallstreetcn.com/livenews/3149887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时36分"
         }
       ]
     },
@@ -572,40 +747,6 @@
           "ranks": [
             7,
             5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时44分 ~ 05时16分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "创业板",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【焦点复盘】创业板指强势收复30日线，算力租赁概念再度爆发，光通信人气股录得20cm五连板",
-          "url": "https://www.cls.cn/detail/2454650",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时44分 ~ 05时16分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "央行 降息 降准 CPI 物价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "央行将发行江泽民诞辰100周年纪念币",
-          "url": "https://www.cls.cn/detail/2454813",
-          "source": "财联社热门",
-          "ranks": [
-            2
           ],
           "is_new": false,
           "appearance_count": 7,
